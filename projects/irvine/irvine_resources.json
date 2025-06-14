@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "5.2 Mt @ 3.0 g/t Au containing 420 kOz",
+    "source_sentence": "Exploration Target Range\\nProspect,Tonnes (Mt),Gold Grade (g/t),Gold Ounces (k Oz)\\nResolution,2.4-3.6,2.0-3.0,200-300\\nAdventure,1.0-1.6,2.0-3.2,80-120\\nTotal,3.4-5.2,2.0-3.0,280-420",
+    "resource_context": "Irvine Project - Total Exploration Target - High End",
+    "target_commodity": "Au",
+    "filename": "irvine_211.pdf",
+    "is_project_total": true
+  }
+]

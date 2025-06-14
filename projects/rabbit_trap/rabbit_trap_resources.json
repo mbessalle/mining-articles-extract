@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "15Kt Scandium",
+    "source_sentence": "Rio Tinto Burra (RIO.ASX) 15Kt Scandium, 21Kt Cobalt & 35Kt Nickel",
+    "resource_context": "Rio Tinto Burra",
+    "target_commodity": "Sc",
+    "filename": "rabbit_trap_355.pdf",
+    "is_project_total": false
+  }
+]

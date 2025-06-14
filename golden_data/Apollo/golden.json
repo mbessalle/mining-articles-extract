@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Ian Holland",
+    "justification": "Adelong Gold’s Managing Director, Ian Holland, commented..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Adelong Gold has executed a binding purchase agreement to acquire a 100% interest in EL006430..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "Cash Payment: $350,000 payable... (Currency is inferred as AUD due to ASX listing and project location)."
+  },
+  "cash_payments_raw": {
+    "value": 350000,
+    "justification": "Cash Payment: $350,000 payable within five (5) business days following satisfaction of all conditions precedent."
+  },
+  "share_payments_raw": {
+    "value": 350000,
+    "justification": "Share Consideration: Subject to shareholder approval, Adelong Gold will issue $350,000 worth of fully paid ordinary shares..."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as explicit cash and share values are provided (Priority 1)."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "Not applicable as an explicit total share value is provided (Priority 1)."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "Not applicable as an explicit total share value is provided (Priority 1)."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future plans for drilling are mentioned, but no specific meterage is defined as a contractual commitment in the deal terms."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "Future plans for exploration are mentioned, but no specific monetary value is defined as a contractual commitment in the deal terms."
+  },
+  "exploration_commitment_desc": {
+    "value": "Commence further exploration drilling and resource definition, targeting high-grade extensions and untested fault zones.",
+    "justification": "Adelong Gold is sufficiently funded and will move rapidly to commence further exploration drilling and resource definition, targeting high-grade extensions and untested fault zones."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned as part of this transaction's terms."
+  },
+  "coverage_area_raw": {
+    "value": 102,
+    "justification": "The Apollo Gold Project, covered by EL006430, encompasses approximately 102 km²..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...encompasses approximately 102 km²..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The announcement lists high-grade drill intercepts but does not state a formal JORC-compliant resource estimate for the Apollo project. The resource table provided is for the separate Adelong Gold Project."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:ADG",
+    "justification": "Adelong Gold Limited (ASX:ADG) (Adelong Gold or the Company) is pleased to announce..."
+  }
+}

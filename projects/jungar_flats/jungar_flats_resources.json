@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "647,000 tonnes @ 0.2 g/t Au containing 4,000 oz Au",
+    "source_sentence": "TOTAL 647,000 2.4 1.8 0.1 20 0.2 15,200 11,800 610 415,000 4,000",
+    "resource_context": "Mt Mulcahy South Limb Pod - Total Resource",
+    "target_commodity": "Au",
+    "filename": "jungar_flats_218.pdf",
+    "is_project_total": true
+  }
+]

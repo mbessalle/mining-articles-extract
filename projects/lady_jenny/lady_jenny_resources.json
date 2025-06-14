@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "0.706Mt @ 22.5g/t Au",
+    "source_sentence": "Tick Hill 0.706Mt @ 22.5g/t Au",
+    "resource_context": "Tick Hill Deposit - JORC Compliant Resource",
+    "target_commodity": "Au",
+    "filename": "lady_jenny_242.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "263Mt @ 0.62% Cu",
+    "source_sentence": "Mount Elliott 263Mt @ 0.62% Cu, 0.36g/t Au",
+    "resource_context": "Mount Elliott - JORC Compliant Resource",
+    "target_commodity": "Cu",
+    "is_project_total": false,
+    "filename": "lady_jenny_243.pdf"
+  }
+]

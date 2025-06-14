@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "752koz @ 3.5 g/t Au",
+    "source_sentence": "Ida Lithium and Gold deposits 14.6 Mt @ 1.2% Li2O 752koz @ 3.5 g/t Au",
+    "resource_context": "Delta Lithium (DLI) Ida Lithium and Gold deposits",
+    "target_commodity": "Au",
+    "filename": "evanston_139.pdf",
+    "is_project_total": false
+  }
+]

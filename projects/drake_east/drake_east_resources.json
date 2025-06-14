@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "300000m3 @ 1g/t Au containing 0.75t Au",
+    "source_sentence": "Current Resource Estimates 2001-09-01 Resource: 300000m3 Categ: Exploration Result Current Au: 0.75t Contained, Avg Grade: 1g/t Estimate",
+    "resource_context": "Lanikai West Gully alluvials - Exploration Result - Non-JORC Compliant Historical Estimate",
+    "target_commodity": "Au",
+    "filename": "drake_east_113.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "30% Sb",
+    "source_sentence": "Recent Legacy rock chip results (ASX announcement 26 February 2025) include 30% Sb and 0.38g/t Au (Sample 9979) from their Lunatic Prospect, which is 2.2km from Drake East (Figure 2).",
+    "resource_context": "Legacy Drake Project - Lunatic Prospect - Rock chip sample",
+    "target_commodity": "Sb",
+    "is_project_total": false,
+    "filename": "drake_east_115.pdf"
+  }
+]

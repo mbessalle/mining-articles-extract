@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "98.5 Mt @ 0.7 g/t Au, 2.25 Moz Au contained",
+    "source_sentence": "Karlawinda (ASX:CMM) 98.5Mt @ 0.7g/t Au for 2.25Moz",
+    "resource_context": "Karlawinda Gold Mine (ASX:CMM) - Map Label",
+    "target_commodity": "Au",
+    "filename": "sylvania_405.pdf",
+    "is_project_total": true
+  }
+]

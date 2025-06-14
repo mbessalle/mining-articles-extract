@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "5.45mt @ 1.1g/t Au containing 192,744 oz Au",
+    "source_sentence": "The Ravenswood Consolidated VMS Resource is comprised of 5.45mt @ 1.1g/t Au, 1.0% Cu, 6.6% Zn, 2.0% Pb and 37g/t Ag (12.0% ZnEq).",
+    "resource_context": "Ravenswood Consolidated VMS Resource",
+    "target_commodity": "Au",
+    "filename": "triumph_431.pdf",
+    "is_project_total": true
+  }
+]

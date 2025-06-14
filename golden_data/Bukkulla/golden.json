@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Tim Morrison",
+    "justification": "The buyer is Trigg Minerals. The text states: 'Executive Chairman Tim Morrison commented: “This is an exciting step forward for Trigg Minerals...”'"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The transaction is a direct application for an Exploration Licence (ELA 6870). A successful application and grant from the government results in 100% ownership."
+  },
+  "currency": {
+    "value": null,
+    "justification": "The project is being acquired via a government tenement application, not a commercial purchase. No monetary consideration or currency is mentioned."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The project was acquired via a government tenement application. No cash payment was made."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The project was acquired via a government tenement application. No share payment was made."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The project was acquired via a government tenement application, not a commercial transaction involving payment."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The project was acquired via a government tenement application. No shares were issued."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The project was acquired via a government tenement application. No shares were issued, so there is no issue price."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document mentions future plans for 'drilling campaigns' but does not specify a commitment in meters as a condition of the application."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The document outlines future exploration plans but does not mention a specific monetary commitment required as part of the tenement application."
+  },
+  "exploration_commitment_desc": {
+    "value": "Trigg plans to conduct systematic exploration, including geophysical surveys, geochemical sampling, and drilling campaigns, to evaluate the mineral potential of these projects.",
+    "justification": "The document states: 'Once granted, Trigg plans to initiate systematic exploration programs, including geophysical surveys, geochemical sampling, and drilling campaigns, to evaluate the mineral potential of these projects.'"
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "The document does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the tenement application."
+  },
+  "coverage_area_raw": {
+    "value": 87,
+    "justification": "The text explicitly states the area for the Bukkulla project application: 'ELA 6870 (Bukkulla Antimony Project): Covers 87km² (29 units)...'"
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The text explicitly states the unit for the Bukkulla project area: 'ELA 6870 (Bukkulla Antimony Project): Covers 87km² (29 units)...'"
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document does not provide a formal mineral resource estimate (e.g., JORC) for the Bukkulla project. The text mentions historical production grades ('exceeding 25% Sb') and rock chip samples ('22.9% Sb'), but these do not constitute a resource size."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:TMG",
+    "justification": "The acquiring company is identified as 'Trigg Minerals Limited (ASX: TMG)' in the document."
+  }
+}

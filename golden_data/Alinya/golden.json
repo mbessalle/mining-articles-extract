@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Mark Lindh",
+    "justification": "This ASX announcement was approved for release by the Board of Whitebark Energy Limited... Mark Lindh Chairman"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Whitebark has agreed to acquire King Energy via an off-market takeover offer."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The implied value of the acquisition is AUD$1,669,700... all references to $ are in Australian currency, unless stated otherwise."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The consideration is described entirely as shares and options; no cash component is mentioned."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Not applicable as calculable share data (number of shares and price) is provided (Priority 2)."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as calculable share data is provided (Priority 2)."
+  },
+  "amount_of_shares_issued": {
+    "value": 100000000,
+    "justification": "Whitebark will issue 100 million new Whitebark shares at a deemed issue price of $0.012 per share..."
+  },
+  "issued_share_price": {
+    "value": 0.012,
+    "justification": "Whitebark will issue 100 million new Whitebark shares at a deemed issue price of $0.012 per share..."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document outlines a forward work program for exploration but does not specify a binding commitment (in meters or value) as part of the acquisition deal terms."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The document states Whitebark intends to raise capital for exploration, but this is not a contractual commitment within the deal terms."
+  },
+  "exploration_commitment_desc": {
+    "value": "Forward work program includes 2D Seismic and Drilling.",
+    "justification": "The 'Indicative Project Schedule' chart shows a forward work program including 2D Seismic and Drilling."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned as part of this transaction's terms."
+  },
+  "coverage_area_raw": {
+    "value": 19467,
+    "justification": "...two Petroleum Exploration Licenses comprising 19,467 km2 in the Officer Basin, South Australia (Alinya Project)."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...two Petroleum Exploration Licenses comprising 19,467 km2 in the Officer Basin, South Australia (Alinya Project)."
+  },
+  "resource_size_desc": {
+    "value": "4.1 Billion KG Hydrogen (High/P10 Prospective Resource for Rickerscote Prospect)",
+    "justification": "Rickerscote Prospect Resources... Hydrogen KG... High (P10) 4.1 Billion"
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:WBE",
+    "justification": "Whitebark Energy Limited (ASX:WBE) WBE, Whitebark or the Company)..."
+  }
+}

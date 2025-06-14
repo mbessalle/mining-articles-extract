@@ -1,0 +1,26 @@
+[
+  {
+    "resource_value": "1.85m @ 9.3% Sb",
+    "source_sentence": "Total interval grades for face sampling are 9.3% antimony (Sb), 306 g/t silver (Ag) and 16.7% lead (Pb) over 1.85m for development face LT1, 7.8% antimony (Sb), 804 g/t silver (Ag) and 10.9% lead (Pb) over 2.20m for development face LT2 and 6.2% antimony (Sb), 301 g/t silver (Ag) and 11.7% lead (Pb) over 2.00m for development face LT3.",
+    "resource_context": "Montezuma Antimony Project - Development Face LT1 Total Interval",
+    "target_commodity": "Sb",
+    "filename": "montezuma_274.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "1.85m @ 306 g/t Ag",
+    "source_sentence": "Total interval grades for face sampling are 9.3% antimony (Sb), 306 g/t silver (Ag) and 16.7% lead (Pb) over 1.85m for development face LT1, 7.8% antimony (Sb), 804 g/t silver (Ag) and 10.9% lead (Pb) over 2.20m for development face LT2 and 6.2% antimony (Sb), 301 g/t silver (Ag) and 11.7% lead (Pb) over 2.00m for development face LT3.",
+    "resource_context": "Montezuma Antimony Project - Development Face LT1 Total Interval",
+    "target_commodity": "Ag",
+    "filename": "montezuma_274.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "1.85m @ 16.7% Pb",
+    "source_sentence": "Total interval grades for face sampling are 9.3% antimony (Sb), 306 g/t silver (Ag) and 16.7% lead (Pb) over 1.85m for development face LT1, 7.8% antimony (Sb), 804 g/t silver (Ag) and 10.9% lead (Pb) over 2.20m for development face LT2 and 6.2% antimony (Sb), 301 g/t silver (Ag) and 11.7% lead (Pb) over 2.00m for development face LT3.",
+    "resource_context": "Montezuma Antimony Project - Development Face LT1 Total Interval",
+    "target_commodity": "Pb",
+    "filename": "montezuma_274.pdf",
+    "is_project_total": false
+  }
+]

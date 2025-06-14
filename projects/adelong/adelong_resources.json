@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "1,820,000 Tonnes @ 3.21 g/t Au, 188,000 oz Gold",
+    "source_sentence": "TOTAL PROJECT RESOURCES 100%,1,820,000,3.21,188,000",
+    "resource_context": "Adelong Gold Project - Total JORC Resource",
+    "target_commodity": "Au",
+    "filename": "adelong_2.pdf",
+    "is_project_total": true
+  }
+]

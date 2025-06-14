@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "90,000 tonnes",
+    "source_sentence": "The mine has recorded production of over 730,000 oz of gold and over 50,000 tonnes of Antimony and a remaining resource of 1.7Moz Au equivalent at a grade of 7.4g/t Au equivalent, including 90,000 tonnes of Antimony, with significant exploration upside¹.",
+    "resource_context": "Hillgrove Project - Remaining Resource",
+    "target_commodity": "Sb",
+    "filename": "ela6810_124.pdf",
+    "is_project_total": true
+  }
+]

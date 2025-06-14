@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "63.0% Sb",
+    "source_sentence": "Testers Mine 456220 6611350 g81/371 Sb 63.0%, As 0.11%, Au 0.04ppm, Ag <1ppm, Pb 60ppm, Zn 45ppm, Cu 165ppm, Bi <5ppm, Mo <5ppm, Hg 2.7ppm.",
+    "resource_context": "Testers Mine - Sample g81/371",
+    "target_commodity": "Sb",
+    "filename": "taylors_arm_415.pdf",
+    "is_project_total": false
+  }
+]

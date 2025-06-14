@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "115 Mt @ 420 ppm for 104.8 Mlb",
+    "source_sentence": "Tenements sit adjacent to Deep Yellow Limited's (ASX: DYL) Mulga Rock project which hosts resources of 115 Mt @ 420 ppm for 104.8 Mlb (see DYL ASX announcement 26 February 2024)",
+    "resource_context": "Deep Yellow Limited's Mulga Rock project - Total Resource",
+    "target_commodity": "U",
+    "filename": "mulga_rock_312.pdf",
+    "is_project_total": true
+  }
+]

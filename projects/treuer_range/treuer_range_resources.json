@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "7.5 MT @ 0.13% U3O8 and 0.119% V2O5",
+    "source_sentence": "The Treuer Range Project is located in the Northern Territory's Ngalia Basin. It surrounds the Bigrlyi Uranium-Vanadium Deposit where a JORC Indicated and Inferred mineral resource of 7.5 MT grading 0.13% U3O8 and 0.119% V2O5 has been defined within the Mount Eclipse Sandstone. (The Bigrlyi Deposit is held by other parties and is excluded from the Treuer Range project).",
+    "resource_context": "Bigrlyi Uranium-Vanadium Deposit - JORC Indicated and Inferred mineral resource (excluded from Treuer Range project)",
+    "target_commodity": "U",
+    "filename": "treuer_range_426.pdf",
+    "is_project_total": false
+  }
+]

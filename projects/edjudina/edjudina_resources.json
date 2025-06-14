@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "378,000 tonnes @ 1.9 g/t Au containing 24,000 oz",
+    "source_sentence": "Indicated & Inferred resource: 378,000 tonnes @1.9g/t for 24,000oz Au",
+    "resource_context": "Neta Prospect - JORC Indicated & Inferred Resource",
+    "target_commodity": "Au",
+    "filename": "edjudina_123.pdf",
+    "is_project_total": true
+  }
+]

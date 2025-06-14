@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "0.94 Mt @ 1.2% Cu, 0.3 g/t Au, 1.4% CuEq, 11,100 t Cu, 7,760 Oz Au, 12,800 t CuEq",
+    "source_sentence": "Trekelano 2 0.94 1.2 0.3 1.4 11,100 7,760 12,800",
+    "resource_context": "Trekelano 2 Deposit - Inferred Resource",
+    "target_commodity": "Cu",
+    "filename": "greater_duchess_176.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "26.9 Mt @ 0.2 g/t Au containing 208,300 Oz",
+    "source_sentence": "CNB Total,11.9,1.5,0.2,1.6,174,500,87,500,193,600,15.0,1.2,0.3,1.4,180,400,120,800,206,700,26.9,1.3,0.2,1.5,354,900,208,300,400,300",
+    "resource_context": "Greater Duchess Project - Total Project Resource",
+    "target_commodity": "Au",
+    "is_project_total": true,
+    "filename": "greater_duchess_175.pdf"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "140Mt @ 0.84% Cu",
+    "source_sentence": "Mt Lyell copper mining camp (3Mt Cu, 3Moz Au) Historic Production: 155Mt @ 1.2% Cu, 0.37g/t Au Current Resources: 140Mt @ 0.84% Cu, 0.22g/t Au",
+    "resource_context": "Mt Lyell copper mining camp - Current Resources",
+    "target_commodity": "Cu",
+    "filename": "razorback_361.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "155Mt @ 0.37g/t Au",
+    "source_sentence": "Mt Lyell copper mining camp (3Mt Cu, 3Moz Au) Historic Production: 155Mt @ 1.2% Cu, 0.37g/t Au Current Resources: 140Mt @ 0.84% Cu, 0.22g/t Au",
+    "resource_context": "Mt Lyell copper mining camp - Historic Production",
+    "target_commodity": "Au",
+    "is_project_total": false,
+    "filename": "razorback_361.pdf"
+  }
+]

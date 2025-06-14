@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "4.1 Billion KG",
+    "source_sentence": "Rickerscote Prospect Resources Low (P90) Mid (P50) High (P10) Hydrogen KG 67 Million 710 Million 4.1 Billion",
+    "resource_context": "Rickerscote Prospect - P10 Estimate",
+    "target_commodity": "H2",
+    "filename": "alinya_7.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "499 Bcf",
+    "source_sentence": "Rickerscote Prospect Resources Low (P90) Mid (P50) High (P10) Helium Bcf 17 97 499",
+    "resource_context": "Rickerscote Prospect - P10 Estimate",
+    "target_commodity": "He",
+    "filename": "alinya_7.pdf",
+    "is_project_total": true
+  }
+]

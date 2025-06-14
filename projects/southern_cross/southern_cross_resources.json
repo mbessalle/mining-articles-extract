@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "189Mt @ 1.53% Li₂O",
+    "source_sentence": "Southern Cross Greenstone Belt is a world-class mining district with deformed greenstone sequences, lithium-bearing pegmatites, and proximity to significant gold systems – it extends from the Earl Grey Lithium Mine (mineral resource estimate 189Mt @ 1.53% Li₂O¹) to north of the Marvel Loch Gold Centre",
+    "resource_context": "Earl Grey Lithium Mine - mineral resource estimate",
+    "target_commodity": "Li",
+    "filename": "southern_cross_387.pdf",
+    "is_project_total": false
+  }
+]

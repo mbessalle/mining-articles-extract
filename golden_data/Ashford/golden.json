@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Peter Westerhuis",
+    "justification": "Peter Westerhuis Chief Executive Officer Clara Resources Ltd"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "This is an option to purchase a property (land), implying 100% interest in the land itself."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The values are given in '$' and the company is Australian, so currency is inferred as AUD."
+  },
+  "cash_payments_raw": {
+    "value": 1400000,
+    "justification": "The purchase price, should the option be exercised, is $1.4m..."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "No share-based consideration is mentioned in the transaction terms."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as an explicit cash purchase price is provided."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The transaction is for land acquisition for infrastructure, not an exploration program."
+  },
+  "exploration_commitment_value_raw": {
+    "value": 60000,
+    "justification": "The annual option fee is $60,000, to be paid in quarterly installments of $15,000."
+  },
+  "exploration_commitment_desc": {
+    "value": "5-year option agreement with an annual option fee.",
+    "justification": "The Option Agreement is for 5 years... The annual option fee is $60,000..."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in the announcement."
+  },
+  "coverage_area_raw": {
+    "value": 147,
+    "justification": "This 147Ha grazing and cropping property is located immediately adjacent EL6234..."
+  },
+  "coverage_area_unit": {
+    "value": "ha",
+    "justification": "This 147Ha grazing and cropping property..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "These announcements concern the acquisition of land for the Ashford project; no resource estimate for the project is provided in these texts."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:C7A",
+    "justification": "The header states 'ASX Announcement' and the body mentions 'Clara Resources Limited (“C7A” or the “Company”)'."
+  }
+}

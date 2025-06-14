@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "2,452,000 t @ 1.42 g/t Au containing 112,000 Oz Gold",
+    "source_sentence": "Table 1: Eureka Gold Deposit Mineral Resource Estimate by Classification as of June 2021 (at a 0.5 g/t Au cut-off) Total 2,452,000 1.42 112,000",
+    "resource_context": "Eureka Gold Project - Total Mineral Resource Estimate",
+    "target_commodity": "Au",
+    "filename": "eureka_136.pdf",
+    "is_project_total": true
+  }
+]

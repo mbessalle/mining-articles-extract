@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "13,127,000 tonnes, containing 195,000 tonnes Cu",
+    "source_sentence": "Total Mutooroo 13,127,000 195,000 20,200 82,100",
+    "resource_context": "Mutooroo Project - Total Resource",
+    "target_commodity": "Cu",
+    "filename": "mutooroo_316.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "13,127,000 tonnes, containing 20,200 tonnes Co",
+    "source_sentence": "Total Mutooroo 13,127,000 195,000 20,200 82,100",
+    "resource_context": "Mutooroo Project - Total Resource",
+    "target_commodity": "Co",
+    "filename": "mutooroo_316.pdf",
+    "is_project_total": true
+  }
+]

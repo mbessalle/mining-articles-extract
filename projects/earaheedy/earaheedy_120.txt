@@ -1,0 +1,603 @@
+ASX ANNOUNCEMENT 
+28 October 2024 
+ 
+ 
+ 
+ 
+ 
+Tenement Granted at Earaheedy  
+and Ned’s Creek Update 
+ 
+HIGHLIGHTS 
+• E69/3532 Granted at Earaheedy 
+ 
+• Soil sampling started on E69/3532 in the areas with identified volcanic 
+rocks 
+ 
+• RC drilling at the Ned’s Creek Gold Project returned no significant 
+results. 
+ 
+Lodestar Managing Director Ed Turner commented: “We are happy that E69/3532 has finally 
+be granted after a 7 year wait. This tenement includes some of the most prospective areas 
+within our Earaheedy Project for base metal and gold mineralisation. We have immediately 
+commenced first pass soil sampling over the north west part of the tenement where geological 
+mapping by Lodestar has identified large areas of mafic and ultramafic rocks which have not 
+previously been identified within the Proterozoic sedimentary package. 
+ 
+The RC drilling at Ned’s Creek unfortunately did not return significant gold mineralisation 
+despite intersecting extensive quartz veining and strong alteration and shearing in one of the 
+scissor holes.” 
+ 
+Lodestar Minerals Limited (Lodestar or the Company) (ASX:LSR) is pleased to report the grant 
+of E69/3532 (Figure 1) on 16th October 2024 after a State Deed was signed by the Mungarlu 
+Ngurrarankatja Rirraunkaja Aboriginal Corporation, Tarlka Matuwa Piarku Aboriginal 
+Corporation and the State of Western Australia following a seven (7) years wait. 
+ 
+Earaheedy Project 
+Tenement E69/3532 cover a large part of the prospective area of the Earaheedy Project. 
+Geological mapping was completed over the last 2 years by Lodestar geological team over the 
+area and large areas of mafic and ultramafic rocks were identified. The presence of volcanics 
+rocks linked to large scale crustal faults drives the area to as a prospective zone for base metal 
+and gold mineralisation. 
+A soil sampling program of 560 samples is planned to cover prospective areas in the NW of 
+the tenement. 
+ 
+ 
+ 
+ 
+ 
+Figure 1: Location of E69/3532 in relation to the Earaheedy Project. 
+ 
+Ned’s Creek Project 
+At Ned’s Creek, the results of the composite samples of phase 2 drilling comprising two 
+additional RC holes (LNRC003 & LNRC004) (Table 1, Figure 2) for a total of 444m were received 
+and presented no significant Au intersections. 
+ 
+Table 1: RC drill hole collar table 
+Tenement 
+ID 
+Hole ID 
+Dip 
+Azimuth 
+MGA_Grid 
+MGA_East 
+MGA_North 
+RL 
+EOH 
+E52/2456 
+LNRC001 
+-65 
+320 
+MGA94_Z50 
+786240 
+7190205 
+582 
+246 
+E52/2456 
+LNRC002 
+-60 
+310 
+MGA94_Z50 
+789120 
+7192815 
+570 
+264 
+E52/2456 
+LNRC003 
+-60 
+140 
+MGA94_Z50 
+786130 
+7190359 
+587 
+228 
+E52/2456 
+LNRC004 
+-60 
+140 
+MGA94_Z50 
+789001 
+7192994 
+574 
+216 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2: RC drill hole locations testing the two magnetic targets at Ned’s Creek in relation to historical 
+drilling displaying their max Au in ppm. 
+ 
+The last two phases of drilling included four RC holes (Figure 2) which were targeting two 
+previously undrilled magnetic targets. LNRC004 did not intersect any Proterozoic sediments 
+and was very different to LNRC002. It intersected dominant intervals of quartz veins and 
+veinlets extending over 80m downhole as well as a highly deformed and silicified diorite unit. 
+Mafic basalt also intersected was sheared and silicified. The units, veining and alteration 
+intersected matched the geological target model, but no significant Au mineralisation was 
+intersected. The geological interpretation will be reviewed to determine if quartz veining is 
+part of the main mineralisation corridor or could be a later stage cross cutting fault. 
+ 
+ 
+ 
+ 
+ 
+ 
+About Lodestar  
+Lodestar Minerals is an active Western Australian base metal and gold explorer. 
+Lodestar’s projects comprise the 100% owned Earaheedy, Ned’s Creek and Coolgardie West 
+projects (Figure 3).  
+ 
+Lodestar also has exposure to lithium via its strategic 9.3M shares and 27.5M performance 
+rights in Future Battery Minerals (ASX:FBM) who own the Kangaroo Hills and Miriam lithium 
+Projects in Western Australia and the Nevada Lithium Project in the US. 
+ 
+ 
+ 
+Figure 3: Lodestar’s Project locations 
+ 
+ 
+This announcement has been authorised by the Board of Directors of the Company. 
+ 
+-ENDS- 
+Contacts 
+Ed Turner 
+Managing Director 
+info@lodestarminerals.com.au 
++61 8 9435 3200 
+ 
+ 
+ 
+ 
+ 
+Competent Person Statement 
+The information in this report that relates to Exploration Results is based on information compiled by 
+Ed Turner, Managing Director, who is a Member of the Australasian Institute of Geoscientists and has 
+sufficient experience of relevance to the styles of mineralisation and the types of deposits under 
+consideration, and to the activities undertaken, to qualify as a Competent Person as defined in the 2012 
+Edition of the Joint Ore Reserves Committee (JORC) Australasian Code for Reporting of Exploration 
+Results, Mineral Resources and Ore Reserves.  Mr Turner consents to the inclusion in this report of the 
+matters based on the information in the form and context in which it appears. 
+This announcement is available to view on the Lodestar website. The company confirms that it is not 
+aware of any new information or data that materially affects the information included in the original 
+market announcement. The company confirms that the form and context in which the Competent 
+Person’s findings are presented have not been materially modified from the original market 
+announcement. 
+ 
+ 
+ 
+ 
+JORC Code, 2012 Edition – Table 1 report template  
+Section 1 Sampling Techniques and Data  
+(Criteria in this section apply to all succeeding sections.) 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+Sampling 
+techniques 
+• 
+Nature and quality of sampling (eg cut channels, random chips, or specific 
+specialised industry standard measurement tools appropriate to the minerals 
+under investigation, such as down hole gamma sondes, or handheld XRF 
+instruments, etc). These examples should not be taken as limiting the broad 
+meaning of sampling. 
+• 
+Include reference to measures taken to ensure sample representivity and 
+the appropriate calibration of any measurement tools or systems used. 
+• 
+Aspects of the determination of mineralisation that are Material to the 
+Public Report. In cases where ‘industry standard’ work has been done this 
+would be relatively simple (eg ‘reverse circulation drilling was used to 
+obtain 1 m samples from which 3 kg was pulverised to produce a 30 g 
+charge for fire assay’). In other cases more explanation may be required, 
+such as where there is coarse gold that has inherent sampling problems. 
+Unusual commodities or mineralisation types (eg submarine nodules) may 
+warrant disclosure of detailed information. 
+• RC drill holes were sampled on 4m composites intervals throughout (last 
+composite is between 1 - 4 m). Samples were collected from the cyclone 
+every 1m and were laid in sequence on the ground in rows of 20. 
+• Sample representivity is maintained by placing the samples in a pre-
+numbered calico bag with a corresponding sample number on an excel 
+spreadsheet and for drill samples maintaining dry sampling and good 
+drilling practice, avoiding sample over runs and contamination. Certified 
+reference materials, and laboratory repeat samples are analysed routinely. 
+• RC 4m-Composite samples were collected using an aluminum scoop and 
+combined to create a 2.5 to 3.0kg composite sample.  
+• The samples were submitted to Intertek Laboratory Perth, for drying, 
+crushing, and pulverising to produce a 50g charge for fire assay of gold. 
+Drilling techniques 
+• 
+Drill type (eg core, reverse circulation, open-hole hammer, rotary air blast, 
+auger, Bangka, sonic, etc) and details (eg core diameter, triple or standard 
+tube, depth of diamond tails, face- sampling bit or other type, whether core is 
+oriented and if so, by what method, etc). 
+• 
+RC drilling used an 4 ½ inch hammer. 
+• 
+RC holes were collar surveyed with a compass and GPS 
+Drill sample 
+recovery 
+• 
+Method of recording and assessing core and chip sample recoveries and 
+results assessed. 
+• 
+Measures taken to maximise sample recovery and ensure representative 
+nature of the samples. 
+• 
+Whether a relationship exists between sample recovery and grade and 
+whether sample bias may have occurred due to preferential loss/gain of 
+fine/coarse material. 
+• 
+Sample recoveries and wet samples were monitored and recorded 
+qualitatively in Lodestar’s drill hole database. Recoveries were generally 
+80 -100%.  
+• High pressure air used to maintain a dry sample and drill sampling 
+equipment was cleaned regularly to minimise contamination. 
+• There is no apparent relationship between sample recovery and grade. 
+Logging 
+• 
+Whether core and chip samples have been geologically and geotechnically 
+logged to a level of detail to support appropriate Mineral Resource 
+estimation, mining studies and metallurgical studies. 
+• 
+Whether logging is qualitative or quantitative in nature. Core (or costean, 
+channel, etc) photography. 
+• 
+The total length and percentage of the relevant intersections logged. 
+• 
+Logging is qualitative in nature. 
+• 
+All RC holes are geologically logged every meter supporting a level of 
+mineral exploration and potential future Mineral Resource estimation. 
+• 
+A small sample of every meter is stored in a chip tray and photographed. 
+All the chip trays are stored at Lodestar sheds either on site or in Perth. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+Sub-sampling 
+techniques and 
+sample 
+preparation 
+• 
+If core, whether cut or sawn and whether quarter, half or all core taken. 
+• 
+If non-core, whether riffled, tube sampled, rotary split, etc and whether 
+sampled wet or dry. 
+• 
+For all sample types, the nature, quality and appropriateness of the 
+sample preparation technique. 
+• 
+Quality control procedures adopted for all sub-sampling stages to maximise 
+representivity of samples. 
+• 
+Measures taken to ensure that the sampling is representative of the in situ 
+material collected, including for instance results for field duplicate/second-
+half sampling. 
+• 
+Whether sample sizes are appropriate to the grain size of the material 
+being sampled. 
+• 
+No core samples taken. 
+• Composite 4m metre samples were collected from the sample pile using 
+an aluminum scoop and combined to create a 2.5 to 3.0kg composite 
+sample.  
+• 
+Single split samples are collected into pre-numbered calico bags directly 
+from a splitter on the cyclone. 
+• 
+All RC samples are stored in pre-numbered calico bags and submitted to 
+Intertek, Perth, for sample preparation and analysis. 
+• 
+Sample preparation for drill samples involves drying the whole sample, 
+crushing to 3mm and pulverising to 90% passing -75 microns. The 
+pulverised sample is split with a rotary sample divider to obtain a 50 gram 
+charge.  
+• 
+Certified reference standards (1:30) and laboratory repeats are used to 
+monitor satisfactory reproducibility and accuracy of sampling and assays.  
+Quality of assay 
+data and 
+laboratory tests 
+• 
+The nature, quality and appropriateness of the assaying and laboratory 
+procedures used and whether the technique is considered partial or total. 
+• 
+For geophysical tools, spectrometers, handheld XRF instruments, etc, the 
+parameters used in determining the analysis including instrument make and 
+model, reading times, calibrations factors applied and their derivation, etc. 
+• 
+Nature of quality control procedures adopted (eg standards, blanks, 
+duplicates, external laboratory checks) and whether acceptable levels of 
+accuracy (ie lack of bias) and precision have been established. 
+• 
+Fire Assay method was used for gold analysis.   
+• 
+No geophysical tools were used to determine any element concentrations. 
+• 
+Reference standards and blanks were inserted at 1:30 throughout the drill 
+program for RC. Results indicate satisfactory accuracy and precision was 
+achieved. 
+Verification of 
+sampling and 
+assaying 
+• 
+The verification of significant intersections by either independent or 
+alternative company personnel. 
+• 
+The use of twinned holes. 
+• 
+Documentation of primary data, data entry procedures, data verification, 
+data storage (physical and electronic) protocols. 
+• 
+Discuss any adjustment to assay data. 
+• 
+There were no significant interceptions in the composite assays. 
+• 
+Twinned holes were not drilled in this program. 
+• 
+Field and laboratory data are collected electronically and entered into an 
+excel spreadsheet which is then stored into a database. 
+• 
+No adjustment to assay data.  
+Location of data 
+points 
+• 
+Accuracy and quality of surveys used to locate drill holes (collar and down- 
+hole surveys), trenches, mine workings and other locations used in Mineral 
+Resource estimation. 
+• 
+Specification of the grid system used. 
+• 
+Quality and adequacy of topographic control. 
+• 
+A hand-held GPS has been used to locate the drillhole collars and the soil 
+samples with estimated 3-5m accuracy. 
+• 
+Drill hole coordinates were recorded in MGA94 Zone 50 grid for the Ned’s 
+Creek Project, and MGA94 Zone 51 grid for Earaheedy and Coolgardie 
+West Project. 
+• 
+The topography within prospect areas has been derived from GPS RL (2-
+10 m accuracy). 
+Data spacing and 
+distribution 
+• 
+Data spacing for reporting of Exploration Results. 
+• 
+Whether the data spacing and distribution is sufficient to establish the 
+degree of geological and grade continuity appropriate for the Mineral 
+Resource and Ore Reserve estimation procedure(s) and classifications 
+• 
+RC holes were completed at irregular distances. 
+• 
+The current density of drilling is not sufficient for resource estimation. 
+• 
+Sample compositing over 4m intervals throughout the drilling program 
+with 1m split samples available for check assays where anomalous grades 
+ 
+ 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+applied. 
+• 
+Whether sample compositing has been applied. 
+are reported. 
+Orientation of data 
+in relation to 
+geological 
+structure 
+• 
+Whether the orientation of sampling achieves unbiased sampling of 
+possible structures and the extent to which this is known, considering the 
+deposit type. 
+• 
+If the relationship between the drilling orientation and the orientation of key 
+mineralised structures is considered to have introduced a sampling bias, this 
+should be assessed and reported if material. 
+• 
+At Ned’s Creek, the main geological stratigraphy is steeply dipping to the 
+NNE with some variation within the geological sequence. 
+• 
+At Ned’s Creek, this current drilling is expected to be following the 
+stratigraphy but not enough information is known yet to extrapolate the 
+thickness of the intercepts. 
+Sample security 
+• 
+The measures taken to ensure sample security. 
+• 
+All samples were stored at Lodestar’s exploration camp in sealed bags 
+under supervision prior to dispatch by Lodestar personal to the laboratory. 
+Audits or  
+reviews 
+• 
+The results of any audits or reviews of sampling techniques and data. 
+• 
+No audit or reviews carried out. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Section 2 Reporting of Exploration Results 
+(Criteria listed in the preceding section also apply to this section.) 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+Mineral tenement 
+and land tenure 
+status 
+• 
+Type, reference name/number, location and ownership including agreements 
+or material issues with third parties such as joint ventures, partnerships, 
+overriding royalties, native title interests, historical sites, wilderness or national 
+park and environmental settings. 
+• 
+The security of the tenure held at the time of reporting along with any known 
+impediments to obtaining a licence to operate in the area. 
+• The drilling at Ned’s Creek was on E52/2456 which is 100% owned by 
+Lodestar (through Audacious Resources Pty Ltd, Lodestar’s wholly owned 
+subsidiary company). 
+Exploration done by 
+other parties 
+• 
+Acknowledgment and appraisal of exploration by other parties. 
+ 
+• 
+Exploration commenced at McDonald Well in the late 1960’s. WMC 
+explored for Zambian Copper Belt style mineralisation and completed 
+regional geological mapping and sampling, followed by minor percussion 
+drilling. CRA Exploration completed regional mapping and auger sampling, 
+also at McDonald Well. No significant anomalies were identified on the 
+tenements. Minor exploration drilling by Barrick and CRA Exploration east 
+and south of Contessa intersected ultramafic lithologies, confirming the 
+extent of the greenstone sequence in this area. There has been no 
+material exploration by other parties over the Contessa area before 
+Lodestar minerals. 
+ 
+Geology 
+• 
+Deposit type, geological setting and style of mineralisation. 
+• 
+The geology of the project area comprises the northern margin of the 
+Proterozoic Yerrida Basin. The geology forms two discrete units; 
+Proterozoic sediments of the Yerrida Basin that are prospective for 
+sediment-hosted copper and base metal mineralisation in black shale and 
+carbonate sequences, with evidence of secondary and primary copper 
+mineralisation in the Thaduna district, overlie Archaean basement rocks 
+on the northern margin of the Yerrida Basin. The basement-sediment 
+contact trends east- west and Lodestar’s exploration has identified 
+extensive gold anomalism adjacent to this contact. The basement consists 
+of granite and fringing mafic to intermediate and ultramafic rocks that 
+have minimal outcrop. The mafic-ultramafic rocks and the adjacent granite 
+that hosts gold mineralisation are thought to be Archaean in age. 
+Identification of syenite-hosted, intrusion-related gold mineralisation at 
+Brumby and Gidgee Flat indicates that this region differs from other lode 
+gold occurrences in the Plutonic Well greenstone belt and the surrounding 
+Proterozoic fold belt and does not form part of the adjacent Marymia 
+Inlier. 
+ 
+ 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+Drill hole 
+information 
+• 
+A summary of all information material to the understanding of the exploration 
+results including a tabulation of the following information for all Material drill 
+holes: 
+o 
+easting and northing of the drill hole collar 
+o 
+elevation or RL (Reduced Level - elevation above sea level in metres) of 
+the drill hole collar 
+o 
+dip and azimuth of the hole 
+o 
+down hole length and interception depth  
+o 
+hole length. 
+• 
+If the exclusion of this information is justified on the basis that the information is 
+not Material and this exclusion does not detract from the understanding of the 
+report, the Competent Person should clearly explain why this is the case. 
+• 
+See table in the main text.   
+Data aggregation 
+methods 
+• 
+In reporting Exploration Results, weighting averaging techniques, maximum 
+and/or minimum grade truncations (eg cutting of high grades) and cut-off 
+grades are usually Material and should be stated. 
+• 
+Where aggregate intercepts incorporate short lengths of high-grade results and 
+longer lengths of low-grade results, the procedure used for such aggregation 
+should be stated and some typical examples of such aggregations should be 
+shown in detail.  The assumptions used for any reporting of metal equivalent 
+values should be clearly stated. 
+• 
+There were no results > 0.1g/t Au.  
+Relationship 
+between 
+mineralisation 
+widths and 
+intercept lengths 
+• 
+These relationships are particularly important in the reporting of Exploration 
+Results. 
+o 
+If the geometry of the mineralisation with respect to the drill hole 
+angle is known, its nature should be reported. 
+• 
+If it is not known and only the down hole lengths are reported, there should be a 
+clear statement to this effect (eg ‘down hole length, true width not known’). 
+• 
+These two holes were drilled to target the magnetic anomalies and were 
+drilled to intersect the anomalies at an interpreted perpendicular angle. 
+At both locations the host rocks do not outcrop and therefore the dip and 
+strike cannot be confirmed at this time. This is the first drill testing of these 
+targets and therefore the true width of mineralisation is unknown. 
+Diagrams 
+• 
+Appropriate maps and sections (with scales) and tabulations of intercepts should 
+be included for any significant discovery being reported These should include, but 
+not be limited to a plan view of drill hole collar locations and appropriate 
+• 
+For illustration refer to Figures for interpreted geological drillhole cross 
+section.  
+ 
+ 
+ 
+Criteria 
+JORC Code explanation 
+Commentary 
+sectional views. 
+Balanced reporting 
+• 
+Where comprehensive reporting of all Exploration Results is not practicable, 
+representative reporting of both low and high grades and/or widths should be 
+practiced to avoid misleading reporting of Exploration Results. 
+• 
+There were no assays greater than 0.1g/t Au. 
+Other substantive 
+exploration data 
+• 
+Other exploration data, if meaningful and material, should be reported including 
+(but not limited to): geological observations; geophysical survey results; 
+geochemical survey results; bulk samples – size and method of treatment; 
+metallurgical test results; bulk density, groundwater, geotechnical and rock 
+characteristics; potential deleterious or contaminating substances. 
+• 
+All information has been reported within the text of the announcement, 
+no other information to report. 
+Further Work 
+• 
+The nature and scale of planned further work (eg tests for lateral extensions or 
+depth extensions or large-scale step-out drilling). 
+• 
+Diagrams clearly highlighting the areas of possible extensions, including the main 
+geological interpretations and future drilling areas, provided this information is 
+not commercially sensitive. 
+• 
+Follow up RC drilling will be completed including scissor holes to test for 
+different mineralisation orientations. 
+ 

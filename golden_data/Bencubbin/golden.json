@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "David Southam",
+    "justification": "Cygnus Managing Director, David Southam, said:..."
+  },
+  "interest_acquired_percent": {
+    "value": null,
+    "justification": "The announcement details exploration results on the Bencubbin Project, which is already 100% owned by Cygnus Metals; no new interest is being acquired."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The company's cash position is reported in '$' and it is an ASX-listed company (ASX:CY5), implying AUD. Post-quarter share issuance is also reported in AUD."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "No transaction is taking place for the Bencubbin project in this announcement; it is an exploration update on an owned asset."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "No transaction is taking place for the Bencubbin project in this announcement."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "No transaction is taking place for the Bencubbin project in this announcement."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned in relation to the Bencubbin project."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned in relation to the Bencubbin project."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future work includes aircore and auger drilling, but no specific meterage is defined as a contractual commitment."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "A program is 'approved', but no specific monetary value for the commitment is stated."
+  },
+  "exploration_commitment_desc": {
+    "value": "Follow-up air core drilling to infill and extend known mineralisation, plus a regional program of auger drilling.",
+    "justification": "Follow-up air core drilling is due to commence... In addition, a regional program of auger drilling is planned to step out significantly along strike..."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in relation to the Bencubbin project."
+  },
+  "coverage_area_raw": {
+    "value": 800,
+    "justification": "...at the 800sqkm Bencubbin Project in WA..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...at the 800sqkm Bencubbin Project in WA..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The announcement reports high-grade exploration intersections (e.g., 23m @ 1,862ppm TREO) but does not state a formal JORC-compliant resource estimate for the project."
+  },
+ "buyer_ticker_and_exchange": {
+    "value": "ASX:CY5",
+    "justification": "The document is a report from Cygnus Metals Limited (ASX: CY5)."
+  }
+}

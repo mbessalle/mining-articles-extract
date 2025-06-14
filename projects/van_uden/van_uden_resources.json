@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "5.378 Mt @ 1.38 g/t Au, 238.0 koz Au",
+    "source_sentence": "Total 5.378 1.38 238.0",
+    "resource_context": "Historic 2004 JORC Resource - Total - Van Uden Gold Project",
+    "target_commodity": "Au",
+    "filename": "van_uden_442.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "39.15 Mt @ 2.62 g/t Au, 3,302.0 Koz Au",
+    "source_sentence": "GROUP TOTAL 25.78 2.42 2,008.9 13.37 3.01 1,293.2 39.15 2.62 3,302.0",
+    "resource_context": "Group Total - Total Resource",
+    "target_commodity": "Au",
+    "filename": "glenburgh_162.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "27.7 Mt @ 1.33g/t Au for 1.19 Mozs Au",
+    "source_sentence": "Karridale Resource: 27.7 Mt @ 1.33g/t Au for 1.19 Mozs Au.",
+    "resource_context": "Karridale Resource",
+    "target_commodity": "Au",
+    "filename": "laverton_250.pdf",
+    "is_project_total": false
+  }
+]

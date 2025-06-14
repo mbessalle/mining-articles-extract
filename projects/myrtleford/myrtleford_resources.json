@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3,742,000 tonnes @ 0.13 g/t Au, containing 15,500 oz Au",
+    "source_sentence": "Table A Estimate of Inferred Foreign Estimate of Gavilanes Project2 Cutoff Grade AgEq/t Tonnes Average AgEq/t Contained oz AgEq Ag/t oz Ag Au/t oz Au % Cu lbs Cu % Pb lbs Pb % Zn lbs Zn 75 3,742,000 206.90 24,898,000 172.4 20,747,000 0.13 15,500 0.11 9,046,000 0.56 45,795,000 0.42 34,288,000",
+    "resource_context": "Gavilanes Project - Inferred Foreign Estimate (75 g/t AgEq Cutoff)",
+    "target_commodity": "Au",
+    "filename": "myrtleford_318.pdf",
+    "is_project_total": true
+  }
+]

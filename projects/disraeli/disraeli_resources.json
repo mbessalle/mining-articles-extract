@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "70.9 Mt @ 9.6% Mn",
+    "source_sentence": "\"See ASX announcement dated 23 March 2023: Indicated Resource of 105.8Mt at 10.1%; Inferred Resource of 70.9Mt at 9.6% for global Resource of 176.7 Mt at 9.9% Mn.\"",
+    "resource_context": "\"Oakover Project - Inferred Resource\"",
+    "target_commodity": "Mn",
+    "filename": "disraeli_109.pdf",
+    "is_project_total": false
+  }
+]

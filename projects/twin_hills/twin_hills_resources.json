@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "45,655 kt @ 1.26 g/t Au, 1,844,200 oz Au",
+    "source_sentence": "Drummond Basin Total 944 2.6 80,100 19,739 1.5 943,200 24,901 1.0 820,900 45,655 1.26 1,844,200",
+    "resource_context": "Drummond Basin Total Resource",
+    "target_commodity": "Au",
+    "filename": "twin_hills_438.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resource_value": "47.3 Mt @ 3.1% Pb (1,465 kt Pb)",
+    "source_sentence": "Total,47.3,3.1%,0.4%,35,1,465,207,53,042",
+    "resource_context": "Sorby Hills - Total Mineral Resource (Table 1)",
+    "target_commodity": "Pb",
+    "filename": "sorby_hills_385.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "47.3 Mt @ 0.4% Zn (207 kt Zn)",
+    "source_sentence": "Total,47.3,3.1%,0.4%,35,1,465,207,53,042",
+    "resource_context": "Sorby Hills - Total Mineral Resource (Table 1)",
+    "target_commodity": "Zn",
+    "filename": "sorby_hills_385.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "47.3 Mt @ 35 g/t Ag (53,042 koz Ag)",
+    "source_sentence": "Total,47.3,3.1%,0.4%,35,1,465,207,53,042",
+    "resource_context": "Sorby Hills - Total Mineral Resource (Table 1)",
+    "target_commodity": "Ag",
+    "filename": "sorby_hills_385.pdf",
+    "is_project_total": true
+  }
+]

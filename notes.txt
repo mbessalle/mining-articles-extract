@@ -1,0 +1,9 @@
+Be careful with currency values—sometimes they write "$" and mean Australian dollars. You have to check the exchange or whether it says ASX or Australia. Other times they write AUD$ or A$, and sometimes it's from other countries like CAD.
+
+Be careful with which projects they are referring to—sometimes they talk not only about the project mentioned in the filename, but also about other projects. If they don’t specify and mention a certain amount of resources allocated to all projects, then assume the distribution of resources to each one is equal.
+
+Be careful with exploration commitments—sometimes they are mentioned as financial support for the project's activities. If it's stated in meters of drilling, 1 meter is equivalent to 200 USD.
+
+Be careful with values in an article that refer to other projects—in that case, flag it as an error indicating it concerns a different project.
+
+Be careful with links that refer to one project, but the PDF is about another project—in that case, flag it as an error indicating the link points to the wrong project.

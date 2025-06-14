@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "127Mt @ 4.3% Heavy Minerals",
+    "source_sentence": "The Governor Broome Heavy Mineral Sands Project is a largely de-risked resource development project in the south-west of Western Australia with substantial total JORC Mineral Resource of 127Mt of Mineral Sands grading 4.3% Heavy Minerals'.",
+    "resource_context": "Governor Broome Project - Total JORC Mineral Resource",
+    "target_commodity": "Heavy Minerals",
+    "filename": "governor_broome_174.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "1.3Moz Au",
+    "source_sentence": "KUNDIP (ASX:MM8) 1.3Moz Au & 56kt Cu",
+    "resource_context": "Kundip Project (ASX:MM8)",
+    "target_commodity": "Au",
+    "filename": "parker_dome_339.pdf",
+    "is_project_total": true
+  }
+]

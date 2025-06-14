@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "182.0 g/t Au",
+    "source_sentence": "Rock chip 182.0 g/t Au",
+    "resource_context": "Rock chip sample - EL 23888, Figure 1",
+    "target_commodity": "Au",
+    "is_project_total": false,
+    "filename": "reynolds_range_371.pdf"
+  },
+  {
+    "resource_value": "8.24% Li\u2082O",
+    "source_sentence": "Rock chip 8.24% Li\u2082O",
+    "resource_context": "Rock chip sample - EL 23655, Figure 1",
+    "target_commodity": "Li",
+    "is_project_total": false,
+    "filename": "reynolds_range_371.pdf"
+  }
+]

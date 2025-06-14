@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "26.6k oz Au @ 8.7g/t Au",
+    "source_sentence": "Historical workings: 170m deep (POW: 26.6k oz Au @ 8.7g/t Au) (1)",
+    "resource_context": "Prince of Wales Au Project - Historical workings",
+    "target_commodity": "Au",
+    "is_project_total": false,
+    "filename": "enmore_131.pdf"
+  }
+]

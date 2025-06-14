@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Nicholas Anderson",
+    "justification": "The acquiring company is Golden Horse. The text states: 'Golden Horse's Managing Director & CEO Nicholas Anderson commented...'"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The first highlight states: 'Golden Horse has entered a conditional Sale Agreement...to acquire 100% of its Bullfinch Gold Project.'"
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The payment terms are specified with an 'A$' prefix: 'A$250,000 cash payment upon transfer of the tenure...'."
+  },
+  "cash_payments_raw": {
+    "value": 450000,
+    "justification": "The total cash payment is the sum of the upfront and milestone payments, per the aggregation rule. 'Terms of the transaction include: A$250,000 cash payment upon transfer of the tenure; and A$200,000 milestone cash payment upon the delineation of a 100,000oz JORC resource...'"
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The document does not mention any consideration in the form of shares."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The payment is explicitly defined as cash only, so this field is not applicable."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The document does not mention any shares being issued as part of the consideration."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No shares were issued, so there is no issue price."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document does not specify a drilling or exploration commitment in meters."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The document does not specify a monetary exploration commitment as part of the agreement."
+  },
+  "exploration_commitment_desc": {
+    "value": null,
+    "justification": "While future exploration is mentioned ('We are eager to commence further exploration...'), no specific, binding commitment is detailed as part of the transaction terms."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "The document does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the agreement."
+  },
+  "coverage_area_raw": {
+    "value": 422,
+    "justification": "The document states: 'The Sale Agreement provides Golden Horse an additional 422km2 of tenure...' and 'The Bullfinch tenement area covers 422km2...'"
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The unit is specified in the text: 'The Bullfinch tenement area covers 422km2...'"
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document does not provide a JORC or other formal mineral resource estimate for the Bullfinch project. It mentions historical production grades (e.g., '35.7 g/t gold') and a future resource delineation goal, which do not constitute an existing resource."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:GHM",
+    "justification": "The document header identifies the buyer as 'Golden Horse Minerals Ltd Che Interest(GHM:AU)', indicating an Australian listing. The price data is also quoted in AUD."
+  }
+}

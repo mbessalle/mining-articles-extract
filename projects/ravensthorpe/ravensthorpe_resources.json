@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "5 Mt @ 0.05% Li2O",
+    "source_sentence": "It is also adjacent to Krakatoa Resources Limited's (“Krakatoa”, ASX:KTA) King Tamba Rubidium resource of 5Mt @ 0.14%Rb2O and 0.05% Li2O as well as their more recent discovery of lithium bearing rock chips up to 4.3% Li₂O, 1.7% Rb2O and 0.5% Cs2O at their Wilsons prospect (Figure 1).",
+    "resource_context": "Krakatoa Resources Limited's King Tamba Rubidium resource",
+    "target_commodity": "Li",
+    "filename": "ravensthorpe_360.pdf",
+    "is_project_total": true
+  }
+]

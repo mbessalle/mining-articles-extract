@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "71.6 Mlbs U3O8 @ 620ppm",
+    "source_sentence": "Honeymoon Mine Boss Energy (ASX:BOE) 71.6 Mlbs U3O8 @ 620ppm",
+    "resource_context": "Honeymoon Mine",
+    "target_commodity": "U",
+    "filename": "cummins_95.pdf",
+    "is_project_total": true
+  }
+]

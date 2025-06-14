@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "8,412,212 Tonnes @ 1.45 g/t Au for 391,417 Oz Au",
+    "source_sentence": "Total,512,200,2.25,37,088,7,900,012,1.40,354,589,8,412,212,1.45,391,417",
+    "resource_context": "Forrestania Gold Project - Total Resource (Indicated + Inferred) from table",
+    "target_commodity": "Au",
+    "filename": "kat_gap_231.pdf",
+    "is_project_total": true
+  }
+]

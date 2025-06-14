@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "610,000 t @ 2.56% Sb containing 15,600 t Sb",
+    "source_sentence": "Table 1: Wild Cattle Creek Antimony Deposit Resource (2012 JORC) - TOTAL 1.0 610,000 2.56 15,600",
+    "resource_context": "Wild Cattle Creek Deposit - Total Resource (JORC 2012)",
+    "target_commodity": "Sb",
+    "filename": "achilles_1.pdf",
+    "is_project_total": true
+  }
+]

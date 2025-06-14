@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Robert Martin",
+    "justification": "Critical Resources’ Chairman, Robert Martin, commented;..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The Company has agreed to acquire 100% of the fully paid ordinary shares in Golden Plateau Pty Ltd..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "$50,000 cash payment... (Currency is not explicitly stated but inferred as AUD due to ASX listings and project location)."
+  },
+  "cash_payments_raw": {
+    "value": 50000,
+    "justification": "Terms of the Acquisition include the following consideration payable to the Seller (i) $50,000 cash payment payable after completion..."
+  },
+  "share_payments_raw": {
+    "value": 300000,
+    "justification": "The total value of all share-based payments (initial + milestones) is summed: (ii) $250,000 in CRR shares... (iii) $25,000 in CRR shares... (iv) $25,000 in CRR shares..."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as explicit cash and share payment values are provided (Priority 1)."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The number of shares is not fixed; it is based on a future VWAP calculation, so a specific number cannot be extracted."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The share price is variable based on a future 20-day VWAP, so a specific price cannot be extracted."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "No specific drilling meterage is defined as a contractual commitment in the deal terms."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No specific monetary value is defined as a contractual commitment in the deal terms. A separate capital raise is mentioned to fund future exploration."
+  },
+  "exploration_commitment_desc": {
+    "value": "Ground mapping and sampling surveys with a view to delineate and design future drilling campaigns.",
+    "justification": "...expedite data processing, ground mapping and sampling surveys across its many antimony-gold prospects within its greater Halls Peak Project with a view to delineate and designing future drilling campaigns."
+  },
+  "nsr_acquired_percent": {
+    "value": 2,
+    "justification": "...and (v) 2% net smelter royalty (“NSR”)."
+  },
+  "coverage_area_raw": {
+    "value": 1.7,
+    "justification": "The Amoco Antimony-Gold grid (“Amoco”) covers an area of approximately 1.7km2 in size..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The Amoco Antimony-Gold grid (“Amoco”) covers an area of approximately 1.7km2 in size..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "A resource size (3.154Mt...) is mentioned, but the text explicitly attributes it to a different project: '...as evidenced by the Larvotto Resources’ Hillgrove Gold-Antimony Project...'"
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:CRR",
+    "justification": "Critical minerals exploration and project development company Critical Resources Limited ASX:CRR (“Critical Resources”, “CRR” or “the Company”) is pleased to announce..."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "4.2Mt @ 0.52% Copper",
+    "source_sentence": "The Anabama Project is prospective for Copper/Gold and contains an existing non JORC compliant resource estimate of 4.2Mt at 0.52% Copper reported by Placer Exploration Ltd².",
+    "resource_context": "Anabama Project - non JORC compliant",
+    "target_commodity": "Cu",
+    "filename": "curnamona_97.pdf",
+    "is_project_total": true
+  }
+]

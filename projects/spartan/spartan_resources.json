@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "7.2 Mt @ 1.3% Sb (93 kt Sb)",
+    "source_sentence": "The Hillgrove Project (ASX:LRV) 7.2Mt @ 4.7g/t Au, 1.3% Sb (1Moz Au, 93kt Sb)",
+    "resource_context": "Hillgrove Project (ASX:LRV) - Located adjacent to Trigg's Spartan West project, shown on Figure 1 map legend",
+    "target_commodity": "Sb",
+    "filename": "spartan_388.pdf",
+    "is_project_total": true
+  }
+]

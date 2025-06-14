@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "0.133 Mt @ 1.4 g/t Au containing 6,000 oz Au",
+    "source_sentence": "Measured,Indicated,Inferred,Total\\nDeposit,To nn Mt,Grade g/t Au,Au Ounces (000s),Tonnes Mt,Grade g/t Au,Au Ounces (000s),Tonnes Mt,Grade g/t Au,Au Ounces (000s),Tonnes Mt,Grade g/t Au,Au Ounces (000s)\\nDarlot²,0.133,1.4,6,8.8,3.9,1,107,8.7,2.9,820,17.6,3.4,1,933",
+    "resource_context": "Darlot - Measured Resource",
+    "target_commodity": "Au",
+    "filename": "music_well_315.pdf",
+    "is_project_total": false
+  }
+]

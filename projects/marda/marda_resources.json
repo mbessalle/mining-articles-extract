@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "2.3 Mt @ 1.9 g/t Au (143 koz)",
+    "source_sentence": "Ramelius completed mining across several open pits with a total production of 2.3mt @ 1.9g/t Au (143koz)¹ between 2019 and 2023.",
+    "resource_context": "Marda Gold Project - Total Historical Production (2019-2023)",
+    "target_commodity": "Au",
+    "filename": "marda_266.pdf",
+    "is_project_total": true
+  }
+]

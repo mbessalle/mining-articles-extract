@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "56Mt at 2.6% TREO",
+    "source_sentence": "The Piper Project is located 320km north west of Alice Springs and 170km along strike to the north west from Nolans Bore REE deposit (resource 56Mt at 2.6% TREO¹, see Figure 1).",
+    "resource_context": "Nolans Bore REE deposit",
+    "target_commodity": "REE",
+    "filename": "piper_349.pdf",
+    "is_project_total": false
+  }
+]

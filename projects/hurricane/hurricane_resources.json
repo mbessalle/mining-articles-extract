@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "311 Mt @ 0.31 g/t Au",
+    "source_sentence": "MT LYELL 311mt @ 0.97% Cu, 0.31g/t Au",
+    "resource_context": "Mt Lyell deposit, Mt Read Project (Regional/Historical Resource)",
+    "target_commodity": "Au",
+    "is_project_total": false,
+    "filename": "hurricane_207.pdf"
+  }
+]

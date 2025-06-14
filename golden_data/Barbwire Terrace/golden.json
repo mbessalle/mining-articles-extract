@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Andrew Muir",
+    "justification": "Sipa Managing Director Andrew Muir commented:..."
+  },
+  "interest_acquired_percent": {
+    "value": 50,
+    "justification": "Sipa agrees to purchase Buru Energy Limited’s 50% share of the Barbwire Terrace Project, to move to 100% ownership."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The values are given in '$' and the buyer, Sipa Resources, is an Australian company (ASX: SRI), so currency is inferred as AUD."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "Consideration for the purchase is explicitly stated as a royalty; no cash payment is mentioned for the acquisition itself."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Consideration is a royalty; no share-based payment is mentioned."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as consideration is a royalty."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned as part of the transaction."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned as part of the transaction."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "No future exploration commitment in meters is specified as part of this deal."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No future exploration commitment in monetary terms is specified as part of this deal."
+  },
+  "exploration_commitment_desc": {
+    "value": "Sipa will refine and prioritise multiple remaining targets to assess the next steps.",
+    "justification": "Multiple targets remain to be tested at the project and Sipa will refine and prioritise these to assess the next steps, as part of its ongoing portfolio review..."
+  },
+  "nsr_acquired_percent": {
+    "value": 0.6,
+    "justification": "Consideration for the purchase is a 0.6% Net Smelter Return royalty."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "The document does not specify the area of the Barbwire Terrace Project in hectares or km²."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "The document does not specify the area of the Barbwire Terrace Project."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The announcement states the project has achieved 'proof of concept' status but does not provide a formal JORC-compliant resource estimate."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:SRI",
+    "justification": "Sipa Resources Limited (ASX: SRI) (“Sipa” or “the Company”) is pleased to advise..."
+  }
+}

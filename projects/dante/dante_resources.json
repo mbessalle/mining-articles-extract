@@ -1,0 +1,34 @@
+[
+  {
+    "resource_value": "390Mt @ 0.30% Cu",
+    "source_sentence": "Nebo - Babel 390Mt @ 0.30% Cu, 0.33% Ni, 0.23g/t PGE3 (BHP)",
+    "resource_context": "Nebo - Babel Deposit (BHP)",
+    "target_commodity": "Cu",
+    "filename": "dante_101.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "390Mt @ 0.23g/t PGE3",
+    "source_sentence": "Nebo - Babel 390Mt @ 0.30% Cu, 0.33% Ni, 0.23g/t PGE3 (BHP)",
+    "resource_context": "Nebo - Babel Deposit (BHP)",
+    "target_commodity": "Pt",
+    "is_project_total": false,
+    "filename": "dante_101.pdf"
+  },
+  {
+    "resource_value": "390Mt @ 0.23g/t PGE3",
+    "source_sentence": "Nebo - Babel 390Mt @ 0.30% Cu, 0.33% Ni, 0.23g/t PGE3 (BHP)",
+    "resource_context": "Nebo - Babel Deposit (BHP)",
+    "target_commodity": "Pd",
+    "is_project_total": false,
+    "filename": "dante_101.pdf"
+  },
+  {
+    "resource_value": "390Mt @ 0.33% Ni",
+    "source_sentence": "Nebo - Babel 390Mt @ 0.30% Cu, 0.33% Ni, 0.23g/t PGE3 (BHP)",
+    "resource_context": "Nebo - Babel Deposit (BHP)",
+    "target_commodity": "Ni",
+    "is_project_total": false,
+    "filename": "dante_101.pdf"
+  }
+]

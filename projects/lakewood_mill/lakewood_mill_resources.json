@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "26,789 kt @ 2.9 g/t Au, 2,488 koz Au",
+    "source_sentence": "TOTAL Resource,183,9.7,57,12,442,3.2,1,280,14,164,2.5,1,152,26,789,2.9,2,488",
+    "resource_context": "JORC 2012 Gold Resource Table - TOTAL Resource - Total Resource",
+    "target_commodity": "Au",
+    "filename": "lakewood_mill_249.pdf",
+    "is_project_total": true
+  }
+]

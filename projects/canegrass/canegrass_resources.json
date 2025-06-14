@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "146Mt at 0.70% V2O5, 31.8% Fe & 6.6% TiO2",
+    "source_sentence": "The Project contains a large JORC (2012) Global Inferred Mineral Resource Estimate (MRE) of 146Mt at 0.70% V2O5, 31.8% Fe & 6.6% TiO2 (>0.5% V2O5 cut-off), see ASX announcement 20 November 2023.",
+    "resource_context": "JORC (2012) Global Inferred Mineral Resource Estimate (MRE), Canegrass Battery Minerals Project",
+    "target_commodity": "V",
+    "filename": "canegrass_62.pdf",
+    "is_project_total": false
+  }
+]

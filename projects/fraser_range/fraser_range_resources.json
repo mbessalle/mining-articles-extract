@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "352,000 oz gold",
+    "source_sentence": "MinRex Resources Limited (ASX: MRR) is an Australian based ASX-listed gold and base metals explorer with highly prospective gold and base metals projects in the Lachlan Fold Belt of NSW. The Company's portfolio comprises around 438km² of tenements, including the Sofala Gold Project (NSW) which hosts JORC 2012 Resources totalling 352,000 oz gold.",
+    "resource_context": "Sofala Gold Project (NSW) - JORC 2012 Resources",
+    "target_commodity": "Au",
+    "filename": "fraser_range_148.pdf",
+    "is_project_total": true
+  }
+]

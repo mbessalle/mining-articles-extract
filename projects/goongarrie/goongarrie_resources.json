@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "61,819 Kt @ 1.5 g/t Au containing 3,005 Koz",
+    "source_sentence": "Total - BTR (Attributable) 1,464 2.0 93 16,689 1.7 902 44,144 1.4 2,035 61,819 1.5 3,005",
+    "resource_context": "Brightstar Total Attributable - Total",
+    "target_commodity": "Au",
+    "filename": "goongarrie_170.pdf",
+    "is_project_total": true
+  }
+]

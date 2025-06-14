@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Neil Marston",
+    "justification": "Flynn Gold Managing Director & CEO Neil Marston said..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The document describes a new Exploration Licence Application (EL13/2024) submitted by Flynn Gold, implying they are seeking 100% control of the tenement."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The Capital Structure section lists values as 'A$', e.g., 'Share Price: A$0.025'."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The transaction is an application for a new tenement from the government, not a purchase from another company; no cash consideration is mentioned."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The transaction is a tenement application; no share-based consideration is mentioned."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The transaction is a tenement application; no combined consideration is mentioned."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned as part of this transaction."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned for this transaction."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future exploration plans are mentioned, but no specific meterage is defined as a contractual commitment."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "Future exploration plans are mentioned, but no specific monetary value is defined as a contractual commitment."
+  },
+  "exploration_commitment_desc": {
+    "value": "Data compilation and reconnaissance exploration programs to identify priority targets.",
+    "justification": "Once EL13/2024 is granted, data compilation and reconnaissance exploration programs will commence to identify priority targets."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in relation to this tenement application."
+  },
+  "coverage_area_raw": {
+    "value": 40,
+    "justification": "New FG1 Exploration Licence Application (EL13/2024) submitted over 40km2 of highly prospective exploration tenure..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...submitted over 40km2 of highly prospective exploration tenure..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "A resource size (1.77Moz Au) is mentioned, but the text explicitly attributes it to the adjacent Beaconsfield Gold Mine, which is on a separate, excluded Mining Lease."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:FG1",
+    "justification": "Flynn Gold Limited (ASX: FG1, “Flynn” or “the Company”) is pleased to advise..."
+  }
+}

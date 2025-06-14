@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Ashley Hood",
+    "justification": "The buyer is TechGen Metals Limited. The text states: 'TechGen’s Managing Director, Ashley Hood, commented: “The Blue Bore Copper Project is a unique opportunity...\"'"
+  },
+  "interest_acquired_percent": {
+    "value": 80,
+    "justification": "This is an option agreement. The final potential interest upon exercise is 80%. The text states the company has 'an option to acquire an 80% legal and beneficial interest in the Blue Bore Copper Project'."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The option fee is denoted with a '$' symbol ($50,000). The acquiring company, TechGen Metals, is registered in Australia (ABN provided), implying the currency is Australian Dollars."
+  },
+  "cash_payments_raw": {
+    "value": 50000,
+    "justification": "The only cash consideration is the option fee. 'Grant of the Option is subject to TechGen paying a total of $50,000 cash (plus GST) to the Vendor... The only consideration payable under the Option Agreement is the Option Fee.'"
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The agreement terms do not include any payment in the form of shares from the buyer."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "An explicit cash payment amount is provided, so this field is not applicable per the extraction hierarchy."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No shares are being issued by the buyer as part of this transaction."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No shares are being issued by the buyer, so there is no issue price."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The exploration commitment is to drill a 'single drill hole' but 'there is no prescribed minimum depth for the drill hole'. A specific number of meters is not mentioned."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The agreement states TechGen will 'meet all outgoings in respect of the Tenements', but no specific monetary value for an exploration commitment is provided."
+  },
+  "exploration_commitment_desc": {
+    "value": "TechGen must complete a single AC or RC drill hole on the tenements before it can exercise its option.",
+    "justification": "A condition precedent for exercising the option is: 'TechGen providing written notice to Vendor that TechGen has completed an AC or RC single drill hole on the Tenements...'"
+  },
+  "nsr_acquired_percent": {
+    "value": 2,
+    "justification": "The seller has the option to convert its remaining 20% interest into a 2% NSR. The text states the Vendor can 'automatically convert its 20% interest in the Assets into a 2% net smelter return royalty over all minerals produced from the Tenements (Royalty)'."
+  },
+  "coverage_area_raw": {
+    "value": 3950,
+    "justification": "The Project consists of 6 Exploration Licences, EL33313 – EL33318, covering a combined area of 3,950 km2."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The Project consists of 6 Exploration Licences, EL33313 – EL33318, covering a combined area of 3,950 km2."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document describes the project as 'a conceptual copper project located in an unexplored region' and 'has not been previously explored for minerals'. No resource estimate is mentioned."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": null,
+    "justification": "The document identifies the buyer as 'TechGen Metals Limited' but does not provide a stock ticker symbol (e.g., ASX:TGM) anywhere in the text."
+  }
+}

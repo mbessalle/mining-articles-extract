@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "11.7Mt at 0.77% TREO (with DyTb contributing to 10% of the TREO)",
+    "source_sentence": "The project is located 40km from the Northern Minerals (ASX: NTU) Browns Range HRE project, which is one of the most significant HRE districts in the world, with 7 xenotime deposits hosting 11.7Mt at 0.77% TREO (with DyTb contributing to 10% of the TREO)¹.",
+    "resource_context": "Browns Range HRE project - 7 xenotime deposits",
+    "target_commodity": "REE",
+    "filename": "mt_mansbridge_294.pdf",
+    "is_project_total": true
+  }
+]

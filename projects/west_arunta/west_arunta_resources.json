@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "200Mt @ 1.0% Nb2O5",
+    "source_sentence": "WA1: Luni Resource 200Mt @ 1.0% Nb2O5",
+    "resource_context": "WA1: Luni Resource",
+    "target_commodity": "Nb",
+    "filename": "west_arunta_446.pdf",
+    "is_project_total": false
+  }
+]

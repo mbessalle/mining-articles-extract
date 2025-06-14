@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "16.8Mt @ 0.73g/t Au for 396,800 oz Au",
+    "source_sentence": "The area is considered prospective for intrusion-related gold mineralisation, a local example of which is the Timbarra Au deposit (Total mineral resource of 16.8Mt @ 0.73g/t Au for 396,800 oz Au)¹ which is approximately 100km north of the Kookabookra Project (see THB:ASX announcement dated 13 November 2024 titled “Acquisition of highly prospective Antimony and Gold Projects”).",
+    "resource_context": "Timbarra Au deposit - Total mineral resource (example, not Thunderbird's project)",
+    "target_commodity": "Au",
+    "filename": "kookabookra_236.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "7.2Mt @ 1.3% Sb (93kt Sb)",
+    "source_sentence": "Hillgrove Au-Sb Project Larvotto Resources (ASX:LVR) 7.2Mt @ 4.4 g/t Au, 1.3% Sb (1Moz Au, 93kt Sb)",
+    "resource_context": "Hillgrove Au-Sb Project - Larvotto Resources (example, not Thunderbird's project)",
+    "target_commodity": "Sb",
+    "filename": "kookabookra_236.pdf",
+    "is_project_total": true
+  }
+]

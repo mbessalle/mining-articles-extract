@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "246.7Mt capable of producing a concentrate at >68% Fe",
+    "source_sentence": "In Western Australia, Burley also owns a 70% interest in the Yerecoin Iron Ore Project, located approximately 120km northeast of Perth, and which has a JORC 2012 compliant Inferred and Indicated Mineral Resource of 246.7Mt capable of producing a concentrate at >68% Fe8.",
+    "resource_context": "Yerecoin Iron Ore Project - JORC 2012 compliant Inferred and Indicated Mineral Resource (Burley's 70% interest)",
+    "target_commodity": "Fe",
+    "filename": "cane_bore_61.pdf",
+    "is_project_total": true
+  }
+]

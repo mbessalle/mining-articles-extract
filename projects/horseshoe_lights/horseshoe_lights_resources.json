@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "138,050 tonnes Cu",
+    "source_sentence": "TOTAL 138,050 52,600 1,124.9",
+    "resource_context": "Horseshoe Lights Project - Total Project Resource",
+    "target_commodity": "Cu",
+    "filename": "horseshoe_lights_205.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "52,600 oz Au",
+    "source_sentence": "TOTAL 138,050 52,600 1,124.9",
+    "resource_context": "Horseshoe Lights Project - Total Project Resource",
+    "target_commodity": "Au",
+    "filename": "horseshoe_lights_205.pdf",
+    "is_project_total": true
+  }
+]

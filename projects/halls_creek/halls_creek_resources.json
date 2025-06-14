@@ -1,0 +1,42 @@
+[
+  {
+    "resource_value": "89kt",
+    "source_sentence": "The Halls Creek Project hosts two major deposits with existing Mineral Resource estimates containing a combined 89kt copper (Cu), 69kt lead (Pb), 326kt zinc (Zn), 9.2Moz silver (Ag) and 45koz gold (Au) including:",
+    "resource_context": "Halls Creek Project - Combined Resource",
+    "target_commodity": "Cu",
+    "filename": "halls_creek_185.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "69kt",
+    "source_sentence": "The Halls Creek Project hosts two major deposits with existing Mineral Resource estimates containing a combined 89kt copper (Cu), 69kt lead (Pb), 326kt zinc (Zn), 9.2Moz silver (Ag) and 45koz gold (Au) including:",
+    "resource_context": "Halls Creek Project - Combined Resource",
+    "target_commodity": "Pb",
+    "filename": "halls_creek_185.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "326kt",
+    "source_sentence": "The Halls Creek Project hosts two major deposits with existing Mineral Resource estimates containing a combined 89kt copper (Cu), 69kt lead (Pb), 326kt zinc (Zn), 9.2Moz silver (Ag) and 45koz gold (Au) including:",
+    "resource_context": "Halls Creek Project - Combined Resource",
+    "target_commodity": "Zn",
+    "filename": "halls_creek_185.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "9.2Moz",
+    "source_sentence": "The Halls Creek Project hosts two major deposits with existing Mineral Resource estimates containing a combined 89kt copper (Cu), 69kt lead (Pb), 326kt zinc (Zn), 9.2Moz silver (Ag) and 45koz gold (Au) including:",
+    "resource_context": "Halls Creek Project - Combined Resource",
+    "target_commodity": "Ag",
+    "filename": "halls_creek_185.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "45koz",
+    "source_sentence": "The Halls Creek Project hosts two major deposits with existing Mineral Resource estimates containing a combined 89kt copper (Cu), 69kt lead (Pb), 326kt zinc (Zn), 9.2Moz silver (Ag) and 45koz gold (Au) including:",
+    "resource_context": "Halls Creek Project - Combined Resource",
+    "target_commodity": "Au",
+    "filename": "halls_creek_185.pdf",
+    "is_project_total": true
+  }
+]

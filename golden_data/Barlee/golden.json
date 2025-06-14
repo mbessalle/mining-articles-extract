@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Stuart Fogarty",
+    "justification": "Authorised for release by: Stuart Fogarty Duketon Mining Limited - Managing Director"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Grant of new tenement adjoining Barlee Project... Duketon Mining Limited (Company or DKM) is pleased to announce the granting of a tenement at the Company’s 100% owned Barlee Project..."
+  },
+  "currency": {
+    "value": null,
+    "justification": "No monetary values are mentioned as part of any transaction in this announcement."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The announcement is about a tenement being granted, not purchased; no cash consideration is mentioned."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The announcement is about a tenement being granted, not purchased; no share-based consideration is mentioned."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The announcement is about a tenement being granted, not purchased; no combined consideration is mentioned."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned in this announcement."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned in this announcement."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future plans mention aircore drilling, but no specific meterage is defined as a contractual commitment."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No monetary value for an exploration commitment is stated."
+  },
+  "exploration_commitment_desc": {
+    "value": "Next steps are to infill soil samples if necessary and follow up gold anomalies with aircore drilling in preparation for target testing.",
+    "justification": "Next steps are to infill soil samples if necessary and follow up gold anomalies with aircore drilling in preparation for target testing."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in this announcement."
+  },
+  "coverage_area_raw": {
+    "value": 253,
+    "justification": "The Barlee tenement, E77/3160, adjoins the Company’s existing tenement package and increases the area of granted tenure at the Barlee Project to 253 sq.km."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...increases the area of granted tenure at the Barlee Project to 253 sq.km."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The announcement describes 'gold in soil' anomalies but does not provide a formal JORC-compliant resource estimate for the project."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:DKM",
+    "justification": "The document is an 'ASX Announcement' and defines the company as 'Duketon Mining Limited (Company or DKM)', allowing the ticker 'DKM' to be inferred and combined with the exchange."
+  }
+}

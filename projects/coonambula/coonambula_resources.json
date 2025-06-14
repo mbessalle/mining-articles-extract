@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "20kt @ 20g/t Au",
+    "source_sentence": "Past production of gold from the mine was reported as 20kt @ 20g/t Au (Malnic, 1985) however only 3 drill holes completed to date.",
+    "resource_context": "Perseverance Mine - Historical Production",
+    "target_commodity": "Au",
+    "filename": "coonambula_75.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "23.9% Sb",
+    "source_sentence": "T10 Veins: 23.9% Sb & 9.93g/t Au",
+    "resource_context": "Banshee Prospect - Trench T10 Veins sample",
+    "target_commodity": "Sb",
+    "is_project_total": false,
+    "filename": "coonambula_78.pdf"
+  }
+]

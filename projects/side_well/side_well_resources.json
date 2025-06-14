@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "7,450 kt @ 2.8 g/t Au containing 668,000 oz Au",
+    "source_sentence": "Total 3,152 3.4 340,000 4,298 2.4 327,000 7,450 2.8 668,000",
+    "resource_context": "Side Well Gold Project - Total Mineral Resource (Mulga Bill & Ironbark)",
+    "target_commodity": "Au",
+    "filename": "side_well_381.pdf",
+    "is_project_total": true
+  }
+]

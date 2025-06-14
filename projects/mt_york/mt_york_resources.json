@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "49.24 Mt @ 1.02 g/t Au for 1,618 kozs",
+    "source_sentence": "Total Mt York 23.7 1.10 835 25.54 0.95 784 49.24 1.02 1,618",
+    "resource_context": "Total Mt York Gold Project - Total Resource (Cut-off 0.5 g/t Au)",
+    "target_commodity": "Au",
+    "filename": "mt_york_311.pdf",
+    "is_project_total": true
+  }
+]

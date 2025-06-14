@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "John Hannaford",
+    "justification": "The buyer is Forrestania Resources, and the text states: 'Forrestania Resources’ Chairman John Hannaford commented: “We are pleased to announce the revised terms for the Option agreement...\"'"
+  },
+  "interest_acquired_percent": {
+    "value": null,
+    "justification": "The document states that an option agreement was 'varied and exercised', but it does not specify the percentage of interest acquired in the Bonnie Vale project as part of this transaction."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "Payments are specified with a '$' symbol. The acquiring company, Forrestania Resources Ltd, is listed on the ASX (ASX: FRS), which implies the currency is Australian Dollars."
+  },
+  "cash_payments_raw": {
+    "value": 50000,
+    "justification": "The total cash payment is $100,000 upon exercise for two projects (Bonnie Vale and Breakaway Dam). According to the 'Shared Commitments' rule, this value is divided by 2. The text states: 'Payment of $100,000 cash upon exercise.'"
+  },
+  "share_payments_raw": {
+    "value": 550000,
+    "justification": "The total deferred share consideration is $1.1m for two projects (Bonnie Vale and Breakaway Dam). According to the 'Shared Commitments' rule, this value is divided by 2. The text states: 'Deferral of the $1.1m share consideration payable up until May 2026.'"
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The deal terms are broken down into separate cash and share components, so this field is not applicable per the extraction hierarchy."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The number of shares is not fixed; it is to be calculated based on a future event: 'based on a 5 day VWAP share price at the time'."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The share price is not a fixed value; it is to be determined by a future '5 day VWAP share price at the time, subject to a maximum share price of 20 cents per share'."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document mentions past drilling but does not state a new exploration commitment in meters as part of the revised agreement."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The document does not specify a monetary exploration commitment as part of the revised agreement terms."
+  },
+  "exploration_commitment_desc": {
+    "value": null,
+    "justification": "No specific exploration commitment is detailed as part of the revised option agreement."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "The document does not mention any Net Smelter Royalty (NSR) or equivalent royalty being acquired or retained as part of the agreement."
+  },
+  "coverage_area_raw": {
+    "value": 90,
+    "justification": "The text specifies the area for the Bonnie Vale project: 'The Bonnie Vale project area is one of the largest continuous tenements (~90km2) within the Coolgardie region...'"
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The text provides the unit for the Bonnie Vale project area: 'The Bonnie Vale project area is one of the largest continuous tenements (~90km2)...'"
+  },
+  "resource_size_desc": {
+    "value": "Significant historic and recent high-grade Au drilling results at the Ada Ann prospect, including 4m @ 16.3g/t Au (from 76m).",
+    "justification": "The document does not state a JORC compliant resource but highlights significant drilling results. A key result mentioned is: 'AARC0029 – 4m @ 16.3g/t Au (from 76m)'."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:FRS",
+    "justification": "The acquiring company is identified in the first paragraph as 'Forrestania Resources Limited (ASX: FRS)'."
+  }
+}

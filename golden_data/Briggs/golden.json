@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Frazer Tabeart",
+    "justification": "The buyer is Alma Metals Limited. The text states the announcement was 'authorised for release by Managing Director, Frazer Tabeart'."
+  },
+  "interest_acquired_percent": {
+    "value": 70,
+    "justification": "This is a farm-in agreement. The rule requires using the final potential ownership percentage. The document states Alma 'can earn up to a 70% interest from owner Canterbury Resources Limited (ASX: CBY) via a staged earn-in'."
+  },
+  "currency": {
+    "value": null,
+    "justification": "The document describes an earn-in via exploration expenditure and a tenement acquisition whose terms are not disclosed. No specific monetary payments with currency are mentioned."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The document does not mention any cash payments as part of the ongoing earn-in. The terms for the separate tenement acquisition from Tropex Metals are not included in this text."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The document does not mention any share payments as part of the ongoing earn-in or the separate tenement acquisition."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "No payments are described, so this field is not applicable."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The document does not mention any shares being issued."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No shares were issued, so there is no issue price."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document describes an ongoing drilling program but does not specify a total meterage as a formal commitment for the earn-in."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The text states that the current drilling program will meet expenditure requirements for Stage 2 of the earn-in, but it does not specify the monetary value of those requirements."
+  },
+  "exploration_commitment_desc": {
+    "value": "Core drilling commenced last month and will initially focus on testing and infill drilling of the southwest part of the large geochemical anomaly at the Briggs Central inferred resource. Completion of this program will meet Stage 2 earn-in requirements.",
+    "justification": "The document states: 'Core drilling recommenced at Briggs last month and will initially focus on testing and infill drilling of the southwest part of the large geochemical anomaly at the Briggs Central inferred resource...Completion of the current drilling program will meet the expenditure requirements to complete Stage 2 of the Earn-In...'"
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "There is no mention of a Net Smelter Royalty (NSR) in the document."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "The document states that three EPMs have been added to the project, but it does not provide the area of these EPMs or the total area of the Briggs project."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "No area value was provided in the text."
+  },
+  "resource_size_desc": {
+    "value": "415Mt @ 0.25% Cu and 31ppm Mo (Inferred)",
+    "justification": "The document states that 'over one million tonnes of contained copper has been defined in Inferred resources (415Mt @ 0.25% Cu and 31pm Mo, ASX release 6 July 2023).'"
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:ALM",
+    "justification": "The buyer is identified as 'Alma Metals Limited (ASX: ALM...)' in the first paragraph."
+  }
+}

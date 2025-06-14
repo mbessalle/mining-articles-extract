@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "7.45Mt @ 2.8g/t Au containing 668,000oz Au",
+    "source_sentence": "The Company's core focus is the Side Well Gold Project at Meekatharra in the Murchison gold field, where exploration has defined a Mineral Resource of 7.45Mt @ 2.8g/t Au for 668,000oz Au (340koz @ 3.4g/t Au Indicated, 327koz @ 2.4g/t Au Inferred).",
+    "resource_context": "Side Well Gold Project - Total Mineral Resource",
+    "target_commodity": "Au",
+    "filename": "whiteheads_448.pdf",
+    "is_project_total": true
+  }
+]

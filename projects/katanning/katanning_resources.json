@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "88.9 Mt @ 1.06 g/t Au, containing 3.04 MOz Au",
+    "source_sentence": "Total 88.9 1.06 3.04",
+    "resource_context": "Katanning Gold Project - Total Mineral Resource (Table 1)",
+    "target_commodity": "Au",
+    "filename": "katanning_233.pdf",
+    "is_project_total": true
+  }
+]

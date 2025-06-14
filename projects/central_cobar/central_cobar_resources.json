@@ -1,0 +1,26 @@
+[
+  {
+    "resource_value": "16.74 Mt (356 koz Au)",
+    "source_sentence": "Total (JORC 2012 + JORC 2004) 16.74 356 23315",
+    "resource_context": "Drake Project - Total Resource (JORC 2012 + JORC 2004)",
+    "target_commodity": "Au",
+    "filename": "central_cobar_68.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "1,830,000 Tonnes @ 1.74% Cu, 31,842 Cu-Metal (t)",
+    "source_sentence": "MRE Category: Total: Opencut & Underground, Tonnes: 1,830,000, Grade (Cu%): 1.74, Cu-Metal (t): 31,842",
+    "resource_context": "Canbelego Main Lode - Total Opencut & Underground MRE",
+    "target_commodity": "Cu",
+    "filename": "central_cobar_70.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "6 Mt @ 0.33% Zn, 19.8 kt Zn",
+    "source_sentence": "Sub-Total 6 1.17 1.59 0.33 0.06 225 306 19.8 3.5",
+    "resource_context": "Strauss & Kylo - Sub-Total Resource (JORC 2012)",
+    "target_commodity": "Zn",
+    "is_project_total": true,
+    "filename": "central_cobar_69.pdf"
+  }
+]

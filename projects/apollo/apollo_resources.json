@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "1,820,000 Tonnes @ 3.21 g/t Au containing 188,000 oz",
+    "source_sentence": "RESOURCE STATEMENT (JORC 2012) based on 1g/tAu Cutoff TABLE 2\nChallenger\nGold\tTonnes\tGrade(g/t Au)\tGold (oz)\nMeasured\t60%\t357,000\t4.17\t47,900\nIndicated\t23%\t163,000\t3.5\t18,300\nInferred\t17%\t144,000\t3.07\t14,100\nTotal\t100%\t664,000\t3.77\t80,300\nCurrajong West & Currajong East\nMeasured\nIndicated\t24%\t126,000\t2.57\t10,400\nInferred\t76%\t407,000\t2.63\t34,400\nTotal\t100%\t533,000\t2.62\t44,800\nDonkey Hill\nMeasured\nIndicated\nInferred\t100%\t103,000\t5.03\t16,600\nTotal\t100%\t103,000\t5.03\t16,600\nCaledonian\nMeasured\nIndicated\t57%\t127,000\t3.90\t15,900\nInferred\t43%\t123,000\t3.04\t12,100\nTotal\t100%\t250,000\t3.48\t28,000\nPerkins West, Gibraltar\nMeasured\nIndicated\nInferred\t100%\t270,000\t2.1\t18,300\nTotal\t100%\t270,000\t2.1\t18,300\nMeasured\t20%\t357,000\t4.17\t47,900\nIndicated\t23%\t416,000\t3.33\t44,600\nInferred\t58%\t1,047,000\t2.84\t95,500\nTOTAL PROJECT RESOURCES\t100%\t1,820,000\t3.21\t188,000\nADELONG GOLD PROJECT RESOURCES\nTonnes\tGrade(g/t Au)\tGold (oz)\nMeasured\t20%\t357,000\t4.17\t47,900\nIndicated\t23%\t416,000\t3.33\t44,600\nInferred\t58%\t1,047,000\t2.84\t95,500",
+    "resource_context": "Adelong Gold Project - Total JORC Resources",
+    "target_commodity": "Au",
+    "filename": "apollo_16.pdf",
+    "is_project_total": true
+  }
+]

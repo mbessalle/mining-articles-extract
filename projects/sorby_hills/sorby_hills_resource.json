@@ -1,0 +1,47 @@
+[
+  {
+    "resource_description": "47.3Mt containing 1.5Mt Pb at 3.1% and 53Moz Sliver at 35g/t",
+    "source_sentence": "The Sorby Hills Resource comprises a Mineral Resource of 47.3Mt containing 1.5Mt Pb at 3.1% and 53Moz Sliver at 35g/t (Table 1).",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "18.3Mt at 3.4% Pb and 39g/t Ag",
+    "source_sentence": "The current Sorby Hills mine plan comprises 18.3Mt at 3.4% Pb and 39g/t Ag of which ~83% is classified as an Ore Reserve (Table 2).",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "12.6 3.5% 0.4% 43 444 45 17,521",
+    "source_sentence": "Measured 12.6 3.5% 0.4% 43 444 45 17,521",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "11.0 3.4% 0.4% 34 377 46 12,114",
+    "source_sentence": "Indicated 11.0 3.4% 0.4% 34 377 46 12,114",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "23.6 2.7% 0.5% 31 645 117 23,406",
+    "source_sentence": "Inferred 23.6 2.7% 0.5% 31 645 117 23,406",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "47.3 3.1% 0.4% 35 1,465 207 53,042",
+    "source_sentence": "Total 47.3 3.1% 0.4% 35 1,465 207 53,042",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "10.4 3.5% 42 358 14.1",
+    "source_sentence": "Proved 10.4 3.5% 42 358 14.1",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "4.9 3.5% 32 172 5.0",
+    "source_sentence": "Probable 4.9 3.5% 32 172 5.0",
+    "filename": "sorby_hills_385.pdf"
+  },
+  {
+    "resource_description": "15.2 3.5% 39 531 19.1",
+    "source_sentence": "Total Ore Reserve 15.2 3.5% 39 531 19.1",
+    "filename": "sorby_hills_385.pdf"
+  }
+]

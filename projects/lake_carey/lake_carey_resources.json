@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "11,861 '000t @ 2.5 g/t Au containing 949 '000 oz",
+    "source_sentence": "Total 232 5.0 4,079 2.8 7,342 2.2 11,861 2.5 949",
+    "resource_context": "Table 1: Lake Carey Gold Project - Total Resource",
+    "target_commodity": "Au",
+    "filename": "lake_carey_244.pdf",
+    "is_project_total": true
+  }
+]

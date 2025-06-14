@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Brendan Borg",
+    "justification": "The announcement is authorised by and contact provided for Mr. Brendan Borg, a Director of Bubalus Resources."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Bubalus has been granted an exclusive and binding option to acquire 100% of EL007115, EL007370 and EL007542..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The values are given in '$' and the company is Australian (ASX:BUS), so currency is inferred as AUD."
+  },
+  "cash_payments_raw": {
+    "value": 1225000,
+    "justification": "Sum of the $50,000 exclusivity fee and all staged option payments ($50k+$75k+$150k+$300k+$600k)."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Not applicable as the number of shares is provided, making the payment calculable (Priority 2 is incomplete)."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as individual payment components are provided."
+  },
+  "amount_of_shares_issued": {
+    "value": 1550000,
+    "justification": "Sum of 700,000 shares for the Exclusivity Fee and 850,000 Consideration Shares at settlement."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "A deemed issue price of $0.18 is given for the first tranche (700,000 shares) but not for the final tranche (850,000 shares)."
+  },
+  "exploration_commitment_meters": {
+    "value": 1200,
+    "justification": "During the Option Period... Bubalus agrees to: (a) complete a minimum of 1,200 metres of drilling..."
+  },
+  "exploration_commitment_value_raw": {
+    "value": 60000,
+    "justification": "The transaction includes a non-refundable exclusivity fee of $50,000 and the first option payment of $50,000 within 6 months, which are forms of project commitment."
+  },
+  "exploration_commitment_desc": {
+    "value": "Exclusive 48-month option period with a minimum drilling commitment of 1,200m and staged cash payments.",
+    "justification": "Bubalus has been granted an exclusive and binding option... during the period of 48 months... Bubalus agrees to: (a) complete a minimum of 1,200 metres of drilling..."
+  },
+  "nsr_acquired_percent": {
+    "value": 1.0,
+    "justification": "Bubalus also agrees to grant Providence (or its nominees) a 1.0% gross revenue royalty..."
+  },
+  "coverage_area_raw": {
+    "value": 1063,
+    "justification": "...portfolio of Victorian exploration licences covering approximately 1,063 km2..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...covering approximately 1,063 km2..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "No JORC-compliant resource is stated; the text explicitly provides a 'Cautionary Statement' that historical estimates cannot be reported."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:BUS",
+    "justification": "Bubalus Resources Limited (ASX: BUS) (Bubalus or the Company) is pleased to announce..."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "10.6 Mt @ 3.0 g/t Au containing 1.0 Moz",
+    "source_sentence": "Note 1: MRE includes Indicated Resources of 29Mt at 2.9g/t for 2.7Moz and Inferred Resources of 9Mt at 2.7g/t for 0.8Moz. ORE includes probable Reserves of 10.6Mt at 3.0g/t for 1.0Moz.",
+    "resource_context": "ORE - Probable Reserves (Note 1)",
+    "target_commodity": "Au",
+    "filename": "henty_203.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Michael Spreadborough",
+    "justification": "On Behalf of the Board of Directors, Novo Resources Corp. “Michael Spreadborough” Michael Spreadborough Executive Co-Chairman and Acting CEO"
+  },
+  "interest_acquired_percent": {
+    "value": null,
+    "justification": "Interest acquired is mixed: 'a 100% interest in mining lease 45/202 and a 70% interest in mining lease 45/1163'. A single percentage cannot accurately represent the transaction."
+  },
+  "currency": {
+    "value": "CAD",
+    "justification": "The buyer is listed on the Toronto Stock Exchange (TSX: NVO) and the market data sidebar notes 'CAD|TORONTO STOCK EXCHANGE'."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The consideration is described entirely as shares; no cash component is mentioned."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Not applicable as the number of shares is provided, making the payment calculable (Priority 2)."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as the consideration is shares only."
+  },
+  "amount_of_shares_issued": {
+    "value": 8431,
+    "justification": "The Company has issued 8,431 common shares to the Creasy Group (the “Second Completion Shares”)..."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The text provides the number of shares issued but does not state a deemed issue price for this specific transaction."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "No future exploration commitment in meters is mentioned as part of the deal terms."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No future exploration commitment in monetary terms is mentioned as part of the deal terms."
+  },
+  "exploration_commitment_desc": {
+    "value": "Initial exploration work was undertaken in late 2022, with results pending.",
+    "justification": "The Company undertook initial exploration work in the Bamboo Creek and Strattons Project areas in late 2022, with results pending."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in this announcement."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "A total land package size for the company is mentioned (10,500 sq km), but the specific area for the acquired Mining Leases is not stated."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "The specific area unit for the acquired Mining Leases is not stated."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document states the project is 'prospective for orogenic gold, silver and base metal mineralisation' but provides no formal JORC-compliant resource estimate."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "TSX:NVO",
+    "justification": "Novo Resources Corp. (“Novo” or the “Company”) (TSX: NVO, NVO.WT & NVO.WT.A)..."
+  }
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "188,000oz",
+    "source_sentence": "The Project now carries a JORC (2012) Resource of 188,000oz, following a maiden JORC Resource for the Perkins West deposit at Gibraltar of 18,300oz with the potential to expand that resource at depth and along strike.",
+    "resource_context": "JORC (2012) Resource - Project Total",
+    "target_commodity": "Au",
+    "filename": "cosmo_newbery_80.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "resource_value": "23.8Mt @ 2.02% Cu, 0.25 g/t Au",
+    "source_sentence": "Oonagalabi shares many geological similarities to the Jervois Base Metal deposit, located 150km to the northeast (23.8Mt @ 2.02% Cu, 0.25 g/t Au, 25.3 g/t Ag)1.",
+    "resource_context": "Jervois Base Metal deposit",
+    "target_commodity": "Cu",
+    "filename": "oonagalabi_335.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "23.8Mt @ 0.25 g/t Au",
+    "source_sentence": "Oonagalabi shares many geological similarities to the Jervois Base Metal deposit, located 150km to the northeast (23.8Mt @ 2.02% Cu, 0.25 g/t Au, 25.3 g/t Ag)1.",
+    "resource_context": "Jervois Base Metal deposit - Total Resource",
+    "target_commodity": "Au",
+    "is_project_total": true,
+    "filename": "oonagalabi_335.pdf"
+  },
+  {
+    "resource_value": "36.5m @ 1.7% Zn",
+    "source_sentence": "PDH-L 485346.6 7442362 89.975 16/06/1971 -90 360 36.5m @ 1.7% Zn & 1% Cu from 1.5m",
+    "resource_context": "Oonagalabi Historical Drillholes, PDH-L drill intercept",
+    "target_commodity": "Zn",
+    "is_project_total": false,
+    "filename": "oonagalabi_334.pdf"
+  }
+]

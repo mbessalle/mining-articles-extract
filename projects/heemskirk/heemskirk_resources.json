@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "7.48Mt @ 1.04% Sn, containing 77.87kt of tin",
+    "source_sentence": "The Company has defined a substantial high-grade resource totalling 7.48Mt at 1.04% Sn, containing 77.87kt of tin¹ This ranks the Heemskirk Project as the highest-grade undeveloped tin resource in Australia and third globally.",
+    "resource_context": "Heemskirk Tin Project - Total Resource",
+    "target_commodity": "Sn",
+    "filename": "heemskirk_198.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": null,
+    "justification": "S2 Resources is the buyer, but their CEO/Executive is not named in this document. The only executive mentioned, Chris Donaldson, is the CEO of the seller, Valkea Resources, and is therefore not the correct contact per the entity resolution protocol."
+  },
+  "interest_acquired_percent": {
+    "value": 80,
+    "justification": "Pursuant to the YBWSS Option, S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "...by sole-funding total expenditures of A$1.2 million within four years."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "Consideration is based on exploration expenditure; no direct cash payment from the buyer to the seller is mentioned for this option."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Consideration is based on exploration expenditure; no share payment from the buyer to the seller is mentioned for this option."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as consideration is based on exploration expenditure."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned as part of the option agreement terms."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned as part of the option agreement terms."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The exploration commitment is defined in monetary terms, not in meters of drilling."
+  },
+  "exploration_commitment_value_raw": {
+    "value": 400000,
+    "justification": "The commitment of A$1.2 million is shared across 3 projects (Yuengroon, Ballarat West, Silver Spoon), resulting in a per-project commitment of $400,000."
+  },
+  "exploration_commitment_desc": {
+    "value": "Earn an 80% interest by sole-funding total expenditures of A$1.2 million across three projects within four years.",
+    "justification": "S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects by sole-funding total expenditures of A$1.2 million within four years."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "A 2% NSR is mentioned, but it is a future, conditional royalty triggered by dilution, not a part of the initial transaction consideration."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "The area/size of the Ballarat West project is not specified in the document."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "The area/size of the Ballarat West project is not specified in the document."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "No JORC-compliant resource estimate is stated for the Ballarat West project in this announcement."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": null,
+    "justification": "S2 Resources is the buyer, but their stock exchange or ticker is not mentioned in the document."
+  }
+}

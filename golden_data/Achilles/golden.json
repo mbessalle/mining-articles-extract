@@ -1,0 +1,62 @@
+{
+  "ceo_buyer": {
+    "value": "Timothy Morrison",
+    "justification": "Trigg Minerals Executive Chair Timothy Morrison said..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Trigg signs purchase agreement to acquire the 100% of the Achilles project..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "Consideration: AU$250,000 worth of shares in TMG..."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "100% non-cash transaction allows Trigg to preserve its healthy cash balance..."
+  },
+  "share_payments_raw": {
+    "value": 450000,
+    "justification": "Consideration: AU$250,000 worth of shares... An additional AU$200,000 worth of shares..."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as explicit share payment value is provided (Priority 1)."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "Not applicable as an explicit total share value is provided (Priority 1)."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "Not applicable as an explicit total share value is provided (Priority 1)."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "No specific meterage is defined as a contractual commitment in the DEAL TERMS section."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No specific monetary value is defined as a contractual commitment in the DEAL TERMS section."
+  },
+  "exploration_commitment_desc": {
+    "value": null,
+    "justification": "Forward-looking statements about exploration exist, but there is no specific, quantifiable commitment in the deal terms to capture."
+  },
+  "nsr_acquired_percent": {
+    "value": 1,
+    "justification": "A 1% net smelter return (NSR) royalty on all minerals extracted from the tenement area..."
+  },
+  "coverage_hectares": {
+    "value": 4000,
+    "justification": "The licence is granted for Group 1 minerals and embraces 13 units covering approximately 40km²."
+  },
+  "resource_size_desc": {
+    "value": "610,000 t @ 2.56% Sb, containing 15,600 tonnes of antimony",
+    "justification": "...with a resource of 610 kt at 2.56% Sb, containing 15,600 tonnes of antimony."
+  },
+  "buyer_stock_exchange": {
+    "value": "ASX:TMG",
+    "justification": "Trigg Minerals Limited (ASX: TMG) ('Trigg' or the 'Company') is pleased to announce it has signed a binding purchase agreement..."
+  }
+}

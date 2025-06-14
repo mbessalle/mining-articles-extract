@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "440,000t @ 22g/t Au (320,000oz Au)",
+    "source_sentence": "The Penny South Gold Project (E57/1045) (Map 1) lies only 550m south of Ramelius' operating Penny West/North gold mine project (Map 2), which is estimated to contain 440,000t of ore at 22g/t Au (320,000oz Au) (“Penny”).",
+    "resource_context": "Ramelius' operating Penny West/North gold mine project (Penny\") - estimated resource\"",
+    "target_commodity": "Au",
+    "filename": "penny_south_344.pdf",
+    "is_project_total": false
+  }
+]

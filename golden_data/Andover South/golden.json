@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Dusko Ljubojevic",
+    "justification": "Mr Dusko Ljubojevic, Managing Director of Raiden commented: ..."
+  },
+  "interest_acquired_percent": {
+    "value": 80,
+    "justification": "With the recent grant of the tenement (E47/4062) by DEMIRS, a transfer between Welcome Exploration Pty Ltd and Raiden for the Company’s 80% interest will occur..."
+  },
+  "currency": {
+    "value": null,
+    "justification": "No monetary values are mentioned as part of the transaction terms in this specific announcement."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "No cash consideration is mentioned for this tenement transfer/grant; it references a prior purchase agreement from June 2023."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "No share-based consideration is mentioned for this tenement transfer/grant."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "No combined cash and share consideration is mentioned for this tenement transfer/grant."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned as part of this specific announcement."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned as part of this specific announcement."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "A 'Programme of Work (“PoW”) for diamond drilling' has been submitted, but the specific meterage is not stated."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "No monetary value for an exploration commitment is stated as part of the deal terms."
+  },
+  "exploration_commitment_desc": {
+    "value": "Programme of Work ('PoW') for diamond drilling has been submitted to DEMIRS for approval.",
+    "justification": "Programme of Work (“PoW”) for diamond drilling on E47/4062 has been submitted to DEMIRS for approval."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned in this announcement."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "The document lists tenements by block ('1Bl', '2Bl') and one by '23.5 Ha.', but does not provide a total project area."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "No single unit is provided for a total project area."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "No JORC-compliant resource estimate is stated for the Andover South project in this announcement."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:RDN",
+    "justification": "Raiden Resources Limited (ASX: RDN DAX: YM4) (“Raiden” or “the Company”) is pleased to report..."
+  }
+}

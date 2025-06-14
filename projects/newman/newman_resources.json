@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "2.252moz Au",
+    "source_sentence": "KARLAWINDA GOLD 2.252moz Au RESERVES 1.428moz AU",
+    "resource_context": "Karlawinda Gold - Resources",
+    "target_commodity": "Au",
+    "filename": "newman_327.pdf",
+    "is_project_total": true
+  }
+]

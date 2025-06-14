@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Luke McFadyen",
+    "justification": "The acquiring company is Minerals 260. The text states: 'Commenting on the Proposed Transaction, Minerals 260’s Managing Director Luke McFadyen said...'"
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The text states that Minerals 260 'has executed binding documentation to acquire 100% of the Bullabulling Gold Project'."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The consideration is specified with an 'A$' prefix ('A$156.5 million cash') and the buyer (Minerals 260) is listed on the ASX, implying Australian Dollars."
+  },
+  "cash_payments_raw": {
+    "value": 156500000,
+    "justification": "The text explicitly states the cash component of the deal: 'Cash consideration of A$156.5 million plus A$10.0 million of Minerals 260 shares...'"
+  },
+  "share_payments_raw": {
+    "value": 10000000,
+    "justification": "The text explicitly states the share component of the deal: 'Cash consideration of A$156.5 million plus A$10.0 million of Minerals 260 shares...'"
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The deal terms are broken down into separate cash and share components, so this field is not applicable per the financial extraction hierarchy."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The number of consideration shares is not explicitly stated. The text says it will be 'based on the issue price used for the proposed equity raise', which is a future event."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The issue price for the consideration shares is not fixed; it will be determined by a future equity raise."
+  },
+  "exploration_commitment_meters": {
+    "value": 80000,
+    "justification": "The announcement outlines a specific drilling program tied to the acquisition: 'Minerals 260 will commence its planned 80,000m drilling program on April 16...'"
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The exploration plan is defined by a drilling distance (80,000m), not a specific monetary value."
+  },
+  "exploration_commitment_desc": {
+    "value": "A planned 80,000m drilling program targeting multiple resource extension targets at depth and along strike, as well as in-fill drilling of the existing 2.3Moz Mineral Resource to upgrade confidence classifications.",
+    "justification": "Minerals 260 will commence its planned 80,000m drilling program on April 16, targeting multiple resource extension targets at depth and along strike, as well as in-fill drilling of the existing 2.3Moz Mineral Resource to upgrade confidence classifications."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "The documents mention pre-existing royalties held by third parties (Franco Nevada, Vox Royalty) that are attached to the tenements, but there is no NSR being acquired or retained as part of the transaction's value exchange between Minerals 260 and Norton Gold Fields."
+  },
+  "coverage_area_raw": {
+    "value": 293,
+    "justification": "The most recent announcement (dated 7 April 2025) states the project is 'located within a largely contiguous 293sq km tenement package.'"
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The unit is specified in the text: 'located within a largely contiguous 293sq km tenement package.'"
+  },
+  "resource_size_desc": {
+    "value": "60Mt @ 1.2g/t Au for 2.3Moz",
+    "justification": "The document states the project hosts a 'JORC 2012 Mineral Resource Estimate of 60Mt @ 1.2g/t Au for 2.3Moz of gold (Indicated and Inferred...)'."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:MI6",
+    "justification": "The acquiring company is identified in the document header as 'Minerals 260 Limited (“Minerals 260” or the “Company”) (ASX: MI6)'."
+  }
+}

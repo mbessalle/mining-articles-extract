@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "4,440,000 tonnes @ 240 ppm U3O8 (1,080 t U3O8, 2,380,000 Lb U3O8)",
+    "source_sentence": "Category Combined Lower Cut Off (ppm U308) 100 Cum. Tonnes 4,440,000 Cum. Grade (U3O8 ppm) 240 Cum. Metal (t U308) 1,080 Cum. Metal (Lb U308) 2,380,000",
+    "resource_context": "Queen's Gift - Combined Resource (100 ppm U3O8 cut-off) - Historical Estimate",
+    "target_commodity": "U",
+    "filename": "mt_isa_north_292.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "354.7 Mt @ 0.42% Cu",
+    "source_sentence": "Eva (Harmony) 354.7 Mt @ 0.42% Cu",
+    "resource_context": "Eva Project (Harmony) - Nearby Deposit",
+    "target_commodity": "Cu",
+    "is_project_total": true,
+    "filename": "mt_isa_north_291.pdf"
+  }
+]

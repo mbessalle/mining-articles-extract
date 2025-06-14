@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": null,
+    "justification": "The documents do not name an executive for the buyer (WIN Metals). The named executives belong to the seller, Meteoric Resources, and the transaction described is for the Palm Springs Gold Project, not the Butchers Creek project."
+  },
+  "interest_acquired_percent": {
+    "value": null,
+    "justification": "The documents describe the sale of the Palm Springs Gold Project. No transaction or interest percentage is mentioned for the Butchers Creek project."
+  },
+  "currency": {
+    "value": null,
+    "justification": "The currency (AUD) is associated with the sale of the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The cash payments detailed (up to $3.25M) are for the acquisition of the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "The share payment ($1.75M) is consideration for the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The transaction described is for the Palm Springs Gold Project, not the Butchers Creek project."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The shares to be issued are for the acquisition of the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The share price ($0.025) is part of the consideration for the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The documents do not mention an exploration commitment in meters for any project."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The documents do not mention a monetary exploration commitment for any project."
+  },
+  "exploration_commitment_desc": {
+    "value": null,
+    "justification": "The documents do not mention a specific exploration commitment for any project."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "The documents do not mention an NSR being part of the transaction for any project."
+  },
+  "coverage_area_raw": {
+    "value": null,
+    "justification": "The documents list tenements for the Palm Springs Gold Project but do not provide a total area."
+  },
+  "coverage_area_unit": {
+    "value": null,
+    "justification": "The documents list tenements for the Palm Springs Gold Project but do not provide a total area."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The documents do not contain a mineral resource estimate for any project."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": null,
+    "justification": "The ticker ASX:WIN belongs to WIN Metals, the buyer of the Palm Springs Gold Project, not the Butchers Creek project. This data is ignored per the Data Relevance rule."
+  }
+}

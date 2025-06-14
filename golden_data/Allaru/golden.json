@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "David Mason",
+    "justification": "For further information contact: Mr David Mason Mr Craig McPherson Chief Executive Officer Company Secretary..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "...to purchase all of the shares in AusVan from the Vendors..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The consideration to be paid to the Vendors for the acquisition... is AUD$5,000,000 worth of NewPeak shares..."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The consideration is specified only as shares; no cash component is mentioned as part of the acquisition consideration."
+  },
+  "share_payments_raw": {
+    "value": 5000000,
+    "justification": "The consideration to be paid... is AUD$5,000,000 worth of NewPeak shares..."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as an explicit share payment value is provided (Priority 1)."
+  },
+  "amount_of_shares_issued": {
+    "value": 303030303,
+    "justification": "...being a total of 303,030,303 NewPeak shares at an issue price of $0.0165..."
+  },
+  "issued_share_price": {
+    "value": 0.0165,
+    "justification": "...at an issue price of $0.0165 (1.65 cents) per NewPeak share..."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future exploration plans are mentioned, but no specific meterage is defined as a contractual commitment in the deal terms."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "A 'Rights Issue' to fund future exploration is mentioned, but it is a separate capital raising event, not a commitment within the acquisition's deal terms."
+  },
+  "exploration_commitment_desc": {
+    "value": "Additional exploration drilling, scout exploration drilling, and metallurgical test work.",
+    "justification": "NewPeak intends to conduct exploration... The exploration program would include: 1. Additional exploration drilling... 2. Further scout exploration drilling... 3. Additional metallurgical test work..."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned as part of this transaction's terms."
+  },
+  "coverage_area_raw": {
+    "value": 1498,
+    "justification": "AusVan holds 6 granted Exploration Permits for Minerals (EPM) and 1 EPM application comprising a total of 468 sub-blocks covering 1,498 square kilometres..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...covering 1,498 square kilometres..."
+  },
+  "resource_size_desc": {
+    "value": "710 million tonnes of vanadium mineral resource, at 0.46 V2O5 (wt%)",
+    "justification": "...has an Inferred JORC Resource of 710 million tonnes of vanadium mineral resource, at 0.46 V2O5 (wt%) in the prominent Julia Creek vanadium province..."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:NPM",
+    "justification": "NewPeak Metals Ltd (ASX:NPM) (NPM, NewPeak or the Company) is pleased to announce that it has executed a binding term sheet..."
+  }
+}

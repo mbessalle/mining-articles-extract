@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Arvind Misra",
+    "justification": "Belararox’s Managing Director, Arvind Misra, commented:..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "...it has executed a binding agreement to acquire 100% of KCB Resources Pty Ltd (KCB Resources)..."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "BRX has agreed to an Annual Expenditure Commitment of A$1 million per annum... (A$ implies Australian Dollars)."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The consideration is specified as shares and a royalty; no cash payment is mentioned in the deal terms in Appendix A."
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "Not applicable as the number of shares is provided, making the payment calculable (Priority 2), but no issue price is given."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as share consideration is specified by number, not a combined value."
+  },
+  "amount_of_shares_issued": {
+    "value": 9000000,
+    "justification": "Sum of all tranches from Appendix A: '3 million Shares issued on execution... 3 million Shares... on the first anniversary... a further 3 million Shares...'"
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "The text specifies the number of shares to be issued but does not state a deemed issue price for the transaction."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "No specific drilling meterage is defined as a contractual commitment; the commitment is monetary."
+  },
+  "exploration_commitment_value_raw": {
+    "value": 2000000,
+    "justification": "BRX has agreed to an Annual Expenditure Commitment of A$1 million per annum for two years..."
+  },
+  "exploration_commitment_desc": {
+    "value": "Annual Expenditure Commitment of A$1 million per annum for two years, with 60% on direct exploration.",
+    "justification": "BRX has agreed to an Annual Expenditure Commitment of A$1 million per annum for two years, of which 60% will be spent on direct exploration of the Licenses."
+  },
+  "nsr_acquired_percent": {
+    "value": 1,
+    "justification": "BRX has agreed to grant the Sellers a 1% net smelter royalty (NSR)..."
+  },
+  "coverage_area_raw": {
+    "value": 4286,
+    "justification": "...acquire rights to 4,286km2 of prospective tenure across 14 prospecting licenses..."
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "...acquire rights to 4,286km2 of prospective tenure..."
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The text explicitly states: 'No previous or historical Mineral Resources or Ore Reserves exist for the areas underlain by the KCP.'"
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:BRX",
+    "justification": "Belararox Ltd (ASX: BRX) (Belararox or the Company) is pleased to announce..."
+  }
+}

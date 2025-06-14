@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "119.1Mt @ 1.1% Li2O",
+    "source_sentence": "For: James Bay (40Mt @ 1.4% Li2O), refer to Allkem Ltd's ASX Announcement dated 21 December 2021; Whabouchi (55.7Mt @ 1.4% Li2O), refer to Nemaska Lithium Inc's NI 43-101 dated 31 May 2019; Rose (34.2Mt @ 0.9% Li2O), refer for Critical Elements Lithium Corp's TSX-V Announcement dated 13 June 2022; Abitibi Lithium Hub (119.1Mt @ 1.1% Li2O) operated by Sayona Mining Limited/Piedmont Lithium Inc, refer to Sayona Mining Limited's Annual Report ASX release dated 13 October 2022; and Moblan (70.9Mt @ 1.2% Li2O) operated by Sayona Mining Limited/SOQUEM Inc, refer to Sayona Mining Limited's ASX Presentation dated 17 April 2023.",
+    "resource_context": "Sayona Mining Limited/Piedmont Lithium Inc Abitibi Lithium Hub",
+    "target_commodity": "Li",
+    "filename": "bencubbin_30.pdf",
+    "is_project_total": true
+  }
+]

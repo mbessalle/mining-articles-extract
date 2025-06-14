@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "40,400,000 Tonnes @ 0.4% Cu (162,000 t contained Cu)",
+    "source_sentence": "Table 1: Nanadie Well 2012 JORC Mineral Resource Estimate¹.\\nTotal             13,200,000  40,400,000   0.4          162,000      0.10           130,000       1.00           1,364,000",
+    "resource_context": "Nanadie Well - Total Inferred Resource",
+    "target_commodity": "Cu",
+    "filename": "nanadie_well_324.pdf",
+    "is_project_total": true
+  }
+]

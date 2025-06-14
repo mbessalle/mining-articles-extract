@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "60 Mt @ 1.2 g/t Au containing 2,300 Koz Au",
+    "source_sentence": "TOTAL,39,1.1,1,400,21,1.3,890,60,1.2,2,300",
+    "resource_context": "Bullabulling Gold Project - Total Mineral Resource (RPEEE) - Table Summary",
+    "target_commodity": "Au",
+    "filename": "bullabulling_45.pdf",
+    "is_project_total": true
+  }
+]

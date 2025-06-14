@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "7,540,000 tonnes Cu",
+    "source_sentence": "For reference the Cadia Valley porphyry gold-copper deposits *contains 32Moz of gold (Au) and 7.5Mt of copper (Cu) and only began modern production in 1998. ... *Cadia Valley Operations: (indicated) 2,900 Mt @ 0.26% Cu, 0.35 g/t Au, (probable) 1,300 Mt @ 0.29% Cu, 0.44 g/t Au for 7,540,000 tonnes of contained copper and 32,633,000 contained ounces of gold, Government Copper and Gold Summaries NSW (Dec 2021) for Copper & Gold.",
+    "resource_context": "Cadia Valley Operations - Total Contained Metal",
+    "target_commodity": "Cu",
+    "is_project_total": false,
+    "filename": "byrock_59.pdf"
+  },
+  {
+    "resource_value": "32,633,000 oz Au",
+    "source_sentence": "For reference the Cadia Valley porphyry gold-copper deposits *contains 32Moz of gold (Au) and 7.5Mt of copper (Cu) and only began modern production in 1998. ... *Cadia Valley Operations: (indicated) 2,900 Mt @ 0.26% Cu, 0.35 g/t Au, (probable) 1,300 Mt @ 0.29% Cu, 0.44 g/t Au for 7,540,000 tonnes of contained copper and 32,633,000 contained ounces of gold, Government Copper and Gold Summaries NSW (Dec 2021) for Copper & Gold.",
+    "resource_context": "Cadia Valley Operations - Total Contained Metal",
+    "target_commodity": "Au",
+    "is_project_total": false,
+    "filename": "byrock_59.pdf"
+  }
+]

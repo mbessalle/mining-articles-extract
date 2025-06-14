@@ -1,0 +1,26 @@
+[
+  {
+    "resource_value": "56,600 Tonnes @ 12.8 g/t Au containing 23,400 Au Oz",
+    "source_sentence": "Table 1: Resource (2g/t Au cut-off grade) - Total (Indicated + Inferred) Total: 56,600 Tonnes, 12.8 g/t Au, 23,400 Au Oz",
+    "resource_context": "Star of Mangaroon - Total Project Resource (Indicated + Inferred)",
+    "target_commodity": "Au",
+    "filename": "mangaroon_259.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "45.87 Mt @ 0.58% TREO containing 265,300 t TREO",
+    "source_sentence": "Table 4: Summary of the Gifford Creek Carbonatite Inferred Resource at various % TREO Cut offs. 0.30% TREO Cut-Off: 45.87 Mt, 0.58% TREO, 265,300 t TREO",
+    "resource_context": "Gifford Creek Carbonatite - Inferred Resource (0.30% TREO Cut off)",
+    "target_commodity": "REE",
+    "filename": "mangaroon_259.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "45.87 Mt @ 0.10% Nb2O5 containing 44,800 t Nb2O5",
+    "source_sentence": "Table 4: Summary of the Gifford Creek Carbonatite Inferred Resource at various % TREO Cut offs. 0.30% TREO Cut-Off: 45.87 Mt, 0.10% Nb2O5, 44,800 t Nb2O5",
+    "resource_context": "Gifford Creek Carbonatite - Inferred Resource (0.30% TREO Cut off)",
+    "target_commodity": "Nb",
+    "filename": "mangaroon_259.pdf",
+    "is_project_total": true
+  }
+]

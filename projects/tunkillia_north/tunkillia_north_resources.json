@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "100,000 gold ounces",
+    "source_sentence": "Payment of $750,000 upon reporting of a JORC compliant inferred resource of 100,000 gold ounces from the tenements acquired",
+    "resource_context": "JORC compliant inferred resource from Sipa's acquired tenements (future target)",
+    "target_commodity": "Au",
+    "is_project_total": true,
+    "filename": "tunkillia_north_436.pdf"
+  }
+]

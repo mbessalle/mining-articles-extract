@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "456Mt @ 0.83 g/t Au",
+    "source_sentence": "Major deposits in the Lachlan Fold Belt include the world-class Cadia-Ridgeway deposit (456Mt @ 0.83 g/t Au, 0.24% Cu endowment\u00b2).",
+    "resource_context": "Cadia-Ridgeway deposit",
+    "target_commodity": "Au",
+    "filename": "havilah_197.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "456Mt @ 0.24% Cu",
+    "source_sentence": "Major deposits in the Lachlan Fold Belt include the world-class Cadia-Ridgeway deposit (456Mt @ 0.83 g/t Au, 0.24% Cu endowment\u00b2).",
+    "resource_context": "Cadia-Ridgeway deposit",
+    "target_commodity": "Cu",
+    "is_project_total": false,
+    "filename": "havilah_197.pdf"
+  }
+]

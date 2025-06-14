@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "John Welborn",
+    "justification": "Fenix’s Executive Chairman, Mr John Welborn, commented:..."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "...E79 holds all mineral rights in the tenement save as for the iron ore and ferrous mineral rights which shall be held by Fenix."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "Cash consideration of A$250,000..."
+  },
+  "cash_payments_raw": {
+    "value": 1250000,
+    "justification": "Sum of upfront and milestone payments: 'Cash consideration of A$250,000 and a milestone payment of A$1,000,000...'"
+  },
+  "share_payments_raw": {
+    "value": null,
+    "justification": "No share-based consideration is mentioned in the deal terms."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "Not applicable as explicit cash payment values are provided."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "No share issuance is mentioned as part of the transaction."
+  },
+  "issued_share_price": {
+    "value": null,
+    "justification": "No share price is mentioned as part of the transaction."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "Future plans mention a drilling program, but no specific meterage is defined as a contractual commitment."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The milestone payment is contingent on production, not a commitment to spend on exploration."
+  },
+  "exploration_commitment_desc": {
+    "value": "Validate and map potential hematite targets and plan an exploration drilling program in 2025 aimed at resource definition.",
+    "justification": "The objective of this work is to validate and map potential hematite targets across the Weld Range and to plan an exploration drilling program in 2025 aimed at resource definition."
+  },
+  "nsr_acquired_percent": {
+    "value": null,
+    "justification": "No Net Smelter Return (NSR) royalty is mentioned as part of this transaction's terms."
+  },
+  "coverage_area_raw": {
+    "value": 13120,
+    "justification": "APPENDIX 1, Table 1: Tenement summary statistics, Project ID: Beebynganna Hills, Ha: 13,120"
+  },
+  "coverage_area_unit": {
+    "value": "ha",
+    "justification": "APPENDIX 1, Table 1: Tenement summary statistics, Project ID: Beebynganna Hills, Ha: 13,120"
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The announcement describes historical drill intercepts and grades (e.g., 58% Fe over 14 metres) but does not state a formal JORC-compliant resource estimate for the project."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:FEX",
+    "justification": "Fenix Resources Limited (ASX: FEX) (Fenix or the Company) is pleased to announce..."
+  }
+}

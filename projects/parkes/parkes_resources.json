@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3.70Mt @ 1.04 g/t Au for 124k oz Au",
+    "source_sentence": "The Historical Estimate of 3.70Mt at 1.04 g/t Au for 124k oz Au ('London-Victoria Historical Estimate') is contained in the report titled: 'Agricultural Equity Investments Pty Limited, Exploration Licence 7242, “Parkes”, Third Annual Exploration Progress Report, for the period 7th November 2010 – 6th November 2011'.",
+    "resource_context": "London-Victoria Historical Estimate - Non-JORC, 0.5g/t Au cutoff",
+    "target_commodity": "Au",
+    "filename": "parkes_341.pdf",
+    "is_project_total": false
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "17.5% Nb",
+    "source_sentence": "Niobium (%) 17.5 1.1 22.7 21.0 16.3 23.2 23.0 1.0 24.0 20.6 20.0 19.4 18.0",
+    "resource_context": "Cusp Prospect - Historical Rock Chip Results - Sample ID: HR419",
+    "target_commodity": "U",
+    "filename": "harts_range_190.pdf",
+    "is_project_total": false
+  },
+  {
+    "resource_value": "17.5% Nb",
+    "source_sentence": "Niobium (%) 17.5 1.1 22.7 21.0 16.3 23.2 23.0 1.0 24.0 20.6 20.0 19.4 18.0",
+    "resource_context": "Cusp Prospect - Historical Rock Chip Results - Sample ID: HR419",
+    "target_commodity": "U",
+    "filename": "harts_range_190.pdf",
+    "is_project_total": false
+  }
+]

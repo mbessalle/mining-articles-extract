@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "23.2Mt @ 0.16% Sn",
+    "source_sentence": "The current Taronga Tin project has a resource of 23.2Mt at 0.16% Sn (see https://firsttin.com/taronga/).",
+    "resource_context": "Taronga Tin project - Resource (External)",
+    "target_commodity": "Sn",
+    "filename": "ottery_336.pdf",
+    "is_project_total": false
+  }
+]

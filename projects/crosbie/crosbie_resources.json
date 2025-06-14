@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "21.6Mt @ 4.3 g/t Au",
+    "source_sentence": "Agnico Eagle Mines Total Resources (NI43-101) 21.6Mt @ 4.3 g/t Au",
+    "resource_context": "Agnico Eagle Mines - Fosterville Mine - NI43-101 Total Resources",
+    "target_commodity": "Au",
+    "filename": "crosbie_90.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "1.25Mt @ 2.7% Sb",
+    "source_sentence": "Mandalay Resources Total Resources 1.25Mt @ 9.8 g/t Au + 2.7% Sb",
+    "resource_context": "Mandalay Resources - Costerfield Mine - Total Resources",
+    "target_commodity": "Sb",
+    "filename": "crosbie_90.pdf",
+    "is_project_total": true
+  }
+]

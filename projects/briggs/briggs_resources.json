@@ -1,0 +1,18 @@
+[
+  {
+    "resource_value": "415Mt @ 0.25% Cu, containing over 1 Mt Cu",
+    "source_sentence": "Alma Metals Limited (ASX: ALM, \"the Company\" or \"Alma\") provides the following update in respect of the Briggs Copper Project, Queensland, where over one million tonnes of contained copper has been defined in Inferred resources (415Mt @ 0.25% Cu and 31pm Mo, ASX release 6 July 2023).",
+    "resource_context": "Briggs Copper Project - Inferred Resources",
+    "target_commodity": "Cu",
+    "filename": "briggs_38.pdf",
+    "is_project_total": true
+  },
+  {
+    "resource_value": "415Mt @ 31ppm Mo",
+    "source_sentence": "Alma Metals Limited (ASX: ALM, \"the Company\" or \"Alma\") provides the following update in respect of the Briggs Copper Project, Queensland, where over one million tonnes of contained copper has been defined in Inferred resources (415Mt @ 0.25% Cu and 31pm Mo, ASX release 6 July 2023).",
+    "resource_context": "Briggs Copper Project - Inferred Resources",
+    "target_commodity": "Mo",
+    "filename": "briggs_38.pdf",
+    "is_project_total": true
+  }
+]

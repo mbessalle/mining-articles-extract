@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "16.3Mt @ 1.0g/t for 510,000 ounces of gold",
+    "source_sentence": "This is located 35km to the northeast of Olsen Well, with a current Resource of 16.3Mt @ 1.0g/t for 510,000 ounces of gold.",
+    "resource_context": "Glenburgh deposit",
+    "target_commodity": "Au",
+    "filename": "errabiddy_135.pdf",
+    "is_project_total": false
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "1.1Mt @ 1.9% Cu containing 20,941 tonnes of copper",
+    "source_sentence": "A Mineral Resource Estimate (JORC 2004) was reported by Kumarina Resources Ltd in 2012 indicated 1.1Mt @ 1.9% Cu for 20,941 tonnes of copper. This inferred resource was only extended to 150m depth, and is not part of the deal between Lord & BlackRock.",
+    "resource_context": "Ilgarari Copper Project - Kumarina Resources Ltd (2012) - JORC 2004 Inferred Resource",
+    "target_commodity": "Cu",
+    "filename": "ilgarari_210.pdf",
+    "is_project_total": false
+  }
+]

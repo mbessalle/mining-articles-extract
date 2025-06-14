@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3,519,200 t @ 1.65 g/t Au containing 187 koz",
+    "source_sentence": "Total Resource 0.5 1,548,000 3,519,200 2.27 1.65 187",
+    "resource_context": "Mt Fisher and Mt Eureka Gold Project - Total Resource - Table 1",
+    "target_commodity": "Au",
+    "filename": "mt_fisher_286.pdf",
+    "is_project_total": true
+  }
+]

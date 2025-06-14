@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3,437,000 Tonnes @ 1.82 g/t Au (200,064 Ounces)",
+    "source_sentence": "TOTAL 3,437,000 1.82 200,064",
+    "resource_context": "Total Project Resource - JORC 2012 Compliant",
+    "target_commodity": "Au",
+    "filename": "mt_stirling_299.pdf",
+    "is_project_total": true
+  }
+]

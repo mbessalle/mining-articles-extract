@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3.61 Mt @ 1.19 g/t Au for 138,000 oz",
+    "source_sentence": "Importantly, KalGold's methods resulted in the definition of a JORC resource estimate (3.61 Mt @ 1.19 g/t Au for 138,000 oz¹) that is one of the most inexpensive in recent times (A$4.60 per ounce of gold).",
+    "resource_context": "Bulong Taurus Project - La Mascotte gold deposit - JORC resource estimate",
+    "target_commodity": "Au",
+    "filename": "pinjin_348.pdf",
+    "is_project_total": true
+  }
+]

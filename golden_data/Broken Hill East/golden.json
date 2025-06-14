@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Michael G Jones",
+    "justification": "The acquiring company is Impact Minerals Limited (IPT). The announcement is signed by 'Dr Michael G Jones Managing Director'."
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "Impact is acquiring 'BHA No 1 Pty Ltd, a wholly owned subsidiary of NFM'. Acquiring a wholly owned subsidiary means acquiring 100% of its assets, which are the tenements comprising the Broken Hill East Project."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "The payment is specified with a '$' symbol ($275,000). Both the buyer (ASX:IPT) and the seller (ASX:NFM) are Australian companies listed on the ASX, which implies Australian Dollars."
+  },
+  "cash_payments_raw": {
+    "value": null,
+    "justification": "The consideration for the acquisition is entirely in shares."
+  },
+  "share_payments_raw": {
+    "value": 275000,
+    "justification": "The terms of the acquisition are for '$275,000 in Impact shares'."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "A specific share payment value is provided, so this field is not applicable per the financial extraction hierarchy."
+  },
+  "amount_of_shares_issued": {
+    "value": null,
+    "justification": "The raw number of shares to be issued is not stated in the text. The document only provides the components for calculation ($275,000 worth of shares at a VWAP of $0.0073). Per the 'RAW DATA ONLY' principle, no calculation is performed."
+  },
+  "issued_share_price": {
+    "value": 0.0073,
+    "justification": "The price per share is explicitly stated in the seller's announcement: '...based on the 14-day VWAP of $0.0073 as at 7 March 2025...'"
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The document outlines future intentions for drilling but does not specify a binding exploration commitment in meters as part of the acquisition agreement."
+  },
+  "exploration_commitment_value_raw": {
+    "value": null,
+    "justification": "The document mentions that funds from a rights issue will be directed to exploration but does not specify a binding monetary exploration commitment as part of the acquisition agreement."
+  },
+  "exploration_commitment_desc": {
+    "value": "Next steps will include ground geophysics to help identify targets for drilling.",
+    "justification": "The document states: 'Next steps will include ground geophysics to help identify targets for drilling.'"
+  },
+  "nsr_acquired_percent": {
+    "value": 2,
+    "justification": "The buyer (IPT) is assuming responsibility for an existing royalty. Per the seller's announcement: 'IPT will assume responsibility for a 2% net smelter return royalty payable with respect to tenements held by BHA.'"
+  },
+  "coverage_area_raw": {
+    "value": 675,
+    "justification": "The text states: 'Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding...'"
+  },
+  "coverage_area_unit": {
+    "value": "sq km",
+    "justification": "The text states: 'Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding...'"
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document does not provide a mineral resource estimate for the acquired Broken Hill East Project. The resource figures mentioned relate to the nearby Broken Hill mine, and the drilling intercepts are from Impact's pre-existing Dora East prospect, not the newly acquired ground."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:IPT",
+    "justification": "The acquiring company is identified as 'Impact Minerals Limited (ASX:IPT)' in the first paragraph of the announcement."
+  }
+}

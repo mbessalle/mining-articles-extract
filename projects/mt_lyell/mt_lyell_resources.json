@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "71.3Mt @ 1.03% Cu",
+    "source_sentence": "Underground Mineral Resource of 71.3Mt @ 1.03% Cu & 0.26 g/t Au (1.14% Cu Eq.)",
+    "resource_context": "Mount Lyell Copper Project - Underground Mineral Resource",
+    "target_commodity": "Cu",
+    "filename": "mt_lyell_293.pdf",
+    "is_project_total": false
+  }
+]

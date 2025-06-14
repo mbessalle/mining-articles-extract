@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "168,337,931 t @ 36.1% Total Al2O3",
+    "source_sentence": "Table 4: Julimar West Global Bauxite Deposit Inferred Mineral Resource Estimate by Zones (using a >25% Al2O3 cut-off)\nZone,Mass t,Average Grade Al2O3%,Average Grade Total SiO2%\n100,42,566,406,31.8,24.6\n200,62,213,150,36.4,17.3\n300,4,945,388,38.2,17.3\n400,44,915,950,39.6,4\n501,2,490,438,37.6,5.9\n502,4,583,200,36,7.2\n600,6,623,400,36.2,4.8\nTotal,168,337,931,36.1,14.7",
+    "resource_context": "Julimar West Global Bauxite Deposit - Inferred Resource - Cut-off: >25% Al2O3",
+    "target_commodity": "Bauxite (Al2O3)",
+    "filename": "norcia_329.pdf",
+    "is_project_total": true
+  }
+]

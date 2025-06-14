@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "25,000oz Au",
+    "source_sentence": "Dundas Minerals Limited (ASX: DUN) is a battery-minerals and gold focussed exploration company exploring in the gold-rich Kalgoorlie region, and southern Albany-Fraser Orogen, Western Australia. In the Kalgoorlie region the Company has an option agreement with ASX listed Horizon Minerals Limited (ASX: HRZ) to acquire an 85% interest in two gold projects, Windanya (25,000oz Au inferred gold resource), and Baden-Powell (23,000oz Au inferred gold resource), and in the southern Albany-Fraser the Company holds various exploration licences and exploration rights for gold, copper and nickel.",
+    "resource_context": "Windanya - Inferred gold resource",
+    "target_commodity": "Au",
+    "filename": "windanya_449.pdf",
+    "is_project_total": false
+  }
+]

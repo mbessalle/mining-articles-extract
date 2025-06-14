@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "3.785Mt @ 14.51g/t Au (1,774koz Au)",
+    "source_sentence": "Total: 3.785Mt @ 14.51g/t Au (1,774koz Au)",
+    "resource_context": "Beaconsfield Gold Mine - Total Historical Production",
+    "target_commodity": "Au",
+    "filename": "beaconsfield_25.pdf",
+    "is_project_total": true
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "resource_value": "415,000 tonnes @ 16.7 g/t Au equivalent",
+    "source_sentence": "As announced to the ASX on 31 July 2024, the current JORC Inferred Resource for the mineralisation is 415,000 tonnes grading 3.6 g/t gold, 4.3% antimony and 16.7 g/t gold equivalent.",
+    "resource_context": "Nagambie Mine - JORC Inferred Resource - Gold Equivalent",
+    "target_commodity": "Au",
+    "filename": "redcastle_363.pdf",
+    "is_project_total": true
+  }
+]

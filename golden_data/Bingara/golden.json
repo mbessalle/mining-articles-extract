@@ -1,0 +1,66 @@
+{
+  "ceo_buyer": {
+    "value": "Peter Bird",
+    "justification": "Peter Bird is the Chairman of the acquiring company, Cosmo Metals. The text states: 'Cosmo’s Chairman, Peter Bird commented: “This acquisition represents a transformational moment for Cosmo Metals...\""
+  },
+  "interest_acquired_percent": {
+    "value": 100,
+    "justification": "The text states that Cosmo Metals has entered into a Binding Heads of Agreement to acquire '100% of the Bingara and Nundle gold - antimony and copper projects'."
+  },
+  "currency": {
+    "value": "AUD",
+    "justification": "Payments are denoted with a '$' symbol and the acquiring company, Cosmo Metals, is listed on the ASX (ASX:CMO), implying the currency is Australian Dollars."
+  },
+  "cash_payments_raw": {
+    "value": 1850000,
+    "justification": "The total cash payment is the sum of all components, including conditional payments, per the aggregation rule. This includes: $50,000 exclusivity fee + $250,000 completion cash + $800,000 (max JORC resource milestone) + $250,000 (scoping study) + $500,000 (DFS)."
+  },
+  "share_payments_raw": {
+    "value": 1900000,
+    "justification": "The total value of share payments is the sum of all share-based consideration. This includes: $450,000 in Completion Consideration Shares + $450,000 in the first tranche of Performance Shares + $1,000,000 in the second tranche of Performance Shares."
+  },
+  "cash_and_share_payments_combined_raw": {
+    "value": null,
+    "justification": "The deal terms explicitly separate cash and share payments, so this field is not applicable per the financial extraction hierarchy."
+  },
+  "amount_of_shares_issued": {
+    "value": 126666667,
+    "justification": "The total number of shares to be issued is the sum of the completion and performance shares: 30,000,000 (Completion) + 96,666,667 (Total Performance Shares) = 126,666,667."
+  },
+  "issued_share_price": {
+    "value": 0.015,
+    "justification": "The consideration shares are issued 'at a deemed issue price of $0.015'."
+  },
+  "exploration_commitment_meters": {
+    "value": null,
+    "justification": "The exploration commitments are defined by a monetary value, not a drilling distance in meters."
+  },
+  "exploration_commitment_value_raw": {
+    "value": 650000,
+    "justification": "The total exploration commitment for the Bingara project is the sum of its specific pre-completion funding ($150,000) and its half-share of the post-completion shared commitment ($1,000,000 / 2 projects = $500,000). The text states: 'fund exploration activity of up to $150,000 on the Bingara Project' and 'expend at least $1,000,000 of exploration expenditure on the projects in the 12 months immediately following Completion'."
+  },
+  "exploration_commitment_desc": {
+    "value": "Cosmo has agreed to fund exploration of up to $150,000 on the Bingara Project pre-completion and will use best endeavours to expend its share of at least $1,000,000 on both the Bingara and Nundle projects within 12 months post-completion.",
+    "justification": "a) Pre-Completion, Cosmo has agreed to fund exploration activity of up to $150,000 on the Bingara Project... b) Post Completion, Cosmo has undertaken to use its best endeavours to expend at least $1,000,000 of exploration expenditure on the projects in the 12 months immediately following Completion."
+  },
+  "nsr_acquired_percent": {
+    "value": 1.5,
+    "justification": "The seller retained a 1.5% NSR as part of the transaction terms. The text states: 'The Seller will retain a net smelter royalty (NSR) of 1.5% on all commodities extracted from the projects.'"
+  },
+  "coverage_area_raw": {
+    "value": 484.1,
+    "justification": "The document explicitly states the area for the Bingara project: 'The Bingara Project, covering a contiguous area of 484.1km2...'"
+  },
+  "coverage_area_unit": {
+    "value": "km2",
+    "justification": "The document explicitly states the unit for the Bingara project area: 'The Bingara Project, covering a contiguous area of 484.1km2...'"
+  },
+  "resource_size_desc": {
+    "value": null,
+    "justification": "The document explicitly states that any previous resource calculation is non-JORC compliant and historical: 'A small non-JORC compliant resource was calculated on the basis of this drilling in 1995'. Therefore, there is no current JORC resource to report."
+  },
+  "buyer_ticker_and_exchange": {
+    "value": "ASX:CMO",
+    "justification": "The acquiring company is identified in the first highlight point as 'Cosmo Metals (ASX:CMO)'."
+  }
+}
