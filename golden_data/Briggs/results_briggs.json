@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Briggs/briggs_38.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Frazer Tabeart",
+      "justification": "This announcement is authorised for release by Managing Director, Frazer Tabeart."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The text states Alma can earn up to a 70% interest in the Briggs project: 'Exploration at Briggs is being funded by Alma under an Earn-In Joint Venture (JV) agreement where Alma currently has a 30% JV interest and can earn up to a 70% interest from owner Canterbury Resources Limited (ASX: CBY) via a staged earn-in.'"
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The currency is inferred to be AUD as the acquiring company, Alma Metals Limited, is listed on the Australian Securities Exchange: 'Alma Metals Limited (ASX: ALM, “the Company” or “Alma”)'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any cash payments as part of the earn-in joint venture with Canterbury Resources. The transaction is based on exploration expenditure."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any share payments as part of the earn-in joint venture."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document does not mention a combined cash and share payment for the earn-in joint venture."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document does not mention any shares being issued as part of the earn-in joint venture."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document does not mention a price for any issued shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document describes a drilling program but does not specify a total meterage commitment for the earn-in agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document states that the earn-in is based on expenditure, but does not specify the total dollar amount required. It only notes that the current program will satisfy Stage 2 requirements: 'Completion of the current drilling program will meet the expenditure requirements to complete Stage 2 of the Earn-In...'"
+    },
+    "exploration_commitment_desc": {
+      "value": "Alma can earn up to a 70% interest from owner Canterbury Resources Limited via a staged earn-in by funding exploration.",
+      "justification": "Exploration at Briggs is being funded by Alma under an Earn-In Joint Venture (JV) agreement where Alma currently has a 30% JV interest and can earn up to a 70% interest from owner Canterbury Resources Limited (ASX: CBY) via a staged earn-in."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The document mentions the addition of three EPMs and a portfolio of six EPMs for the Briggs project, but does not provide a specific area measurement in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The document mentions the addition of three EPMs and a portfolio of six EPMs for the Briggs project, but does not provide a specific area measurement in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": "415Mt @ 0.25% Cu and 31pm Mo",
+      "justification": "The document states that 'over one million tonnes of contained copper has been defined in Inferred resources (415Mt @ 0.25% Cu and 31pm Mo, ASX release 6 July 2023).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:ALM",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Alma Metals Limited (ASX: ALM, “the Company” or “Alma”)'."
+    }
+  }
+}

@@ -1,0 +1,278 @@
+[
+  {
+    "source_file": "projects/harts_range/harts_range_190.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "Gerrard Hall",
+        "justification": "For further information please contact: \n\nCastillo Copper Limited\nGerrard Hall\nNon-Executive Chairman"
+      },
+      "interest_acquired_percent": {
+        "value": 85,
+        "justification": "CCZ has met all conditions precedent necessary to progress acquiring 85% of the \nhighly prospective Harts Range Niobium, Uranium and Heavy Rare Earths Project1,"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "Castillo Copper Ltd’s (ASX: CCZ)"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "No cash payments mentioned in the text"
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "No share payments mentioned in the text"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": "No combined cash and share payments mentioned in the text"
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": "No shares issued mentioned in the text"
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": "No share price mentioned in the text"
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": "No exploration commitment in meters mentioned in the text"
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": "No exploration commitment value mentioned in the text"
+      },
+      "exploration_commitment_desc": {
+        "value": "comprehensive surface sampling and geophysical surveys to generate priority targets to test-drill as well as collecting bulk samples for metallurgical test-work",
+        "justification": "The exploration campaign will comprise comprehensive surface sampling \nand geophysical surveys to generate priority targets to test-drill as well as \ncollecting bulk samples for metallurgical test-work"
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": "No NSR mentioned in the text"
+      },
+      "coverage_area_raw": {
+        "value": 135,
+        "justification": "which increases the footprint by circa 25% (~135km2)"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "which increases the footprint by circa 25% (~135km2)"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": "No resource size description mentioned in the text"
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:CCZ",
+        "justification": "Castillo Copper Ltd’s (ASX: CCZ)"
+      }
+    }
+  },
+  {
+    "source_file": "projects/harts_range/harts_range_192.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 85,
+        "justification": "CCZ has signed a binding term sheet to acquire 85% of the highly prospective\nHarts Range Niobium, Uranium and Heavy Rare Earths Project"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "earn-in through the expenditure of AUD$375,000 on EL32513 over three years and a\nfurther $375,000 on EL32046"
+      },
+      "cash_payments_raw": {
+        "value": 35000,
+        "justification": "Exclusivity fee: the Company has paid a cash payment of $35,000 + GST to Audax for an\nexclusive right to undertake its due diligence on Audax and the Project until 20 November\n2024 (Exclusivity Period)"
+      },
+      "share_payments_raw": {
+        "value": 727500,
+        "justification": "CCZ issuing the Audax Vendors an aggregate of 145,500,000 fully paid ordinary shares\n(Consideration Shares) at a deemed issue price of $0.005 per Share"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": 145500000,
+        "justification": "CCZ issuing the Audax Vendors an aggregate of 145,500,000 fully paid ordinary shares\n(Consideration Shares)"
+      },
+      "issued_share_price": {
+        "value": 0.005,
+        "justification": "at a deemed issue price of $0.005 per Share"
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": 750000,
+        "justification": "earn-in through the expenditure of AUD$375,000 on EL32513 over three years and a\nfurther $375,000 on EL32046"
+      },
+      "exploration_commitment_desc": {
+        "value": "Exploration work will include surface sampling, geophysical surveys and bulk samples for metallurgical testing",
+        "justification": "Notably, this will include comprehensive surface sampling, geophysical\nsurveys and collecting bulk samples for metallurgical testing"
+      },
+      "nsr_acquired_percent": {
+        "value": 2,
+        "justification": "upon commencement of production, Barfuss Corporation is entitled to a 2% net smelter\nroyalty"
+      },
+      "coverage_area_raw": {
+        "value": 110,
+        "justification": "Comprising two granted tenements (110km2)"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "Comprising two granted tenements (110km2)"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:CCZ",
+        "justification": "Castillo Copper Ltd’s (ASX: CCZ) (“CCZ”) Board is delighted to announce it has entered into a"
+      }
+    }
+  },
+  {
+    "source_file": "projects/harts_range/harts_range_189.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "currency": {
+        "value": null,
+        "justification": null
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_unit": {
+        "value": null,
+        "justification": null
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:CCZ",
+        "justification": "Castillo Copper Limited (ASX: CCZ) (“Castillo” or the “Company”) released an announcement"
+      }
+    }
+  },
+  {
+    "source_file": "projects/harts_range/harts_range_191.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "Gerrard Hall",
+        "justification": "Castillo Copper Limited\nGerrard Hall\nNon-Executive Chairman"
+      },
+      "interest_acquired_percent": {
+        "value": 85,
+        "justification": "CCZ has agreed to acquire 85% of the highly prospective Harts Range Niobium, Uranium and Heavy Rare Earths Project via an earn-in arrangement"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "Castillo Copper Limited (ASX: CCZ)"
+      },
+      "cash_payments_raw": {
+        "value": 35000,
+        "justification": "Exclusivity fee: the Company has paid a cash payment of $35,000 + GST to Audax for an exclusive right to undertake its due diligence on Audax and the Project until 20 November 2024 (Exclusivity Period)"
+      },
+      "share_payments_raw": {
+        "value": 727500,
+        "justification": "CCZ issuing the Audax Vendors an aggregate of 145,500,000 fully paid ordinary shares (Consideration Shares) at a deemed issue price of $0.005 per Share"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": 145500000,
+        "justification": "CCZ issuing the Audax Vendors an aggregate of 145,500,000 fully paid ordinary shares (Consideration Shares) at a deemed issue price of $0.005 per Share"
+      },
+      "issued_share_price": {
+        "value": 0.005,
+        "justification": "at a deemed issue price of $0.005 per Share"
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": 750000,
+        "justification": "earn-in through the expenditure of AUD$375,000 on EL32513 over three years and a further $375,000 on EL32046 at the time in which it is included in the Joint Venture Agreement"
+      },
+      "exploration_commitment_desc": {
+        "value": "Exploration work will include reconnaissance programs, close-spaced geophysical surveys, detailed mapping and rock chip sampling, regional soil sampling, mineral characterisation studies, trenching and bulk sample test work, target generation and prioritisation, and drill-testing.",
+        "justification": "To fully unpack the potential of the Harts Range Niobium, Uranium and Heavy Rare Earth Project, the geology team intends to undertake a systematic and rigorous exploration strategy that will encompass the following steps in subsequent visits:\no Full historic and spatial database compilation:\no Reconnaissance programs;\no Close spaced geophysical survey;\no Detailed mapping and rock chip sampling across prospects;\no Regional soil sampling campaigns as required;\no Mineral characterisation studies and petrological analysis;\no Trenching and bulk sample test work;\no Target generation and prioritisation; and\no Drill-testing."
+      },
+      "nsr_acquired_percent": {
+        "value": 2,
+        "justification": "upon commencement of production, Barfuss Corporation is entitled to a 2% net smelter royalty"
+      },
+      "coverage_area_raw": {
+        "value": 110,
+        "justification": "Two granted tenements (EL 32046 and 32513) comprising a total 110 km2 tenement package"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "Two granted tenements (EL 32046 and 32513) comprising a total 110 km2 tenement package"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:CCZ",
+        "justification": "Castillo Copper Limited (ASX: CCZ)"
+      }
+    }
+  }
+]

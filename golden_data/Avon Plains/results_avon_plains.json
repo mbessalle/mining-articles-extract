@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Avon Plains/avon_plains_20.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Brendan Borg",
+      "justification": "The contact person for the buyer, Bubalus Resources, is listed as 'Mr. Brendan Borg'. The document also states 'Mr. Borg is a Director of Bubalus Resources'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Bubalus has been granted an exclusive and binding option to acquire 100% of EL007115, EL007370 and EL007542 (the Tenements), forming the Avon Plains Gold Project (Acquisition)."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The acquiring company, Bubalus Resources Limited, is listed on the Australian Securities Exchange (ASX: BUS), and payments are denoted with a '$' symbol, implying Australian Dollars (AUD)."
+    },
+    "cash_payments_raw": {
+      "value": 1225000,
+      "justification": "The total cash payment is the sum of the non-refundable exclusivity fee ($50,000) and the staged option payments ($50,000 + $75,000 + $150,000 + $300,000 + $600,000 = $1,175,000), totaling $1,225,000. Quotes: '$50,000 to be paid in cash to the Vendor... upon execution of the Agreement' and the list of 'Option Payment' amounts."
+    },
+    "share_payments_raw": {
+      "value": 126000,
+      "justification": "The share payment value is derived from the exclusivity fee terms: '700,000 fully paid ordinary shares in the capital of Bubalus (Shares) to be issued to the Vendor (or its nominees) at a deemed issue price of $0.18 per Share'. This calculates to $126,000. The value of the additional 850,000 consideration shares is not specified."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details provide separate values for cash and share components, so per the extraction hierarchy, this combined field is not populated."
+    },
+    "amount_of_shares_issued": {
+      "value": 1550000,
+      "justification": "The total number of shares to be issued is the sum of the 700,000 shares for the exclusivity fee and the 850,000 shares for the settlement consideration. Quotes: '700,000 fully paid ordinary shares in the capital of Bubalus (Shares) to be issued' and 'At settlement of the Acquisition, Bubalus is to issue to Providence (or its nominees): (a) 850,000 Shares (Consideration Shares)'."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A deemed issue price of $0.18 is provided for the initial 700,000 shares, but no price is specified for the subsequent 850,000 consideration shares. As there is no single price for all issued shares, this field is null."
+    },
+    "exploration_commitment_meters": {
+      "value": 1200,
+      "justification": "The agreement requires Bubalus to 'complete a minimum of 1,200 metres of drilling on the area of EL007115', which is the primary Avon Plains licence."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in meters of drilling, not a monetary value. A separate commitment to meet expenditure on other tenements does not specify a dollar amount."
+    },
+    "exploration_commitment_desc": {
+      "value": "complete a minimum of 1,200 metres of drilling on the area of EL007115; and complete a reconnaissance sampling program on the area of EL007370 and EL007542, ensuring expenditure commitments are met for these Tenements, as a minimum.",
+      "justification": "During the Option Period, prior to any withdrawal, Bubalus agrees to: (a) complete a minimum of 1,200 metres of drilling on the area of EL007115; and (b) complete a reconnaissance sampling program on the area of EL007370 and EL007542, ensuring expenditure commitments are met for these Tenements, as a minimum."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "A 1.0% Gross Revenue Royalty (GRR), treated as an NSR per the rules, is granted to the seller as part of the deal. 'Bubalus also agrees to grant Providence (or its nominees) a 1.0% gross revenue royalty in respect of any minerals, mineral products, ore or concentrates produced from the Tenements (Royalty) from settlement of the Acquisition.'"
+    },
+    "coverage_area_raw": {
+      "value": 1063,
+      "justification": "The announcement highlights state the deal is for 'a further portfolio of Victorian exploration licences covering approximately 1,063 km2'. The text later confirms these tenements form the 'Avon Plains Gold Project'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "Bubalus granted option to acquire a further portfolio of Victorian exploration licences covering approximately 1,063 km2..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that a mineral resource cannot be declared. The JORC Code Table commentary states: 'Sampling style and spacing is not suitable for Mineral Resources'. A cautionary statement also notes that 'any estimates of the style, grade and orientation of the Avon Plains Historic Gold Mine mineralisation are not able to be reported in accordance with the 2012 Edition of the JORC Code.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:BUS",
+      "justification": "The document header and first page clearly identify the buyer and its ticker as 'Bubalus Resources Limited (ASX: BUS)'."
+    }
+  }
+}

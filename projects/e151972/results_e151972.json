@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "projects/e151972/e151972_118.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 100,
+        "justification": "At the end of the option period, the Company can acquire 100% of the tenement"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX listed company implies AUD currency"
+      },
+      "cash_payments_raw": {
+        "value": 15000,
+        "justification": "payment of an option fee of $15,000"
+      },
+      "share_payments_raw": {
+        "value": 35000,
+        "justification": "acquire 100% of the tenement for a consideration of $35,000, payable in shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": 3,
+        "justification": "The tenement covers 3 graticular blocks"
+      },
+      "coverage_area_unit": {
+        "value": "blocks",
+        "justification": "The tenement covers 3 graticular blocks"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:FSR",
+        "justification": "Forrestania Resources Limited (ASX: FSR)"
+      }
+    }
+  }
+]

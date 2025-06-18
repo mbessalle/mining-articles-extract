@@ -1,0 +1,278 @@
+[
+  {
+    "source_file": "projects/curnamona/curnamona_99.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 75,
+        "justification": "Red Hill may earn a 75% interest in the Curnamona Project"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX ANNOUNCEMENT"
+      },
+      "cash_payments_raw": {
+        "value": 6500000,
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration"
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": 6500000,
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration"
+      },
+      "exploration_commitment_desc": {
+        "value": "exploration over a period of up to 5 years",
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration over a period of up to 5 years"
+      },
+      "nsr_acquired_percent": {
+        "value": 1.5,
+        "justification": "for its Participating Interest to revert to a 1.5% Net Smelter Return (NSR) Royalty"
+      },
+      "coverage_area_raw": {
+        "value": 1460,
+        "justification": "The Curnamona Project tenements cover over 1,460 km²"
+      },
+      "coverage_area_unit": {
+        "value": "km²",
+        "justification": "The Curnamona Project tenements cover over 1,460 km²"
+      },
+      "resource_size_desc": {
+        "value": "4.2Mt at 0.52% Copper",
+        "justification": "an existing non JORC compliant resource estimate of 4.2Mt at 0.52% Copper historically reported by Placer Exploration Ltd2"
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:RHI",
+        "justification": "with Red Hill Minerals Limited (ASX: RHI) (Red Hill)"
+      }
+    }
+  },
+  {
+    "source_file": "projects/curnamona/curnamona_98.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "Michael Wall",
+        "justification": "Michael Wall\nCHIEF EXECUTIVE OFFICER"
+      },
+      "interest_acquired_percent": {
+        "value": 75,
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "Red Hill Minerals Limited (ASX: RHI)"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "The transaction is a farm-in agreement with a total exploration expenditure of $6.5 million."
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "The transaction is a farm-in agreement with a total exploration expenditure of $6.5 million."
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": 6500000,
+        "justification": "to enter into a $6.5 million 5-year farm-in agreement"
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": "The transaction is a farm-in agreement, not a share purchase."
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": "The transaction is a farm-in agreement, not a share purchase."
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": 6500000,
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "exploration_commitment_desc": {
+        "value": "Exploration expenditure over a farm-in period of up to 5 years",
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "nsr_acquired_percent": {
+        "value": 1.5,
+        "justification": "for its Participating Interest to revert to a 1.5% Net Smelter Return (NSR) Royalty on all\nminerals extracted and sold from the Tenements;"
+      },
+      "coverage_area_raw": {
+        "value": 1460,
+        "justification": "The Curnamona Project tenements cover over 1,460 km² of land holding in the Broken Hill\nprovince of New South Wales (Broken Hill Project) and across the border into South Australia\n(Anabama Project)."
+      },
+      "coverage_area_unit": {
+        "value": "km²",
+        "justification": "The Curnamona Project tenements cover over 1,460 km² of land holding in the Broken Hill\nprovince of New South Wales (Broken Hill Project) and across the border into South Australia\n(Anabama Project)."
+      },
+      "resource_size_desc": {
+        "value": "4.2Mt at 0.52% Copper",
+        "justification": "The Anabama Project is prospective for Copper/Gold and contains an existing non JORC\ncompliant resource estimate of 4.2Mt at 0.52% Copper reported by Placer Exploration Ltd2."
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:RHI",
+        "justification": "Red Hill Minerals Limited (ASX: RHI) (Red Hill or the Company) is pleased to announce that it has"
+      }
+    }
+  },
+  {
+    "source_file": "projects/curnamona/curnamona_100.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 75,
+        "justification": "Red Hill may earn a 75% interest in the Curnamona Project"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX ANNOUNCEMENT"
+      },
+      "cash_payments_raw": {
+        "value": 6500000,
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration"
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": 6500000,
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration"
+      },
+      "exploration_commitment_desc": {
+        "value": "exploration over a period of up to 5 years",
+        "justification": "Red Hill to farm into and earn a 75% interest in the Curnamona Project through spending $6.5 million on exploration over a period of up to 5 years"
+      },
+      "nsr_acquired_percent": {
+        "value": 1.5,
+        "justification": "for its Participating Interest to revert to a 1.5% Net Smelter Return (NSR) Royalty"
+      },
+      "coverage_area_raw": {
+        "value": 1460,
+        "justification": "The Curnamona Project tenements cover over 1,460 km²"
+      },
+      "coverage_area_unit": {
+        "value": "km²",
+        "justification": "The Curnamona Project tenements cover over 1,460 km²"
+      },
+      "resource_size_desc": {
+        "value": "4.2Mt at 0.52% Copper",
+        "justification": "an existing non JORC compliant resource estimate of 4.2Mt at 0.52% Copper historically reported by Placer Exploration Ltd2"
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:RHI",
+        "justification": "with Red Hill Minerals Limited (ASX: RHI) (Red Hill)"
+      }
+    }
+  },
+  {
+    "source_file": "projects/curnamona/curnamona_97.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "Michael Wall",
+        "justification": "Michael Wall\nCHIEF EXECUTIVE OFFICER"
+      },
+      "interest_acquired_percent": {
+        "value": 75,
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "Red Hill Minerals Limited (ASX: RHI)"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "No cash payments mentioned in the document"
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "No share payments mentioned in the document"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": 6500000,
+        "justification": "a $6.5 million 5-year farm-in agreement"
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": "No shares issued mentioned in the document"
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": "No share price mentioned in the document"
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": "No exploration commitment in meters mentioned in the document"
+      },
+      "exploration_commitment_value_raw": {
+        "value": 6500000,
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "exploration_commitment_desc": {
+        "value": "Exploration expenditure during the farm-in period of up to five years",
+        "justification": "Red Hill may earn a 75% interest by incurring $6.5 million in exploration expenditure during the\nfarm-in period of up to five years."
+      },
+      "nsr_acquired_percent": {
+        "value": 1.5,
+        "justification": "its Participating Interest to revert to a 1.5% Net Smelter Return (NSR) Royalty on all\nminerals extracted and sold from the Tenements"
+      },
+      "coverage_area_raw": {
+        "value": 1460,
+        "justification": "The Curnamona Project tenements cover over 1,460 km² of land holding in the Broken Hill\nprovince of New South Wales (Broken Hill Project) and across the border into South Australia\n(Anabama Project)."
+      },
+      "coverage_area_unit": {
+        "value": "km²",
+        "justification": "The Curnamona Project tenements cover over 1,460 km² of land holding in the Broken Hill\nprovince of New South Wales (Broken Hill Project) and across the border into South Australia\n(Anabama Project)."
+      },
+      "resource_size_desc": {
+        "value": "4.2Mt at 0.52% Copper",
+        "justification": "The Anabama Project is prospective for Copper/Gold and contains an existing non JORC\ncompliant resource estimate of 4.2Mt at 0.52% Copper reported by Placer Exploration Ltd2."
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:RHI",
+        "justification": "Red Hill Minerals Limited (ASX: RHI) (Red Hill or the Company) is pleased to announce that it has"
+      }
+    }
+  }
+]

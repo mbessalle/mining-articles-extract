@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Barlee/barlee_24.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Stuart Fogarty",
+      "justification": "Authorised for release by: Stuart Fogarty Duketon Mining Limited - Managing Director"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The document announces the grant of a new tenement for a project already 100% owned by Duketon Mining Limited. It is not an M&A transaction involving the acquisition of interest from another party."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction is mentioned in the document."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment is mentioned as this is a tenement grant, not an acquisition from another company."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment is mentioned as this is a tenement grant, not an acquisition from another company."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment is mentioned as this is a tenement grant, not an acquisition from another company."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No issuance of shares is mentioned in the document."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price is mentioned in the document."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document mentions future drilling plans but does not specify a committed meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document mentions future work but does not specify a monetary commitment."
+    },
+    "exploration_commitment_desc": {
+      "value": "Next steps are to infill soil samples if necessary and follow up gold anomalies with aircore drilling in preparation for target testing",
+      "justification": "Next steps are to infill soil samples if necessary and follow up gold anomalies with aircore drilling in preparation for target testing"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty is mentioned in the document."
+    },
+    "coverage_area_raw": {
+      "value": 510,
+      "justification": "Three applications over adjoining ground expands the Barlee Project footprint, now over 510km2 within the Marda-Diemals Greenstone Belt."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "Three applications over adjoining ground expands the Barlee Project footprint, now over 510km2 within the Marda-Diemals Greenstone Belt."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production from an excised tenement ('The Halley’s East gold deposit produced approximately 19,000 ounces of gold') and mineralized drill intercepts, but does not provide a quantified mineral resource estimate for the Barlee project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:DKM",
+      "justification": "The document is an 'ASX Announcement' from 'Duketon Mining Limited (Company or DKM)'."
+    }
+  }
+}

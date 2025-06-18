@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Bullfinch/bullfinch_48.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Nicholas Anderson",
+      "justification": "The text identifies the buyer's CEO in the statement: \"Golden Horse's Managing Director & CEO Nicholas Anderson commented:\" and also lists him in the contact section: \"Nicholas Anderson Managing Director & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"Golden Horse has entered a conditional Sale Agreement (\"Sale Agreement\") with Torque Metals to acquire 100% of its Bullfinch Gold Project.\""
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The transaction terms are specified using the 'A$' symbol, indicating Australian Dollars: \"Golden Horse to make a A$250,000 cash payment to Torque Metals...\""
+    },
+    "cash_payments_raw": {
+      "value": 450000,
+      "justification": "The total cash payment is the sum of the initial payment and the milestone payment (A$250,000 + A$200,000). The terms are listed as: \"A$250,000 cash payment upon transfer of the tenure; and A$200,000 milestone cash payment upon the delineation of a 100,000oz JORC resource of contained gold.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the document only mention cash payments and do not include any share-based consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms specify separate cash payments, so this field is null according to the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of shares."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "As no shares are being issued as part of the transaction, there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The provided text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided text does not mention any monetary exploration spending commitment as part of the transaction."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "There is no description of an exploration commitment in the provided documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 422,
+      "justification": "The text states: \"The Sale Agreement provides Golden Horse an additional 422km2 of tenure adjacent to the Company's existing tenements in the Southern Cross Greenstone Belt.\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is specified in the sentence: \"The Sale Agreement provides Golden Horse an additional 422km2 of tenure...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a statement of a current mineral resource for the Bullfinch project. A milestone payment is conditional upon the future \"delineation of a JORC resource of at least 100,000 ounces of contained gold,\" which implies no such resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GHML",
+      "justification": "The news release explicitly identifies the buyer and its ticker information: \"Golden Horse Minerals Limited, (TSXV: GHML) (\"Golden Horse\" or the \"Company\").\""
+    }
+  }
+}

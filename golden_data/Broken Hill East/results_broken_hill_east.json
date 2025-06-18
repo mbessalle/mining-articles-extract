@@ -1,0 +1,74 @@
+{
+  "source_files": [
+    "golden_data/Broken Hill East/broken_hill_east_39.txt",
+    "golden_data/Broken Hill East/broken_hill_east_40.txt",
+    "golden_data/Broken Hill East/broken_hill_east_41.txt",
+    "golden_data/Broken Hill East/broken_hill_east_42.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Michael G Jones",
+      "justification": "The document is signed by 'Dr Michael G Jones Managing Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is for the purchase of a 'wholly owned subsidiary' named BHA No. 1 Pty Ltd, which holds the project. The text states 'in consideration for NFM transferring all of the shares in BHA to Impact'."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The payment is specified in dollars ('$275,000') and both the buyer (Impact Minerals Limited) and seller (New Frontier Minerals Limited) are listed on the Australian Securities Exchange (ASX), implying the currency is Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is entirely in shares; no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": 275000,
+      "justification": "Terms of the acquisition are as follows: Impact to purchase BHA No 1 Pty Ltd, a wholly owned subsidiary of NFM, for $275,000 in Impact shares..."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as a share payment, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued was not explicitly stated in the documents."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A share price of $0.0073 is mentioned, but per the mutually exclusive financial hierarchy, this field must be null because an explicit share payment value ($275,000) was provided and populated in `share_payments_raw`."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents mention that 'some funds from the current renounceable rights issue will be directed towards developing some of the priority copper targets for drilling', but no specific monetary value is committed as part of the acquisition agreement."
+    },
+    "exploration_commitment_desc": {
+      "value": "Ground geophysics to help identify targets for drilling.",
+      "justification": "The document states: 'Next steps will include ground geophysics to help identify targets for drilling.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The buyer will take on the obligation for a pre-existing royalty, as stated: 'In addition, IPT will assume responsibility for a 2% net smelter return royalty payable with respect to tenements held by BHA.'"
+    },
+    "coverage_area_raw": {
+      "value": 675,
+      "justification": "The announcement specifies the size of the acquired landholding: 'Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding...'. The larger figure of 1,770 sq km represents the company's total holding post-acquisition and is therefore ignored."
+    },
+    "coverage_area_unit": {
+      "value": "sq km",
+      "justification": "The unit is provided in the same sentence as the area: '...acquisition of a large, 675 sq km landholding...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not contain a mineral resource estimate for the acquired Broken Hill East project. A resource of 'over 350 million tonnes' is mentioned, but this refers to the nearby, separate Broken Hill mine, not the project being acquired."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:IPT",
+      "justification": "The buyer's name is consistently followed by its ticker and exchange in the required format: 'Impact Minerals Limited (ASX:IPT)'."
+    }
+  }
+}

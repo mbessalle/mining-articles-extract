@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Bindi/bindi_32.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Adrian Byass",
+      "justification": "The announcement identifies the buyer's contact as 'Infinity Lithium Adrian Byass Executive Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states 'Acquisition of 100% of four granted, advanced high-grade gold exploration assets' and 'acquisi(cid:415)on of a 100% interest in Highland Resources Limited', which holds the Bindi project."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The buyer, Infinity Lithium Corporation Limited, is listed on the ASX (ASX.INF) and the consideration is denoted with a '$' symbol, implying Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 12500,
+      "justification": "The total cash payment of $50,000 for the acquisition of Highland Resources Limited, which holds four tenements (Bindi, Mitta Mitta, Cobungra-Omeo, Good Hope-Union), is shared among the four projects. Bindi's pro-rata share is calculated as $50,000 / 4. The source states: 'Initial Payment (for 100%) - $50,000 cash and 10,000,000 ordinary shares...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the shares is not provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components are listed, so this field is not applicable per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "The total of 10,000,000 shares for the acquisition of Highland Resources Limited, which holds four tenements (Bindi, Mitta Mitta, Cobungra-Omeo, Good Hope-Union), is shared among the four projects. Bindi's pro-rata share is calculated as 10,000,000 / 4. The source states: 'Initial Payment (for 100%) - $50,000 cash and 10,000,000 ordinary shares...'"
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No price for the issued shares is mentioned in the transaction terms."
+    },
+    "exploration_commitment_meters": {
+      "value": 2000,
+      "justification": "The total drilling commitment is 8,000 meters (3,000m for Tranche A + an additional 5,000m for Tranche B), which is a condition for performance rights across the four-tenement 'Project'. Bindi's pro-rata share is calculated as 8,000m / 4. Source quotes: 'Tranche A...completed at least 3,000 metres of drilling...on a Tenement within the Project.' and 'Tranche B...completed an additional 5,000 metres of drilling...on a Tenement within the Project.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in meters of drilling, not a monetary value."
+    },
+    "exploration_commitment_desc": {
+      "value": "Performance Rights for up to 30,000,000 shares vest upon completion of drilling milestones (3,000m for Tranche A, an additional 5,000m for Tranche B) or definition of a JORC resource across the four acquired tenements.",
+      "justification": "The transaction includes 'Additional deferred consideration Performance Rights (Tranche A and B) for up to 30,000,000 shares' which vest upon conditions including 'completed at least 3,000 metres of drilling' (Tranche A) and 'completed an additional 5,000 metres of drilling' or 'definition of a JORC Code compliant Mineral Resource Estimate' (Tranche B)."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or equivalent was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "A total area of 1,509 km2 was provided for all four tenements acquired (Bindi, Mitta Mitta, Cobungra-Omeo, Good Hope-Union), but no specific area for the Bindi project was given. The total area was rejected as it is not specific to the project of interest. Quote: 'The ELs cover a total area of 1,509 km2'."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage_area_raw is null as no specific area for the Bindi project was provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource exists for the project. Quote from the JORC table: 'There are no Mineral Resources reported for any of the tenements.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX.INF",
+      "justification": "The transaction terms in Schedule 2 explicitly state: '...shares in Infinity Lithium Corporation Limited (ASX.INF)'."
+    }
+  }
+}

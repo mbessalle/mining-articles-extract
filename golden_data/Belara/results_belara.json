@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Belara/belara_29.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The provided text describes the acquisition of the Kalahari Copper Project by Belararox Ltd, whose Managing Director is Arvind Misra. This information is not related to the specified project of interest, BELARA."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states Belararox executed an agreement to acquire 100% of KCB Resources, the owner of the Kalahari Copper Project. This transaction does not pertain to the BELARA project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The currency mentioned in the document (A$) relates to an expenditure commitment for the Kalahari Copper Project. No financial details are provided for the BELARA project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The provided text details share-based payments for the acquisition of the Kalahari Copper Project. No cash payments related to the BELARA project are mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition of the Kalahari Copper Project involves the issuance of shares. This information does not apply to the BELARA project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The provided text details payments for the acquisition of the Kalahari Copper Project. No combined cash and share payments related to the BELARA project are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text states an 'Issue of up to 9 million fully paid ordinary shares in BRX' for the acquisition of the Kalahari Copper Project. This does not relate to the BELARA project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price is mentioned in the text for any transaction. There is no information regarding the BELARA project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not contain any exploration commitment specified in meters for any project. No information is available for the BELARA project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text specifies an 'Annual Expenditure Commitment of A$1 million per annum for two years' for the Kalahari Copper Project. This commitment does not apply to the specified BELARA project."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "The exploration commitment described in the text is for the Kalahari Copper Project, not the BELARA project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states 'BRX has agreed to grant the Sellers a 1% net smelter royalty (NSR)' as part of the Kalahari Copper Project acquisition. This does not pertain to the BELARA project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a coverage area of '4,286km2' which pertains to the Kalahari Copper Project in Botswana. No area information is provided for the BELARA project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The area unit 'km2' is associated with the Kalahari Copper Project. No area information is provided for the BELARA project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text contains no mineral resource estimates for the specified BELARA project. The document discusses the Kalahari Copper Project, for which it explicitly states, 'No previous or historical Mineral Resources or Ore Reserves exist for the areas underlain by the KCP.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer ticker and exchange (ASX: BRX) is identified for Belararox Ltd in the context of its acquisition of the Kalahari Copper Project. This information is not linked to any transaction involving the BELARA project."
+    }
+  }
+}

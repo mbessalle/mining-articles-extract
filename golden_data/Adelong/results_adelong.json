@@ -1,0 +1,75 @@
+{
+  "source_files": [
+    "golden_data/Adelong/adelong_2.txt",
+    "golden_data/Adelong/adelong_3.txt",
+    "golden_data/Adelong/adelong_4.txt",
+    "golden_data/Adelong/adelong_5.txt",
+    "golden_data/Adelong/adelong_6.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Justin Haines",
+      "justification": "Commenting on the completion of the Farm-in, CEO of GDM, Justin Haines, said: “Finalisation of the Definitive Agreements puts GDM squarely onto the path to produce first gold from the Challenger Gold Mine.\""
+    },
+    "interest_acquired_percent": {
+      "value": 51,
+      "justification": "The agreement is a staged farm-in. The final potential ownership is 51%, as stated: \"Upon achieving first gold production within 12 months, GDM will secure a further 36% interest, bringing its total ownership in CGM to 51%.\""
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The payment is specified in dollars ('$300,000') and the buyer, Great Divide Mining Ltd (GDM), is an ASX-listed company (ASX:GDM), which implies the currency is Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "GDM will pay $300,000 to Challenger Mines Pty Ltd, (Challenger) owner of the Challenger Gold Mine and wholly owned subsidiary of ADG, for a 15% interest in Challenger."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves a cash payment for an equity stake in the project's holding company. The buyer, GDM, is not issuing its own shares as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is explicitly defined as a cash payment, not a combined value. Per the financial data extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The buyer, GDM, is not issuing its own shares. It is subscribing for shares in the target's subsidiary, Challenger Mines Pty Ltd."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares of the buyer (GDM) are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment specified in meters was found in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While the agreement includes an 'Exploration Commitment', no specific monetary value is attached to this commitment. The $300,000 payment is for an equity stake and plant refurbishment, not explicitly for exploration."
+    },
+    "exploration_commitment_desc": {
+      "value": "Additional exploration and feasibility studies to expand gold resources within the Project Area.",
+      "justification": "One of the key terms of the agreement is an 'Exploration Commitment – Additional exploration and feasibility studies to expand gold resources within the Project Area.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was found in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 70,
+      "justification": "As at February 2025, the assets of Challenger include: 17 Mining Leases and an Exploration License over approximately 70km2 covering the majority of the Adelong Goldfield;"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "As at February 2025, the assets of Challenger include: 17 Mining Leases and an Exploration License over approximately 70km2 covering the majority of the Adelong Goldfield;"
+    },
+    "resource_size": {
+      "value": "1,820,000 tonnes @ 3.21 g/t Au for 188,000 oz",
+      "justification": "The value is derived from the 'TOTAL PROJECT RESOURCES' line in the resource statement table, which lists: Tonnes: 1,820,000, Grade(g/t Au): 3.21, Gold (oz): 188,000. The text also states 'The Project now carries a JORC (2012) Resource of 188,000oz'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:GDM",
+      "justification": "The buyer is identified as 'Great Divide Mining Ltd (the Company or GDM) (ASX:GDM)'."
+    }
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Blue Bore/blue_bore_35.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Ashley Hood",
+      "justification": "The text identifies the buyer's managing director: \"TechGen’s Managing Director, Ashley Hood, commented...\" and \"For further information, please contact: Mr Ashley Hood, Managing Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement grants an option for a specific interest: \"...the Company will be granted an option to acquire an 80% legal and beneficial interest in the Blue Bore Copper Project...\""
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The payment is specified as \"$50,000 cash\". The buyer, TechGen Metals Limited, is an Australian company with a registered office in West Perth, Australia, and an ABN, implying the currency is Australian Dollars (AUD)."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The agreement specifies a single cash payment as an option fee: \"Grant of the Option is subject to TechGen paying a total of $50,000 cash (plus GST) to the Vendor (and/or its nominees) (Option Fee).\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only describe a cash option fee. The text states: \"No further consideration is payable by TechGen upon exercise of the Option. The only consideration payable under the Option Agreement is the Option Fee.\" There is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was found, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not include the issuance of any shares."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms do not include the issuance of any shares, so there is no share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "While a single drill hole is a condition, the agreement specifies there is \"no prescribed minimum depth for the drill hole\", making the commitment unquantifiable in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement requires TechGen to \"maintain the Tenements in full force and keep the Tenements in good standing\" and to drill one hole, but no specific minimum exploration expenditure value is committed."
+    },
+    "exploration_commitment_desc": {
+      "value": "TechGen will, at its own cost, maintain the Tenements in good standing and meet all outgoings. As a condition to exercise the option, TechGen must complete a single AC or RC drill hole with no prescribed minimum depth.",
+      "justification": "The obligations are described as: \"During the Option Period, TechGen will, at its own cost, maintain the Tenements in full force and keep the Tenements in good standing and meet all outgoings in respect of the Tenements as and when they fall due.\" and a condition precedent is \"TechGen providing written notice to Vendor that TechGen has completed an AC or RC single drill hole on the Tenements (completion of such drilling is at the sole discretion of TechGen and there is no prescribed minimum depth for the drill hole)\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction terms, the vendor has a future option to convert its remaining interest into a royalty: \"automatically convert its 20% interest in the Assets into a 2% net smelter return royalty over all minerals produced from the Tenements (Royalty)\"."
+    },
+    "coverage_area_raw": {
+      "value": 3950,
+      "justification": "The project area is explicitly stated: \"The Project consists of 6 Exploration Licences, EL33313 – EL33318, covering a combined area of 3,950 km2.\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is provided with the area measurement: \"...covering a combined area of 3,950 km2.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states the project is at an early stage with no defined resource. The JORC table commentary confirms this: \"Data spacing is deemed insufficient to establish geological and grade continuity to establish a mineral resource estimate.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "No stock ticker symbol for the buyer, TechGen Metals Limited, is mentioned in the provided document."
+    }
+  }
+}

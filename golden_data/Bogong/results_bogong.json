@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Bogong/bogong_36.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Joe Phillips",
+      "justification": "The document identifies the contact person for the buyer, Infinity Mining, as 'Joe Phillips Executive Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the Bogong project was 'granted to Infinity' but does not specify the percentage of interest acquired."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction is mentioned in the document, as the tenement was granted, not purchased."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text states the tenement was 'granted to Infinity', not purchased. No cash consideration is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text states the tenement was 'granted to Infinity', not purchased. No share consideration is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text states the tenement was 'granted to Infinity', not purchased. No combined cash and share consideration is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document does not mention any issuance of shares as part of the tenement grant."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document does not mention a share price as no shares were issued for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for 'drill testing in 2025' but does not specify a committed number of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines future exploration plans but does not mention a specific monetary commitment value."
+    },
+    "exploration_commitment_desc": {
+      "value": "Infinity's immediate focus for its Bogong Copper Project is the compilation of a comprehensive database containing all historical data, including drilling results, surface geochemical assays and geophysical data. Once the database is verified and data is interrogated, Infinity will define the best targets for further exploration work, including modern geophysical surveys, geochemical surveys and other on-ground exploration programs. The highest-priority targets will be flagged for drill testing in 2025.",
+      "justification": "Infinity's immediate focus for its Bogong Copper Project is the compilation of a comprehensive database containing all historical data, including drilling results, surface geochemical assays and geophysical data. Once the database is verified and data is interrogated, Infinity will define the best targets for further exploration work, including modern geophysical surveys, geochemical surveys and other on-ground exploration programs. The highest-priority targets will be flagged for drill testing in 2025."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty associated with the grant of the tenement."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a 'strike length' of '16 km' for the Bogong project, but does not provide a specific coverage area (e.g., in km² or ha)."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drilling intercepts but does not state a formal mineral resource estimate for the Bogong project. It notes that the project offers 'potential resource development,' implying no current resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:IMI",
+      "justification": "The document identifies the buyer as 'Infinity Mining Limited (ASX: IMI)'."
+    }
+  }
+}

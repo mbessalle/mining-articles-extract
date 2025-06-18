@@ -1,5 +1,6 @@
 ---
 trigger: manual
+description: # Activation: After running evaluator.py
 ---
 
 # Rule: Self-Improvement & Knowledge Management Protocol

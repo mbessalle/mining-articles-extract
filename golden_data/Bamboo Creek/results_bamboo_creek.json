@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Bamboo Creek/bamboo_creek_22.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Michael Spreadborough",
+      "justification": "The document is signed: On Behalf of the Board of Directors, Novo Resources Corp. “Michael Spreadborough” Michael Spreadborough Executive Co-Chairman and Acting CEO."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves acquiring different interests in two separate mining leases that form part of the project: 'a 100% interest in mining lease 45/202 and a 70% interest in mining lease 45/1163'. A single overall interest percentage for the Bamboo Creek project is not provided."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Novo Resources Corp., is listed on the Toronto Stock Exchange, and market data is quoted in CAD: 'CAD|TORONTO STOCK EXCHANGE|DELAYE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration was paid entirely in shares, with no cash component mentioned. The text states the company issued common shares in exchange for the interest."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "While shares were issued as payment, their corresponding monetary value is not stated in the text. The payment was defined by the number of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value was provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 8431,
+      "justification": "The Company has issued 8,431 common shares to the Creasy Group (the “Second Completion Shares”)..."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the 8,431 issued shares was not mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment defined by drilling meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the transaction terms."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "No exploration commitment was described as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total land package size for all of Novo's projects ('approximately 10,500 square kilometres') but does not provide a specific area for the Bamboo Creek project itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found for the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as 'prospective for orogenic gold, silver and base metal mineralisation' but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX: NVO",
+      "justification": "The company is identified in the text as 'Novo Resources Corp. (“Novo” or the “Company”) (TSX: NVO, NVO.WT & NVO.WT.A)'."
+    }
+  }
+}

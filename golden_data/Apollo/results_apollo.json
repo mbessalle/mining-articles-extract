@@ -1,0 +1,73 @@
+{
+  "source_files": [
+    "golden_data/Apollo/apollo_15.txt",
+    "golden_data/Apollo/apollo_16.txt",
+    "golden_data/Apollo/apollo_17.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Ian Holland",
+      "justification": "The documents identify the buyer's CEO in the contacts section and in commentary: 'Ian Holland Managing Director' and 'Adelong Gold’s Managing Director, Ian Holland, commented:'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Adelong Gold has executed a binding purchase agreement to acquire a 100% interest in EL006430, to be renamed the Apollo Gold Project in Victoria, Australia"
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The consideration is listed in '$' and the acquiring company, Adelong Gold Limited, is listed on the Australian Securities Exchange (ASX:ADG), implying the currency is Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "Under the 'Transaction Details' section, the text states: 'Cash Payment: $350,000 payable within five (5) business days following satisfaction of all conditions precedent.'"
+    },
+    "share_payments_raw": {
+      "value": 350000,
+      "justification": "Under the 'Transaction Details' section, the text states: 'Share Consideration: Subject to shareholder approval, Adelong Gold will issue $350,000 worth of fully paid ordinary shares...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate values for cash and share payments were explicitly provided, which takes precedence according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified, only their total value: 'Adelong Gold will issue $350,000 worth of fully paid ordinary shares'."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A specific issue price is not provided. The price is conditional: 'to be issued six (6) months post-completion at a deemed price based on the five-day volume-weighted average price (VWAP) at the time of issue.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the provided documents for the Apollo project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents mention a '$300,000' investment by Great Divide Mining, but this is for the separate 'Adelong Gold Project', not the Apollo project. No monetary exploration commitment for the Apollo project is specified."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "No specific exploration commitment was described for the Apollo project. The text only makes a general statement: 'Adelong Gold is sufficiently funded and will move rapidly to commence further exploration drilling and resource definition...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being part of the transaction terms for the Apollo project."
+    },
+    "coverage_area_raw": {
+      "value": 102,
+      "justification": "The Apollo Gold Project, covered by EL006430, encompasses approximately 102 km² at the under-explored northern end of the Walhalla Gold Belt..."
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The Apollo Gold Project, covered by EL006430, encompasses approximately 102 km² at the under-explored northern end of the Walhalla Gold Belt..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that a resource has not been defined for the Apollo project. In the JORC Table 1 commentary, it says: 'Data spacing and distribution are variable and are considered to be not sufficient currently to establish the degree of geological and grade continuity or for resource reporting.' The resource tables provided in the documents are for the separate 'Adelong Gold Project'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:ADG",
+      "justification": "The buyer is identified as 'Adelong Gold Limited (ASX:ADG)' in multiple locations throughout the documents."
+    }
+  }
+}

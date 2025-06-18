@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "projects/mutooroo/mutooroo_316.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": "The document mentions JXAM may acquire an interest in Mutooroo, but does not specify the percentage."
+      },
+      "currency": {
+        "value": "USD",
+        "justification": "The expenditure on the study program is mentioned as \"almost $3 million\", implying USD as the currency."
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "No cash payments are mentioned in the provided text."
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "No share payments are mentioned in the provided text."
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": "While a potential transaction is discussed, no specific financial details are provided."
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": "No information on shares issued is available in the document."
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": "No share price is mentioned in the provided text."
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": "No exploration commitment in meters is specified."
+      },
+      "exploration_commitment_value_raw": {
+        "value": 3000000,
+        "justification": "JXAM will spend almost $3 million on the study program."
+      },
+      "exploration_commitment_desc": {
+        "value": "resource expansion and resource upgrade drilling, metallurgical studies and mining/infrastructure/environmental/permitting studies",
+        "justification": "Expenditure on the study program will be almost $3 million, with approximately two-thirds directed towards resource expansion and resource upgrade drilling, with the balance split between metallurgical studies and mining/infrastructure/environmental/permitting studies."
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": "There is no mention of NSR acquisition in the provided text."
+      },
+      "coverage_area_raw": {
+        "value": 23,
+        "justification": "Exclusivity will cover the entire 23 km2 area of exploration licence 6592 and mining lease 5678"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "Exclusivity will cover the entire 23 km2 area of exploration licence 6592 and mining lease 5678"
+      },
+      "resource_size_desc": {
+        "value": "195,000 tonnes of copper, 20,200 tonnes of cobalt and 82,100 ounces of gold in a predominantly massive sulphide ore lode",
+        "justification": "It contains 195,000 tonnes of copper, 20,200 tonnes of cobalt and 82,100 ounces of gold in a predominantly massive sulphide ore lode"
+      },
+      "buyer_ticker_and_exchange": {
+        "value": null,
+        "justification": "The document does not provide a ticker symbol for JXAM."
+      }
+    }
+  }
+]

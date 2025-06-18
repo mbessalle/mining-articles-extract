@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Andover South/andover_south_14.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Dusko Ljubojevic",
+      "justification": "The text identifies the Managing Director of the buyer, Raiden Resources: \"Mr Dusko Ljubojevic, Managing Director of Raiden commented:\""
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The text states that Raiden will acquire an 80% interest in the key tenement: \"With the recent grant of the tenement (E47/4062) by DEMIRS, a transfer between Welcome Exploration Pty Ltd and Raiden for the Company’s 80% interest will occur\"."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The provided text does not contain any financial details or mention of currency related to the acquisition. It refers to a previous announcement for purchase details which was not included in the source documents."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The provided text does not contain any information on cash payments for the acquisition. It refers to a previous announcement for purchase details which was not included in the source documents."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The provided text does not contain any information on share payments for the acquisition. It refers to a previous announcement for purchase details which was not included in the source documents."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The provided text does not contain any information on a combined cash and share payment for the acquisition. It refers to a previous announcement for purchase details which was not included in the source documents."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The provided text does not mention any amount of shares being issued as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The provided text does not mention the price of any shares issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "While a diamond drilling program is mentioned, no specific length or meterage commitment is stated in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided text does not mention any monetary value for an exploration commitment."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "The text mentions a planned drilling program but does not describe a formal exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The provided text does not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The area for the key Andover South tenement, E47/4062, is listed as '2Bl' (blocks), which is not a standard numerical area unit like hectares or km2. Another tenement in the schedule, P47/2028, has a numeric area of '23.5 Ha.', but the text does not explicitly confirm it is part of the Andover South project. Therefore, no specific numerical area can be extracted for the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "As no raw numerical area could be extracted, the unit is also null."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text discusses the 'potential of this exciting project' and future exploration, but does not contain any statement of a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:RDN",
+      "justification": "The buyer's name is followed by its ticker and exchange information in parentheses: \"Raiden Resources Limited (ASX: RDN DAX: YM4)\"."
+    }
+  }
+}

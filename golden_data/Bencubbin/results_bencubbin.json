@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Bencubbin/bencubbin_30.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "David Southam",
+      "justification": "Cygnus Managing Director, David Southam, said: “It was another highly successful quarter for Cygnus..."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The Bencubbin project is already 100% owned by Cygnus Metals Limited, as stated in the tenement list and the general description of Australian assets. No new interest acquisition is mentioned for this project in the document. The text states: \"The Company has approximately 1,750km2 of 100% Cygnus-owned, granted tenements...\" which includes the Bencubbin project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transactions with an associated currency are mentioned specifically for the Bencubbin project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments are mentioned in relation to the Bencubbin project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are mentioned in relation to the Bencubbin project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payments are mentioned in relation to the Bencubbin project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued in relation to the Bencubbin project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price is mentioned in relation to the Bencubbin project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions planned drilling but does not specify a commitment in meters for the Bencubbin project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No future exploration commitment value is mentioned for the Bencubbin project. The text refers to past expenditure, not a future commitment."
+    },
+    "exploration_commitment_desc": {
+      "value": "Follow-up air core drilling is due to commence early in the September quarter to both infill and extend the current known mineralisation. In addition, a regional program of auger drilling is planned to step out significantly along strike testing the 23km long magnetic feature, of which only 2.3km has been tested to date.",
+      "justification": "Follow-up air core drilling is due to commence early in the September quarter to both infill and extend the current known mineralisation. In addition, a regional program of auger drilling is planned to step out significantly along strike testing the 23km long magnetic feature, of which only 2.3km has been tested to date."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or equivalent is mentioned in the text for the Bencubbin project."
+    },
+    "coverage_area_raw": {
+      "value": 800,
+      "justification": "During the quarter, the team identified a highly promising clay-hosted rare earths discovery at the 800sqkm Bencubbin Project in WA"
+    },
+    "coverage_area_unit": {
+      "value": "sqkm",
+      "justification": "During the quarter, the team identified a highly promising clay-hosted rare earths discovery at the 800sqkm Bencubbin Project in WA"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document describes a 'highly promising clay-hosted rare earths discovery' and provides drill intersections (e.g., '23m @ 1,862ppm TREO from 12m'), but it does not contain a quantified mineral resource estimate for the Bencubbin project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:CY5",
+      "justification": "The document header states 'ASX Code: CY5'."
+    }
+  }
+}

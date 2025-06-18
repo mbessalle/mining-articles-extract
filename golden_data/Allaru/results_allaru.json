@@ -1,0 +1,75 @@
+{
+  "source_files": [
+    "golden_data/Allaru/allaru_10.txt",
+    "golden_data/Allaru/allaru_11.txt",
+    "golden_data/Allaru/allaru_12.txt",
+    "golden_data/Allaru/allaru_8.txt",
+    "golden_data/Allaru/allaru_9.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "David Mason",
+      "justification": "The contact information section in the documents lists: 'Mr David Mason Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is for NewPeak 'to purchase all of the shares in AusVan from the Vendors'. AusVan is the holder of the Allaru project."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The consideration is specified in Australian dollars: 'The consideration to be paid to the Vendors for the acquisition of all of the AusVan shares under the Proposed Transaction by NewPeak is AUD$5,000,000 worth of NewPeak shares...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is entirely in shares, with no cash component mentioned for the acquisition itself. The text states the consideration is '$5 million worth of NewPeak shares'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, this field is null because more specific, raw data is available. The transaction is defined by the number of shares and the price per share ('a total of 303,030,303 NewPeak shares at an issue price of $0.0165'), so the `amount_of_shares_issued` and `issued_share_price` fields are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because the payment is composed entirely of shares, and more specific fields (`amount_of_shares_issued`, `issued_share_price`) are populated according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 303030303,
+      "justification": "The consideration is 'AUD$5,000,000 worth of NewPeak shares, being a total of 303,030,303 NewPeak shares at an issue price of $0.0165 (1.65 cents) per NewPeak share (Consideration Shares)'."
+    },
+    "issued_share_price": {
+      "value": 0.0165,
+      "justification": "The consideration shares are valued 'at an issue price of $0.0165 (1.65 cents) per NewPeak share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents state an intention to conduct 'Additional exploration drilling' but do not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration commitment value for the Allaru project is mentioned. A Rights Issue is planned to raise funds for exploration, but these funds are for multiple projects and general working capital, not a dedicated commitment to Allaru. The text states proceeds will be used for 'the Tenements, the George River Uranium, REE and Scandium Project (located in Canada), the Treuer Range Uranium-Vanadium Project (located in the Northern Territory), the Cachi Gold and Las Opeñas Gold Projects (located in Argentina), as well as working capital, administration, raising, and legal costs.'"
+    },
+    "exploration_commitment_desc": {
+      "value": "NewPeak intends to conduct exploration at the Project, with the objective of upgrading the Inferred JORC mineral resources, discovering additional shallow, oxidised Toolebuc resources and metallurgy testing to define optimum processing technologies.",
+      "justification": "This is a direct quote from the 'NEWPEAK’S FUTURE EXPLORATION PLANS' section of the announcement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The documents do not mention any Net Smelter Royalty (NSR) or other royalty being acquired or retained as part of the Allaru project transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1498,
+      "justification": "The text states: 'AusVan holds 6 granted Exploration Permits for Minerals (EPM) and 1 EPM application comprising a total of 468 sub-blocks covering 1,498 square kilometres'."
+    },
+    "coverage_area_unit": {
+      "value": "square kilometres",
+      "justification": "The unit is specified in the sentence: '...covering 1,498 square kilometres'."
+    },
+    "resource_size": {
+      "value": "710 million tonnes of vanadium mineral resource, at 0.46 V2O5 (wt%)",
+      "justification": "The announcement highlights state: 'NewPeak has entered into a binding term sheet to acquire the Allaru Vanadium Project which has an Inferred JORC Resource of 710 million tonnes of vanadium mineral resource, at 0.46 V2O5 (wt%) in the prominent Julia Creek vanadium province of northwest Queensland.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:NPM",
+      "justification": "The buyer is identified as 'NewPeak Metals Ltd (ASX:NPM)' in the first paragraph of multiple announcements."
+    }
+  }
+}

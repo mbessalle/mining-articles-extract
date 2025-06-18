@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "projects/oasis/oasis_333.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 100,
+        "justification": "Greenvale acquires 100% interest in EPM 27565"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "Greenvale Energy Ltd (ASX: GRV"
+      },
+      "cash_payments_raw": {
+        "value": 200000,
+        "justification": "for a consideration of $200,000 cash"
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "and the issue of 20 million Greenvale shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": 20000000,
+        "justification": "and the issue of 20 million Greenvale shares"
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": "geological prospecting and geochemical surveying probably utilizing the track etch technique",
+        "justification": "This would involve geological prospecting and geochemical surveying probably utilizing the track etch technique."
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": 90,
+        "justification": "covering 90 km2 of fault bound alkaline intrusive and metamorphic terrane"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "covering 90 km2 of fault bound alkaline intrusive and metamorphic terrane"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:GRV",
+        "justification": "Greenvale Energy Ltd (ASX: GRV"
+      }
+    }
+  }
+]

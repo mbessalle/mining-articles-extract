@@ -1,0 +1,72 @@
+{
+  "source_files": [
+    "golden_data/Ashford/ashford_18.txt",
+    "golden_data/Ashford/ashford_19.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Peter Westerhuis",
+      "justification": "The documents identify 'Peter Westerhuis' as the 'Chief Executive Officer' of 'Clara Resources Ltd'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is an option to purchase 100% of a land property ('Strathnairn'), not a percentage interest in a mining project."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The buyer is 'Clara Resources Australia Ltd', the document is an 'ASX Announcement', and contact numbers are Australian (+61), implying the currency for the '$' amounts is Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 1400000,
+      "justification": "The purchase price for the land is specified as $1.4m. 'The purchase price, should the option be exercised, is $1.4m escalating at 3.5% per annum over the 5-year option period.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are mentioned as part of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction involves only cash payments, which are captured in the `cash_payments_raw` field."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary exploration commitment."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "The documents do not describe any exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction does not involve a Net Smelter Royalty."
+    },
+    "coverage_area_raw": {
+      "value": 147,
+      "justification": "The announcement states the acquisition is for a '147Ha grazing and cropping property'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The announcement states the acquisition is for a '147Ha grazing and cropping property'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not contain a quantified statement of mineral resources for the Ashford project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:C7A",
+      "justification": "The buyer is identified as 'Clara Resources Limited (“C7A” or the “Company”)' and the document is an 'ASX Announcement'."
+    }
+  }
+}

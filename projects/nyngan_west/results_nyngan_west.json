@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "projects/nyngan_west/nyngan_west_332.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "Sam Spring",
+        "justification": "Sam Spring, President and CEO of Kincora commented:"
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": "No interest acquired percentage is mentioned in the text."
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "AngloGold Ashanti has the right to spend up to A$50 million to earn a 80% interest in the Nyngan and Nevertire projects"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "No cash payments are explicitly mentioned in the text."
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": "No share payments are explicitly mentioned in the text."
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": "No combined cash and share payments are mentioned in the text."
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": "No information on the amount of shares issued is available in the text."
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": "No information on the issued share price is available in the text."
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": "The exploration commitment is mentioned as a monetary value, not meters."
+      },
+      "exploration_commitment_value_raw": {
+        "value": 50000000,
+        "justification": "AngloGold Ashanti has the right to spend up to A$50 million to earn a 80% interest in the Nyngan and Nevertire projects"
+      },
+      "exploration_commitment_desc": {
+        "value": "Exploration expenditure to earn a joint venture interest",
+        "justification": "A$25 million of exploration expenditure to earn a 70% joint venture interest (Phase I)"
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": "No NSR is mentioned in the text."
+      },
+      "coverage_area_raw": {
+        "value": 1377,
+        "justification": "three new wholly owned licenses awarded covering 1,377km2"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "three new wholly owned licenses awarded covering 1,377km2"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": "No resource size description is provided in the text."
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:KCC",
+        "justification": "Kincora Copper Limited (ASX: KCC)"
+      }
+    }
+  }
+]

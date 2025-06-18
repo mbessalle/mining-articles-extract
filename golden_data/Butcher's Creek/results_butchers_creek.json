@@ -1,0 +1,72 @@
+{
+  "source_files": [
+    "golden_data/Butcher's Creek/butchers_creek_49.txt",
+    "golden_data/Butcher's Creek/butchers_creek_50.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The provided documents detail a transaction for the Palm Springs Gold Project. No CEO of a buyer for the Butchers Creek project is mentioned."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The provided documents detail a transaction for the Palm Springs Gold Project. No interest acquisition is mentioned for the Butchers Creek project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The financial details provided relate to the Palm Springs Gold Project transaction, not the Butchers Creek project. No currency information for a Butchers Creek transaction is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments detailed in the documents are for the sale of the Palm Springs Gold Project. No information about cash payments for the Butchers Creek project is provided."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments detailed in the documents are for the sale of the Palm Springs Gold Project. No information about share payments for the Butchers Creek project is provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The combined payment value of 'up to $5 million' is for the Palm Springs Gold Project. The documents do not contain any information about combined payments for the Butchers Creek project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The details regarding the number of shares issued are part of the consideration for the Palm Springs Gold Project. No such information is available for the Butchers Creek project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The issued share price of '$0.025' is for shares issued as part of the Palm Springs Gold Project transaction. No such information is available for the Butchers Creek project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment is mentioned in the provided text for any project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment is mentioned in the provided text for any project."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "No exploration commitment is described in the provided text for any project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of the transaction terms in the provided text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The provided text concerns the sale of the Palm Springs Gold Project, not the Butchers Creek project. No coverage area data for the Butchers Creek project is available in the documents."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The provided text concerns the sale of the Palm Springs Gold Project, not the Butchers Creek project. No coverage area data for the Butchers Creek project is available in the documents."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided in the text for any project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer identified, WIN Metals Ltd (ASX:WIN), is for the acquisition of the Palm Springs Gold Project. No buyer is mentioned in relation to the Butchers Creek project."
+    }
+  }
+}

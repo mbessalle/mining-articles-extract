@@ -1,0 +1,140 @@
+[
+  {
+    "source_file": "projects/piper/piper_349.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "James Durrant",
+        "justification": "Managing Director, James Durrant, commented"
+      },
+      "interest_acquired_percent": {
+        "value": 80,
+        "justification": "earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m to gain an 80% interest."
+      },
+      "currency": {
+        "value": null,
+        "justification": null
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": 1000,
+        "justification": "earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m"
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": "drilling at least 3x 300m deep reverse circulation or diamond holes",
+        "justification": "earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m"
+      },
+      "nsr_acquired_percent": {
+        "value": 1,
+        "justification": "At 5% interest, True Fella Pty Ltd will either need to contribute to joint venture spending or relinquish its interest in the tenure in exchange for a 1% NSR type royalty."
+      },
+      "coverage_area_raw": {
+        "value": 332,
+        "justification": "EL33675 granted with no heritage agreement. EL33674 is not granted and is on Aboriginal land. Access is currently being negotiated.  Table 1. Piper Project tenement details. Tenement Status Grant date Area (km2) EL33675 Granted 29/04/2024 48 EL33674 Pending  284"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "Table 1. Piper Project tenement details. Tenement Status Grant date Area (km2) EL33675 Granted 29/04/2024 48 EL33674 Pending  284"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:REE",
+        "justification": "RareX Limited (ASX: REE – RareX, or the Company) is pleased to announce it has formed an agreement"
+      }
+    }
+  },
+  {
+    "source_file": "projects/piper/piper_350.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": "James Durrant",
+        "justification": "Managing Director, James Durrant, commented:"
+      },
+      "interest_acquired_percent": {
+        "value": 80,
+        "justification": "RareX will earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m to gain an 80% interest."
+      },
+      "currency": {
+        "value": null,
+        "justification": null
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": 1000,
+        "justification": "RareX will earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m to gain an 80% interest."
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": "drilling at least 3x 300m deep reverse circulation or diamond holes",
+        "justification": "RareX will earn-in to the Piper Project over a five-year period by drilling at least 3x 300m deep reverse circulation or diamond holes for a total of at least 1,000m to gain an 80% interest."
+      },
+      "nsr_acquired_percent": {
+        "value": 1,
+        "justification": "At 5% interest, True Fella Pty Ltd will either need to contribute to joint venture spending or relinquish its interest in the tenure in exchange for a 1.0% NSR type royalty."
+      },
+      "coverage_area_raw": {
+        "value": 332,
+        "justification": "Table 1. Piper Project tenement details.\nTenement\nStatus\nGrant date\nArea (km2)\nHeritage Land\nAccess Agreement\nEL33675\nGranted\n29/04/2024\n48\nNo\nEL33674\nPending\n284\nNo"
+      },
+      "coverage_area_unit": {
+        "value": "km2",
+        "justification": "Table 1. Piper Project tenement details.\nTenement\nStatus\nGrant date\nArea (km2)\nHeritage Land\nAccess Agreement\nEL33675\nGranted\n29/04/2024\n48\nNo\nEL33674\nPending\n284\nNo"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:REE",
+        "justification": "RareX Limited (ASX: REE – RareX, or the Company) is pleased to announce it has formed an agreement"
+      }
+    }
+  }
+]

@@ -1,0 +1,72 @@
+{
+  "source_files": [
+    "golden_data/Beaconsfield/beaconsfield_25.txt",
+    "golden_data/Beaconsfield/beaconsfield_26.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Neil Marston",
+      "justification": "The documents identify the buyer's CEO in the board of directors list and in quotes: 'Flynn Gold Managing Director & CEO Neil Marston said...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement of the new license grant states, 'The Company has nine 100% owned tenements located in northeast Tasmania', implying the newly acquired Beaconsfield license is 100% owned."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The capital structure section in the documents lists the share price and cash in Australian dollars: 'Share Price: A$0.028', 'Cash (30/09/24): A$1.8M'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'Exploration Licence (EL13/2024) granted', indicating an administrative process with the government rather than a purchase from another entity. No cash consideration is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as a license being 'granted'. No payment in shares is mentioned as consideration for the license."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is described as a license being 'granted'. No combined cash and share consideration is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The documents do not state that any shares were issued as part of acquiring the exploration license."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents describe future exploration plans but do not specify a commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents state that exploration programs will commence but do not mention a specific monetary exploration commitment for the Beaconsfield license."
+    },
+    "exploration_commitment_desc": {
+      "value": "Data compilation and reconnaissance exploration programs to commence shortly, aimed at identifying priority targets.",
+      "justification": "The 'Next Steps' section states: 'The Company will commence data compilation and reconnaissance programs shortly to identify priority targets for follow-up exploration activities.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 40,
+      "justification": "The document states: 'Exploration Licence (EL13/2024) granted over 40km2 of highly prospective exploration tenure surrounding the Beaconsfield Gold Mine lease in NE Tasmania'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is specified in the same sentence as the area: 'Exploration Licence (EL13/2024) granted over 40km2...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The resource mentioned ('historical production of 3.79Mt @ 14.5g/t Au for 1.77Moz Au') is explicitly for the historical Beaconsfield Gold Mine, which is on a separate, privately held Mining Lease that is 'excluded from our application'. No mineral resource has been defined for the acquired exploration license EL13/2024 itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:FG1",
+      "justification": "The header of the ASX announcements clearly displays the buyer's ticker and exchange as 'ASX: FG1'."
+    }
+  }
+}

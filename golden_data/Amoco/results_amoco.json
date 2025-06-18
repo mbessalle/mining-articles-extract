@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Amoco/amoco_13.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Robert Martin",
+      "justification": "Critical Resources’ Chairman, Robert Martin, commented;"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has agreed to acquire 100% of the fully paid ordinary shares in Golden Plateau Pty Ltd (ACN 642 448 913) (“GPPL”) from Mr Michael Leu, an unrelated party of the Company (“Seller”), (the “Acquisition”). GPPL holds a 100% interest in Exploration Licence 9293 in New South Wales (“Amoco Project”)."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The buyer, Critical Resources Limited, is listed on the ASX (ASX:CRR) and payments are denoted with a '$' symbol, implying Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "Terms of the Acquisition include the following consideration payable to the Seller (i) $50,000 cash payment payable after completion..."
+    },
+    "share_payments_raw": {
+      "value": 300000,
+      "justification": "The total share payment is the sum of the initial and milestone payments: \"(ii) $250,000 in CRR shares... payable after completion, (iii) $25,000 in CRR shares... (“Milestone 1”), (iv) $25,000 in CRR shares... (“Milestone 2”)\". The sum is $250,000 + $25,000 + $25,000 = $300,000."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were provided, so this combined field is not applicable as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not fixed; it is calculated based on a future Volume Weighted Average Price (VWAP): \"$250,000 in CRR shares based on today’s 20 day volume weighted share price (“20D VWAP”) ($0.0081)\" and subsequent payments are also based on a 20D VWAP."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share payments are based on a variable 20-day VWAP, not a single fixed issue price. The initial payment uses a VWAP of $0.0081, but milestone payments will use a future VWAP."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment was mentioned as part of the acquisition terms for the Amoco project."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "No exploration commitment was mentioned as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition terms include a royalty retained by the seller: \"(v) 2% net smelter royalty (“NSR”).\""
+    },
+    "coverage_area_raw": {
+      "value": 1.7,
+      "justification": "The Amoco Antimony-Gold grid (“Amoco”) covers an area of approximately 1.7km2 in size and is located within exploration licence EL9293."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Amoco Antimony-Gold grid (“Amoco”) covers an area of approximately 1.7km2 in size..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document mentions a resource for the broader Halls Peak Project, but not for the Amoco project itself. The text explicitly states that the data for Amoco \"cannot and will not be used in the compilation of a mineral resource estimate,\" confirming no resource exists for the acquired project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:CRR",
+      "justification": "The buyer is identified as \"Critical Resources Limited ASX:CRR\" on the first page of the announcement."
+    }
+  }
+}

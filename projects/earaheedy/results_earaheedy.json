@@ -1,0 +1,71 @@
+[
+  {
+    "source_file": "projects/earaheedy/earaheedy_120.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "currency": {
+        "value": null,
+        "justification": null
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": "A soil sampling program of 560 samples is planned to cover prospective areas in the NW of the tenement.",
+        "justification": "A soil sampling program of 560 samples is planned to cover prospective areas in the NW of the tenement."
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_unit": {
+        "value": null,
+        "justification": null
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:LSR",
+        "justification": "Lodestar Minerals Limited (Lodestar or the Company) (ASX:LSR) is pleased to report the grant"
+      }
+    }
+  }
+]

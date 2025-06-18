@@ -1,0 +1,72 @@
+{
+  "source_files": [
+    "golden_data/Bingara/bingara_33.txt",
+    "golden_data/Bingara/bingara_34.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Peter Bird",
+      "justification": "Cosmo’s Chairman, Peter Bird commented:"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Cosmo has signed a binding HoA to acquire 100% of the shares in a wholly owned subsidiary (Newco) of PTr Resources Pty Ltd (ACN 153 851 702) (PTR), the entity that holds the exploration licences comprising the Bingara and Nundle projects..."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The buyer, Cosmo Metals, is an Australian company listed on the ASX (ASX: CMO), and financial figures are denoted with '$', implying Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 925000,
+      "justification": "The project's share is $925,000, calculated as half of the total potential cash consideration of $1,850,000 ($50,000 exclusivity fee, $250,000 completion cash, and up to $1,550,000 in contingent payments) for the two projects (Bingara and Nundle). The text states the consideration is for 'the Bingara and Nundle projects'."
+    },
+    "share_payments_raw": {
+      "value": 950000,
+      "justification": "The project's share is $950,000, calculated as half of the total share consideration of $1,900,000 ($450,000 in completion shares and $1,450,000 in deferred consideration shares) for the two projects (Bingara and Nundle). The text states the consideration is for 'the Bingara and Nundle projects'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were identified, so this field is null as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of share payments was explicitly stated, so this field is null as per the financial data extraction hierarchy."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The value of share payments was explicitly stated, so this field is null as per the financial data extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 650000,
+      "justification": "The total commitment is $650,000, comprising $150,000 explicitly for the Bingara Project pre-completion ('fund exploration activity of up to $150,000 on the Bingara Project') and a $500,000 share of the post-completion commitment ('expend at least $1,000,000 of exploration expenditure on the projects'), which is split between the two projects."
+    },
+    "exploration_commitment_desc": {
+      "value": "Pre-Completion, fund exploration activity of up to $150,000 on the Bingara Project. Post Completion, expend at least $1,000,000 of exploration expenditure on the projects (Bingara and Nundle) in the 12 months immediately following Completion.",
+      "justification": "Pre-Completion, Cosmo has agreed to fund exploration activity of up to $150,000 on the Bingara Project... Post Completion, Cosmo has undertaken to use its best endeavours to expend at least $1,000,000 of exploration expenditure on the projects in the 12 months immediately following Completion."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The Seller will retain a net smelter royalty (NSR) of 1.5% on all commodities extracted from the projects."
+    },
+    "coverage_area_raw": {
+      "value": 484.1,
+      "justification": "The Bingara Project, covering a contiguous area of 484.1km2, contains two sub parallel broadly north south trending mineralised trends that follow the regional scale Peel Fault system (Figure 2)."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Bingara Project, covering a contiguous area of 484.1km2..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states in multiple sections of the JORC table: 'There are no historical resource estimates reported in the news release.'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:CMO",
+      "justification": "Cosmo Metals (ASX:CMO) has entered into a Binding Heads of Agreement to acquire 100% of the Bingara and Nundle gold - antimony and copper projects in the New England Orogen of northern NSW, subject to shareholder approval"
+    }
+  }
+}

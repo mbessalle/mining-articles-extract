@@ -1,0 +1,278 @@
+[
+  {
+    "source_file": "projects/broken_hill_east/broken_hill_east_42.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX listed company implies AUD currency"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": 275000,
+        "justification": "IPT will issue to NFM $275,000 worth of new IPT shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": 2,
+        "justification": "IPT will assume responsibility for a 2% net smelter return royalty payable with respect to tenements held by BHA."
+      },
+      "coverage_area_raw": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_unit": {
+        "value": null,
+        "justification": null
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:IPT",
+        "justification": "to Impact Minerals Limited (“IPT”)"
+      }
+    }
+  },
+  {
+    "source_file": "projects/broken_hill_east/broken_hill_east_39.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 100,
+        "justification": "Impact now has 100% ownership of tenements covering 1,770 sq km and over 100 kilometres of strike"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX Code: IPT"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "Under the terms of the agreement, in consideration for NFM transferring all of the shares in BHA to Impact, NFM will receive $275,000 worth of IPT shares"
+      },
+      "share_payments_raw": {
+        "value": 275000,
+        "justification": "NFM will receive $275,000 worth of IPT shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": 675,
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      },
+      "coverage_area_unit": {
+        "value": "sq km",
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:IPT",
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      }
+    }
+  },
+  {
+    "source_file": "projects/broken_hill_east/broken_hill_east_40.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": 100,
+        "justification": "Impact now has 100% ownership of tenements covering 1,770 sq km and over 100 kilometres of strike"
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX Code: IPT"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": "Under the terms of the agreement, in consideration for NFM transferring all of the shares in BHA to Impact, NFM will receive $275,000 worth of IPT shares"
+      },
+      "share_payments_raw": {
+        "value": 275000,
+        "justification": "NFM will receive $275,000 worth of IPT shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_raw": {
+        "value": 675,
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      },
+      "coverage_area_unit": {
+        "value": "sq km",
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:IPT",
+        "justification": "Impact Minerals Limited (ASX:IPT) is pleased to announce the acquisition of a large, 675 sq km landholding"
+      }
+    }
+  },
+  {
+    "source_file": "projects/broken_hill_east/broken_hill_east_41.txt",
+    "extraction_data": {
+      "ceo_buyer": {
+        "value": null,
+        "justification": null
+      },
+      "interest_acquired_percent": {
+        "value": null,
+        "justification": null
+      },
+      "currency": {
+        "value": "AUD",
+        "justification": "ASX listed company implies AUD currency"
+      },
+      "cash_payments_raw": {
+        "value": null,
+        "justification": null
+      },
+      "share_payments_raw": {
+        "value": 275000,
+        "justification": "IPT will issue to NFM $275,000 worth of new IPT shares"
+      },
+      "cash_and_share_payments_combined_raw": {
+        "value": null,
+        "justification": null
+      },
+      "amount_of_shares_issued": {
+        "value": null,
+        "justification": null
+      },
+      "issued_share_price": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_meters": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_value_raw": {
+        "value": null,
+        "justification": null
+      },
+      "exploration_commitment_desc": {
+        "value": null,
+        "justification": null
+      },
+      "nsr_acquired_percent": {
+        "value": 2,
+        "justification": "IPT will assume responsibility for a 2% net smelter return royalty payable with respect to tenements held by BHA."
+      },
+      "coverage_area_raw": {
+        "value": null,
+        "justification": null
+      },
+      "coverage_area_unit": {
+        "value": null,
+        "justification": null
+      },
+      "resource_size_desc": {
+        "value": null,
+        "justification": null
+      },
+      "buyer_ticker_and_exchange": {
+        "value": "ASX:IPT",
+        "justification": "to Impact Minerals Limited (“IPT”)"
+      }
+    }
+  }
+]

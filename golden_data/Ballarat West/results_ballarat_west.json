@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Ballarat West/ballarat_west_21.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, S2 Resources Corp, is not mentioned in the text. The CEO mentioned, Chris Donaldson, is for the seller, Valkea Resources Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The text states that the buyer can acquire an interest in a group of projects including Ballarat West: \"S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects by sole-funding total expenditures of A$1.2 million within four years.\""
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The exploration commitment is denominated in Australian Dollars, as indicated by the 'A$' prefix in the text: \"sole-funding total expenditures of A$1.2 million within four years.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any cash payments as part of the transaction consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any share payments as part of the transaction consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The documents do not mention a combined cash and share payment as part of the transaction consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The documents do not mention any shares being issued as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The documents do not mention any shares being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 400000,
+      "justification": "The project's share is A$400,000, calculated as one-third of the total A$1.2 million expenditure commitment shared across the Yuengroon, Ballarat West, and Silver Spoon projects, as stated in the text: 'S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects by sole-funding total expenditures of A$1.2 million within four years.'"
+    },
+    "exploration_commitment_desc": {
+      "value": "S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects by sole-funding total expenditures of A$1.2 million within four years.",
+      "justification": "This is a direct quote describing the terms of the option agreement: \"S2 can earn an 80% interest in the Yuengroon, Ballarat West and Silver Spoon projects by sole-funding total expenditures of A$1.2 million within four years.\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a 2% NSR that comes into effect if a joint venture party's interest is diluted below 10%. This is a future, conditional term of a potential JV and not an NSR being acquired or retained as part of the initial transaction consideration. The quote is: \"If a party's joint venture interest is diluted below 10%, it will automatically convert to a 2% net smelter return royalty.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Ballarat West project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Ballarat West project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource for the Ballarat West project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The text does not provide a stock ticker or exchange for the buyer, S2 Resources Corp. The ticker mentioned (TSXV: OZ) belongs to the seller, Valkea Resources Corp."
+    }
+  }
+}
