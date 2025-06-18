@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Coyote_Basin/93072.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Coyote Basin",
+      "justification": "The article is titled 'Homeland Grows Coyote Basin & Red Wash Properties...' and the text refers to 'the Coyote Basin and Red Wash Uranium Projects'."
+    },
+    "company_name": {
+      "value": "Homeland Uranium Corp.",
+      "justification": "The press release is from 'Homeland Uranium Corp. (TSXV: HLU) (FSE: D3U) (\"Homeland\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Roger Lemaitre",
+      "justification": "The scientific and technical information in this news release has been reviewed and approved by Roger Lemaitre, P. Eng, P. Geo, the Company's President & Chief Executive Officer..."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims to expand an existing property, not the acquisition of an interest from another party. The company already owns 100% of the project, as stated: 'The Company is the 100% owner of the Coyote Basin and Red Wash uranium projects...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text refers to the project as the 'Coyote Basin and Red Wash Uranium Projects'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/246675",
+      "justification": "The article is about Homeland Uranium Corp. expanding its Coyote Basin project by staking new claims, which matches the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The only monetary value mentioned in the text is specified in US dollars: '...a milestone payment of US$111,111 in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, for which no cash payment is mentioned. The cash payment mentioned ('US$111,111 in cash') is a conditional milestone payment related to a prior 'Amalgamation Agreement', not consideration for the current staking action."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, for which no share payment is mentioned. The share payment mentioned ('2,222,222 Homeland shares') is a conditional milestone payment related to a prior 'Amalgamation Agreement', not consideration for the current staking action."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment for the staking transaction is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this staking transaction. The shares mentioned ('2,222,222 Homeland shares') are part of a conditional milestone payment related to a prior agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2250,
+      "justification": "The area staked specifically for the project of interest is stated: 'At Coyote Basin, a total of 109 new mineral claims were staked covering a total of approximately 2,250 acres (910.9 ha).'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the staked area is specified: '...a total of approximately 2,250 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a statement of a current mineral resource for the project. It refers to 'potential uranium host stratigraphy' and a future milestone payment based on defining resources, implying no resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HLU",
+      "justification": "The buyer is identified as 'Homeland Uranium Corp. (TSXV: HLU) (FSE: D3U)'."
+    }
+  }
+}

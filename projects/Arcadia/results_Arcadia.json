@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Arcadia/76465.txt",
+    "projects/Arcadia/76465_pdf.txt",
+    "projects/Arcadia/81258.txt",
+    "projects/Arcadia/81258_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Arcadia",
+      "justification": "The authoritative metadata specifies the project name is 'Arcadia'. The document text refers to the 'Carter Uranium Project' which contains 'The Acadia Deposit'."
+    },
+    "company_name": {
+      "value": "Recharge Metals Limited",
+      "justification": "The buyer is identified in the text: 'Recharge Metals Limited (ASX: REC, Recharge or the Company) is pleased to announce that it has entered into a binding agreement to acquire 100% ownership...'"
+    },
+    "ceo_buyer": {
+      "value": "Felicity Repacholi",
+      "justification": "The buyer's CEO is identified in the text: 'Recharge’s Managing Director, Felicity Repacholi, commented:'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the interest acquired for the project containing Arcadia: 'Recharge to acquire 100% of the Carter Uranium Project...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The document title clearly states the commodity: 'Transformational Acquisition of the Advanced High-Grade Carter Uranium Project, Montana, USA'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the acquisition of the Carter Uranium Project, which contains the Acadia deposit, matching the project of interest. A specific URL was not provided in the source documents."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The currency is specified as Australian dollars in the transaction terms: 'a cash payment as reimbursement of costs incurred, capped to a maximum amount of A$250,000 (in aggregate)' and 'equal to A$400,000 worth of fully paid ordinary shares'."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The cash consideration is explicitly stated: '(i) a cash payment as reimbursement of costs incurred, capped to a maximum amount of A$250,000 (in aggregate);'"
+    },
+    "share_payments_raw": {
+      "value": 400000,
+      "justification": "The value of the share consideration is explicitly stated: '(ii) 16,000,000 fully paid ordinary shares in Recharge; equal to A$400,000 worth of fully paid ordinary shares in Recharge at a deemed issue price of A$0.025 per share (Consideration Shares);'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal consideration is broken down into separate cash and share components, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, when an explicit share payment value (A$400,000) is provided (Priority 1), other financial fields like the number of shares issued must be null to avoid redundancy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction mentions performance rights and options for the lead manager, not warrants as part of the acquisition consideration for the vendors."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options mentioned are payable to the Lead Manager of the placement, not to the vendors as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, when an explicit share payment value (A$400,000) is provided (Priority 1), other financial fields like the issue price must be null to avoid redundancy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a A$2.5 million capital raise to fund exploration, but this is not a contractual commitment to the seller as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The buyer granted a royalty to the seller as part of the transaction: 'Recharge will grant the Vendors a 2.0% gross smelter return royalty from revenue generated from production at the Carter Uranium Project effective from completion.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total area of 26km2 for the entire 'Carter Uranium Project', which includes both the Acadia and Mindy properties. No specific area for the Arcadia property alone is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area value is null as no specific area for the Arcadia project was provided."
+    },
+    "resource_size": {
+      "value": "3.7 Mlbs U3O8 in 2.1M tonnes at a grade of 1,250ppm eU3O8 with an average thickness of about 2.4 metres",
+      "justification": "The historical resource for the Arcadia property is stated as: 'The Acadia historical resource estimate of approximately 3.7 Mlbs U3O8 in 2.1M tonnes at a grade of 1,250ppm eU3O8 with an average thickness of about 2.4 metres.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:REC",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'Recharge Metals Limited (ASX: REC, Recharge or the Company)...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Tombstone/34544.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tombstone",
+      "justification": "The primary project of interest is stated as Tombstone, and the article is titled 'Aztec Expands Tombstone JV Patented Land Position in Arizona by Acquiring the Historic High-Grade Silver-Gold Westside Mine'."
+    },
+    "company_name": {
+      "value": "Aztec Minerals Corp.",
+      "justification": "The buying company is identified in the first paragraph: 'Aztec Minerals Corp. (TSX-V:AZT)(OTCQB:AZZTF) and Dragoon Resources LLC (\"Tombstone JV Partner\") announce the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Simon Dyakowski",
+      "justification": "The CEO is identified beneath his quote: '\"Simon Dyakowski\" Simon Dyakowski, Chief Executive Officer Aztec Minerals Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction was for a full claim, which was 'purchased outright'. The text states: 'Aztec and Dragoon have acquired the Westside patented claim from a third-party... The patented claim was purchased outright and has no underlying royalties or work commitments.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata specifies 'Au' as the primary commodity. The article title also confirms this: '...Acquiring the Historic High-Grade Silver-Gold Westside Mine'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/752343/Aztec-Expands-Tombstone-JV-Patented-Land-Position-in-Arizona-by-Acquiring-the-Historic-High-Grade-Silver-Gold-Westside-Mine",
+      "justification": "The article is directly about the Tombstone project, as indicated by the title and content."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is explicitly mentioned as US dollars: '...for cash consideration of US$65,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 65000,
+      "justification": "The cash payment amount is stated in the text: 'Aztec and Dragoon have acquired the Westside patented claim from a third-party for cash consideration of US$65,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash only; no share payments were mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was found, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no associated share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no work commitments: 'The patented claim was purchased outright and has no underlying royalties or work commitments.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states there are no royalties associated with the acquired claim: 'The patented claim was purchased outright and has no underlying royalties or work commitments.'"
+    },
+    "coverage_area_raw": {
+      "value": 7.82,
+      "justification": "The area of the acquired claim is specified: '...acquisition of one patented claim (private property rights) amounting to 7.82 hectares (19.33 acres)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is specified: '...amounting to 7.82 hectares (19.33 acres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical production and exploration potential ('potential bulk-tonnage carbonate replacement deposit') but does not provide a current, quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AZT",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Aztec Minerals Corp. (TSX-V:AZT)(OTCQB:AZZTF)'."
+    }
+  }
+}

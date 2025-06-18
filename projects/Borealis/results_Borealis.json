@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Borealis/76500.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Borealis",
+      "justification": "The article is titled 'Borealis Expands Its Borealis Property Through Claim Staking' and the project is referred to as the 'Borealis property' throughout the text."
+    },
+    "company_name": {
+      "value": "Borealis Mining Company Ltd",
+      "justification": "The company is identified as 'Borealis Mining Company Limited (TSXV: BOGO) (FSE: L4B0) (the \"Company \" or \"Borealis\")' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Kelly Malcolm",
+      "justification": "The Qualified Person section identifies 'Kelly Malcolm, P.Geo., Chief Executive Officer of the Company'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a claim staking ('Sixty-four claims were added by claim staking'), not an acquisition of a specific percentage interest from another company. Therefore, this field is not applicable."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text repeatedly refers to gold, for example: 'Borealis is a gold mining and exploration company focused on exploration and resumption of production of the Borealis Mine in Nevada.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/228100",
+      "justification": "The article's content, titled 'Borealis Expands Its Borealis Property Through Claim Staking', directly corresponds to the specified project of interest, Borealis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's primary listing is on the TSX Venture Exchange ('Exchange: TSXV'), which uses Canadian Dollars (CAD). No other currency is mentioned for any transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, and no cash consideration is mentioned in the press release."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, and no share consideration is mentioned in the press release."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, and no combined cash and share consideration is mentioned in the press release."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a claim staking, and no shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments is present in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments is present in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes historical drilling results but does not mention any future exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary commitment for future exploration on the newly staked claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a claim staking, and no Net Smelter Royalty (NSR) is mentioned in the text."
+    },
+    "coverage_area_raw": {
+      "value": 3.66,
+      "justification": "The text states: 'The newly acquired claims add 3.66 square miles to an existing 22.9 square mile package...'"
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The text specifies the unit for the newly acquired area: 'The newly acquired claims add 3.66 square miles...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production ('over 600,000 ounces of gold') and drill intercepts, but does not provide a current quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BOGO",
+      "justification": "The acquiring company is identified with its ticker and exchange in the first paragraph: 'Borealis Mining Company Limited (TSXV: BOGO)'."
+    }
+  }
+}

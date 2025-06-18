@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Zeus/51560.txt",
+    "projects/Zeus/91947.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Zeus",
+      "justification": "The text clearly identifies the project: 'The Zeus Copper Project (“Zeus” or the “Project”)...'"
+    },
+    "company_name": {
+      "value": "NevGold Corp.",
+      "justification": "The acquiring company is identified as 'NevGold Corp. (“NevGold” or the “Company”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Brandon Bonifacio",
+      "justification": "The CEO of the acquiring company is identified in the text: 'Brandon Bonifacio, President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that NevGold has full ownership: 'NevGold owns a 100% interest in the Limousine Butte and Cedar Wash gold projects in Nevada, and the Nutmeg Mountain gold project and Zeus copper project in Idaho.'"
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is explicitly named as a copper project: 'NevGold Stakes Highly Prospective Zeus Copper Project Within The Hercules Copper Trend, Washington County, Idaho'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSXV and a Canadian dollar denominated transaction is mentioned, implying CAD is the primary currency for corporate actions. 'The sponsorship agreement extends for 6 months for a total of C$15,000 that expires on September 5, 2024.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking claims, not a purchase from another entity. No cash consideration was mentioned for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking claims, not a purchase from another entity. No share consideration was mentioned for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking claims, not a purchase from another entity. No combined cash and share consideration was mentioned for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via staking claims, not a purchase from another entity. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text outlines planned exploration activities but does not specify a commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines planned exploration activities but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 29,
+      "justification": "The second document provides the updated total area after additional staking: 'Zeus Copper Project now encompasses 392 claims, approximately 2,900 hectares or 29 square kilometers...'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometers",
+      "justification": "The unit is provided with the area measurement: 'Zeus Copper Project now encompasses 392 claims, approximately 2,900 hectares or 29 square kilometers...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a mineral resource estimate, but it is explicitly for a different project: 'NevGold announced a Mineral Resource Estimate at Nutmeg of 1,007,000 Indicated ounces of gold...'. No resource has been defined for the Zeus project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NAU",
+      "justification": "The company's ticker and exchange are listed in the news release header: 'NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50)'"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+--- Article Metadata ---
+Project Name: Nutmeg Mountain
+Company Name: Nevgold Corp.
+Exchange: TSXV
+Ticker: NAU
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.19.2024, 12:30:00 PM
+
+# NevGold Announces 100% Acquisition of Nutmeg Mountain After Final Share Issuance Payment To GoldMining
+
+Vancouver, British Columbia, Jan. 19, 2024 (GLOBE NEWSWIRE) -- NevGold Corp. (“**NevGold** ” or the “**Company** ”) **(TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50**) announces the issuance (the “**Share** **Issuance Payment** ”) of 10,000,000 NevGold common shares to GoldMining Inc. (TSX:GOLD, NYSE:GLDG) (“**GoldMining** ”) pursuant to the Nutmeg Mountain Option Agreement dated June 13, 2022 (see June 14, 2022 News Release). The total Share Issuance Payment of 10,000,000 shares equates to $3.0 million issued at $0.30 per share representing the 30-day VWAP share price as of market close on December 18, 2023.  
+
+
+**NevGold has now exercised the option under the Nutmeg Mountain Option Agreement to acquire 100% of the Nutmeg Mountain Gold Project in Washington County, Idaho** (the “**Project** ”, “**Nutmeg Mountain** ”, see Figure 1). NevGold announced a Mineral Resource Estimate (“**MRE** ”) at the Project on August 17, 2023 ([News Release Link](https://www.globenewswire.com/Tracker?data=Qy1kgcqOnHarrhtWhK43TyCgqk51c-8AhN9Z5Sp4OJ4ce88ACYHEPzNH5LMWVcBHXOapl1Jkf5WFKyX3UWc5badGboGBRCYYgOpoYe8qc-IjN5wbUG8107uUfDyTl7Vrh1KKZVL_6miwgb8VP1RgIAsMY1WgC2FnPFVpbUY2WHgudMBn4mfM2zVDvJgrHdd2usVCgo05X2NbsiKSCAru7BKCpT-sXXrGeqIgikJPkDnPo2b_hy-iIJikCyFjqvng "News Release Link")) of 1,007,000 Indicated ounces of gold (51.7 Mt @ 0.61 g/t Au), and 275,000 Inferred ounces of gold (17.9 Mt @ 0.48 g/t Au) (see Note 1).
+
+**NevGold CEO, Brandon Bonifacio, comments:**_“Completing the acquisition of 100% of Nutmeg Mountain from GoldMining is a monumental milestone for the Company. We have diligently advanced our efforts since closing the transaction on Nutmeg Mountain in August-2022. After less than 12 months of working on the project we released our initial Mineral Resource Estimate in August-2023, where we delivered an open-pit, oxide, heap-leachable gold Indicated Mineral Resource of 1.01Mozs and Inferred Mineral Resource of 275kozs. We will continue to focus our future efforts on drilling the many high priority drill targets both on the private ground and fully permitted Bureau of Land Management (“BLM”) unpatented claims to unlock further value at the Project. We are fortunate to now own 100% of one of the very few open-pit, oxide, heap-leach gold projects of scale and grade with mineralization starting at surface in the Western USA. Nutmeg Mountain’s location in Western Idaho (Washington County) also offers many benefits as it is a premier mining jurisdiction with excellent infrastructure in place, which will allow for rapid project advancement.”_
+
+The Share Issuance Payment is subject to the final approval of the TSX Venture Exchange (the “**Exchange** ”). The securities issued to GoldMining are subject to a four-month hold period ending on May 19, 2024 in accordance with applicable securities laws and the policies of the Exchange.
+
+GoldMining, a shareholder owning over 20% of the outstanding common shares, was issued 10,000,000 shares through the Share Issuance Payment. Prior to the closing of the Share Issuance Payment, GoldMining held, and had control and direction over, 16,670,250 common shares and 1,488,100 warrants of the Company exercisable into 1,488,100 common shares, representing approximately 20.6% of the Company’s outstanding common shares on an undiluted basis and approximately 22.1% on a partially-diluted basis assuming the exercise of the warrants held by GoldMining. On completion of the Share Issuance Payment, GoldMining holds, and has control and direction over, 26,670,250 common shares and 1,488,100 warrants, representing approximately 29.4% of the Company’s outstanding common shares on an undiluted basis and approximately 30.5% on a partially-diluted basis assuming the exercise of the warrants held by GoldMining.
+
+_Figure 1 – Nutmeg Mountain District Map_[ _To view image please click here_](https://www.globenewswire.com/Tracker?data=Kbf7XE0XgV1THp5f3GCdoPyJyuEmX36FirHnYmOzwqfUxOk9kHSFLNsEm_fmvQMaacscpEsPlEWbsg6M3tEzphJkaa6Rm8FBPr2tqjKe_gh1sSUws4oz4gSmcIobyb_NN7dDvaqRvUOOU6s19GM6zlQvU0X1X1gxetWr2VojHTU=)
+
+**_Note 1: Nutmeg Mountain – 2023 Mineral Resource Estimate_**  
+Details of the MRE are provided in a technical report entitled “ _Technical Report on the Nutmeg Gold Property_ ” with an effective date of June 22, 2023, prepared in accordance with National Instrument 43-101 (“**NI 43-101** ”) standards, which is filed under the Company’s SEDAR+ profile.
+
+ 
+
+**Classification**| **Cutoff Grade (g/t)**| **Tonnes**| **Gold Grade (g/t)**| **Ounces Gold**  
+---|---|---|---|---  
+Indicated| 0.30| 51,660,000| **0.61**| **1,006,000**  
+Inferred| 0.30| 17,860,000| **0.48**| **275,000**  
+  
+Notes:
+
+  1. Effective date of this mineral resource estimate is June 22, 2023.
+  2. All mineral resources have been estimated in accordance with Canadian Institute of Mining, Metallurgy and Petroleum definitions, as required under NI 43-101. The Mineral Resource Statement was prepared by Greg Mosher, P. Geo (Global Mineral Resource Services, “**GMRS** ”) in accordance with NI 43-101.
+  3. Mineral Resources reported demonstrate a reasonable prospect of eventual economic extraction, as required under NI 43-101. Mineral Resources are not Mineral Reserves and do not have demonstrated economic viability. There is no certainty that all or any part of the estimated Mineral Resources will be converted into Mineral Reserves. The potential development of the Mineral Resources may be materially affected by environmental, permitting, legal, marketing, and other relevant issues.
+  4. Mineral Resources are reported at a cut-off grade of 0.30 g/t Au for an open-pit mining scenario. Cut-off grades are based on a price of US$1750/oz gold, and a number of operating cost and recovery assumptions, including a reasonable contingency factor. Metallurgical recoveries of 80% were used. Densities based on lithology were assigned.
+  5. Ounce (troy) = metric tonnes x grade / 31.10348. All numbers have been rounded to reflect the relative accuracy of the estimate.
+  6. The quantity and grade of reported Inferred Mineral Resources are uncertain in nature and there has not been sufficient work to define these Inferred Mineral Resources as Indicated or Measured Mineral Resources. It is reasonably expected that many of the Inferred Mineral Resources could be upgraded to Indicated Mineral Resources with continued exploration, however, there is no assurance that further exploration will result in all or any part of the Inferred Mineral Resources being converted into Indicated Mineral Resources.
+  7. Tonnages and ounces in the tables are rounded to the nearest thousand and hundred, respectively. Numbers may not total due to rounding.  
+  
+
+
+
+
+**ON BEHALF OF THE BOARD**
+
+**_“Signed”_**
+
+**Brandon Bonifacio, President & CEO **
+
+For further information, please contact Brandon Bonifacio at bbonifacio@nev-gold.com, call 604-337-4997, or visit our website at [www.nev-gold.com](https://www.globenewswire.com/Tracker?data=atFTCERntVeASBr5IjUB9Rab4LI1JUJnBtRKzrCypuImkkP0FZL--LYiHCq_U_IlWFidiH7c-xyG9mjh3NWJxQ== "www.nev-gold.com").
+
+**_About the Company_**  
+NevGold is an exploration and development company targeting large-scale mineral systems in the proven districts of Nevada and Idaho. NevGold owns a 100% interest in the Limousine Butte and Cedar Wash gold projects in Nevada and the Nutmeg Mountain gold project in Idaho.
+
+**Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+**_Cautionary Note Regarding Forward Looking Statements_**
+
+_This news release contains forward-looking statements that are based on the Company’s current expectations and estimates. Forward-looking statements are frequently characterized by words such as “plan”, “expect”, “project”, “intend”, “believe”, “anticipate”, “estimate”, “suggest”, “indicate” and other similar words or statements that certain events or conditions “may” or “will” occur. Forward-looking statements include, but are not limited to, the final approval of the Exchange to the Share Issuance Payment and further exploration and development work on the Nutmeg Mountain project, estimates of mineral resources, and the potential upgrade of inferred mineral resources to indicated mineral resources. Such forward-looking statements involve known and unknown risks, uncertainties and other factors that could cause actual events or results to differ materially from estimated or anticipated events or results implied or expressed in such forward-looking statements. Such risks include, but are not limited to, general economic, market and business conditions, and the ability to obtain all necessary regulatory approvals. There is some risk that the forward-looking statements will not prove to be accurate, that the management’s assumptions may not be correct or that actual results may differ materially from such forward-looking statements. Accordingly, readers should not place undue reliance on the forward-looking statements. Any forward-looking statement speaks only as of the date on which it is made and, except as may be required by applicable securities laws, the Company disclaims any intent or obligation to update any forward-looking statement, whether as a result of new information, future_ _events or results or otherwise. Forward-looking statements are not guarantees of future performance and accordingly undue reliance should not be put on such statements due to the inherent uncertainty therein._
+
+  
+
+
+### Project Name
+
+[Nutmeg Mountain Project](/?gid=4229)  
+Idaho, United States
+
+--- Detailed Quote ---
+
+Last: 0.325             $  Chg: 0.005
+Open: 0.325             High: 0.33
+Bid: 0.325              Bid Size: 37000
+Beta: 0.814             Year High: 0.44
+Market Cap: 37.13m       PB Ratio: 1.61
+EPS: -0.05              Average Volume (30 Day): 361.60k
+Volume: 125.70k           % Chg: 1.56%
+Prev. Close: 0.32      Low: 0.32
+Ask: 0.33              Ask Size: 1500
+VWAP: 0.32207             Year Low: 0.17
+Total Shares: 114.25m     Shares Out: 114.25m
+Escrow Shares: 1.42m    Float: 61.70m
+Exchange: TSXV

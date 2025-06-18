@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Hot/64567.txt",
+    "projects/Hot/68505.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hot",
+      "justification": "The Company has signed a purchase agreement with a private vendor pursuant to which it acquires a 100% interest in a private limited liability Arizona company which holds the Hot claims located in the Shirley Basin of Wyoming."
+    },
+    "company_name": {
+      "value": "Indigo Exploration Inc.",
+      "justification": "Indigo Exploration Inc. (TSXV: IXI) (OTCQB: IXIXF) (FSE: INEN) (the \"Company\") is pleased to announce that it has entered into an agreement to acquire a 100% interest in the Hot Property..."
+    },
+    "ceo_buyer": {
+      "value": "Paul Cowley",
+      "justification": "On Behalf of the Board of Directors, \"Paul Cowley\", President and CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has signed a purchase agreement with a private vendor pursuant to which it acquires a 100% interest in a private limited liability Arizona company which holds the Hot claims..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "...to acquire a 100% interest in the Hot Property, a highly prospective uranium project located in the past producing Shirley Basin of Wyoming."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/215930",
+      "justification": "The article is titled 'Indigo Acquires Uranium Claims in Shirley Basin, Wyoming' and discusses the acquisition of the Hot Property, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Pursuant to the agreement, the Company will pay an aggregate of CDN$20,000..."
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "Pursuant to the agreement, the Company will pay an aggregate of CDN$20,000 and make share issuance of 200,000 shares in the Company to earn 100% interest..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with explicit cash and number of shares issued, so this field is null as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is structured with explicit cash and number of shares issued, so this field is null as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 200000,
+      "justification": "Pursuant to the agreement, the Company will pay an aggregate of CDN$20,000 and make share issuance of 200,000 shares in the Company to earn 100% interest..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.09,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.09'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions the company will assume annual land holding costs of US$14,200, but this is an operating cost, not a specific exploration commitment value as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms explicitly state there is no royalty: '...to earn 100% interest, without any NSR royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 5.75,
+      "justification": "The Hot Property, which is comprised of 71 unpatented mineral claims covering a 5.75 km2area..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Hot Property, which is comprised of 71 unpatented mineral claims covering a 5.75 km2area..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that 'Multiple campaigns of drilling will likely be needed to justify a NI 43-101 mineral resource,' implying no current resource exists for the Hot project. The resource mentioned ('8.8 Mlb U3O8') belongs to the adjacent Shirley Basin project owned by Ur-Energy Inc."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV: IXI",
+      "justification": "The buyer is identified as Indigo Exploration Inc., and the text provides its ticker and exchange in the format 'TSXV: IXI'. 'Indigo Exploration Inc. (TSXV: IXI) (OTCQB: IXIXF) (FSE: INEN) (the \"Company\") is pleased to announce...'"
+    }
+  }
+}

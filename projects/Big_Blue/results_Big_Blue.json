@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Big_Blue/31016.txt",
+    "projects/Big_Blue/40380.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Big Blue",
+      "justification": "The text states: 'Ridgeline Minerals Corp. (TSXV: RDG) (OTCQB: RDGMF) (FSE: 0GC0) (\"Ridgeline\" or the \"Company\") is pleased to announce the staking of the Big Blue Project, (\"Big Blue\" or the \"Project\") a high-grade porphyry copper (\"Cu\") - gold (\"Au\") - silver (\"Ag\") exploration prospect in Elko County, Nevada.'"
+    },
+    "company_name": {
+      "value": "Ridgeline Minerals Corp.",
+      "justification": "The acquiring company is identified as 'Ridgeline Minerals Corp. (TSXV: RDG) (OTCQB: RDGMF) (FSE: 0GC0) (\"Ridgeline\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Chad Peters",
+      "justification": "The CEO is identified in the signature block: '\"Chad Peters\" President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'The Project is 100% owned by the Company and retains no underlying lease payments, work commitments or royalty obligations.'"
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is described as a 'high-grade porphyry copper (\"Cu\") - gold (\"Au\") - silver (\"Ag\") exploration prospect'. Copper is listed first."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/154212",
+      "justification": "The article is about the staking of the Big Blue project by Ridgeline Minerals. The source link is provided at the end of the first article: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/154212'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Ridgeline Minerals Corp., is listed on the TSX Venture Exchange (TSXV), which is a Canadian exchange, implying Canadian Dollars (CAD). 'Ridgeline Minerals Corp. (TSXV: RDG)' and 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, not a purchase for cash or shares. The text states: 'The Company acquired Big Blue via low-cost staking of 361 lode claims...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, not a purchase for cash or shares. The text states: 'The Company acquired Big Blue via low-cost staking of 361 lode claims...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, not a purchase for cash or shares. The text states: 'The Company acquired Big Blue via low-cost staking of 361 lode claims...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, which was conducted via staking. The text states: 'The Company acquired Big Blue via low-cost staking...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters. It explicitly states there are no work commitments: '...retains no underlying lease payments, work commitments or royalty obligations.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no work commitments as part of the acquisition: 'The Project is 100% owned by the Company and retains no underlying lease payments, work commitments or royalty obligations.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states there are no royalty obligations associated with the project acquisition: 'The Project is 100% owned by the Company and retains no underlying lease payments, work commitments or royalty obligations.'"
+    },
+    "coverage_area_raw": {
+      "value": 41,
+      "justification": "The second article provides an updated total area for the project after an expansion: 'Big Blue now comprises 502 contiguous lode claims totaling 10,168 acres or 41 square kilometers (\"km\").'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the second article: 'Big Blue now comprises 502 contiguous lode claims totaling 10,168 acres or 41 square kilometers (\"km\").'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production ('produced 94,434 pounds of copper') and rock chip sample results, but does not provide a current mineral resource estimate. Therefore, this field is null."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RDG",
+      "justification": "The company's ticker and exchange are provided in the first sentence of the press release: 'Ridgeline Minerals Corp. (TSXV: RDG) (OTCQB: RDGMF) (FSE: 0GC0)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Idaho-Maryland_Mine/84296.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Idaho-Maryland Mine",
+      "justification": "The text identifies the project multiple times, including: \"The Company's principal asset is the historic past-producing Idaho-Maryland Gold Mine located in Nevada County, California, USA.\""
+    },
+    "company_name": {
+      "value": "Rise Gold Corp.",
+      "justification": "The press release is from \"Rise Gold Corp. (CSE: RISE) (OTCQX: RYES) (the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is an unnamed \"arm's length third party\". Rise Gold Corp., whose CEO is Joseph Mullin, is the seller, not the buyer."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "No interest in the Idaho-Maryland Mine project was acquired. The transaction was for the sale of adjacent land, and the text states, \"The Company retains ownership of the I-M Mine Property\"."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text refers to the project as the \"Idaho-Maryland Gold Mine\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/237390",
+      "justification": "The article, titled 'Rise Gold Announces Receipt of $702,000 with Regards to Property Sale', discusses a sale of land adjacent to the Idaho-Maryland Mine by Rise Gold Corp., which is the correct project and company."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The press release is from Grass Valley, California, and the company is incorporated in Nevada, USA, with the project in California. The '$' symbol is inferred to be USD."
+    },
+    "cash_payments_raw": {
+      "value": 4300000,
+      "justification": "The total consideration for the sale is $4.3 million. \"On November 27, 2024, Rise announced the sale of 66 acres of industrial land located adjacent to the Company's Idaho-Maryland Mine Property (the \"I-M Mine Property\") for $4.3 million to an arm's length third party in two transactions.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration was cash only, as stated in 'sale... for $4.3 million'. No share payments were mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash value was found, so this combined field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as payment. A repurchase option exists for the seller, but it is not part of the consideration paid by the buyer."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The announcement does not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 66,
+      "justification": "The transaction is for the sale of 66 acres of land: \"Rise announced the sale of 66 acres of industrial land located adjacent to the Company's Idaho-Maryland Mine Property\"."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the quote: \"...sale of 66 acres of industrial land...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource statement with units of mass or volume (e.g., tonnes, ounces). A valuation of '$400 million' is mentioned but this is not a resource quantity."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is an unnamed \"arm's length third party\" and therefore has no identifiable ticker or exchange."
+    }
+  }
+}

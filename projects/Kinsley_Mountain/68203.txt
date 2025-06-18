@@ -1,0 +1,68 @@
+--- Article Metadata ---
+Project Name: Kinsley Mountain
+Company Name: CopAur Minerals Inc.
+Exchange: TSXV
+Ticker: CPAU
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+8.13.2024, 12:04:00 AM
+
+# CopAur Minerals Consolidates 100% Interest in Kinsley Mountain Gold Project
+
+Vancouver, British Columbia--(Newsfile Corp. - August 12, 2024) - CopAur Minerals Inc. (TSXV: CPAU) (OTCQX: COPAF) ("**CopAur** " or the "**Company** ") is pleased to announce that it has completed its previously announced (see news release disseminated July 8, 2024) acquisition from Nevada Sunrise Metals Corporation ("**Nevada Sunrise** ") of Nevada Sunrise's 18.74% ownership interest in Kinsley Gold LLC ("**LLC** "), the joint venture vehicle that holds rights to the Kinsley Mountain Gold Project in Nevada ("**Kinsley Project** "). The Company now owns 100% of the Kinsley Project, a gold exploration project in Elko County, Nevada. The Kinsley Project comprises 513 unpatented lode claims on U.S. Bureau of Land Management land plus 6 leased patents totaling 4,213 hectares (10,410 acres), and hosts a past-producing mine with an extensive exploration database and numerous, untested gold targets. The leased claims are subject to a 3% net smelter returns royalty on production. 
+
+Under the terms of a membership purchase agreement CopAur acquired Nevada Sunrise's 18.74% ownership interest in the LLC in consideration of the payment of CDN$475,000 and the issuance of 1,000,000 common shares of CopAur ("**Consideration Shares** ") to Nevada Sunrise. The Consideration Shares are subject to a four-month statutory hold period (the "**Statutory Hold Period** ") and voluntary hold periods for an additional nine month period. The first 250,000 Consideration Shares will be released on expiry of the Statutory Hold Period and the remaining shares will be released in equal tranches every three months following the first release. 
+
+Chief executive officer Jeremy Yaseniuk stated: _"We are pleased to have completed this transaction to acquire 100% ownership of the LLC, which provides us with full control over the Kinsley Project and the ability to concentrate our efforts on further advancing this exciting project. The Kinsley Project has both oxide and sulphide gold resources. Recent drilling by the Company has yielded multiple near-surface oxide intercepts at the Main Pit North target and high-grade sulphide gold mineralization at the Western Flank (news releases Oct. 4, 2023 and Nov. 10, 2023)."_
+
+The Kinsley Project hosts a National Instrument 43-101 mineral resource that CopAur is working to upgrade and expand. The Kinsley Project is a historical past producer that yielded 138,000 ounces of near-surface open-pit gold between 1995 and 1999, when mining was suspended.
+
+A technical report on the Kinsley Project titled "Technical Report of the Kinsley Project, Elko and White Pine Counties, Nevada, U.S.A.", dated June 21, 2021, with an effective date of May 5, 2021, prepared by Michael M. Gustin and Gary L. Simmons, is available for review under New Placer Dome Gold Corp.'s issuer profile on SEDAR+.
+
+**About CopAur**
+
+CopAur is an exploration company focused on developing projects within the emerging, mineral-rich mining regions of Nevada. The Company is backed by a dynamic and experienced team of resource professionals advancing its projects in Nevada with the flagship project being Kinsley Mountain gold property, a Carlin-style project located 90 kilometres south of the Long Canyon mine (currently in production under the Newmont/Barrick joint venture, Nevada Gold Mines).
+
+**Qualified Person**
+
+The scientific and technical information contained in this news release has been reviewed and approved by Kristopher J. Raffle, P.Geo. (British Columbia), principal and consultant, of Apex Geoscience Ltd. of Edmonton, Alta., and a qualified person as defined in National Instrument 43-101 (Standards of Disclosure for Mineral Projects).
+
+For more information, please contact:
+
+**CopAur Minerals Inc.**
+
+Jeremy Yaseniuk, Chief Executive Officer & Director  
+Tel: +1 (604) 773-1467  
+Email: [jeremyy@CopAur.com](mailto:jeremyy@copaur.com)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release_.
+
+_**Forward Looking Information**_
+
+ _This news release contains forward-looking statements. These statements relate to future events or the Company's future performance. All such statements involve substantial known and unknown risks, uncertainties and other factors which may cause the actual results to vary from those expressed or implied by such forward-looking. Forward-looking statements involve significant risks and uncertainties, they should not be read as guarantees of future performance or results and they will not necessarily be accurate indications of whether or not such results will be achieved. Actual results could differ materially from those anticipated due to a number of factors and risks. Although the forward-looking statements contained in this news release are based upon what management of the Company believes are reasonable assumptions on the date of this news release, the Company cannot assure investors that actual results will be consistent with these forward-looking statements. The forward-looking statements contained in this press release are made as of the date hereof and the Company disclaims any intention or obligation to update or revised any forward-looking statements whether as a result of new information, future events or otherwise, except as required under applicable securities regulations._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/219743](https://api.newsfilecorp.com/redirect/ar8jRFeepM)
+
+### Project Name
+
+[Kinsley Mountain Project](/?gid=911)  
+Nevada, USA
+
+--- Detailed Quote ---
+
+Last: 0.11                       Open: 0.11
+High: 0.11                       Bid: 0.11
+Bid Size: 8000                   Beta: 2.71568
+Year High: 0.215                  Market Cap: 9.00m
+PB Ratio: 0.24                   EPS: -0.05
+Average Volume (30 Day): 127.56k    Volume: 33.36k
+Prev. Close: 0.11                Low: 0.11
+Ask: 0.115                        Ask Size: 28000
+VWAP: 0.11                       Year Low: 0.095
+Total Shares: 81.79m               Shares Out: 81.79m
+Float: 76.56m                      Exchange: TSXV

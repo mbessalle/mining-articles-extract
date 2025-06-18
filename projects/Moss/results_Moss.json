@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "projects/Moss/82541.txt",
+    "projects/Moss/83115.txt",
+    "projects/Moss/83126.txt",
+    "projects/Moss/88944.txt",
+    "projects/Moss/92664.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Moss",
+      "justification": "The documents consistently refer to the project as the Moss Mine or Moss gold mine. For example: 'Mako Mining Completes Acquisition of Moss Mine in Arizona'."
+    },
+    "company_name": {
+      "value": "Mako Mining Corp.",
+      "justification": "The buyer is identified in multiple press releases. 'Mako Mining Corp.(\"Mako\") (TSXV:MKO)(OTCQX:MAKOF) is pleased to announce that... it has completed the acquisition of the Moss gold mine located in the historic Oatman District in Arizona.'"
+    },
+    "ceo_buyer": {
+      "value": "Akiba Leisman",
+      "justification": "Multiple press releases from the buyer, Mako Mining, are attributed to him. 'Akiba Leisman, CEO states that: \"Mako now adds a producing asset located in a top tier jurisdiction to its portfolio of mineral properties...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Mako acquired the entity that holds 100% of the project. 'Mako US acquired 100% of the ownership interests in EGA... that acquired 100% of the shares of Golden Vertex Corp. (\"GVC\"), the operating subsidiary of the Moss mine...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is consistently referred to as a gold mine. 'Mako Mining Completes Acquisition of Moss gold mine in Arizona'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/mako-mining-completes-acquisition-of-moss-mine-in-arizona-1006059",
+      "justification": "This article announces the completion of the acquisition of the Moss Mine by Mako Mining Corp., which is the subject of the provided documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The purchase price is explicitly stated in US dollars. 'The aggregate purchase price for the acquisition was US$6.49 million, paid in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 6490000,
+      "justification": "The final announcement states the total cash paid. 'The aggregate purchase price for the acquisition was US$6.49 million, paid in cash, reflecting Wexford's approximate acquisition and closing costs of US$4.9 million plus US$1.59 million of equity contributions made by Wexford to cover initial operational costs at the beginning of January 2025.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was paid entirely in cash. 'The aggregate purchase price for the acquisition was US$6.49 million, paid in cash...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is null because an explicit cash payment value was found and populated in `cash_payments_raw`."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was paid in cash and did not involve the issuance of shares. 'The aggregate purchase price for the acquisition was US$6.49 million, paid in cash...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share warrant payments was found in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information regarding option payments was found in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information regarding an exploration commitment in meters was found in the provided text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information regarding a monetary exploration commitment was found in the provided text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction documents mention two disputed royalties (1% and 3% NSR) that are still before the court, but it does not state that Mako acquired or retained any royalty as part of the deal consideration. 'No purchase price adjustments were made in connection with the settlement of the royalty disputes... involving the 1% net smelter return royalty... and the 3% net smelter return royalty... which are still before the United States Bankruptcy Court for the District of Arizona.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the coverage area of the project was found in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the unit for the coverage area was found in the provided text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided documents mention historical production but do not contain a quantified mineral resource statement (e.g., tonnes, ounces) for the Moss project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MKO",
+      "justification": "The text clearly identifies the buyer and its ticker: 'Mako Mining Corp.(\"Mako\") (TSXV:MKO)(OTCQX:MAKOF) is pleased to announce that... it has completed the acquisition of the Moss gold mine'. The authoritative ticker ELVT belongs to the seller, Elevation Gold Mining Corporation."
+    }
+  }
+}

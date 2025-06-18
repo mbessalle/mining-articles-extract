@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Mainspring/50087.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mainspring",
+      "justification": "The article is titled 'Arizona Sonoran Announces Acquisition of Land and Completes Rezoning MainSpring'."
+    },
+    "company_name": {
+      "value": "Arizona Sonoran Copper Company Inc.",
+      "justification": "The acquiring company is identified as 'Arizona Sonoran Copper Company Inc. (TSX:ASCU | OTCQX:ASCUF) (“ASCU” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "George Ogilvie",
+      "justification": "The contacts section lists 'George Ogilvie, President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states 'Land title for the 523-acre MainSpring Property was transferred to ASCU', which implies the acquisition of 100% of the property."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The company's objective is to 'become a mid-tier copper producer' and the text references a nearby '2.9 billion pound @ 1.0% Cut M&I Parks/Salyer deposit'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Mainspring project, but a direct URL to this specific article is not available within the document."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text mentions a payment of '$5 million'. While the company is listed on the TSX (Canada), the project and the 'former landowner' are in Arizona, USA, making USD the most probable currency for the land transaction."
+    },
+    "cash_payments_raw": {
+      "value": 5000000,
+      "justification": "The transaction involved a 'payment to the former landowner of $5 million, as per the purchase and sale agreement signed last year.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention a cash payment; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as a cash payment, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 523,
+      "justification": "The text states: 'Land title for the 523-acre MainSpring Property was transferred to ASCU...'"
+    },
+    "coverage_area_unit": {
+      "value": "acre",
+      "justification": "The text states: 'Land title for the 523-acre MainSpring Property was transferred to ASCU...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no formal resource exists for the Mainspring project itself, stating 'MainSpring’s mineralized zone may now be used within future technical reports once drilled to the appropriate resource classification'. The mentioned '2.9 billion pound @ 1.0% Cut M&I' resource belongs to the adjacent Parks/Salyer deposit, not Mainspring."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:ASCU",
+      "justification": "The company is identified as 'Arizona Sonoran Copper Company Inc. (TSX:ASCU | OTCQX:ASCUF)'."
+    }
+  }
+}

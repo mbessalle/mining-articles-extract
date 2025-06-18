@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Lithium_King/4916.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium King",
+      "justification": "The text provides an update on the 'Lithium King property (the \"Lithium King Property\") in Utah.'"
+    },
+    "company_name": {
+      "value": "Global Battery Metals Ltd.",
+      "justification": "The article is published by 'Global Battery Metals Ltd. (TSXV: GBML) (OTCQB: REZZF) (FSE: REZ) (the \"Company\" or \"GBML\")'."
+    },
+    "ceo_buyer": {
+      "value": "Michael Murphy",
+      "justification": "The text identifies the President & CEO of Global Battery Metals Ltd. as 'Michael Murphy BA, MBA, MSc., ICD President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement detailing a new acquisition. While it states GBML has a '100% interest in the Lithium King property in Utah', this is a statement of current ownership, not an interest being acquired in a new transaction described in the text."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is named the 'Lithium King Property' and the company states its thesis is 'the potential for the discovery of a significant lithium bearing brine aquifer.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/96785",
+      "justification": "The article is about the Lithium King project, owned by Global Battery Metals Ltd. The source URL is provided at the end of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial transactions or currency associated with an acquisition."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is a project update and does not describe an acquisition or any associated cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is a project update and does not describe an acquisition or any associated share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is a project update and does not describe an acquisition or any associated combined payments."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article is a project update and does not mention any issuance of shares as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article is a project update and does not mention any share issuance or associated price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article describes past work ('32-line km... of ground magnetic was acquired') but does not state a new exploration commitment in meters as part of a transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not state a new exploration commitment value as part of a transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions an NSR for a different project ('GBML will retain a 0.75% net smelter royalty' for the Lara copper property), but no NSR is mentioned in relation to the Lithium King project."
+    },
+    "coverage_area_raw": {
+      "value": 1760,
+      "justification": "The text states: 'The Company has renewed leases on 88 claims covering a total area of 1,760 acres.' and 'The land position consists of approximately 1,760 acres of placer claims.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text specifies the unit for the coverage area: 'The Company has renewed leases on 88 claims covering a total area of 1,760 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate in a mass or volume unit (e.g., tonnes, ounces). It explicitly states more work is needed: 'Drilling to bedrock and brine sampling is needed to confirm the presence of and concentration of lithium in the deeper basin brines.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GBML",
+      "justification": "The company, Global Battery Metals Ltd., is identified with the ticker and exchange in the first paragraph: 'Global Battery Metals Ltd. (TSXV: GBML)'."
+    }
+  }
+}

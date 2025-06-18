@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Galena_Complex/82574.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Galena Complex",
+      "justification": "Americas Gold and Silver Corporation (TSX: USA) (NYSE American: USAS) (“Americas” or the “Company”) is pleased to announce that it has closed the acquisition of the remaining 40% interest in the Galena Complex (“Galena”) in Idaho, USA (the “Transaction”)"
+    },
+    "company_name": {
+      "value": "Americas Gold and Silver Corporation",
+      "justification": "Americas Gold and Silver Corporation (TSX: USA) (NYSE American: USAS) (“Americas” or the “Company”) is pleased to announce that it has closed the acquisition of the remaining 40% interest in the Galena Complex"
+    },
+    "ceo_buyer": {
+      "value": "Paul Andre Huet",
+      "justification": "“I would like to thank our shareholders for supporting the acquisition of the remaining 40% interest in the Galena Complex. We are very excited about the transaction as it consolidates an asset with a tremendous team and resource base and positions the Company to benefit in an anticipated strong silver price environment,\" said Paul Andre Huet, Americas’ Chairman and Chief Executive Officer."
+    },
+    "interest_acquired_percent": {
+      "value": 40,
+      "justification": "is pleased to announce that it has closed the acquisition of the remaining 40% interest in the Galena Complex (“Galena”) in Idaho, USA"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "In addition, Americas paid US$10 million in cash and will provide monthly silver deliveries of 18,500 ounces for a period of 36 months starting in January 2026 to affiliate of Sprott."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a specific URL for the article."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "In addition, Americas paid US$10 million in cash..."
+    },
+    "cash_payments_raw": {
+      "value": 10000000,
+      "justification": "In addition, Americas paid US$10 million in cash and will provide monthly silver deliveries of 18,500 ounces for a period of 36 months starting in January 2026 to affiliate of Sprott."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The total share payment value is not explicitly stated as a single figure. It is defined by the number of shares issued and a price per share."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The components of the deal (cash and shares) are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 169999998,
+      "justification": "Pursuant to the Transaction, shareholders of Sprott affiliates received an aggregate of 169,999,998 common shares of the Company."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.52,
+      "justification": "Mr. Eric Sprott indirectly acquired beneficial ownership of an aggregate of 117,441,759 common shares of the Company (the “Acquired Shares”) at C$0.52 per Acquired Share pursuant to the Transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area was mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit was mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a 'tremendous... resource base' but does not provide a quantified statement of mineral resources with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX: USA",
+      "justification": "Americas Gold and Silver Corporation (TSX: USA) (NYSE American: USAS) (“Americas” or the “Company”)"
+    }
+  }
+}

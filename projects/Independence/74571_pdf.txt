@@ -1,0 +1,81 @@
+Of course. Here is the James Bay Minerals announcement converted into clean, LLM-friendly Markdown.
+
+---
+# ASX Announcement
+**ASX: JBY**
+**14 October 2024**
+
+## Transformational acquisition of the high-grade Independence Gold Project in Nevada, USA
+James Bay to acquire Independence Gold Project, located in Battle Mountain Nevada
+
+### Highlights:
+*   **James Bay Minerals (JBY)** has executed a definitive term sheet to purchase and earn-in up to 100% of the advanced, high-grade Independence Gold Project, located at Battle Mountain, Nevada in the United States of America.
+*   **Recent near-surface high-grade discovery hole** outside the existing Mineral Resource demonstrates outstanding potential for rapid growth:
+    *   24.4m at 9.11g/t Au and 25.2g/t Ag (Hole AGEI-32), including:
+        *   18.3m at 12.06g/t Au and 30.7g/t Ag
+        *   9.1m at 23.16g/t Au and 49.8g/t Ag
+*   **Near-surface high-grade drilling intercepts include:**
+    *   44.2m at 4.19g/t Au and 10.53g/t Ag (Hole GM-128) including: 6.1m at 26.47g/t Au and 27g/t Ag
+    *   47.2m at 1.33g/t Au and 25.56g/t Ag (Hole GM-88)
+    *   13.7m at 9.52g/t Au and 4.48g/t Ag (Hole GM-127) including: 6.1m at 19.83g/t Au and 7.78g/t Ag
+*   **High-grade Skarn NI 43-101 Inferred Mineral Resource** of 3,794,000 tonnes at 6.53g/t Au for 796,200oz Au¹, which remains open in all directions with significant opportunity for growth.
+*   **Transaction comprises** upfront consideration of 16.25M shares, being ~A$2.4M at a deemed issued price of A$0.15 per share, to earn an initial 51.54% ownership and the right to earn the remaining 48.46% over a two-year period.
+*   The Independence Project is located **adjacent to Nevada Gold Mines** (Newmont and Barrick JV) Phoenix Mine Complex.
+*   The Fraser Institute consistently ranks **Nevada in the top mining jurisdictions globally**.
+*   Initial earn-in commitments will be funded by a **A$1.5 million placement** (subject to shareholder approval).
+
+---
+### The Acquisition
+
+James Bay Minerals (ASX: JBY) (“James Bay", or "the Company”) is pleased to announce that it has entered a binding agreement pursuant to which the Company has the right to acquire up to 100% of the advanced Independence Gold Project ("Project” or “Independence Project"), located in Nevada, United States of America.
+
+The Independence Project is owned by Independence Mining LLC (“IML”), an incorporated joint venture between Battle Mountain Resources Pty Ltd (“BMR”) (51.54%, the “BMR Interest”) and Americas Gold Exploration Inc (“AGEI”) (48.46%, the “AGEI Interest"). The Company has agreed to acquire 100% of the issued capital of BMR and, in turn, will acquire the BMR Interest and the right to earn the AGEI Interest over a period of two years. If the Company completes the earn-in, it will hold a 100% interest in IML and the Independence Project.
+
+**James Bay Executive Director, Andrew Dornan, commented:**
+“This is an exceptional opportunity for our shareholders and we are extremely fortunate to have secured this acquisition and earn-in at the Independence Gold Project. This gives us the opportunity to enhance our existing asset base in North America with a substantial high-grade gold asset with immediate growth potential."
+
+---
+### Mineral Resource
+
+The Project contains an NI 43-101 Mineral Resource as outlined below:
+
+**Skarn - Mineral Resource**
+*   **Inferred:** 3,794,000 Tonnes @ 6.53 g/t Au for 796,200 oz Au
+
+**Near-Surface - Mineral Resource**
+*   **Measured:** 8,713,000 Tonnes @ 0.39 g/t Au for 109,800 oz Au
+*   **Indicated:** 19,284,000 Tonnes @ 0.36 g/t Au for 224,500 oz Au
+*   **Inferred:** 5,218,000 Tonnes @ 0.30 g/t Au for 50,800 oz Au
+
+---
+### Acquisition Terms
+
+*   The Company will issue 16,250,000 Shares (“BMR Consideration Shares") to the vendors of BMR (being A$2,437,500 in Shares at a deemed issue price of A$0.15 per Share) for the acquisition of 100% of the issued capital of BMR.
+*   **IML Earn-in:** The Company will have the right to earn AGEI's 48.46% interest in IML in two stages:
+    *   **Stage 1 (to 75% interest):**
+        *   Issue 2,000,000 Shares to AGEI.
+        *   Incur at least US$1,500,000 in exploration expenditure within 1 year.
+        *   Issue US$500,000 in JBY Shares to AGEI.
+    *   **Stage 2 (to 100% interest):**
+        *   Incur at least US$1,500,000 in exploration expenditure within 1 year of Stage 1.
+        *   Pay US$1,500,000 to AGEI.
+*   A cash fee of US$2,000,000 is payable to AGEI within 12 months of commencing production.
+*   AGEI will be granted a 2.0% net smelter return royalty ("Royalty"). The Company will have the right to buy-back 50% of the Royalty (1%) at any time by paying US$4,000,000 to AGEI.
+
+---
+### Equity Raising
+
+The Company has received binding commitments to raise a total of A$1.5 million through the issue of 10,000,000 shares at an issue price of A$0.15 per share.
+
+---
+### Contact Information
+**Investors:**
+*   Andrew Dornan
+*   Executive Director, James Bay Minerals
+*   info@jamesbayminerals.com.au
+
+**Media:**
+*   Nicholas Read
+*   Read Corporate
+*   Phone: (08) 9388 1474
+*   E: nicholas@readcorporate.com.au

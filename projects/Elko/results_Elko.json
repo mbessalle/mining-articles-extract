@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Elko/40326.txt",
+    "projects/Elko/40338.txt",
+    "projects/Elko/47055.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Elko Lithium Project",
+      "justification": "The text repeatedly refers to the project as the 'Elko Lithium Project', for example: 'Sienna Closes an Agreement for an Option to Acquire 100% of the \"Elko Lithium Project\" in Elko County, Nevada...'"
+    },
+    "company_name": {
+      "value": "Sienna Resources Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press releases: 'Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) (\"Sienna\" or the \"Company\") is pleased to announce that it has closed an arm's length property option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "The President of the buyer, Sienna Resources, is identified in the text: 'Jason Gigliotti, President of Sienna states...' and is listed as the contact: '\"Jason Gigliotti\" President, Director Sienna Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states the agreement is for a complete acquisition: 'Sienna Resources Inc. ... is pleased to announce that it has closed an arm's length property option agreement to acquire a 100% interest in the \"Elko Lithium Project\"...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly named the 'Elko Lithium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/179562",
+      "justification": "The article is titled 'Sienna Closes an Agreement for an Option to Acquire 100% of the \"Elko Lithium Project\" in Elko County, Nevada Bordering Surge Battery Metals', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The financial terms of the agreement are not disclosed in the provided text. The text states: 'Terms of the agreement can be found in the news dated August 17, 2023.' This document was not provided."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions past drilling ('The hole was only able to get to 450 feet') and future plans ('we are formulating plans to expand the work program'), but does not specify a drilling commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that 'Sienna has sufficient cash resources for anticipated exploration plans' but does not state a specific monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the provided text."
+    },
+    "coverage_area_raw": {
+      "value": 1839,
+      "justification": "A later news release states an increase in the project size: 'Sienna Resources Inc. ... is pleased to announce that it has increased its acreage for a total of 1,839 contiguous acres on its \"Elko Lithium Project\"...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area measurement: '...a total of 1,839 contiguous acres on its \"Elko Lithium Project\"...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Elko project. It explicitly states that initial drilling was not successful: 'The assays from the one hole drilled did not return economic grades of lithium.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIE",
+      "justification": "The company's ticker and exchange are provided in the first line of the press release: 'Sienna Resources Inc. (TSXV: SIE)...'"
+    }
+  }
+}

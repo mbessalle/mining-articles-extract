@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Manhattan/74097.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Manhattan",
+      "justification": "The text states: \"Scorpio Gold Corporation... is pleased to announce that it has significantly expanded its land position at its Manhattan project (the \"Manhattan District\").\""
+    },
+    "company_name": {
+      "value": "Scorpio Gold Corporation",
+      "justification": "The acquiring company is identified as \"Scorpio Gold Corporation (TSXV: SGN) (OTCQB: SRCRF) (FSE: RY9) (\"Scorpio Gold\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Zayn Kalyan",
+      "justification": "The CEO of the buyer, Scorpio Gold Corporation, is listed as: \"ON BEHALF OF THE BOARD OF SCORPIO GOLD CORPORATION Zayn Kalyan, Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not the acquisition of a percentage interest from another party. The transaction is described as \"the staking of over 2,716 hectares of new unpatented claims\"."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text states: \"The Manhattan District has historically produced greater than 600,000 ounces of gold from underground lode mining, open pit mining, and placer operations.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/225938",
+      "justification": "The article is titled 'Scorpio Gold More Than Doubles Land Position, Further Consolidates Manhattan District' and the content is entirely focused on the Manhattan project, which is the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes the staking of claims and does not mention any financial consideration (cash, shares, etc.) for which a currency would be relevant."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims and does not mention any cash payments as part of the transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims and does not mention any share payments as part of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims and does not mention any combined cash and share payments as part of the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article describes the staking of new claims and does not mention any issuance of shares as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions 'over 100,000 metres of historic drilling' but does not state any new exploration commitment in meters as part of this transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment as part of the transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2716,
+      "justification": "The text states the land position increased \"with the staking of over 2,716 hectares of new unpatented claims\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the land position increased \"with the staking of over 2,716 hectares of new unpatented claims\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'significant resource potential' for the Manhattan District and historical production of 'greater than 600,000 ounces of gold', but it does not provide a current quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGN",
+      "justification": "The buyer is identified as \"Scorpio Gold Corporation (TSXV: SGN) (OTCQB: SRCRF) (FSE: RY9)\"."
+    }
+  }
+}

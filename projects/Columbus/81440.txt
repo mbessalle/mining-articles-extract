@@ -1,0 +1,115 @@
+--- Article Metadata ---
+Project Name: Columbus
+Company Name: Canter Resources Corp
+Exchange: CSE
+Ticker: CRC
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.10.2024, 1:00:00 PM
+
+# Canter Acquires Key Central Claims at Columbus, Reports Highest Boron Grades To-date and Provides Targeting Update
+
+Vancouver, British Columbia--(Newsfile Corp. - December 10, 2024) - Canter Resources Corp. (CSE:CRC) (OTC Pink: CNRCF) (FSE: 601) ("**Canter** " or the "**Company** ") is pleased to announce that the Company has acquired an additional 2,224 acres within the central part of the Columbus Lithium-Boron Project ("**Columbus** " or the "**Project** "), located near Tonopah, Nevada. This consolidation of key mineral claims expands the Project's area by 9 square kilometres with the Company now having full coverage of the underlying geophysical anomalies (see Figure 1) and a previously drilled (2017) lithium zone that returned lithium concentrations in brines of up to 95.9 mg/L.
+
+The consolidation of this ground covers an area immediately north of notable 2024 drill results that demonstrated clear trends for increasing boron concentrations in brines and increasing lithium grades in both brines and clays. The latest Phase II sediment results were collected from the bottom five feet of the drill holes and returned the two highest boron concentrations in sediments (5,920 ppm and 6,140 ppm) collected during 2024. While the Company is pursuing a lithium-boron enriched brine deposit, these highly encouraging sediment results provide additional geochemical data to inform brine targets for future phases of drilling. 
+
+"We have been monitoring the status of these claims very closely for more than a year and are very pleased to consolidate this ground, which bridges the gap between our northern and southern claim groups and adds a highly prospective drill target to incorporate into our exploration plans," stated Canter CEO, Joness Lang. "Our technical team is nearing completion of a fully integrated and updated 3D model that incorporates all 2024 assay results and property wide geophysics and structure to underpin the next phase of deeper drilling at Columbus." 
+
+[](https://images.newsfilecorp.com/files/10112/233149_9183155c84e9eb08_001full.jpg)
+
+**Figure 1:** Consolidated claims outlined in green with 2024 shallow drilling locations and historical (2017) lithium zone and select Phase I-II results highlighted with full MT (Magnetotelluric) anomaly shown.
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10112/233149_9183155c84e9eb08_001full.jpg>
+
+Canter's 2024 shallow drilling campaigns outlined an anomalous lithium brine target area within the southern part of the property and returned strong and increasing boron concentrations trending north onto the recently consolidated ground that bridges the gap between the Company's northern and southern claim groups. The acquisition of these claims not only provides complete coverage of the highly conductive HSAMT (Hybrid Source Audio Magnetotelluric) anomaly (see Figure 1 above), but also includes coverage of a historical drill hole that returned the highest known lithium concentrations in brines drilled to-date at the Project. 
+
+A lithium-rich zone, starting at approximately 79.3 metres downhole, was encountered in drill hole CSM17-01, completed by Mantle Minerals (formerly Caeneus Minerals) in 2017. The upper zone from that historical drill hole returned an 80-foot (24.38 metre) section exhibiting lithium concentrations up to 95.9 mg/L within a 20-foot (6.1 metre) section, with an average lithium level of 81 mg/L. This zone showcases a significant lithium-bearing aquifer at shallow depths, making it an attractive early target for further exploration that can now be incorporated into the Company's next phase of drilling at Columbus. The reported assay results from this zone also returned up to 1,100 mg/L boron and 3,670 mg/L potassium, both of which continue to demonstrate the multi-commodity potential at the Project.
+
+The results from drilling completed by previous operators are historical in nature and the Company is only treating this information as relevant from a targeting perspective. Historical data from the newly acquired ground will be incorporated into the Company's 3D model and used to support drill targeting, which is expected to include a drill hole in the vicinity of CSM17-01. 
+
+With full control of the HSAMT anomaly, the Company can strategically target the most favourable structural traps, interpreted as enriched brine reservoirs, within this conductive zone. The new claims have been integrated into the Company's comprehensive 3D geological model, and Canter is well-positioned to prioritize high-value targets for Phase III exploration throughout the consolidated property package, significantly elevating the potential for discovering lithium and boron mineral resources.
+
+**Final Solid Assays from Phase II Shallow Drilling**
+
+The Company submitted solid samples for approximately five (5) foot intervals of sediments at the bottom of each of the Phase II drillholes (5 holes). The limited and selective assaying of the sediments from Phase II compliments the more thorough sediment dataset generated from Phase I and continues to reflect the broader geochemical framework of the system. 
+
+The final solid assays from Phase II returned the highest boron values (**up to 6,140 ppm B**) in sediments from 2024 drilling at the Project. These boron concentrations, identified in conjunction with lithium (up to 709 ppm Li in Phase I and 570 ppm in Phase II) and continued anomalous potassium levels, provide further confirmation of the multi-commodity potential of the basin and indicate a robust long-lived mineralizing process, pointing to the potential for brines to recharge over time.
+
+[](https://images.newsfilecorp.com/files/10112/233149_)
+
+Notes: Samples were taken from the final 1-2 metres of each vertical hole and therefore represent true depth.
+
+To view an enhanced version of this graphic, please visit:  
+[https://images.newsfilecorp.com/files/10112/233149](https://images.newsfilecorp.com/files/10112/233149_)
+
+**Summary and Next Steps**
+
+The work completed to date at the Columbus Lithium-Boron Project has been instrumental in advancing the Company's understanding of this highly prospective mineralized system. The integration of historical data with recent exploration results, including the highest boron and lithium concentrations this year, has provided a comprehensive geochemical framework that underscores the Project's multi-commodity potential. The brines represent the most accessible component of the mineralized system at Columbus and are the Company's primary mineral targets. Together, the solid and brine values reinforce the concept of a dynamic, interconnected mineralized system with all geochemical data contributing to the Company's geological model. The modeling and targeting work is nearing completion and sets the stage for a strategic exploration program that not only aims to expand known occurrences but also targets the deeper structural traps where the most significant enrichment is expected to occur.
+
+The newly expanded Project area, with complete coverage of the MT anomaly and the strongest lithium in brine concentration from drilling to-date at Columbus, elevates the exploration potential at the Project.
+
+For more information about boron and lithium, please visit the Company's [Boron 101](https://api.newsfilecorp.com/redirect/4QPgpHbEmn) and [Lithium 101](https://api.newsfilecorp.com/redirect/jpJ5DhokZJ) pages on the website.
+
+**Quality Assurance / Quality Control (QA/QC)**
+
+Sediment samples are analyzed by ALS using the Analysis Method ME-ICP61, a four-acid digestion with ICP-AES finish. This method, while acquiring near-total values, may not quantitatively extract all elements in some sample matrices. It is suitable for intermediate-level lithium analysis in the exploration of Li-bearing sediments. To address boron loss during the four-acid digestion process, the Company includes the analysis of a single acid digestion (B-ICP41) to retain boron values. The Company is implementing a QA/QC protocol for sediment sampling to include Li and B CRMs sourced from Shea Clark Smith/MEG, Inc. and blank material.
+
+**Qualified Person (QP)**
+
+The technical information contained in this news release was reviewed and approved by Eric Saderholm P.Geo, Director and Technical Advisor of Canter Resources, a Qualified Person (QP), as defined under National Instrument 43- 101 - Standards of Disclosure for Mineral Projects.
+
+About Canter Resources Corp.
+
+Canter Resources Corp. is a junior mineral exploration company advancing the Columbus Lithium-Boron Project and the Railroad Valley (RV) Lithium-Boron Project in Nevada, USA. The Company is completing a phased drilling approach at Columbus to test highly prospective brine targets at varying depths for lithium-boron enrichment and plans to leverage the Company's critical metals targeting database to generate a portfolio of high-quality projects with the aim of defining mineral resources that support the technology and domestic clean energy supply chains in North America.
+
+For further information contact:
+
+Joness Lang  
+Chief Executive Officer   
+Canter Resources Corp.   
+Tel: 778.382.1193  
+[jlang@canterresources.com](mailto:jlang@canterresources.com)
+
+For investor inquiries contact:
+
+Kristina Pillon, High Tide Consulting Corp.  
+Tel: 604.908.1695  
+[investors@canterresources.com](mailto:investors@canterresources.com)
+
+_The Canadian Securities Exchange has neither approved nor disapproved the contents of this news release. The Canadian Securities Exchange does not accept responsibility for the adequacy or accuracy of this news release._
+
+**FORWARD-LOOKING STATEMENTS**
+
+This news release contains "forward-looking statements" within the meaning of applicable securities laws. All statements contained herein that are not clearly historical in nature may constitute forward-looking statements. Generally, such forward-looking information or forward-looking statements can be identified by the use of forward-looking terminology such as "plans", "expects" or "does not expect", "is expected", "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates" or "does not anticipate", or "believes", or variations of such words and phrases or may contain statements that certain actions, events or results "may", "could", "would", "might" or "will be taken", "will continue", "will occur" or "will be achieved". The forward-looking information and forward-looking statements contained herein include, but are not limited to, statements regarding the Company's plans for the Project and the payments related thereto, the issuance of the Consideration Shares and the Company's expected exploration activities. 
+
+These statements involve known and unknown risks, uncertainties and other factors, which may cause actual results, performance or achievements to differ materially from those expressed or implied by such statements, including but not limited to: requirements for additional capital; future prices of minerals; changes in general economic conditions; changes in the financial markets and in the demand and market price for commodities; other risks of the mining industry; the inability to obtain any necessary governmental and regulatory approvals; changes in laws, regulations and policies affecting mining operations; hedging practices; and currency fluctuations.
+
+Although the Company has attempted to identify important factors that could cause actual actions, events or results to differ materially from those described in forward-looking statements, there may be other factors that cause actions, events or results to differ from those anticipated, estimated or intended. Accordingly, readers should not place undue reliance on any forward-looking statements or information. No forward-looking statement can be guaranteed. Except as required by applicable securities laws, forward-looking statements speak only as of the date on which they are made and the Company does not undertake any obligation to publicly update or revise any forward-looking statement, whether as a result of new information, future events, or otherwise.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/233149](https://api.newsfilecorp.com/redirect/v13JBhEeqE)
+
+### Project Name
+
+[Columbus Project](/?gid=5794)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.085            $  Chg: -0.005
+Open: 0.09            High: 0.09
+Bid: 0.085             Bid Size: 4000
+Beta: 28.7698            Year High: 0.25
+Market Cap: 4.55m      PB Ratio: 0.27
+EPS: -0.04             Average Volume (30 Day): 118.00k
+Volume: 90.50k          % Chg: -5.56%
+Prev. Close: 0.09     Low: 0.08
+Ask: 0.09             Ask Size: 31000
+VWAP: 0.08689            Year Low: 0.035
+Total Shares: 53.49m    Shares Out: 53.49m
+Float: 49.29m           Exchange: CSE

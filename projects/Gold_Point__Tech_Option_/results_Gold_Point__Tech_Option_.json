@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Gold_Point__Tech_Option_/38279.txt",
+    "projects/Gold_Point__Tech_Option_/72495.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Point Tech Option",
+      "justification": "The authoritative project name is 'Gold Point Tech Option'. The relevant article text also contains a header identifying the project as 'Gold Point (Teck Option) Project' and describes the transaction as an option agreement with Teck on the 'Le Champ... target on its 100% owned West Gold Point Project'."
+    },
+    "company_name": {
+      "value": "Teck Resources Limited",
+      "justification": "The article states: 'Teck American Incorporated (\"Teck\"), a subsidiary of a leading Canadian resource company, Teck Resources Limited, has entered into an Option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article does not mention the CEO of the buyer, Teck Resources Limited. It only names the President of the seller, GGL Resources Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The option agreement allows for Teck to acquire '100% ownership of the project' upon making the 4th year anniversary payment."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative commodity is Au. The article confirms this by describing the project as the 'Le Champ copper-molybdenum-gold porphyry target'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The first document provided (source: https://www.newsfilecorp.com/release/174186) is not about the Gold Point Tech Option project; it is about Blue Thunder Mining acquiring a 'Nevada Lithium Project'. The second document is about the correct project but does not provide a direct source URL."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The article explicitly states: 'The highlights of the Teck Option transaction are (all funds in CAD):'"
+    },
+    "cash_payments_raw": {
+      "value": 3453000,
+      "justification": "The total cash consideration is $3,453,000, calculated by summing the following payments mentioned in the text: '$53,000' for 2024 claim maintenance, 'First year cash payments of $100,000', '2 nd year anniversary cash payment of $100,000', '3 rd year anniversary cash payment of $200,000', '4 th year anniversary cash payment of $1,000,000', and a 'Milestone payment to GGL of $2,000,000 upon production decision'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are described entirely in cash payments and a retained NSR; no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into specific cash payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not involve share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not involve payments via share options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of shares, so there is no share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While Teck will be exploring the project, the agreement does not specify a minimum exploration expenditure commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states that 'GGL retains a 2% NSR of which Teck may buy-back 0.5% for $1,500,000, and an additional 0.5% for $2,000,000.' This NSR is a key component of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1501,
+      "justification": "The article states: 'The Teck - Le Champ Option covers 180 lode claims encompassing 1,501 hectares (15km²).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The article states: 'The Teck - Le Champ Option covers 180 lode claims encompassing 1,501 hectares (15km²).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the project as a 'target' defined by 'geophysical, geochemical and geological surveys' and notes 'There are no surface disturbances at Le Champ which indicates there has been no historic drill testing of the targets,' implying no formal mineral resource has been calculated."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article does not provide a stock ticker or exchange for the buyer, Teck Resources Limited or its subsidiary Teck American Incorporated. The authoritative metadata ticker (TSXV:BLUE) belongs to Blue Thunder Mining from a separate, irrelevant transaction described in the first document."
+    }
+  }
+}

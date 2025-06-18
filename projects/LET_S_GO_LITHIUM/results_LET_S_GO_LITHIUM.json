@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/LET_S_GO_LITHIUM/42008.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "LET S GO LITHIUM",
+      "justification": "The article is titled \"Rover Metals Adds 2,400 Acres to Let’s Go Lithium Project, NV, USA\" and refers to the project as the \"Let's Go Lithium ('LGL') project\"."
+    },
+    "company_name": {
+      "value": "Rover Critical Metals Corp.",
+      "justification": "The press release is from \"Rover Metals Corp. (TSXV:ROVR)(OTCQB:ROVMF)(FSE:4XO) (\"Rover \" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Judson Culter",
+      "justification": "The article is signed off by: \"'Judson Culter' Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of new claims to expand a project, not the acquisition of a percentage interest from another entity."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is named the \"Let's Go Lithium ('LGL') project\" and the text mentions \"high-grade lithium surface samples\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/790023/rover-metals-adds-2400-acres-to-lets-go-lithium-project-nv-usa",
+      "justification": "The article title, \"Rover Metals Adds 2,400 Acres to Let’s Go Lithium Project, NV, USA\", and its content are directly about the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Rover Metals Corp., is listed on the TSX Venture Exchange (TSXV), which implies the currency is Canadian Dollars (CAD). The detailed quote section uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a transaction involving cash payments between parties."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a transaction involving share payments between parties."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a transaction involving combined cash and share payments between parties."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as part of the project expansion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares, so there is no associated share price for a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the project expansion."
+    },
+    "coverage_area_raw": {
+      "value": 8300,
+      "justification": "The text states: \"...added 2,400 acres of new claims to its Let's Go Lithium ('LGL') project, bringing the total project size to approximately 8,300 acres.\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"...bringing the total project size to approximately 8,300 acres.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions \"high-grade lithium surface samples\" but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ROVR",
+      "justification": "The text identifies the company as \"Rover Metals Corp. (TSXV:ROVR)(OTCQB:ROVMF)(FSE:4XO)\"."
+    }
+  }
+}

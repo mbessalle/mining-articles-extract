@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Cahuilla/53955.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cahuilla",
+      "justification": "Great Eagle Gold Corp. (CSE: GEGC) (FSE: GI8) (\"Great Eagle\") is pleased to announce the signing of a binding letter of intent (\"LOI\") with Teras Resources Inc. (\"Teras\") to acquire 100% of the subsurface mineral rights pertaining to a U.S. Patented Land Claim package, located in Imperial County, California, collectively known as the Cahuilla gold project."
+    },
+    "company_name": {
+      "value": "Great Eagle Gold Corp.",
+      "justification": "Great Eagle Gold Corp. (CSE: GEGC) (FSE: GI8) (\"Great Eagle\") is pleased to announce the signing of a binding letter of intent (\"LOI\") with Teras Resources Inc. (\"Teras\") to acquire 100% of the subsurface mineral rights...collectively known as the Cahuilla gold project."
+    },
+    "ceo_buyer": {
+      "value": "Andrew Fletcher",
+      "justification": "Great Eagle CEO and Director, Andrew Fletcher, declared emphatically..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "...to acquire 100% of the subsurface mineral rights pertaining to a U.S. Patented Land Claim package, located in Imperial County, California, collectively known as the Cahuilla gold project."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "Great Eagle Gold Commits US $18,376,904 for Multi-Million Ounce NI 43-101 Certified Gold-Silver Deposit in California"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/209422",
+      "justification": "The article is about the acquisition of the Cahuilla project by Great Eagle Gold Corp. The source link is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/209422'"
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text consistently uses 'US $' to denote the currency, for example: 'The total agreed purchase price for the entire Cahuilla gold project is US $18,376,904.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described with a total combined value, not separate cash and share payments. Therefore, per the financial data extraction hierarchy, this field is null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described with a total combined value, not separate cash and share payments. Therefore, per the financial data extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 18376904,
+      "justification": "The total purchase price is the sum of Phase 1 (US $8,616,660) and Phase 2 (US $9,760,243). The text states: 'The total agreed purchase price for the entire Cahuilla gold project is US $18,376,904.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not specify an amount of shares to be issued as part of the consideration for the project acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not specify an amount of shares to be issued or a price per share for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not state an exploration spending commitment for the buyer, Great Eagle Gold. It mentions that the seller, Teras, has the right to explore at its own expense: 'Teras has the exclusive right to undertake exploration activities at its own expense...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1680,
+      "justification": "The 1,680-acre Cahuilla gold project contains a multi-million ounce, tokenization-ready deposit of certified gold and silver resources..."
+    },
+    "coverage_area_unit": {
+      "value": "acre",
+      "justification": "The 1,680-acre Cahuilla gold project contains a multi-million ounce, tokenization-ready deposit of certified gold and silver resources..."
+    },
+    "resource_size": {
+      "value": "1,261,364 ounces of indicated gold resources, 14,336,659 ounces of indicated silver resources, 74,870 ounces of inferred gold resources, and 685,520 ounces of inferred silver resources",
+      "justification": "This NI 43-101 report certifies: 1,261,364 ounces of indicated gold resources. 14,336,659 ounces of indicated silver resources. 74,870 ounces of inferred gold resources. 685,520 ounces of inferred silver resources."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GEGC",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: 'Great Eagle Gold Corp. (CSE: GEGC) (FSE: GI8) (\"Great Eagle\")'"
+    }
+  }
+}

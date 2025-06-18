@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Mesa_Top_Mine/50179.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mesa Top Mine",
+      "justification": "The article is titled: 'LIVE Acquires the Mesa Top and Section 20 Uranium Vanadium and Molybdenum Mine Projects in the Colorado Plateau'."
+    },
+    "company_name": {
+      "value": "Live Energy Minerals Corp.",
+      "justification": "The acquiring company is identified as 'Live Energy Minerals Corp.(CSE: LIVE) (OTC Pink: GTREF) (\"LIVE \" or the \"Company \")'."
+    },
+    "ceo_buyer": {
+      "value": "Adrian Smith",
+      "justification": "The contact information lists 'Adrian Smith Chief Executive Officer & Director Live Energy Minerals Corp.'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired the project through staking, and the text states: 'LIVE holds applications for 100% interest in the uranium, vanadium, and molybdenum, Messa Top and Section 20 Mine projects located in the Colorado Plateau, USA.'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The article states the properties 'are prospective for Uranium, Vanadium and Molybdenum mineralization.' This aligns with the authoritative metadata."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/200415",
+      "justification": "The article is titled 'LIVE Acquires the Mesa Top and Section 20 Uranium Vanadium and Molybdenum Mine Projects in the Colorado Plateau', which directly concerns the project of interest. The source URL is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through staking and no financial transaction details involving cash or shares were mentioned in the article."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking and no cash payment was mentioned in the article."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking and no share payment was mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking and no combined cash and share payment was mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made through staking and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The transaction terms include an NSR retained by a third party: 'The claims are also subject to a 3% NSR to an arms length party that assisted in identifying and directing the acquisition...'"
+    },
+    "coverage_area_raw": {
+      "value": 480,
+      "justification": "The project's share of the area is 480 acres, calculated as half of the total 960 acres which covers two properties (Mesa Top and Section 20) as stated: 'which consist of 48 lode mineral claims totalling 960 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text specifies the unit for the total area: '...which consist of 48 lode mineral claims totalling 960 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states there are no current reserves on the company's properties: 'Furthermore, the Company currently has no reserves on any of its properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LIVE",
+      "justification": "The company is identified in the first paragraph as 'Live Energy Minerals Corp.(CSE: LIVE)'."
+    }
+  }
+}

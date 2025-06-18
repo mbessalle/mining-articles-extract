@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Baner/53916.txt",
+    "projects/Baner/66003.txt",
+    "projects/Baner/73782.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Baner",
+      "justification": "The documents consistently refer to the project as the 'Baner Gold Project', for example: 'Champion Electric Enters into Binding LOI to Option Baner Gold Project in Idaho to Prestwick Capital Corporation'."
+    },
+    "company_name": {
+      "value": "Legacy Gold Mines Ltd.",
+      "justification": "The buyer is identified as Legacy Gold Mines Ltd., which was formerly Prestwick Capital Corporation Limited. '...closed the previously announced binding option agreement with Legacy Gold Mines Ltd. (formerly Prestwick Capital Corporation Limited) (\"Legacy\") for the sale of 100% undivided interest in the mineral claims comprising the Company's Baner Gold Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Brian Hinchcliffe",
+      "justification": "The text states that the acquiring company will be led by Brian Hinchcliffe: 'Prestwick will be led by seasoned mining executive Brian Hinchcliffe along with exploration and production geologist Mike Sutton.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the project upon completion of the option terms. '...Prestwick will obtain an option (the \"Option\") to acquire from Champion Electric a 100% undivided interest in and to the mineral claims comprising the Baner gold project...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project throughout the documents: '...the Baner gold project located in Idaho County, Idaho, USA (the \"Baner Gold Project\").'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/225558",
+      "justification": "This article from October 4, 2024, confirms the closing of the sale of the Baner Gold Project, making it the most definitive source."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The first document states 'All amounts expressed are in Canadian dollars', and subsequent documents explicitly use 'CAD$', for example: 'Cash payment of CAD$75,000'."
+    },
+    "cash_payments_raw": {
+      "value": 925000,
+      "justification": "The total cash payment is the sum of three tranches: $75,000 on completion, $350,000 within 18 months, and $500,000 within 12 months after that. 'On completion of the Transaction, Champion Electric will receive: Cash payment of CAD$75,000; ... Within 18 months from the completion of the Transaction...Cash payment of CAD$350,000; ... Within 12 months from the Payment #1 Date...Cash payment CAD$500,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a specific number of shares and a deemed price per share, which falls under Priority 2 of the extraction logic. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are explicitly broken down, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 1300000,
+      "justification": "The total number of shares to be issued is the sum of 1,100,000 shares on completion and 200,000 shares within 18 months. 'On completion of the Transaction, Champion Electric will receive: ... 1.1 million common shares of Prestwick... Within 18 months from the completion of the Transaction... 200,000 Common Shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes the issuance of warrants to purchase shares, but no monetary value is assigned to these warrants in the text. '...warrants to purchase up to 200,000 Common Shares at $0.30 per share... warrants to purchase up to 200,000 Common Shares at the last closing price... warrants to purchase up to 200,000 Common Shares at the last closing price...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the payment consideration."
+    },
+    "issued_share_price": {
+      "value": 0.235,
+      "justification": "The text explicitly states the deemed price for the shares issued as part of the transaction: 'The Common Shares issuable under the Option will be deemed to be issued at a price equal to $0.235 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents state that the buyer will manage work programs and maintain the project, but do not specify a minimum exploration expenditure. 'Prestwick will have the exclusive right to manage and operate all work programs carried out on the Baner Gold Project in its sole discretion. Prestwick will also be responsible for maintaining the Baner Gold Project in good standing through such time.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller, Champion Electric, retains a 1% NSR on the project as part of the deal terms. '...a 100% undivided interest in the Baner Gold Project will be transferred to Prestwick, free and clear of all encumbrances, subject to a 1% net smelter return royalty (the \"NSR\") in favour of Champion.'"
+    },
+    "coverage_area_raw": {
+      "value": 3818,
+      "justification": "The definitive agreement announcement from July 24, 2024, specifies the area as 3,818 acres. 'The Baner Gold Project, a highly prospective gold property, is comprised of 215 unpatented lode claims covering approximately 3,818 acres.' This is used over the 4,520 acres mentioned in the earlier LOI announcement."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area measurement: '...covering approximately 3,818 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided in the documents. The text indicates it is an early-stage project: 'The Projects are at an early stage of exploration...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PWIK.P",
+      "justification": "The buyer, Prestwick Capital Corporation Limited (which became Legacy Gold Mines Ltd.), is identified with the ticker PWIK.P on the TSX Venture Exchange. '...signed a binding option agreement with Prestwick Capital Corporation Limited (TSXV: PWIK.P) (\"Prestwick\")...'"
+    }
+  }
+}

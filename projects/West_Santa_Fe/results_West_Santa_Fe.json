@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/West_Santa_Fe/38289.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "West Santa Fe",
+      "justification": "The article is titled 'Lahontan Signs Definitive Agreement to Acquire West Santa Fe'."
+    },
+    "company_name": {
+      "value": "Lahontan Gold Corp.",
+      "justification": "The acquiring company is identified as 'Lahontan Gold Corp (TSXV:LG)(OTCQB:LGCXF)(the \"Company \" or \"Lahontan \")'."
+    },
+    "ceo_buyer": {
+      "value": "Kimberly Ann",
+      "justification": "The CEO is identified in the text: 'Kimberly Ann, Lahontan Founder, CEO, President, and Director commented:'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows Lahontan 'to exercise an option to acquire a 100% interest in West Santa Fe'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is described as the 'advanced West Santa Fe gold-silver exploration project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/769396/Lahontan-Signs-Definitive-Agreement-to-Acquire-West-Santa-Fe",
+      "justification": "The article content is entirely about the acquisition of the West Santa Fe project by Lahontan Gold Corp, matching the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment and expenditure commitments are specified in US dollars: 'The Agreement requires Lahontan to make payments totalling US$1.8M' and 'commit to exploration expenditures totalling US$1.4M'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The payment is a combined total that can be cash or shares, so the `cash_and_share_payments_combined_raw` field is populated instead, as per the extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is a combined total that can be cash or shares, so the `cash_and_share_payments_combined_raw` field is populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 1800000,
+      "justification": "The text states: 'The Agreement requires Lahontan to make payments totalling US$1.8M over a seven-year period to Emergent... The option payments can be made in a combination of cash and shares at Lahontan's discretion.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option, the payment is a combined cash and share value of US$1.8M, which is captured in `cash_and_share_payments_combined_raw`. No separate option payments are detailed."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A price per share for the transaction is not specified in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1400000,
+      "justification": "The text states: 'In addition, the Company will commit to exploration expenditures totalling US$1.4M over the same seven-year period...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "A Net Smelter Royalty (NSR) is not mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 19.7,
+      "justification": "The text states that 'the Project now covers a of total 19.7 km2'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is provided in the same sentence as the area: 'the Project now covers a of total 19.7 km2'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a conceptual exploration target of '0.5 to 1.0M ounces of oxidized gold and silver mineralization', but explicitly states 'The exploration target at West Santa Fe is conceptual in nature... The qualified person has not completed sufficient work to verify the historical information'. An exploration target is not a formal mineral resource. A separate resource mentioned ('1,112,000 oz Au Eq') is for the Santa Fe Mine project, not the West Santa Fe project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LG",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: 'Lahontan Gold Corp (TSXV:LG)(OTCQB:LGCXF)'."
+    }
+  }
+}

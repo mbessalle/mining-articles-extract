@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Dauntless/48594.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dauntless",
+      "justification": "The text identifies the project of interest directly: 'The first being the Dauntless gold property, which includes the historic Weepah gold mine, located in Esmeralda County, Nevada...'"
+    },
+    "company_name": {
+      "value": "Fortitude Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Fortitude Gold (OTCQB:FTCO) (the \"Company\") today announced it has acquired 100% interest in two separate gold properties within Nevada's Walker Lane Mineral Belt. The first being the Dauntless gold property...'"
+    },
+    "ceo_buyer": {
+      "value": "Jason Reid",
+      "justification": "The CEO of the acquiring company, Fortitude Gold, is named in the text: '...stated Mr. Jason Reid, CEO and President of Fortitude Gold.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the Dauntless project. 'Fortitude Gold (OTCQB:FTCO) (the \"Company\") today announced it has acquired 100% interest in two separate gold properties... The first being the Dauntless gold property...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the project as a gold property: 'Fortitude Gold Acquires Two Additional High-Grade Nevada, USA Gold Properties' and '...acquired 100% interest in two separate gold properties... The first being the Dauntless gold property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/831966/fortitude-gold-acquires-two-additional-high-grade-nevada-usa-gold-properties",
+      "justification": "The article is about the acquisition of the Dauntless project by Fortitude Gold Corp. The link is provided at the bottom of the text: 'View the original press release on accesswire.com'"
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction is specified as US dollars: 'The Company purchased 100% interest in the Dauntless claim package for total consideration of US$725,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 725000,
+      "justification": "A cash payment was made for the Dauntless project: 'The Company purchased 100% interest in the Dauntless claim package for total consideration of US$725,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies a cash consideration for the Dauntless project and does not mention any share payments for this specific acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment amount was identified, so this field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms for the Dauntless project were for cash consideration, with no mention of shares being issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms for the Dauntless project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms for the Dauntless project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the Dauntless project acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not specify any monetary exploration commitment for the Dauntless project."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, the seller retained a net smelter return royalty: 'Nevada Select Royalty Inc retained a maximum net smelter return royalty (NSR) of 3% on future production from the property claims.'"
+    },
+    "coverage_area_raw": {
+      "value": 4680,
+      "justification": "The total area for the Dauntless project, including newly staked claims, is listed in the acquisition highlights: '4,680 acres total acquired and staked high-grade gold exploration property'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the acquisition highlights: '4,680 acres total acquired and staked high-grade gold exploration property'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production ('60,000 ounces of gold mined') and third-party drill intercepts, but does not provide a current, quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTCQB:FTCO",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: 'Fortitude Gold (OTCQB:FTCO) (the \"Company\") today announced it has acquired 100% interest...'"
+    }
+  }
+}

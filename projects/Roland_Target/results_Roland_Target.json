@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Roland_Target/90203.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Roland Target",
+      "justification": "The primary project of interest is specified as Roland Target, and the text refers to an agreement concerning the 'Boulderdash and Roland exploration targets'."
+    },
+    "company_name": {
+      "value": "Talon Metals Corp.",
+      "justification": "The authoritative company name is Talon Metals Corp. The text confirms this: 'Talon Metals Corp. (TSX: TLO) (OTC Pink: TLOFF) (\"Talon\" or the \"Company\") is pleased to announce that it has entered into an exclusivity agreement with Lundin Mining Corporation...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Lundin Mining Corporation. The text mentions Henri van Rooyen, who is the CEO of Talon Metals Corp. (the seller), not the buyer. The CEO of Lundin Mining is not mentioned."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The text states that Lundin Mining can acquire a final potential ownership interest of 70%: 'Lundin Mining may acquire up to a 70% ownership interest in the Optioned Properties'."
+    },
+    "primary_commodity": {
+      "value": "Ni",
+      "justification": "The authoritative primary commodity is Ni (Nickel), which is confirmed in the article title: 'Talon Metals to Option Its Boulderdash and Roland Nickel-Copper Targets in Michigan to Lundin Mining'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/243484",
+      "justification": "The article directly discusses the option agreement involving the Roland Target project. The source link is found at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/243484'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text specifies the currency as US dollars for the advance payment: 'Lundin Mining has advanced Talon US$5 million (the \"Advance Payment\")'."
+    },
+    "cash_payments_raw": {
+      "value": 2500000,
+      "justification": "The project's share is $2,500,000, calculated as half of the US$5 million advance payment shared between the Boulderdash and Roland projects. The text states: 'Lundin Mining has advanced Talon US$5 million (the \"Advance Payment\") to, among other things, commence drilling on the Optioned Properties', and the Optioned Properties are defined as 'the Boulderdash and Roland exploration targets'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not include share payments as part of the consideration. Shares are only mentioned as a conditional repayment method if the main agreement is not finalized."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A combined value is not provided; a cash payment is specified separately."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction terms."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments are not mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": 15000,
+      "justification": "The project's share is 15,000 meters, calculated as half of the 30,000-meter commitment shared between the Boulderdash and Roland projects. The text states: 'Lundin Mining will agree to fund up to 30,000 meters of Talon's drilling campaign at the Optioned Properties', and the Optioned Properties are defined as 'the Boulderdash and Roland exploration targets'."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is specified in meters, not a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 16500,
+      "justification": "The project's share is 16,500 acres, calculated as half of the 33,000 acres total for the two 'Optioned Properties' (Boulderdash and Roland). The text states: 'The Optioned Properties consist of approximately 33,000 acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the text: 'The Optioned Properties consist of approximately 33,000 acres'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Roland Target. It mentions a resource for the separate Tamarack Nickel Project, which is not the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Lundin Mining Corporation. The text does not provide a ticker for Lundin Mining. The ticker mentioned, TSX: TLO, belongs to the seller, Talon Metals Corp."
+    }
+  }
+}

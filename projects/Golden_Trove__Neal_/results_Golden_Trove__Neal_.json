@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Golden_Trove__Neal_/36687.txt",
+    "projects/Golden_Trove__Neal_/38127.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Golden Trove Neal",
+      "justification": "The project is initially called the 'Neal Idaho Project' and is later renamed: 'the Company is changing the name of the Neal Project to the Golden Trove Project.' It is also referenced as the 'Golden Trove (Neal) Project'."
+    },
+    "company_name": {
+      "value": "Galleon Gold Corp.",
+      "justification": "Galleon Gold Corp. (TSXV: GGO) (the \"Company\" or \"Galleon Gold\") is pleased to announce that it has closed the previously announced transaction..."
+    },
+    "ceo_buyer": {
+      "value": "R. David Russell",
+      "justification": "R. David Russell Chairman and CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction with Daisy Mining converts a lease agreement into full ownership. 'Once a total of US$1,250,000 has been paid, the NSR and tonnage fee will be extinguished and Golden Trove will own the property 100%.' This represents the final potential ownership."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The Project is a high-grade gold-dominant vein system with at least five veins known to date."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/170012",
+      "justification": "The article, titled 'Galleon Gold Completes Neal Project Acquisition...', is about the correct project and company."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash consideration portion of the overall project acquisition is explicitly denominated in US dollars: '5 yearly payments of US $250,000 to Daisy... for a total consideration of US $1,250,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 1250000,
+      "justification": "As part of a purchase agreement with Daisy Mining & Land LLP, Galleon Gold's subsidiary will make '5 yearly payments of US $250,000 to Daisy starting May 1, 2024 and ending May 1, 2028, for a total consideration of US $1,250,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment is defined by the number of shares issued and a price per share, not a total raw value, following the financial extraction hierarchy (Priority 2)."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the overall project acquisition are detailed separately across two transactions."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "In a transaction with a vendor controlled by Eric Sprott, 'The Company has issued 2,000,000 common shares of Galleon Gold (the \"Shares\") to the Vendor'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were mentioned as part of the acquisition consideration in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a grant of 100,000 stock options, but this was to a consultant and not part of the M&A consideration for the project."
+    },
+    "issued_share_price": {
+      "value": 0.25,
+      "justification": "The transaction terms mention the number of shares issued (2,000,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.25'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the purchase agreement, the seller (Daisy) retains a royalty that is later extinguished: 'During the term of the Purchase Agreement, Daisy will receive... a 3% NSR on any ore processed. Once a total of US$1,250,000 has been paid, the NSR and tonnage fee will be extinguished...'"
+    },
+    "coverage_area_raw": {
+      "value": 75,
+      "justification": "The total area is the sum of the patented claims (22.4 hectares) and unpatented claims (52.6 hectares) mentioned in the text: 'five private patented mining claims covering approximately 22.4 hectares (55.38 acres) and another seven unpatented lode claims covering about 52.6 hectares (130 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The units for the project area are given in hectares: '...22.4 hectares... and another seven unpatented lode claims covering about 52.6 hectares...'"
+    },
+    "resource_size": {
+      "value": "1,835 ounces of gold in-situ",
+      "justification": "A historical estimate for a stockpile on the property is quantified: 'Results of the sampling indicate the Stockpile graded at 0.132 opt (4.54 gpt Au), equivalent to approximately 1,835 ounces of gold in-situ.' The text notes this is not a current mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GGO",
+      "justification": "The buyer's ticker and exchange are explicitly stated: 'Galleon Gold Corp. (TSXV: GGO)'."
+    }
+  }
+}

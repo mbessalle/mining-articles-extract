@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Iron_Creek/28912.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Iron Creek",
+      "justification": "The text explicitly names the project in a dedicated section: 'About Iron Creek'. It further states, 'The Iron Creek Project consists of mining patents and exploration claims over an area of 3,300 hectares...'"
+    },
+    "company_name": {
+      "value": "Electra Battery Materials Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Electra Battery Materials Corporation (NASDAQ: ELBM; TSX-V: ELBM) (“Electra” or the “Company”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Trent Mell",
+      "justification": "The CEO of the buyer is quoted in the text: '“Sourcing domestic supply of cobalt has become even more critical with the passage of the Inflation Reduction Act,” said Trent Mell, Electra’s CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The announcement does not describe the acquisition of an interest in the Iron Creek project itself. The transaction detailed is for the adjacent 'CAS property'. The article serves as an exploration update for Iron Creek."
+    },
+    "primary_commodity": {
+      "value": "Co",
+      "justification": "The text describes the project as a 'cobalt-copper exploration-stage project in the Idaho Cobalt Belt,' and the announcement is about acquiring a 'new cobalt project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.businesswire.com/news/home/20221214005378/en/CORRECTING-and-REPLACING-Electra-Acquires-New-Cobalt-Project-and-Provides-Update-on-Exploration-Activities-in-Idaho",
+      "justification": "The article is titled 'ELECTRA ACQUIRES NEW COBALT PROJECT AND PROVIDES UPDATE ON EXPLORATION ACTIVITIES IN IDAHO' and contains specific sections about the Iron Creek project, such as 'Iron Creek and Ruby Drilling' and 'About Iron Creek'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The only currency mentioned (US$) is explicitly for the acquisition of the separate, adjacent CAS property, not for a transaction involving the Iron Creek project. 'Rights to CAS were acquired for US$1.5 million...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The US$1.5 million payment mentioned is for the acquisition of the adjacent CAS property, not the Iron Creek project. The text states: 'Rights to CAS were acquired for US$1.5 million, payable over 10 years upon completion of specific milestones.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments related to the Iron Creek project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention any combined cash and share payments related to the Iron Creek project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of a transaction for the Iron Creek project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments for the Iron Creek project itself. The acquisition of the CAS property is described as an 'option agreement', but the payment terms are listed as cash."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of a transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a plan for drilling but does not specify a commitment in terms of total meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan for exploration across multiple properties including Iron Creek, but does not state a specific monetary commitment value for this work. 'Permitting underway for a 10-year, 92 drill pad plan of operations...to conduct systematic exploration at the camp scale on Iron Creek, Ruby, CAS...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 1.5% NSR mentioned is explicitly related to the adjacent CAS property, not the Iron Creek project. The text states: 'The underlying claim owner will retain a 1.5% NSR purchasable by Electra for US$500,000 within 1 year of commercial production from the CAS property.'"
+    },
+    "coverage_area_raw": {
+      "value": 3300,
+      "justification": "The text provides a specific area for the project: 'The Iron Creek Project consists of mining patents and exploration claims over an area of 3,300 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is provided with the area measurement: 'The Iron Creek Project consists of mining patents and exploration claims over an area of 3,300 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified mineral resource estimate (e.g., tonnes and grade). It notes that an updated technical report is pending: 'The Company has commissioned an independent engineering company to complete an updated 43-101 Technical Report on the project. The updated Report is expected in the first quarter of 2023.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ELBM",
+      "justification": "The company's tickers are listed in the first paragraph: 'Electra Battery Materials Corporation (NASDAQ: ELBM; TSX-V: ELBM)'. The detailed quote section also confirms the Canadian exchange: 'Exchange: TSXV'."
+    }
+  }
+}

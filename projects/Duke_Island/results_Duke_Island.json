@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Duke_Island/76287.txt",
+    "projects/Duke_Island/76288.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Duke Island",
+      "justification": "The primary project of interest is confirmed in the article title: 'Stillwater Critical Minerals Enters Letter of Intent to Sell the Duke Island Cu-Ni-PGE Project in Alaska to Granite Creek Copper'."
+    },
+    "company_name": {
+      "value": "Granite Creek Copper",
+      "justification": "The text identifies the acquiring company: 'Stillwater Critical Minerals Corp. ... is pleased to announce that it has entered into a Letter of Intent (\"LOI\") ... whereby fellow Metallic Group of Companies member Granite Creek Copper (\"Granite Creek\") will acquire a 90% interest in the Duke Island copper-nickel-platinum-palladium (\"Cu-Ni-PGE\") project'."
+    },
+    "ceo_buyer": {
+      "value": "Tim Johnson",
+      "justification": "The CEO of the buyer, Granite Creek Copper, is identified in the second article: 'Granite Creek President & CEO, Tim Johnson, stated, \"We are very excited to have acquired these projects in Alaska...\"'."
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "The terms of the agreement state: 'Under the LOI, Granite Creek will acquire a 90% interest in the Duke Island project'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is described as the 'Duke Island copper-nickel-platinum-palladium (\"Cu-Ni-PGE\") project', confirming copper (Cu) as a primary commodity."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/935796/stillwater-critical-minerals-enters-letter-of-intent-to-sell-the-duke-island-cu-ni-pge-project-in-alaska-to-granite-creek-copper",
+      "justification": "The article is a press release directly announcing the letter of intent for Granite Creek Copper to acquire the Duke Island project from Stillwater Critical Minerals."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms are specified in Canadian dollars: 'Issuance of share units to SWCM with a deemed aggregate value of $150,000 CDN' and 'A minimum work commitment of CAD $500,000 over 3 years'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'all-share transaction' with the consideration being 'Issuance of share units'. No cash payment is mentioned in the terms."
+    },
+    "share_payments_raw": {
+      "value": 150000,
+      "justification": "The terms of the letter of intent state: 'Issuance of share units to Stillwater with a deemed aggregate value of C$150,000 over a 3-year period'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because the payment was explicitly identified as a share payment, and thus `share_payments_raw` was populated."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not specified in the text. The consideration is defined by its value: 'Issuance of share units to Stillwater with a deemed aggregate value of C$150,000'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "While warrants are part of the deal ('Units to consist of a share and a partial or full warrant'), their value is not quantified separately and is included within the C$150,000 aggregate value of the share units."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not specified in the deal terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 500000,
+      "justification": "The terms of the letter of intent include a 'Minimum work commitment of C$500,000 over 3 years'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller, Stillwater, will retain a royalty as part of the deal: 'Granite Creek will acquire a 90% interest in the Duke Island project, subject to a 1% Net Smelter Royalty (\"NSR\")'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The project size is described as '31 unpatented claims', but no area in hectares or square kilometers is provided in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area unit is provided as no raw area value was found."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate. It notes that drilling has occurred but 'None of the holes are thought to have penetrated the prospective basal contact of the intrusion where the highest grades of Cu-Ni-PGE sulphide mineralization are inferred to occur'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GCX",
+      "justification": "The buyer, Granite Creek Copper, is identified with its ticker and exchange in the header of the second press release: 'Granite Creek Copper Ltd. (TSX.V:GCX)(OTCQB:GCXXF)'."
+    }
+  }
+}

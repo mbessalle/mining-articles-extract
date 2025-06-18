@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Blue_Clay/39573.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue Clay",
+      "justification": "The text refers to the project as 'the 100% owned Blue Clay Lithium Project in Clayton Valley, Nevada'."
+    },
+    "company_name": {
+      "value": "Sienna Resources Inc.",
+      "justification": "The press release is issued by 'Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) (\"Sienna\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "The document is signed off by '\"Jason Gigliotti\" President, Director Sienna Resources Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an option to acquire a 100% interest in the 'Elko Lithium Project', not the Blue Clay project. The Blue Clay project is already described as '100% owned'."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is consistently referred to as the 'Blue Clay Lithium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/177538",
+      "justification": "The article, while primarily about the Elko project acquisition, contains a specific update on the Blue Clay project: 'Recently, the Bureau of Land Management (BLM) has given Sienna approval for up to 4 additional holes to be completed on the 100% owned Blue Clay Lithium Project in Clayton Valley, Nevada'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms for the Elko project, mentioned in the same article by the same TSXV-listed company, are specified in Canadian dollars: 'cash payments totalling $92,000 CDN'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payment of '$92,000' is part of the option agreement for the 'Elko Lithium Project', not the Blue Clay project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The issuance of '16 million shares' is part of the option agreement for the 'Elko Lithium Project', not the Blue Clay project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned for the Blue Clay project. The transaction details provided are for the Elko Lithium Project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of '16 million shares' is part of the option agreement for the 'Elko Lithium Project', not the Blue Clay project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price is specified for any transaction related to the Blue Clay project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Blue Clay project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment is mentioned for the Blue Clay project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned in relation to the Blue Clay project."
+    },
+    "coverage_area_raw": {
+      "value": 2950,
+      "justification": "The text states: 'The Blue Clay Lithium Project consists of 150 contiguous claims totaling approximately 2,950 acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: 'The Blue Clay Lithium Project consists of 150 contiguous claims totaling approximately 2,950 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'Lithium values as high as 1230 ppm Li were encountered' but does not provide a mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIE",
+      "justification": "The company is identified as 'Sienna Resources Inc. (TSXV: SIE)' in the first paragraph of the press release."
+    }
+  }
+}

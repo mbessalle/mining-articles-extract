@@ -1,0 +1,89 @@
+--- Article Metadata ---
+Project Name: Railroad Valley
+Company Name: Canter Resources Corp
+Exchange: CSE
+Ticker: CRC
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+9.12.2024, 10:25:00 PM
+
+# Canter Resources Acquires Railroad Valley Lithium-Boron Project
+
+Vancouver, British Columbia--(Newsfile Corp. - September 12, 2024) - **Canter Resources Corp. (CSE: CRC) (OTC Pink: CNRCF) (FSE: 601)** ("**Canter** " or the "**Company** ") is pleased to report that it has acquired a prospective 1,000 acre property ("RV Project") in Railroad Valley, located in Nye county, Nevada. The RV Project is located 164 kilometres east-northeast of Tonopah, Nevada, and accessible via Highway 6, ideally located for exploration and potential development. Despite its promising geologic similarities to Clayton Valley, Railroad Valley remains largely underexplored for lithium and boron.
+
+The Railroad Valley basin shares several critical geological features with Clayton Valley, which has been North America's leading lithium producer since 1966. Both valleys are structurally closed basins with similar fault-bounded graben structures, making them ideal for lithium and boron brine accumulation. However, Railroad Valley stands out due to its larger basin size, which is 2.5 times larger in catchment area and 3.5 times larger in playa surface area compared to Clayton Valley. 
+
+"We are pleased to add another lithium-boron brine target to the Company's Nevada project portfolio in a valley we view as one of the most promising untapped lithium-boron brine opportunities in the region," commented Canter CEO, Joness Lang. "We remain focused on advancing exploration at our flagship Columbus Project but will continue to leverage our targeting database to make low-cost strategic acquisitions to strengthen the Company's portfolio when opportunities present themselves."
+
+**Lithium and Boron Potential**
+
+Historic soil samples collected from the Railroad Valley site have returned values between 150 and 280 ppm lithium, a range consistent with known lithium brine-producing basins. Recent soil sampling by Canter returned surface values of up to 160 ppm lithium and 610 ppm boron. This, coupled with the area's high geothermal heat flux, enhances the potential for diagenetic alteration and lithium and boron release from surrounding volcanic and sedimentary formations into the underlying brine aquifers. The RV Project is contiguous with claims held by 3 Proton Lithium (private), who is the largest claim holder and most active lithium-boron exploration company in Railroad Valley. 
+
+[](https://images.newsfilecorp.com/files/10112/223152_f4c8cc6144acc81e_001full.jpg)  
+  
+**Photo 1:**  Soil sample collected at the newly acquired RV Project
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10112/223152_f4c8cc6144acc81e_001full.jpg>
+
+**Acquisition Terms**
+
+Canter, and its indirect, wholly owned subsidiary, Altitude Lithium USA Corp., entered into a Claims Acquisition Agreement with Ramp Metals USA Inc. to a 100% interest in 50 unpatented association placer claims in Railroad Valley for the following consideration:
+
+  * 300,000 Canter common shares ("Consideration Shares") with a deemed price of CAD$0.13 payable to Ramp Metals Inc. (TSXV: RAMP), the parent corporation of Ramp Metals USA Inc.; 
+  * Canter will pay transfer costs and reimburse recently paid BLM fees; and
+  * Ramp Metals USA Inc. will retain a 0.5% NSR, with Canter having the ability to buy back the NSR for a one-time CAD$500,000 payment at any time.
+
+
+
+The Consideration Shares will be subject to a hold period of four months from the date of issuance pursuant to securities laws in Canada. The transaction remains subject to regulatory approval with a targeted closing date of September 19, 2024.
+
+**Qualified Person (QP)**
+
+The technical information contained in this news release was reviewed and approved by Eric Saderholm P.Geo, Director and Technical Advisor of Canter Resources, a Qualified Person (QP), as defined under National Instrument 43- 101 - Standards of Disclosure for Mineral Projects.
+
+About Canter Resources Corp.
+
+Canter Resources Corp. is a junior mineral exploration company advancing the Columbus Lithium-Boron Project in Nevada, USA and the Beaver Creek Lithium Property in Montana, USA. The Company is completing a phased drilling approach at Columbus to test highly prospective brine targets at varying depths for lithium-boron enrichment and plans to leverage the Company's critical metals targeting database to generate a portfolio of high-quality projects with the aim of defining mineral resources that support the technology and domestic clean energy supply chains in North America.
+
+For further information contact:
+
+Joness Lang  
+Chief Executive Officer   
+Canter Resources Corp.   
+Tel: 778.382.1193  
+[jlang@canterresources.com](mailto:jlang@canterresources.com)
+
+For investor inquiries contact:
+
+Kristina Pillon, High Tide Consulting Corp.  
+Tel: 604.908.1695  
+[investors@canterresources.com](mailto:investors@canterresources.com)
+
+_The Canadian Securities Exchange has neither approved nor disapproved the contents of this news release. The Canadian Securities Exchange does not accept responsibility for the adequacy or accuracy of this news release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/223152](https://api.newsfilecorp.com/redirect/3jD0JIqAMD)
+
+### Project Name
+
+[Railroad Valley Project](/?gid=8572)
+
+--- Detailed Quote ---
+
+Last: 0.085            $  Chg: -0.005
+Open: 0.09            High: 0.09
+Bid: 0.085             Bid Size: 4000
+Beta: 28.7698            Year High: 0.25
+Market Cap: 4.55m      PB Ratio: 0.27
+EPS: -0.04             Average Volume (30 Day): 118.00k
+Volume: 90.50k          % Chg: -5.56%
+Prev. Close: 0.09     Low: 0.08
+Ask: 0.09             Ask Size: 31000
+VWAP: 0.08689            Year Low: 0.035
+Total Shares: 53.49m    Shares Out: 53.49m
+Float: 49.29m           Exchange: CSE

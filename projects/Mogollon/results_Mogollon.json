@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Mogollon/39577.txt",
+    "projects/Mogollon/42761.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mogollon",
+      "justification": "The primary project of interest is Mogollon, as confirmed by the article title: 'Allegiant Announces Completion of Phase 1 Option by Summa Silver, Acquires 75% of the Mogollon Project'."
+    },
+    "company_name": {
+      "value": "Summa Silver Corp.",
+      "justification": "The acquiring company is identified as Summa Silver Corp. in the text: 'Summa Silver Earns 100% Interest in the High-Grade Silver and Gold Mogollon Project in New Mexico'."
+    },
+    "ceo_buyer": {
+      "value": "Galen McNamara",
+      "justification": "The CEO of the buyer, Summa Silver Corp., is identified in the text: 'Galen McNamara, CEO, stated:'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The final interest acquired by Summa Silver is 100%, as stated: 'Upon issuance of the Consideration Shares, the Company will have satisfied the requirements to exercise the phase two option pursuant to the Option Agreement and acquire 100% ownership of the Project.'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The authoritative primary commodity is Ag (Silver), which is supported by the text describing the project as the 'high-grade silver and gold Mogollon Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/184610",
+      "justification": "The article titled 'Summa Silver Earns 100% Interest in the High-Grade Silver and Gold Mogollon Project in New Mexico' is directly about the specified project and transaction."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is specified as US dollars in the payment terms: 'Summa intends to pay US$100,000 in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "A cash payment is specified as part of the agreement: 'Summa intends to pay US$100,000 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": 5731200,
+      "justification": "The total share payment is the sum of two tranches. The first tranche is valued at US$1,650,000, derived from the 'US$1,750,000 third anniversary payment' less the 'US$100,000 in cash'. The second tranche is valued at US$4,081,200, calculated from '8,912,884 common shares' at a 'deemed price of $0.4579 per Consideration Share'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is not explicitly stated. The values are provided as separate components and fall under Priority 1 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "As per the financial extraction hierarchy, since explicit cash and share payment values could be determined, this field is null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments, other than the main consideration, are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "As per the financial extraction hierarchy, since explicit cash and share payment values could be determined, this field is null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area, such as hectares or square kilometers, is mentioned for the project in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area, such as hectares or square kilometers, is mentioned for the project in the provided text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project's potential (e.g., 'potential to be one of the best silver and gold vein fields') but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SSVR",
+      "justification": "The buyer is identified as Summa Silver Corp., which the text states is listed as '(TSXV: SSVR)'. The authoritative ticker AUAU belongs to the seller, Allegiant Gold Ltd."
+    }
+  }
+}

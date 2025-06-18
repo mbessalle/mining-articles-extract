@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Alta_Mesa_ISR/27700.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Alta Mesa ISR",
+      "justification": "The authoritative project name is Alta Mesa ISR, which is confirmed in the text: 'enCore ANNOUNCES AGREEMENT TO ACQUIRE ALTA MESA URANIUM PROJECT IN SOUTH TEXAS' and 'acquire the Alta Mesa In-Situ Recovery (\"ISR\") uranium project'."
+    },
+    "company_name": {
+      "value": "enCore Energy Corp.",
+      "justification": "The text clearly identifies the buyer, stating: 'enCore Energy Corp. (TSXV: EU) (OTCQB: ENCUF) (\"enCore\") is pleased to announce that it has entered into a definitive agreement (the \"Agreement\") to acquire the Alta Mesa In-Situ Recovery (\"ISR\") uranium project'. This directly contradicts the provided authoritative company name 'Boss Energy Ltd'."
+    },
+    "ceo_buyer": {
+      "value": "Paul Goranson",
+      "justification": "The text identifies the CEO of the acquiring company: 'Paul Goranson , CEO and Director of enCore, further added...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that enCore will 'acquire all of the limited liability company membership interests in each of the three Texas limited liability companies which collectively own and control Alta Mesa', which implies a 100% interest acquisition."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text refers to the project as the 'Alta Mesa In-Situ Recovery (\"ISR\") uranium project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The consideration for the transaction is specified in US dollars: 'for total consideration of US$120 million'."
+    },
+    "cash_payments_raw": {
+      "value": 60000000,
+      "justification": "The text breaks down the consideration: 'The Consideration payable to Energy Fuels consists of US$60 million in cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The non-cash portion of the consideration is a 'US$60 million secured vendor take-back convertible promissory note'. This is a debt instrument, not a direct payment of shares, so this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Although a total consideration of US$120 million is mentioned, it is broken down into cash and a convertible note, not cash and shares. Following the data extraction hierarchy, since an explicit cash value is provided, this field for a combined value is not populated."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as direct consideration for the acquisition. The convertible note has a conversion feature, but the number of shares is variable and not fixed at the time of the agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the consideration paid to the seller."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as direct consideration, so there is no issued share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 195501,
+      "justification": "The text states: 'Control of a large private land package totaling 195,501 contiguous acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the text: 'Control of a large private land package totaling 195,501 contiguous acres...'"
+    },
+    "resource_size": {
+      "value": "3.41 million lbs U3O8 (1.57 million tons at an average grade of 0.109% U3O8) plus inferred resources of 16.79 million lbs U3O8 (7.0 million tons at an average grade of 0.120% U3O8)",
+      "justification": "The text provides a summary of the mineral resource: 'Alta Mesa is host to measured and indicated resources of 3.41 million lbs U3O8 (1.57 million tons at an average grade of 0.109% U3O8) plus inferred resources of 16.79 million lbs U3O8 (7.0 million tons at an average grade of 0.120% U3O8).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EU",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'enCore Energy Corp. (TSXV: EU) (OTCQB: ENCUF)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Ripsey_West/83493.txt",
+    "projects/Ripsey_West/83494.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ripsey West",
+      "justification": "The press release announces agreements for four projects, including 'the Ripsey West, Royston, Red Star, and Mineral Hill projects'."
+    },
+    "company_name": {
+      "value": "EMX Royalty Corporation",
+      "justification": "The press release is issued by 'EMX Royalty Corporation (NYSE American: EMX) (TSXV: EMX) (the \"Company\" or \"EMX\")' and details the sale of its projects."
+    },
+    "ceo_buyer": {
+      "value": "Blaine Monaghan",
+      "justification": "The buyer is Pacific Ridge Exploration Ltd. The second press release is signed '\"Blaine Monaghan\" President & CEO Pacific Ridge Exploration Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows Pacific Ridge to 'acquire a 100% interest in the Projects'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The text describes the project as: 'The Ripsey West Project is a shallow copper porphyry target in central Arizona's Laramide copper province...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236325",
+      "justification": "The article, titled 'EMX Executes Agreement to Sell Four Projects in Western USA to Pacific Ridge Exploration', is directly about the transaction involving the Ripsey West project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The 'Commercial Terms Overview' section explicitly states '(all dollar amounts in USD)'."
+    },
+    "cash_payments_raw": {
+      "value": 3740000,
+      "justification": "The total cash payment for the Ripsey West project is the sum of the initial payment (US$60,000), five anniversary option payments totaling US$180,000 ($10k+$15k+$15k+$15k+$125k), and milestone payments for PEA (US$500,000), PFS (US$1,000,000), and FS (US$2,000,000). The text states these terms are on a 'per-Project basis'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value for the share component of the transaction was provided, only the number of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal components are listed separately as cash and share amounts, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1375000,
+      "justification": "The total shares for the Ripsey West project is the sum of the initial issuance ('200,000 Pacific Ridge shares') and subsequent issuances totaling 1,175,000 shares ('issue 1,175,000 additional shares'). The per-project table confirms this total for Ripsey West (200,000 + 100,000 + 100,000 + 100,000 + 125,000 + 750,000 = 1,375,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Stock options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.195,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price for the buyer (Pacific Ridge) as a fallback, as seen in the detailed quote: 'Last: 0.195'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2250000,
+      "justification": "The agreement requires Pacific Ridge to 'complete $2,250,000 in exploration expenditures over the five-year term of the option agreement' on a 'per-Project basis'. The 'Exploration Expenditures' table confirms a total of 'US$2,250,000' for the Ripsey West project."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The agreement states that 'Upon option exercise by Pacific Ridge, EMX will retain a 3% NSR royalty on each applicable Project'."
+    },
+    "coverage_area_raw": {
+      "value": 2161,
+      "justification": "The project description states: 'The Ripsey West Project spans over 2,161 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project description states: 'The Ripsey West Project spans over 2,161 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an exploration target and notes that previous drilling 'left the target and the core of the porphyry system untested at depth,' which indicates no defined mineral resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PEX",
+      "justification": "The buyer is Pacific Ridge Exploration Ltd., which is listed as '(TSXV: PEX)' in the header of its news release."
+    }
+  }
+}

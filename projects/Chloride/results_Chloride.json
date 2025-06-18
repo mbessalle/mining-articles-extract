@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Chloride/37040.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Chloride",
+      "justification": "The article has a dedicated section for the project: '_Chloride Property_ The Chloride Property is located in Mohave County near the town of Chloride in the Wallapai Mining District.'"
+    },
+    "company_name": {
+      "value": "Silver Range Resources Ltd.",
+      "justification": "The acquiring company is identified in the first paragraph: 'Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to provide an update... In May, Silver Range staked and conducted preliminary exploration on two targets identified by reconnaissance work in Arizona. _Chloride Property_'"
+    },
+    "ceo_buyer": {
+      "value": "Mike Power",
+      "justification": "The CEO of the buyer, Silver Range Resources Ltd., is identified at the end of the press release: 'ON BEHALF OF SILVER RANGE RESOURCES LTD. \"Mike Power\" President, C.E.O. & Director'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Silver Range 'staked' the project, which implies 100% interest, but an explicit percentage is not mentioned."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata lists Au as the primary commodity, and the text confirms gold presence with sample results: 'Initial grab sampling by Silver Range returned analyses up to 18.75 g/t Au...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/762905/Silver-Range-Stakes-Two-Projects-In-Arizona-And-Provides-Corporate-Update",
+      "justification": "The article is titled 'Silver Range Stakes Two Projects In Arizona And Provides Corporate Update' and contains a specific section detailing the staking of the 'Chloride Property'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer's stock exchange is listed as TSXV, which is a Canadian exchange. The currency is inferred to be Canadian Dollars (CAD). 'Exchange: TSXV'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction for the Chloride project was a staking action, and no cash payments are mentioned for it. Other cash payments in the text are for different projects: 'U$20,000 (East Goldfield) and U$11,000 (Tule Canyon)'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction for the Chloride project was a staking action, and no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction for the Chloride project was a staking action, and no combined cash and share payments are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction for the Chloride project was a staking action, and no issuance of shares is mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text in relation to this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text in relation to this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned for the Chloride project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of the staking of the Chloride project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Chloride property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Chloride property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides grab sample results but does not contain a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces) for the Chloride project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SNG",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'Silver Range Resources Ltd. (TSXV:SNG)'"
+    }
+  }
+}

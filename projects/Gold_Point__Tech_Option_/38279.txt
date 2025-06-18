@@ -1,0 +1,59 @@
+--- Article Metadata ---
+Project Name: Gold Point Tech Option
+Company Name: Teck Resources Limited
+Exchange: TSXV
+Ticker: BLUE
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+7.20.2023, 2:00:00 PM
+
+# Blue Thunder Acquires Lithium Project in Nevada
+
+Toronto, Ontario--(Newsfile Corp. - July 20, 2023) - Blue Thunder Mining Inc. (TSXV: BLUE) ("**Blue Thunder** ", "**Blue** " or the "**Company** ") is pleased to announce that it has acquired a lithium exploration project in Nevada. This is a further step in Blue's new focus on critical metals as announced in the Company's News Release dated July 7, 2023.
+
+The Nevada Lithium Project comprises 85 US federal mineral lode claims, covering approximately 6.8 square kilometres (1,683 acres), in Esmeralda County, Nevada. The claims are owned by GGL Resource Corp ("**GGL** ") through a bare trustee, Archer Cathro Geological (US) Ltd, and are part of a larger claim block that GGL is exploring for vein gold and porphyry copper-molybdenum mineralization. The Nevada Lithium claims are underlain by Quaternary alluvium which is a prospective host for lithium mineralization. The Quaternary sediments are part of a basin that locally contains thick sections of lithium enriched claystone. The closest lithium bearing drill holes are located about 3.8 km to the north on Nevada Sunrise Metals Corp's Gemini property. Mineralization reported in drill holes on the Gemini property include 1,412 ppm lithium over 439 m, starting at 155.49 m below surface. Blue has acquired the right to explore for and develop lithium mineralization in the Quaternary alluvium in exchange for agreeing to pay the annual claim fees and a 2% NSR royalty payable to GGL in the event of future lithium production.
+
+The Company's CEO, Dorian L. (Dusty) Nicol said, "We are excited to moving quickly to add to our portfolio of prospective critical metals projects. This represents an exciting new direction for our company, and we look forward to announcing additional acquisitions in this space and to updating on exploration progress in due course. We are currently in advanced negotiations for additional lithium projects in Quebec, which we expect to be announcing shortly."
+
+**About Blue Thunder**
+
+Blue Thunder is an exploration company that controls several prospective critical metals (including copper, cobalt, tungsten, gold, and tin) properties in the Yukon and one prospective lithium property in Nevada. The company also owns 100% of a large land position near Chibougamau, Québec. The Muus Gold project covers approximately 51,000 hectares of prospective ground in the eastern part of the Abitibi Greenstone Belt. The Muus Project is prospective for gold mineralization, as it is on strike from Iamgold's 5 million ounces Au Nelligan project. Field work completed during 2022 established that the northern portion of the Muus Project is prospective for copper-gold volcanogenic massive sulphide mineralization.
+
+ON BEHALF OF THE BOARD
+
+Dorian L. (Dusty) Nicol, CEO & Director
+
+For more information, please visit our website [www.bluethundermining.com](https://api.newsfilecorp.com/redirect/bVAeaIR7kP), or contact Mr. Dorian L. (Dusty) Nicol, [dusty@bluethundermining.com](mailto:dusty@bluethundermining.com) (647) 848-1009.  
+  
+_**Neither the Exchange nor its Regulation Services Provider (as that term is defined in the policies of the Exchange) accepts responsibility for the adequacy or accuracy of this release.**_
+
+_**Cautionary Note Regarding Forward-Looking Statements**_
+
+ _This press release contains forward-looking statements and forward-looking information (collectively, "forward-looking statements") within the meaning of applicable Canadian securities legislation. All statements, other than statements of historical fact, included herein including, without limitation, statements regarding the anticipated content, commencement, anticipated exploration program results, the ability to complete future financings, the ability to complete the required permitting, the ability to complete the exploration program and drilling, and the anticipated business plans and timing of future activities of the Company, are forward-looking statements. Although the Company believes that such statements are reasonable, it can give no assurance that such expectations will prove to be correct. Forward-looking statements are typically identified by words such as: believe, expect, anticipate, intend, estimate, postulate and similar expressions, or are those, which, by their nature, refer to future events. The Company cautions investors that any forward-looking statements by the Company are not guarantees of future results or performance, and that actual results may differ materially from those in forward-looking statements as a result of various factors, including, but not limited to, the state of the financial markets for the Company's equity securities, the state of the commodity markets generally, variations in the nature, the analytical results from surface trenching and sampling program, including diamond drilling programs, the results of IP surveying, the results of soil and till sampling program. the quality and quantity of any mineral deposits that may be located, variations in the market price of any mineral products the Company may produce or plan to produce, the inability of the Company to obtain any necessary permits, consents or authorizations required, including Exchange acceptance, for its planned activities, the inability of the Company to produce minerals from its properties successfully or profitably, to continue its projected growth, to raise the necessary capital or to be fully able to implement its business strategies, the potential impact of COVID-19 (coronavirus) on the Company's exploration program and on the Company's general business, operations and financial condition, and other risks and uncertainties. All of the Company's Canadian public disclosure filings may be accessed via[www.sedar.com](https://api.newsfilecorp.com/redirect/3jenBuGpgb) and readers are urged to review these materials, including the technical reports filed with respect to the Company's mineral properties. This news release contains information with respect to adjacent or similar mineral properties in the Chibougamau District in respect of which the Company has no interest or rights to explore or mine. Readers are cautioned that the Company has no interest in or right to acquire any interest in any such properties, and that mineral deposits, and the results of any mining thereof, on adjacent or similar properties, are not indicative of mineral deposits on the Company's properties or any potential exploitation thereof._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/174186](https://api.newsfilecorp.com/redirect/NBNkaSaOMa)
+
+### Project Name
+
+[Gold Point (Teck Option) Project](/?gid=769)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.06            $  Chg: 0.005
+Open: 0.055            High: 0.06
+Bid: 0.055             Bid Size: 110000
+Beta: 0.0484            Year High: 0.08
+Market Cap: 5.17m      PB Ratio: -41.37
+EPS: -0.04             Average Volume (30 Day): 49.23k
+Volume: 130.50k          % Chg: 9.09%
+Prev. Close: 0.055     Low: 0.055
+Ask: 0.06             Ask Size: 39000
+VWAP: 0.05823            Year Low: 0.035
+Total Shares: 86.19m    Shares Out: 97.40m
+Float: 68.43m           Exchange: TSXV

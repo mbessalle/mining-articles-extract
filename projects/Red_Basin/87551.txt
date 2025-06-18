@@ -1,0 +1,62 @@
+--- Article Metadata ---
+Project Name: Red Basin
+Company Name: First American Uranium Inc.
+Exchange: CSE
+Ticker: M
+Primary Commodity: U
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.12.2025, 1:21:00 AM
+
+# Myriad Uranium Issues Shares under Option to Acquire 100% of the Red Basin Uranium Project in New Mexico, USA
+
+Vancouver, British Columbia--(Newsfile Corp. - February 11, 2025) - **Myriad Uranium Corp.** (CSE: M) (OTCQB: MYRUF) (FSE: C3Q) ("**Myriad** " or the "**Company** ") is pleased to announce that it has issued 612,164 common shares of Myriad (each, a "Share") to FirstAmerican Energy Fuels Ltd. (the "Optionor") pursuant to a property option agreement dated as of January 30, 2025 (the "Option Agreement") with First American Uranium Inc. (CSE: URM) ("First American") and the Optionor respecting the Red Basin Uranium Project (the "Project"). The Project is comprised of 86 lode claims in the Red Basin area of the Datil Mountains - Pietown Uranium District, Catron County, New Mexico, USA, covering approximately 1,776 acres (approximately 719 hectares). (see Myriad's news release dated February 4, 2025 respecting the Option Agreement and the Project).
+
+The Shares were issued at a deemed price of approximately C$0.408 per Share, representing a value of C$250,000 according to a 10-day VWAP for the Shares contemplated by the Option Agreement. Pursuant to applicable securities laws, the Shares are subject to a four month hold period expiring June 12, 2025.
+
+Myriad's final obligation to exercise the option under the Option Agreement and earn a 100% interest in and to the Project is to conduct a geophysics survey on the Project by no later than January 30, 2026. Myriad will provide further updates respecting the Project in due course. 
+
+**About Myriad Uranium Corp.**
+
+Myriad Uranium Corp. is a uranium exploration company with an earnable 75% interest in the Copper Mountain Uranium Project in Wyoming, USA. To date, Myriad has earned a 50% interest in Copper Mountain. Copper Mountain hosts several known uranium deposits and historical uranium mines, including the Arrowhead Mine which produced 500,000 lbs of eU3O8. Copper Mountain saw extensive drilling and development by Union Pacific during the late 1970s including the development of a mine plan to fuel a planned fleet of California Edison reactors. Operations ceased in 1980 before mining could commence due to falling uranium prices. Approximately 2,000 boreholes have been drilled at Copper Mountain and the Project Area has significant exploration upside. Union Pacific is estimated to have spent C$117 million (2024 dollars) exploring and developing Copper Mountain, generating significant historical resource estimates which are detailed [here](https://api.newsfilecorp.com/redirect/m38WrtXWKp). Myriad recently concluded a 34-hole maiden drill program in November 2024 which encountered significant high grade uranium mineralisation that exceeded expectations, provided verification of historical exploration work, and encountered mineralisation in deeper zones, which opens exciting new potential for the Copper Mountain Uranium Project. A comprehensive news release regarding the drilling can be viewed [here](https://api.newsfilecorp.com/redirect/kO7vbCDBjy). 
+
+A recent detailed update with Crux Investor can be viewed [here](https://api.newsfilecorp.com/redirect/Bpq3riYvEJ). The Company's presentation can be viewed [here](https://api.newsfilecorp.com/redirect/55BMwuyLqZ). News releases regarding historical drilling can be viewed [here](https://api.newsfilecorp.com/redirect/LGX2YSxEga) and [here](https://api.newsfilecorp.com/redirect/oLNWji72b7).
+
+For further information, please refer to Myriad's disclosure record on SEDAR+ ([www.sedarplus.ca](https://api.newsfilecorp.com/redirect/O3VxKtGXaD)), contact Myriad by telephone at +1.604.418.2877, or refer to Myriad's website at [www.myriaduranium.com](https://api.newsfilecorp.com/redirect/PLzWxiQM8K).
+
+**Myriad Contacts:**  
+Thomas Lamb  
+President and CEO  
+[tlamb@myriaduranium.com](mailto:tlamb@myriaduranium.com)
+
+ _**Forward-Looking Statements**_
+
+ _This news release contains "forward-looking information" that is based on the Company's current expectations, estimates, forecasts and projections. This forward-looking information includes, among other things, the Company's business, plans, outlook and business strategy. The words "may", "would", "could", "should", "will", "likely", "expect," "anticipate," "intend", "estimate", "plan", "forecast", "project" and "believe" or other similar words and phrases are intended to identify forward-looking information. The reader is cautioned that assumptions used in the preparation of any forward-looking information may prove to be incorrect, including with respect to the Company's business plans respecting the exploration and development of the Company's mineral properties, the proposed work program on the Company's mineral properties and the potential and economic viability of the Company's mineral properties. Forward-looking information is subject to known and unknown risks, uncertainties and other factors that may cause the Company's actual results, level of activity, performance or achievements to be materially different from those expressed or implied by such forward-looking information. Such factors include, but are not limited to: changes in economic conditions or financial markets; increases in costs; litigation; legislative, environmental and other judicial, regulatory, political and competitive developments; access to minerals where the surface rights above them have not been settled; and technological or operational difficulties. This list is not exhaustive of the factors that may affect our forward-looking information. These and other factors should be considered carefully, and readers should not place undue reliance on such forward-looking information. The Company does not intend, and expressly disclaims any intention or obligation to, update or revise any forward-looking information whether as a result of new information, future events or otherwise, except as required by applicable law._
+
+_The CSE has not reviewed, approved or disapproved the contents of this news release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/240503](https://api.newsfilecorp.com/redirect/wWvMYheZOB)
+
+### Project Name
+
+[Red Basin Project](/?gid=4242)  
+New Mexico, United States
+
+--- Detailed Quote ---
+
+Last: 0.265            $  Chg: -0.005
+Open: 0.27            High: 0.28
+Bid: 0.26             Bid Size: 9500
+Beta: 0.2557            Year High: 0.65
+Market Cap: 18.69m      PB Ratio: 4.74
+EPS: -0.20             Average Volume (30 Day): 156.44k
+Volume: 300.12k          % Chg: -1.85%
+Prev. Close: 0.27     Low: 0.255
+Ask: 0.265             Ask Size: 5000
+VWAP: 0.26422            Year Low: 0.21
+Total Shares: 70.55m    Shares Out: 70.55m
+Float: 66.87m           Exchange: CSE

@@ -1,0 +1,88 @@
+--- Article Metadata ---
+Project Name: Palmer
+Company Name: American Pacific Mining Corp.
+Exchange: CSE
+Ticker: USGD
+Primary Commodity: Cu
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.18.2024, 1:00:00 PM
+
+# American Pacific Receives US$10 Million and 100% Interest in the Palmer VMS Project in Alaska
+
+Vancouver, British Columbia--(Newsfile Corp. - November 18, 2024) - **American Pacific Mining Corp. (CSE: USGD) (FSE: 1QC) (OTCQX: USGDF)**("**American Pacific** " or the "**Company** ") announced today that it has entered into an agreement (the "**Purchase Agreement** ") with Constantine North Inc. ("**CNI** ") and Dowa Metals & Mining Alaska Ltd. ("**Dowa** ") to acquire Dowa's interest in Constantine Mining LLC (the "**Dowa Interest** "), the holder of the Palmer VMS Project ("**Palmer** " or the "**Project** "). Pursuant to the terms of the Purchase Agreement executed November 15th, 2024, CNI, a wholly-owned subsidiary of American Pacific, will acquire the Dowa Interest from Dowa and Dowa will pay US$10,000,000 to American Pacific in exchange for providing Dowa with an option to acquire up to 50% of the zinc concentrate produced at the Project for the initial year of production and each subsequent year of production at the Project and the provision of certain indemnities in the Purchase Agreement. The completion of the transactions contemplated by the Purchase Agreement are subject to customary conditions precedent in favour of American Pacific, CNI and Dowa. Following the acquisition of the Dowa Interest, American Pacific will have consolidated a 100%-interest in the Project.
+
+American Pacific would like to thank Dowa for its collaborative approach to work at Palmer over the years. Given the differing corporate priorities of Dowa and American Pacific, the Company is pleased to have regained 100%-ownership and control of Palmer. 
+
+Warwick Smith, American Pacific's Chief Executive Officer stated:
+
+"_This is a transformative transaction for American Pacific. American Pacific receives a significant injection of capital and 100%-control of a Project that has an established mineral resource with significant exploration upside throughout the district."_
+
+_"An updated mineral resource estimate (MRE) is underway, and this transition consolidates ownership and provides a clear path forward with a renewed focus on advanced exploration and resource expansion, which we believe will create significant value for a Project that currently includes a small fraction of the known VMS showings in the current MRE."_
+
+Following the closing, American Pacific is expected to have more than CDN$16 million in cash and two 100%-controlled flagship assets in the Madison Project in Montana and Palmer in Alaska. The transaction is expected to close during the fourth quarter of 2024.
+
+**Transaction Update Webinar**
+
+A transaction update webinar is scheduled for 10:00am Pacific Time (1:00pm Eastern Time) today, November 18th, 2024. 
+
+To join, the webinar, click the Zoom Webinar Access link below, or contact [info@americanpacific.ca](mailto:info@americanpacific.ca).
+
+[ZOOM WEBINAR ACCESS](https://api.newsfilecorp.com/redirect/oLYVyHMYMj)
+
+**Palmer VMS Project**
+
+The Palmer VMS Project is an advanced stage copper-zinc-gold-silver exploration project in Southeast Alaska with road access and located only 60 kilometres (37 miles) from the deep seaport at Haines, Alaska. More than US$116 million has been spent to-date at Palmer, with NI-43-101 mineral resources defined at the Palmer and AG Deposits. Recent drilling (2023-2024) has highlighted the potential to define extremely rich copper zones and the Palmer Project includes numerous drill-ready, high-grade prospects that define more than 15 kilometres of favourable mineral trends, all hallmarks of a significant massive sulphide system.
+
+**Qualified Person Statement**
+
+The technical information in this news release regarding the Palmer Project has been reviewed and approved by Michael Vande Guchte, P.Geo., Vice President of Exploration for the Palmer Project and a Qualified Person (QP) as defined by National Instrument 43-101, Standards of Disclosure for Mineral Projects. 
+
+**About American Pacific Mining Corp.**
+
+American Pacific Mining Corp. is a precious and base metals explorer and developer focused on opportunities in the Western United States. The Company has two flagship assets: 100%-owned Palmer Project, a Volcanic Massive Sulphide-Sulphate (VMS) project in Alaska, and the 100%-owned Madison Project, a past-producing copper-gold project in Montana. For the Madison transaction, American Pacific was selected as a finalist in both 2021 and 2022 for 'Deal of the Year' at the S&P Global Platts Global Metals Awards, an annual program that recognizes exemplary accomplishments in 16 performance categories. Also, in American Pacific's asset portfolio are three high-grade, precious metals projects located in key mining districts of Nevada, USA: the Ziggurat Gold project, the Gooseberry Silver-Gold project; and the Tuscarora Gold-Silver project. The Company's mission is to grow by the drill bit and by acquisition.
+
+**On behalf of the American Pacific Mining Corp Board of Directors:**
+
+**Warwick Smith, CEO & Director**  
+Corporate Office: Suite 910 - 510 Burrard Street   
+Vancouver, BC, V6C 3A8 Canada
+
+**Investor relations contact:**
+
+**Kristina Pillon, High Tide Consulting Corp.**  
+604.908.1695 / [Kristina@americanpacific.ca](mailto:Kristina@americanpacific.ca)
+
+**Media relations contact:**
+
+**Adam Bello, Primoris Group Inc.**  
+416.489.0092 / [media@primorisgroup.com](mailto:media@primorisgroup.com)
+
+Full disclosure can be found in our NI 43-101 Technical Report for the Palmer Project at [www.americanpacificmining.com](https://api.newsfilecorp.com/redirect/PLp5EHLkLW).
+
+_**The Canadian Securities Exchange has neither approved nor disapproved the contents of this news release.**_
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/230311](https://api.newsfilecorp.com/redirect/O3gBRf7V7V)
+
+### Project Name
+
+[Palmer Project](/?gid=1140)
+
+--- Detailed Quote ---
+
+Last: 0.225                       Open: 0.235
+High: 0.24                       Bid: 0.225
+Bid Size: 3000                   Beta: 3.2307
+Year High: 0.275                  Market Cap: 49.29m
+PB Ratio: 1.07                   EPS: 0.01
+Average Volume (30 Day): 143.10k    Volume: 128.30k
+Prev. Close: 0.225                Low: 0.22
+Ask: 0.23                        Ask Size: 11000
+VWAP: 0.22929                       Year Low: 0.105
+Total Shares: 219.09m               Shares Out: 219.09m
+PE Ratio: 22.50                   Float: 217.07m
+Exchange: CSE

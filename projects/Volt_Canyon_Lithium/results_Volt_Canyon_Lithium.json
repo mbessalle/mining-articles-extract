@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Volt_Canyon_Lithium/33038.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Volt Canyon Lithium",
+      "justification": "The authoritative project name is Volt Canyon Lithium, which is confirmed in the text: '...announces that the Company has staked 80 placer claims (MVS1–MVS80) covering approximately 635 hectares of alluvial sediments and clays located 122 km northeast of Tonopah, Nevada (the “Volt Canyon Lithium Property”).'"
+    },
+    "company_name": {
+      "value": "Grid Battery Metals Inc.",
+      "justification": "The authoritative company name is Grid Battery Metals Inc. The article refers to the company as Nickel Rock Resources Inc. ('Nickel Rock Resources Inc. (the “Company” or “Nickel Rock”)'), which was the company's name at the time of the announcement before it was changed to Grid Battery Metals Inc."
+    },
+    "ceo_buyer": {
+      "value": "Tim Fernback",
+      "justification": "Mr. Tim Fernback, Nickel Rock’s President & CEO comments..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is a claim staking ('the Company has staked 80 placer claims'). Staking new claims implies the acquisition of a 100% interest in the mineral rights."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The authoritative primary commodity is Li, which is confirmed in the text: 'Nickel Rock Adds an Additional Lithium Project in Nevada to its Property Portfolio' and 'The Volt Canyon Lithium Property is sediment-hosted lithium clay targets.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Nickel Rock Resources Inc. (now Grid Battery Metals Inc.), is listed on the TSX Venture Exchange ('TSXV:NIC'), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a claim staking, not a purchase from another company. No cash consideration was mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a claim staking. No share consideration was mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was a claim staking. No combined cash and share consideration was mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was a claim staking. No shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an 'intention to rapidly evaluate the lithium potential' but does not state a specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 635,
+      "justification": "the Company has staked 80 placer claims (MVS1–MVS80) covering approximately 635 hectares of alluvial sediments and clays located 122 km northeast of Tonopah, Nevada (the “Volt Canyon Lithium Property”)."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "the Company has staked 80 placer claims (MVS1–MVS80) covering approximately 635 hectares of alluvial sediments and clays located 122 km northeast of Tonopah, Nevada (the “Volt Canyon Lithium Property”)."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is early stage and does not contain a mineral resource estimate, stating 'Minimal work has been conducted on the project to date'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CELL",
+      "justification": "The authoritative ticker and exchange provided are TSXV and CELL. The article lists the company's ticker at the time of the announcement as 'TSXV:NIC'."
+    }
+  }
+}

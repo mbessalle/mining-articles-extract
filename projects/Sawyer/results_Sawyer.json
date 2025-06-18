@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Sawyer/30640.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sawyer",
+      "justification": "The text states the agreement is for the 'historic Sawyer Gold Mine Property (\"Sawyer\" or the \"Property\")'."
+    },
+    "company_name": {
+      "value": "Pancontinental Resources Corporation",
+      "justification": "The text clearly identifies the acquiring company: 'Pancontinental Resources Corporation (TSXV: PUC) (OTCQB: PUCCF) (\"Pancon\" or the \"Company\") has entered into an exploration lease and purchase option agreement...'. This contradicts the authoritative metadata of 'Carolina Rush Corporation'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Pancontinental Resources Corporation, is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement provides an option to acquire 100% of the property, as stated: 'Pancon has the exclusive option to purchase the Property (in order to develop new mining operations) at anytime during the Agreement...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is repeatedly referred to as a gold mine, for example: 'Pancon Acquires Historic Sawyer Gold Mine, North Carolina' and 'The Sawyer Mine property has an Historic gold resource estimate (2021) which contains 3.9 million tonnes at 1.1 g/t Au for 134,600 ounces of gold...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/153089",
+      "justification": "The article is titled 'Pancon Acquires Historic Sawyer Gold Mine, North Carolina' and details the transaction for the Sawyer project, which is the primary project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is specified in the agreement terms for future payments: 'Advanced Royalty Payments of US$25,000 per year...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not include any upfront cash payments. The text specifies: 'No cash payments for years one to five (1-5) of the Initial Term'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of any share payments as part of the agreement terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "There is no mention of a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "There is no mention of any shares being issued as part of the agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of any share warrant payments in the agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of any option payments in the agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "There is no mention of shares being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement details do not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement details do not specify any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a 2% NSR as part of the transaction terms: 'Pancon grants a 2% net smelter royalty (\"NSR\"), subject to the ability of Pancon to purchase 1% of the NSR for a purchase price of US$5,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 54.6,
+      "justification": "The text states the size of the property: 'The 54.6 hectare (135 acre) property is located 5.0 km southwest along trend from the Company's recently announced New Sawyer mine acquisition...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified in the text: 'The 54.6 hectare (135 acre) property...'"
+    },
+    "resource_size": {
+      "value": "3.9 million tonnes at a grade of 1.1 g/t Au containing 134,600 ounces of gold, based on a cut off grade of 0.4 g/t Au",
+      "justification": "The text provides a historic resource estimate: 'The resource evaluation estimates a mineral resource of 3.9 million tonnes at a grade of 1.1 g/t Au containing 134,600 ounces of gold, based on a cut off grade of 0.4 g/t Au.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PUC",
+      "justification": "The text explicitly states the buyer's ticker and exchange: 'Pancontinental Resources Corporation (TSXV: PUC) (OTCQB: PUCCF)'. This contradicts the authoritative metadata ticker of 'RUSH'."
+    }
+  }
+}

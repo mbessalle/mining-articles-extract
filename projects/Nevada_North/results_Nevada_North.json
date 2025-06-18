@@ -1,0 +1,96 @@
+{
+  "source_files": [
+    "projects/Nevada_North/38496.txt",
+    "projects/Nevada_North/42958.txt",
+    "projects/Nevada_North/45507.txt",
+    "projects/Nevada_North/69086.txt",
+    "projects/Nevada_North/69089.txt",
+    "projects/Nevada_North/77178.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nevada North",
+      "justification": "The authoritative project name is Nevada North. The text confirms this multiple times: 'About the Nevada North Lithium Project', 'The Company owns the Nevada North Lithium Project...'"
+    },
+    "company_name": {
+      "value": "Surge Battery Metals Inc.",
+      "justification": "The buyer is identified in the first sentence of multiple press releases: 'Surge Battery Metals Inc. (TSXV: NILI) (OTC PINK: NILIF) (FSE: DJ5C) (the \"Company\" or \"Surge\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Greg Reimer",
+      "justification": "The CEO of the buyer, Surge Battery Metals Inc., is identified at the end of the press releases: 'Greg Reimer, President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "This represents the acquisition of the M3M / Texas Springs properties. While other mineral rights were acquired, this was the most significant single transaction. A purchase agreement superseded an earlier option agreement, resulting in full ownership: 'Upon closing of the Purchase Agreement, Surge will own a one hundred (100%) percent right, title and interest in and to the Properties...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The text repeatedly refers to the project as a lithium project: 'Surge Battery Metals Announces 100% Increase in Land Position at Nevada North Lithium Project' and 'The project focuses on exploring clean, high-grade lithium energy metals in Nevada, USA.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/174941",
+      "justification": "The articles provided are all press releases from Surge Battery Metals Inc. or M3 Metals Corp. regarding transactions related to the Nevada North Lithium Project. The link provided is the first announcement in the series."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "One of the transactions explicitly uses USD. Given the project is in Nevada, USA, USD is inferred for the other cash payments. 'The closing of the acquisition of the Wilkins Interest has now occurred with payment to the Wilkins Family of USD$50,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 550000,
+      "justification": "This is the sum of cash payments from two separate transactions. 1) The initial M3M deal: 'Surge has acquired an initial fifty (50%) percent interest in the M3M Lands by way of payment of $500,000 to M3M...'. 2) The Wilkins Family deal: '...payment to the Wilkins Family of USD$50,000...'. Total = $500,000 + $50,000 = $550,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Not populated because the number of shares and a price per share are available, which takes priority according to the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Not populated because separate cash and share components are available, which takes priority according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 4750000,
+      "justification": "This is the sum of shares from three separate agreements. 1) M3M initial deal: 'issuance of a total of 2,000,000 of Surge's common shares to M3M'. 2) Wilkins Family deal: 'issuance of a total of 1,250,000 shares'. 3) Y3-II deal: 'issuance of a total of 300,000 shares'. 4) M3M final purchase: 'issuance to M3M of a total of 1,200,000 common shares'. Total = 2,000,000 + 1,250,000 + 300,000 + 1,200,000 = 4,750,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Stock options were granted to directors, officers, and consultants, but not as consideration for the property acquisitions. 'The Company also wishes to announce that it has granted a total of 2,850,000 stock options... to certain directors, officers, and consultants.'"
+    },
+    "issued_share_price": {
+      "value": 0.275,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the first announcement: 'Last: 0.275'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "An exploration commitment of $250,000 was part of the original option agreement with M3M. However, this agreement was explicitly terminated and replaced: 'The Option Agreement, and all rights and obligations under it, has been terminated by the Purchase Agreement.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was mentioned as part of any transaction."
+    },
+    "coverage_area_raw": {
+      "value": 880,
+      "justification": "This area relates to the acquisition of mineral rights on private lands within the project boundaries. '...the Company entered into two mineral property purchase agreements to purchase a total twenty-five (25%) of the mineral rights (the \"Mineral Rights\") to private lands comprising approximately 880 acres (the \"Private Lands\")...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "'...private lands comprising approximately 880 acres (the \"Private Lands\")...'"
+    },
+    "resource_size": {
+      "value": "8.65 Mt of Lithium Carbonate Equivalent (LCE) grading 2,951 ppm Li at a 1,250 ppm cutoff",
+      "justification": "The most recent resource estimate is provided in the October 31, 2024 press release: 'The Nevada North Lithium Project has a pit-constrained Inferred Resource containing an estimated 8.65 Mt of Lithium Carbonate Equivalent (LCE) grading 2,951 ppm Li at a 1,250 ppm cutoff.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NILI",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Surge Battery Metals Inc. (TSXV: NILI)...'"
+    }
+  }
+}

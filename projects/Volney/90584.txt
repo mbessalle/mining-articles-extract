@@ -1,0 +1,62 @@
+--- Article Metadata ---
+Project Name: Volney
+Company Name: Lion Rock Resources Inc.
+Exchange: TSXV
+Ticker: ROAR
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.11.2025, 12:20:00 PM
+
+# Lion Rock Closes Option Agreement with Tinton Partners
+
+Vancouver, British Columbia--(Newsfile Corp. - March 11, 2025) - Lion Rock Resources Inc. **(TSXV: ROAR) (FSE: KGB1)**(the "**Company** " or "**Lion Rock** ") is pleased to announce, that further to its news release of October 9, 2024, the TSX Venture Exchange has approved and the Company has closed the option agreement dated October 7, 2024 (the "**Option Agreement** ") between the Company, as optionee, and Tinton Partners and The Tinton Land, LLC, as optionors (together, the "**Optionor** "), pursuant to which the Optionor has granted to the Company the exclusive right and option to acquire an undivided 100% interest in the Volney property (the "**Volney Project** ").
+
+The terms of the Option Agreement are set out in the Company's news release dated October 9, 2024. Pursuant to its obligations under the Option Agreement, the Company has issued 7,001,000 common shares of the Company (the "**Initial Consideration Shares** ") to Tinton Partners. The Initial Consideration Shares are subject to a four month hold period expiring on July 11, 2025.
+
+On March 11, 2025, the Company filed a technical report regarding the Volney Project which can be found under the Company's SEDAR+ profile at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/DZRZPsZrwe).
+
+The Volney Project is comprised of 38 private land claims totaling 142 ha in the Black Hills. The property is located 20 km south of Spearfish, South Dakota and approximately 15 km west of Leads. Pegmatites are within a Neoarchean greenstone belt, featuring the Giant Volney pegmatite, historically mined for tin. The property is accessible by road and strategically located with proximity to infrastructure and major mining jurisdiction. 
+
+The Company also announces that a total of 5,700,000 incentive stock options have been granted to directors, officers, consultants and employees of the Company pursuant to the Company's stock option plan. The options are exercisable for a period of three years at a price of $0.20 per share and shall vest immediately.
+
+**About Lion Rock Resources Inc.**
+
+Lion Rock has an option to acquire the Volney Gold/Lithium Project, comprised of private land claims located 20 km south of Spearfish, South Dakota. The property features the Giant Volney pegmatite, historically mined for high grade lithium and tin, as well as gold from the adjacent shear zone. The property is accessible by road and strategically located with proximity to infrastructure and major mining jurisdiction. The Company also holds properties prospective for gold, copper and lithium in Ontario and Quebec.
+
+**On Behalf of the Board**
+
+R. Dale Ginn, President & Chief Executive Officer  
+O: 604-678-5308  
+E: [dale@rsdcapital.com ](mailto:dale@rsdcapital.com)
+
+_**Caution Regarding Forward-Looking Information**_
+
+ _Certain statements contained in this news release may constitute "forward-looking information" within the meaning of Canadian securities legislation. Forward-looking information is often, but not always, identified by the use of words such as "anticipate", "plan", "estimate", "expect", "may", "will", "intend", "should", "potential", "indicative" and similar expressions. Forward-looking information involves known and unknown risks, uncertainties and other factors that may cause actual results or events to differ materially from those anticipated in such forward-looking information. The Company's actual results could differ materially from those anticipated in this forward-looking information as a result of risks and uncertainties inherent in the exploration and development of mineral properties, fluctuations in commodity prices, counterparty risk, market conditions, regulatory decisions, competitive factors in the industries in which the Company operates, prevailing economic conditions, changes to the Company's strategic growth plans, and other factors, many of which are beyond the control of the Company. The Company believes that the expectations reflected in the forward-looking information are reasonable, but no assurance can be given that these expectations will prove to be correct and such forward-looking information should not be unduly relied upon. Any forward-looking information contained in this news release represents the Company's expectations as of the date hereof and is subject to change after such date. The Company disclaims any intention or obligation to update or revise any forward-looking information whether as a result of new information, future events or otherwise, except as required by applicable securities legislation._
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSXV Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/244051](https://api.newsfilecorp.com/redirect/rvevQCPAOp)
+
+### Project Name
+
+[Volney Project](/?gid=8737)
+
+--- Detailed Quote ---
+
+Last: 0.23            $  Chg: 0.01
+Open: 0.22            High: 0.23
+Bid: 0.23             Bid Size: 1000
+Beta: -0.48224            Year High: 0.355
+Market Cap: 18.07m      PB Ratio: -9.79
+EPS: -0.06             Average Volume (30 Day): 157.89k
+Volume: 99.93k          % Chg: 4.55%
+Prev. Close: 0.22     Low: 0.21
+Ask: 0.245             Ask Size: 1000
+VWAP: 0.21525            Year Low: 0.105
+Total Shares: 78.57m    Shares Out: 78.61m
+Float: 69.34m           Exchange: TSXV

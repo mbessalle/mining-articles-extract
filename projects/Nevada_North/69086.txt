@@ -1,0 +1,54 @@
+--- Article Metadata ---
+Project Name: Nevada North
+Company Name: Surge Battery Metals Inc.
+Exchange: TSXV
+Ticker: MT
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+8.22.2024, 2:00:00 PM
+
+# M3 Sells Texas Spring Property
+
+West Vancouver, British Columbia--(Newsfile Corp. - August 22, 2024) - **M3 metals Corp. (TSXV: MT) (OTCQB: MLGCF) (FSE: XOV) (the "Company" or "M3 Metals")** is pleased to announce that M3 Metals and Surge Battery Metals ("Surge") have entered into a property purchase and sale agreement (the "Purchase Agreement") whereby M3 Metals, in consideration of the issuance to M3 Metals of a total of 1,200,000 common shares of the Company, will sell to Surge all of its right, title and interest in and to the Texas Springs Properties (the "Properties") in the area of Surge's Nevada North Lithium Project. 
+
+The Properties, which M3 Metals and Surge each own fifty (50%) percent of, were the subject of a mineral property option agreement (the "Option Agreement") dated effective July 26, 2023. The Option Agreement, and all rights and obligations under it, has been terminated by the Purchase Agreement. 
+
+Upon closing of the Purchase Agreement, Surge will own a one hundred (100%) percent right, title and interest in and to the Properties and M3 Metals will execute quit claim deeds to the Properties which will be in registrable form for (and will be registered in) Elko County, Nevada. 
+
+More information concerning the Properties, including their location and number, can be found in the news releases of M3 Metals dated July 26, 2023. 
+
+The Purchase Agreement is subject to its acceptance for filing with the TSX Venture Exchange. 
+
+M3 Metals Corp. is a Canadian listed Company, focused on creating shareholder value through discoveries and strategic development of mineral properties in North America. For additional information please visit M3 Metals website at [www.m3metalscorp.com](https://api.newsfilecorp.com/redirect/QORqot2K1M). You may also email [info@m3metalscorp.com](mailto:info@m3metalscorp.com) or call investor relations at (604) 669-2279.
+
+**M3 METALS CORP.**  
+_"Kosta Tsoutsis"_  
+Kosta Tsoutsis, CEO
+
+ _NEITHER THE TSX VENTURE EXCHANGE NOR ITS REGULATION SERVICES PROVIDER (AS THAT TERM IS DEFINED IN THE POLICIES OF THE TSX VENTURE EXCHANGE) ACCEPTS RESPONSIBILITY FOR THE ADEQUACY OR ACCURACY OF THIS RELEASE._
+
+This document may contain certain "Forward-Looking Statements" within the meaning of the United States Private Securities Litigation Reform Act of 1995 and applicable Canadian securities laws. When used in this news release, the words "anticipate", "believe", "estimate", "expect", "target, "plan" or "planned", "possible", "potential", "forecast", "intend", "may", "schedule" and similar words or expressions identify forward-looking statements or information. These forward-looking statements or information may relate to future prices of commodities including lithium, the accuracy of mineral or resource exploration activity, reserves or resources, regulatory or government requirements or approvals including approvals of title and mining rights or licenses and environmental, local community or indigenous community approvals, the reliability of third party information, continued access to mineral properties or infrastructure or water, changes in laws, rules and regulations including in Canada, the United States, Nevada or California or any other jurisdiction which may impact upon the Company or its properties or the commercial exploitation of those properties, currency risks including the exchange rate of USD$ for Cdn$ or other currencies, fluctuations in the market for lithium related products, changes in exploration costs and government royalties, export policies or taxes in the United States or any other jurisdiction and other factors or information. The Company's current plans, expectations, and intentions with respect to development of its business and of its properties may be impacted by economic uncertainties arising out of any pandemic or by the impact of current financial and other market conditions (including US government subsidies or incentives) on its ability to secure further financing or funding of its properties. Such statements represent the Company's current views with respect to future events and are necessarily based upon several assumptions and estimates that, while considered reasonable by the Company, are inherently subject to significant business, economic, competitive, political, environmental (including endangered species, habitat preservation and water related risks) and social risks, contingencies, and uncertainties. Many factors, both known and unknown, could cause results, performance, or achievements to be materially different from the results, performance or achievements that are or may be expressed or implied by such forward-looking statements. The Company does not intend, and does not assume any obligation, to update these forward-looking statements or information to reflect changes in assumptions or changes in circumstances or any other events affecting such statements and information other than as required by applicable laws, rules, and regulations.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/220713](https://api.newsfilecorp.com/redirect/m3X2WIA0yY)
+
+### Project Name
+
+[Nevada North Project](/?gid=3474)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.20                       Bid: 0.20
+Bid Size: 3000                   Beta: -0.85469
+Year High: 0.41                  Market Cap: 2.05m
+PB Ratio: 0.86                   EPS: -0.10
+Average Volume (30 Day): 682    Prev. Close: 0.20
+Ask: 0.265                        Ask Size: 10000
+VWAP: 0.20                       Year Low: 0.17
+Total Shares: 10.27m               Shares Out: 10.27m
+Float: 7.20m                      Exchange: TSXV

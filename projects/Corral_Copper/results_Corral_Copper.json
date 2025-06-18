@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Corral_Copper/31826.txt",
+    "projects/Corral_Copper/40782.txt",
+    "projects/Corral_Copper/45690.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Corral Copper",
+      "justification": "The primary project of interest is stated as Corral Copper, and the documents consistently refer to it, for example: 'Intrepid Metals Corp. (TSXV:INTR) (\"Intrepid\" or the \"Company\") is pleased to introduce its new district scale, advanced exploration copper property, the Corral Copper Project, in Cochise County, Arizona.'"
+    },
+    "company_name": {
+      "value": "Intrepid Metals Corp.",
+      "justification": "The acquiring company is identified in the text: 'Intrepid Metals Corp. (TSXV:INTR) (\"Intrepid\" or the \"Company\") is pleased to introduce its new district scale, advanced exploration copper property, the Corral Copper Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Ken Brophy",
+      "justification": "The CEO of the buyer, Intrepid Metals Corp., is named in the press releases: '\"Ken Brophy\" CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text describes an option agreement to acquire the MAN Property as part of the Corral Copper project consolidation: 'The terms of the Agreement give Intrepid the option to acquire a 100% interest in the Property in return for certain cash and common share (\"Share\") payments to MMO.'"
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is explicitly named the 'Corral Copper Project' and the text mentions 'significant shallow copper intercepts, including 126.2 metres of 1.24% copper'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/741061/Intrepid-Metals-Introduces-the-Corral-Copper-Project-a-New-District-Scale-Exploration-Project-in-Arizona",
+      "justification": "The article at this link is titled 'Intrepid Metals Introduces the Corral Copper Project, a New District Scale, Exploration Project in Arizona', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction terms for the MAN property acquisition is explicitly stated: 'The consideration is as follows and all dollar values are United States dollars:'"
+    },
+    "cash_payments_raw": {
+      "value": 2260000,
+      "justification": "The total cash consideration for the acquisition of the MAN property is detailed in a table, summing all milestone payments: 'Totals | $2,260,000 | 12,000,000 Shares'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but a total monetary value for these shares is not provided, only the number of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 12000000,
+      "justification": "The total number of shares to be issued for the acquisition of the MAN property is detailed in a table: 'Totals | $2,260,000 | 12,000,000 Shares'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', there are no separate monetary payments specified as 'option payments' in the consideration table."
+    },
+    "issued_share_price": {
+      "value": 0.43,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.43'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment value is mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 9600,
+      "justification": "The most recent press release states the total consolidated area of the project: 'With the addition of the MAN Property, the Corral Copper Project now totals over 9,600 acres (15 Square miles)...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the project area is specified in the text: 'With the addition of the MAN Property, the Corral Copper Project now totals over 9,600 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention historical drill intercepts (e.g., '126.2 metres of 1.24% copper'), but do not provide a formal mineral resource estimate with mass or volume units such as tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:INTR",
+      "justification": "The company's stock exchange and ticker symbol are provided in the text: 'Intrepid is traded on the TSX Venture Exchange (TSX-V) under the symbol \"INTR\"'."
+    }
+  }
+}

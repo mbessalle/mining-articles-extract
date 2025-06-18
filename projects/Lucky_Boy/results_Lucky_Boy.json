@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Lucky_Boy/47177.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lucky Boy",
+      "justification": "The text states: \"...it has successfully earned a 100% interest in the Company's past producing 'Lucky Boy Property' located in Arizona, USA...\""
+    },
+    "company_name": {
+      "value": "Oberon Uranium Corp.",
+      "justification": "The acquiring company is identified as \"OBERON URANIUM CORP.(CSE: OBRN) ('Oberon' or the 'Company').\""
+    },
+    "ceo_buyer": {
+      "value": "Lawrence Hay",
+      "justification": "The press release is signed 'On Behalf of the Board of Directors \"_Lawrence Hay\"_ President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text announces that the company \"has successfully earned a 100% interest in the Company's past producing 'Lucky Boy Property'\"."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text refers to the project as the \"Lucky Boy Uranium Property\" and the company as \"Oberon Uranium Corp.\", which aligns with the authoritative metadata."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/194187",
+      "justification": "The article is titled 'Oberon Uranium Corp. Successfully Earns 100% Interest in the Lucky Boy Property', which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD). The text mentions a price in dollars: '...each share issued at a deemed price of $0.05 per share...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration was paid entirely in shares, not cash, as per the financial extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms provided the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms provided the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 250000,
+      "justification": "The text states: \"To exercise the option, the Company issued an aggregate of 250,000 common shares of the Company to the optionor...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction was the exercise of an option, but the payment itself was made in shares, not separate option payments."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The text specifies the share price: \"...each share issued at a deemed price of $0.05 per share for aggregate consideration of $12,500.\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Lucky Boy Property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the coverage area of the Lucky Boy Property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the property as 'past producing' but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:OBRN",
+      "justification": "The company's name is followed by its ticker and exchange in the text: \"OBERON URANIUM CORP.(CSE: OBRN)\"."
+    }
+  }
+}

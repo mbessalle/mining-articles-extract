@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Lo_Herma/85818.txt",
+    "projects/Lo_Herma/85818_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lo Herma",
+      "justification": "The project is identified multiple times, for example: 'Staking Finalised at the Lo Herma ISR Uranium Project'."
+    },
+    "company_name": {
+      "value": "GTI Energy Ltd",
+      "justification": "The company is identified as: 'GTI Energy Ltd (GTI or Company)'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The document is an operational update, not an M&A announcement. There is no buyer or seller mentioned. A director, Bruce Lane, is mentioned but he is not identified as the CEO."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The document is an operational update and does not mention the acquisition of an interest in the project from another party."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is described as the 'Lo Herma ISR Uranium Project' and resource estimates are given in 'U3O8'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the Lo Herma project, but no article URL is present in the source documents."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The company's ticker is listed on the ASX ('ASXGTR'), which implies the currency is Australian Dollars (AUD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document is not an M&A announcement and does not mention any cash payments for an acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document is not an M&A announcement and does not mention any share payments for an acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document is not an M&A announcement and does not mention any combined cash and share payments for an acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document mentions the vesting of performance rights but does not state that any shares have been issued as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document is not an M&A announcement and does not mention an issue price for shares related to a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions 'drilling of at least 10,000 meters', but this was a historical condition for the vesting of performance rights, not a forward-looking exploration commitment as part of a new transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the document."
+    },
+    "coverage_area_raw": {
+      "value": 443,
+      "justification": "The company secured rights for additional claims: 'the Company secured staking rights for 23 additional claims (443 acres) to extend the Lo Herma project area'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the newly staked area is specified as acres: 'the Company secured staking rights for 23 additional claims (443 acres) to extend the Lo Herma project area'."
+    },
+    "resource_size": {
+      "value": "6.21 million tonnes at an average grade of 630 PPM eU3O8 containing 8.57 million pounds U3O8",
+      "justification": "A table in the document provides the mineral resource for the project: 'GTI WYOMING MINERAL RESOURCES TONNES (Millions) AVERAGE GRADE (PPM eU3O8) CONTAINED U3O8 (Million Pounds) LO HERMA MRE (I&I) – UPDATED 12/12/2024 6.21 630 8.57'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:GTR",
+      "justification": "The authoritative metadata provides the ticker GTR and exchange ASX. The document confirms the ASX listing with the code 'ASXGTR'."
+    }
+  }
+}

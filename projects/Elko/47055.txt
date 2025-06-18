@@ -1,0 +1,62 @@
+--- Article Metadata ---
+Project Name: Elko
+Company Name: Sienna Resources Inc.
+Exchange: TSXV
+Ticker: SIEN
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.11.2024, 12:23:00 AM
+
+# Sienna Resources Inc. Increases Size of "Elko Lithium Project" in Elko County, Nevada
+
+Vancouver, British Columbia--(Newsfile Corp. - January 10, 2024) - Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) ("Sienna" or the "Company") is pleased to announce that it has increased its acreage for a total of 1,839 contiguous acres on its "Elko Lithium Project" in Elko County, Nevada. This project is directly bordering Surge Battery Metals' (NILI) "Nevada North Lithium Project" in Elko County, Nevada. According to the news dated September 12, 2023 from Surge, "The first certified analytical results for the 2023 summer drilling program at Surge Battery Metals Inc.'s Nevada North lithium project (NNLP) have returned multiple zones of high values ranging from 1,000 parts per million to 8,070 ppm lithium, the highest grades for exploration to date on the Nevada North Lithium Project." Sienna management cautions that past results or discoveries on properties in proximity to Sienna may not necessarily be indicative of the presence of mineralization on the company's properties. The Company also wishes to announce an update regarding the first phase of drilling in Nevada. The initial drill program was moved forward quickly in hopes to beat the weather. This part of Nevada is difficult to work in during the winter and the location was chosen primarily due to ease of location for equipment access. The drill was planning to reach 1,000 feet as the location was a little higher up topographically than the formation in the valley below. The hole was only able to get to 450 feet due to weather, therefore it didn't test the full depth of the planned hole during this phase. The assays from the one hole drilled did not return economic grades of lithium. A follow up plan is being formulate now with this new data in hand.
+
+Jason Gigliotti, President of Sienna, states, "With the spring and summer work season upcoming, we are formulating plans to expand the work program on this project and have sufficient cash on hand to do this. We are also expecting to be active in Clayton Valley as well."
+
+About Sienna Resources Inc.
+
+Sienna has recently acquired the "Elko Lithium Project" in Elko County, Nevada. This project consists of approximately 1200 contiguous acres directly bordering Surge Battery Metals' (NILI) "Nevada North Lithium Project" in Elko County, Nevada. Sienna is also one of the larger landholders in Clayton Valley Nevada. Sienna's Clayton Valley projects include the Blue Clay Lithium Project, the Silver Peak South Project, and the Clayton Valley Deep Basin Lithium Project. Clayton Valley is home to the only lithium production in North America, being Albemarle Corp's Silver Peak deposit. This project is also near Tesla Motors Inc.'s Gigafactory in Nevada. On March 18, 2021, Schlumberger New Energy Venture announced the development of a lithium extraction pilot plant through its new venture, NeoLith Energy in a strategic partnership with Pure Energy. The deployment of the pilot plant will be in Clayton Valley, Nevada, USA. The NeoLith Energy sustainable approach uses a differentiated direct lithium extraction (DLE) process to enable the production of high-purity, battery-grade lithium material while reducing the production time from over a year to weeks. Results from this pilot plant are expected in 2023 and could have a significant impact on the brine prospects within Clayton Valley Nevada as Sienna is located in the deepest section of this brine deposit. One other project Sienna has is the 'Marathon North Platinum-Palladium Property' in Northern Ontario directly bordering Generation Mining Marathon Deposit.
+
+Qualified Person:
+
+Mr. Frank Bain, PGeo, a qualified person as defined by National Instrument 43-101 has reviewed and approved the scientific and technical disclosure contained within this news release.
+
+If you would like to be added to Sienna's email list, please email [info@siennaresources.com](mailto:info@siennaresources.com) for information or join our twitter account at [@SiennaResources](https://api.newsfilecorp.com/redirect/V7xwycb35z).
+
+Contact Information   
+Tel: 1.604.646.6900  
+Fax: 1.604.689.1733  
+[www.siennaresources.com](https://api.newsfilecorp.com/redirect/DZq0LFgVED)  
+[info@siennaresources.com](mailto:info@siennaresources.com)
+
+"Jason Gigliotti"  
+President, Director  
+Sienna Resources Inc.
+
+_Statements in this news release that are not historical facts are forward-looking statements. Forward-looking statements are statements that are not historical, and consist primarily of projections - statements regarding future plans, expectations and developments. Words such as "expects", "intends", "plans", "may", "could", "potential", "should", "anticipates", "likely", "believes" and words of similar import tend to identify forward-looking statements. Forward-looking statements in this news release include uncertainty of exploration and development plans regarding the property; commodity price fluctuations; political or economic instability and regulatory changes; currency fluctuations, the state of the capital markets; uncertainty in the measurement of mineral reserves and resource estimates; the Company's ability to attract and retain qualified personnel and management; potential labour unrest; reclamation and closure requirements for mineral properties and the availability of capital to fund the Company's projects, as well as other risks and uncertainties identified under the heading "Risk Factors" in the Company's continuous disclosure documents filed on SEDAR. You are cautioned that the foregoing list is not exhaustive of all factors and assumptions which may have been used. The Company cannot assure you that actual events, performance or results will be consistent with these forward-looking statements, and management's assumptions may prove to be incorrect. These forward-looking statements reflect current expectations regarding future events and operating performance and speak only as of the date hereof and the Company does not assume any obligation to update forward-looking statements if circumstances or management's beliefs, expectations or opinions should change other than as required by applicable law. For the reasons set forth above, you should not place undue reliance on forward-looking statements._
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this press release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/193849](https://api.newsfilecorp.com/redirect/rvP7aF5nQE)
+
+### Project Name
+
+[Elko Project](/?gid=5336)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.145                       Bid: 0.14
+Bid Size: 12500                   Beta: 0.60171
+Year High: 0.55                  Market Cap: 2.94m
+PB Ratio: 1.29                   EPS: -0.10
+Average Volume (30 Day): 16.00k    Prev. Close: 0.145
+Ask: 0.15                        Ask Size: 53000
+VWAP: 0.145                       Year Low: 0.12
+Total Shares: 20.27m               Shares Out: 20.27m
+Float: 20.05m                      Exchange: TSXV

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Santa_Cruz/35070.txt",
+    "projects/Santa_Cruz/35612.txt",
+    "projects/Santa_Cruz/68225.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Santa Cruz",
+      "justification": "The project is consistently referred to as the 'Santa Cruz Copper Project' throughout the documents, for example: 'Ivanhoe Electric to Acquire 6,205 Acres of Private Land at the Santa Cruz Copper Project Near Casa Grande, Arizona'."
+    },
+    "company_name": {
+      "value": "Ivanhoe Electric Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press releases: 'Ivanhoe Electric (NYSE American:IE)(TSX:IE) Executive Chairman, Robert Friedland and President and Chief Executive Officer, Taylor Melvin are pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Taylor Melvin",
+      "justification": "The text identifies the CEO: 'Taylor Melvin, Ivanhoe Electric's President and Chief Executive Officer, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "A press release from August 13, 2024 states: 'Following this transaction, Ivanhoe Electric now owns 100% of the mineral and surface rights for the Santa Cruz Copper Project.'"
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is explicitly named the 'Santa Cruz Copper Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/754165/Ivanhoe-Electric-to-Acquire-6205-Acres-of-Private-Land-at-the-Santa-Cruz-Copper-Project-Near-Casa-Grande-Arizona",
+      "justification": "The article is titled 'Ivanhoe Electric to Acquire 6,205 Acres of Private Land at the Santa Cruz Copper Project Near Casa Grande, Arizona' and the content is entirely focused on this project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "A payment is specified with the currency: '...completed the final US$10 million payment to exercise its option...'"
+    },
+    "cash_payments_raw": {
+      "value": 126900000,
+      "justification": "This is the sum of two separate transactions. The land acquisition had a final price of $116.9 million ('At closing, Ivanhoe Electric paid a total of $34.3 million to the seller...Ivanhoe Electric has also issued a secured promissory note to the seller in the principal amount of approximately $82.6 million'). The mineral rights acquisition had a final payment of $10 million ('completed the final US$10 million payment to exercise its option'). The total is $116.9M + $10M = $126.9M."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described are for cash payments and a promissory note; there is no mention of shares being issued as consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payments are explicitly detailed, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "A payment was made to exercise an option, but this payment was cash and is included in the `cash_payments_raw` field. No payment was made to acquire the option itself in this announcement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in meters in the provided text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the provided text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 5975,
+      "justification": "An initial figure was updated in a later press release: 'The adjustment to the total acreage acquired of 5,975 acres is a result of final land surveys completed in the normal course of confirmatory due diligence.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the value: 'The adjustment to the total acreage acquired of 5,975 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as 'one of the largest and highest grade undeveloped copper resources in the United States' but does not provide a quantified mineral resource estimate with specific mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:IE",
+      "justification": "The company is identified as 'Ivanhoe Electric (NYSE American:IE)(TSX:IE)' and the detailed quote section lists 'Exchange: TSX'."
+    }
+  }
+}

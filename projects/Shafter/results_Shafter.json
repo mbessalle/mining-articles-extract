@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Shafter/41613.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Shafter",
+      "justification": "The definitive agreement is to acquire the 'Shafter silver deposit (the \"Shafter Project\" or the \"Project\")'."
+    },
+    "company_name": {
+      "value": "Silver Hammer Mining Corp",
+      "justification": "Silver Hammer Mining Corp. (CSE: HAMR) (the \"Company\" or \"Silver Hammer\") is pleased to announce that it has entered into a definitive share purchase agreement dated September 27, 2023 (the \"Purchase Agreement\") to acquire a 100% interest in the Shafter silver deposit..."
+    },
+    "ceo_buyer": {
+      "value": "Peter A. Ball",
+      "justification": "The press release is signed 'On Behalf of the Board of Silver Hammer Mining Corp. Peter A. Ball President & CEO, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Silver Hammer Mining Corp. ... is pleased to announce that it has entered into a definitive share purchase agreement ... to acquire a 100% interest in the Shafter silver deposit..."
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The project is referred to as the 'Shafter silver deposit' and the resource is measured in 'ounces (\"oz\") of silver (\"Ag\")'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/182163",
+      "justification": "The source link is provided at the end of the document: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/182163'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash consideration components are denominated in US dollars: 'cash of US$800,000', 'an additional cash payment of US$375,000', 'up to US$3,000,0000'."
+    },
+    "cash_payments_raw": {
+      "value": 4175000,
+      "justification": "The total cash consideration is an aggregate of multiple payments: an initial 'cash payment of US$800,000', 'an additional cash payment of US$375,000', and 'additional post-closing payments... in the aggregate amount of up to US$3,000,0000'. The sum is $800,000 + $375,000 + $3,000,000 = $4,175,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment is described by the number of shares and a deemed price, not a total raw value. Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the consideration are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 23000000,
+      "justification": "The consideration includes '23,000,000 shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned as part of a separate debt settlement with noteholders, not as direct consideration to the seller (Aurcana) for the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.25,
+      "justification": "Aurcana will receive ... 23,000,000 Newco Shares at a deemed price of $0.25 per Newco Share."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment is mentioned as part of the deal terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a 'low royalty burden' but does not specify any NSR being acquired or retained as part of this specific transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the project's coverage area in hectares, km2, or any other unit."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the project's coverage area."
+    },
+    "resource_size": {
+      "value": "10.8 million ounces (\"oz\") of silver (\"Ag\") in 1.152 million tons grading 9.38 oz/ton Ag (Measured and Indicated), and 6.3 million oz of silver in 0.823 million tons grading 7.67 oz/ton Ag (Inferred)",
+      "justification": "Updated NI 43-101 Mineral Resource technical report with an Effective Date of September 15, 2023, including Measured and Indicated resources of 10.8 million ounces (\"oz\") of silver (\"Ag\") in 1.152 million tons grading 9.38 oz/ton Ag, and Inferred resources of 6.3 million oz of silver in 0.823 million tons grading 7.67 oz/ton Ag."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HAMR",
+      "justification": "The acquiring company is identified as 'Silver Hammer Mining Corp. (CSE: HAMR)'."
+    }
+  }
+}

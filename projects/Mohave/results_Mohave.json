@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Mohave/34161.txt",
+    "projects/Mohave/65708.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mohave",
+      "justification": "The primary project of interest is named in the title of the press release: 'Pershing Resources Enters Lease Agreement with Right to Purchase 100% of the Mohave Project'."
+    },
+    "company_name": {
+      "value": "Pershing Resources Company Inc.",
+      "justification": "The acquiring company is identified as: 'Pershing Resources Company Inc. (\"**Pershing Resources** \" or the \"**Company** \") (OTC PINK:PSGR) is pleased to announce that it has entered into an agreement to acquire a 100% interest in the Mohave Project...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The press release for the buyer, Pershing Resources Company Inc., does not mention a CEO. It quotes a 'Director of Project Development' and a 'Director of Exploration'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows the company to 'earn a 100% interest in the Property (the \"**Option** \")'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is described as a 'low-sulphidation epithermal gold-silver vein complex' and a 'low-sulphidation epithermal gold-silver prospect'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/891036/pershing-resources-enters-lease-agreement-with-right-to-purchase-100-of-the-mohave-project",
+      "justification": "The article titled 'Pershing Resources Enters Lease Agreement with Right to Purchase 100% of the Mohave Project' directly concerns the acquisition of the Mohave project by Pershing Resources Company Inc."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment terms are explicitly denominated in US dollars: 'The agreement calls for the Company to pay a total of US$3,900,000 cash... Work expenditures totaling US$2,700,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 3900000,
+      "justification": "The agreement terms state: 'The agreement calls for the Company to pay a total of US$3,900,000 cash (the \"**Cash Payments** \") over a five-year (60 month) period.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined are for cash payments and work expenditures, with no mention of payments in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment component is explicitly stated as a separate value, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction does not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments was found in the documents."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction does not involve the issuance of shares, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2700000,
+      "justification": "The agreement includes 'Work expenditures totaling US$2,700,000 (the \"**Expenditures** \") over 5 years for the Company to earn a 100% interest in the Property'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states: 'Upon full payment of the Cash Payments, the Company will grant a 2.0% net smelter royalty to the Optionors and their agent(s). (the \"**Royalty** \").'"
+    },
+    "coverage_area_raw": {
+      "value": 1336,
+      "justification": "The text states: 'The Mohave Project land package currently consists of 160 contiguous mining claims covering approximately 3300 acres (1,336 hectares or 13 sq kms)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the description of the project area: '...covering approximately 3300 acres (1,336 hectares or 13 sq kms)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that Pershing is in the process of engaging a firm to 'produce a maiden resource estimate for the gold and silver potential for the project', indicating no current compliant resource exists. Historical drill results are noted as needing 'verification and validation in order to qualify for inclusion in resource estimating'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTCPK:PSGR",
+      "justification": "The buyer, Pershing Resources Company Inc., is identified with the ticker '(OTC PINK:PSGR)' in the press release header. The detailed quote section at the end of the document confirms the exchange as 'OTCPK'."
+    }
+  }
+}

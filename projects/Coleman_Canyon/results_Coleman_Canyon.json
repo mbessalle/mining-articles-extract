@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Coleman_Canyon/83425.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Coleman Canyon",
+      "justification": "The text states: \"Black Mammoth Metals Acquires Coleman Canyon Gold Property in Nevada\" and \"The patented and unpatented claims total approximately 710 contiguous hectares (1756 acres) and is called the Coleman Canyon Gold property...\""
+    },
+    "company_name": {
+      "value": "Black Mammoth Metals Corporation",
+      "justification": "The acquiring company is identified as: \"Black Mammoth Metals Corporation (TSXV: BMM) (OTC: LQRCF)  (\"Black Mammoth\" or the \"Company\")\""
+    },
+    "ceo_buyer": {
+      "value": "Dustin Henderson",
+      "justification": "The press release is signed on behalf of the board by \"'Dustin Henderson' Dustin Henderson, BBA President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Black Mammoth's subsidiary to \"acquire a 100% interest in 8 leased patented claims (the \"Leases\").\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is referred to as the \"Coleman Canyon Gold property\" and the text mentions \"Gold resource modelling\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Coleman Canyon project, but no verifiable article link is present in the document."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text mentions annual lease payments in USD: \"The Leases have annual payments that total approximately $35,500 USD...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no cash payments as part of the acquisition terms: \"There are no payments, work commitment amounts, finder's fees or share compensation in connection with Coleman Canyon acquisition.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text explicitly states there is no share compensation as part of the acquisition terms: \"There are no payments, work commitment amounts, finder's fees or share compensation in connection with Coleman Canyon acquisition.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no cash or share payments as part of the acquisition terms: \"There are no payments, work commitment amounts, finder's fees or share compensation in connection with Coleman Canyon acquisition.\""
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text explicitly states there is no share compensation as part of the acquisition terms: \"There are no payments, work commitment amounts, finder's fees or share compensation in connection with Coleman Canyon acquisition.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a 1500m drilling plan, but it is for the 'Happy Cat Gold property', not the Coleman Canyon project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no work commitment amounts as part of the acquisition terms: \"There are no payments, work commitment amounts, finder's fees or share compensation in connection with Coleman Canyon acquisition.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The consideration for the acquisition includes a royalty granted to the vendor: \"...in exchange for a 1% NSR royalty which covers the unpatented claims that the Company has staked.\""
+    },
+    "coverage_area_raw": {
+      "value": 710,
+      "justification": "The text states: \"The patented and unpatented claims total approximately 710 contiguous hectares (1756 acres) and is called the Coleman Canyon Gold property...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The patented and unpatented claims total approximately 710 contiguous hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a historical resource but explicitly states it is not being treated as current and should not be relied upon: \"Black Mammoth is not treating the Mineralization as current mineral resources. A qualified person will have to perform sufficient work to verify and update the Resource Model... A qualified person has not yet determined the extent of what work needs to be done to upgrade or verify the Mineralization at Coleman Canyon as current mineral resources or mineral reserves.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BMM",
+      "justification": "The buyer, Black Mammoth Metals Corporation, is identified with its ticker and exchange in the header: \"BMM: TSX-V\" and in the body: \"Black Mammoth Metals Corporation (TSXV: BMM)\"."
+    }
+  }
+}

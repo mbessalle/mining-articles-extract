@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Jake_Creek/89826.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jake Creek",
+      "justification": "The text announces the acquisition of the 'Jake Creek epithermal gold project'. The title of the article is 'Headwater Gold Expands Northern Nevada Portfolio with Acquisition of the Jake Creek Epithermal Gold System'."
+    },
+    "company_name": {
+      "value": "Headwater Gold Inc.",
+      "justification": "The acquiring company is identified as 'Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF) (the \"Company\" or \"Headwater\")'."
+    },
+    "ceo_buyer": {
+      "value": "Caleb Stroup",
+      "justification": "The text states: 'Caleb Stroup, the President and CEO of the Company, states: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The press release states: 'Headwater Gold Inc. ... is pleased to announce it has acquired a 100% interest in the Jake Creek epithermal gold project...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is repeatedly referred to as an 'epithermal gold project' and 'epithermal gold system'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article content is verified as being about the Jake Creek project acquisition by Headwater Gold Inc. No URL was provided in the source data."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The acquisition terms mention a payment for BLM claim maintenance fees ($19,600), which are denominated in USD, and an option to buy down the NSR for 'US$1,000,000'."
+    },
+    "cash_payments_raw": {
+      "value": 19600,
+      "justification": "Under the 'Acquisition Terms' section, the text states: 'Under the terms of the agreement, Headwater paid $19,600 for the 2025 BLM claim maintenance fees, securing full ownership of 98 unpatented mining claims owned by the vendor.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The 'Acquisition Terms' section only mentions a cash payment for claim fees; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as a cash payment for claim fees, so this field is not applicable per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 'Acquisition Terms' do not mention any issuance of shares as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The 'Acquisition Terms' do not mention any share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 'Acquisition Terms' do not mention any options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text outlines 'Future Exploration Plans' but does not specify a required exploration commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines 'Future Exploration Plans' but does not specify a required monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The acquisition terms state the deal 'is subject to a retained 1.0% net smelter return (“NSR”) royalty'."
+    },
+    "coverage_area_raw": {
+      "value": 3700,
+      "justification": "The text states: 'The project covers 3,700 acres on the western margin of the Northern Nevada Rift...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: 'The project covers 3,700 acres on the western margin of the Northern Nevada Rift...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a formal mineral resource estimate with a mass or volume (e.g., tonnes, ounces). It only refers to historical drill intercepts which are 'not current or NI 43-101 compliant'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HWG",
+      "justification": "The acquiring company is identified in the first paragraph as 'Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF)'."
+    }
+  }
+}

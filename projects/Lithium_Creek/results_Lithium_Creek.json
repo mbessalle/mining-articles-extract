@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Lithium_Creek/47143.txt",
+    "projects/Lithium_Creek/53496.txt",
+    "projects/Lithium_Creek/54374.txt",
+    "projects/Lithium_Creek/78017.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium Creek",
+      "justification": "The text states Apex has entered an agreement to acquire a company holding an option over the property: \"...to acquire all the shares of an arm’s length corporation holding a 100% option over the consolidated mineral rights of the Lithium Creek Property (the “Property”) in Nevada, USA...\""
+    },
+    "company_name": {
+      "value": "Apex Resources Inc.",
+      "justification": "The buyer is identified in the first sentence of the press release: \"Apex Resources Inc. (“Apex” or the “Company”) (TSXV:APX) is pleased to announce that it has entered into a share purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Ron Lang",
+      "justification": "The most recent press release from November 7, 2024 identifies the CEO: \"On Behalf of the Board of Directors of Apex Resources Inc. Ron Lang, President & CEO\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Apex is acquiring a company which holds an option to acquire 100% of the property. \"The terms of the Option provide for 1434001 to acquire 100% of the Property by completing the following...\""
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly described as a lithium project: \"Apex To Purchase 100% of Lithium Brine Property In Nevada, USA\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/229151",
+      "justification": "The article at this URL is titled \"Apex Expands Claim Coverage at Its Lithium Creek Project in Churchill County, Nevada\", which is directly about the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payments for the acquisition, option exercise, and exploration commitments are all explicitly denominated in USD. For example: \"...a cash payment of USD $80,000.00...\" and the option payment table is titled \"Option Payment (USD)\"."
+    },
+    "cash_payments_raw": {
+      "value": 4980000,
+      "justification": "The total cash consideration is the sum of the initial payment for the option-holding company (USD $80,000), the total option payments to acquire the property (USD $2,400,000), and future milestone payments (USD $500,000 + $1,000,000 + $1,000,000 = $2,500,000). Quotes: \"a cash payment of USD $80,000.00\", \"TOTAL | $2,400,000\", and \"US$500,000 upon completion of a Preliminary Economic Assessment; US$1,000,000 upon completion of a Pre-Feasibility Study; and US$1,000,000 upon completion of a Feasibility Study\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a cash component, not a total share value, therefore this field is null as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction has separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 18000000,
+      "justification": "The share purchase agreement includes a fixed number of shares: \"...and the issuance of 18,000,000 common shares of Apex (the 'Payment Shares').\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued as part of the acquisition consideration. Warrants were part of a separate financing transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were issued as part of the acquisition consideration. Incentive stock options were granted separately to directors and officers."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the issuance of 18,000,000 shares but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 11800000,
+      "justification": "The option agreement includes a schedule of required exploration expenditures, totaling $11,800,000. The table is titled \"Exploration & Development Expenditures (USD)\" with a final total of \"$11,800,000\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The property is subject to a royalty retained by the original vendor. \"The Property is also subject to a 3.0% Gross Overriding Royalty (the “Royalty”)...\""
+    },
+    "coverage_area_raw": {
+      "value": 8240,
+      "justification": "The most recent article provides the updated total land position after additional staking: \"Following release of analytical results, the Company has increased the Project's land position from approximately 4,720 acres to 8,240 acres of claims...\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the land area is specified as acres: \"...the Company has increased the Project's land position from approximately 4,720 acres to 8,240 acres...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). It only mentions brine concentrations, such as \"lithium concentrations exceed 50 mg/L, ranging up to 393 mg/L\", and notes that \"Very Limited Modern Exploration\" has occurred."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:APX",
+      "justification": "The company's ticker and exchange are provided in the text: \"Apex Resources Inc. (“Apex” or the “Company”) (TSXV:APX) is pleased to announce...\""
+    }
+  }
+}

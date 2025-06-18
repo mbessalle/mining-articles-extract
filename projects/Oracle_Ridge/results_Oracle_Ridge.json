@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Oracle_Ridge/82727.txt",
+    "projects/Oracle_Ridge/82727_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Oracle Ridge",
+      "justification": "The acquisition is for the Cochise claim, which is explicitly linked to the Oracle Ridge project infrastructure: 'The Cochise private patented claim lies between the Oracle Ridge mine and tailings storage facility.'"
+    },
+    "company_name": {
+      "value": "Eagle Mountain Mining Limited",
+      "justification": "The acquiring company is identified as 'Eagle Mountain Mining Limited (ASX: EM2) (Eagle Mountain, or the Company) is pleased to provide an update on the Company's 100% owned Wedgetail Project (Wedgetail, or the Project) in Arizona, USA.'"
+    },
+    "ceo_buyer": {
+      "value": "Tim Mason",
+      "justification": "The CEO of the acquiring company is named in the text: 'Commenting on the acquisition, Eagle Mountain Mining's CEO, Tim Mason, said...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the acquisition is for the full surface rights: 'The acquisition is for 100% of the surface rights (refer to ASX announcement dated 28 February 2024).'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata identifies the primary commodity as Au, which is supported by the text describing the company as a 'copper-gold explorer' and the acquired claim hosting the 'Sanderson gold mine'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article discusses the acquisition of the Cochise claim, which is described as being 'important for access and infrastructure between the Oracle Ridge mine and the tailings facility,' making it relevant to the Oracle Ridge project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction is specified as US dollars: 'The Company has paid US$200,000 to complete the acquisition...'"
+    },
+    "cash_payments_raw": {
+      "value": 325000,
+      "justification": "The total cash consideration is the sum of the down payment and the seller's loan, as stated: 'The acquisition terms are US$325,000 comprising a down payment of US$200,000 and a secured seller's loan of US$125,000...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction did not involve any share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were explicitly broken down into cash components, not a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction did not involve any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction did not involve any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a drilling commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that 'exploration activities are currently being planned' but does not state a specific monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 15,
+      "justification": "The size of the acquired claim is specified in the text: '...acquire the approximately 15 acres of the Cochise patented claim...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the text: '...acquire the approximately 15 acres of the Cochise patented claim...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the acquired property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:EM2",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the announcement header: 'Eagle Mountain Mining Limited (ASX: EM2)'"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Ima_Mine/77905.txt",
+    "projects/Ima_Mine/87567.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ima Mine",
+      "justification": "The text states that Demesne Resources Ltd. has entered into an option agreement to acquire the 'IMA Mine Project'. The authoritative metadata confirms the project name is 'Ima Mine'."
+    },
+    "company_name": {
+      "value": "American Tungsten Corp.",
+      "justification": "The buyer is identified as Demesne Resources Ltd., which later changed its name. 'American Tungsten Corp. (previously Demesne Resources Inc.) ... has also entered into an option agreement, pursuant to which it can acquire a 100% interest (subject to a 2% royalty) in and to the IMA Mine Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Murray Nye",
+      "justification": "The CEO of the acquiring company is identified in both articles: 'said, Murray Nye, President and CEO Demesne.' and 'said Murray Nye, CEO of American Tungsten.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement grants 'the option (the “Option”) to acquire from the Optionor a 100% undivided interest (subject to a 2% royalty) in the IMA Mine Project'."
+    },
+    "primary_commodity": {
+      "value": "W",
+      "justification": "The text describes the project as: 'The IMA Mine is a past producing underground tungsten mine'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment terms are explicitly denominated in US dollars: 'the Company must pay to the Optionor an aggregate of US$5,800,000'."
+    },
+    "cash_payments_raw": {
+      "value": 5800000,
+      "justification": "The agreement requires total cash payments summing to $5,800,000. 'Pursuant to the terms and conditions of the Option Agreement, and in order to acquire a 100% interest in and to the Property (subject to a 2% royalty), the Company must pay to the Optionor an aggregate of US$5,800,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the text do not include any payments in the form of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are explicitly broken down into cash payments only, so this field is not applicable as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms outlined in the text do not include the issuance of any shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the text do not include any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', the consideration does not involve stock options being issued to the seller."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not specify any monetary commitment for exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty as part of the deal terms: 'acquire from the Optionor a 100% undivided interest (subject to a 2% royalty)'."
+    },
+    "coverage_area_raw": {
+      "value": 610.38,
+      "justification": "The property acquired under the option agreement consists of two parcels: '22 patented claims on 395.98 acres and an additional 214.4 acres of patented ground in adjacent Pahsimeroi Valley.' The sum is 610.38 acres."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The units for the property area are specified as acres: '22 patented claims on 395.98 acres and an additional 214.4 acres of patented ground'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical production but does not provide a current mineral resource estimate. It explicitly states: 'Neither Demesne Resources, nor its Qualified Person, has done sufficient work to verify historical information regarding past production or exploration, and this information should not be relied upon until it has been verified.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TUNG",
+      "justification": "The second article identifies the buyer's current name and ticker: 'American Tungsten Corp. (CSE:TUNG)'."
+    }
+  }
+}

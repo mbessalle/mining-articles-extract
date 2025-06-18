@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Greyhound_Mine/49629.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Greyhound Mine",
+      "justification": "The article title is 'METALLIS RESOURCES ENTERS OPTION TO ACQUIRE PAST-PRODUCING GREYHOUND SILVER/GOLD MINE IN IDAHO, USA'."
+    },
+    "company_name": {
+      "value": "Metallis Resources Inc.",
+      "justification": "The acquiring company is identified as 'Metallis Resources Inc. (TSXV: MTS) (OTCQB: MTLFF) (the \"Company\" or \"Metallis\")'."
+    },
+    "ceo_buyer": {
+      "value": "Fiore Aliperti",
+      "justification": "The text states, 'Fiore Aliperti, President, and CEO of Metallis stated...' and is signed '/s/ \"Fiore Aliperti\" Chief Executive Officer, President, and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Metallis has entered into an option agreement 'to acquire a 100% interest in the Greyhound Property'."
+    },
+    "primary_commodity": {
+      "value": "Sb",
+      "justification": "Authoritative metadata provided in the prompt lists the primary commodity as 'Sb'. The text of the article primarily discusses Silver and Gold."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a web URL."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The agreement terms are specified in US dollars: 'The Agreement requires staged payments of US$670,000... by paying US$7.5 million... exploration expenditures of US$10 million'."
+    },
+    "cash_payments_raw": {
+      "value": 8170000,
+      "justification": "The total potential cash payment is the sum of the staged option payments (US$670,000) and the final exercise payment (US$7.5 million). 'The Agreement requires staged payments of US$670,000... At any time during the option period, the Company may exercise the option to acquire a 100% interest in the Property by paying US$7.5 million...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not include payments in the form of shares. A share purchase warrant is included, but this is not a direct share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was identified, so this field is not applicable per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the agreement. The company will issue a share purchase warrant, not shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement includes a share purchase warrant, but no raw monetary value for this warrant is provided in the text. The text states the company will 'issue a share purchase warrant to the Optionor for the purchase of up to 1,000,000 common shares of Metallis at a price of CAD $0.34 per share', which describes the terms of the warrant, not its value as a payment."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The option payments are specified in USD and are aggregated into the `cash_payments_raw` field as per the rule to sum all payment components."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the agreement, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 10000000,
+      "justification": "The agreement requires 'exploration expenditures of US$10 million over a ten-year period.' The table of obligations also shows a total of '$10,000,000' for minimum exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement terms state that 'The Optionor retains a 2% Net Smelter Returns Royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 124,
+      "justification": "The text states: 'The 124 hectare Greyhound Property encompasses two past producing silver/gold mines...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text states: 'The 124 hectare Greyhound Property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a formal mineral resource estimate. It mentions historical sample grades and states that 'Continued compilation of historic reports will help the team determine the true grade and tonnage potential', which implies no current resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MTS",
+      "justification": "The buyer is identified in the text as 'Metallis Resources Inc. (TSXV: MTS)'."
+    }
+  }
+}

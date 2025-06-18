@@ -1,0 +1,83 @@
+--- Article Metadata ---
+Project Name: Copper Chief
+Company Name: Fairchild Gold Corp.
+Exchange: TSXV
+Ticker: FAIR
+Primary Commodity: Cu
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+10.23.2024, 6:12:00 PM
+
+# Fairchild Gold Corp. Announces Significant Expansion of Its Land Position at Its Historic Copper Chief High-Grade Copper and Gold Mining Camp in Nevada
+
+Vancouver, British Columbia--(Newsfile Corp. - October 23, 2024) - Fairchild Gold Corp. (TSXV: FAIR) ("Fairchild" or the "Company") is pleased to announce that it has increased the size of its Copper Chief Property by _**74%**_. The project area which encompasses a historic high-grade copper and gold mining camp, is easily accessible by paved road and is located 35 km Southwest of Las Vegas, Nevada. Through direct staking, the Company has acquired an additional 88 mineral claims, bringing the total project land package to 6.5 square miles _(approximately 16.6 square kilometers_).
+
+[](https://images.newsfilecorp.com/files/10593/227545_21cd1317946a0ad5_001full.jpg)  
+  
+Figure 1: New claims obtained by Fairchild Gold Corp 
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10593/227545_21cd1317946a0ad5_001full.jpg>
+
+This latest project expansion follows a recent property visit guided by ASTER satellite data analysis, which identified promising extensions of mineralization across the region with anomalies potentially related to granitic intrusions. These new claims significantly increase Fairchild's footprint in the historic Goodsprings mining district, known for its rich yet virtually un-explored copper, gold, silver, platinum, palladium, and cobalt deposits.
+
+[](https://images.newsfilecorp.com/files/10593/227545_21cd1317946a0ad5_004full.jpg)
+
+Figure 2: Anomalies (Yellow) potentially related to granitic intrusions (ASTER data) map.
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10593/227545_21cd1317946a0ad5_004full.jpg>
+
+_  
+"With this expansion, we are positioning ourselves for substantial exploration and development opportunities on our Copper Chief Property,"_  said _**Luis Martins**_ , CEO of Fairchild. _"The additional claims cover key geological targets, and we are excited about the prospect of unlocking significant value from this historic yet overlooked mining camp."_
+
+Fieldwork has already begun, with outcrop and float samples collected from some of the newly acquired claims. These samples will be submitted to _Act Labs_ in Ontario, Canada, for comprehensive geochemical analysis. Meanwhile, reference materials from different lithologies are being assessed to understand their structural attributes, aiding Geologists in future exploration activities.
+
+Fairchild continues to advance its exploration efforts, confident that this expanded claim package will enhance the potential for new copper and gold discoveries.
+
+For further information, check out our website.  
+[https://www.fairchildgold.com/single-project](https://api.newsfilecorp.com/redirect/4QNb8TzVvM)
+
+ _**Mr. Richard R. Redfern** , M.S., C.P.G. ___No. 10717__ , is the qualified person as defined by National Instrument 43-101 _Standards of Disclosure for Mineral Projects_ , has examined the property on the ground, reviewed the geological information available from public sources related to the property, and is responsible for having approved the technical contents of this press release.
+
+On behalf of the Board of Directors
+
+ _**Luis Martins**_  
+ _Director and Chief Executive Officer_  
+**Fairchild Gold Corp.**  
+__[_info@fairchildgold.com_](mailto:info@fairchildgold.com)__  
+(866) 497-0284
+
+**Fairchild Gold Corporation** is in the business of acquiring and developing mineral exploration properties in North America.
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as the term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy of this news release. 
+
+Cautionary Statement Regarding Forward-Looking Information Certain information contained in this news release constitutes "forward-looking information" or "forward-looking statements" (collectively, "forward- looking information"). Without limiting the foregoing, such forward-looking information includes statements regarding the process and completion of the Offering, the use of proceeds of the Offering and any statements regarding the Company's business plans, expectations and objectives. In this news release, words such as "may", "would", "could", "will", "likely", "believe", "expect", "anticipate", "intend", "plan", "estimate" and similar words and the negative form thereof are used to identify forward-looking information. 
+
+Forward-looking information should not be read as guarantees of future performance or results, and will not necessarily be accurate indications of whether, or the times at or by which, such future performance will be achieved. Forward-looking information is based on information available at the time and/or the Company management's good faith belief with respect to future events and is subject to known or unknown risks, uncertainties, assumptions and other unpredictable factors, many of which are beyond the Company's control. For additional information with respect to these and other factors and assumptions underlying the forward-looking information made in this news release, see the Company's most recent Management's Discussion and Analysis and financial statements and other documents filed by the Company with the Canadian securities commissions and the discussion of risk factors set out therein. Such documents are available at www.sedar.com under the Company's profile and on the Company's website, https://fairchildgold.com/. The forward-looking information set forth herein reflects the Company's expectations as at the date of this news release and is subject to change after such date. The Company disclaims any News Release Announcing Offering intention or obligation to update or revise any forward-looking information, whether as a result of new information, future events or otherwise, other than as required by law. 
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/227545](https://api.newsfilecorp.com/redirect/jpan4HJ5RZ)
+
+### Project Name
+
+[Nevada Titan Project](/?gid=7642)
+
+--- Detailed Quote ---
+
+Last: 0.05             $  Chg: 0.005
+Open: 0.05             High: 0.05
+Bid: 0.04              Bid Size: 159000
+Beta: 0.93782             Year High: 0.085
+Market Cap: 3.69m       PB Ratio: 2.50
+EPS: -0.02              Average Volume (30 Day): 256.53k
+Volume: 2,000           % Chg: 11.11%
+Prev. Close: 0.045      Low: 0.05
+Ask: 0.05              Ask Size: 165000
+VWAP: 0.05             Year Low: 0.025
+Total Shares: 73.73m     Shares Out: 90.23m
+Escrow Shares: 1.35m    Float: 53.67m
+Exchange: TSXV

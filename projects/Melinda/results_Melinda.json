@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Melinda/47925.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Melinda",
+      "justification": "The text announces the acquisition of the project: \"C2C Metals Corp. Announces Acquisition of the Melinda Uranium Property Update\" and refers to it as \"the Melinda Uranium Project in Utah.\""
+    },
+    "company_name": {
+      "value": "Urano Energy Corp.",
+      "justification": "The acquiring company at the time of the announcement was C2C Metals Corp. However, a subsequent news release indicates a name change: \"C2C Metals Announces Change of Name to Urano Energy Corp.\". This aligns with the authoritative metadata provided."
+    },
+    "ceo_buyer": {
+      "value": "Chris Huggins",
+      "justification": "The CEO of the acquiring company, C2C Metals Corp., is identified in the text: \"Chris Huggins, Chief Executive Officer, stated:\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition was through staking, which typically implies 100% interest, but the text does not explicitly state the percentage acquired."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as a uranium project: \"acquisition of its first United States uranium project, through staking of the Melinda Uranium Project in Utah.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no financial transaction details or currency are mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not a purchase, so no cash payment was involved. The text states the acquisition was \"through staking of the Melinda Uranium Project\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not a purchase, so no share payment was involved. The text states the acquisition was \"through staking of the Melinda Uranium Project\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not a purchase, so no combined payment was involved. The text states the acquisition was \"through staking of the Melinda Uranium Project\"."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned drill program but does not specify a commitment in terms of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a planned drill program but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 8,
+      "justification": "The text states the project size: \"the Melinda Project includes 240 claims covering 8 (eight) square miles.\""
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The text specifies the unit for the coverage area: \"the Melinda Project includes 240 claims covering 8 (eight) square miles.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the historical data cannot be relied upon and does not constitute a current resource: \"A Qualified Person (as defined in NI 43-101) has not done sufficient work to verify the historical drilling data... C2C is not treating the historical data as current and it should not be relied upon.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:UE",
+      "justification": "The authoritative metadata provides UE and CSE. The buyer, C2C Metals Corp. (CSE: CTOC), announced a name change to Urano Energy Corp., which corresponds to the new ticker, as seen in the list of other company news."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Rossi/30031.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rossi",
+      "justification": "The text announces the closing of the acquisition of the 'Coyote and Rossi Claim Blocks', with Rossi being the project of interest."
+    },
+    "company_name": {
+      "value": "Westward Gold Inc.",
+      "justification": "The buyer is identified as 'Westward Gold Inc. (CSE:WG), (OTC:WGLIF), (FSE:IM50) (“Westward” or the “Company”)' which closed the acquisition."
+    },
+    "ceo_buyer": {
+      "value": "Colin Moore",
+      "justification": "The contact information at the end of the article lists: 'Colin Moore President, CEO & Director Westward Gold Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Upon closing, ownership of the Carlin Claims was transferred to one of Westward’s wholly-owned Nevada-based subsidiaries, Golden Oasis Exploration.' This implies a 100% transfer of ownership."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is located on the 'Carlin Trend', which is described as a '~90 km-long gold belt'."
+    },
+    "verified_article_link": {
+      "value": "www.westwardgold.com",
+      "justification": "The article is titled 'Westward Gold Closes Acquisition of Carlin Trend Claims' and details the acquisition of the Rossi claims, which is the specified project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payment component of the acquisition is explicitly denominated in US dollars: 'Fremont was paid US$19,647 in cash upon closing...'"
+    },
+    "cash_payments_raw": {
+      "value": 19647,
+      "justification": "Under 'Acquisition Terms', the text states: 'Fremont was paid US$19,647 in cash upon closing, representing a reimbursement of annual BLM claim fees...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit monetary value for the share payment was provided. The consideration was described as a number of shares issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment were listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 600000,
+      "justification": "Under 'Acquisition Terms', the text states: 'Fremont was issued 600,000 common shares of Westward upon closing'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": 0.145,
+      "justification": "The transaction terms mention 600,000 shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.145'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction terms for the Rossi project, 'Fremont was granted a 1.0% net smelter return royalty on the Rossi Claims (the “Rossi NSR”)* upon closing'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total area of '~9 km2' for the combined 'Coyote and Rossi Claim Blocks' but does not specify the area for the Rossi project alone."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area could not be determined for the Rossi project specifically, as only a combined area was provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the project, and explicitly cautions that resource estimates from adjacent properties do not apply: 'Readers are cautioned that the resource and reserve estimates relating to adjacent properties in the Carlin Trend do not extend to the Coyote Claims or Rossi Claims.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WG",
+      "justification": "The acquiring company is identified as 'Westward Gold Inc. (CSE:WG), (OTC:WGLIF), (FSE:IM50)'."
+    }
+  }
+}

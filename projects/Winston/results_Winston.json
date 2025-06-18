@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Winston/33578.txt",
+    "projects/Winston/42566.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Winston",
+      "justification": "The text refers to the project as the 'Winston Group of Properties' and the 'Winston Gold and Silver Project'. The acquisition is for claims within this project group."
+    },
+    "company_name": {
+      "value": "Foremost Lithium Resource & Technology Ltd.",
+      "justification": "The text clearly identifies the acquiring company: 'Foremost Lithium Resource & Technology Ltd. (CSE: FAT) ... is pleased to announce ... that it has entered into an amended property acquisition agreement...'. This is a direct contradiction to the authoritative metadata, and the text is prioritized."
+    },
+    "ceo_buyer": {
+      "value": "Jason Barnard",
+      "justification": "Jason Barnard, Foremost's President and CEO states, \"The Winston Gold/Silver Project is an exceptional property with strong potential...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The second article states the company 'made the third and final cash payment in the amount of $25,000USD to acquire a 100% interest in and to the Little Granite Gold/Silver Mine claims'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly named the 'Winston Gold and Silver Project'. The primary commodity 'Au' (Gold) is confirmed by this name."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/147947",
+      "justification": "The article is titled 'Foremost Lithium Completes Acquisition of The Little Granite Mine in the Winston Group of Properties, New Mexico, USA...', which directly relates to the Winston project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text specifies the currency in the consideration amount: '...the Company has now acquired the Property for aggregate consideration of $186,000USD...'"
+    },
+    "cash_payments_raw": {
+      "value": 186000,
+      "justification": "The final amended terms are stated as: '...the Company has now acquired the Property for aggregate consideration of $186,000USD versus aggregate consideration of $434,000USD under the original terms of the acquisition.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is described in cash terms via a promissory note and prior payments. There is no mention of shares being issued to the vendor for the property."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The aggregate consideration is specified as a single value ($186,000 USD) which appears to be entirely cash paid over the course of the option agreement. The financial hierarchy rule prioritizes populating `cash_payments_raw` in this case."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the property acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The stock options mentioned in the text were granted to 'certain officers, directors, consultants, employees, and advisors to the Company', not to the property vendor as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the property acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for a '2023 drill program' but does not specify a commitment in terms of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3000,
+      "justification": "The most recent article provides an updated area: 'The Winston Property now consists of 147 unpatented mining claims and 2 patented Ivanhoe and Emporia lode mining claims, comprising a total of 3,000 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area value: '...comprising a total of 3,000 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions sampling results and grades (e.g., 'returned results ranging from 0.10 to 66.50 g/t gold'), but does not provide a quantified mineral resource estimate with tonnage and contained metal."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FAT",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Foremost Lithium Resource & Technology Ltd. (CSE: FAT) (OTCQB: FRRSF) (FSE: F0R0) (WKN: A3DCC8)'."
+    }
+  }
+}

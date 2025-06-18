@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Daneros/36190.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Daneros",
+      "justification": "The primary project of interest is specified as Daneros, and the document confirms this: 'Consolidated Uranium Announces Drill Results from Daneros and Rim Mines' and 'Drilling Results from the Daneros Mine'."
+    },
+    "company_name": {
+      "value": "Consolidated Uranium Inc.",
+      "justification": "The press release is issued by 'Consolidated Uranium Inc. (“CUR”, the “Company”, “Consolidated Uranium”) (TSXV: CUR) (OTCQX: CURUF)', which is identified as the operator and acquirer of the new claims. This directly contradicts the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": "Philip Williams",
+      "justification": "The buyer is Consolidated Uranium Inc. and the text states: 'Philip Williams, Chairman and CEO commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text describes the staking of new claims and acquisition of leases, which typically implies 100% interest, but no specific percentage of ownership interest acquired is mentioned in the document."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text repeatedly refers to uranium, for example: '...at its past-producing Daneros and Rim uranium and vanadium mines...' and provides assay results in '% U3O8'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The text does not mention any financial consideration for the acquisition of the new claims or leases."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any cash payments for the acquisition of the new claims or leases."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments for the acquisition of the new claims or leases."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention any combined cash and share payments for the acquisition of the new claims or leases."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document reports on completed drilling programs, but does not mention any future exploration commitments in terms of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document does not mention any future financial exploration commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that for the new claims, there are no royalty obligations: 'The new mining claims staked by CUR are not subject to any underlying agreements and do not carry any royalty obligations.'"
+    },
+    "coverage_area_raw": {
+      "value": 670,
+      "justification": "The text specifies the area acquired related to the Daneros project: 'At the Daneros Mine... the Company staked 33 new unpatented lode mining claims covering an area of approximately 670 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the acquired area at Daneros is specified as acres: '...covering an area of approximately 670 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states in the forward-looking information section that there are 'no known mineral reserves or resources'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV: CUR",
+      "justification": "The buyer is identified as Consolidated Uranium Inc., and its ticker and exchange are provided in the text: 'Consolidated Uranium Inc. (“CUR”, the “Company”, “Consolidated Uranium”) (TSXV: CUR) (OTCQX: CURUF)'."
+    }
+  }
+}

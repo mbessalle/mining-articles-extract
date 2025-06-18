@@ -1,0 +1,38 @@
+--- Article Metadata ---
+Project Name: Cripple Creek and Victor Gold Mine
+Company Name: SSR Mining Inc.
+Exchange: TSX
+Ticker: NGT
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.3.2025, 12:00:00 PM
+
+# SSR Mining Announces Closing of Cripple Creek & Victor Acquisition
+
+### Project Name
+
+[Cripple Creek and Victor Gold Mine Project](/?gid=4033)  
+Colorado, United States
+
+--- Detailed Quote ---
+
+Last: 79.88                         $  Chg: 0.94
+Open: 79.36                         High: 80.22
+Bid: 79.87                          Bid Size: 100
+Beta: 0.58247                         Year High: 81.16
+Dividend Amount: 0.25 CAD              Previous Payable Date: 2025-06-20
+Dividend Frequency: Q           Market Cap: 88.91b
+PB Ratio: 2.07                     EPS: 6.04
+Average Volume (30 Day): 222.27k      Volume: 208.32k
+% Chg: 1.19%                        Prev. Close: 78.94
+Low: 78.99                          Ask: 79.95
+Ask Size: 900                     VWAP: 79.73692
+Year Low: 53.03                     Forward Dividend Yield: 1.74021
+Previous Ex-Dividend Date: 2025-05-27    Total Shares: 1.11b
+Shares Out: 1.11b                   PE Ratio: 13.06
+Float: 1.10b                        Exchange: TSX

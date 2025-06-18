@@ -1,0 +1,69 @@
+--- Article Metadata ---
+Project Name: Independence
+Company Name: James Bay Minerals Limited
+Exchange: CSE
+Ticker: NEXU
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+8.21.2024, 2:00:00 PM
+
+# Nexus Announces Proposed Sale of Interest in Independence JV
+
+Vancouver, British Columbia--(Newsfile Corp. - August 21, 2024) - Nexus Uranium Corp. (CSE: NEXU) (OTCQB: GIDMF) (FSE: 3H1) (the "Company" or "Nexus") is pleased to announce the proposed sale of its interest in the development-stage Independence project in Nevada for C$1.2 million. The Company entered into a definitive Purchase Agreement (the "Agreement") to sell its approximate 51.54%, interest in the Independence JV to a private third party (the "Buyer") on August 20th, 2024. Under the terms of the Agreement, the Buyer has made a deposit of C$150,000 with the balance to be paid on closing, which is anticipated to occur on or about October 3rd, 2024. The transaction is subject to certain conditions to closing, including that the Company's joint venture partner does not exercise its right of first refusal to acquire the interest.
+
+"The sale of our interest in the Independence project provides a significant amount of non-dilutive capital to advance the Company's uranium focus, namely the exploration and development of the Cree East project in the Athabasca Basin" commented Jeremy Poirier, CEO of Nexus Uranium. "As we prepare for a significant drill program at Cree East, having received all necessary permits and approvals, the sale of this asset allows us to expand our planned exploration program and profile as one of the preeminent uranium exploration companies in the market."
+
+**About Nexus Uranium Corp.**
+
+Nexus Uranium Corp. is a multi-commodity development company focused on advancing the Cree East uranium project in the Athabasca Basin and the Wray Mesa uranium-vanadium project in Utah in addition to its precious metals portfolio that includes the development-stage Independence mine located adjacent to Nevada Gold Mine's Phoenix-Fortitude mine in Nevada, the Napoleon gold project in British Columbia, and a package of gold claims in the Yukon. The Cree East project is one of the largest projects within the Athabasca Basin of Saskatchewan spanning 57,752 hectares (142,708 acres) and has seen over $20 million in exploration to date. The Wray Mesa project covers 6,282 acres within the heart of the prolific Uruvan mining district in Utah and has extensive historical drilling of over 500 holes defining multiple mineralized zones. The Independence project hosts an M&I (measured and indicated) resource of 334,300 ounces of gold (28M tonnes at 0.41 g/t gold) and an inferred resource of 847,000 ounces (9M tonnes at 3.22 g/t gold) of gold with a substantial silver credit. A 2022 Preliminary Economic Assessment (PEA) outlined a low-cost heap leach operation focusing on the near-surface resource with total production of 195,443 ounces of gold at an all-in sustaining cost of $1,078 (U.S.) per ounce of gold. The Napoleon project comprises over 1,000 hectares and prospective for multiple forms of gold mineralization, with exploration in the area dating back to the 1970s with the discovery of high-grade gold. The Yukon gold projects are comprised of almost 8,000 hectares of quartz claims prospective for high-grade gold mineralization with historical grab sampling highlights of 144 g/t gold.
+
+Nexus Uranium cautions investors the preliminary economic assessment is preliminary in nature, it includes inferred mineral resources that are considered too speculative geologically to have the economic considerations applied to them that would enable them to be categorized as mineral reserves, and there is no certainty that the preliminary economic assessment will be realized. The Company further cautions investors Mineral Resources which are not Mineral Reserves do not have demonstrated economic viability and further cautions investors the quantity and grade of the reported inferred Mineral Resources are uncertain in nature ‎and there has been insufficient exploration to define these inferred Mineral Resources as ‎indicated Mineral Resources.
+
+The Company cautions investors it has yet to verify the historical data and further cautions investors grab samples are selective by nature and are unlikely to represent average grades of sampling on the entire property.
+
+The technical content of this news release has been reviewed and approved by Warren D. Robb, P.Geo. (BC), a Director and VP Exploration of Nexus Uranium Corp. and a Qualified Person under National Instrument 43-101.
+
+\--
+
+**FOR FURTHER INFORMATION PLEASE CONTACT:**
+
+Jeremy Poirier
+
+Chief Executive Officer
+
+[info@nexusuranium.com](mailto:info@nexusuranium.com)
+
+_This news release includes certain statements and information that may constitute "forward-looking information" within the meaning of applicable Canadian securities laws. Generally, forward-looking statements and information can be identified by the use of forward-looking terminology such as "intends" or "anticipates", or variations of such words and phrases or statements that certain actions, events or results "may", "could", "should", "would" or "occur". All statements in this news release, other than statements of historical facts, including statements regarding future estimates, plans, objectives, timing, assumptions or expectations of future performance are forward-looking statements and contain forward-looking information, including, but not limited to, the sale of its interest in the Independence Project and planned expanded exploration at the Cree East Project._
+
+_Forward-looking statements are based on certain material assumptions and analysis made by the Company and the opinions and estimates of management as of the date of this news release, including, but not limited to: the assumption that the all conditions to closing for the sale of the Company's interest in the Independence Project and the assumption that the Company will be successful in expanding its exploration at the Cree East Project_
+
+ _These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking statements or forward-looking information, including, but not limited to: the risk that the conditions to closing of the proposed sale of the Company's interest in the Independence Project will not be satisfied and inherent risks associated with the mining industry and the results of exploration activities and development of mineral properties, stock market volatility and capital market fluctuations, general market and industry conditions, as well as those risk factors discussed in the Company's most recently filed management's discussion & analysis. _
+
+_Although management of the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking statements or forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and forward-looking information. Readers are cautioned that reliance on such information may not be appropriate for other purposes. The Company does not undertake to update any forward-looking statement, forward-looking information or financial outlook that are incorporated by reference herein, except in accordance with applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/220616](https://api.newsfilecorp.com/redirect/oLbVzIM0BB)
+
+### Project Name
+
+[Independence Project](/?gid=1021)  
+Nevada, USA
+
+--- Detailed Quote ---
+
+Last: 0.095            $  Chg: -0.01
+Open: 0.10            High: 0.10
+Bid: 0.095             Bid Size: 11500
+Beta: 1.73757            Year High: 0.52
+Market Cap: 4.08m      PB Ratio: 0.36
+EPS: -0.47             Average Volume (30 Day): 96.27k
+Volume: 120.00k          % Chg: -9.52%
+Prev. Close: 0.105     Low: 0.095
+Ask: 0.10             Ask Size: 55000
+VWAP: 0.09585            Year Low: 0.095
+Total Shares: 42.96m    Shares Out: 42.96m
+Float: 32.03m           Exchange: CSE

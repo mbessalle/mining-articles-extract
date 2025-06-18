@@ -1,0 +1,96 @@
+{
+  "source_files": [
+    "projects/Nemaha/70631.txt",
+    "projects/Nemaha/70631_pdf.txt",
+    "projects/Nemaha/74440.txt",
+    "projects/Nemaha/74440_pdf.txt",
+    "projects/Nemaha/81240.txt",
+    "projects/Nemaha/81240_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nemaha",
+      "justification": "The documents consistently refer to the project as the 'Nemaha Project'. For example: 'HyTerra triples lease acreage on Nemaha Project' and 'Project Name [Nemaha Project](/?gid=8499)'."
+    },
+    "company_name": {
+      "value": "HyTerra Ltd",
+      "justification": "The acquiring company is identified in the documents as 'HyTerra Ltd (ASX:HYT) (“HyTerra” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The documents list 'Benjamin Mee Executive Director' and 'Avon McIntyre Executive Director + CTO' but do not specify a Chief Executive Officer (CEO)."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The documents state that HyTerra holds a 100% working interest in the project: 'Nemaha Project, Kansas | 100% Working Interest'. The acquisitions are made by its '100% owned and operated subsidiary HYT Operating LLC'."
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The authoritative metadata specifies Hydrogen, and the text confirms this: 'Exploring for natural hydrogen and helium resources near major industrial hubs.' and 'HyTerra was the first company to list on the ASX with a focus on white hydrogen'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of multiple announcements and does not contain a single, verifiable article link."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The acquiring company, HyTerra Ltd, is listed on the Australian Securities Exchange ('ASX: HYT'), which implies the currency is Australian Dollars (AUD). A related strategic investment is mentioned in dollars: 'shareholders to vote on the $21.9m Fortescue strategic interest'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The documents announce the acquisition of lease acreage but do not specify the cash consideration paid. The mentioned '$21.9m' is a strategic investment into HyTerra by Fortescue for future activities, not a payment for the leases."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any payment in shares for the acquisition of the leases."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The documents do not mention a combined cash and share payment for the acquisition of the leases."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The documents do not mention any shares being issued as consideration for the lease acquisitions."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any share warrant payments for the acquisition of the leases."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any option payments for the acquisition of the leases."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The documents do not mention an issue price for shares related to the lease acquisitions."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not state a specific exploration commitment value as part of the lease acquisition terms. The mentioned $21.9m Fortescue investment is corporate funding for a future drilling program, not a commitment for the acquired leases."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The documents do not mention any Net Smelter Royalty (NSR) or other royalty as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 60000,
+      "justification": "The most recent announcement states the total lease position is 'over 60,000 acres': 'Approximately 8,000 acres have been acquired bringing the total lease position from 52,000 acres to over 60,000 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the lease area is consistently stated as acres: 'HyTerra improves its acreage position to over 60,000 acres in Nemaha Project'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents describe the project as prospective and mention 'Numerous historic hydrogen occurrences' but do not provide a quantified mineral resource estimate with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:HYT",
+      "justification": "The buyer, HyTerra Ltd, is explicitly identified with its ticker and exchange in the document headers: 'HyTerra Ltd (ASX:HYT)'."
+    }
+  }
+}

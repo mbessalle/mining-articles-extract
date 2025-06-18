@@ -1,0 +1,201 @@
+--- Article Metadata ---
+Project Name: Daneros
+Company Name: Isoenergy Ltd.
+Exchange: TSXV
+Ticker: CUR
+Primary Commodity: U
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+6.6.2023, 1:00:00 PM
+
+# Consolidated Uranium Announces Drill Results from Daneros and Rim Mines and Acquisition of Key Surrounding Properties in Utah
+
+TORONTO, June 06, 2023 (GLOBE NEWSWIRE) -- **Consolidated Uranium Inc. (“CUR”, the “Company”, “Consolidated Uranium”) (TSXV: CUR) (OTCQX: CURUF)** is pleased to announce the results of recently completed drilling programs at its past-producing Daneros and Rim uranium and vanadium mines in south-eastern Utah. Following the successful drill programs, the Company has acquired ten State of Utah uranium and vanadium leases, covering approximately 4,760 acres in the Rim Mine and Sage Plain project areas and 275 unpatented lode mining claims in the Daneros Mine, Rim Mine and Sage Plain project areas. These important additions to CUR’s property portfolio cover a combined area of approximately 10,070 acres. The new mining claims staked by CUR are not subject to any underlying agreements and do not carry any royalty obligations.  
+
+
+**Highlights**
+
+  * Confirmation drilling at the Daneros Mine both highlighted the presence of high-grade uranium mineralization and extended the known mineralization, including in holes CUR-LR-15 which intersected 0.93% U3O8 over 5 meters and CUR-LR-16 which intersected 0.83% U3O8 over 3 meters and 0.11% U3O8 over 2 meters (Refer to Table 1, below).  
+
+  * Confirmation drilling at the Rim Mine, which is considered to be one of the highest-grade historic vanadium mines in southeastern Utah1 confirmed high grades in multiple holes, including CUR-RM-01 which intersected 0.01% U3O8 and 1.07% V2O5 over 2 meters and 0.15% U3O8 and 2.54% V2O5 over 2 meters and CUR-RM-02 which intersected 0.21% U3O8 and 1.50% V2O5 over 4 meters (Refer to Table 2, below).  
+
+  * Additionally, the results obtained have provided additional information on potential extensions of known mineralization onto properties that were recently acquired by CUR.   
+  
+
+    * At Daneros, the new claims cover the projected convergence of two mineralized trends that host the Daneros/Lark-Royal-Bullseye and Radium King uranium mines that were among the most important uranium producers in the White Canyon mining district.2
+    * At Rim, the new claims cover the southern extension of the Rim deposit, as well as an easterly projection of the channel sandstones that host the numerous uranium-vanadium deposits of the area.
+
+
+
+Philip Williams, Chairman and CEO commented, “With the goal of becoming a near term producer of U.S. origin uranium and vanadium, CUR is one of only a handful of companies actively drilling its properties. Today’s results from the drill programs at Daneros and Rim not only confirmed and extended previously known high grade uranium and vanadium mineralization but also supported the acquisition of additional prospective adjacent and on trend project areas. Increasingly, our view is that every pound of uranium in the U.S. is potentially going to be required to supply domestic uranium requirements as U.S. buyers of nuclear fuel become under pressure to source material away from former Soviet states such as Russia, Kazakhstan and Uzbekistan. We believe CUR’s portfolio is well positioned to be a trusted and stable U.S. supplier and we plan to continue to actively advance to production-ready status through further drilling, engineering and permitting activities.”
+
+**Drilling Results from the Daneros Mine**
+
+The Daneros Mine, located in the White Canyon District, is a fully developed and permitted underground uranium mine that produced nearly one million pounds of U3O8 during multiple periods of operation, most recently from 2010-2013.
+
+In continuation of the ongoing technical evaluation of the Company’s US uranium projects, five combined conventional rotary and core holes, totaling 2,280 feet, were drilled at the Daneros Mine in early 2023 to further evaluate the presence of strong uranium mineralization highlighted in CUR’s inaugural drilling program in 2022 (Figure 1). Each of the five holes completed encountered significant uranium mineralization within the targeted host rocks of the Shinarump Member of the Chinle Formation.
+
+The results obtained from the 2023 Daneros drilling program (Table 1) continue to confirm that the continuity, thickness and overall grade characteristics of the uranium mineralization at the Daneros Mine. The grades, thicknesses and host rock characteristics, as shown in the results, are consistent with the nature and extent of uranium mineralization of the White Canyon mining district, which has been one of Utah’s most important uranium producing areas.2
+
+______________________
+
+1 Data derived from: Gloyn, R. W., C. D. Morgan, D. E. Tabet, R. E. Blackett, B. T. Tripp, and Mike Lowe, 1995; Mineral, Energy and Groundwater Resources of San Juan County, Utah, Utah Geological Survey Special Study 86; Thamm, John K., Anthony A. Kovschak, Jr. and Samuel S. Adams, 1981: Geology and Recognition Criteria for Sandstone Uranium Deposits of the Salt Wash Type, Colorado Plateau Province, Final Report; US Department of Energy Open-File Report GJBX-6 (81); Hall, S. M., B. S. Van Gosen and R. A. Zielinski, 2023; Sandstone-hosted uranium deposits of the Colorado Plateau, USA, Ore Geology Reviews 155 (2023)105353; Doelling, Hellmut H., 1969; Mineral Resources, San Juan County, Utah, and Adjacent Areas, Part II: Uranium and Other metals in Sedimentary Host Rocks, Utah Geological and Mineralogical Survey Specia Studies 24.
+
+2 Chenoweth, William L., 1993; The Geology and Production History of the Uranium Deposits in the White Canyon Mining District, San Juan County, Utah; Utah Geological Survey Miscellaneous Publication 93-3.
+
+**Figure 1: Plan view map of the Daneros Mine with 2023 drill holes**
+
+  
+
+
+**Table 1: The following table summarizes 2023 assay results from the Daneros Mine, Utah**
+
+ 
+
+**Hole No.**| **From**  
+(feet)| **To**  
+(feet)| **Thickness**  
+(feet)| **Grade**  
+(% U3O8)| **Assay**  
+**Type**  
+---|---|---|---|---|---  
+**CUR–LR-15**| **402.0**| **407.0**| **5.0**| **0.93**| **Radiometric**  
+**CUR-LR-16**| **405.0**| **408.0**| **3.0**| **0.83**| **ICP**  
+**and**| **410.0**| **412.0**| **2.0**| **0.11**| **ICP**  
+CUR-LR-17| 423.5| 427.5| 4.0| 0.14| Radiometric  
+CUR-LR-18| 466.0| 467.0| 1.0| 0.16| ICP  
+CUR-LR-19| 447.0| 450/0| 3.0| 0.15| Radiometric  
+  
+Each of the holes was drilled in a vertical orientation, and the thicknesses cited above are apparent true thicknesses of the mineralized intervals. The holes were drilled utilizing the conventional rotary “open hole” methodology, with drill cutting samples collected at five-foot intervals. The target mineralized horizon in each hole was drilled with a conventional core barrel, and core was sampled for final grade determinations by the ICP method by American Assay Laboratories (“**AAL Laboratories** ”), of Sparks, Nevada USA, an independent ISO 17025 accredited laboratory. The holes were also logged with a continuous surface-recording borehole gamma-ray, S-P, Resistivity, and induction geophysical logging tool by Century Wireline Services (“**Century** ”), of Tulsa Oklahoma, a highly experienced and independent geophysical contractor. One hole, CUR-LR-018, was not logged by Century due to “caving” in a zone above the mineralized zone. Core recovery for three of the holes, CUR-LR-15, 17 and 19, was incomplete due to broken ground conditions, and the samples for the cored intervals of those holes were insufficient for laboratory analysis. Accordingly, the uranium grades of the mineralized intervals in those holes were determined from calculations of the gamma-ray log responses, and the “Assay Type” in the table above denotes those mineralized intervals for which the grades were determined from borehole logging. Comparison of laboratory grade determinations and the uranium grades for mineralized zones as indicated from the gamma-ray logs were compared and the two assaying methods returned comparable results in each case.
+
+Core samples submitted to AAL Laboratories were subject to the Company’s Quality Control and Quality Assurance (“**QA/QC** ”) program, which includes the insertion of certified standard samples obtained from OREAS North America, the insertion of blank (unmineralized) samples, and selected duplicate samples for each drill hole. Century’s borehole logging instrument, specifically the gamma-ray probe, was tested at the US Department of Energy’s calibration facility in Grand Junction, Colorado prior to the commencement of the drilling program.
+
+**Drilling Results from the Rim Mine**
+
+The Rim Mine, located in the East Canyon portion of the Uravan Mineral Belt, includes a fully developed and permitted underground uranium and vanadium mine that was most recently in production in 2009.
+
+At the Rim Mine, CUR completed 15 combined conventional rotary and core holes totaling 11,395 feet of drilling (Figure 2). These holes were designed to confirm grades and thicknesses of uranium and vanadium mineralization in drill holes that had been completed at the project by previous owners of the property and to evaluate projected extensions of the known mineralized zones into previously untested areas.
+
+The Rim Mine is considered to be one of the highest-grade vanadium producers in the southwest Colorado – southeastern Utah region. The results from several of CUR’s drill holes have confirmed high grades. Information obtained from the current drilling program have provided additional information as to potential extensions of known mineralization onto properties that were recently acquired by the Company, as noted below.
+
+**Figure 2: Plan view map of the Rim Uranium and Vanadium Mine with 2023 drill holes**
+
+  
+
+
+**Table 2: The following table summarizes 2023 assay results from the Rim Mine, Utah**
+
+ 
+
+**Hole No.**| **From**  
+(feet)| **To**  
+(feet)| **Thickness**  
+(feet)| **Uranium Grade**  
+**(% U****3****O****8****)**| **Vanadium**  
+**Grade**  
+**(% V****2****O****5****)**  
+---|---|---|---|---|---  
+**CUR-RM-01**| **717**| **719**| **2**| **0.01**| **1.07**  
+**and**| **722**| **724**| **2**| **0.15**| **2.54**  
+**CUR-RM-02**| **710**| **714**| **4**| **0.21**| **1.50**  
+and| 718| 722| 4| 0.01| 0.34  
+CUR-RM-03| 700| 707| 7| 0.04| 0.52  
+and| 716| 718| 2| 0.01| 0.48  
+CUR-RM-04| Unmineralized  
+CUR-RM-05| 714| 715| 1| 0.00| 0.71  
+CUR-RM-06| 709| 712| 3| 0.12| 1.18  
+CUR-RM-07| Unmineralized  
+CUR-RM-08| Unmineralized  
+CUR-RM-09| Unmineralized  
+CUR-RM-10*| 555| 557| 2| 0.01| No assay  
+and*| 569.5| 570.5| 1| 0.01| No assay  
+**CUR-RM-11**|  Unmineralized  
+**CUR-RM-12**|  698| 702| 4| 0.26| 1.56  
+**CUR-RM-13**|  Unmineralized  
+**CUR-RM-14**|  Unmineralized  
+**CUR-RM-15**|  Unmineralized  
+  
+  * Drill hole conditions for hole CUR-RM-10 prevented recovery of core from the target horizon. The uranium grades for the drill hole CUR-RM-10 were determined from grade calculations from the gamma-ray log. No vanadium grades were available due to the lack of core for the mineralized interval.  
+
+
+
+
+Core samples from the Rim shaft drill holes were submitted to AAL Laboratories. Samples submitted to AAL Laboratories were subject to the Company’s standard QA/QC program, which included the insertion of Certified Reference Materials (standards) obtained from OREAS North America, the insertion of blank (unmineralized) samples, and selected duplicate samples for each drill hole. Borehole geophysical services were provided by Century Wireline Services, an independent geophysical services contractor with extensive experience providing gamma-ray logging services to the uranium industry for many years. The borehole logging instrument, specifically the gamma-ray probe, was tested at the US Department of Energy’s calibration facility in Grand Junction, Colorado prior to the commencement of the drilling program.
+
+**Mineral Property Acquisitions**
+
+The 2021 acquisition of the fully-permitted Tony M, Daneros and Rim mines as well as the Sage Plain project, combined with the toll milling agreement signed with Energy Fuels for the White Mesa mill, positioned CUR to potentially become an important, near-term supplier of U.S. uranium and vanadium production, once market conditions warrant. The newly announced property acquisitions further enhance the potential of CUR’s Utah project portfolio.
+
+At the Daneros Mine (Figure 3), which is located approximately 72 miles southwest of the town of Moab, Utah and 38 miles west-northwest of Energy Fuels’ White Mesa uranium-vanadium mill, the Company staked 33 new unpatented lode mining claims covering an area of approximately 670 acres. These newly staked mining claims cover the projected convergence of two mineralized trends that host the Daneros/Lark-Royal and Radium King uranium mines that were among the most important uranium producers in the White Canyon mining district.
+
+**Figure 3: Daneros Mine location and newly acquired claims**
+
+  
+
+
+At the Rim Mine, which is situated in southeastern Utah, about 15 miles northeast of the town of Monticello, and 40 miles northeast of the White Mesa mill (Figure 4), 36 unpatented lode claims were staked. The new claims cover the southern extension of the Rim deposit, as well as an easterly projection of the channel sandstones that host the numerous uranium-vanadium deposits of the area.
+
+CUR was the successful bidder for ten State of Utah Institutional Trust Land Administration (SITLA) tracts (4,760 acres) at our Sage Plain project, which is located 16 miles northeast of the town of Monticello, Utah and 38 miles northeast of the White Mesa mill at Blanding. The Sage Plain project is situated within an area of significant past uranium and vanadium production from the Wilson, Silver Bell, Calliham, Sage, and Snyder underground mines formerly operated by Atlas Corporation and Union Carbide/Umetco, and Union Carbide’s former Deremo mine, which was one of the largest uranium-vanadium mines in the prolific Uravan Mineral Belt of southwestern Colorado and southeastern Utah. These strategically placed tracts cover projected trends of uranium and vanadium mineralization in the Salt Wash Member of the Morrison Formation, which is the principal host rock for the deposits of the Sage Plain area and the adjoining Slick Rock mining district of southwestern Colorado. The recently staked mining claims cover an area of approximately 4,080 acres of prospective land within the same overall area as the SITLA leases are located.
+
+Historical exploration drilling data, not yet confirmed by a Qualified Person (as defined in National Instrument 43-101 – _Standards of Disclosure for Mineral Projects_ (“**NI 43-101** ”)), indicate the presence of uranium and vanadium mineralization hosted within sandstones of the Salt Wash Member of the Morrison Formation on a number of the recently acquired properties, and they represent important exploration targets to compliment the mineralization at the Calliham mine and other zones of mineralization that historical data indicate to be present on the properties previously acquired from Energy Fuels. The new mining claims staked by CUR are not subject to any underlying agreements and do not carry production royalty obligations to third parties.
+
+**Figure 4: Rim Mine and Sage Plain Project location and newly acquired claims**
+
+  
+
+
+**Qualified Person**
+
+The scientific and technical information contained in this news release was reviewed and approved by Peter Mullens (FAusIMM), Consolidated Uranium’s VP, Business Development, who is a “Qualified Person” (as defined in NI 43-101).
+
+**About Consolidated Uranium**
+
+Consolidated Uranium Inc. (TSXV: CUR) (OTCQX: CURUF) was created in early 2020 to capitalize on an anticipated uranium market resurgence using the proven model of diversified project consolidation. To date, the Company has acquired or has the right to acquire uranium projects in Australia, Canada, Argentina, and the United States each with significant past expenditures and attractive characteristics for development.
+
+The Company is currently advancing its portfolio of permitted, past-producing conventional uranium and vanadium mines in Utah and Colorado, with a toll milling arrangement in place with Energy Fuels Inc., a leading U.S.-based uranium mining company. These mines are currently on stand-by, ready for rapid restart as market conditions permit, positioning CUR as a near-term uranium producer.
+
+**For More Information, Please Contact:**
+
+**Philip Williams**
+
+Chairman and CEO  
+pwilliams@consolidateduranium.com
+
+Toll-Free: 1-833-572-2333  
+Twitter: [@ConsolidatedUr](https://www.globenewswire.com/Tracker?data=ZkB7_Jxrw8RgpbK-EpZn7VmwWRHflt2oZjGYCmEtjsQFcm7zIyE5pdsJE4B0-tVXlEblV19EzxvwmhTizuNvjGit-y7EMQcykgG6iqAB0fI= "@ConsolidatedUr")   
+[www.consolidateduranium.com](https://www.globenewswire.com/Tracker?data=2XleCjYWBMsUCM8Qfp564vPgil_-S01L-MEL1rVXilK987n0GdPdAOd0d1GtVb3eBHqby5dCsJ4FE2PRU_I8bKz1-ErEkJmQavxOwqOMD3Qaqr5tHAM4WycxiCq_LNUd "www.consolidateduranium.com")
+
+Neither TSX Venture Exchange nor its Regulations Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+**Cautionary Statement Regarding “Forward-Looking” Information**
+
+_This news release contains "forward-looking information" within the meaning of applicable Canadian securities legislation. “Forward-looking information” includes, but is not limited to, statements with respect to activities, events or developments that the Company expects or anticipates will or may occur in the future including, but not limited to, the Company’s ongoing business plan, sampling, exploration and work programs. Generally, but not always, forward-looking information and statements can be identified by the use of words such as “plans”, “expects”, “is expected”, “budget”, “scheduled”, “estimates”, “forecasts”, “intends”, “anticipates”, or “believes” or the negative connotation thereof or variations of such words and phrases or state that certain actions, events or results “may”, “could”, “would”, “might” or “will be taken”, “occur” or “be achieved” or the negative connotation thereof. Such forward-looking information and statements are based on numerous assumptions, including that general business and economic conditions will not change in a material adverse manner, that financing will be available if and when needed and on reasonable terms, and that third party contractors, equipment and supplies and governmental and other approvals required to conduct the Company’s planned exploration activities will be available on reasonable terms and in a timely manner. Although the assumptions made by the Company in providing forward-looking information or making forward-looking statements are considered reasonable by management at the time, there can be no assurance that such assumptions will prove to be accurate._
+
+_Forward-looking information and statements also involve known and unknown risks and uncertainties and other factors, which may cause actual events or results in future periods to differ materially from any projections of future events or results expressed or implied by such forward-looking information or statements, including, among others: negative operating cash flow and dependence on third party financing, uncertainty of additional financing, no known mineral reserves or resources, reliance on key management and other personnel, potential downturns in economic conditions, actual results of exploration activities being different than anticipated, changes in exploration programs based upon results, and risks generally associated with the mineral exploration industry, environmental risks, changes in laws and regulations, community relations and delays in obtaining governmental or other approvals and the risk factors with respect to Consolidated Uranium set out in CUR’s annual information form in respect of the year ended December 31, 2022 filed with the Canadian securities regulators and available under CUR’s profile on SEDAR at_ www.sedar.com _._
+
+_Although the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in the forward-looking information or implied by forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that forward-looking information and statements will prove to be accurate, as actual results and future events could differ materially from those anticipated, estimated or intended. Accordingly, readers should not place undue reliance on forward-looking statements or information. The Company undertakes no obligation to update or reissue forward-looking information as a result of new information or events except as required by applicable securities laws._
+
+Figures accompanying this announcement are available at: 
+
+  
+
+
+### Project Name
+
+[Daneros Project](/?gid=2934)  
+Utah, United States
+
+--- Detailed Quote ---
+
+Last: 1.93                         Beta: 1.45662
+Year High: 2.20                    Previous Payable Date: 2022-02-25
+Dividend Frequency: U           Market Cap: 199.67m
+PB Ratio: 14.12                     EPS: 0.49
+Average Volume (30 Day): 167.12k      Prev. Close: 1.93
+VWAP: 1.88986                         Year Low: 1.10
+Previous Ex-Dividend Date: 2022-02-18    Total Shares: 103.46m
+Shares Out: 104.53m                   Float: 72.04m

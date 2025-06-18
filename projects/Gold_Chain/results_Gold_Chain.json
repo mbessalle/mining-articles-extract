@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Gold_Chain/88346.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Chain",
+      "justification": "The press release is titled 'West Point Gold Expands Gold Chain Land Package by 30%' and discusses the 'Gold Chain Project in Arizona'."
+    },
+    "company_name": {
+      "value": "West Point Gold Corp.",
+      "justification": "The press release is issued by 'West Point Gold, (TSXV: WPG) (OTCQB: WPGCF) (FSE: LRA0) (\"West Point Gold\" or the \"Company\")'. The 'About' section also states 'About West Point Gold Corp. (formerly Gold79 Mines Ltd.).'"
+    },
+    "ceo_buyer": {
+      "value": "Quentin Mai",
+      "justification": "The text includes a quote from the CEO: \"'This expanded area adds additional large-scale targets at Gold Chain... ' stated Quentin Mai, CEO...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, which is an internal expansion, not an acquisition of a specific percentage interest from another party. No percentage of interest acquired is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is named 'Gold Chain', the company is 'West Point Gold', and the text mentions 'gold discovery', 'gold bearing quartz events', and 'Previous sampling has returned up to 2.07 g/t Au.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241428",
+      "justification": "The article is titled 'West Point Gold Expands Gold Chain Land Package by 30%' and the content is entirely focused on the Gold Chain project, confirming its relevance."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not a commercial acquisition with a specified currency. No currency is mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims on government land, not an acquisition from another company. No cash payment is mentioned as consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims on government land, not an acquisition from another company. No share payment is mentioned as consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims on government land, not an acquisition from another company. No combined cash and share payment is mentioned as consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is the staking of claims on government land, not an acquisition from another company. No shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is the staking of claims on government land, not an acquisition from another company. No shares were issued, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration plans such as mapping and sampling but does not specify a binding commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a binding commitment in terms of monetary expenditure."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the claim staking."
+    },
+    "coverage_area_raw": {
+      "value": 10122,
+      "justification": "The total project area is calculated by summing the stated areas: 'The Gold Chain project now consists of 492 lode claims on BLM land covering 9,840 acres... and 15 patented claims, covering a total of 282 acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The total project area is calculated by summing the stated areas: 'The Gold Chain project now consists of 492 lode claims on BLM land covering 9,840 acres... and 15 patented claims, covering a total of 282 acres'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates a resource has not yet been established, stating 'West Point Gold is focused on developing a maiden resource at its Gold Chain project' and also mentions 'the uncertainty as to whether further exploration will result in the target(s) being delineated as a mineral resource'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:WPG",
+      "justification": "The company is identified in the first paragraph of the text as 'West Point Gold, (TSXV: WPG)'."
+    }
+  }
+}

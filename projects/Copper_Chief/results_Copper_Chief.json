@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Copper_Chief/75744.txt",
+    "projects/Copper_Chief/87458.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Chief",
+      "justification": "The text refers to the project multiple times, for example: 'Fairchild Gold Corp. (TSXV: FAIR) (\"Fairchild\" or the \"Company\") is pleased to announce that it has increased the size of its Copper Chief Property...' and '...agreement to purchase...72 unpatented lode mining claims within and adjacent to Fairchild's Copper Chief Property...'"
+    },
+    "company_name": {
+      "value": "Fairchild Gold Corp.",
+      "justification": "The acquiring company is identified in the headline and body of the press releases: 'Fairchild Gold Corp. Announces Significant Expansion of Its Land Position...' and 'Fairchild Gold Corp. (TSXV: FAIR) (\"Fairchild\" or the \"Company\") is pleased to announce that it has entered into an agreement to purchase...'"
+    },
+    "ceo_buyer": {
+      "value": "Luis Martins",
+      "justification": "The CEO of the buyer, Fairchild Gold Corp., is identified in a quote and in the signature block: '\"With this expansion, we are positioning ourselves for substantial exploration and development opportunities on our Copper Chief Property,\" said Luis Martins , CEO of Fairchild.' and 'Luis Martins Director and Chief Executive Officer Fairchild Gold Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the purchase of 72 mining claims to expand the Copper Chief property, not the acquisition of a percentage interest in the overall project. The text does not state a percentage interest."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The authoritative metadata lists 'Cu' as the primary commodity. The text supports this, describing the project as a 'historic high-grade copper and gold mining camp' and mentioning its potential for 'Porphyry copper-gold'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/227545",
+      "justification": "The articles are directly about the Copper Chief project, detailing an expansion of its land position through staking and a separate acquisition of claims from Koba Resources."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency for the transaction with Koba Resources is specified as Canadian dollars: '...at a deemed price of CDN$0.05 per share...' and '...cash consideration of CDN$1,000,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration with Koba Resources is based on shares and a royalty. No upfront cash payment is mentioned as part of the acquisition terms. A potential future cash payment of CDN$1,000,000 is for a royalty buy-back option, not the acquisition itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are specified by the number of shares and a price per share, which fits Priority 2 of the extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are specified by the number of shares and a price per share, which fits Priority 2 of the extraction hierarchy, not Priority 3."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The agreement with Koba Resources specifies the number of shares to be issued: 'To consummate the purchase transaction, Fairchild will issue and deliver to Koba 3,000,000 FAIR shares of common stock...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The agreement with Koba Resources specifies a deemed price per share for the transaction: '...at a deemed price of CDN$0.05 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment as part of the agreements."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, Fairchild granted a royalty to the seller, Koba Resources: '...and grant to Koba a One Percent (1 %) Net Smelter Returns Royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 6.5,
+      "justification": "The text states the total project size after a direct staking event: '...bringing the total project land package to 6.5 square miles (approximately 16.6 square kilometers).' A subsequent acquisition of 72 claims is mentioned, but no new total area is provided."
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The unit for the coverage area is explicitly stated: '...bringing the total project land package to 6.5 square miles...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes multiple exploration targets and prospects but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). The statement 'None of these targets have been previously drilled' further supports the conclusion that no formal resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FAIR",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the text: 'Fairchild Gold Corp. (TSXV: FAIR) (\"Fairchild\" or the \"Company\")...'"
+    }
+  }
+}

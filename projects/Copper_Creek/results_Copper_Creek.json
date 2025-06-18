@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Copper_Creek/31712.txt",
+    "projects/Copper_Creek/32186.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Creek",
+      "justification": "The transaction is described in an article titled 'Faraday Copper Announces Acquisition of Mercer Ranch at Copper Creek Project in Arizona'."
+    },
+    "company_name": {
+      "value": "Faraday Copper Corp.",
+      "justification": "The acquiring company is identified as: 'Faraday Copper Corp. (\"Faraday\" or the \"Company\") (TSX:FDY) is pleased to announce the acquisition of a land package (the \"Mercer Ranch\")...'"
+    },
+    "ceo_buyer": {
+      "value": "Paul Harbidge",
+      "justification": "A quote in the article is attributed to 'Paul Harbidge, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is for a physical land package ('Mercer Ranch'), not a percentage interest in the Copper Creek project itself. No percentage interest is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The company is described as being 'focused on advancing its flagship copper project in Arizona, U.S.' and the project is named Copper Creek."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/739924/Faraday-Copper-Announces-Acquisition-of-Mercer-Ranch-at-Copper-Creek-Project-in-Arizona",
+      "justification": "The article's title, 'Faraday Copper Announces Acquisition of Mercer Ranch at Copper Creek Project in Arizona', and its content directly relate to the specified project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The acquisition cost is explicitly stated in US dollars: 'Acquisition cost: US$10 million'."
+    },
+    "cash_payments_raw": {
+      "value": 10000000,
+      "justification": "The total cost of the acquisition is stated as 'US$10 million': 'Faraday Copper Corp. ... is pleased to announce the acquisition of a land package (the \"Mercer Ranch\") for US$10 million (the \"Acquisition\")...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash only; no share payments are mentioned as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly for cash, so the specific `cash_payments_raw` field was populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares as payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares as payment."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any monetary commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 6000,
+      "justification": "The acquired land package is described as 'consisting of approximately 6,000 deeded acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The acquired land package is described as 'consisting of approximately 6,000 deeded acres'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project's potential ('one of the largest undeveloped copper projects in North America') but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:FDY",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Faraday Copper Corp. (\"Faraday\" or the \"Company\") (TSX:FDY)'."
+    }
+  }
+}

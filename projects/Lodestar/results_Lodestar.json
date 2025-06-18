@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Lodestar/32209.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lodestar",
+      "justification": "The text states: 'Headwater Gold Inc. (CSE:HWG) (OTC:HWAUF) (the \"Company\" or \"Headwater\") is pleased to announce acquisition of the Lodestar epithermal gold-silver project (the “Property”)...'"
+    },
+    "company_name": {
+      "value": "Headwater Gold Inc.",
+      "justification": "The acquiring company is identified in the first paragraph: 'Headwater Gold Inc. (CSE:HWG) (OTC:HWAUF) (the \"Company\" or \"Headwater\") is pleased to announce acquisition of the Lodestar epithermal gold-silver project...'"
+    },
+    "ceo_buyer": {
+      "value": "Caleb Stroup",
+      "justification": "The text identifies the CEO of the acquiring company: 'Caleb Stroup, the President and CEO of the Company, states: “We are very excited to have acquired another high-quality asset in the Aurora District...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has an option to acquire a full interest: 'Headwater retains a 30-year option to purchase an undivided 100% interest in the Vendor Claims...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is described as a 'gold-silver project': '...acquisition of the Lodestar epithermal gold-silver project (the “Property”)...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article link is not provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The acquisition terms specify payments in US dollars: 'By making an initial cash payment of US$20,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 1520000,
+      "justification": "The total cash payment is the sum of the initial payment (US$20,000) and the final purchase payment (US$1,500,000). From the text: 'By making an initial cash payment of US$20,000... Headwater retains a 30-year option to purchase an undivided 100% interest in the Vendor Claims for a one time payment of US$1,500,000...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with cash payments; no share payments are mentioned as part of the acquisition terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms specify cash payments, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of this acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the deal is an option agreement, there are no payments specified in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The 2023 work plan mentions a CSAMT survey and soil sampling, but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The 2023 work plan outlines activities but does not state a specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The acquisition is subject to a 3% NSR royalty retained by the seller: '...purchase an undivided 100% interest in the Vendor Claims for a one time payment of US$1,500,000 subject to a 3% NSR royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the project consists of 133 mining claims (121 staked + 12 acquired), but does not provide a total area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value is provided, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration targets and historic drilling with anomalous gold, but does not contain a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HWG",
+      "justification": "The buyer is identified as 'Headwater Gold Inc. (CSE: HWG, OTCQB: HWAUF)' in the text."
+    }
+  }
+}

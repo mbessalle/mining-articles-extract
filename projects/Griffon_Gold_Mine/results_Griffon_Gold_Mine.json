@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Griffon_Gold_Mine/88760.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Griffon Gold Mine",
+      "justification": "The primary project of interest is stated in the prompt and confirmed in the article title: 'Nevada Sunrise Announces Agreement to Purchase a 100% Interest in the Past-Producing Griffon Gold Mine Project, Nevada'."
+    },
+    "company_name": {
+      "value": "Nevada Sunrise Metals Corporation",
+      "justification": "The acquiring company is identified in the first sentence: 'Nevada Sunrise Metals Corporation (TSXV: NEV) (OTC Pink: NVSGF) (\"Nevada Sunrise\" or the \"Company\") is pleased to announce that it has signed a mining lease purchase agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Warren Stanyer",
+      "justification": "The CEO of the buyer is identified in the text: '\"The acquisition of Griffon represents a golden opportunity for Nevada Sunrise,\" said Warren Stanyer, President and CEO of the Company.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for the right to acquire a full interest: 'The Company retains the right to purchase a 100% interest in Griffon...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project throughout the text, starting with the title: 'Griffon Gold Mine Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241637",
+      "justification": "The article is about the acquisition of the Griffon Gold Mine Project by Nevada Sunrise Metals Corporation, which matches the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction is explicitly stated: 'all dollar amounts listed are in US dollars'."
+    },
+    "cash_payments_raw": {
+      "value": 925000,
+      "justification": "The total cash consideration is the sum of seven annual lease payments of $25,000 each ($175,000 total) plus a final purchase payment of $750,000. The text states the option to 'purchase 100% of Griffon... by paying an amount equal to the aggregate value of any remaining cash payments plus the amount of the greater value of (i) $750,000 and (ii) 285 ounces of .999 gold.' The total is calculated as $175,000 (from the payment table) + $750,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any payments made via shares of the company."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash payments are specified separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement terms do not mention any issuance of shares as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any payments made via share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any payments made via stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2400000,
+      "justification": "The total minimum exploration expenditure is the sum of all commitments listed in the 'Schedule of Cash Payments and Exploration Expenditures' table: $150,000 + $250,000 + $400,000 + $400,000 + $400,000 + $400,000 + $400,000 = $2,400,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement is subject to a royalty retained by the vendor: 'The Company retains the right to purchase a 100% interest in Griffon, subject to a 2.0% net smelter returns royalty (\"NSR\")...'"
+    },
+    "coverage_area_raw": {
+      "value": 1780,
+      "justification": "The total area of the project is stated in the first paragraph: 'The Project consists of 89 unpatented mineral claims totaling approximately 1,780 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the text: '...totaling approximately 1,780 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a current mineral resource estimate for the Griffon project itself. It only mentions historical production ('produced 62,661 ounces of oxide gold') and resource estimates for adjacent or nearby properties, which are not applicable."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NEV",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: 'Nevada Sunrise Metals Corporation (TSXV: NEV)'."
+    }
+  }
+}

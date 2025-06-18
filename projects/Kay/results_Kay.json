@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Kay/39994.txt",
+    "projects/Kay/45832.txt",
+    "projects/Kay/51820.txt",
+    "projects/Kay/53233.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kay",
+      "justification": "The project is consistently referred to as the 'Kay Mine Project' or 'Kay Mine Deposit' throughout the documents. For example: 'Arizona Metals Corp to Acquire Additional Private Lands at its Kay Mine Project'."
+    },
+    "company_name": {
+      "value": "Arizona Metals Corp.",
+      "justification": "The acquiring company is identified in the first sentence of the press releases: 'Arizona Metals Corp. (TSX: AMC) (OTCQX: AZMCF) (the \"Company\" or \"Arizona Metals\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Marc Pais",
+      "justification": "The CEO is quoted in the text: 'Marc Pais, CEO of Arizona Metals comments, \"The acquisition of the Property is another significant de-risking step...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the land parcels across multiple transactions. '...to acquire 100% of a private land parcel...' and '...completed the acquisition of 100% of an Arizona State Land parcel...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata lists Au as the primary commodity, and the text supports this by describing the project's potential as a 'copper-gold-zinc-silver' mine."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source documents to verify."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the payments is explicitly stated as US dollars. 'The Purchase Agreement to acquire the Property calls for total payments of US$2,500,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 2866100,
+      "justification": "This value is the sum of two separate cash acquisitions for the Kay project: US$2,500,000 and US$366,100. 'The Purchase Agreement to acquire the Property calls for total payments of US$2,500,000...' and 'The Company will make total payments of US$366,100 to the State of Arizona...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the documents are for cash payments only. There is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms were explicitly broken down as cash payments, so this combined field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the land acquisition transactions."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transactions, so there is no applicable share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary commitment for exploration as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No royalty was acquired or retained as part of the transactions. The text notes the main property is 'not subject to any royalties'."
+    },
+    "coverage_area_raw": {
+      "value": 86.4,
+      "justification": "This is the sum of two separate land acquisitions: one for 46.4 acres and another for 40 acres. '...a private land parcel totaling 46.4 acres...' and '...an Arizona State Land parcel totaling 40 acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the acquired land is specified as acres. '...a private land parcel totaling 46.4 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a historic estimate but explicitly states it is not a current resource, which per the rules requires a null value. 'The Kay Mine historic estimate has not been verified as a current mineral resource... A Qualified Person has not done sufficient work to classify it as a current mineral resource, and Arizona Metals is not treating the historic estimate as a current mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:AMC",
+      "justification": "The company's ticker and exchange are provided in the first paragraph of the press releases: 'Arizona Metals Corp. (TSX: AMC)'."
+    }
+  }
+}

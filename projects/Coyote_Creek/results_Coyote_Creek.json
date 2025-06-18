@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Coyote_Creek/98244.txt",
+    "projects/Coyote_Creek/98244_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Coyote Creek",
+      "justification": "The project is explicitly named in the document title and body: 'Strategic US Antimony Acquisition, Coyote Creek' and 'the Coyote Creek Antimony Project in Utah, USA.'"
+    },
+    "company_name": {
+      "value": "Ev Resources Ltd",
+      "justification": "The acquiring company is identified as 'EV Resources Limited (ASX:EVR) (“EVR” or “the Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Hugh Callaghan",
+      "justification": "The contact information lists 'Hugh Callaghan Managing Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states EVR is acquiring the claims that constitute the project, implying 100% ownership of the acquired assets: 'EVR is acquiring 49 unpatented claims (covering 980 acres) from a private investor based in the USA.'"
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The document repeatedly refers to the project as an antimony project, for example: 'Strategic US Antimony Acquisition, Coyote Creek' and 'The Coyote Creek Antimony Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The largest component of the acquisition consideration is denominated in Australian Dollars: 'the issuance of A$125,000 payable in EVR shares'."
+    },
+    "cash_payments_raw": {
+      "value": 16000,
+      "justification": "The acquisition terms include a cash payment denominated in US dollars: 'Refund of fees paid by the investor to the Bureau of Land Management and Garfield County (approx. USD16,000)'."
+    },
+    "share_payments_raw": {
+      "value": 125000,
+      "justification": "The acquisition terms include a payment in shares valued at A$125,000: 'the issuance of A$125,000 payable in EVR shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash and share payment values were provided, so this field is not applicable per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit payment values were provided. The number of shares is also not fixed, with only a maximum stated: 'a maximum of 25m shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit payment values were provided. The share price is also not a fixed value, but based on a future VWAP: 'payable in EVR shares at a 30-day VWAP'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment defined by a specific meterage was mentioned in the document."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document states that the work program will be funded from internal capital but does not specify a committed monetary value: 'The programme will be funded from internal sources of capital.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or equivalent was mentioned as part of the acquisition terms."
+    },
+    "coverage_area_raw": {
+      "value": 980,
+      "justification": "The text specifies the area covered by the acquired claims: 'EVR is acquiring 49 unpatented claims (covering 980 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated: 'EVR is acquiring 49 unpatented claims (covering 980 acres)'."
+    },
+    "resource_size": {
+      "value": "12.7 million metric tonnes at 0.79% Antimony",
+      "justification": "A historical resource estimate is provided: 'The project at Coyote Creek was estimated to contain a resource of 12.7 million metric tonnes) at 0.79% Antimony (Utah Geological and Mineral Survey, 1975).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:EVR",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the document: 'EV Resources Limited (ASX:EVR)'."
+    }
+  }
+}

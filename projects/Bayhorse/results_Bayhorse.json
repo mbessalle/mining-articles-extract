@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Bayhorse/44455.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bayhorse",
+      "justification": "The article is titled 'Bayhorse Adds Idaho Claims to The Bayhorse Property' and the project is referred to as 'The Bayhorse Property' and 'Bayhorse Silver Mine Property'."
+    },
+    "company_name": {
+      "value": "Bayhorse Silver Inc.",
+      "justification": "The press release is from 'Bayhorse Silver Inc, (TSXV: BHS) (OTCQB: BHSIF) (FSE: 7KXN) (the \"Company\" or \"Bayhorse\")'."
+    },
+    "ceo_buyer": {
+      "value": "Graeme O'Neill",
+      "justification": "The article is signed 'On Behalf of the Board. Graeme O'Neill, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states the company 'has added additional claims', but does not specify the percentage of interest acquired in these new claims. The text mentions a '100% interest in the historic Bayhorse Silver Mine' and an 'option to acquire an 80% interest in the Brandywine... property', but these do not refer to the new claims being acquired."
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The company is named 'Bayhorse Silver Inc.' and the text discusses 'silver-hosting rhyolite' and 'known silver-bearing mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/188033",
+      "justification": "The article is about the Bayhorse project, as confirmed by the title 'Bayhorse Adds Idaho Claims to The Bayhorse Property'. The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transactions with associated currency are mentioned in the article."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payments for the acquisition of the new claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments for the acquisition of the new claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments for the acquisition of the new claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention an issue price for shares related to this transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions a planned survey but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions that 'The new claims extend over 1.6 km (1 mile) east', which is a measure of length, not area. No area value is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article mentions that 'The new claims extend over 1.6 km (1 mile) east', which is a measure of length, not area. No area value is provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions 'silver-bearing mineralization' but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BHS",
+      "justification": "The acquiring company is identified as 'Bayhorse Silver Inc, (TSXV: BHS)' in the first paragraph of the article."
+    }
+  }
+}

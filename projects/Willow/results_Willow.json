@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Willow/55241.txt",
+    "projects/Willow/64016.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Willow",
+      "justification": "The primary project of interest is stated as Willow, and the text confirms the acquisition of the 'Willow porphyry copper property located in Yerington, Nevada, (“Willow Property”).'"
+    },
+    "company_name": {
+      "value": "Abacus Mining & Exploration Corporation",
+      "justification": "The acquiring company is identified as 'Abacus Mining & Exploration Corporation (“Abacus” or “The Company”) (TSXV:AME)'."
+    },
+    "ceo_buyer": {
+      "value": "Paul G. Anderson",
+      "justification": "The CEO of the buyer is identified in the text: 'Paul G. Anderson, President and CEO of Abacus.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Abacus signed an agreement 'to acquire a 100% ownership interest in the Willow porphyry copper property'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The text describes the project as the 'Willow porphyry copper property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be CAD as the buyer, Abacus Mining & Exploration Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is entirely in shares, with no cash component mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share can be determined via fallback, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share can be determined via fallback, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 9546922,
+      "justification": "A later press release amended the initial terms, stating: 'the Company has issued 9,546,922 common shares of Abacus to Almadex'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote section of the first article: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": 600,
+      "justification": "Abacus has committed to 'complete the drilling of a minimum 600 metre exploratory hole on the Willow Property'."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in meters of drilling, not a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The initial 2.0% NSR was amended in a later agreement: 'the NSR has been increased from 2.0% from future production of minerals from the Willow Property under the June 4, 2024 Agreement, to 2.5%'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Willow property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Willow property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource for the Willow project, instead describing it as a prospective target that 'remains poorly drill tested'. It contrasts this with defined resources on adjacent properties like Ann Mason and Ajax, which are not part of this transaction."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AME",
+      "justification": "The buyer is identified in the text as 'Abacus Mining & Exploration Corporation (“Abacus” or “The Company”) (TSXV:AME)'."
+    }
+  }
+}

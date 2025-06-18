@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Ranger-Page/64990.txt",
+    "projects/Ranger-Page/65008.txt",
+    "projects/Ranger-Page/67758.txt",
+    "projects/Ranger-Page/67759.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ranger-Page Project",
+      "justification": "The transaction involves the acquisition of 'the right, title and interest in the assets related to the \"Ranger-Page Project\" located in Shoshone County, Idaho, USA'."
+    },
+    "company_name": {
+      "value": "Silver Dollar Resources Inc.",
+      "justification": "The buyer and new owner of the project is identified as Silver Dollar Resources Inc. The text states: 'Silver Dollar Resources Inc. (CSE: SLV) ... is pleased to announce it has signed an asset purchase agreement ... whereby Silver Dollar's wholly owned subsidiary will acquire from the Vendors the right, title and interest in the assets related to the Ranger-Page Project'."
+    },
+    "ceo_buyer": {
+      "value": "Michael Romanik",
+      "justification": "The CEO of the buyer, Silver Dollar Resources Inc., is identified in the press release signature: 'Michael Romanik, President, CEO & Director Silver Dollar Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Silver Dollar is acquiring the entirety of Silver Valley Metals' interest in the project assets. The text states Silver Dollar will 'acquire from the Vendors the right, title and interest in the assets related to the Ranger-Page Project'."
+    },
+    "primary_commodity": {
+      "value": "Zn",
+      "justification": "The project has a history of significant zinc production. 'The largest of these, the Page Mine, was a top ten producer in the Silver Valley yielding over 1.1 billion pounds of zinc and lead and 14.6 million ounces of silver.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/216131",
+      "justification": "The article is titled 'Silver Dollar to Acquire the Ranger-Page Project in Idaho's Silver Valley' and directly concerns the specified transaction for the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration for the transaction is specified in Canadian dollars: 'cash consideration of CAD$300,000 and the issuance of six million (6,000,000) common shares in the capital of Silver Dollar at a deemed price of CAD$0.30 per share'."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The agreement includes a direct cash payment: 'for cash consideration of CAD$300,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment is defined by the number of shares and a price per share, not as a single explicit value. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead, per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into explicit cash and share components, so this aggregate field is not used."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "The agreement specifies the number of shares to be issued: 'and the issuance of six million (6,000,000) common shares in the capital of Silver Dollar'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any stock options as payment."
+    },
+    "issued_share_price": {
+      "value": 0.3,
+      "justification": "The shares issued as part of the transaction have a defined price: 'at a deemed price of CAD$0.30 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1210000,
+      "justification": "As part of the acquired agreements, Silver Dollar assumes an exploration commitment in US dollars for the Government Gulch property: 'To exercise its option to acquire a 75% interest in the Government Gulch property... Silver Dollar must pay the optionor US$250,000 and incur approximately US$1,210,000 in exploration expenditures on the property on or before October 18, 2025.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the seller retaining two separate royalties on different parts of the project rather than a single royalty over the entire project: 'a royalty equal to 0.5% of net smelter returns from the Government Gulch property' and 'a royalty equal to 1% of net smelter returns from the Page Mine property'. A single value for the whole project is not provided."
+    },
+    "coverage_area_raw": {
+      "value": 1205,
+      "justification": "The total project area is the sum of its two constituent claim groups. 'The Project comprises two contiguous patented lode claim groups - Government Gulch (403 acres) and Page Mine (802 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the project area is specified in the text: 'Government Gulch (403 acres) and Page Mine (802 acres)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not contain a quantified mineral resource estimate for the Ranger-Page Project. The text mentions 'high grade silver-zinc-lead historic reserves' but provides no specific tonnage or grade figures. Resource figures mentioned in the text are for other projects (La Joya and Mexi-Can)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SLV",
+      "justification": "The buyer's press release identifies its ticker and primary exchange as 'Silver Dollar Resources Inc. (CSE: SLV)'. The authoritative metadata provided in the prompt (TSXV:SILV) belongs to the seller, Silver Valley Metals Corp., and is therefore incorrect for the buyer."
+    }
+  }
+}

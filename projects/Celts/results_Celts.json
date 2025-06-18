@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Celts/81768.txt",
+    "projects/Celts/81769.txt",
+    "projects/Celts/87599.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Celts",
+      "justification": "The text announces the acquisition of the Celts Project: 'Eminent Gold Corp. (TSXV: EMNT) (OTCQB: EMGDF) (\"the Company\" or \"Eminent\") is pleased to announce the signing of an agreement to acquire a 100% interest in the Celts Project (\"Celts\" or \"Property\") in Nevada, USA, from Orogen Royalties Inc.'"
+    },
+    "company_name": {
+      "value": "Eminent Gold Corp.",
+      "justification": "Eminent Gold Corp. is identified as the acquirer (buyer) of the project. 'Eminent Gold Corp. (TSXV: EMNT) (OTCQB: EMGDF) (\"the Company\" or \"Eminent\") is pleased to announce the signing of an agreement to acquire a 100% interest in the Celts Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Paul Sun",
+      "justification": "Paul Sun is identified as the President and CEO of the acquiring company, Eminent Gold Corp. 'Paul Sun, President and CEO of the Company commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states that Eminent Gold Corp. will acquire a full interest in the project: 'agreement to acquire a 100% interest in the Celts Project'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project. 'Orogen Royalties Sells the Celts Gold Project to Eminent Gold'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/233463",
+      "justification": "The article, titled 'Eminent Acquires Silicon Analogue, Celts Project in Nevada', directly concerns the acquisition of the Celts project by Eminent Gold Corp., which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The total purchase price is specified in US dollars: 'for a total purchase price of USD $400,000'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, the total deal value is captured in `cash_and_share_payments_combined_raw` because the payment is a mix of cash and shares, including a large optional component, making the combined value the most accurate representation."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, the total deal value is captured in `cash_and_share_payments_combined_raw` because the payment is a mix of cash and shares, including a large optional component, making the combined value the most accurate representation."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 400000,
+      "justification": "The total consideration for the project is stated as a combined value of cash and shares: 'To acquire a 100% interest in Celts, Eminent will pay a total of US$400,000 consisting of cash and/or shares...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The total deal value is captured in `cash_and_share_payments_combined_raw` as per the extraction hierarchy. While an initial number of shares (145,384) was issued, the full share consideration is not fixed due to the optional nature of the final payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The total deal value is captured in `cash_and_share_payments_combined_raw` as per the extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, the buyer granted a royalty to the seller: 'Eminent will also grant a 3% net smelter return (\"NSR\") royalty, of which 1% can be purchased for US$1.5 million.'"
+    },
+    "coverage_area_raw": {
+      "value": 560,
+      "justification": "The total area of the project is specified in hectares: 'The Celts project, encompassing 67 unpatented claims over 560 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Celts project, encompassing 67 unpatented claims over 560 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates that no resource has been defined for the Celts project and that it requires drilling: 'The low-sulfidation gold deposits that often underlie these steam caps form in boiling zones below the water table and require drilling for confirmation.' The resource figures mentioned in the text (e.g., '3.4 million ounces of indicated gold resources') refer to the analogue Silicon project, not Celts."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EMNT",
+      "justification": "The buyer, Eminent Gold Corp., is listed with its ticker and exchange in the press release header: 'Eminent Gold Corp. (TSXV: EMNT)'."
+    }
+  }
+}

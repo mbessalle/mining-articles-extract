@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Columbus/51637.txt",
+    "projects/Columbus/81440.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Columbus",
+      "justification": "The documents consistently refer to the project as the 'Columbus Lithium-Boron Project ('Columbus' or the 'Project').'"
+    },
+    "company_name": {
+      "value": "Canter Resources Corp",
+      "justification": "The acquiring company is identified as 'Canter Resources Corp. (CSE: CRC) (OTC Pink: CNRCF) (FSE: 6O1) (\"Canter\" or the \"Company\").'"
+    },
+    "ceo_buyer": {
+      "value": "Joness Lang",
+      "justification": "The CEO is named in the press releases: '...stated Joness Lang, CEO of Canter Resources.' and '...stated Canter CEO, Joness Lang.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The articles describe the acquisition of land claims and staking of new ground, not the acquisition of a percentage interest in a project from another company."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is named the 'Columbus Lithium-Boron Project'. The authoritative metadata specifies 'Li'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/204646",
+      "justification": "The article at this link is titled 'Canter Resources Expands the Columbus Project to Approximately 30,000 Acres...' which is directly about the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is based in Vancouver, British Columbia, and is listed on the Canadian Securities Exchange (CSE). The use of '$' in this context implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any cash payments for the acquisition of claims or staking of ground."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any payments made via shares for the acquisition of claims or staking of ground. A forward-looking statement mentions 'Consideration Shares' but provides no specific details for the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The documents do not mention a combined cash and share payment value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The documents do not specify an amount of shares issued for the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any payments made with share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any payments made with options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were mentioned as being issued for the transaction, so there is no associated price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention a specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention a specific monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The documents do not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transactions."
+    },
+    "coverage_area_raw": {
+      "value": 29600,
+      "justification": "The first article states the new total project size after expansion: 'The land package now stands at a commanding 29,600 acres (119 km²).'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area value: 'The land package now stands at a commanding 29,600 acres (119 km²).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention historical drill results with lithium concentrations (e.g., 'up to 95.9 mg/L') but do not provide a formal mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). The text states the goal is the 'potential for discovering lithium and boron mineral resources,' implying none are currently defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRC",
+      "justification": "The company is identified as 'Canter Resources Corp. (CSE: CRC)...' and the detailed quote section confirms 'Exchange: CSE'."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Jackpot_Lake/34606.txt",
+    "projects/Jackpot_Lake/54078.txt",
+    "projects/Jackpot_Lake/66333.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jackpot Lake",
+      "justification": "The transaction is for the Jackpot Lake project, as stated: \"Usha Resources Executes Letter of Intent To Sell Up to 90% of the Jackpot Lake Lithium Brine Project for Total Consideration of up to US$26,025,000\"."
+    },
+    "company_name": {
+      "value": "Stardust Power, Inc.",
+      "justification": "Stardust Power, Inc. is the acquiring company (buyer). The text states: \"Usha Resources Ltd. ('USHA' or the 'Company') (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0), a North American lithium exploration company, is pleased to announce that it has entered into a Letter of Intent (the 'LOI') with Stardust Power, Inc. ('Stardust Power') ... granting Stardust Power the right to earn up to a 90% interest ... in Usha's Jackpot Lake Lithium Brine Project\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Stardust Power, Inc., is not mentioned in the provided text. Deepak Varshney is the CEO of the seller, Usha Resources Ltd."
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "Stardust Power has the right to acquire up to a 90% interest in the project: \"granting Stardust Power the right to earn up to a 90% interest subject to a 2% Net Smelter Royalty ('NSR') in Usha's Jackpot Lake Lithium Brine Project ('Jackpot Lake' or the 'Project').\""
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly identified as a lithium project: \"Jackpot Lake Lithium Brine Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/864471/usha-resources-executes-letter-of-intent-to-sell-up-to-90-of-the-jackpot-lake-lithium-brine-project-for-total-consideration-of-up-to-us26025000",
+      "justification": "The provided documents are about the Letter of Intent for Stardust Power to acquire an interest in the Jackpot Lake project from Usha Resources, which is the primary project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The consideration is specified in US dollars: \"the total consideration could total up to US$26,025,000 over five years\"."
+    },
+    "cash_payments_raw": {
+      "value": 1525000,
+      "justification": "The total cash payment component of the deal is US$1,525,000. \"Upon completion of the full earn-in of US$26,025,000, which comprises payments totaling US$1,525,000 cash...\""
+    },
+    "share_payments_raw": {
+      "value": 750000,
+      "justification": "The total stock payment component of the deal is US$750,000. \"Upon completion of the full earn-in of US$26,025,000, which comprises payments totaling ... US$750,000 stock...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate cash and share payment values are provided, which takes priority according to the extraction hierarchy. The text also mentions \"US$15,750,000 stock or cash at Stardust Power's election\", which is a separate, optional component."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms for the Jackpot Lake project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments are not mentioned as part of the transaction terms for the Jackpot Lake project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not specified in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 8000000,
+      "justification": "The transaction includes a work commitment of US$8,000,000. \"Upon completion of the full earn-in of US$26,025,000, which comprises payments totaling ... and a work commitment of US$8,000,000...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, Usha Resources (the seller) would retain a 2% NSR. \"Upon completion of the full earn-in ... Usha would retain 10% of the Project and a 2% NSR...\""
+    },
+    "coverage_area_raw": {
+      "value": 8714,
+      "justification": "The project is comprised of claims totaling 8,714 acres: \"USHA's Jackpot Lake Lithium Brine Project is located within Clark County, 35 kilometers northeast of Las Vegas, Nevada, and is comprised of 442 optioned and staked mineral claims that total 8,714 acres (approximately 35.3 km2).\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "\"USHA's Jackpot Lake Lithium Brine Project is ... comprised of 442 optioned and staked mineral claims that total 8,714 acres...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no reserves exist for the company's properties: \"The Company is presently an exploration stage company. ... Furthermore, the Company currently has no reserves on any of its properties.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:SDST",
+      "justification": "The buyer, Stardust Power, is listed on the Nasdaq with the ticker SDST. \"Usha Resources ... congratulates Stardust Power, Inc. (\"Stardust Power\", \"SDST\" and \"SDSTW\") on the completion of its business combination ... and the listing of its shares of Class A common stock on the Nasdaq Global Market (\"Nasdaq\").\""
+    }
+  }
+}

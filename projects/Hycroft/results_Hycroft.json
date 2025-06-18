@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Hycroft/35240.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hycroft",
+      "justification": "The article is titled 'HYCROFT ACQUIRES CLAIMS NEAR HISTORIC ROSEBUD MINE' and refers to the buyer as a company that 'owns the Hycroft Mine'."
+    },
+    "company_name": {
+      "value": "Hycroft Mining Holding Corporation",
+      "justification": "The acquiring company is identified as 'Hycroft Mining Holding Corporation (Nasdaq: HYMC) (\"Hycroft\" or \"the Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Diane R. Garrett",
+      "justification": "The text identifies the President & CEO with the quote: 'Diane R. Garrett, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "Hycroft acquired claims that 'are part of a 50% undivided interest with Hecla Mining Company ('Hecla')' from Newmont, indicating the acquisition of Newmont's 50% interest."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The company is described as a 'gold and silver development company'. The authoritative metadata confirms 'Au' as the primary commodity."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/hycroft-acquires-claims-near-historic-rosebud-mine-301824264.html",
+      "justification": "The article is about the Hycroft project, specifically the acquisition of claims near the Hycroft Mine by Hycroft Mining Holding Corporation."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial consideration for the acquisition, so currency is not applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not specify any cash consideration for the acquisition of the claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not specify any share consideration for the acquisition of the claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not specify any combined cash and share consideration for the acquisition of the claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions the acquisition of three patented mining claims but does not specify their total area. It mentions receiving data covering 'over 10,000 acres of land currently owned by Hycroft', but this is not the area of the acquired claims."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area was specified for the acquired claims."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that there is no current mineral resource estimate: 'The exploration target does not represent, and should not be construed to be, an estimate of a mineral resource or mineral reserve... there has been insufficient exploration of the relevant property or properties to estimate a mineral resource; and it is uncertain if further exploration will result in the estimation of a mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "Nasdaq:HYMC",
+      "justification": "The buyer is identified in the text as 'Hycroft Mining Holding Corporation (Nasdaq: HYMC)'."
+    }
+  }
+}

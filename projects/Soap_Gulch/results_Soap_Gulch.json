@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Soap_Gulch/72479.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Soap Gulch",
+      "justification": "The text states: \"...the Company is providing full details of the Soap Gulch copper project located in Silver Bow and Madison counties, Montana, USA.\""
+    },
+    "company_name": {
+      "value": "Bolt Metals Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"Vancouver, B.C. – TheNewswire - September 25, 2024 – Bolt Metals Corp. (“Bolt” or the “Company”) (CSE: BOLT) ... is pleased to announce that further to its press release of June 17, 2024... the Company is providing full details of the Soap Gulch copper project...\""
+    },
+    "ceo_buyer": {
+      "value": "Branden Haynes",
+      "justification": "The CEO of the buyer, Bolt Metals Corp., is identified in a quote: \"'The acquisition of the Soap Gulch property provides the Bolt with another advanced and highly prospective copper asset in a tier-one mining jurisdiction,' remarked Branden Haynes, Bolt’s President and CEO.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text refers to the \"acquisition of the Soap Gulch property\" but does not specify the percentage of interest that was acquired."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The text describes the project as a \"copper project\" and the headline reads \"Bolt Metals Builds on Copper Project Holdings\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Soap Gulch, but no article link was included in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not contain any financial details of the transaction, so no currency can be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not provide any details about cash payments for the acquisition of the Soap Gulch project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not provide any details about share payments for the acquisition of the Soap Gulch project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide any details about a combined cash and share payment for the acquisition of the Soap Gulch project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention a specific number of shares issued as part of the acquisition terms."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not mention an issue price for shares related to the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the project details."
+    },
+    "coverage_area_raw": {
+      "value": 4320,
+      "justification": "The text states: \"It is comprised of 216 Federal Unpatented Lode Claims and totals 4,320 acres.\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"It is comprised of 216 Federal Unpatented Lode Claims and totals 4,320 acres.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historic drill intercepts (e.g., '11.7m of 1.2% copper') but does not contain a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BOLT",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Bolt Metals Corp. (“Bolt” or the “Company”) (CSE: BOLT)\"."
+    }
+  }
+}

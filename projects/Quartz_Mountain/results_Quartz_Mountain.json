@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Quartz_Mountain/98706.txt",
+    "projects/Quartz_Mountain/98707.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Quartz Mountain",
+      "justification": "The primary project of interest is stated in the prompt and confirmed in the document titles: 'Alamos Gold Announces the Sale of Quartz Mountain Gold Project' and 'Q-Gold Signs Definitive Agreement for the Acquisition of the Quartz Mountain Advanced Gold Project'."
+    },
+    "company_name": {
+      "value": "Q-Gold Resources Ltd.",
+      "justification": "The buyer is identified in the text: 'Q-Gold Resources Ltd (TSXV: QGR, OTC: QGLDF) (“Q-Gold ” or the “Company ”) is pleased to announce that the Company has entered into a share exchange agreement... to indirectly acquire a later stage mineral exploration project located in south-central Oregon (the “Quartz Mountain Project”)'."
+    },
+    "ceo_buyer": {
+      "value": "Andreas Rompel",
+      "justification": "The CEO of the buyer, Q-Gold, is named in the second article: 'Dr. Andreas Rompel, Q-Gold’s President and Chief Executive Officer, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Q-Gold is acquiring the entire project, which is held by a target company. The text states the target's subsidiary holds 'a 100% interest in Quartz Mountain'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly named the 'Quartz Mountain Gold Project' and the text refers to 'Gold Mineral Resources'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The first article states: 'All amounts are in United States dollars, unless otherwise stated.' The second article confirms payments in 'US$'."
+    },
+    "cash_payments_raw": {
+      "value": 21000000,
+      "justification": "The total potential cash consideration is the sum of upfront, guaranteed, and milestone payments: $2,850,000 (upfront) + $8,150,000 (guaranteed) + $10,000,000 (milestone) = $21,000,000. The text states the deal is for 'total consideration of up to $21 million and a 9.9% equity interest in Q-Gold'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes a '9.9% equity interest in Q-Gold', but a specific monetary value for this share component is not provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components were identified, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not a fixed amount but is defined as 'such number of common shares of the Company which represent 9.99% of Q-Gold’s issued and outstanding common shares immediately prior to the Closing Date'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not fixed and is to be 'based on a 10-day volume weighted average trading price prior to the date of issuance.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention a specific exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention a specific exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "An NSR is mentioned only as a contingent payment mechanism that may be granted to Alamos in lieu of shares under specific circumstances, not as a direct part of the acquisition terms. The text states it would be granted 'in lieu of issuing Milestone Shares in excess of such threshold'."
+    },
+    "coverage_area_raw": {
+      "value": 2000,
+      "justification": "The total area of the project is stated as: 'Project consists of 244 mineral claims across ~2,000 hectares (“ha”)'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is provided in the text: 'Project consists of 244 mineral claims across ~2,000 hectares (“ha”)'."
+    },
+    "resource_size": {
+      "value": "12,156,000 tonnes at 0.87 g/t Au for 339,000 oz Au in Measured and Indicated Mineral Resources, and 39,205,000 tonnes at 0.91 g/t Au for 1,147,000 oz Au in Inferred Mineral Resources",
+      "justification": "The resource is detailed in a table in the second article: 'Table 1: Mineral Resources at Quartz Mountain... Measured and Indicated Mineral Resources | 12,156 (000) Tonnes | 0.87 (g/t Au) Grade | 339 (000) oz Au. Inferred Mineral Resources | 39,205 (000) Tonnes | 0.91 (g/t Au) Grade | 1,147 (000) oz Au.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:QGR",
+      "justification": "The buyer's ticker and exchange are provided in the second article: 'Q-Gold Resources Ltd (TSXV: QGR, OTC: QGLDF)'."
+    }
+  }
+}

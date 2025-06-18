@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Copper_Hill/54375.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Hill",
+      "justification": "The primary project of interest is explicitly named in the title of the press release: 'Manning Ventures Stakes Additional Claims Adjacent to the Copper Hill Project, Nevada, USA'."
+    },
+    "company_name": {
+      "value": "Manning Ventures Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Vancouver, British Columbia, May 23, 2024 – TheNewswire – Manning Ventures Inc. (the “Company” or “Manning”) (CSE: MANN; Frankfurt: 1H5) is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Alex Klenman",
+      "justification": "The CEO of the acquiring company, Manning Ventures Inc., is listed in the contact section: 'Alex Klenman - CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, which typically implies 100% interest, but no specific percentage of interest acquired is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The text repeatedly identifies copper as a key commodity. For example: 'The target being sought at Copper Hill is a porphyry styled copper-molybdenum-gold deposit.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Copper Hill, but no article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article is about staking claims and does not involve a financial transaction with stated values, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of claims, not an acquisition involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of claims, not an acquisition involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes the staking of claims, not an acquisition involving combined cash and share payments."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of a transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions historical drilling but does not state a new exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not state any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a potential 'granting of the net smelter return royalty to the Optionor' in a forward-looking statement, but provides no specific percentage or details of it being part of a current transaction."
+    },
+    "coverage_area_raw": {
+      "value": 896.3,
+      "justification": "The total area of the project after the new staking is specified: 'The Project is now comprised of 108 unpatented lode claims that cover 896.3 Ha (2,215 acres).'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the coverage area is provided in the same sentence: 'The Project is now comprised of 108 unpatented lode claims that cover 896.3 Ha (2,215 acres).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical production ('produced an estimated 1,000,000 pounds of copper') and high-grade rock samples, but does not provide a current, quantified mineral resource estimate in the required format (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MANN",
+      "justification": "The company's ticker and exchange are provided in the introduction: 'Manning Ventures Inc. (the “Company” or “Manning”) (CSE: MANN; Frankfurt: 1H5)'."
+    }
+  }
+}

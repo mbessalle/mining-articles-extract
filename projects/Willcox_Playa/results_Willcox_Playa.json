@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Willcox_Playa/34435.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Willcox Playa",
+      "justification": "The primary project of interest is identified in the headline: 'MAX Power Acquires Lithium Exploration Permits, Willcox Playa, Southeastern Arizona, USA'."
+    },
+    "company_name": {
+      "value": "Max Power Mining Corp.",
+      "justification": "The acquiring company is identified as 'MAX Power Mining Corp. (CSE: MAXX) (OTC: MAXXF) (“MAX Power” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Rav Mlait",
+      "justification": "The CEO of the buyer is identified in the text: 'Mr. Rav Mlait, CEO of MAX Power, commented:'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the initial permits from the vendor: 'The Company entered into a purchase and sale agreement (“Agreement”) for 100% of three (3) mineral exploration permits (state land) from Ares Strategic Mining Inc.'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is focused on lithium, as stated in the headline: 'MAX Power Acquires Lithium Exploration Permits, Willcox Playa, Southeastern Arizona, USA'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No direct URL for the source article is provided in the document text. The provided links are for external data sources (propublica.org, army.mil), general corporate filings (sedar.com), or an email contact."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, MAX Power Mining Corp., is based in Vancouver, British Columbia and is listed on the Canadian Securities Exchange (CSE), which implies the use of Canadian Dollars for the transaction noted as '$40,000 cash'."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The cash portion of the acquisition consideration is explicitly stated: '...for consideration of 500,000 common shares (the “Consideration Shares”) of the Company and $40,000 cash.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A monetary value for the share payment is not provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "This is the sum of 500,000 consideration shares, a 500,000 share finder's fee, and a 1,500,000 share finder's fee. '...for consideration of 500,000 common shares... the Company has paid a finder’s fee of 500,000 common shares... and in relation to Block 2 and 3 the Company has paid a finder’s fee of 1,500,000 common shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.235,
+      "justification": "The transaction terms mention the number of shares issued, but not an explicit price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.235'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 3754,
+      "justification": "The total area acquired is stated in the highlights: '...securing three well-situated blocks totaling 3,754 acres mostly leased from the state of Arizona...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified as acres: '...securing three well-situated blocks totaling 3,754 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drilling results in terms of grade over thickness (e.g., 'Seven (7) stratigraphic intervals with a combined thickness of 23 metres exceeded 500 ppm lithium in clays'), but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MAXX",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'MAX Power Mining Corp. (CSE: MAXX) (OTC: MAXXF) (“MAX Power” or the “Company”)'."
+    }
+  }
+}

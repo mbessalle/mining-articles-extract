@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Independence/68953.txt",
+    "projects/Independence/74571.txt",
+    "projects/Independence/74571_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Independence",
+      "justification": "The authoritative project name is Independence, and the text refers to the 'Independence Gold Project' and 'development-stage Independence project'."
+    },
+    "company_name": {
+      "value": "James Bay Minerals Limited",
+      "justification": "The authoritative company name is James Bay Minerals Limited. The text confirms this company is the buyer in the primary transaction: 'James Bay Minerals (ASX: JBY) (“James Bay”, or “the Company”) is pleased to announce that it has entered a binding agreement pursuant to which the Company has the right to acquire up to 100% of the advanced Independence Gold Project'."
+    },
+    "ceo_buyer": {
+      "value": "Andrew Dornan",
+      "justification": "The buyer is James Bay Minerals, and the contact provided is 'James Bay Executive Director, Andrew Dornan, commented:'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement gives James Bay Minerals the right to acquire the full project interest: 'the Company has the right to acquire up to 100% of the advanced Independence Gold Project'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative commodity is Au, and the text consistently refers to the project as the 'Independence Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/220616",
+      "justification": "Both provided documents are about the Independence project. The first document, from Nexus Uranium (the seller), contains a verifiable link. The second document details the acquisition by James Bay Minerals (the buyer)."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The upfront consideration for the acquisition by James Bay Minerals is valued in Australian Dollars (A$): 'being ~A$2.4M at a deemed issued price of A$0.15 per share'. Subsequent cash payments and commitments are denominated in USD."
+    },
+    "cash_payments_raw": {
+      "value": 3500000,
+      "justification": "This is the sum of future cash payments in USD as part of the earn-in agreement with AGEI: 'Pay US$1,500,000 to AGEI' (Stage 2) and 'A cash fee of US$2,000,000 is payable to AGEI within 12 months of commencing production'. Note: This value is in USD."
+    },
+    "share_payments_raw": {
+      "value": 2437500,
+      "justification": "This represents the upfront share consideration valued at A$2,437,500 for the initial 51.54% interest. The full transaction also includes additional share payments (2,000,000 shares and US$500,000 in shares) as part of the earn-in agreement. The text states: '16.25M shares, being ~A$2.4M at a deemed issued price of A$0.15 per share'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because financial data is being populated under Priority 1 of the financial extraction hierarchy, using `cash_payments_raw` and `share_payments_raw`."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because financial data is being populated under Priority 1 of the financial extraction hierarchy (`cash_payments_raw` and `share_payments_raw`)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because financial data is being populated under Priority 1 of the financial extraction hierarchy (`cash_payments_raw` and `share_payments_raw`)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The earn-in requires James Bay Minerals to 'Incur at least US$1,500,000 in exploration expenditure within 1 year' for Stage 1 and 'Incur at least US$1,500,000 in exploration expenditure within 1 year of Stage 1' for Stage 2, for a total of US$3,000,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller AGEI retains a royalty: 'AGEI will be granted a 2.0% net smelter return royalty (\"Royalty\").'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area, acreage, or land size is mentioned in the provided text for the Independence project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area, acreage, or land size is mentioned in the provided text for the Independence project."
+    },
+    "resource_size": {
+      "value": "334,300 ounces of gold (28M tonnes at 0.41 g/t gold) and an inferred resource of 847,000 ounces (9M tonnes at 3.22 g/t gold) of gold with a substantial silver credit",
+      "justification": "The text states: 'The Independence project hosts an M&I (measured and indicated) resource of 334,300 ounces of gold (28M tonnes at 0.41 g/t gold) and an inferred resource of 847,000 ounces (9M tonnes at 3.22 g/t gold) of gold with a substantial silver credit.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:JBY",
+      "justification": "The buyer is identified as James Bay Minerals, whose ticker is provided in the text: 'James Bay Minerals (ASX: JBY)'."
+    }
+  }
+}

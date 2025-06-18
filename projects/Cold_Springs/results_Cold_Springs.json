@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Cold_Springs/79605.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cold Springs",
+      "justification": "The project is explicitly named in a section header: '_Cold Springs Project_'"
+    },
+    "company_name": {
+      "value": "Silver Range Resources Ltd.",
+      "justification": "The acquiring company is identified in the first sentence: 'Vancouver, B.C. – Silver Range Resources Ltd. [TSX-V:SNG] (“Silver Range”) provides the following corporate update:'"
+    },
+    "ceo_buyer": {
+      "value": "Mike Power",
+      "justification": "The CEO of the buyer, Silver Range Resources Ltd., is identified at the end of the document: 'ON BEHALF OF SILVER RANGE RESOURCES LTD. “Mike Power” President and CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Silver Range fully reacquired the project, implying 100% interest: 'Silver Range has reacquired the Cold Springs Property.' and 'Supernova allowed the property to lapse and Silver Range reacquired the project by staking.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the mineralization at the project as 'High grade gold and silver mineralization' and provides assay results including '20.1 g/t Au'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a specific URL for this news release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Silver Range Resources Ltd., is listed on the TSX-V, a Canadian exchange, implying the currency is Canadian Dollars. '[TSX-V:SNG]'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a re-acquisition via staking after the previous optionee let the claims lapse, not a cash purchase. The text states: 'Silver Range reacquired the project by staking.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a re-acquisition via staking, and no mention of share payments was made for the Cold Springs project. The text states: 'Silver Range reacquired the project by staking.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment was mentioned for the re-acquisition of the Cold Springs project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued for the re-acquisition of the Cold Springs project. The share transaction mentioned in the text ('Silver Range acquired 5,650,000 Silver47 shares') was for the Michelle property, not Cold Springs."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction for the Cold Springs project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of option payments in the transaction for the Cold Springs project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the re-acquisition of the Cold Springs project, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a drilling or meter-based exploration commitment for the re-acquisition of the Cold Springs project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment for the re-acquisition of the Cold Springs project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a previous NSR granted to Silver Range by Supernova, but it does not state that any NSR was acquired as part of the re-staking transaction. 'Supernova drilled four holes (1,378 metres) and then exercised an amended option to acquire the property, granting Silver Range a net smelter return. Supernova allowed the property to lapse and Silver Range reacquired the project by staking.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area (e.g., in hectares or km2) for the Cold Springs project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Cold Springs project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides drill intercepts ('3.05 m @ 4.25 g/t Au') and sample assays, but does not state a quantified mineral resource estimate (e.g., 'X tonnes at Y g/t for Z ounces')."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SNG",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph of the text: 'Silver Range Resources Ltd. [TSX-V:SNG]'"
+    }
+  }
+}

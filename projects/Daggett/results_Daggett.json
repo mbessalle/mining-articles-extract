@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Daggett/41762.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Daggett",
+      "justification": "The authoritative metadata and the text confirm the project name: 'M3 Metals Provides an Update and Property Disclosure for the Daggett Lithium Project, near Barstow, California'."
+    },
+    "company_name": {
+      "value": "M3 Metals Corp.",
+      "justification": "The buyer is identified as 'M3 Metals Corp. (TSXV: MT) (FSE: XOV) (\"M3 Metals\" or the \"Company\")'. The text states 'On May 9, 2023, the Company announced that it had entered into a mineral property option agreement (the \"Agreement\") to acquire up to an eighty (80%) percent interest in the Daggett Lithium Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Kosta Tsoutsis",
+      "justification": "The press release is signed by the CEO: 'M3 METALS CORP. \"Kosta Tsoutsis\" Kosta Tsoutsis, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The company can acquire a total of 80% interest in two stages: 'The Agreement provides that the Company can earn a sixty (60%) percent interest in the Property... The Company can acquire an additional twenty (20%) percent interest, for a total eighty (80%) interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly identified as being prospective for lithium: '...acquire up to an eighty (80%) percent interest in the Daggett Lithium Project (the \"Property\"), a mineral property prospective for lithium...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/182583",
+      "justification": "The article is titled 'M3 Metals Provides an Update and Property Disclosure for the Daggett Lithium Project, near Barstow, California', which matches the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment and expenditure terms are specified in US dollars: '...paying to the Vendor the sum of USD$150,000... and (ii) making USD$400,000 in exploration expenditures...'"
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The agreement includes a cash payment of USD$150,000: '...paying to the Vendor the sum of USD$150,000 upon regulatory approval of the Agreement...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No specific monetary value for the share payments is provided in the text; instead, the number of shares is given."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate components for the consideration (cash, shares, exploration commitment) but does not state a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The total number of shares to be issued is 4,000,000, aggregated from two tranches: '...issuing 2,000,000 shares to the Vendor...' and '...issuing an additional 2,000,000 shares to the Vendor...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option agreement, there are no cash payments specified for the option itself, separate from the property acquisition payments."
+    },
+    "issued_share_price": {
+      "value": 0.2,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.20'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2400000,
+      "justification": "The total exploration commitment is USD$2,400,000, aggregated from two stages: '...making USD$400,000 in exploration expenditures on the Property...' and '...making an additional USD$2,000,000 in exploration expenditures on the Daggett Lithium Property...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that no royalties are involved: 'There are no royalties or underlying option or other agreements related to the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 2641,
+      "justification": "The property size is stated as: 'The Property is comprised of 96 staked BLM and San Bernardino County registered lode mining claims (the \"Lakshmi Claims\") covering 2,641 acres (761 hectares).'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified as acres: '...covering 2,641 acres (761 hectares).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as prospective and mentions anomalous lithium levels (e.g., '1,995ppmLi'), but does not contain a quantified mineral resource estimate in terms of mass or volume (tonnes, ounces, etc.)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MT",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'M3 Metals Corp. (TSXV: MT) (FSE: XOV) (\"M3 Metals\" or the \"Company\").'"
+    }
+  }
+}

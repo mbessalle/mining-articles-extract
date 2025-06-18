@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Bradley_Peak/69719.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bradley Peak",
+      "justification": "The text announces news related to the 'Bradley Peak Gold Camp': 'Relevant Gold Doubles its Land Position at the Bradley Peak Gold Camp located in the Seminoe Mountains, Wyoming, USA.'"
+    },
+    "company_name": {
+      "value": "Relevant Gold Corp.",
+      "justification": "The company making the announcement is identified as 'Relevant Gold Corp. (TSXV:RGC)(OTCQB:RGCCF) (the \"Company\" or \"Relevant Gold\")'."
+    },
+    "ceo_buyer": {
+      "value": "Rob Bergmann",
+      "justification": "The CEO of the acquiring company, Relevant Gold Corp., is identified at the end of the press release: 'On behalf of Relevant Gold Corp., Rob Bergmann, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an expansion of an existing 100%-owned project through staking claims and leasing land, not the acquisition of a percentage interest from another company. The text states the company added land 'at its 100% owned Bradley Peak Gold Camp'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is consistently referred to as a gold project, for example, 'Bradley Peak Gold Camp' and 'district-scale gold targets'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Relevant Gold Corp., is listed on the TSX Venture Exchange, a Canadian exchange, and the detailed quote section uses a '$' symbol, implying Canadian Dollars. 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves staking claims and applying for state mineral leases, not a cash payment to another company. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves staking claims and applying for state mineral leases, not a share payment to another company. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction does not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2102,
+      "justification": "The announcement states that the company has acquired new land: 'Relevant Gold Corp. ... is pleased to announce it has added ~2,102 hectares (ha) (5,195 acres) at its 100% owned Bradley Peak Gold Camp'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the acquired area is specified as hectares: '...added ~2,102 hectares (ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade assay results (e.g., '46.8 g/t Au') but does not provide a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RGC",
+      "justification": "The buyer is identified with its ticker and exchange in the first paragraph: 'Relevant Gold Corp. (TSXV:RGC)(OTCQB:RGCCF)'."
+    }
+  }
+}

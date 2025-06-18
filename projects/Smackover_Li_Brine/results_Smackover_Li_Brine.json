@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Smackover_Li_Brine/65206.txt",
+    "projects/Smackover_Li_Brine/65206_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Smackover Li Brine",
+      "justification": "The project name is explicitly mentioned in the document header: 'Project Name [Smackover Li Brine Project]'."
+    },
+    "company_name": {
+      "value": "Pantera Minerals Limited",
+      "justification": "The company is identified in the announcement as 'Pantera Minerals Limited (ASX: PFE) (“Pantera” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Barnaby Egerton-Warburton",
+      "justification": "The announcement quotes the company's chairman: 'Commenting on the new leased acres, Executive Chairman Barnaby Egerton-Warburton said:'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves leasing land ('25,998 net acres now leased') and not the acquisition of a percentage interest in a project from another company."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The document repeatedly refers to the project as a lithium project, for example: 'PFE FURTHER EXPANDS ACRES IN THE SMACKOVER LITHIUM BRINE PLAY'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a direct company announcement and does not contain a web link to an article."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial consideration for the transaction (leasing of acres) is mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text describes the acquisition of leased acres but does not specify any cash payment amount for the transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in shares for the leased acres."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention any combined cash and share payment for the leased acres."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any issuance of shares as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future drilling plans ('New well drilling and brine sampling') but does not specify a committed number of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify a monetary value for an exploration commitment as part of this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 25998,
+      "justification": "The announcement states the total leased acreage: 'The Project now covers a land position of +25,998 net leased acres of lithium brine prospective ground in the Smackover Formation Arkansas...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area value: '...25,998 net leased acres...'"
+    },
+    "resource_size": {
+      "value": "436,000 to 2,966,000 tonnes of contained LCE",
+      "justification": "The text provides a conceptual Exploration Target with a quantified mass: 'The Project has established a conceptual Exploration Target5 ranging from 436,000 to 2,966,000 tonnes of contained LCE within the project’s 50,000-acre Exclusive Abstract Area...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:PFE",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Pantera Minerals Limited (ASX: PFE)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Tule_Canyon/92526.txt",
+    "projects/Tule_Canyon/92552.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tule Canyon",
+      "justification": "The text describes the transaction for multiple properties, including the Tule Canyon Property: \"Walker Lane Resources Ltd. (TSX-V: WLR, “Walker Lane”) announces that it has optioned three properties (i.e., Tule Canyon, Cambridge and Silver Mountain...)\""
+    },
+    "company_name": {
+      "value": "Walker Lane Resources Ltd.",
+      "justification": "Walker Lane Resources Ltd. is identified as the acquiring company (buyer). \"Walker Lane Resources Ltd. (TSX-V: WLR, “Walker Lane”) announces that it has optioned three properties (i.e., Tule Canyon, Cambridge and Silver Mountain – see location map Figure 1) located in the Walker Lane of western Nevada... from Silver Range Resources Ltd.\""
+    },
+    "ceo_buyer": {
+      "value": "Kevin Brewer",
+      "justification": "The CEO of the buyer, Walker Lane Resources Ltd., is identified in the text. \"Kevin Brewer, President and CEO of Walker Lane noted: 'This package of properties in Nevada, provides us with excellent exposure to the emerging Walker Lane area.'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Walker Lane Resources Ltd. has the option to acquire 100% of the project in two stages. \"WLR has a first option to acquire 80% of Tule Canyon... A second option to acquire the remaining 20% of Tule Canyon may be exercised...\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the mineralization at Tule Canyon as containing both gold and silver, with a gold-dominant section. \"The eastern end of the trend is gold-dominant (see figures 2 and 3) with assays up to 37.3 g/t Au at surface and 27.6 g/t Au underground.\""
+    },
+    "verified_article_link": {
+      "value": "/article/walker-lane-resources-ltd/ca-wlr/-/walker-lane-resources-ltd-options-three-properties-in-the-walker-lane-gold-trend-in-nevada-from-silver-range-resources-ltd-92526",
+      "justification": "The article is verified as being about the Tule Canyon project, as the title is \"Walker Lane Resources Ltd. Options Three Properties in the Walker Lane Gold Trend in Nevada from Silver Range Resources Ltd.\" and the body details the terms for the Tule Canyon option."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction payments is explicitly stated as United States currency. \"WLR has a first option to acquire 80% of Tule Canyon by paying Silver Range an aggregate $480,000 over four years (all amounts in United States currency)...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is provided, so this field is null per the financial data extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is provided, so this field is null per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 480000,
+      "justification": "The total consideration for the first option is $480,000, with a portion payable in shares. \"WLR has a first option to acquire 80% of Tule Canyon by paying Silver Range an aggregate $480,000 over four years... Approximately 50% of all cash payment under both option stages may be made in WLR shares.\""
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text states that payments may be made in shares, but does not specify the number of shares to be issued. \"Approximately 50% of all cash payment under both option stages may be made in WLR shares.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Tule Canyon property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the payment consideration for the Tule Canyon property."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No price per share for the transaction is mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": 1500,
+      "justification": "A drilling commitment of 1,500 meters is specified for the Tule Canyon property. \"...and completing 1,500 meters of diamond drilling by March 8, 2028.\""
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is specified for the Tule Canyon project. A commitment of $1,500,000 is mentioned for the separate Cambridge Property, which is not the project of interest."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The seller, Silver Range, will retain a 2.5% Net Smelter Return on the property. \"Lastly, following the acquisition of a 100% interest in Tule Canyon by WLR, Silver Range will retain a 2.5% net smelter return (“NSR”) in the property...\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No specific coverage area in hectares or square kilometers is mentioned for the Tule Canyon property in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is mentioned, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a current mineral resource. Instead, a condition of the agreement is the future identification of a resource, implying one does not currently exist. \"A second option to acquire the remaining 20% of Tule Canyon may be exercised by WLR identifying a National Instrument 43-101 compliant measured or indicated resource at Tule Canyon...\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:WLR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph. \"Walker Lane Resources Ltd. (TSX-V: WLR, “Walker Lane”) announces that it has optioned three properties...\""
+    }
+  }
+}

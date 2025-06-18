@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Crownpoint___Hosta_Butte/91668.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Crownpoint and Hosta Butte Project",
+      "justification": "The project is explicitly named in the text under the heading: 'Crownpoint and Hosta Butte Project1'."
+    },
+    "company_name": {
+      "value": "Verdera Energy Corp.",
+      "justification": "The text identifies the acquiring company: '...enCore Energy Corp. ... announced today that it has entered into a share purchase agreement ... with Verdera Energy Corp. ('Verdera') pursuant to which Verdera will acquire an enCore subsidiary that holds the Crownpoint, Hosta Butte... projects'."
+    },
+    "ceo_buyer": {
+      "value": "Tim Gabruch",
+      "justification": "The text states: 'Verdera is led by Chief Executive Officer and Director, Mr. Tim Gabruch, who brings more than 30 years of experience within the uranium and nuclear industry.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction involves Verdera acquiring the entire subsidiary that holds the project: 'Verdera will acquire an enCore subsidiary that holds the Crownpoint, Hosta Butte... projects'. This implies a 100% acquisition of the assets held by the subsidiary."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text describes the assets as 'uranium projects' and provides resource estimates in 'eU 3O8%'. The project of interest is listed among these: '...the Crownpoint, Hosta Butte, Nose Rock, West Largo, and Ambrosia Lake – Treeline uranium projects...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/encore-energy-enters-definitive-agreement-for-sale-of-new-mexico-assets-plans-to-distribute-consideration-shares-to-encore-shareholders-302403965.html",
+      "justification": "The article is titled 'enCore Energy Enters Definitive Agreement for Sale of New Mexico Assets...' and the body of the text details the sale of the Crownpoint and Hosta Butte project to Verdera Energy Corp."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payment is specified in US dollars: '...a non-refundable cash payment of US $350,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The text states the deal includes 'a non-refundable cash payment of US $350,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares is provided, but their monetary value is not stated in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No single combined value for the cash and share components of the transaction is provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 50000000,
+      "justification": "The consideration for the transaction includes '50,000,000 non-voting preferred shares (the 'Consideration Shares') of Verdera'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The buyer, Verdera Energy Corp., is a private company and no issue price for its shares was provided in the text. The fallback price from the detailed quote belongs to the seller, enCore Energy, and is not applicable to the buyer's shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller (enCore) retained royalties: '...a 2% net proceeds royalty on uranium, and a 2% net smelter returns royalty on other minerals, extracted and sold from the Properties...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions 'control of mineral rights over more than 400 square miles,' but this area covers five distinct projects (Crownpoint, Hosta Butte, Nose Rock, West Largo, and Ambrosia Lake – Treeline). The area specific to the Crownpoint Hosta Butte project is not provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area value is null as it could not be isolated for the specific project."
+    },
+    "resource_size": {
+      "value": "10.96 Million Tons @ 0.117 eU3O8% for 25.70 M lbs. (Indicated) and 2.39 Million Tons @ 0.121 eU3O8% for 5.87 M lbs. (Inferred)",
+      "justification": "The resource is detailed in the 'Crownpoint and Hosta Butte Current Mineral Resource Estimate 2022' table, which lists a 'Total Indicated Mineral Resource' of 10.96 million tons for 25.70 M lbs. and a 'Total Inferred Mineral Resource' of 2.39 million tons for 5.87 M lbs."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Verdera Energy Corp., is a private company and is not yet listed on any stock exchange. The text states, 'Verdera will pursue a listing on a Canadian stock exchange by December 10, 2025'."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Hill_City/77994.txt",
+    "projects/Hill_City/77994_pdf.txt",
+    "projects/Hill_City/84444.txt",
+    "projects/Hill_City/84444_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hill City",
+      "justification": "The project name is identified in the document metadata: 'Project Name: [Hill City Project](/?gid=8911)'."
+    },
+    "company_name": {
+      "value": "Rapid Lithium Limited",
+      "justification": "The acquiring company is identified in the document header: 'RAPID LITHIUM LIMITED (ASX: RLL)'."
+    },
+    "ceo_buyer": {
+      "value": "Martin Holland",
+      "justification": "The announcement identifies the Managing Director: 'This announcement has been authorised on behalf of the Rapid Lithium Limited Board by: Martin Holland, Managing Director.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The proposed acquisition of 100% of New Energy (US) Inc. was terminated. The company announced it 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The target company's focus is described as: 'New Energy is a mineral explorer, targeting the exploration and development of hard rock lithium projects in the USA.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": null
+    },
+    "currency": {
+      "value": null,
+      "justification": "The consideration for the proposed transaction was entirely in shares, with no cash component or currency specified: 'Rapid Lithium will acquire 100% of the issued capital of New Energy in consideration for the issue of 59,360,343 fully paid ordinary shares in Rapid Lithium'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was terminated and did not complete. The company announced it 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was terminated and did not complete. The company announced it 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was terminated and did not complete. The company announced it 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The proposed issuance of 59,360,343 shares did not occur as the transaction was terminated. The company announced it 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction was terminated and no share price was specified for the consideration shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": null
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The acquisition of the project area did not complete as the company 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The acquisition of the project area did not complete as the company 'has resolved not to proceed with the acquisition of New Energy (US) Inc as disclosed on 7 November 2024 from Patriot Lithium Limited (ASX: PAT)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the projects that were part of the proposed acquisition."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:RLL",
+      "justification": "The buyer's ticker and exchange are stated in the announcement header: 'RAPID LITHIUM LIMITED (ASX: RLL)'."
+    }
+  }
+}

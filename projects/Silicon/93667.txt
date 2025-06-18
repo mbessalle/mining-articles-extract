@@ -1,0 +1,36 @@
+--- Article Metadata ---
+Project Name: Silicon
+Company Name: AngloGold Ashanti Limited
+Exchange: TSXV
+Ticker: OGN
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.13.2021, 1:40:41 PM
+
+# Orogen appoints Mr. Daniel Pace as Vice President of Exploration
+
+### Project Name
+
+[Silicon Project](/?gid=1083)  
+Nevada, USA
+
+--- Detailed Quote ---
+
+Last: 1.93            $  Chg: 0.01
+Open: 1.92            High: 1.94
+Bid: 1.93             Bid Size: 3600
+Beta: 0.32734            Year High: 1.98
+Market Cap: 389.44m      PB Ratio: 5.69
+EPS: 0.01             Average Volume (30 Day): 112.67k
+Volume: 246.32k          % Chg: 0.52%
+Prev. Close: 1.92     Low: 1.91
+Ask: 1.96             Ask Size: 5900
+VWAP: 1.92404            Year Low: 1.08
+Total Shares: 201.78m    Shares Out: 201.78m
+PE Ratio: 192.00        Float: 151.16m
+Exchange: TSXV

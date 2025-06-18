@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Gold_Range/28025.txt",
+    "projects/Gold_Range/44922.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Range",
+      "justification": "The primary project of interest is consistently referred to as the Gold Range Project throughout the documents, for example: '...at the Gold Range Project, Arizona.' and '...at the Gold Range Project in Northern Arizona.'"
+    },
+    "company_name": {
+      "value": "Canex Metals Inc.",
+      "justification": "The acquiring company is identified in the first line of both press releases: 'CANEX Metals Inc. (\"CANEX\" or the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Shane Ebert",
+      "justification": "Both articles identify Shane Ebert as the President and include his name on the sign-off: '\"Shane Ebert\", Shane Ebert President/Director'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in two separate transactions within the project area: 'CANEX has purchased a 100% interest in a lode mining claim...' and 'The Company has completed the purchase of a 100% interest in the Excelsior Mine Property...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is repeatedly described as a gold project: 'The Gold Range project is a new bulk-tonnage oxide-gold target...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/727508/Canex-Identifies-New-Gold-Target-and-Acquires-Past-Gold-Producer-at-the-Gold-Range-Project-Arizona",
+      "justification": "The article is titled 'Canex Identifies New Gold Target and Acquires Past Gold Producer at the Gold Range Project, Arizona', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payments for the acquisitions are explicitly stated in US dollars: '...paying US$120,000 in cash.' and '...total consideration of US$20,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 140000,
+      "justification": "This value is the sum of two separate cash payments for acquisitions within the Gold Range project: US$120,000 for the Excelsior Mine Property ('...paying US$120,000 in cash.') and US$20,000 for a lode mining claim ('...total consideration of US$20,000.')"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value is provided for the share component of the transaction, only the number of shares issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transactions are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 8694170,
+      "justification": "The acquisition of the Excelsior Mine Property involved the issuance of shares: 'The Company has completed the purchase of a 100% interest in the Excelsior Mine Property from the Vendors by issuing 8,694,170 CANEX shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms. The text mentions the elimination of a previous option agreement, not the creation of a new one."
+    },
+    "issued_share_price": {
+      "value": 0.065,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.065'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions the elimination of a C$3.5 million potential expenditure from a previous agreement but does not state a new exploration commitment value as part of the acquisitions."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the Excelsior Mine Property purchase, the sellers retained a royalty: 'The Vendors retained a 1.5% net smelter royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text describes the project in terms of strike length ('5 kilometres of strike length') and number of claims, but does not provide a total area in units such as hectares or km2."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area unit was provided as no raw area value was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a 'compelling early stage opportunity' and provides drill intercepts, but does not contain a quantified mineral resource estimate in tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CANX",
+      "justification": "The company's ticker and exchange are explicitly stated in the text: 'CANEX Metals (TSX.V:CANX)' and confirmed in the detailed quote section: 'Exchange: TSXV'."
+    }
+  }
+}

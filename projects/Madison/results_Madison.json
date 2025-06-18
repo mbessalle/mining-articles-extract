@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Madison/10361.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Madison",
+      "justification": "The text announces a webinar for the 'Madison Mine Acquisition' and refers to the 'Madison Copper Gold Project'."
+    },
+    "company_name": {
+      "value": "American Pacific Mining Corp.",
+      "justification": "The acquiring company is identified as 'American Pacific Mining Corp (CSE: USGD / FWB: 1QC / OTCPK: USGDF) (“APM” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Warwick Smith",
+      "justification": "The document is signed 'On Behalf of the Board of American Pacific Mining Corp. \"Warwick Smith\" CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The document announces a webinar about the acquisition but does not state the terms of the deal, including the interest percentage acquired."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is referred to as the 'Madison Copper Gold Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no article URL is present in the source material to verify."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document does not contain any financial details or transaction terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not mention any exploration commitments."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document does not mention any exploration commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty (NSR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The document does not specify the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The document does not specify the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not contain a mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:USGD",
+      "justification": "The company is identified as 'American Pacific Mining Corp (CSE: USGD / FWB: 1QC / OTCPK: USGDF)' and the detailed quote section confirms 'Exchange: CSE'."
+    }
+  }
+}

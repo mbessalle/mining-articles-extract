@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Riverside_Facility/90948.txt",
+    "projects/Riverside_Facility/91029.txt",
+    "projects/Riverside_Facility/91029_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Riverside Facility",
+      "justification": "The project of interest was specified in the prompt. The text confirms this name: \"NOVONIX's Riverside facility, also located in Chattanooga, is poised to become the first large-scale production site...\""
+    },
+    "company_name": {
+      "value": "NOVONIX Limited",
+      "justification": "The company name was specified in the prompt. The text confirms this: \"NOVONIX Limited (NASDAQ: NVX, ASX: NVX) (“NOVONIX” or “the Company”)...\""
+    },
+    "ceo_buyer": {
+      "value": "Robert Long",
+      "justification": "The text identifies the Interim CEO: \"Mr. Robert Long, Interim CEO of NOVONIX, said...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The announcement concerns the development and funding of company-owned facilities, not the acquisition of an interest in a project from another party."
+    },
+    "primary_commodity": {
+      "value": "Graphite",
+      "justification": "The text states that the facility is for graphite production: \"NOVONIX's Riverside facility... is poised to become the first large-scale production site dedicated to high-performance synthetic graphite for the battery sector in North America.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a direct URL for the source article itself."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The financial figures related to the Riverside facility are denominated in US dollars: \"...awarded the Company a US$100 million grant and that it was selected for a US$103 million investment tax credit towards the funding of the Riverside facility.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any cash payments for an acquisition related to the Riverside Facility. The financial figures mentioned are a grant and a tax credit, not acquisition consideration. The US$4.6 million land purchase is for the separate Enterprise South project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are mentioned in the text for the Riverside Facility."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payments are mentioned in the text for the Riverside Facility."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of a transaction for the Riverside Facility."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The project is a manufacturing facility, not an exploration project, and no exploration commitments are mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The project is a manufacturing facility, not an exploration project, and no exploration commitments are mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned in the text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a '182-acre parcel of land', but this is explicitly for the separate 'Enterprise South' facility, not the Riverside Facility."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is provided for the Riverside Facility."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a production capacity of '20,000 tpa' (tonnes per annum) for the Riverside facility, which is a production rate, not a static mineral resource estimate as required by the schema."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:NVX",
+      "justification": "The text identifies the company's tickers and exchanges: \"NOVONIX Limited (NASDAQ: NVX, ASX: NVX)\". The authoritative metadata also specifies ASX:NVX."
+    }
+  }
+}

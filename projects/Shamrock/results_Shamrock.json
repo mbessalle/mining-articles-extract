@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Shamrock/39524.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Shamrock",
+      "justification": "The primary project of interest is explicitly named in the title: 'Silver Range Stakes and Samples High Grade Gold, Silver and Copper at the Shamrock Property, Nevada'."
+    },
+    "company_name": {
+      "value": "Silver Range Resources Ltd.",
+      "justification": "The acquiring company is identified in the first sentence: 'Silver Range Resources Ltd. (TSXV:SNG) (\"Silver Range\" or the \"Company\") is pleased to announce that it has acquired a new high grade gold, silver and copper property in White Pine County, Nevada.'"
+    },
+    "ceo_buyer": {
+      "value": "Mike Power",
+      "justification": "The CEO of the acquiring company is identified at the end of the press release: 'ON BEHALF OF SILVER RANGE RESOURCES LTD. \"Mike Power\" President, C.E.O. & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Silver Range 'staked' the property, which implies 100% ownership, but no specific percentage of interest acquired is mentioned in the document."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The press release title and body mention multiple commodities, with gold listed first: 'Silver Range Stakes and Samples High Grade Gold, Silver and Copper at the Shamrock Property, Nevada'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/774408/Silver-Range-Stakes-and-Samples-High-Grade-Gold-Silver-and-Copper-at-the-Shamrock-Property-Nevada",
+      "justification": "The article is titled 'Silver Range Stakes and Samples High Grade Gold, Silver and Copper at the Shamrock Property, Nevada', which directly corresponds to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's stock exchange is listed as TSXV (a Canadian exchange), implying the currency is Canadian Dollars (CAD). 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of the property, not a purchase from another entity, and there is no mention of any cash consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of the property, not a purchase from another entity, and there is no mention of any share consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of the property, not a purchase from another entity, and there is no mention of any combined cash and share consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of the property, and no shares were issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document does not mention any monetary exploration commitment for the property."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The document describes a mineralized zone of 'a 300 m by 800 m area' but does not state the total coverage area of the staked property in standard units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The document describes a mineralized zone of 'a 300 m by 800 m area' but does not state the total coverage area of the staked property in standard units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document provides assay results from grab samples (e.g., 'up to 233 g/t Au') but does not contain a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SNG",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'Silver Range Resources Ltd. (TSXV:SNG)'."
+    }
+  }
+}

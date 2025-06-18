@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/South_Contact_Zone/48472.txt",
+    "projects/South_Contact_Zone/53732.txt",
+    "projects/South_Contact_Zone/63242.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Contact Zone",
+      "justification": "The text states the company has an option to earn an interest in the 'South Contact Zone Project'."
+    },
+    "company_name": {
+      "value": "Green Bridge Metals Corporation",
+      "justification": "The acquiring company is identified as 'Green Bridge Metals Corporation (CNSX:GRBM) (\"Green Bridge \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "David Suda",
+      "justification": "The press release is signed by '\"David Suda\" President and Chief Executive Officer' of Green Bridge Metals."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The text states 'the Company has an option to earn an 80% interest in the 8,460-hectare (84.6 square kilometre (km)) South Contact Zone Project'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is described as 'targeting copper (Cu), nickel (Ni)-platinum group element (PGE) mineralization.' The authoritative metadata specifies Cu as primary."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/831365/green-bridge-metals-corporation-options-world-class-copper-nickel-exploration-portfolio-in-duluth-complex-minnesota",
+      "justification": "The article is titled 'Green Bridge Metals Corporation Options World Class Copper-Nickel Exploration Portfolio in Duluth Complex Minnesota' and discusses the option agreement for the South Contact Zone Project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The table outlining the work expenditures is explicitly labeled 'Work Expenditures (US$)'."
+    },
+    "cash_payments_raw": {
+      "value": 4000000,
+      "justification": "To earn the final 80% interest, one of the conditions is 'Making a cash payment of $4,000,000 to EMI.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The option terms are based on exploration expenditures and a cash payment, with no mention of share payments as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The option terms are broken down into exploration expenditures and a cash payment, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The option terms do not mention the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The option terms do not mention the issuance of shares, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 22650000,
+      "justification": "The total exploration commitment is the sum of the 60% earn-in requirement ('funding Expenditures on the SCZ Properties totaling $12,650,000') and the 80% earn-in requirement ('Funding an additional $10,000,000 of Expenditures on the SCZ Properties')."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 8460,
+      "justification": "The text describes the project as the '8,460-hectare (84.6 square kilometre (km)) South Contact Zone Project'."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text describes the project as the '8,460-hectare (84.6 square kilometre (km)) South Contact Zone Project'."
+    },
+    "resource_size": {
+      "value": "45.1 million tonnes averaging 15% TiO2",
+      "justification": "A historical resource is mentioned for the Titac property, which is part of the South Contact Zone project: 'Titac has the most advanced exploration with a NI 43-101, inferred resource of 45.1 million tonnes averaging 15% TiO25.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GRBM",
+      "justification": "The buyer is identified as 'Green Bridge Metals Corporation(CNSX:GRBM)'. CNSX is the Canadian Securities Exchange (CSE), which is also listed in the detailed quote section: 'Exchange: CSE'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Rockland/76501.txt",
+    "projects/Rockland/76518.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rockland",
+      "justification": "The primary project of interest is confirmed in the title: 'Evergold Options the Rockland Gold Property to Wolfden...'"
+    },
+    "company_name": {
+      "value": "Evergold Corp.",
+      "justification": "The seller is identified as 'Evergold Corp. (TSX-V: EVER, OTC: EVGUF, WKN: A2PTHZ) (“Evergold” or the “Company”) is pleased to announce that it has granted Wolfden Resources Corporation (“Wolfden”) an option to acquire... the Company’s... Rockland gold-silver property...'"
+    },
+    "ceo_buyer": {
+      "value": "Ron Little",
+      "justification": "The CEO of the buyer, Wolfden Resources, is identified in the contact section of their press release: 'For further information please contact Ron Little, President & CEO...'"
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement is for a two-stage acquisition totaling 75%: 'Under the first stage, Wolfden may earn an initial 51% interest... Wolfden can elect to earn an additional 24% interest, bringing its total interest to 75%...'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The property is described as a gold-silver property, aligning with the authoritative metadata. '...past producing Rockland gold-silver property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/936406/wolfden-options-drill-ready-nevada-gold-property-in-the-walker-lane-trend-that-hosts-several-bonanza-and-large-epithermal-gold-systems",
+      "justification": "The article from accesswire.com is titled 'Wolfden Options Drill-Ready Nevada Gold Property...' and details the option agreement for the Rockland Property between Wolfden and Evergold."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for payments and expenditures is specified as US dollars: '...completing $US1.175 million in exploration expenditures...' and '...cash payments totaling $US600,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 600000,
+      "justification": "A cash payment is part of the terms to earn the initial interest: '...making cash payments totaling $US600,000 to the underlying property rights holder Enigma Resources LLC (“Enigma”) by March 1, 2028.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms mention cash payments and exploration expenditures, but no payments in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment component is explicitly defined, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention payments in options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": 1500,
+      "justification": "The agreement includes a minimum drilling commitment, stated in both feet and meters: '...including a minimum of 5,000 feet (~1,500 m) of drilling...'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1175000,
+      "justification": "The agreement requires a specific exploration expenditure to earn the initial interest: 'Under the first stage, Wolfden may earn an initial 51% interest by completing $US1.175 million in exploration expenditures before January 1, 2026...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The agreement specifies that royalties can be purchased down to a retained net smelter return of 1.5%: '...royalties that can be purchased down to a 1.5% net smelter return.'"
+    },
+    "coverage_area_raw": {
+      "value": 1054,
+      "justification": "The size of the property is stated in the Wolfden press release: '...the 1,054 hectare property is underlain by a large, robust, low-sulphidation, quartz-adularia epithermal gold-silver system...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified as hectares: '...the 1,054 hectare property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes drill intercepts (e.g., '1.0 g/t AuEq* over 146.4 metres') but does not provide a formal mineral resource estimate in terms of total tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:WLF",
+      "justification": "The buyer is identified as 'Wolfden Resources Corporation(WLF.V)'. The '.V' suffix and the detailed quote section ('Exchange: TSXV') confirm the exchange is the TSX Venture Exchange."
+    }
+  }
+}

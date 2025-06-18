@@ -1,0 +1,80 @@
+--- Article Metadata ---
+Project Name: Palmer
+Company Name: American Pacific Mining Corp.
+Exchange: CSE
+Ticker: USGD
+Primary Commodity: Cu
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.2.2024, 1:00:00 PM
+
+# American Pacific Closes Transaction to Gain USD$10M and 100% Interest in the Palmer VMS Project in Alaska
+
+Vancouver, British Columbia--(Newsfile Corp. - December 2, 2024) - **American Pacific Mining Corp. (CSE: USGD) (OTCQX: USGDF) (FSE: 1QC1)**("**American Pacific** " or the "**Company** ") announced today that it has closed its previously announced transaction with Dowa Metals & Mining Alaska Ltd. ("**Dowa** ") to acquire Dowa's interest in Constantine Mining LLC, the holder of the Palmer VMS Project ("**Palmer** " or the "**Project** "). American Pacific would once again like to thank Dowa for its collaborative approach to work at Palmer over the years. 
+
+**Transaction Terms**
+
+Pursuant to the terms of the Purchase Agreement executed November 15th, 2024, Constantine North Inc., a wholly-owned subsidiary of American Pacific, has acquired Dowa's interest in Constantine Mining LLC (the "**Dowa Interest** ") and Dowa has paid American Pacific USD$10,000,000 in exchange for providing an affiliate of Dowa with an option to acquire up to 50% of the zinc concentrate produced for the initial year of production and each subsequent year of production at the Project and the provision of certain indemnities in the Purchase Agreement. With the close of the acquisition of the Dowa Interest, American Pacific has a consolidated 100%-interest in the Project. 
+
+"This transaction marks a pivotal moment for American Pacific," commented American Pacific's Chief Executive Officer, Warwick Smith. "We've now obtained full ownership of a project with proven mineral resources and vast untapped regional discovery potential, while also securing substantial funding to ramp up exploration of key assets across our portfolio, paving the way for significant resource growth." 
+
+**Palmer VMS Project**
+
+The Palmer VMS Project is an advanced stage copper-zinc-gold-silver exploration project in Southeast Alaska with road access and located only 60 kilometres (37 miles) from the deep sea port at Haines, Alaska. More than USD$116M has been spent to-date at Palmer, with NI-43-101 mineral resources defined at the Palmer and AG deposits. Recent drilling (2023-2024) has highlighted the potential to define extremely rich copper zones and the Palmer Project includes numerous drill-ready, high-grade prospects that define more than 15 kilometres of favourable mineral trends, all hallmarks of a significant massive sulphide system.
+
+**Qualified Person Statement**
+
+The technical information in this news release regarding the Palmer Project has been reviewed and approved by Michael Vande Guchte, P.Geo., Vice President of Exploration for the Palmer Project and a Qualified Person (QP) as defined by National Instrument 43-101, Standards of Disclosure for Mineral Projects. 
+
+**About American Pacific Mining Corp.**
+
+American Pacific Mining Corp. is a precious and base metals explorer and developer focused on opportunities in the Western United States. The Company has two flagship assets: 100%-owned Palmer Project, a Volcanic Massive Sulphide-Sulphate (VMS) project in Alaska, and the 100%-owned Madison Project, a past-producing copper-gold project in Montana. For the Madison transaction, American Pacific was selected as a finalist in both 2021 and 2022 for 'Deal of the Year' at the S&P Global Platts Metals Awards, an annual program that recognizes exemplary accomplishments in 16 performance categories. Also in American Pacific's asset portfolio, are three high-grade, precious metals projects located in key mining districts of Nevada, USA: the Ziggurat Gold project, the Gooseberry Silver-Gold project; and the Tuscarora Gold-Silver project. The Company's mission is to grow by the drill bit and by acquisition.
+
+**On behalf of the American Pacific Mining Corp Board of Directors:**
+
+**Warwick Smith, CEO & Director**  
+Corporate Office: Suite 910 – 510 Burrard Street   
+Vancouver, BC, V6C 3A8 Canada
+
+**Investor relations contact:**
+
+**Kristina Pillon, High Tide Consulting Corp.**  
+604.908.1695 / [Kristina@americanpacific.ca](mailto:Kristina@americanpacific.ca)
+
+**Media relations contact:**
+
+**Adam Bello, Primoris Group Inc.**  
+416.489.0092 / [media@primorisgroup.com](mailto:media@primorisgroup.com)
+
+Full disclosure can be found in our NI 43-101 Technical Report for the Palmer Project at [www.americanpacificmining.com](https://api.newsfilecorp.com/redirect/GmLR3TaGOb).
+
+_**Forward-looking Information**_
+
+ _This news release includes certain statements that may be deemed to be "forward-looking information" within the meaning of Canadian securities legislation. All statements in this news release, other than statements of historical facts are forward looking statements. Forward-looking statements are often, but not always, identified by the use of words such as "seek", "anticipate", "plan", "continue", "estimate", "expect", "may", "will", "project", "predict", "potential", "targeting", "intend", "could", "might", "should", "believe" and similar expressions. These statements involve known and unknown risks, uncertainties and other factors that may cause actual results or events to differ materially from those anticipated in such forward-looking statements. Although APM believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results or developments may differ materially from those in the forward-looking statements. Factors that could cause actual results to differ materially from those in forward-looking statements include, but are not limited to, timing of receipt of required permits, changes in applicable laws, changes in commodities prices, changes in mineral production performance, exploitation and exploration successes, as applicable, continued availability of capital and financing, and general economic, market or business conditions, political risk, currency risk and capital cost inflation. In addition, forward-looking statements are subject to various risks, including that data is incomplete and considerable additional work will be required to complete further evaluation, including but not limited to drilling, engineering and socio-economic studies and investment. The reader is referred to the APM's filings with the Canadian securities regulators for disclosure regarding these and other risk factors. There is no certainty that any forward-looking statement will come to pass, and investors should not place undue reliance upon forward-looking statements._
+
+The CSE has neither approved nor disapproved the contents of this news release.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/231954](https://api.newsfilecorp.com/redirect/QOWZYt2mP5)
+
+### Project Name
+
+[Palmer Project](/?gid=1140)
+
+--- Detailed Quote ---
+
+Last: 0.225                       Open: 0.235
+High: 0.24                       Bid: 0.225
+Bid Size: 3000                   Beta: 3.2307
+Year High: 0.275                  Market Cap: 49.29m
+PB Ratio: 1.07                   EPS: 0.01
+Average Volume (30 Day): 143.10k    Volume: 128.30k
+Prev. Close: 0.225                Low: 0.22
+Ask: 0.23                        Ask Size: 11000
+VWAP: 0.22929                       Year Low: 0.105
+Total Shares: 219.09m               Shares Out: 219.09m
+PE Ratio: 22.50                   Float: 217.07m
+Exchange: CSE

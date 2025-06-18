@@ -1,0 +1,71 @@
+{
+  "source_files": [
+    "golden_data/Achilles/achilles_1.txt"
+  ],
+  "extraction_data": {
+    "ceo_buyer": {
+      "value": "Timothy Morrison",
+      "justification": "The contact section lists: 'Timothy Morrison Trigg Minerals Limited Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The document states: 'Trigg signs purchase agreement to acquire the 100% of the Achilles project' and 'Under the terms of the Sale Agreement, Trigg Minerals Limited (TMG) will acquire 100% ownership of EL 6388 from Anchor Resources Pty Limited'."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The consideration is specified in Australian dollars: '• AU$250,000 worth of shares in TMG (Tranche 1 TMG Shares)... • An additional AU$200,000 worth of shares (Tranche 2 TMG Shares)...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is explicitly described as non-cash: '100% non-cash transaction allows Trigg to preserve its healthy cash balance for value adding exploration.'"
+    },
+    "share_payments_raw": {
+      "value": 450000,
+      "justification": "The total share consideration is the sum of two tranches: 'AU$250,000 worth of shares in TMG (Tranche 1 TMG Shares)' and 'An additional AU$200,000 worth of shares (Tranche 2 TMG Shares)', totaling AU$450,000."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate share payment values were identified, which takes priority according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The exact number of shares is not specified, as it depends on a future price calculation: 'to be issued at a price based on the volume-weighted average price (VWAP) of TMG's shares over the 15 trading days prior to the completion date.'"
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A fixed share price is not provided; it is based on a variable calculation: 'to be issued at a price based on the volume-weighted average price (VWAP) of TMG's shares over the 15 trading days prior to the completion date.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document outlines plans for future exploration but does not mention a specific monetary commitment as part of the acquisition terms."
+    },
+    "exploration_commitment_desc": {
+      "value": null,
+      "justification": "The document does not specify an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller will retain a royalty as part of the deal terms: 'A 1% net smelter return (NSR) royalty on all minerals extracted from the tenement area, as governed by a Royalty Deed to be entered into at completion.'"
+    },
+    "coverage_area_raw": {
+      "value": 40,
+      "justification": "Found in Appendix 2, JORC Table 1, Section 2: 'The licence is granted for Group 1 minerals and embraces 13 units covering approximately 40km².'"
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "Found in Appendix 2, JORC Table 1, Section 2: 'The licence is granted for Group 1 minerals and embraces 13 units covering approximately 40km².'"
+    },
+    "resource_size": {
+      "value": "610,000 tonnes at 2.56% Sb, containing 15,600 tonnes of antimony (Indicated and Inferred categories)",
+      "justification": "The document states: 'The Achilles Project hosts the globally significant high grade and high tonnage Wild Cattle Creek antimony deposit, with a JORC 2012-compliant Mineral Resource Estimate (MRE) of 610,000 tonnes at 2.56% Sb, containing 15,600 tonnes of antimony (Indicated and Inferred categories).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:TMG",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the document: 'Trigg Minerals Limited (ASX: TMG)'."
+    }
+  }
+}

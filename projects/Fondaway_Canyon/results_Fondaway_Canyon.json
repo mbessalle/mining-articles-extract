@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Fondaway_Canyon/46378.txt",
+    "projects/Fondaway_Canyon/46672.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Fondaway Canyon",
+      "justification": "The primary project of interest is explicitly named throughout the documents, for example: 'Getchell Gold Corp. Announces Raising Sufficient Funds to Make the Final Earn-In Option Payment to Acquire 100% of the Fondaway Canyon Gold Project, NV'."
+    },
+    "company_name": {
+      "value": "Getchell Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Getchell Gold Corp.(CSE: GTCH) (OTCQB: GGLDF) (FWB: GGA1)(\"Getchell\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Bill Wagener",
+      "justification": "The CEO of the buyer, Getchell Gold Corp., is quoted in the text: '\"Completing the acquisition of the Fondaway Canyon gold project will undoubtably be a milestone event...\" Bill Wagener, Chairman and CEO, commented.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full 100% interest in the properties: '...the Company has delivered the final US$1.6 million earn-in option cash payment and US$1 million share issuance to acquire a 100% interest in the Fondaway Canyon and Dixie Comstock gold properties...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project: '...to acquire a 100% interest in the Fondaway Canyon and Dixie Comstock gold properties...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No specific article link was provided in the source documents, only a general company website (www.getchellgold.com)."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction payments is specified as US dollars: '...paying Canagold a total of US$2 million in cash and US$2 million in the Company's shares...'"
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "The project's share is $1,000,000, calculated as half of the total US$2 million cash payment shared between the Fondaway Canyon and Dixie Comstock properties, as stated in the agreement terms: '...the Company has the option to acquire 100% of the Fondaway Canyon and Dixie Comstock, properties by paying Canagold a total of US$2 million in cash...'"
+    },
+    "share_payments_raw": {
+      "value": 1000000,
+      "justification": "The project's share is $1,000,000, calculated as half of the total US$2 million share payment shared between the Fondaway Canyon and Dixie Comstock properties, as stated in the agreement terms: '...the Company has the option to acquire 100% of the Fondaway Canyon and Dixie Comstock, properties by paying Canagold a total of US$2 million in cash and US$2 million in the Company's shares...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash and share payment values were available, so this combined field is not used."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The total number of shares for the entire US$2 million share component was not specified. The text only mentions the number of shares for the final payment tranche ('issued 10,167,000 shares'), not the total for the full transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants were mentioned in the context of separate financing activities ('Debenture Warrant', 'Unit Warrant'), not as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement, but the consideration is specified as cash and shares, not a separate option payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction was not mentioned in the deal terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment specified in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 725000,
+      "justification": "The project's share is $725,000, calculated as half of the total US$1.45 million work commitment shared between the Fondaway Canyon and Dixie Comstock properties, as stated in the text: 'The Company also has work commitments totaling US$1.45 million over the four years which have been fully satisfied.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller (Canagold) retained a 2% NSR on the property: '...and grant a 2.0% net smelter return royalty (\"NSR Royalty\") on each of the Properties to the Option or on the exercise of the Option.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area in hectares, square kilometers, or other units was mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit was mentioned in the text."
+    },
+    "resource_size": {
+      "value": "38.3 million tonnes at an average grade of 1.23 g/t Au for 1,509,100 ounces of gold (Inferred); and 11.0 million tonnes at an average grade of 1.56 g/t Au for an additional 550,800 ounces of gold (Indicated)",
+      "justification": "The text provides a detailed Mineral Resource Estimate for the project: 'Inferred Mineral Resource of 38.3 million tonnes at an average grade of 1.23 g/t Au for 1,509,100 ounces of gold; Indicated Mineral Resource of 11.0 million tonnes at an average grade of 1.56 g/t Au for an additional 550,800 ounces of gold'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GTCH",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Getchell Gold Corp.(CSE: GTCH)'."
+    }
+  }
+}

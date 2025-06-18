@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Wolf_Canyon/48563.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wolf Canyon",
+      "justification": "The text states: \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN) ('Basin Uranium' or the 'Company') is pleased to announce it has acquired the Wolf Canyon Uranium Project (the 'Project' or 'Wolf Canyon')\"."
+    },
+    "company_name": {
+      "value": "Basin Uranium Corp.",
+      "justification": "The acquiring company is identified as \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN) ('Basin Uranium' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "Mike Blady",
+      "justification": "The text identifies the CEO in the signature block: \"Mike Blady Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The project was acquired through 'direct staking', which implies acquiring 100% of the mineral rights. The text states: \"The Project, which was acquired through direct staking by the Company...\"."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly named the \"Wolf Canyon Uranium Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/197137",
+      "justification": "The article is titled \"Basin Uranium Stakes New Uranium Project\" and details the acquisition of the Wolf Canyon project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Basin Uranium Corp., is listed on the Canadian Securities Exchange (CSE), and option prices are denoted with a '$' symbol, implying Canadian Dollars. Text states: \"BASIN URANIUM CORP. (CSE: NCLR)\" and \"exercise price of $0.33\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", not a purchase from another company, so no cash consideration was paid for the asset. The text states: \"The Project, which was acquired through direct staking by the Company\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", not a purchase from another company, so no share consideration was paid for the asset. The text states: \"The Project, which was acquired through direct staking by the Company\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via direct staking, which does not involve a purchase consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the project acquisition. The shares and RSUs mentioned were issued to consultants, officers, and directors for services, not for the asset itself."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued as consideration for the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as consideration for the project acquisition. The options mentioned were granted to consultants and an IR firm for services, not for the asset itself."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the project acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1600,
+      "justification": "The text states: \"The Project, which was acquired through direct staking by the Company, is comprised of 80 unpatented mineral lode claims totaling 1,600 acres\"."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"The Project, which was acquired through direct staking by the Company, is comprised of 80 unpatented mineral lode claims totaling 1,600 acres\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a historical resource but does not provide any quantified figures, stating \"additional verification and validation must be performed by the Company's Qualified Person before being disclosed publicly.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NCLR",
+      "justification": "The text identifies the company's ticker and exchange as: \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN)\"."
+    }
+  }
+}

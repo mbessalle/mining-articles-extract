@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Northern_Lights/73419.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Northern Lights",
+      "justification": "The text repeatedly refers to the project as the 'Northern Lights Copper Project', for example: 'Global Copper Corp. is pleased to announce that it has initiated a property-wide soil and rock geochemical sampling survey on its 100%-owned, 485 hectare Northern Lights Copper Project (the \"Project\") in Nevada.'"
+    },
+    "company_name": {
+      "value": "Global Copper Corp.",
+      "justification": "The press release is issued by 'Global Copper Corp. (TSXV: CUCU) (FSE: WD9) (\"Global Copper\" or the \"Company\")' and it states the project is its '100%-owned Northern Lights Copper Project'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Dunn",
+      "justification": "The contact information for Global Copper Corp., the owner of the project, lists 'Stephen Dunn, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "No interest was acquired in this transaction. The text states that the Northern Lights project is already '100%-owned' by Global Copper Corp."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is explicitly named the 'Northern Lights Copper Project' and the text discusses copper mineralization, such as 'copper mineralization grading 3% to 12% Cu'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/225197",
+      "justification": "The article is a press release from Global Copper Corp. detailing exploration activities on its Northern Lights Copper Project. The source link is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/225197'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transactions or payments are mentioned in relation to the Northern Lights project. The financial details provided are for the separate option agreement on the Silver Vista Property."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments mentioned (e.g., '$10,000', '$20,000') are part of the option agreement to acquire the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share issuance mentioned is part of the option agreement to acquire the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment value is mentioned for the Northern Lights project. The payments described are for the separate Silver Vista Property acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of '4,000,000 common share' is part of the option agreement to acquire the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The 'deemed price of $0.05 per Common Share' is associated with the share issuance for the acquisition of the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters for the Northern Lights project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The requirement to 'incur $100,000 in expenditures on the Property' is for the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The '2% net smelter return royalty' mentioned is on the 'Silver Vista Property', not the Northern Lights project."
+    },
+    "coverage_area_raw": {
+      "value": 485,
+      "justification": "The text states: 'The property consists of 58 lode mining claims covering 1200 acres (485 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The property consists of 58 lode mining claims covering 1200 acres (485 hectares)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates that no formal resource has been defined, stating: 'The project is currently in the early exploration phase but planned drilling will confirm the grade, thickness and downdip extent of the mineralization confirmed at the surface.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CUCU",
+      "justification": "The company that owns the project, Global Copper Corp., is identified with the ticker and exchange in the first paragraph: 'Global Copper Corp. (TSXV: CUCU) (FSE: WD9)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Las_Animas__Galactica_Pegasus_/77528.txt",
+    "projects/Las_Animas__Galactica_Pegasus_/77528_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Galactica / Pegasus",
+      "justification": "The text consistently refers to the project as the 'Galactica / Pegasus project', for example: 'Farm-in agreement with Helium One to earn a 50% interest in the Galactica / Pegasus project...'"
+    },
+    "company_name": {
+      "value": "Blue Star Helium Limited",
+      "justification": "The announcement is from 'Blue Star Helium Limited (ASX:BNL, OTCQB:BSNLF) (Blue Star or the Company)' and states it has 'successfully completed its agreement to farm out a 50% interest in its Galactica / Pegasus project'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Helium One Global Ltd, is not mentioned in the text. The text only mentions Trent Spry, the CEO of the seller, Blue Star Helium."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "Helium One to earn a 50% interest in the Galactica / Pegasus project in exchange for paying US$1.5 million cash consideration and to fund the drilling of six development wells."
+    },
+    "primary_commodity": {
+      "value": "He",
+      "justification": "The company is named 'Blue Star Helium Limited' and the announcement is titled 'Completion of Helium One Farmin Agreement'. The text also discusses 'First helium production from Galactica / Pegasus'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no URL was included in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The consideration is specified in US dollars: 'paying US$1.5 million cash consideration'."
+    },
+    "cash_payments_raw": {
+      "value": 1500000,
+      "justification": "Helium One earns its interest in exchange for 'paying US$1.5 million to Blue Star in consideration for past costs'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement involves a cash payment and funding for drilling, but no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment and exploration funding are listed as separate components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement does not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not mention share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not mention options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The agreement does not involve the issuance of shares, so there is no share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is a monetary value for drilling, not a specified length in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2700000,
+      "justification": "The agreement includes a commitment from Helium One for 'funding the drilling of six (6) development wells (capped at US$450k per well)', which totals US$2,700,000 (6 * 450,000)."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in hectares or any other unit."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in hectares or any other unit."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions gas column heights ('up to 230 feet') and flow rates ('125 Mcfd and 412 Mcfd'), but does not provide a quantified resource estimate in a unit of mass or total volume (e.g., tonnes, ounces, Mt, Bcf)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "AIM:HE1",
+      "justification": "The buyer is identified as 'Helium One Global Ltd (AIM: HE1)'."
+    }
+  }
+}

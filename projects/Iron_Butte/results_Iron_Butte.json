@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Iron_Butte/35480.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Iron Butte",
+      "justification": "The text describes a transaction for Lode Metals Corp. to acquire rights to the 'Iron Butte Project, located in Lander County, Nevada'."
+    },
+    "company_name": {
+      "value": "Lode Metals Corp.",
+      "justification": "The acquiring company is identified as 'Lode Metals Corp. (CSE: LODE) (the \"Company\")'. This contradicts the authoritative metadata but is clearly stated in the source document."
+    },
+    "ceo_buyer": {
+      "value": "Jon Bey",
+      "justification": "The contact person for the buyer, Lode Metals Corp., is listed as: 'Jon Bey President & Chief Executive Officer Lode Metals Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states Lode acquired 'all rights to the contractual arrangements... to acquire the Iron Butte Project', but does not specify the final ownership percentage of the project that can be acquired under the option agreement."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The transaction is for 'US Gold Projects' and the acquiring company, Lode Metals, is described as a 'gold exploration company'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/166640",
+      "justification": "The article is a press release from Lode Metals Corp. announcing it has acquired the rights to the Iron Butte Project. The source URL is provided at the end of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No currency is explicitly mentioned for any transaction values in the provided text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the assignment was in shares. The underlying option agreements require future 'a series of cash payments', but the specific amounts are not disclosed in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares issued as consideration but does not provide an equivalent monetary value for them."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No single combined cash and share value for the transaction is provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The project's share is 5,000,000, calculated as half of the total 10,000,000 shares issued for the rights to two projects (Iron Butte and Hope Butte). The text states: 'In consideration for the Assignment, the Company has issued 10,000,000 common shares... Lode now holds the rights to acquire the Iron Butte Project, and the Hope Butte Project...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is for the rights to an option agreement, but the payment itself was not made in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not state the price per share for the 10,000,000 shares issued as consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Iron Butte project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the size or area of the Iron Butte project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of mineral resources for the Iron Butte project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LODE",
+      "justification": "The buyer is identified as 'Lode Metals Corp. (CSE: LODE)', with the ticker and exchange explicitly provided. This contradicts the authoritative metadata but is directly supported by the text."
+    }
+  }
+}

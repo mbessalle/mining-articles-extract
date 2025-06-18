@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Prospect_Mountain_Mine_complex/34720.txt",
+    "projects/Prospect_Mountain_Mine_complex/35585.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Prospect Mountain Mine complex",
+      "justification": "The authoritative metadata and the article title confirm the project name: 'North Peak Signs Definitive Agreement to Acquire Prospect Mountain Mine Complex in Silver-Gold-Lead District of Eureka, Nevada'."
+    },
+    "company_name": {
+      "value": "North Peak Resources Ltd.",
+      "justification": "The buyer is identified in the first sentence: 'North Peak Resources Ltd. (TSXV: NPR) (the \"Company\" or \"North Peak\") announces it has executed a binding, definitive agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Brian Hinchcliffe",
+      "justification": "The CEO of the buyer is identified in a quote: '\"The Prospect Mountain Mine complex...will receive for the first time,\" said Brian Hinchcliffe, CEO & President.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquires an initial 80% interest with the right to acquire the remaining 20%, for a total potential interest of 100%. 'The Transaction involves the issuance of up to 8 million common shares of the Company in two phases – an initial tranche of 5 million common shares that acquires an 80% interest in the Property, and at the Company's discretion, an additional 3 million common shares to acquire the remaining 20% interest.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata lists 'Au' and the article title describes the project as being in a 'Silver-Gold-Lead District'. The company itself is described as a 'Canadian based gold exploration and development company'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a copy-paste of press releases and does not contain a direct link to a specific news article."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is specified as US dollars for cash payments and exploration commitments: 'the Company will make cash payments of US$385,000 in total per year' and 'expenditures will total no less than US$1 million per year'."
+    },
+    "cash_payments_raw": {
+      "value": 1155000,
+      "justification": "The agreement includes three annual cash payments of US$385,000, totaling US$1,155,000. 'the Company will make cash payments of US$385,000 in total per year, for each of the first three years following completion of the Transaction'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a price per share (via fallback), which takes precedence over a raw share value according to the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into cash and share components, which takes precedence over a combined value according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The transaction involves an initial 5 million shares and an additional 3 million shares to acquire the full interest, for a total of 8 million shares. 'The Transaction involves the issuance of up to 8 million common shares of the Company in two phases – an initial tranche of 5 million common shares... and at the Company's discretion, an additional 3 million common shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions the issuance of 340,000 warrants but does not assign a monetary value to them. 'the Company will issue 340,000 common share purchase warrants to those persons designated by Solarljos'."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.8,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.80'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The company committed to spend US$1 million per year for three years, totaling US$3,000,000. 'the Company will undertake to complete a minimum three year exploration program at the Property where expenditures will total no less than US$1 million per year'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller was granted a 1% NSR. 'on the Formation Date, Solarljos will be granted a 1% NSR royalty on mineral production from the Property'."
+    },
+    "coverage_area_raw": {
+      "value": 1700,
+      "justification": "The property size is stated in the description: 'The Property is over 1,700 acres of high elevation lands'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified as acres: 'The Property is over 1,700 acres of high elevation lands'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical mining and mineralization styles but does not provide a quantified mineral resource estimate. It notes, 'the Property contains very limited recorded drilling' and 'there has been no systematic modern drilling.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NPR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'North Peak Resources Ltd. (TSXV: NPR)'."
+    }
+  }
+}

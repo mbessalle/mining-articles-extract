@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Clayton_Ridge/38184.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Clayton Ridge",
+      "justification": "The article is titled 'Spearmint Acquires the Clayton Ridge Project in Clayton Valley, Nevada' and the body states 'the Company has acquired the Clayton Ridge Project in Clayton Valley, Nevada...'"
+    },
+    "company_name": {
+      "value": "Spearmint Resources Inc.",
+      "justification": "The acquiring company is identified as 'Spearmint Resources Inc. (CSE: SPMT) (OTC Pink: SPMTF) (FSE: A2AHL5) (the \"Company\" or \"Spearmint\")'."
+    },
+    "ceo_buyer": {
+      "value": "James Nelson",
+      "justification": "The press release is signed by '\"James Nelson\" President Spearmint Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states the project was 'acquired', but does not specify the percentage of interest acquired. Acquisition via staking implies 100% but this is not explicitly stated."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is located in Clayton Valley, a major lithium district, and the announcement discusses other lithium developments in the area: 'SLB (formerly Schlumberger Limited) is nearing the final stages of testing their lithium brine processing plant on Pure Energy's brine project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/174008",
+      "justification": "The article title 'Spearmint Acquires the Clayton Ridge Project in Clayton Valley, Nevada' and the content clearly pertain to the project of interest. The source URL is provided at the end of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via staking, and no financial transaction details or currency are mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was made as 'The Clayton Ridge Project has been acquired via staking.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment was made as 'The Clayton Ridge Project has been acquired via staking.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment was made as 'The Clayton Ridge Project has been acquired via staking.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as 'The Clayton Ridge Project has been acquired via staking.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were part of the transaction as the project was acquired via staking."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were part of the transaction as the project was acquired via staking."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of a transaction, so there is no issue price. The project was acquired via staking."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions 'Plans are currently being formulated for a 2023 drill program in Clayton Valley' but does not specify a meterage commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the acquisition terms."
+    },
+    "coverage_area_raw": {
+      "value": 721,
+      "justification": "The text states the project comprises '35 contiguous claims totalling approximately 721 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states the project comprises '35 contiguous claims totalling approximately 721 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a resource estimate for a different project, the McGee lithium clay deposit, not the Clayton Ridge project. The text states: 'the Company announced that it has received the updated Technical Report and Mineral Resource estimate for the 100-per-cent-owned McGee Lithium Clay Deposit...of 1,369,000 indicated tonnes and 723,000 inferred tonnes of lithium carbonate equivalent (LCE)'. No resource is stated for Clayton Ridge."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SPMT",
+      "justification": "The buyer is identified as 'Spearmint Resources Inc. (CSE: SPMT)' in the first paragraph of the press release."
+    }
+  }
+}

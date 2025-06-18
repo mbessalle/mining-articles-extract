@@ -1,0 +1,73 @@
+--- Article Metadata ---
+Project Name: Rock Creek Mill
+Company Name: Almaden Minerals Ltd.
+Exchange: TSX
+Ticker: AMM
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.3.2025, 1:30:00 PM
+
+# Almaden Enters into Agreement to Sell the Rock Creek Mill
+
+VANCOUVER, British Columbia, March 03, 2025 (GLOBE NEWSWIRE) -- **Almaden Minerals Ltd. (“Almaden” or “the Company”; TSX: AMM; OTCQB: AAUAF)** is pleased to announce that it has entered into a definitive agreement (the “**Agreement** ”) to sell certain assets comprising the Rock Creek Mill to Metals Exploration PLC (LSE AIM: MTL) (the “**Purchaser** ”) for a purchase price of US$9,700,000 (the “**Purchase Price** ”). The Rock Creek Mill is located in Nome, Alaska.
+
+Closing of the transaction is subject to certain conditions, including completion by the Purchaser of a final inspection, and is expected to occur on or prior to August 31, 2025. The Purchase Price shall be payable in certain instalments as follows:
+
+  * US$2,000,000 is due within 14 days of the execution of the Agreement.
+  * US$3,000,000 shall be paid upon verification of transport scheduling (expected to take place on or around March 31, 2025).
+  * US$2,000,000 shall be paid following the final inspection (expected to take place on or around April 30, 2025).
+  * US$2,700,000 shall be paid when the assets are prepared for shipment (expected to take place on or around August 31, 2025), subject to adjustment based on the final inspection.
+
+
+
+15% of the Purchase Price shall by payable as a commission by Almaden to an equipment sales broker.
+
+On behalf of the Board of Directors,
+
+__“J. Duane Poliquin”__           
+J. Duane Poliquin  
+Chair  
+Almaden Minerals Ltd.
+
+**Safe Harbor Statement**
+
+_Certain of the statements and information in this news release constitute “forward-looking statements” within the meaning of the United States Private Securities Litigation Reform Act of 1995 and “forward-looking information” within the meaning of applicable Canadian provincial securities laws. All statements, other than statements of historical fact, are forward-looking statements or information. Forward-looking statements or information in this news release relate to, among other things, the completion of the sale of the Rock Creek Mill on the expected terms and timing thereof._
+
+_These forward-looking statements and information reflect the Company’s current views with respect to future events and are necessarily based upon a number of assumptions that, while considered reasonable by the Company, are inherently subject to significant legal, regulatory, business, operational and economic uncertainties and contingencies, and such uncertainty generally increases with longer-term forecasts and outlook._
+
+_The Company cautions the reader that forward-looking statements and information involve known and unknown risks, uncertainties and other factors that may cause actual results and developments to differ materially from those expressed or implied by such forward-looking statements or information contained in this news release. Such risks and other factors include, among other, those factors discussed the section entitled “Risk Factors” in Almaden’s Annual Information Form and Almaden’s latest Form 20-F on file with the United States Securities and Exchange Commission in Washington, D.C. Although the Company has attempted to identify important factors that could affect the Company and may cause actual actions, events or results to differ materially from those described in forward-looking statements or information, there may be other factors that cause actions, events or results not to be as anticipated, estimated or intended. There can be no assurance that our forward-looking statements or information will prove to be accurate. Accordingly, readers should not place undue reliance on forward-looking statements or information. Except as required by law, the Company does not assume any obligation to release publicly any revisions to on forward-looking statements or information contained in this news release to reflect events or circumstances after the date hereof or to reflect the occurrence of unanticipated events._
+
+Contact Information:
+
+Almaden Minerals Ltd.  
+Tel. 604.689.7644  
+Email: info@almadenminerals.com  
+http://www.almadenminerals.com/
+
+  
+
+
+### Project Name
+
+[Rock Creek Mill Project](/?gid=9952)  
+Alaska, United States
+
+--- Detailed Quote ---
+
+Last: 0.245            $  Chg: 0.01
+Open: 0.2375            High: 0.245
+Bid: 0.235             Bid Size: 1000
+Beta: 0.4654            Year High: 0.235
+Market Cap: 33.62m      PB Ratio: 10.85
+EPS: -0.02             Average Volume (30 Day): 73.43k
+Volume: 44.95k          % Chg: 4.26%
+Prev. Close: 0.235     Low: 0.2375
+Ask: 0.245             Ask Size: 33500
+VWAP: 0.24129            Year Low: 0.045
+Total Shares: 137.22m    Shares Out: 137.22m
+Float: 121.73m           Exchange: TSX

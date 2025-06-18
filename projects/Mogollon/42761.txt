@@ -1,0 +1,79 @@
+--- Article Metadata ---
+Project Name: Mogollon
+Company Name: Summa Silver Corp.
+Exchange: TSXV
+Ticker: SSVR
+Primary Commodity: Ag
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+10.20.2023, 1:00:00 AM
+
+# Summa Silver Earns 100% Interest in the High-Grade Silver and Gold Mogollon Project in New Mexico
+
+Vancouver, British Columbia--(Newsfile Corp. - October 19, 2023) - **Summa Silver Corp.** **(TSXV: SSVR) (OTCQX: SSVRF) (FSE: 48X)** ("Summa" or the "Company") is pleased to announce that it is completing all option payments to Allegiant Gold Ltd. ("Allegiant") (TSXV: AUAU) for the Mogollon Project near Silver City, New Mexico (the "Project" or "Mogollon") to earn 100% ownership of the Project. 
+
+**Galen McNamara, CEO, stated:** "Over the past three years, exploration results from Mogollon have shown that it has the potential to be one of the best silver and gold vein fields remaining in the United States. This is a project that we're very happy to own 100%. The world is now changing rapidly. We strongly believe that in the coming years responsibly tapping domestic sources of metals will be vital to both financial security and the green energy transition. I would like to thank Allegiant for their collaborative approach since we optioned the Project in 2020. I'm looking forward to continuing to collaborate closely and welcome them as significant shareholders of the Company."
+
+**Mogollon Project Payment**
+
+In connection with the option and joint venture agreement dated August 21, 2020, between the Company and Allegiant regarding the Project (the "Option Agreement"), the Company intends to issue 8,912,884 common shares (the "Consideration Shares") at a deemed price of $0.4579 per Consideration Share to Allegiant pursuant to the Option Agreement. Upon issuance of the Consideration Shares, the Company will have satisfied the requirements to exercise the phase two option pursuant to the Option Agreement and acquire 100% ownership of the Project. The Company expects to issue the Consideration Shares in the coming days. The Consideration Shares will have a statutory hold period of four months and one day from the date of issuance. 
+
+**About Summa Silver Corp**
+
+Summa Silver Corp. is a junior mineral exploration company. The Company owns a 100% interest in the Hughes project located in central Nevada and, upon issuance of the Consideration Shares, will own a 100% interest in the Mogollon project located in southwestern New Mexico. The high-grade past-producing Belmont Mine, one of the most prolific silver producers in the United States between 1903 and 1929, is located on the Hughes project. The Mogollon project is the largest historic silver producer in New Mexico. Both projects have remained inactive since commercial production ceased and neither have seen modern exploration prior to the Company's involvement.
+
+**Follow Summa Silver on Twitter: @summasilver  
+LinkedIn: **[**https://www.linkedin.com/company/summa-silver-corp/**](https://api.newsfilecorp.com/redirect/wWR4XCQ0Zx)
+
+**ON BEHALF OF THE BOARD OF DIRECTORS**
+
+**"Galen McNamara"**  
+Galen McNamara, Chief Executive Officer  
+[**info@summasilver.com**](mailto:info@summasilver.com)  
+[**www.summasilver.com**](https://api.newsfilecorp.com/redirect/gOQY5tm8JP)
+
+**Investor Relations Contact:**  
+**Giordy Belfiore**  
+Corporate Development and Investor Relations  
+**604-288-8004**  
+[**giordy@summasilver.com**](mailto:giordy@summasilver.com)  
+[**www.summasilver.com**](https://api.newsfilecorp.com/redirect/pEPY0hjX7D)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+_Cautionary note regarding forward-looking statements_
+
+ _This news release contains certain "forward looking statements" and certain "forward-looking information" as defined under applicable Canadian and U.S. securities laws. Forward-looking statements and information can generally be identified by the use of forward-looking terminology such as "may", "will", "should", "expect", "intend", "estimate", "anticipate", "believe", "continue", "plans" or similar terminology. The forward-looking information contained herein is provided for the purpose of assisting readers in understanding management's current expectations and plans relating to the future. These forward‐looking statements or information relate to, among other things: the exploration and development of the Company's mineral exploration; and issuance of the Consideration Shares._
+
+_Forward-looking information is subject to known and unknown risks, uncertainties and other factors that may cause the actual actions, events or results to be materially different from those expressed or implied by such forward-looking information, including but not limited to: the requirement for regulatory approvals; enhanced uncertainty in global financial markets as a result of the current COVID-19 pandemic; unquantifiable risks related to government actions and interventions; stock market volatility; regulatory restrictions; and other related risks and uncertainties._
+
+_Forward-looking information are based on management of the parties' reasonable assumptions, estimates, expectations, analyses and opinions, which are based on such management's experience and perception of trends, current conditions and expected developments, and other factors that management believes are relevant and reasonable in the circumstances, but which may prove to be incorrect._
+
+_The Company undertakes no obligation to update forward-looking information except as required by applicable law. Such forward-looking information represents management's best judgment based on information currently available. No forward-looking statement can be guaranteed and actual future results may vary materially. Accordingly, readers are advised not to place undue reliance on forward-looking statements or information._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/184610](https://api.newsfilecorp.com/redirect/YYw3XtXb7z)
+
+### Project Name
+
+[Mogollon Project](/?gid=2302)  
+New Mexico, United States
+
+--- Detailed Quote ---
+
+Last: 0.355             $  Chg: 0.02
+Open: 0.34             High: 0.36
+Bid: 0.355              Bid Size: 23500
+Beta: 2.03102             Year High: 0.51
+Market Cap: 43.41m       PB Ratio: 0.81
+EPS: -0.04              Average Volume (30 Day): 327.97k
+Volume: 711.74k           % Chg: 5.97%
+Prev. Close: 0.335      Low: 0.33
+Ask: 0.36              Ask Size: 210000
+VWAP: 0.34749             Year Low: 0.25
+Total Shares: 122.28m     Shares Out: 122.28m
+Escrow Shares: 738.75k    Float: 79.54m
+Exchange: TSXV

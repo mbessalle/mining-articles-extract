@@ -1,0 +1,98 @@
+{
+  "source_files": [
+    "projects/Copper_Mountain/41088.txt",
+    "projects/Copper_Mountain/42767.txt",
+    "projects/Copper_Mountain/49603.txt",
+    "projects/Copper_Mountain/52039.txt",
+    "projects/Copper_Mountain/52604.txt",
+    "projects/Copper_Mountain/76344.txt",
+    "projects/Copper_Mountain/76347.txt",
+    "projects/Copper_Mountain/84574.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Mountain",
+      "justification": "The text consistently refers to the project as the Copper Mountain Project. For example: 'Myriad Uranium Corp. Announces Proposed Transaction Respecting Copper Mountain Project in Wyoming, USA'."
+    },
+    "company_name": {
+      "value": "Myriad Uranium Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press releases: 'Myriad Uranium Corp.(CSE: M) (OTCQB: MYRUF) (FSE: C3Q) (\"Myriad \" or the \"Company\") is pleased to announce that it has signed a binding letter of intent...'"
+    },
+    "ceo_buyer": {
+      "value": "Thomas Lamb",
+      "justification": "The CEO of the buyer, Myriad Uranium Corp., is identified in multiple articles: '\"This will be a transformative transaction for Myriad,\" stated Thomas Lamb, Myriad's CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "Myriad has the option to earn a total of 75% interest in the project. 'On successfully earning a 50% interest in the Property, Myriad will have the option to acquire an additional 25% interest (for a total interest of 75%) in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly identified as a uranium project. 'Myriad Uranium Corp. is a uranium exploration company with an earnable 75% interest in the Copper Mountain Uranium Project in Wyoming, USA.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180954",
+      "justification": "The article at this link is a press release from Myriad Uranium Corp. announcing the proposed transaction for the Copper Mountain Project, which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Myriad Uranium Corp., is listed on the Canadian Securities Exchange (CSE: M). While transaction payments are denoted with '$', a historical spending figure is explicitly given in Canadian dollars ('Union Pacific is estimated to have spent C$117 million (2024 dollars) exploring and developing Copper Mountain'), indicating CAD is the currency of context for the Canadian company's dealings."
+    },
+    "cash_payments_raw": {
+      "value": 135000,
+      "justification": "The total cash payment is the sum of two separate payments mentioned in the agreement terms: 'making an initial cash payment of $100,000 to Rush' and 'making an additional cash payment of $35,000 to Rush on the date which is 90 days from the Effective Date'. Total is $100,000 + $35,000 = $135,000."
+    },
+    "share_payments_raw": {
+      "value": 2900000,
+      "justification": "The total share payment value is the sum of the shares issued for the initial 50% option and a future contingent payment. A later announcement clarifies the initial share value: 'Myriad has now issued an aggregate of 1,093,702 Myriad common shares (each, a \"Share\") having an aggregate value of $400,000'. A contingent payment is also specified: 'upon completion of a Prefeasibility Study or Preliminary Economic Assessment respecting the Property, Myriad shall be obligated to issue an additional $2,500,000 worth of Shares to Rush'. Total is $400,000 + $2,500,000 = $2,900,000."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are detailed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Although a number of shares (1,093,702) is mentioned for part of the transaction, the total consideration is best represented by the explicit cash and share values provided, which takes precedence according to the extraction hierarchy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments made with share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments made with options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The total consideration is best represented by the explicit cash and share values provided, which takes precedence over calculating value from share count and price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5500000,
+      "justification": "The total exploration commitment to earn 75% is the sum of two phases: 'making expenditures of no less than $1,500,000 on the Property' and 'making additional expenditures of no less than $4,000,000 (for total expenditures of no less than $5,500,000) on the Property'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a '50% net profit interest held by Rush on the initial $50,000,000 in net profits', which is a Net Profit Interest (NPI), not a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR). No NSR/GRR was part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 9320,
+      "justification": "The most recent press release provides the latest total area for the project after several expansions: 'Myriad Uranium Corp... is pleased to announce an expansion of the Copper Mountain Project Area, from approximately 4,200 acres to approximately 9,320 acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated as acres in the most recent update: '...from approximately 4,200 acres to approximately 9,320 acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents refer to historical estimates and potential targets but explicitly state they are not current mineral resources. 'A qualified person (as defined under NI 43-101) has not done sufficient work to classify any of the historical estimates as current mineral resources or mineral reserves, and Myriad Uranium is not treating the historical estimates as a current mineral resource or mineral reserve.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:M",
+      "justification": "The buyer's ticker and exchange are provided in the press releases: 'Myriad Uranium Corp.(CSE: M)'."
+    }
+  }
+}

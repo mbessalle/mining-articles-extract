@@ -1,0 +1,176 @@
+Of course. Here are the three documents converted into clean, individual Markdown files, optimized for your LLM agent.
+
+---
+### Document 1: Newmont Announcement (9 December 2024)
+
+```markdown
+# Newmont
+**For announcement to the ASX**
+
+**9 December 2024**
+
+Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) published a release announcing entrance into an agreement to sell Cripple Creek & Victor ("CC&V"), on Friday, 6 December 2024 U.S. Eastern Daylight Time. The sale is part of the non-core asset divestment program announced by Newmont in February 2024.
+
+The release is attached and can be found on the Newmont website at Newmont.com.
+
+Authorised for release by Logan Hennessey - Group Head, Company Secretary
+
+---
+### Newmont Announces Agreement to Divest CC&V for up to $275 Million
+**Divestitures Announced to Date to Generate up to $3.9 Billion in Gross Proceeds**
+
+**DENVER - December 6, 2024** - Newmont Corporation (NYSE: NEM, TSX: NGT, ASX: NEM, PNGX: NEM) (“Newmont" or the "Company") announced today that it has agreed to sell its Cripple Creek & Victor (“CC&V") operation in Colorado, USA, to SSR Mining Inc. (“SSR") for up to $275 million in cash consideration. Upon closing the announced transactions, Newmont will have delivered up to $3.9 billion in gross proceeds from non-core asset divestitures and investment sales.¹ The transaction is expected to close in the first quarter of 2025, subject to certain conditions being satisfied.²
+
+Under the terms of the agreement, Newmont expects to receive gross proceeds of up to $275 million, which includes:
+*   Cash consideration of $100 million, due upon closing
+*   Deferred contingent cash consideration of $87.5 million upon receipt of pending regulatory approvals³
+*   Deferred contingent cash consideration of $87.5 million upon resolution of regulatory applications relating to the Carlton Tunnel⁴
+
+Upon completion of an updated regulator-approved closure plan and in the event aggregate closure costs at CC&V exceed $500 million, Newmont will be responsible for funding 90% of the incremental closure costs in such updated closure plan, either on an as-incurred basis or pursuant to a net present value lump sum payment option.
+
+"We are excited to announce the continuation of our divestment program to streamline the Newmont portfolio as the leading operator of Tier 1 gold and copper assets," said **Tom Palmer, Newmont's President and Chief Executive Officer.** "We are confident that SSR has the capability to deliver the next phase of life for CC&V, the employees who work there, and local stakeholders."
+
+**Divestiture Program Progress**
+In February 2024, Newmont announced the intent to divest its non-core assets, including six operations and two projects from its Australian, Ghanaian, and North American business units. The sale of Telfer operation and Newmont's 70% interest in the Havieron project closed on December 4, 2024. With definitive agreements in place to divest four other operations, the Company is focused on completing the divesture program for its non-core assets, which are expected to conclude in the first quarter of 2025.⁵
+
+Total gross proceeds from transactions announced in 2024 to date are expected to be up to $3.9 billion. This includes $3.4 billion from non-core divestitures and $527 million from the sale of other investments, detailed as follows:
+*   Up to $475 million from the sale of the Telfer operation and Newmont's 70% interest in the Havieron project;
+*   Up to $1.0 billion from the sale of the Akyem operation;
+*   Up to $850 million from the sale of the Musselwhite operation;
+*   $795 million from the sale of the Éléonore operation;
+*   Up to $275 million for the sale of the CC&V operation; and
+*   $527 million from the completed sale of other investments, including the sale of the Lundin Gold stream credit facility and offtake agreement, and the monetization of Newmont's Batu Hijau contingent payments.
+
+---
+### About Newmont
+Newmont is the world's leading gold company and a producer of copper, zinc, lead, and silver. The Company's world-class portfolio of assets, prospects and talent is anchored in favorable mining jurisdictions in Africa, Australia, Latin America & Caribbean, North America, and Papua New Guinea. Newmont is the only gold producer listed in the S&P 500 Index and is widely recognized for its principled environmental, social, and governance practices.
+
+---
+### For further information please contact:
+**Investor Contact - Global**
+*   Neil Backhouse
+*   investor.relations@newmont.com
+
+**Investor Contact - Australia and Asia**
+*   Natalie Worley
+*   apac.investor.relations@newmont.com
+
+**Media Contact - Global**
+*   Jennifer Pakradooni
+*   globalcommunications@newmont.com
+
+**Media Contact - Australia and Asia**
+*   Rosalie Cobai
+*   australiacommunications@newmont.com
+```
+---
+### Document 2: SSR Mining Announcement (December 12, 2024)
+
+```markdown
+# SSR MINING
+**December 12, 2024 (AEST)**
+
+## SSR MINING ANNOUNCES THE ACQUISITION OF THE CRIPPLE CREEK & VICTOR GOLD MINE FROM NEWMONT
+
+SSR Mining Inc. (TSX: SSRM) (NASDAQ: SSRM) (ASX: SSR) (“SSR Mining”) has released the attached press release.
+
+ENDS
+
+This announcement was authorized to be given to ASX by SSR Mining's Disclosure Committee.
+
+**For further information please contact:**
+*   SSR Mining Inc.
+*   E-Mail: invest@ssrmining.com
+*   Phone: +1 (888) 338-0046
+
+---
+
+## News Release: SSR MINING ANNOUNCES THE ACQUISITION OF THE CRIPPLE CREEK & VICTOR GOLD MINE FROM NEWMONT
+**December 6, 2024**
+
+**DENVER** – SSR Mining Inc. (Nasdaq/TSX: SSRM; ASX: SSR) (“SSR Mining" or the "Company") is pleased to announce that it has entered into a definitive purchase agreement to acquire the Cripple Creek & Victor Gold Mine ("CC&V") in Colorado from Newmont Corporation (“Newmont") in an all-cash deal for $100 million in upfront consideration and up to $175 million in additional milestone-based payments (the “Transaction").
+
+### Strategic Rationale for the Transaction
+
+*   **Increases SSR Mining's scale, free cash flow and portfolio diversification, creating the third largest U.S. gold producer**
+    *   The Transaction is aligned with SSR Mining's long-stated focus on free cash flow generation.
+    *   CC&V is expected to add approximately 170,000 ounces in annual gold production.
+    *   The Company's total U.S. gold production is expected to average between 300,000 - 400,000 ounces annually.
+*   **Accretive across all key metrics, with staged milestone-based consideration preserving balance sheet strength**
+    *   All-cash Transaction expected to be accretive to SSR Mining's key per share metrics.
+    *   Upfront consideration represents less than 10% of SSR Mining's current market capitalization.
+*   **CC&V is expected to provide meaningful operating and free cash flow generation to support high-return growth initiatives**
+    *   Newmont's 2024 guidance for CC&V of 170,000 ounces of gold production at an AISC of $1,610 per ounce.
+*   **Adds a long-lived, established operation with meaningful brownfield upside to the SSR Mining platform**
+    *   As of December 31, 2023, Newmont reported that CC&V had gold Mineral Reserves of approximately 1.3 million ounces, plus an additional 1.6 million ounces of Measured & Indicated Mineral Resources and 0.3 million ounces of Inferred Mineral resources.
+*   **Leverages SSR Mining's proven track record**
+    *   SSR Mining's in-house expertise operating the large tonnage operations at Marigold in Nevada is expected to help ensure the successful integration of CC&V.
+
+**Rod Antal, Executive Chairman of SSR Mining, said,** “The acquisition of the Cripple Creek & Victor Gold Mine represents a rare opportunity to add a high-quality producing asset in a Tier-1 jurisdiction at an accretive valuation."
+
+### Transaction Overview
+Consideration for the acquisition of CC&V is comprised of:
+*   A $100 million cash payment to be paid on closing of the Transaction.
+*   Up to $175 million of milestone-based payments in cash, of which:
+    *   $87.5 million will be payable upon final approval of the application to amend the CC&V Cresson Permit ("Amendment 14").
+    *   Up to $87.5 million will be payable upon obtaining regulatory relief relating to flow-related permitting requirements for the Carlton Tunnel.
+
+The Transaction is expected to close in the first quarter of 2025.
+
+### Overview of the Cripple Creek & Victor Gold Mine
+CC&V is located approximately 160 kilometers (100 miles) southwest of Denver, Colorado. As of December 31, 2023, Mineral Reserves and Resources are:
+*   **P&P Mineral Reserves:** 75,000 kt @ 0.53 g/t for 1,300 koz Gold
+*   **M&I Mineral Resources:** 121,100 kt @ 0.40 g/t for 1,600 koz Gold
+*   **Inferred Mineral Resources:** 22,400 kt @ 0.43 g/t for 300 koz Gold
+
+---
+### Conference Call Information
+SSR Mining will host a conference call to discuss the Transaction on December 6, 2024, at 11:00 am EST.
+*   **Toll-free in U.S. and Canada:** +1 (844) 763-8274
+*   **All other callers:** +1 (647) 484-8814
+```
+---
+### Document 3: Newmont Completion Announcement (4 March 2025)
+
+```markdown
+# Newmont
+**For announcement to the ASX**
+
+**4 March 2025**
+
+Newmont Corporation (NYSE: NEM, ASX: NEM, TSX: NGT, PNGX: NEM) published a release announcing completion of the sales of Musslewhite, Eleonore and Cripple Creek and Victor, on Monday, 3 March 2025 U.S. Eastern Daylight Time. The sales are part of the non-core asset divestment program announced by Newmont in February 2024.
+
+The release is attached and can be found on the Newmont website at Newmont.com.
+
+Authorised for release by Logan Hennessey - Group Head, Company Secretary
+
+---
+### Newmont Completes the Sale of Musselwhite, Éléonore, and CC&V
+**Received $1.7 Billion in Cash Proceeds to Date in 2025¹**
+
+**DENVER - March 3, 2025** - Newmont Corporation ("Newmont" or the "Company") announced today that it has completed the previously disclosed sales of three non-core operations, including the Musselwhite and Éléonore operations in Canada and the Cripple Creek & Victor (“CC&V”) operation in Colorado, USA.
+
+"Today, I am pleased to announce the successful divestment of three more of our non-core assets, generating total after-tax cash proceeds of $1.7 billion before closing adjustments", said **Tom Palmer, Newmont's President and Chief Executive Officer.**
+
+Total gross proceeds from announced divestitures are expected to total up to $4.3 billion, which includes $3.8 billion from non-core divestitures and $527 million from the sale of other investments.
+
+Newmont expects to close the sale of its Akyem operation in Ghana and its Porcupine operation in Canada during the first half of 2025.
+
+---
+### About Newmont
+Newmont is the world's leading gold company and a producer of copper, zinc, lead, and silver. The Company's world-class portfolio of assets, prospects and talent is anchored in favorable mining jurisdictions in Africa, Australia, Latin America & Caribbean, North America, and Papua New Guinea.
+
+---
+### For further information please contact:
+**Investor Contact - Global**
+*   Neil Backhouse
+*   investor.relations@newmont.com
+
+**Investor Contact - Asia Pacific**
+*   Natalie Worley
+*   apac.investor.relations@newmont.com
+
+**Media Contact - Global**
+*   Shannon Lijek
+*   globalcommunications@newmont.com
+```

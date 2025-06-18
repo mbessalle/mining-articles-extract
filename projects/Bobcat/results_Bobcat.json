@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Bobcat/43619.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bobcat",
+      "justification": "The text announces the staking of the 'Bobcat Uranium Project': 'Nuclear Fuels Inc. (CSE:NF) (“Nuclear Fuels” or the “Company”) announced today that the Company has expanded its Wyoming uranium holdings with the staking of the Bobcat Uranium Project located in the Shirley Basin.'"
+    },
+    "company_name": {
+      "value": "Nuclear Fuels Inc.",
+      "justification": "The press release is from Nuclear Fuels Inc., who staked the project. 'Vancouver, British Columbia – TheNewswire - November 6, 2023 – Nuclear Fuels Inc. (CSE:NF) (“Nuclear Fuels” or the “Company”) announced today that the Company has expanded its Wyoming uranium holdings...'"
+    },
+    "ceo_buyer": {
+      "value": "Michael Collins",
+      "justification": "The CEO of the acquiring company, Nuclear Fuels Inc., is identified in the text: 'Michael Collins, Chief Executive Officer of Nuclear Fuels stated...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired the project via 'staking', which implies acquiring a 100% interest in the mineral rights. The text states: '...the Company has expanded its Wyoming uranium holdings with the staking of the Bobcat Uranium Project...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly identified as a uranium project with a historic uranium resource. 'The Bobcat Uranium Project hosts a historic resource of 474,309 lbs. of uranium*.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no article URL is present in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Nuclear Fuels Inc., is listed on the Canadian Securities Exchange (CSE), which uses Canadian Dollars (CAD). 'Exchange: CSE'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not a purchase from another entity. No cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims. No payment in shares is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims. No combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no applicable share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters for the Bobcat project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the Bobcat project. Drilling is mentioned for the 'Kaycee Uranium Project', which is a different project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1600,
+      "justification": "The text specifies the acreage of the project: 'The Bobcat Uranium Project includes over 1,600 acres of mineral rights...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Bobcat Uranium Project includes over 1,600 acres of mineral rights...'"
+    },
+    "resource_size": {
+      "value": "474,309 lbs. of uranium*",
+      "justification": "The text provides a specific historical resource estimate for the project: 'The Bobcat Uranium Project hosts a historic resource of 474,309 lbs. of uranium*.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NF",
+      "justification": "The ticker and exchange for the buyer, Nuclear Fuels Inc., are provided in the first paragraph: 'Nuclear Fuels Inc. (CSE:NF) (“Nuclear Fuels” or the “Company”)...'"
+    }
+  }
+}

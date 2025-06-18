@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Golden_Buffalo/47201.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Golden Buffalo",
+      "justification": "The article title is 'Relevant Gold Buys Out Option Completing Acquisition of 700 Leased Hectares at its Flagship Golden Buffalo Project'."
+    },
+    "company_name": {
+      "value": "Relevant Gold Corp.",
+      "justification": "The acquiring company is identified as 'Relevant Gold Corp. (TSXV:RGC)(OTCQB:RGCCF) (\"Relevant Gold \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Rob Bergmann",
+      "justification": "The CEO of the buyer is identified in the sign-off: 'On behalf of Relevant Gold Corp., Rob Bergmann, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article states that Relevant Gold entered into a 'Purchase Agreement... to complete the acquisition of 88 BLM mining claims (700 ha) (the \"Subject Property\")'. This completes a buyout of a property previously held under a lease option, implying 100% interest is acquired."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes a milestone payment related to gold: '...completion of a NI 43-101 compliant mineral resource estimate exceeding one million ounces of gold on the Subject Property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/824657/relevant-gold-buys-out-option-completing-acquisition-of-700-leased-hectares-at-its-flagship-golden-buffalo-project",
+      "justification": "The article is titled 'Relevant Gold Buys Out Option Completing Acquisition of 700 Leased Hectares at its Flagship Golden Buffalo Project', which matches the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payments are explicitly denominated in US dollars: '...GBMC will receive (a) a US$1,000,000 cash payment...'"
+    },
+    "cash_payments_raw": {
+      "value": 11000000,
+      "justification": "The total potential cash payments are the sum of three milestone payments: 'a US$1,000,000 cash payment', 'a US$1,000,000 cash payment', and 'a US$9,000,000 cash payment'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, but does not provide a total dollar value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The total shares issued includes an upfront payment and a milestone payment: 'GBMC will receive (i) 1,500,000 common shares of the Company' and 'a US$1,000,000 cash payment and 500,000 common shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are mentioned but are part of a service agreement for new managers, not consideration for the property acquisition: 'As part of the service agreement, Mr. Hutchison and Mr. Tyra will each be issued 150,000 common share options...'"
+    },
+    "issued_share_price": {
+      "value": 0.36,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.36'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The seller retains a Net Smelter Royalty as part of the deal: 'GBMC will receive... (iii) a 3% net smelter return (NSR) royalty on the Subject Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 700,
+      "justification": "The acquisition is for a specific portion of the larger property: '...completing the acquisition of 88 BLM mining claims (700 ha) (the \"Subject Property\") in the core of the Company's 3,766 hectare Golden Buffalo property...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: '...acquisition of 88 BLM mining claims (700 ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate. It only refers to a future potential resource as a milestone: 'upon the completion of a NI 43-101 compliant mineral resource estimate exceeding one million ounces of gold'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RGC",
+      "justification": "The buyer's ticker and primary exchange are provided in the company's introduction: 'Relevant Gold Corp. (TSXV:RGC)(OTCQB:RGCCF)'."
+    }
+  }
+}

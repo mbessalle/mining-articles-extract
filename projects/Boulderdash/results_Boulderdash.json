@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Boulderdash/90164.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Boulderdash",
+      "justification": "The text announces an option agreement for Lundin Mining to acquire an interest in the 'Boulderdash exploration properties (\"Boulderdash\")'."
+    },
+    "company_name": {
+      "value": "Lundin Mining Corporation",
+      "justification": "Lundin Mining Corporation is identified as the acquirer (buyer) in the transaction. The press release is issued by them. 'Lundin Mining Corporation(\"Lundin Mining\" or the \"Company\") is pleased to announce today that it has entered into exclusivity to negotiate an earn-in agreement...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Lundin Mining Corporation, is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement allows for the acquisition of up to a 70% interest in the primary project. '...for the right to acquire up to a 70% ownership interest in the Boulderdash exploration properties...'"
+    },
+    "primary_commodity": {
+      "value": "Ni",
+      "justification": "The headline of the article describes the properties as 'Ni-Cu-PGM Exploration Properties' and the text refers to it being near 'the only operating nickel mine in the U.S.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Boulderdash project, but a specific URL for the article itself is not included in the document text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash advance payment is specified in US dollars. 'Concurrently with the execution of the exclusivity agreement, Lunding Mining has advanced Talon US$5 million...'"
+    },
+    "cash_payments_raw": {
+      "value": 5000000,
+      "justification": "Lundin Mining made a cash advance of US$5 million to Talon to commence drilling. 'Concurrently with the execution of the exclusivity agreement, Lunding Mining has advanced Talon US$5 million to, among other things, commence drilling at Boulderdash.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are part of the transaction consideration. Shares are only mentioned as a contingent repayment method if the main agreement is not executed."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text specifies a distinct cash payment and an exploration commitment, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction consideration. Shares are only mentioned as a contingent repayment method if the main agreement is not executed."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of option payments in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": 30000,
+      "justification": "The agreement includes a commitment for Lundin Mining to fund up to 30,000 meters of drilling. 'It is anticipated that pursuant to the terms of the Option Agreement, Lundin Mining will agree to fund up to 30,000 metres (m) of Talon's drilling campaign at Boulderdash...'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in meters of drilling, not a monetary value. This field is mutually exclusive with `exploration_commitment_meters`."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Boulderdash properties in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Boulderdash properties, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides drill intercepts (e.g., 'intercepted 99.92 m grading 0.41% nickel') but does not contain a formal mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:LUN",
+      "justification": "The buyer, Lundin Mining Corporation, is listed on the TSX with the ticker LUN. '(TSX: LUN) (Nasdaq Stockholm: LUMI) Lundin Mining Corporation...'"
+    }
+  }
+}

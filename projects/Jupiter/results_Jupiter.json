@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Jupiter/64712.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jupiter",
+      "justification": "The text announces an agreement for Pegasus Resources Inc. to acquire an undivided 100% right, title, and interest in the Jupiter Project ('Jupiter Project')."
+    },
+    "company_name": {
+      "value": "Pegasus Resources Inc.",
+      "justification": "The acquiring company is identified as 'Pegasus Resources Inc.(TSXV:PEGA)(Frankfurt:0QS0)(OTC PINKSLTFF) (the \"Company\" or \"Pegasus\")'."
+    },
+    "ceo_buyer": {
+      "value": "Christian Timmins",
+      "justification": "The CEO of the buyer is identified in the signature block: 'Christian Timmins President, CEO and Director Pegasus Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pegasus will 'acquire an undivided 100% right, title, and interest in the Jupiter Project'."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is described as the 'Jupiter Uranium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/886839/pegasus-resources-significantly-expands-land-package-by-securing-exclusive-rights-to-jupiter-uranium-project",
+      "justification": "The press release is titled 'Pegasus Resources Significantly Expands Land Package by Securing Exclusive Rights to Jupiter Uranium Project'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payments and resource bonuses are explicitly denominated in USD: 'a payment of $25,000 USD' and 'Resource Bonus of USD $100,000.00'."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The total cash payment is the sum of two tranches: 'The Company will make a payment of $25,000 USD to the Vendor within 30 days of signing the Agreement. Additionally, subject to TSX Venture Exchange approval, a further payment of $75,000 USD will be made...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes shares, but their value is not stated as a monetary amount."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2200000,
+      "justification": "Under the terms of the agreement: 'Pegasus will issue 2,200,000 common shares (\"Consideration Shares\") to the Vendor'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.13,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.13'."
+    },
+    "exploration_commitment_meters": {
+      "value": 1500,
+      "justification": "Pegasus commits to conducting a drilling program totalling 1500 meters on the Jupiter Project within 30 days following the first anniversary of the Agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is specified in meters of drilling, not as a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states 'The vendor will retain the Net Smelter Return (NSR) royalty on the resource,' but does not specify the percentage of the NSR."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the project consists of '48 unpatented claims' but does not provide a total area in a unit like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions the project consists of '48 unpatented claims' but does not provide a total area in a unit like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article states that a goal for the Jupiter Project is to 'create a resource estimate', indicating one does not currently exist. The resource figures mentioned (e.g., '650,292 pounds of U3O8') are explicitly for the historical Snow and Probe mines, which are in the same district but are not the Jupiter Project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PEGA",
+      "justification": "The buyer is identified in the first paragraph as 'Pegasus Resources Inc.(TSXV:PEGA)'."
+    }
+  }
+}

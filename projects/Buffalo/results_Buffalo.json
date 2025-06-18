@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Buffalo/88134.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Buffalo",
+      "justification": "The article is titled 'Snow Lake Expands Its Uranium Portfolio with Acquisition of the Buffalo Uranium Project in Wyoming, United States'."
+    },
+    "company_name": {
+      "value": "Snow Lake Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Snow Lake Resources Ltd., d/b/a Snow Lake Energy (NASDAQ: LITM) (\"Snow Lake\"), a uranium exploration and development company...'"
+    },
+    "ceo_buyer": {
+      "value": "Frank Wheatley",
+      "justification": "A quote in the article identifies the CEO of the buyer: '\"The proposed acquisition of the Buffalo Uranium Project allows us to establish a uranium project portfolio in the United States...\" said Frank Wheatley, CEO of Snow Lake.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Snow Lake 'has entered into a binding letter of intent to acquire a 100% interest in the Buffalo Uranium Project'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the 'Buffalo Uranium Project' and is part of Snow Lake's expansion of its 'Uranium Portfolio'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241259",
+      "justification": "The article is titled 'Snow Lake Expands Its Uranium Portfolio with Acquisition of the Buffalo Uranium Project in Wyoming, United States' and details the acquisition terms for the Buffalo project, which is the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "All financial considerations are explicitly denominated in US dollars, for example: 'Payment of US$50,000 in cash to Bazooka...' and 'value of US$400,000'."
+    },
+    "cash_payments_raw": {
+      "value": 1150000,
+      "justification": "The total potential cash payment is US$1,150,000, comprising an 'Initial Cash Payment' of US$50,000, a 'Closing Cash Payment' of US$200,000, a 'First Milestone Payment' of US$450,000, and a 'Second Milestone Payment' of US$450,000. The milestone payments can be made in cash at Snow Lake's election."
+    },
+    "share_payments_raw": {
+      "value": 400000,
+      "justification": "The agreement includes the 'Allotting and issuing to the Sellers on the Closings, an aggregate of that number of fully paid and non-assessable common shares of Snow Lake (the \"Snow Lake Shares\") that have a value of US$400,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were provided, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not a fixed amount, but is defined as 'that number of fully paid and non-assessable common shares of Snow Lake (the \"Snow Lake Shares\") that have a value of US$400,000 calculated in accordance with the 10-day volume weighted average closing price'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No specific issue price is mentioned. The value is to be calculated based on the '10-day volume weighted average closing price of Snow Lake's common shares for the 10 trading days immediately prior to the Closings'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes a 'Proposed Exploration Program' but does not specify a drilling meterage commitment as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes a 'Proposed Exploration Program' but does not specify a monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The agreement specifies that 'The Sellers retain a 1.5% net smelter royalty return (the \"Royalty\") on the Mineral Claims'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The project is described as consisting of 'sixteen unpatented mining claims', but no total area in hectares or square kilometers is provided in the text or in Schedule A."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that Snow Lake's plan includes 'targeted drilling programs aimed at defining an SK-1300 compliant mineral resource estimate,' which indicates that no current mineral resource exists for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:LITM",
+      "justification": "The buyer is identified in the text as 'Snow Lake Resources Ltd., d/b/a Snow Lake Energy (NASDAQ: LITM)'."
+    }
+  }
+}

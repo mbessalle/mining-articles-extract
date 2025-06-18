@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Bishop_Gold_Mill/84760.txt",
+    "projects/Bishop_Gold_Mill/84928.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bishop Gold Mill",
+      "justification": "The primary asset of 087 is the Bishop Gold Mill."
+    },
+    "company_name": {
+      "value": "North Bay Resources Inc.",
+      "justification": "North Bay Resources Inc. (the “Company” or “North Bay”) (OTC: NBRI) is pleased to announce it has entered into a share purchase agreement to acquire an additional 14.5% of the Bishop Gold Mill..."
+    },
+    "ceo_buyer": {
+      "value": "Jared Lazerson",
+      "justification": "On behalf of the Board of Directors of NORTH BAY RESOURCES INC. Jared Lazerson CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The transaction brings North Bay's total ownership to 70%. The text states: '...to acquire an additional 14.5% of the Bishop Gold Mill (the “Mill”), bringing total ownership to 70%.' and 'Within this transaction, North Bay acquires a total interest of 70% of 087...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is a gold mill and the text mentions the installation of gold extraction equipment. 'The Company has recently acquired and installed additional gold extraction equipment including centrifuge in a gravity primary position... based on a December 2024 metallurgical study... showing a 97% recovery of gold...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The second article specifies the currency for cash payments: '(*all cash payments are in USD)'."
+    },
+    "cash_payments_raw": {
+      "value": 162500,
+      "justification": "The total cash payment is the sum of scheduled payments: $12,500 + $12,500 + $12,500 + $50,000 + $25,000 + $50,000 = $162,500. The text lists these as: '$12,500 payable on signing', '$12,500 payable on February 15, 2025', '$12,500 payable on April 1, 2025', '$50,000 payable on July 7, 2025', '$25,000 payable August 15, 2025', '$50,000 payable September 25, 2025'."
+    },
+    "share_payments_raw": {
+      "value": 140000,
+      "justification": "The share payment is valued at $200,000 CAD, which is converted to USD using the provided exchange rate of 0.70 ($200,000 * 0.70 = $140,000 USD). Text: '$200,000 CAD in common shares of North Bay to be delivered on signing at a foreign exchange rate CAD/USD of $0.70...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values are provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 155555556,
+      "justification": "Share Payments: ...$200,000 CAD in common shares of North Bay to be delivered on signing at a foreign exchange rate CAD/USD of $0.70 and share price of $0.0009 totaling 155,555,556 Restricted Shares..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.0009,
+      "justification": "Share Payments: ...$200,000 CAD in common shares of North Bay to be delivered on signing at a foreign exchange rate CAD/USD of $0.70 and share price of $0.0009..."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area was mentioned for the Bishop Gold Mill."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area was mentioned for the Bishop Gold Mill."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource ('head grade of 0,9 ounces per ton'), but this is explicitly for the 'Fran Gold Project', not the Bishop Gold Mill which is the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTCPK:NBRI",
+      "justification": "The buyer is North Bay Resources Inc. The first document states '(OTC: NBRI)' and its detailed quote section specifies 'Exchange: OTCPK'."
+    }
+  }
+}

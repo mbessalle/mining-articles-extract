@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Dry_Fork/89277.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dry Fork",
+      "justification": "The claims comprise the Company’s Dry Fork Project and are believed to host favorable geological structures suggesting prospectivity for uranium exploration."
+    },
+    "company_name": {
+      "value": "URZ3 Energy Corp.",
+      "justification": "URZ3 Energy Corp. (\"URZ3\" or the “Company”) (TSXV: URZ; OTCQB: URZEF) is pleased to announce that it has staked mineral claims in the uranium rich Powder River Basin in Wyoming."
+    },
+    "ceo_buyer": {
+      "value": "Mark Kolebaba",
+      "justification": "Mark Kolebaba, President and CEO, commented, “This new project allows URZ3 Energy Corp. to leverage its experienced team and proven exploration expertise..."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is a staking of mineral claims with the Bureau of Land Management (BLM), not an acquisition of interest from another company. The text states URZ3 'has staked mineral claims'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "URZ3 Energy Corp. ... has staked mineral claims in the uranium rich Powder River Basin in Wyoming."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSXV and the detailed quote uses a '$' symbol, implying Canadian Dollars (CAD). The quote section states 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition with cash consideration. No payment terms are mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition with share consideration. No payment terms are mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition with combined cash and share consideration. No payment terms are mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition involving the issuance of shares. No payment terms are mentioned in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition involving warrants. No payment terms are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition involving options. No payment terms are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The announcement is about staking claims, not an acquisition involving the issuance of shares at a specific price. No payment terms are mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for exploration but does not state a specific monetary commitment value: 'URZ3 Energy Corp. is formulating plans to advance its uranium exploration activities.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the claim staking."
+    },
+    "coverage_area_raw": {
+      "value": 890,
+      "justification": "The claims, which cover approximately 890 acres, are situated in the well established in-situ recovery (ISR) uranium district..."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The claims, which cover approximately 890 acres, are situated in the well established in-situ recovery (ISR) uranium district..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text suggests 'prospectivity for uranium exploration' but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:URZ",
+      "justification": "The company's name is followed by its ticker and exchange information in the text: 'URZ3 Energy Corp. (\"URZ3\" or the “Company”) (TSXV: URZ; OTCQB: URZEF)'."
+    }
+  }
+}

@@ -1,0 +1,53 @@
+--- Article Metadata ---
+Project Name: Yuma King
+Company Name: Corcel Exploration Inc
+Exchange: CSE
+Ticker: CRCL
+Primary Commodity: Cu
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.9.2025, 2:00:00 PM
+
+# Corcel Completes Acquisition of the Yuma King Property in Arizona
+
+Kelowna, British Columbia--(Newsfile Corp. - January 9, 2025) - **Corcel Exploration Inc. (CSE: CRCL)** (the "**Company** " or "**Corcel** ") is pleased to announce that, further to its news release dated December 19, 2024, it has completed the acquisition (the "**Acquisition** ") of 100% of the issued and outstanding securities of CuQuest Resources Corp. ("**CuQuest** "), pursuant to the terms of a share exchange agreement dated December 19, 2024 between the Company, CuQuest and the shareholders of CuQuest. 
+
+In connection with the Acquisition, the Company issued an aggregate of 15,000,000 common shares in the capital of the Company (the "**Payment Shares** ") pro rata to the CuQuest shareholders at a deemed price of $0.09 per Payment Share. The Payment Shares are subject to voluntary hold periods which restrict resale for periods of between 4 and 12 months after the closing date of the Acquisition. CuQuest holds the right to acquire a 100% interest in the Yuma King Property located in La Paz County, Arizona. For additional details regarding the Yuma King Property, see the Company's news release dated December 19, 2024, available under the Company's SEDAR+ profile at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/AMnVACwgX5). 
+
+**About Corcel Exploration Inc.**
+
+Corcel Exploration is a mineral resource company engaged in the acquisition and exploration of precious and base metals properties throughout North America. The Company holds an option to acquire a 100% undivided right, title, and interest in and to the Peak gold exploration project and also holds a 100% interest in the Willow copper project. From time to time the Company may also evaluate and acquire other mineral properties of merit.
+
+For further information contact:  
+Stephen Dunn  
+Interim Chief Executive Officer  
+Tel: (416) 361-2827
+
+**Caution Regarding Forward-Looking Information**
+
+ _This press release includes "forward-looking information" that is subject to a number of assumptions, risks and uncertainties, many of which are beyond the control of the Company. Forward-looking statements may include but are not limited to, statements relating to the Yuma King Property. Such statements are subject to all of the risks and uncertainties normally incident to such events. Investors are cautioned that any such statements are not guarantees of future events and that actual events or developments may differ materially from those projected in the forward-looking statements. Such forward-looking statements represent management's best judgment based on information currently available._
+
+_The Canadian Securities Exchange has not in any way passed upon the merits of the Acquisition and has neither approved nor disapproved the contents of this press release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/236522](https://api.newsfilecorp.com/redirect/ZAaqNtxapX)
+
+### Project Name
+
+[Yuma King Project](/?gid=9574)  
+Arizona, United States
+
+--- Detailed Quote ---
+
+Last: 0.18           Bid: 0.18
+Bid Size: 5500       Beta: -3.67346
+Year High: 0.28      Market Cap: 8.52m
+PB Ratio: 55.47       Average Volume (30 Day): 45.56k
+Prev. Close: 0.18    Ask: 0.19
+Ask Size: 40000       VWAP: 0.19074
+Year Low: 0.065       Total Shares: 47.31m
+Shares Out: 47.31m     Float: 20.25m
+Exchange: CSE

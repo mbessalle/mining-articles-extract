@@ -1,0 +1,86 @@
+--- Article Metadata ---
+Project Name: Columbus
+Company Name: Canter Resources Corp
+Exchange: CSE
+Ticker: CRC
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+4.8.2024, 4:00:00 AM
+
+# Canter Resources Expands the Columbus Project to Approximately 30,000 Acres to Cover West Trending Lithium Brine Target
+
+Vancouver, British Columbia--(Newsfile Corp. - April 7, 2024) - **Canter Resources Corp. (CSE: CRC) (OTC Pink: CNRCF) (FSE: 6O1)** ("**Canter** " or the "**Company** ") is pleased to report that, after interpreting recently acquired third party data and completing 3D modeling, the Company's technical team immediately mobilized to site to stake the limited open ground along the western edge of the Columbus Lithium-Boron Project ("**Columbus** " or the "**Project** "). The full surface sampling dataset, shown in Figure 1, includes highly anomalous lithium ("Li") values along the Company's previous western boundary and beyond. Furthermore, the Company's 3D modeling, and particularly the HSAMT resistivity shells, highlighted a broadening and open-ended conductive zone trending west with only two (2) kilometres to the limits of the Company's previous property boundary (see press release dated March 30, 2024). The land package now stands at a commanding 29,600 acres (119 km²). 
+
+"We are thrilled to have significantly expanded our land package at Columbus to encompass the full extent of the most prospective ground for lithium-enriched brines before commencing our drill campaigns," stated Joness Lang, CEO of Canter Resources. "Our team sees tremendous potential at Columbus and we are excited to get underway with Geoprobe drilling, which will commence imminently."
+
+**Watch:** Video animation highlighting Columbus surface and 3D model results, newly staked ground and substantial Li-brine target with initial drill locations. [**Watch Video Here >**](https://api.newsfilecorp.com/redirect/eL2MLS8Q4Q)
+
+The 3D modeling has been instrumental in revealing the expansive potential within the Columbus Project area. By carefully analyzing the geological structures and resistivity patterns, the Company has identified a westward-trending conductive zone that signifies a broadening corridor of potential lithium-bearing brines. This insight is critical, as it suggests a continuous zone extending beyond the original property boundaries (see Figure 1).
+
+Moreover, the HSAMT data has been pivotal in understanding the subsurface characteristics of the Project area. The HSAMT survey's leading edge terminated within an area exhibiting extremely low resistivity, indicative of highly conductive material likely associated with brine concentrations. This cutoff, due to the survey reaching its westernmost extent, aligned with the trend of anomalous lithium values in surface sediments extending westward. This discovery underpins the decision to expand the land package, thereby increasing the scope for further exploration and potential resource identification.
+
+[](https://images.newsfilecorp.com/files/10112/204646_3118d57ac445eb1f_001full.jpg)
+
+**Figure 1:** Figure showing expanded land package, differentiating between current claim boundary and newly staked ground, highlighting the <0.5 ohm-metre HSAMT openness to the west and full third-party data including the western flank samples within previous boundary and extending beyond.
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10112/204646_3118d57ac445eb1f_001full.jpg>
+
+Canter Resources is now poised to implement a more comprehensive Phase II exploration program. This next phase will include expanded geophysical survey coverage, aiming to thoroughly map out the resistivity and structural profiles across the newly acquired acreage. 
+
+[](https://images.newsfilecorp.com/files/10112/204646_3118d57ac445eb1f_002full.jpg)
+
+**Photo 1:** Canter's Senior Geologist, Trevor Hawkins, staking a Geoprobe collar location during the recent western expansion claim staking trip at the Company's Columbus Lithium-Boron Project.
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10112/204646_3118d57ac445eb1f_002full.jpg>
+
+Qualified Person (QP)
+
+The technical information contained in this news release was reviewed and approved by Eric Saderholm P.Geo, Director and Technical Advisor of Canter Resources, a Qualified Person (QP), as defined under National Instrument 43- 101 - Standards of Disclosure for Mineral Projects.
+
+About Canter Resources Corp.
+
+Canter Resources Corp. is a Canadian junior mineral exploration company advancing the Columbus Lithium-Boron Project in Nevada, USA and the Beaver Creek Lithium Property in Montana, USA. The Company is preparing for a Phase I drill campaign at Columbus to test a highly prospective lithium-brine target and plans to leverage the Company's critical metals targeting database to generate a portfolio of high-quality projects with the aim of defining mineral resources that support the domestic clean energy supply chain in North America.
+
+For further information contact:
+
+Joness Lang  
+Chief Executive Officer   
+Canter Resources Corp.   
+[jlang@canterresources.com](mailto:jlang@canterresources.com)
+
+For investor inquiries contact:
+
+Kristina Pillon, High Tide Consulting Corp.  
+Tel: 604.908.1695  
+[investors@canterresources.com](mailto:investors@canterresources.com)
+
+_The Canadian Securities Exchange has neither approved nor disapproved the contents of this news release. The Canadian Securities Exchange does not accept responsibility for the adequacy or accuracy of this news release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/204646](https://api.newsfilecorp.com/redirect/85rX5C4mP5)
+
+### Project Name
+
+[Columbus Project](/?gid=5794)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.085            $  Chg: -0.005
+Open: 0.09            High: 0.09
+Bid: 0.085             Bid Size: 5000
+Beta: 28.7698            Year High: 0.25
+Market Cap: 4.55m      PB Ratio: 0.27
+EPS: -0.04             Average Volume (30 Day): 118.00k
+Volume: 86.50k          % Chg: -5.56%
+Prev. Close: 0.09     Low: 0.08
+Ask: 0.09             Ask Size: 5000
+VWAP: 0.08698            Year Low: 0.035
+Total Shares: 53.49m    Shares Out: 53.49m
+Float: 49.29m           Exchange: CSE

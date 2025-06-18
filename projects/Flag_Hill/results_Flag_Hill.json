@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Flag_Hill/71890.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Flag Hill",
+      "justification": "Authoritative metadata provided in the prompt. The article refers to this project as 'Adamera’s Flag Hill Gold Property'."
+    },
+    "company_name": {
+      "value": "Adamera Minerals Corp.",
+      "justification": "The acquiring company is identified as 'Adamera Minerals Corp. (“Adamera” or the “Company”) (TSX-V: ADZ; OTC: DDNFF)'."
+    },
+    "ceo_buyer": {
+      "value": "Mark Kolebaba",
+      "justification": "The text identifies the CEO of the buyer: '...says Mark Kolebaba President and CEO of Adamera.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition terms described in the article are for the 'Flag Hill South' project, not the 'Flag Hill' project of interest. The text states Adamera 'has acquired the rights to explore the Flag Hill South gold property just south of Adamera’s Flag Hill Gold Property'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "Authoritative metadata provided in the prompt. The article confirms this, referring to the project as the 'Flag Hill Gold Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the acquisition of the 'Flag Hill South' project, which is explicitly stated to be a separate property from the project of interest, 'Flag Hill'. The text says Adamera acquired 'the Flag Hill South gold property just south of Adamera’s Flag Hill Gold Property'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The currency 'USD' is mentioned in the context of the acquisition terms for the 'Flag Hill South' project, not the 'Flag Hill' project of interest."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The payment terms described (USD$5,000 per year lease, USD$1 million purchase option) are for the 'Flag Hill South' project, not the 'Flag Hill' project of interest."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payments are mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the described transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the article."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock option payments are mentioned in the article."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the described transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The '2% production royalty' mentioned is part of the acquisition terms for the 'Flag Hill South' project, not the 'Flag Hill' project of interest."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Flag Hill project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Flag Hill project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the Flag Hill project. It mentions district-wide production ('Reported district production is +4 million ounces of gold'), which is not a project-specific resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ADZ",
+      "justification": "The buyer, Adamera Minerals Corp., is identified with the ticker and exchange in the text: 'Adamera Minerals Corp. (“Adamera” or the “Company”) (TSX-V: ADZ; OTC: DDNFF)'."
+    }
+  }
+}

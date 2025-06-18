@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Monitor_Valley_North/32894.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Monitor Valley North",
+      "justification": "The text announces the inclusion of a new project: \"...a new lithium exploration project in Nevada, the Monitor Valley North Project.\""
+    },
+    "company_name": {
+      "value": "Fuse Battery Metals Inc.",
+      "justification": "The acquiring company is identified as: \"Fuse Battery Metals Inc. (“the Company“ or “Fuse”) (TSXV:FUSE) (OTC:FUSEF) (FRA:43W3) is pleased to announce expansion of our exploration land holdings with the inclusion of a new lithium exploration project in Nevada, the Monitor Valley North Project.\""
+    },
+    "ceo_buyer": {
+      "value": "Tim Fernback",
+      "justification": "The text identifies the CEO in multiple places, including: \"Interim President & CEO Mr. Tim Fernback has been named Fuse’s permanent President & CEO by the Company’s Board of Directors.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the company will become the full owner, implying 100% interest: \"...whereby the Company becomes the legal and beneficial owner of 97 placer claims...\""
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly identified as a lithium project: \"...a new lithium exploration project in Nevada, the Monitor Valley North Project.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article link is not provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the cash payment is explicitly stated as US dollars: \"reimbursing the staking and recording cost of the Vendor in the amount of US$30,081 upon signing the Agreement\""
+    },
+    "cash_payments_raw": {
+      "value": 30081,
+      "justification": "The transaction terms include a cash reimbursement: \"reimbursing the staking and recording cost of the Vendor in the amount of US$30,081 upon signing the Agreement\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no raw monetary value for the shares is provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "The transaction terms include the issuance of a specific number of shares: \"issuing to the Vendor 500,000 fully paid and non-assessable common shares in the capital of the Company upon TSX Venture Exchange acceptance of the transaction.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the number of shares issued (500,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states an \"intention to rapidly evaluate the lithium potential of this project\" but does not specify a binding monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 770,
+      "justification": "The property size is specified in the text: \"...owner of 97 placer claims (MVN1 – MVN97) covering approximately 770 hectares of alluvial sediments and clays...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: \"...covering approximately 770 hectares of alluvial sediments and clays...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that \"Minimal work has been conducted on the project\" and that the company intends \"to complete an initial NI #43-101 Technical Report on the property in the near future\", which implies no formal mineral resource has been defined yet."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FUSE",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Fuse Battery Metals Inc. (“the Company“ or “Fuse”) (TSXV:FUSE)...\""
+    }
+  }
+}

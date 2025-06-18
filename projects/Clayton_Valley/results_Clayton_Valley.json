@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "projects/Clayton_Valley/71193.txt",
+    "projects/Clayton_Valley/7368.txt",
+    "projects/Clayton_Valley/83663.txt",
+    "projects/Clayton_Valley/83796.txt",
+    "projects/Clayton_Valley/84850.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Central Clayton Valley Lithium Brine Project",
+      "justification": "The transaction is for the acquisition of a specific part of the Clayton Valley area: \"Cruz Battery Metals Corp. (CSE: CRUZ) (OTC Pink: BKTPF) (FSE: A40YSN) (the \"Company\" or \"Cruz\") announces that further to its news release dated January 10, 2025, it has closed a purchase agreement with two arm's-length parties to acquire a 100% interest in the 580-acre 'Central Clayton Valley Lithium Brine Project' located in the heart of Clayton Valley in Esmeralda County, Nevada, USA.\""
+    },
+    "company_name": {
+      "value": "Cruz Battery Metals Corp.",
+      "justification": "The acquiring company is identified in multiple press releases: \"Cruz Battery Metals Corp. (CSE: CRUZ) (OTC Pink: BKTPF) (FSE: A40YSN) (the \"Company\" or \"Cruz\") announces it plans to acquire, from arm's length vendors, the 580-acre 'Central Clayton Valley Lithium Brine Project'...\""
+    },
+    "ceo_buyer": {
+      "value": "James Nelson",
+      "justification": "The press releases from the buyer, Cruz Battery Metals Corp., are signed by James Nelson, who is identified with the title: \"James Nelson President, Chief Executive Officer, Secretary and Director\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The closing announcement states a full acquisition: \"Cruz has acquired a one-hundred-percent interest in the 'Central Clayton Valley Lithium Brine Project', by paying one hundred fifteen thousand dollars in cash, which covers BLM fees and staking costs, and issuing seven million shares that carry a four-month hold.\""
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project name explicitly states the commodity: \"Cruz Battery Metals Acquires the Central Clayton Valley Lithium Brine Project in Nevada...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/238004",
+      "justification": "This article, titled \"Cruz Battery Metals Closes the Central Clayton Valley Lithium Brine Project Acquisition\", confirms the completion of the transaction by the specified company of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is stated as 'one hundred fifteen thousand dollars in cash' without a specific currency symbol. The acquiring company, Cruz Battery Metals Corp., is listed on the Canadian Securities Exchange (CSE), so CAD is inferred as the currency of the buyer's primary market."
+    },
+    "cash_payments_raw": {
+      "value": 115000,
+      "justification": "The terms of the purchase agreement are detailed in the closing announcement: \"Pursuant to the terms of the purchase agreement, Cruz has acquired a one-hundred-percent interest in the 'Central Clayton Valley Lithium Brine Project', by paying one hundred fifteen thousand dollars in cash...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is structured with a specific number of shares and a price per share can be determined using the fallback rule, which takes priority over this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the payment are listed separately in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": 7000000,
+      "justification": "The closing announcement specifies the number of shares issued: \"...and issuing seven million shares that carry a four-month hold.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration for the Cruz transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration for the Cruz transaction."
+    },
+    "issued_share_price": {
+      "value": 0.015,
+      "justification": "The transaction terms mention the issuance of seven million shares, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for Cruz Battery Metals Corp.: 'Last: 0.015'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty was mentioned as part of the acquisition terms for the Cruz transaction. A 3% NSR was mentioned for a separate transaction between SLB and Pure Energy."
+    },
+    "coverage_area_raw": {
+      "value": 580,
+      "justification": "The press releases consistently state the size of the acquired project: \"...it has closed a purchase agreement with two arm's-length parties to acquire a 100% interest in the 580-acre 'Central Clayton Valley Lithium Brine Project'...\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified with the area measurement: \"...acquire a 100% interest in the 580-acre 'Central Clayton Valley Lithium Brine Project'...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No resource estimate was provided for the 580-acre 'Central Clayton Valley Lithium Brine Project' acquired by Cruz. An inferred resource is mentioned for a separate, adjoining project owned by Pure Energy Minerals: 'An inferred mineral resource containing approximately 816,000 metric tonnes of Lithium Carbonate Equivalent (LCE)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRUZ",
+      "justification": "The buyer's ticker and primary exchange are listed in the press release header: \"Cruz Battery Metals Corp. (CSE: CRUZ) (OTC Pink: BKTPF) (FSE: A40YSN) (the \"Company\" or \"Cruz\") announces...\""
+    }
+  }
+}

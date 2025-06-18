@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Gabbs/87473.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gabbs",
+      "justification": "The article is titled 'P2 Gold Makes Final Payment for Acquisition of Gold-Copper Gabbs Project' and refers to the project throughout the text."
+    },
+    "company_name": {
+      "value": "P2 Gold Inc.",
+      "justification": "The buying company is identified in the first sentence: 'VANCOUVER, BC, Feb. 11, 2025 /CNW/ - P2 Gold Inc. (\"P2\" or the \"Company\") (TSXV: PGLD) (OTCQB: PGLDF) reports that it has paid US$100,000...'"
+    },
+    "ceo_buyer": {
+      "value": "Joe Ovsenek",
+      "justification": "The text states: '...commented Joe Ovsenek, President and CEO of P2.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions the 'acquisition of the gold-copper Gabbs Project' but does not state the specific percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata specifies the primary commodity as 'Au'. The text supports this by referring to the 'gold-copper Gabbs Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text specifies the payment currency: '...reports that it has paid US$100,000 to Waterton Nevada Splitter, LLC...'"
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The text states: 'P2 Gold Inc. ... reports that it has paid US$100,000 to Waterton Nevada Splitter, LLC (\"Splitter\"), in respect of the final payment due to Splitter relating to the acquisition of the gold-copper Gabbs Project...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text only describes a cash payment and does not mention any share payments as part of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text explicitly mentions a cash payment, so this combined field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the acquisition payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions planned exploration activities but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Gabbs project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Gabbs project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes annual average production figures from a preliminary economic assessment ('104,000 ounces gold and 13,500 tonnes copper over a 14.2-year mine life') but does not provide a quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PGLD",
+      "justification": "The text identifies the buyer as 'P2 Gold Inc. ('P2' or the 'Company') (TSXV: PGLD)'."
+    }
+  }
+}

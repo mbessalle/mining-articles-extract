@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Blue_Moon/73545.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue Moon",
+      "justification": "The text refers to the project as the 'Blue Moon deposit' and the 'Blue Moon polymetallic deposit'. For example: '...continue to focus on developing our Blue Moon deposit in the United States.'"
+    },
+    "company_name": {
+      "value": "Blue Moon Metals Inc.",
+      "justification": "The company is identified in the first sentence of the press release: 'VANCOUVER, British Columbia, Oct. 02, 2024 (GLOBE NEWSWIRE) -- Blue Moon Metals Inc. (TSXV: MOON; OTCQB: BMOOF) (the “Company”)'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article describes the sale of the Yava project by Blue Moon Metals to Honey Badger Silver. The CEO of the buyer (Honey Badger Silver) is not mentioned. Patrick McGrath is the CEO of the seller, Blue Moon Metals."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described in the article is for the sale of the Yava project, not the Blue Moon project. No interest acquisition for the Blue Moon project is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Zn",
+      "justification": "The text states: 'Blue Moon Metals is advancing its Blue Moon polymetallic deposit which contains zinc, gold, silver and copper.' and 'Zinc is currently on the USGS list of metals critical to the US economy and national security.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article's main subject is the sale of the Yava project by Blue Moon Metals to Honey Badger Silver, not an M&A transaction involving the Blue Moon project. The headline is 'Blue Moon Announces Sale of Yava Project'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. No currency is mentioned in relation to a transaction for the Blue Moon project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. No cash payments for the Blue Moon project are mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. The share payment with an implied value of '$340,000' is consideration for the Yava project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. No combined payments for the Blue Moon project are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. The issuance of 4,250,000 shares is consideration for the Yava project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is for the Yava project, not the Blue Moon project. The share price of '$0.08' is for the shares issued as consideration for the Yava project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": null
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": null
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states the Blue Moon deposit 'contains zinc, gold, silver and copper' but does not provide a quantified mineral resource estimate with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article describes Blue Moon Metals selling the Yava project. There is no buyer for the Blue Moon project mentioned in this context."
+    }
+  }
+}

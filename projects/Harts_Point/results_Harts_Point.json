@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Harts_Point/34577.txt",
+    "projects/Harts_Point/35556.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Harts Point",
+      "justification": "The text announces an agreement for the 'Harts Point Uranium Property' and consistently refers to it as 'Harts Point' or 'the Property'."
+    },
+    "company_name": {
+      "value": "Kraken Energy Corp.",
+      "justification": "The buyer is identified in the first sentence: 'Kraken Energy Corp. (CSE: UUSA) (OTCQB: UUSAF) (the \"Company\" or \"Kraken\") is pleased to announce that it has entered into a binding letter of agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Matthew Schwab",
+      "justification": "The text identifies the CEO of the buyer, Kraken Energy Corp.: 'Stated Matthew Schwab, CEO of Kraken.'"
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement allows for the acquisition of a maximum potential interest of 75%: '...the Company may acquire up to 75% of the Harts Point Property from Atomic Minerals Corporation...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the 'Harts Point Uranium Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/164483",
+      "justification": "The article is titled 'Kraken Energy Executes Binding Letter Agreement for the Harts Point Uranium Property, Utah', which directly relates to the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The exploration commitments are specified in US dollars: 'Kraken will be the operator and must incur US$1.5 million of eligible expenditures...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any direct cash payments to the seller, Atomic Minerals Corporation. The consideration is in the form of exploration expenditures and share issuance."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement involves the issuance of shares, but no specific monetary value is assigned to this component in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The option to increase interest to 75% includes a share issuance component: '...and issuing Atomic 2.0 million common shares of Kraken.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an option agreement, but there are no payments specified as 'option payments' in the financial terms."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined in monetary terms, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3500000,
+      "justification": "The total commitment is the sum of two stages to earn the full 75% interest: 'incur US$1.5 million of eligible expenditures' to earn 65%, and 'an additional US$2.0 million of eligible expenditures' to increase interest to 75% ($1.5M + $2.0M = $3.5M)."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a net smelter royalty as part of the deal: 'Kraken will grant Atomic a 2.0% net smelter royalty (subject to a buy down to 1.0% for US$5.0 million).'"
+    },
+    "coverage_area_raw": {
+      "value": 2622,
+      "justification": "The text specifies the area of the property: 'Property consists of 324 lode mining claims on Bureau of Land Management (\"BLM\") ground that covers an area of 2,622 hectares (\"ha\") (6,480 acres).'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: '...covers an area of 2,622 hectares (\"ha\")...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions regional historical production and exploration results (e.g., 'off-scale' radioactivity), but does not provide a quantified JORC or NI 43-101 compliant mineral resource estimate specifically for the Harts Point property itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:UUSA",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: 'Kraken Energy Corp. (CSE: UUSA) (OTCQB: UUSAF)'."
+    }
+  }
+}

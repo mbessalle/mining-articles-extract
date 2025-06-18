@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Gemini/84329.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gemini",
+      "justification": "The article is titled 'Nevada Sunrise Receives US$300,000 for the Sale of Non-Core Claims at the Gemini Lithium Project, Nevada'."
+    },
+    "company_name": {
+      "value": "Nevada Sunrise Metals Corporation",
+      "justification": "The press release is from 'Nevada Sunrise Metals Corporation (TSXV: NEV) (OTC Pink: NVSGF) (\"Nevada Sunrise\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is identified as 'Dome Rock Resources, LLC', a private company. No CEO for the buyer is mentioned in the text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction was for the purchase of 'fifty-seven (57) non-core claims', not a percentage ownership interest in the Gemini project itself."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is consistently referred to as the 'Gemini Lithium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/237370",
+      "justification": "The article title 'Nevada Sunrise Receives US$300,000 for the Sale of Non-Core Claims at the Gemini Lithium Project, Nevada' and the content confirm it is about the correct project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text specifies the currency in the payment details: 'The purchase price for the acquisition of the Claims by Dome Rock was US$300,000 in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The purchase price for the acquisition of the Claims by Dome Rock was US$300,000 in cash, which has been received in full by Nevada Sunrise."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash only; no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly for cash, so this field is not applicable according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 5765,
+      "justification": "The text states the total project size: 'Gemini's current size of approximately 5,765 acres (2,330 hectares) of unpatented Bureau of Land Management mineral claims.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit is specified in the same sentence as the area: '...approximately 5,765 acres...'"
+    },
+    "resource_size": {
+      "value": "1.3 million tonnes Lithium, or 7.1 million tonnes lithium carbonate equivalent (\"LCE\") contained within 1,200 million tonnes of lithium-mineralized clay at an average grade of approximately 1,130 parts per million (\"ppm\") Lithium",
+      "justification": "The text provides a detailed resource estimate: 'The Inferred resource estimate comprises, in an open pit-constrained resource: Approximately 1.3 million tonnes Lithium, or 7.1 million tonnes lithium carbonate equivalent (\"LCE\") contained within 1,200 million tonnes of lithium-mineralized clay at an average grade of approximately 1,130 parts per million (\"ppm\") Lithium;'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as 'Dome Rock Resources, LLC (\"Dome Rock\"), a private South Dakota company', which does not have a public ticker or exchange listing."
+    }
+  }
+}

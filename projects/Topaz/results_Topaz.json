@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Topaz/73530.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Topaz",
+      "justification": "The article is titled 'Pulsar Significantly Increases Land Position at the Topaz Helium Project In Minnesota' and refers to the project as 'the Topaz Helium Project (the \"Topaz Project\")'."
+    },
+    "company_name": {
+      "value": "Pulsar Helium Inc.",
+      "justification": "The company is identified as 'Pulsar Helium Inc. (TSXV:PLSR) & (OTCQB:PSRHF) (\"Pulsar\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Thomas Abraham-James",
+      "justification": "The text includes a comment from 'Thomas Abraham-James, President & CEO of Pulsar' and is signed off by '\"Thomas Abraham-James\" President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the acquisition of land acreage, not a percentage interest in the project itself."
+    },
+    "primary_commodity": {
+      "value": "He",
+      "justification": "The company is described as 'the helium development company' and the project is named the 'Topaz Helium Project'. The resource statement also quantifies Helium."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment for the land package is explicitly stated in USD: '...over 2,092 net acres for USD$313,800 or USD$150 per acre.'"
+    },
+    "cash_payments_raw": {
+      "value": 313800,
+      "justification": "The transaction was an exercise of an option for a cash payment: 'The initial expansion of the land package is through the exercise of its exclusive option with a private mineral right holder over 2,092 net acres for USD$313,800...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the land acquisition was entirely in cash; no share payments were mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as a cash payment, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was a cash payment for an option exercise; no shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction was the exercise of an option, but no separate payment for the option itself (distinct from the land acquisition cost) is mentioned."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future plans to deepen a well but does not specify a drilling commitment in meters as part of the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines future development plans but does not state a specific exploration expenditure commitment as part of the land acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 20,
+      "justification": "The land package carries a royalty retained by the seller: 'The primary term for this land package is 5 years for undeveloped land, which is extendable for the term of production and carries a 20% royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 2092,
+      "justification": "The acquisition is for a specific amount of land: 'The initial expansion of the land package is through the exercise of its exclusive option with a private mineral right holder over 2,092 net acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the acquired land is specified as acres: '...over 2,092 net acres...'"
+    },
+    "resource_size": {
+      "value": "2.8 Bcf Helium (P10) and 21.3 Bcf CO2 (P10) gross gas recoverable",
+      "justification": "A resource estimate for the project is provided: 'Sproule's recently completed Prospective resource statement (refer to the Company's announcement of August 21, 2024) estimated 2.8 Bcf Helium (P10) and 21.3 Bcf CO2 (P10) gross gas recoverable...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PLSR",
+      "justification": "The company is identified in the text as 'Pulsar Helium Inc. (TSXV:PLSR) & (OTCQB:PSRHF)'."
+    }
+  }
+}

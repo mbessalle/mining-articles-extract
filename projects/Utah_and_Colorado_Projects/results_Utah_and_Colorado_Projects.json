@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Utah_and_Colorado_Projects/81056.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Utah and Colorado Projects",
+      "justification": "The article title is 'Urano Energy Completes Acquisition of Uranium Properties in Utah and Colorado' and the project is described as 'fifteen uranium properties... situated within the Colorado Plateau geological region within the states of Utah and Colorado.'"
+    },
+    "company_name": {
+      "value": "Urano Energy Corp.",
+      "justification": "The acquiring company is identified as 'Urano Energy Corp. (CSE: UE) (OTCQB: UECXF)(the \"Company\" or \"Urano Energy\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Bagg",
+      "justification": "The text states: 'Jason Bagg, Chief Executive Officer of Urano Energy, stated, \"The acquisition of these properties... is important to the development and growth of Urano Energy.\"'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Urano Energy 'has completed the acquisition of fifteen uranium properties', which implies a 100% interest as no lesser percentage is specified."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The article is titled 'Urano Energy Completes Acquisition of Uranium Properties in Utah and Colorado' and repeatedly refers to the properties as uranium properties."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/urano-energy-completes-acquisition-of-uranium-properties-in-utah-and-colorado-302323490.html",
+      "justification": "The article content directly corresponds to the acquisition of the Utah and Colorado Projects by Urano Energy Corp., matching the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction terms are explicitly stated in US dollars: 'Urano agreed to pay the vendors an aggregate of US$5,825,000 in cash and issue an aggregate of US$4,800,000 in shares of the Company'."
+    },
+    "cash_payments_raw": {
+      "value": 5825000,
+      "justification": "The text specifies the total cash consideration: 'Pursuant to the terms of the agreements Urano agreed to pay the vendors an aggregate of US$5,825,000 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": 4800000,
+      "justification": "The text specifies the total share consideration: '...and issue an aggregate of US$4,800,000 in shares of the Company as consideration for the properties...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments are provided, so this combined field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the value of shares to be issued (US$4,800,000) but does not state the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration work but does not specify a commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that 'Exploration work is expected to commence with confirmatory drilling' but does not specify a monetary value for an exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller retained a royalty which was granted by the buyer: 'Urano has also granted the vendors a 1% gross royalty in respect of all uranium...'. Per the rules, a Gross Royalty is treated as an NSR and a retained royalty is captured."
+    },
+    "coverage_area_raw": {
+      "value": 8206.4,
+      "justification": "A table detailing the acquired properties provides a sum for the area: 'TOTALS | 345 | 8206.4'."
+    },
+    "coverage_area_unit": {
+      "value": "Acres",
+      "justification": "The header for the area column in the property details table is 'Area (Acres)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a current, compliant mineral resource estimate. It refers to historical data ('A proprietary intra-company report dated 1984 provides historical estimates of remaining resources') and states that the company plans to prepare technical reports, implying no current resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:UE",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Urano Energy Corp. (CSE: UE) (OTCQB: UECXF)'."
+    }
+  }
+}

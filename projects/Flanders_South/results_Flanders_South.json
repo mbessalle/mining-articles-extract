@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Flanders_South/88581.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Flanders South",
+      "justification": "The project is explicitly named in the text: '...Libra's Flanders South, Flanders North and Soules Bay-Caron (the \"SBC Project\") lithium projects...'"
+    },
+    "company_name": {
+      "value": "KoBold Metals",
+      "justification": "The text states that Libra entered into an earn-in agreement with 'a wholly-owned Canadian subsidiary of KoBold Metals Company (\"KoBold\") to jointly explore Libra's Flanders South... lithium projects'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not mention the name of the CEO for the buyer, KoBold Metals Company. It only lists the CEOs for Libra Lithium Corp. and PowerStone Metals Corp."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions an 'earn-in agreement' but does not specify the percentage of interest that can be acquired by KoBold Metals."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The text refers to the projects, including Flanders South, as 'lithium projects'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241590",
+      "justification": "The article, sourced from the provided URL, discusses the earn-in agreement involving the Flanders South project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The companies involved (Libra Lithium, PowerStone Metals) are Canadian, and PowerStone is listed on the Canadian Securities Exchange (CSE), implying the currency for the '$33M earn-in deal' is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any cash payments as part of the earn-in agreement. The $33M figure is an exploration commitment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments as part of the earn-in agreement for the Flanders South project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention a combined cash and share payment for the earn-in agreement."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the earn-in agreement for the Flanders South project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the earn-in agreement, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 11000000,
+      "justification": "The project's share is $11,000,000, calculated as one-third of the total $33,000,000 commitment shared between three projects (Flanders North, Flanders South, and Soules Bay-Caron) as stated: 'Libra's Flanders North, Flanders South, and Soules Bay-Caron projects in Ontario are being explored under a $33M earn-in deal with KoBold Metals Company.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Flanders South project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Flanders South project, so there is no unit."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource for the Flanders South project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is KoBold Metals Company, for which no stock ticker or exchange is provided in the text. The ticker mentioned, CSE:PS, belongs to PowerStone Metals Corp., which is involved in a separate RTO transaction with Libra, but is not the buyer in the project earn-in."
+    }
+  }
+}

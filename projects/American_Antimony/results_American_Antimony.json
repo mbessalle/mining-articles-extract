@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/American_Antimony/54813.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "American Antimony",
+      "justification": "The text identifies the project in the following sentence: 'Xtra Energy Corporation is an antimony exploration company focused on developing its flagship project \"American Antimony\", approximately 31 miles northeast of Eastgate, Nevada.'"
+    },
+    "company_name": {
+      "value": "Xtra Energy Corp",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Xtra Energy Corp. (OTC PINK:XTPT), an antimony exploration company focused on developing its flagship project \"American Antimony,\"... has finalized the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Mac J. Shahsavar",
+      "justification": "The CEO of the acquiring company is quoted in the text: 'Xtra Energy's Chairman and CEO, Mac J. Shahsavar, P.Eng., commented, \"We are pleased to announce the successful completion of this significant acquisition.''"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline of the article states a 'Full Acquisition', implying 100% interest in the asset being acquired. 'Xtra Energy Corporation Announces Full Acquisition of the Historic Antimony King Mine...'"
+    },
+    "primary_commodity": {
+      "value": "Sb",
+      "justification": "The text repeatedly identifies the primary commodity as Antimony, for which 'Sb' is the symbol. 'Xtra Energy Corporation Announces Full Acquisition of the Historic Antimony King Mine, The Principal Past-Producer of Antimony in the Bernice Mining District of Nevada'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/868420/xtra-energy-corporation-announces-full-acquisition-of-the-historic-antimony-king-mine-the-principal-past-producer-of-antimony-in-the-bernice-mining-district-of-nevada",
+      "justification": "The article is about the acquisition of the Antimony King Mine, which is part of the American Antimony project by Xtra Energy Corp. The original press release link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The company is listed on the US-based OTC PINK market and the detailed quote section uses a '$' symbol, implying USD. 'Exchange: OTCPK' and 'Last: 0.1829 $ Chg: -0.00965'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was entirely in shares, with no cash component mentioned. 'The issuance of 2500 preferred shares, which, upon conversion, would be equivalent to 5 million common shares of XTPT, serves as the consideration for this acquisition.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated. The number of shares and a price per share are available, so per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into a number of shares and a price per share can be inferred, so per the extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The consideration for the acquisition is specified as shares: 'The issuance of 2500 preferred shares, which, upon conversion, would be equivalent to 5 million common shares of XTPT, serves as the consideration for this acquisition.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.1829,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.1829'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 80,
+      "justification": "The text specifies the area of the acquired asset: '...finalized the acquisition of the Antimony King Mine comprised of four lode claims approximately 80 acres of workings...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the acquired area is specified as acres. '...comprised of four lode claims approximately 80 acres of workings...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical analyses and ore body dimensions but does not provide a quantified mineral resource estimate containing mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTCPK:XTPT",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'Xtra Energy Corp. (OTC PINK:XTPT)'. The detailed quote section confirms the exchange as OTCPK: 'Exchange: OTCPK'."
+    }
+  }
+}

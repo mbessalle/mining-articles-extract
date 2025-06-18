@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Flat/43212.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Flat",
+      "justification": "The article describes an acquisition of claims that are being added to the existing Flat project. The headline is: \"Tectonic Metals Acquires Three Additional Potential Intrusions On-Trend with the Flat Gold Project\"."
+    },
+    "company_name": {
+      "value": "Tectonic Metals Inc.",
+      "justification": "The acquiring company is identified in the first paragraph: \"Tectonic Metals Inc. (TSXV:TECT)(OTCQB:TETOF)(FSE:T15B) (\"Tectonic\" or the \"Company\"), a mineral exploration company... today announced the acquisition...\""
+    },
+    "ceo_buyer": {
+      "value": "Tony Reda",
+      "justification": "The CEO is identified at the end of the press release: \"On behalf of Tectonic Metals Inc., Tony Reda President and Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement provides an option to acquire a full interest in the claims: \"Tectonic shall have the option at any time prior to the sixth anniversary to purchase 100% interest in the claims for US$200,000...\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project: \"The Flat Gold Project - Alaska's Next Tier 1 Opportunity\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/797311/tectonic-metals-acquires-three-additional-potential-intrusions-on-trend-with-the-flat-gold-project",
+      "justification": "The article is directly about the Flat Gold Project and an acquisition of adjacent claims, as stated in the headline."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment terms are specified in US dollars: \"Under terms of the agreement for the Third Party acquired claims, Tectonic will pay the lessor US$25,000 at execution of the lease...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the primary consideration for the acquisition is a combined cash and share payment, which is populated in `cash_and_share_payments_combined_raw`."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the primary consideration for the acquisition is a combined cash and share payment, which is populated in `cash_and_share_payments_combined_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 200000,
+      "justification": "The consideration to exercise the option to purchase the claims is a value that can be paid in either cash or shares: \"Tectonic shall have the option at any time prior to the sixth anniversary to purchase 100% interest in the claims for US$200,000 payable in cash or common shares of Tectonic Metals Inc.\""
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A price per share for the transaction is not specified in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 650000,
+      "justification": "The total exploration commitment is the sum of required expenditures over five years ($50,000 + $100,000 + $100,000 + $200,000 + $200,000): \"Fifty Thousand Dollars (US$50,000.00) before December 1, 2024; and An additional One Hundred Thousand Dollars (US$100,000.00) before December 1, 2025; and An additional One Hundred Thousand Dollars (US$100,000.00) before December 1, 2026; and An additional Two Hundred Thousand Dollars (US$200,000.00) before December 1, 2027; and An additional Two Hundred Thousand Dollars (US$200,000.00) before December 1, 2028.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a Net Smelter Return royalty as part of the transaction terms: \"Tectonic shall pay the Lessor a 2.0% Net Smelter Return royalty on all precious Mineral Products produced and sold from the Claims.\""
+    },
+    "coverage_area_raw": {
+      "value": 2720,
+      "justification": "The transaction specifically covers the claims acquired from a third party, not the claims staked by Tectonic. \"2,720 acres (17 x 160 acres state claims) were acquired from a third-party vendor\"."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the acquired area is specified as acres: \"2,720 acres (17 x 160 acres state claims) were acquired from a third-party vendor\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical placer production and drill intercepts, but does not provide a formal mineral resource estimate with tonnage and grade."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TECT",
+      "justification": "The company's primary stock listing is provided in the introductory paragraph: \"Tectonic Metals Inc. (TSXV:TECT)(OTCQB:TETOF)(FSE:T15B)\"."
+    }
+  }
+}

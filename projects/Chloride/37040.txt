@@ -1,0 +1,91 @@
+--- Article Metadata ---
+Project Name: Chloride
+Company Name: Silver Range Resources Ltd.
+Exchange: TSXV
+Ticker: SNG
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+6.22.2023, 2:30:00 PM
+
+# Silver Range Stakes Two Projects In Arizona And Provides Corporate Update
+
+**VANCOUVER, BC / ACCESSWIRE / June 22, 2023 / Silver Range Resources Ltd.** (TSXV:SNG) ("Silver Range" or the "Company") is pleased to provide an update on exploration work in Arizona, partner activity and property option developments.
+
+In May, Silver Range staked and conducted preliminary exploration on two targets identified by reconnaissance work in Arizona.
+
+_Chloride Property_
+
+The Chloride Property is located in Mohave County near the town of Chloride in the Wallapai Mining District. It covers the northwestern extension of the Tennessee Mine, one of the two principal mines in the district. Initial grab sampling by Silver Range returned analyses up to **18.75 g/t Au** , **764 g/t Ag** , 11.6% Zn and 2.35% Pb from dump material at the Elkhart, Dardanelles and Argyll Mines. These small past producers are found along a 1500 m long structural extension of the Tennessee Mine vein system. At Chloride, a total of 27 samples were collected, 4 of which returned assays greater than 5 g/t Au. Silver Range intends to conduct detailed geological mapping, grid soil sampling and geophysical surveys to identify targets for subsequent trenching and drill testing.
+
+_Crosby Property_
+
+The Crosby Property is located 67 km west of Prescott in Yavapai County. The property covers the small past producing Crosby Mine, an underground mining operation which saw intermittent production from 1906 to 1931. Known historical development on the property includes a 107 m inclined shaft and systematic development along strike for 100 m to a depth of 50 m. A 10-stamp mill was operated on the property prior to 1931. Preliminary sampling by Silver Range returned dump and chip samples assaying up to **22.8 g/t Au** with 5 of 27 samples returning assays greater than 5 g/t Au. Silver Range intends to conduct geochemical and geophysical surveys on the property to locate drill & trenching targets.
+
+_South Kitikmeot Gold Property drill results_
+
+Silver Range optioned the South Kitikmeot Gold Property ("SKGP") to Viridis Mining & Minerals Limited ("Varidis") in October 2021 ([_Silver Range News Release dated August 19, 2021_](https://pr.report/tO0iE19M)). On June 6, 2023, Viridis released results from a 7 hole / 764 m initial drill program at the Esker Lake Property, one of the seven projects in the SKGP . ([_Viridis Mining & Metals News Release dated June 6, 2023_](https://pr.report/MrzOhZRm)). Viridis reported that 5 of the 7 holes intersected gold greater than 1 g/t Au. The seven properties comprising the SKGP cover the known significant gold occurrences between the Lupin Gold Mine at Contwoyto Lake and the Goose Lake Project, currently under development by B2 Gold Corp.
+
+_Option activity_
+
+On May 26, Silver Range concluded two amendments to letters of intent ("LOIs") signed with Green Gold LLC ("Green Gold") granting Green Gold options on the East Goldfield and Tule Canyon Properties ([_Silver Range News Release dated April 28, 2023_](https://pr.report/Fpb7ydMC)). These amendments extend the deadline to conclude definitive agreements on both properties to September 30, 2023 in return for consideration of U$20,000 (East Goldfield) and U$11,000 (Tule Canyon), payable by June 30, 2023. All other terms of the original LOIs remain in effect.
+
+Samples were secured and transported under chain of custody to ALS Minerals facilities in Reno, Nevada for sample preparation and analysis. At the laboratory, samples were crushed to progressively to < 2 mm (ALS Code CR-32) and a 1 kg aliquot was pulverized to 85% passing a 75 mm mesh (Code PUL-32). A 50 g subsample was then fire assayed with an atomic absorption finish (Code Au-AA26). In addition, induced coupled plasma analysis for 35 elements was performed on the samples (Code ME-ICP41). Overlimit silver analyses were re-analyzed using a gravimetric method (Code Ag-OG46). Overlimit copper, zinc and lead analyses were re-analyzed using _aqua regia_ digestion and ICP-MS employing procedures appropriate to high grade samples (ALS Codes Cu-OG46, Zn-OG46 and Pb-OG46).
+
+Technical information in this news release pertaining to the Chloride and Crosby Properties has been approved by Mike Power, M.Sc., CPG, President and CEO of Silver Range Resources Ltd. and a Qualified Person for the purposes of National Instrument 43-101.
+
+Silver Range is a precious metals prospect generator working in the Southwest United States and Northern Canada. It has assembled a portfolio of 47 properties, of which 15 are currently under option to others. Four other properties have been converted to royalty interests. Silver Range is actively seeking other joint venture partners to explore the high-grade precious metals targets in its portfolio.
+
+**ON BEHALF OF SILVER RANGE RESOURCES LTD.**
+
+_"Mike Power"_
+
+President, C.E.O. & Director
+
+For further information concerning Silver Range or its exploration projects please contact:
+
+**Investor Inquiries**
+
+Richard Drechsler  
+Vice-President, Communications  
+Tel: (604) 687-2522  
+NA Toll-Free: (888) 688-2522  
+[rdrechsler@silverrangeresources.com](mailto:rdrechsler@silverrangeresources.com)  
+[http://www.silverrangeresources.com](https://pr.report/n6F1-zUa)
+
+**Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+_This news release may contain forward looking statements based on assumptions and judgments of management regarding future events or results that may prove to be inaccurate as a result of exploration and other risk factors beyond its control, and actual results may differ materially from the expected results._
+
+**SOURCE:** Silver Range Resources Ltd.
+
+  
+  
+View source version on accesswire.com:   
+<https://www.accesswire.com/762905/Silver-Range-Stakes-Two-Projects-In-Arizona-And-Provides-Corporate-Update>  
+  
+
+
+### Project Name
+
+[Chloride Project](/?gid=4975)  
+Arizona, United States
+
+--- Detailed Quote ---
+
+Last: 0.10            $  Chg: 0.01
+Open: 0.10            High: 0.10
+Bid: 0.095             Bid Size: 1000
+Beta: -0.07379            Year High: 0.14
+Market Cap: 9.81m      PB Ratio: 1.51
+EPS: -0.04             Average Volume (30 Day): 22.06k
+Volume: 20.00k          % Chg: 11.11%
+Prev. Close: 0.09     Low: 0.10
+Ask: 0.10             Ask Size: 30000
+VWAP: 0.10            Year Low: 0.055
+Total Shares: 98.13m    Shares Out: 98.13m
+Float: 58.05m           Exchange: TSXV

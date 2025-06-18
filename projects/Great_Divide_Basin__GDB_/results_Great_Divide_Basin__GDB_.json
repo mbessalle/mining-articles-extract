@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Great_Divide_Basin__GDB_/53956.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Great Divide Basin Uranium Project",
+      "justification": "The press release states: \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN) ('Basin Uranium ' or the 'Company ') is pleased to announce it has acquired the Great Divide Basin Uranium Project (the 'Project ' or 'GDB ') located in Sweetwater County, Wyoming, USA.\""
+    },
+    "company_name": {
+      "value": "Basin Uranium Corp.",
+      "justification": "The acquiring company is identified as \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN)('Basin Uranium ' or the 'Company ')\"."
+    },
+    "ceo_buyer": {
+      "value": "Mike Blady",
+      "justification": "The document is signed off by \"Mike Blady Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The project was acquired through 'direct staking by the Company'. The press release does not specify a percentage interest acquired, as staking implies creating a 100% interest in new claims rather than acquiring a partial interest from another party."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The headline of the article is \"Basin Uranium Stakes Uranium Project in the Great Divide Basin, Wyoming\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/209419",
+      "justification": "The article is titled 'Basin Uranium Stakes Uranium Project in the Great Divide Basin, Wyoming' and the content is entirely about this project, which matches the project of interest. The source URL is provided at the end of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via direct staking, and no financial consideration (cash or shares) was mentioned in the press release, so no currency is applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through \"direct staking by the Company\". No cash payment is mentioned as part of the transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through \"direct staking by the Company\". No share payment is mentioned as part of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired through \"direct staking by the Company\". No combined cash and share payment is mentioned as part of the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via direct staking, not through a transaction involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The press release does not mention any specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The press release does not mention any specific exploration commitment in terms of monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The press release does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1880,
+      "justification": "The text states: \"The GDB Project is comprised of approximately 1,880 acres of contiguous claims (104 unpatented mineral lode claims)...\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"The GDB Project is comprised of approximately 1,880 acres of contiguous claims...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Great Divide Basin Project itself. The resource mentioned ('6.5 million short tons averaging 0.06% U3O8... to 10.5 million short tons averaging 0.06% U3O8') belongs to the contiguous 'Premier American Uranium's Cyclone Project'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NCLR",
+      "justification": "The company is identified in the text as \"BASIN URANIUM CORP. (CSE: NCLR) (CNSX: NCLR.CN)\"."
+    }
+  }
+}

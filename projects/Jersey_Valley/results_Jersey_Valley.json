@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Jersey_Valley/80298.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jersey Valley",
+      "justification": "The text announces an option agreement for Stuhini to acquire an interest in the 'Jersey Valley Property (“Jersey Valley”, “Project”, or the “Property”)'."
+    },
+    "company_name": {
+      "value": "Stuhini Exploration Ltd.",
+      "justification": "The acquiring company is identified as 'Stuhini Exploration Ltd. (\"Stuhini\" or the \"Company\") (TSXV: STU)'."
+    },
+    "ceo_buyer": {
+      "value": "Dave O'Brien",
+      "justification": "The text states: 'Stuhini President and CEO Dave O'Brien commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows 'Stuhini can acquire a 100% interest in the Jersey Valley Property'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the project as 'The Jersey Valley Property is a gold exploration project located in the well-known Battle Mountain area of Nevada.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no article link or URL is present in the source document."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment terms are explicitly denominated in 'U.S.$', as seen in 'U.S.$7,500' and 'US$300,000'."
+    },
+    "cash_payments_raw": {
+      "value": 309500,
+      "justification": "The total potential cash payment is the sum of the initial payments and the final exercise payment. The text specifies an initial payment of 'U.S.$7,500 plus reimbursement of Owner's payment...in the amount of U.S.$2,000.00' and an option exercise payment of 'US$300,000'. The sum is $9,500 + $300,000 = $309,500."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are based on cash payments and a royalty; no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are based on cash payments and a royalty; no combined cash and share value is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms are based on cash payments and a royalty; no issuance of shares is mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option, there are no payments specified as 'option payments' in the context of financial instruments like stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms are based on cash payments and a royalty; no issuance of shares is mentioned, so there is no share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text explicitly states: 'There are no work commitments associated with the Option'."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states: 'There are no work commitments associated with the Option'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The buyer, Stuhini, will grant a royalty to the seller upon exercising the option: 'Upon exercise of the Option, Stuhini will grant a 2.0% gross returns royalty (the \"Royalty\") on the Property...'"
+    },
+    "coverage_area_raw": {
+      "value": 2954.5,
+      "justification": "The text states: 'The Property comprises 143 unpatented lode claims, covering 2954.5 acres (1195.7 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: 'The Property comprises 143 unpatented lode claims, covering 2954.5 acres (1195.7 hectares)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate. It notes that for historical work, 'Sampling results from both work programs are unknown' and efforts to find historical drill data 'were unsuccessful'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STU",
+      "justification": "The buyer is identified in the first paragraph as 'Stuhini Exploration Ltd. (\"Stuhini\" or the \"Company\") (TSXV: STU)'."
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "projects/Goodsprings/87522.txt",
+    "projects/Goodsprings/87522_pdf.txt",
+    "projects/Goodsprings/91413.txt",
+    "projects/Goodsprings/91644.txt",
+    "projects/Goodsprings/91644_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Goodsprings",
+      "justification": "The documents consistently refer to the project being sold as the Goodsprings Project, for example: \"Koba Resources Limited (ASX:KOB; “Koba\" or the \"Company\") is pleased to announce that it has agreed to sell its Goodsprings Project in Nevada, USA to Fairchild Gold Corp (TSXV:FAIR; \"Fairchild\").\""
+    },
+    "company_name": {
+      "value": "Fairchild Gold Corp.",
+      "justification": "The acquiring company is identified as Fairchild Gold Corp. in the announcement: \"Koba Resources Limited (ASX:KOB; “Koba\" or the \"Company\") is pleased to announce that it has agreed to sell its Goodsprings Project in Nevada, USA to Fairchild Gold Corp (TSXV:FAIR; \"Fairchild\").\""
+    },
+    "ceo_buyer": {
+      "value": "Luis Martins",
+      "justification": "The CEO of the acquiring company, Fairchild Gold Corp., is identified in a quote: \"'This is a significant acquisition for Fairchild,' said Luis Martins, Chief Executive Officer of Fairchild Gold Corp.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer acquired a full interest in the project: \"Upon completion Fairchild will acquire a 100% interest in the Goodsprings Project, which comprises 72 unpatented mining claims.\""
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The authoritative metadata lists 'Cu' and the text supports this, mentioning the buyer's adjacent 'Copper Chief Project' and highlighting historical data such as 'Copper Assays : up to 25% Copper'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/244592",
+      "justification": "The article titled 'Fairchild Gold Corp Announces Successful Completion of Transaction with Koba Resources Ltd.' directly discusses the acquisition of the Goodsprings Project by Fairchild Gold Corp from Koba Resources Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The deemed value of the share consideration is specified in Canadian dollars: \"The issue of 3,000,000 unrestricted shares in Fairchild with a deemed value of C$150,000\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition did not include a cash component, consisting only of shares and a royalty."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, the transaction is defined by the number of shares and a deemed value, so `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms were broken down into shares and a royalty, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The consideration for the acquisition included a specific number of shares: \"The issue of 3,000,000 unrestricted shares in Fairchild with a deemed value of C$150,000\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The price is calculated from the transaction terms: 'The issue of 3,000,000 unrestricted shares in Fairchild with a deemed value of C$150,000', which results in a price of C$0.05 per share (150,000 / 3,000,000)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include any commitment for a specific amount of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any commitment for exploration expenditure."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller (Koba) was granted a royalty by the buyer (Fairchild): \"Fairchild granting Koba a 1.0% royalty, 50% of which may be bought out at any time for C$1,000,000.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the acquired Goodsprings Project comprises '72 unpatented mining claims' but does not provide a specific area in acres or hectares for these claims. The mentioned '6150 acres' refers to the total consolidated land package of Fairchild's Copper Chief Project *after* the acquisition, not the area of the Goodsprings project alone."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was found for the Goodsprings project specifically."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical data highlights including high-grade assay results (e.g., 'up to 25% Copper'), but it does not contain a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FAIR",
+      "justification": "The buyer is explicitly identified with its ticker and exchange in the text: \"Fairchild Gold Corp (TSXV:FAIR; “Fairchild”)\"."
+    }
+  }
+}

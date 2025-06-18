@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Clover/85723.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Clover",
+      "justification": "The text states: '...and the Company has recently completed staking of an additional 41 unpatented lode claims (the \"Claims\") covering approximately 708 hectares (1750 acres) and is called the Clover Gold property (\"Clover\" or the \"Property\").'"
+    },
+    "company_name": {
+      "value": "Black Mammoth Metals Corporation",
+      "justification": "The buyer is identified as Black Mammoth Metals Corporation. The text states: 'Black Mammoth Metals Corporation (TSXV: BMM) (OTC: LQRCF)(\"Black Mammoth\" or the \"Company\") is pleased to announce that Antelope Creek Gold Corporation (\"Antelope Creek\"), a wholly owned subsidiary of Black Mammoth, has entered into an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Dustin Henderson",
+      "justification": "The CEO of the buyer, Black Mammoth Metals, is identified at the end of the press release: 'On behalf of the board, \"Dustin Henderson\" Dustin Henderson, BBA President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the property. The text states: 'Under the terms of the Agreement, Antelope Creek may purchase a 100% interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly identified as a gold property in the headline: 'Black Mammoth Metals Options the High-Grade Clover Gold Property in Nevada'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Clover project, but no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the acquisition terms is explicitly stated as USD: 'Acquisition Terms (in USD):'"
+    },
+    "cash_payments_raw": {
+      "value": 185000,
+      "justification": "The total cash consideration is an aggregate of $185,000, as stated: 'Under the terms of the Agreement, Antelope Creek may purchase a 100% interest in the Property by making an aggregate of $185,000 in cash payments... Total: $185,000'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement explicitly excludes share compensation: 'There are no work commitment amounts, finder's fees or share compensation in connection with Clover Agreement.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are explicitly broken down into cash payments only, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement explicitly excludes share compensation: 'There are no work commitment amounts, finder's fees or share compensation in connection with Clover Agreement.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement explicitly excludes work commitments: 'There are no work commitment amounts, finder's fees or share compensation in connection with Clover Agreement.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement explicitly excludes work commitments: 'There are no work commitment amounts, finder's fees or share compensation in connection with Clover Agreement.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The vendor retains a 2.5% Net Smelter Royalty as part of the transaction terms: 'The Vendor will retain a 2.5% NSR...'"
+    },
+    "coverage_area_raw": {
+      "value": 708,
+      "justification": "The Clover property is defined as covering 708 hectares: '...to acquire a 100% interest in 47 unpatented lode claims and the Company has recently completed staking of an additional 41 unpatented lode claims (the \"Claims\") covering approximately 708 hectares (1750 acres) and is called the Clover Gold property...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: '...covering approximately 708 hectares (1750 acres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document provides drill intercepts for the Clover project (e.g., '23.03 g/t Au over 9.75 meters') but does not contain a quantified mineral resource estimate (e.g., tonnes, ounces) for the project itself. A geological target is mentioned, but it is for the separate Blanco Creek property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BMM",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Black Mammoth Metals Corporation (TSXV: BMM) (OTC: LQRCF)(\"Black Mammoth\" or the \"Company\") ...'"
+    }
+  }
+}

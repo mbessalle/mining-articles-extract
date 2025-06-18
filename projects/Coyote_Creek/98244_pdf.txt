@@ -1,0 +1,149 @@
+Of course. Here is the content of the provided PDF converted into clean, LLM-friendly Markdown.
+
+This version structures the information with clear sections for the announcement highlights, project background, historical estimates, and acquisition terms, making it easy for a language model to process.
+
+---
+
+# ASX ANNOUNCEMENT
+
+**ASX:EVR**  
+evresources.com.au
+
+**1st April 2025**
+
+## Strategic US Antimony Acquisition, Coyote Creek
+
+### Highlights:
+
+*   EVR has reached agreement with a private US Investor to acquire 49 unpatented claims over the Coyote Creek Antimony Project in Utah, USA.
+*   The claims cover both old workings and waste from historical antimony mining up to the 1920's.
+*   A historical non-JORC resource estimate of 12.7 million metric tons grading 0.79% Antimony was estimated by the Utah Geological and Mineral Survey in 1975.
+*   The historical estimate above is not reported in accordance with the JORC Code. A competent person has not done sufficient work to classify the historical estimates as mineral resources or ore reserves in accordance with the JORC Code, and it is uncertain that following evaluation and/or further exploration work that the historical estimates will be able to be reported as mineral resources or ore reserves in accordance with the JORC Code.
+*   The USA currently has no operating antimony mine and imports all its antimony concentrates.¹
+
+---
+
+EV Resources Limited (ASX:EVR) (“EVR” or “the Company") has reached agreement with a resources private investor based in the USA, for the acquisition of 49 unpatented claims (“The Claims”) over the Coyote Creek Antimony Project.
+
+The USA imports all of its antimony concentrates at present¹ and the Coyote Creek Project appears to have the potential to become a domestic supplier of antimony at a time of well documented supply shortages.
+
+This acquisition follows EVR's recent announcement of the proposed acquisition of 70% of Los Lirios, an open pit antimony mine in Oaxaca state Mexico. The Coyote Creek Project fits with EVR's preference to develop an Americas antimony division based upon open pit mining opportunities. (See ASX announcement “Acquisition of Los Lirios Antimony Mine (EVR 70%) Mexico” dated 28th January 2025).
+
+---
+
+### Background to Coyote Creek Antimony Project
+
+The demand for raw materials for the defense effort during the 2nd World War prompted a review of the Coyote Creek Project, and field work including trenching was conducted between November 1941 and February 1942.
+
+#### Location
+The Coyote Creek claims are located in Garfield County, Utah, 11km east of the town named Antimony. The Canyon in which it is located is referred to variously as Coyote Creek Canyon or Antimony Canyon. Access to the project is via paved roads and then unpaved forestry roads navigable with a low clearance vehicle.
+
+#### History and Production
+Antimony was discovered in Coyote Canyon early in the 1880's by Indian tribes who initially thought it to be lead used in bullet manufacture. The deposits have been worked sporadically since discovery in periods of high price, up to the 1920s. Records show that initial production was based on collecting quantities of float at surface, and then later, from small workings in the cliff faces. A mill was erected in approximately 1907.
+
+#### Previous Exploration
+The US Bureau of Mines conducted studies at Coyote Creek between November 1941 and February 1942 as part of the programme to secure antimony for the armaments industry during World War II.
+
+The 1949 report noted that numerous small deposits and workings were scattered over an area 3 miles east-west and 2 miles north-south largely in cliffs of unconsolidated sandstone and shale. The deposits consist of veinlets, lenses and irregularly shaped blebs of stibnite. These occurrences are irregular and confined to areas of fracturing and jointing.
+
+The deposits at Antimony Canyon follow a general east-west direction. The cliff walls rise sharply on each side up to 240 metres above the Creek bed.
+
+Sb (Antimony) mineralization is within the Flagstaff Formation, Late Paleocene age. Most of the high-grade Sb mineralization occurs as horizontal, lenticular orebodies and pods above the lowermost sandstone/shale unit within the overlying more massive sandstone of the Flagstaff Formation. The ore zones range from 5 feet to 35 feet in thickness. The primary ore is stibnite Sb2S3 and minor amounts of valentinite Sb2O3.
+
+EVR has determined that the areas of interest for exploration will be primary ore and from the debris mantle, or ‘talus slope’ below the cliffs which were the main focus of the 1949 field work and subsequent 1975 Historical Resource Estimate.
+
+The debris mantle, or talus slope below the cliffs consists of volcanic boulders and small landslide masses of shale and sandstone. Apart from the 'normal' debris mantle, which is up to a few feet in thickness, there are four distinct and larger landslide events – and these were estimated at up to 50m in thickness. Abundant Stibnite float was identified in these talus slopes in the 1941/2 trenching campaign.
+
+Trenching was done across the favourable sandstone horizon by the Bureau of Mines to remove overburden and provide adequate exposure.
+*   96 trenches averaging 2.5 feet by 2.5 feet in cross section (76cm) and ranging up to 120 feet (40m) in length were dug by hand.
+*   The trenches were laid out across the sandstone horizon, vertically along cliff exposures, and where mineralisation was indicated in underground workings. The trenches were not sampled where mineralisation was not discernible.
+*   541 samples were taken, including 11 bulk dump samples. Generally samples were 4-6 inch (10-15cm) grooves and represented 5 feet (1.52m) of vertical section across the bed.
+*   Samples were taken to the Experimentation Station of the US Bureau of Mines in Salt Lake City.
+
+---
+
+### 1975 Historical Resource Estimate
+
+The project at Coyote Creek was estimated to contain a resource of 12.7 million metric tonnes) at 0.79% Antimony (Utah Geological and Mineral Survey, 1975).
+
+**Cautionary Statement:** This historical estimate is not reported in accordance with the JORC Code. A competent person has not done sufficient work to classify the historical estimates as mineral resources or ore reserves in accordance with the JORC Code, and it is uncertain that following evaluation and/or further exploration work that the historical estimates will be able to be reported as mineral resources or ore reserves in accordance with the JORC Code. ASX Listing Rule 5.12 specifies the additional information that must be provided in a market announcement that contains historical estimates. This information is contained in Appendix 1.
+
+### Terms of Acquisition Agreement
+
+EVR is acquiring 49 unpatented claims (covering 980 acres) from a private investor based in the USA. The purchase consideration is as follows:
+1.  Refund of fees paid by the investor to the Bureau of Land Management and Garfield County (approx. USD16,000); and
+2.  the issuance of A$125,000 payable in EVR shares at a 30-day VWAP prior to the date of licence transfer, but no less than A$0.005 per share (a maximum of 25m shares).
+
+### US Antimony Market
+
+The USA has no current mined antimony production. The Stibnite mine in Idaho has recently been permitted to production (see perpetuaresources.com), but no other significant occurrences have been documented to date.
+
+---
+
+### Next Steps
+
+The transfer of the licences will be made as soon as possible.
+
+The Exploration work to be conducted by EVR to verify the historical estimate as mineral resources will commence once appropriate permissions are secured from the Bureau of Land Management and US Forestry Service. The programme is intended to commence in 2025.
+
+The work programme planned by EVR will include a detailed survey, and then a trenching and channel sampling campaign, with the precise number, location and dimension of trenches and channels to be determined. A sampling protocol for trench sampling will be decided upon that meets JORC requirements, and samples are expected to be processed at the ALS Laboratory in Elko, Nevada. The optimal method of drilling to obtain reliable results that can be used for the purposes of resource estimation will be determined. The programme will be funded from internal sources of capital.
+
+This announcement is intended to lift the Company's trading halt.
+
+ENDS
+
+---
+### For further information, please contact:
+
+**Luke Martino**  
+Non-Executive Chairman  
+Tel: +61 8 6489 0600  
+E: luke@evresources.com.au
+
+**Hugh Callaghan**  
+Managing Director  
+Tel: +61 8 6489 0600  
+E: hugh@evresources.com.au
+
+---
+
+### Appendix 1 - Listing Rule 5.12 Historical Resource Estimate information
+
+**Coyote Creek Project**
+
+The information in this announcement relating to the Mineral Resource Estimate for the Coyote Creek Project is reported in accordance with the requirements applying to historical estimates in the ASX Listing Rules (the "Historical Estimates") and, as such are not reported in accordance with the 2012 edition of the Joint Ore Reserves Committee's Australasian Code for Reporting of Mineral Resources and Ore Reserves (“JORC Code"). The following information is provided in accordance with ASX Listing Rule 5.12:
+
+**1. The source and date of the historical estimates (LR 5.12.1)**
+All the historical information presented is taken from a report entitled “Geology and Mineral Resources of Garfield County Utah" authored by HH Doelling and issued by the Utah Geological and Mineral Survey, a division of the Utah Dept. of Natural Resources, [Salt Lake City], 1975.
+
+**2. Whether the historical estimates use categories of mineralisation other than those defined in JORC Code 2012 and if so, an explanation of the differences (LR 5.12.2)**
+The estimate is historical in nature and was calculated prior to the introduction of the JORC Code and has therefore not been classified into mineral resource categories.
+
+**3. The relevance and materiality of the historical estimates to the entity (LR 5.12.3)**
+EVR considers the historical estimate to be both material and relevant to the Coyote Creek Project as it provides an indication of the scale of the project and that further exploration is warranted to bring the mineralization into compliance with the JORC 2012 Code.
+
+**4. The reliability of the historical estimates, including reference to any criteria in Table 1 of JORC Code 2012 which are relevant to understanding of the reliability of the historical estimates (LR 5.12.4)**
+The Historical Resource Estimate is not reported in compliance with the JORC 2012 code although the work conducted used the best standards available at the time of the field work being reported. A Competent Person has not conducted work that could classify this historical estimate as a resource reported in compliance with the JORC 2012 Code.
+
+**5. To the extent known, a summary of the work programs... (LR 5.12.5)**
+Trenching was done across the favourable sandstone horizon by the Bureau of Mines to remove overburden and provide adequate exposure.
+*   96 trenches averaging 2.5 feet by 2.5 feet in cross section (76cm) and ranging up to 120 feet (40m) in length were dug by hand.
+*   The trenches were laid out across the sandstone horizon, vertically along cliff exposures, and where mineralisation was indicated in underground workings.
+*   541 samples were taken, including 11 bulk dump samples. Generally samples were 4-6 inch (10-15cm) grooves and represented 5 feet (1.52m) of vertical section across the bed.
+*   Each sample was assayed individually in the experimental station of the US Bureau of Mines in Salt Lake City.
+
+**6. Any more recent estimates or data... (LR 5.12.6)**
+No further resource estimates or data relevant to the resource estimation are available.
+
+**7. The evaluation and/or exploration work that needs to be completed to verify the historical estimates... (LR 5.12.7)**
+The work programme planned by EVR will include a detailed survey, and then a trenching and channel sampling campaign...
+
+**8. The proposed timing of any evaluation and/or exploration work... (LR 5.12.8)**
+The Exploration work to be conducted to verify the historical estimate as mineral resources will commence once appropriate permissions are secured...The programme is intended to commence in 2025. The programme will be funded from working capital or future capital raisings.
+
+---
+**CONTACT INFO:**
+evresources.com.au
+311-313 Hay St Subiaco, Western Australia 6008
++61 (0) 8 6489 0600
+info@evresources.com.au

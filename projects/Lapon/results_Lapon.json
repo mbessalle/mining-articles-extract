@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Lapon/86647.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lapon",
+      "justification": "The authoritative project name is Lapon. The agreement detailed in the text concerns the 'Lapon Canyon Gold Project', which is described as 'a portion of the Lapon Gold Project'."
+    },
+    "company_name": {
+      "value": "Walker River Resources Corp.",
+      "justification": "The text states: 'Walker River Resources Corp. (“Walker” or the “Company”) (TSX-V: WRR) is pleased to announce it has signed... an Exploration Stream Earn-in Agreement...'. This is also the authoritative company name provided."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the acquiring party, Nevada Canyon Gold Corp., is not mentioned in the text. The text identifies Michel David as the CEO of the seller, Walker River Resources Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The Agreement grants Nevada Canyon the exclusive right to earn and purchase up to a 50% interest in the Lapon Canyon Project..."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is referred to as the 'Lapon Canyon Gold Project' and is located within the 'prolific Walker Lane gold trend'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The agreement requires 'funding cumulative Exploration Expenses of US$5,000,000 over a three-year period.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is in the form of an exploration commitment, not a direct cash payment. A US$200,000 Promissory Note is mentioned, but it is credited toward the exploration expense obligation, not paid as separate consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not involve any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The agreement does not involve cash or share payments, only an exploration commitment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of this agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the agreement terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the agreement terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "The Agreement grants Nevada Canyon the exclusive right to earn... by funding cumulative Exploration Expenses of US$5,000,000 over a three-year period."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "A 2% Net Smelter Returns royalty is mentioned only as a potential future conversion mechanism if a party's interest in the subsequent Joint Venture is diluted below 10%. It is not part of the initial consideration for the earn-in."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides an area for the entire 'Lapon Gold Project' (2940 acres), but the transaction is for a specific portion, the 'Lapon Canyon Project', for which no specific area is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not specified for the project portion under the agreement."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no current mineral resource exists, stating that future work 'will enable the completion of an initial NI 43-101 compliant mineral resource on the Project.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The acquiring party is Nevada Canyon Gold Corp., for which no stock ticker or exchange is mentioned in the text. The ticker provided, (TSX-V: WRR), belongs to the seller, Walker River Resources Corp."
+    }
+  }
+}

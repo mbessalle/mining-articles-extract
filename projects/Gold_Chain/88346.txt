@@ -1,0 +1,78 @@
+--- Article Metadata ---
+Project Name: Gold Chain
+Company Name: West Point Gold Corp.
+Exchange: TSXV
+Ticker: WPG
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.19.2025, 1:00:00 PM
+
+# West Point Gold Expands Gold Chain Land Package by 30%
+
+Vancouver, British Columbia--(Newsfile Corp. - February 19, 2025) - West Point Gold, (TSXV: WPG) (OTCQB: WPGCF) (FSE: LRA0) ("West Point Gold" or the "Company") is pleased to announce that it has staked an additional 113 lode claims on Bureau of Land Management ("BLM") land at its Gold Chain Project in Arizona. The Gold Chain project now consists of 492 lode claims on BLM land covering 9,840 acres (3,982 hectares) and 15 patented claims, covering a total of 282 acres (114 hectares). The new claims expand the Gold Chain project to the northwest along the regionally important Union Pass Fault where it merges with the Frisco Mine Fault which forms the southwest limit of the Frisco Graben (Figure 1).
+
+_"This expanded area adds additional large-scale targets at Gold Chain. While our near-term focus remains on the Tyro Main Zone, we plan to continue advancing the many targets on the project to determine the scale potential of Gold Chain,"_ stated Quentin Mai, CEO, _"The highest priority targets are the Tyro Extensions to the South (Sunset and Sunrise Veins) and the Frisco Graben to the North, which are expected to be the next targets drilled."_
+
+[](https://images.newsfilecorp.com/files/5717/241428_wpgimg1.jpg)
+
+**Figure 1: Gold Chain Project Claim Map with Geology**
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/5717/241428_wpgimg1.jpg>
+
+**New Claims Added on the Northwest of Gold Chain  
+** These new claims (Figure 1) mostly cover the northwest extension of a major NNW-trending structural corridor which hosts numerous rhyolite flow domes, rhyolite dikes, local volcanic centers and several underexplored gold occurrences in the Black Mountain range. This structural corridor, referred to as the Union Pass fault, is a broad zone of parallel structures including the Frisco Mine fault which is the primary target at the Company's Frisco Graben target. In brief, this fault zone defines the northern boundary of the Katherine Horst where Miocene volcanic rocks have been offset and juxtaposed onto Precambrian rocks (Figure 1). The corridor has been invaded by rhyolite dikes and subsequently mineralized by several quartz events including up to three stages of gold bearing quartz events. Preliminary mapping and sampling have revealed broad zones of quartz veining in the Precambrian rocks and local hydrothermal breccia bodies. The mineralized zone has been roughly defined over 7 kilometres where it disappears under Quaternary gravel to the west. Numerous pits and small shafts (<20m) have been identified and testify to the presence of gold mineralization. Previous sampling has returned up to 2.07 g/t Au.
+
+The inclusion of this highly prospective structural corridor into the Company's exploration portfolio provides a very accessible, likely shallow target. Next steps include mapping and sampling of the quartz veining and breccia bodies to better define near-term targets. 
+
+**Qualified Person / Quality Control and Quality Assurance**
+
+Robert Johansing, M.Sc. Econ. Geol., P. Geo., the Company's Vice President, Exploration is a qualified person ("QP") as defined by NI 43-101 and has reviewed and approved the technical content of this press release. Mr. Johansing has been responsible for all phases of work conducted to date at Gold Chain by Gold79.
+
+**About West Point Gold Corp.  
+** West Point Gold Corp. (formerly Gold79 Mines Ltd.) is a publicly listed company focused on gold discovery and development at four prolific Walker Lane Trend projects covering Nevada and Arizona, USA. West Point Gold is focused on developing a maiden resource at its Gold Chain project in Arizona, while JV partner Kinross is advancing the Jefferson Canyon project in Nevada.
+
+**For further information regarding this press release, please contact:**
+
+Aaron Paterson, Corporate Communications Manager  
+Phone: +1 (778) 358-6173  
+Email: [info@westpointgold.com](mailto:info@westpointgold.com)
+
+**Stay Connected with Us:**
+
+LinkedIn: [linkedin.com/company/west-point-gold](https://api.newsfilecorp.com/redirect/LGXgkux8Xm)  
+X (Twitter): [@westpointgoldUS](https://api.newsfilecorp.com/redirect/QO4WqfYoek)  
+Facebook: [www.facebook.com/Westpointgold/](https://api.newsfilecorp.com/redirect/m38M2HXqy7)  
+Website: [westpointgold.com](https://api.newsfilecorp.com/redirect/kO7MpfDkJ5)
+
+**FORWARD-LOOKING STATEMENTS:**
+
+_This press release may contain forward-looking statements that are made as of the date hereof and are based on current expectations, forecasts and assumptions which involve risks and uncertainties associated with our business, including any future private placements, the uncertainty as to whether further exploration will result in the target(s) being delineated as a mineral resource, capital expenditures, operating costs, mineral resources, recovery rates, grades and prices, estimated goals, expansion and growth of the business and operations, plans and references to the Company's future successes with its business and the economic environment in which the business operates. All such statements are made pursuant to the 'safe harbour' provisions of, and are intended to be forward-looking statements under, applicable Canadian securities legislation. Any statements contained herein that are statements of historical facts may be deemed to be forward-looking statements. By their nature, forward-looking statements require us to make assumptions and are subject to inherent risks and uncertainties. We caution readers of this news release not to place undue reliance on our forward-looking statements as a number of factors could cause actual results or conditions to differ materially from current expectations. Please refer to the risks set forth in the Company's most recent annual MD &A and the Company's continuous disclosure documents, which can be found on SEDAR at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/BpqQZSYe8g). West Point Gold does not intend, and disclaims any obligation, except as required by law, to update or revise any forward-looking statements whether as a result of new information, future events or otherwise._
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/241428](https://api.newsfilecorp.com/redirect/55BKnCymKA)
+
+### Project Name
+
+[Gold Chain Project](/?gid=3730)  
+Arizona, United States
+
+--- Detailed Quote ---
+
+Last: 0.42                       Open: 0.435
+High: 0.435                       Bid: 0.405
+Bid Size: 34000                   Beta: 1.66792
+Year High: 0.67                  Market Cap: 29.40m
+PB Ratio: 1.54                   EPS: -0.06
+Average Volume (30 Day): 200.03k    Volume: 290.85k
+Prev. Close: 0.42                Low: 0.41
+Ask: 0.43                        Ask Size: 5500
+VWAP: 0.4221                       Year Low: 0.15
+Total Shares: 70.00m               Shares Out: 70.00m
+Float: 64.11m                      Exchange: TSXV

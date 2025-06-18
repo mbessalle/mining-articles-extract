@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Sweetwater_Plant/72140.txt",
+    "projects/Sweetwater_Plant/81156.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sweetwater Plant",
+      "justification": "The authoritative project name is Sweetwater Plant. The text confirms this is a key asset in the acquisition: 'Uranium Energy Corp Expands U.S. Production Capacity with Acquisition of Rio Tinto's Sweetwater Plant and Wyoming Uranium Assets'."
+    },
+    "company_name": {
+      "value": "Uranium Energy Corp",
+      "justification": "The buyer is identified in the text: 'Uranium Energy Corp. (NYSE American: UEC) the \"Company\" or \"UEC\") is pleased to announce that it has entered into an agreement with Rio Tinto America Inc. (\"Rio Tinto\") to acquire 100% of Rio Tinto's Wyoming assets...'"
+    },
+    "ceo_buyer": {
+      "value": "Amir Adnani",
+      "justification": "The CEO of the buyer, Uranium Energy Corp, is named in the text: 'Amir Adnani, President and CEO, stated...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Uranium Energy Corp will 'acquire 100% of Rio Tinto's Wyoming assets, comprised of the wholly-owned and fully-licensed Sweetwater Plant...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The authoritative commodity is U (Uranium). The text confirms the acquisition is for uranium assets: '...to acquire 100% of Rio Tinto's Wyoming assets, comprised of the wholly-owned and fully-licensed Sweetwater Plant and a portfolio of uranium mining projects...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/uranium-energy-corp-expands-us-production-capacity-with-acquisition-of-rio-tintos-sweetwater-plant-and-wyoming-uranium-assets-302255092.html",
+      "justification": "The article is directly about the acquisition of the Sweetwater Plant by Uranium Energy Corp."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The buyer, Uranium Energy Corp, is listed on the NYSE American, and the purchase price is denoted with a '$' symbol, implying USD. 'The purchase price paid was approximately $175.4 million in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 58466667,
+      "justification": "The project's share is $58,466,667, calculated as one-third of the total ~$175.4 million cash purchase price for the entire package of assets, which includes the Sweetwater Plant, the Red Desert Project, and the Green Mountain Project. The text states: 'The purchase price paid was approximately $175.4 million in cash and was funded with UEC's available liquidity.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was funded with cash; no share payments are mentioned. 'The purchase price paid was approximately $175.4 million in cash and was funded with UEC's available liquidity.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as cash, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was funded with cash; no shares were issued as part of the payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction was funded with cash; no shares were issued as part of the payment, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides acreage for other projects in the acquisition package (Red Desert Project: 20,005 acres; Green Mountain Project: 32,040 acres), but no specific area is given for the Sweetwater Plant itself, which is described as a processing mill."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is specified for the Sweetwater Plant project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The Sweetwater Plant is a processing mill. The text mentions historic resources, but these are explicitly tied to the other projects in the acquisition: the Red Desert Project (42 million pounds) and the Green Mountain Project (133 million pounds). No resource is stated for the Sweetwater Plant itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NYSE:UEC",
+      "justification": "The text explicitly states the buyer's ticker and exchange: 'NYSE American: UEC'. The detailed quote section also lists 'Exchange: NYSE American'."
+    }
+  }
+}

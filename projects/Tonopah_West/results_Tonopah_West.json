@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Tonopah_West/50434.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tonopah West",
+      "justification": "Blackrock Silver Corp. (TSXV: BRC) (the \"Company\" or \"Blackrock\") is pleased to announce that the Company has exercised its option (the \"Option\") to acquire a 100% interest in the Tonopah West project (\"Tonopah West\")"
+    },
+    "company_name": {
+      "value": "Blackrock Silver Corp.",
+      "justification": "Blackrock Silver Corp. (TSXV: BRC) (the \"Company\" or \"Blackrock\") is pleased to announce that the Company has exercised its option (the \"Option\") to acquire a 100% interest in the Tonopah West project"
+    },
+    "ceo_buyer": {
+      "value": "Andrew Pollard",
+      "justification": "Andrew Pollard, President and Chief Executive Officer of the Company, commented: \"In the four years since we first optioned Tonopah West, it has quickly emerged as one of the best silver discoveries of the decade...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Blackrock Silver Corp. (TSXV: BRC) (the \"Company\" or \"Blackrock\") is pleased to announce that the Company has exercised its option (the \"Option\") to acquire a 100% interest in the Tonopah West project (\"Tonopah West\")"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "With 6.12 million tonnes grading 508.5 g/t silver equivalent2 at its Tonopah West project, and a new bonanza-grade gold discovery at its Silver Cloud project, the Company has a proven track record of exploration success."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/201476",
+      "justification": "The article is about Blackrock Silver Corp. exercising its option to acquire the Tonopah West project. The source link is provided in the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/201476'"
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "In connection with the exercise of the Option to acquire Tonopah West, the Company made payments to Nevada Select Royalty totalling US$3 million over a 4-year term, with a final cash payment in the amount of US$1,000,000."
+    },
+    "cash_payments_raw": {
+      "value": 3000000,
+      "justification": "In connection with the exercise of the Option to acquire Tonopah West, the Company made payments to Nevada Select Royalty totalling US$3 million over a 4-year term, with a final cash payment in the amount of US$1,000,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were mentioned as part of the consideration for the option exercise."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as cash, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the option exercise."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The consideration was for an option exercise, but the payment type was explicitly cash and is captured in the `cash_payments_raw` field."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the option exercise."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment value was mentioned as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The seller retained a royalty as part of the transaction terms: 'Pursuant to the terms of the Option Agreement, Nevada Select Royalty retained a net smelter returns royalty (the \"Royalty\") on Tonopah West equal to 3.0% of the net value of all precious and base metals...'"
+    },
+    "coverage_area_raw": {
+      "value": 1076.5,
+      "justification": "The text specifies the initial area and additional claims, providing a total: 'Such additional claims cover 1,280 acres (518 hectares) bringing Tonopah West to a total size of 2,660 acres (1076.5 hectares).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the total area in both acres and hectares: 'bringing Tonopah West to a total size of 2,660 acres (1076.5 hectares).'"
+    },
+    "resource_size": {
+      "value": "6.12 million tonnes at a block diluted grade of 242 grams per tonne (g/t) silver (Ag) and 2.9g/t gold (Au) for a total inferred mineral resource of 47,738,000 ounces Ag and 570,000 ounces Au, or 508.5 g/t silver equivalent (AgEq) for 100.04 million oz AgEq",
+      "justification": "The Technical Report outlines 6.12 million tonnes at a block diluted grade of 242 grams per tonne (g/t) silver (Ag) and 2.9g/t gold (Au) for a total inferred mineral resource of 47,738,000 ounces Ag and 570,000 ounces Au, or 508.5 g/t silver equivalent (AgEq) for 100.04 million oz AgEq."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BRC",
+      "justification": "The buyer's ticker and exchange are stated in the first paragraph: 'Blackrock Silver Corp. (TSXV: BRC) (the \"Company\" or \"Blackrock\") ...'"
+    }
+  }
+}

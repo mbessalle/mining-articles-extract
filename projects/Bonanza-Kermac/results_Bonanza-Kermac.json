@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Bonanza-Kermac/52393.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bonanza-Kermac",
+      "justification": "The text refers to the project as \"Bonanza-Kermac\" and the acquisition of the \"Bonanza and Kermac/Day uranium mines\". The specific name is used in the sentence: '\"Bonanza-Kermac\" aggregates 280 acres...'"
+    },
+    "company_name": {
+      "value": "Myriad Uranium Corp.",
+      "justification": "The press release is issued by Myriad Uranium Corp. as stated in the first sentence: 'Vancouver, British Columbia--(Newsfile Corp. - April 19, 2024) - Myriad Uranium Corp. (CSE: M) (OTCQB: MYRUF) (FSE: C3Q) (\"Myriad\" or the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Thomas Lamb",
+      "justification": "The text identifies the CEO in two places: 'Myriad's CEO Thomas Lamb commented...' and in the contacts section: 'Thomas Lamb President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "While Myriad's partner Rush Rare Metals Corp. made the direct acquisition, the text states this land is subject to Myriad's interest: '\"Bonanza-Kermac\" aggregates 280 acres, and its acquisition increases the area subject to Myriad's 75% earnable interest under the property option agreement between Myriad and Rush...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The headline of the article is 'Myriad Announces Acquisition of Historic Bonanza and Kermac/Day Uranium Mines at Copper Mountain'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/206089",
+      "justification": "The article is titled 'Myriad Announces Acquisition of Historic Bonanza and Kermac/Day Uranium Mines at Copper Mountain', which directly corresponds to the Bonanza-Kermac project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Myriad Uranium Corp., is listed on the Canadian Securities Exchange (CSE), as stated: 'Myriad Uranium Corp. (CSE: M)'. A historical spending figure is also given in Canadian dollars: 'Union Pacific is estimated to have spent C$117 million (2023 dollars)...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payments as consideration for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments as consideration for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention a specific number of shares being issued for the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments as consideration for the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as consideration for the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a price per share for any shares issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 280,
+      "justification": "The text explicitly states the area of the acquired project: '\"Bonanza-Kermac\" aggregates 280 acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text explicitly states the unit for the area: '\"Bonanza-Kermac\" aggregates 280 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that there is no current mineral resource: 'A qualified person (as defined under NI 43-101) has not done sufficient work to classify the historical target estimates reported in this news release as current mineral resources or mineral reserves, and Myriad is not treating the historical target estimates as current mineral resources or mineral reserves.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:M",
+      "justification": "The text identifies the buyer's ticker and exchange in the first paragraph: 'Myriad Uranium Corp. (CSE: M) (OTCQB: MYRUF) (FSE: C3Q) (\"Myriad\" or the \"Company\") ...'"
+    }
+  }
+}

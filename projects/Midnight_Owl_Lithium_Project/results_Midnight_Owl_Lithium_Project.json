@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Midnight_Owl_Lithium_Project/39529.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Midnight Owl Lithium Project",
+      "justification": "The title of the article is \"BrightRock Gold Corp. Announces The Expansion of The Midnight Owl Lithium Project, Increasing Ownership from 197 to 237 Lode Claims\"."
+    },
+    "company_name": {
+      "value": "BrightRock Gold Corporation",
+      "justification": "The article begins with \"BrightRock Gold Corp. (OTC PINK:BRGC) is pleased to announce an additional 20% expansion of its existing footprint at the Midnight Owl Lithium Project.\""
+    },
+    "ceo_buyer": {
+      "value": "Mac J. Shahsavar",
+      "justification": "The text states: \"BrightRock's chief executive officer, Mac J. Shahsavar, P.Eng., commented on the completed expansion project...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an expansion of claims for a project the company already owns, not an acquisition of interest from another party. The text states: \"BrightRock Gold Corp. holds 100% ownership and interest in the 'Midnight Owl Mine,'...\""
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is named the \"Midnight Owl Lithium Project\" and the company is described as \"a lithium exploration company\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/774425/BrightRock-Gold-Corp-Announces-The-Expansion-of-The-Midnight-Owl-Lithium-Project-Increasing-Ownership-from-197-to-237-Lode-Claims",
+      "justification": "The article is about the specified project, the Midnight Owl Lithium Project, as indicated by the title and content."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial transaction, so no currency is specified."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes a project expansion through claim staking, not an acquisition involving cash consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes a project expansion through claim staking, not an acquisition involving share consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes a project expansion through claim staking, not an acquisition involving a combined cash and share consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this project expansion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of this project expansion."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of this project expansion."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of this project expansion."
+    },
+    "coverage_area_raw": {
+      "value": 4900,
+      "justification": "The text states: \"Approximately 4,900 acres are now divided between 237 lode claims, each with full ownership rights.\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"Approximately 4,900 acres are now divided between 237 lode claims, each with full ownership rights.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions \"potentially extensive lithium mineralization\" but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTCPK:BRGC",
+      "justification": "The text identifies the company as \"BrightRock Gold Corp. (OTC PINK:BRGC)\" and the detailed quote section specifies the exchange as \"Exchange: OTCPK\"."
+    }
+  }
+}

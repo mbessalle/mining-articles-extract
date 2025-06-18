@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Aurora_Energy_Metals_Project/79171.txt",
+    "projects/Aurora_Energy_Metals_Project/79171_pdf.txt",
+    "projects/Aurora_Energy_Metals_Project/82572.txt",
+    "projects/Aurora_Energy_Metals_Project/82572_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Aurora Energy Metals Project",
+      "justification": "The project name is explicitly mentioned in the document headers: 'Project Name [Aurora Energy Metals Project Project](/?gid=6321)' and also referred to as 'Aurora Uranium Project' or 'AUP'."
+    },
+    "company_name": {
+      "value": "Eagle Energy Metals Corp.",
+      "justification": "The acquiring company is identified in the text: 'Aurora Energy Metals Limited (Aurora or the Company) (ASX:1AE) has entered into an Option Agreement (Agreement) with Eagle Energy Metals Corp. (Eagle), a US-based company...'"
+    },
+    "ceo_buyer": {
+      "value": "Mark Mukhija",
+      "justification": "The CEO of the acquiring company, Eagle Energy Metals, is named in the announcement: 'Eagle Energy Metals CEO, Mark Mukhija, said: “Our option to acquire the Aurora Uranium Project represents a pivotal step...“'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for the complete sale of the project: 'Eagle has been granted an option to acquire a 100% interest in the Aurora Uranium Project...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly identified as a uranium project throughout the text, for example: 'Aurora Enters Option for Sale of Aurora Uranium Project' and the resource is quantified in uranium (U3O8)."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction values are specified in US dollars, indicated by 'US$'. For example: '...total share consideration of up to US$26m and option payments of up to US$1m.'"
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "The total potential cash payments for the option are up to US$1,000,000. This is composed of an initial US$300,000 payment, a US$300,000 payment for a first extension, and a US$400,000 payment for a final extension. The summary confirms: '...option payments of up to US$1m.'"
+    },
+    "share_payments_raw": {
+      "value": 26000000,
+      "justification": "The total potential share consideration is up to US$26,000,000, which includes an initial US$16 million upon listing and up to US$10 million in milestone payments. 'Transaction with US based Eagle Energy Metals to provide Aurora with total share consideration of up to US$26m...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available and have been populated in their respective fields."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not fixed and depends on the future IPO price of Eagle Energy Metals. '...issue US$16,000,000 in common shares to Aurora... at a deemed issue price equal to: (A) the price of Eagle shares offered under its initial public offering...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 'option payments' described in the text are cash payments to secure the option agreement and have been captured in the `cash_payments_raw` field. This field is for stock options as a form of payment, which were not part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not specified as it will be determined by a future US listing. '...at a deemed issue price equal to: (A) the price of Eagle shares offered under its initial public offering...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 500000,
+      "justification": "Eagle Energy Metals has committed to fund project activities during the option period. 'Commitment of US$500k (A$770k) by Eagle Energy Metals across the option period for funding ongoing project activities.' This is composed of two US$250,000 contributions."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller, Aurora, will retain a royalty. 'Aurora will retain a 1% net smelter royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the project's surface area (e.g., in hectares or square kilometers) was found in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the project's surface area was found in the provided text, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": "107.3Mt @ 214ppm U 3 O8 for 50.6 Mlbs U 3 O8",
+      "justification": "The Mineral Resource Estimate (MRE) is stated in the text: 'MRE: 107.3Mt @ 214ppm U 3 O8 for 50.6 Mlbs U 3 O8'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Eagle Energy Metals, is a private company that is planning to list on a US stock exchange but is not yet public. 'Eagle Energy Metals is a growth-focused, private exploration and development company...'"
+    }
+  }
+}

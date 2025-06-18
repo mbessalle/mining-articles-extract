@@ -1,0 +1,78 @@
+--- Article Metadata ---
+Project Name: Idaho-Maryland Mine
+Company Name: Rise Gold Corp.
+Exchange: CSE
+Ticker: RISE
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.16.2025, 1:00:00 PM
+
+# Rise Gold Announces Receipt of $702,000 with Regards to Property Sale
+
+Grass Valley, California--(Newsfile Corp. - January 16, 2025) - Rise Gold Corp. (CSE: RISE) (OTCQX: RYES) (the "**Company** ") announces it has received a $702,000 payment with regards to the sale of property.
+
+On November 27, 2024, Rise announced the sale of 66 acres of industrial land located adjacent to the Company's Idaho-Maryland Mine Property (the "I-M Mine Property") for $4.3 million to an arm's length third party in two transactions. The first of these transactions covered 16 acres of land for total consideration of $1.8 million, including $900,000 at closing, minus certain transaction fees, and an additional $900,000 due on November 27, 2026. Rise negotiated a discounted, accelerated payment with the purchaser whereby the Company received $702,000 on January 15, 2025 in lieu of the payment due in 2026. While the first tranche of $900,000 received in November 2024 was allocated to reduce the Company's secured debt, the $702,000 received on January 15, 2025 is available to fund ongoing operations.
+
+The second sale agreement covers 50 acres of land for total sale price of $2.5 million and is expected to close on May 26, 2025, at which point half of the sale price will be due, with the other half due on May 26, 2027. The buyer has placed $200,000 in escrow and is paying $12,500 per month in rent until closing, with the rent payments to be applied against the purchase price. Commencing on the closing date, the buyer will pay monthly interest at an annual rate of 5% per year on the balance of the purchase price until it is paid in full.
+
+Rise and the purchaser have also executed an option agreement whereby the Company may repurchase the 66 acres of land being sold for the sale price plus the cost of any capital improvements plus an increase of five percent per year on the condition that Rise acquires final government approvals to perform mining operations at the I-M Mine Property.
+
+The Company retains ownership of the I-M Mine Property, which is comprised of 53 acres of land surrounding the New Brunswick shaft, as well as its nearby 56-acre Centennial property, and it retains all of its 2,585 acres of mineral rights.
+
+The Company will use the sale proceeds to repay debt and to fund its legal claims against Nevada County (the "County"). As previously disclosed in its press release dated May 13, 2024, the Company has submitted a Writ of Mandamus (the "Writ") to the Superior Court of California for the County of Nevada (the "Court") asking the Court to compel the Board of Supervisors of Nevada County to follow applicable law and grant Rise recognition of its constitutionally-protected, grandfathered vested right to operate the Mine.
+
+Rise's litigation attorneys at Cooper & Kirk have advised the Company that should the Writ be unsuccessful, Rise's mineral estate will lose all value, which will allow Rise to bring a takings action in federal court against the County under the Fifth Amendment of the U.S. Constitution. The remedy for an unconstitutional taking is the payment of just compensation, which is the fair market value of the property taken. Based on comparable mines and historic yields at the I-M Mine, management believes the fair market value of Rise's mineral estate is at least $400 million.
+
+_**About Rise Gold Corp.**_
+
+Rise Gold is an exploration-stage mining company incorporated in Nevada, USA. The Company's principal asset is the historic past-producing Idaho-Maryland Gold Mine located in Nevada County, California, USA. 
+
+On behalf of the Board of Directors:
+
+Joseph Mullin  
+President and CEO  
+Rise Gold Corp.
+
+For further information, please contact:
+
+**RISE GOLD CORP.**  
+Suite 215, 333 Crown Point Circle  
+Grass Valley, CA 95945  
+T: 530.433.0188  
+[info@risegoldcorp.com](mailto:info@risegoldcorp.com)   
+[www.risegoldcorp.com](https://api.newsfilecorp.com/redirect/4Q5r2fbW18)
+
+The CSE has not reviewed, approved or disapproved the contents of this news release.
+
+**Forward-Looking Statements**
+
+This press release contains certain forward-looking statements within the meaning of applicable securities laws. Forward-looking statements are frequently characterized by words such as "plan", "expect", "project", "intend", "believe", "anticipate", "estimate" and other similar words or statements that certain events or conditions "may" or "will" occur. 
+
+Although the Company believes that the expectations reflected in the forward-looking statements are reasonable, there can be no assurance that such expectations will prove to be correct. Such forward-looking statements are subject to risks, uncertainties and assumptions related to certain factors including, without limitation, obtaining all necessary approvals, meeting expenditure and financing requirements, compliance with environmental regulations, title matters, operating hazards, metal prices, political and economic factors, competitive factors, general economic conditions, relationships with vendors and strategic partners, governmental regulation and supervision, seasonality, technological change, industry practices, and one-time events that may cause actual results, performance or developments to differ materially from those contained in the forward-looking statements. Accordingly, readers should not place undue reliance on forward-looking statements and information contained in this release. Rise undertakes no obligation to update forward-looking statements or information except as required by law.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/237390](https://api.newsfilecorp.com/redirect/jpXr7Uor7x)
+
+### Project Name
+
+[Idaho-Maryland Mine Project](/?gid=4131)  
+California, United States
+
+--- Detailed Quote ---
+
+Last: 0.195            $  Chg: 0.035
+Open: 0.195            High: 0.20
+Bid: 0.155             Bid Size: 22000
+Beta: -0.81355            Year High: 0.24
+Market Cap: 10.88m      PB Ratio: 2.72
+EPS: -0.07             Average Volume (30 Day): 36.02k
+Volume: 13.09k          % Chg: 21.88%
+Prev. Close: 0.16     Low: 0.19
+Ask: 0.195             Ask Size: 18500
+VWAP: 0.19519            Year Low: 0.065
+Total Shares: 55.79m    Shares Out: 55.79m
+Float: 28.51m           Exchange: CSE

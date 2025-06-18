@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Caldera/53835.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Caldera",
+      "justification": "The primary project of interest is stated as Caldera, and the article title is 'NLR Acquires Caldera Copper Project in Nevada'."
+    },
+    "company_name": {
+      "value": "Northern Lights Resources Corp.",
+      "justification": "The acquiring company is identified as 'Northern Lights Resources Corp. (“Northern Lights” or the “Company”) (CSE: NLR, OTC: NLRCF)'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Bahnsen",
+      "justification": "The text states: 'Northern Lights, CEO, Jason Bahnsen commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'executed an option agreement to acquire a 100% interest in the Caldera Copper Project'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is named the 'Caldera Copper Project' and is described as 'highly prospective for copper porphyry, copper skarn, and IOCG mineralization'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The source text does not contain a verifiable URL for the specific news article."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction terms are specified in US dollars, for example: 'Total cumulative work expenditures on the Project of US$250,000'."
+    },
+    "cash_payments_raw": {
+      "value": 10000,
+      "justification": "The agreement includes 'Cash consideration of US$10,000 to be paid following the completion of NLR’s next equity financing'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued but does not provide an equivalent monetary value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate components for cash and share payments, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The agreement includes 'Equity consideration of 2 million common shares of NLR to be paid to the Optionors by 1 October 2026'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.035,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.035'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "The agreement requires 'Total cumulative work expenditures on the Project of US$250,000 by 1 September 2028'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The Optionors retain a 'Net Smelter Return (NSR) of 2% over a three-kilometre area of interest from the Caldera mineral claims'."
+    },
+    "coverage_area_raw": {
+      "value": 418.04,
+      "justification": "After acquiring the core claims and staking additional claims, 'In total, the Caldera Project now consists of 50 claims with a total area of 418.04 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is specified in the sentence: 'In total, the Caldera Project now consists of 50 claims with a total area of 418.04 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an 'Exploration stage project' and mentions only rock sample grades (e.g., 'up to 6% Cu'). It does not provide a quantified mineral resource estimate in terms of mass or volume."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NLR",
+      "justification": "The acquiring company is identified in the text as 'Northern Lights Resources Corp. (“Northern Lights” or the “Company”) (CSE: NLR, OTC: NLRCF)'."
+    }
+  }
+}

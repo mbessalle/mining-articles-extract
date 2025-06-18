@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Kinsley_Mountain/64425.txt",
+    "projects/Kinsley_Mountain/64426.txt",
+    "projects/Kinsley_Mountain/68156.txt",
+    "projects/Kinsley_Mountain/68203.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kinsley Mountain",
+      "justification": "The text consistently refers to the project as the 'Kinsley Mountain Gold Project' or 'Kinsley Project'. For example: 'CopAur Minerals Signs Indicative Term Sheet to Acquire Remaining 18.74% Interest in Kinsley Mountain Gold Project'."
+    },
+    "company_name": {
+      "value": "CopAur Minerals Inc.",
+      "justification": "The buyer is identified in the headline and body of the text: 'CopAur Minerals Inc. (TSXV: CPAU) (OTCQX: COPAF) (\"CopAur\" or the \"Company\") is pleased to announce that it has signed a non-binding indicative term sheet with Nevada Sunrise Metals Corporation (\"Nevada Sunrise\") to acquire Nevada Sunrise's 18.74% ownership interest in the Kinsley Mountain Gold Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Yaseniuk",
+      "justification": "The CEO of the acquiring company, CopAur Minerals Inc., is identified in the text: 'Jeremy Yaseniuk, Chief Executive Officer & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 18.74,
+      "justification": "The text states that CopAur is acquiring the remaining interest from Nevada Sunrise: 'CopAur has acquired Nevada Sunrise's 18.74% ownership interest in the Kinsley Mountain Gold Project joint venture in Nevada ('Kinsley Mountain').'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly referred to as a gold project: 'CopAur Minerals Signs Indicative Term Sheet to Acquire Remaining 18.74% Interest in Kinsley Mountain Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/215665",
+      "justification": "The article at this link is titled 'CopAur Minerals Signs Indicative Term Sheet to Acquire Remaining 18.74% Interest in Kinsley Mountain Gold Project', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is specified in Canadian dollars: '...in consideration of the payment of CDN$475,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 475000,
+      "justification": "The cash portion of the deal is explicitly stated: '...in consideration of the payment of CDN$475,000 and the issuance of 1,000,000 common shares of CopAur.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw share value is not provided. The transaction is defined by the number of shares and a cash component, making it a Priority 2 extraction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components are listed separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The number of shares to be issued is specified in the deal terms: '...in consideration of the payment of CDN$475,000 and the issuance of 1,000,000 common shares of CopAur...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price for the buyer (CopAur Minerals Inc.) as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in meters as part of the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a pre-existing royalty ('The leased claims are subject to a 3% net smelter returns royalty on production'), but no new NSR was acquired or retained as part of the consideration for this specific transaction between CopAur and Nevada Sunrise."
+    },
+    "coverage_area_raw": {
+      "value": 4213,
+      "justification": "The total area of the project is stated as: 'The Kinsley Project comprises 513 unpatented lode claims on U.S. Bureau of Land Management land plus 6 leased patents totaling 4,213 hectares (10,410 acres)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the same sentence: '...totaling 4,213 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that the Kinsley Project 'hosts current mineral resources' and 'hosts a National Instrument 43-101 mineral resource', but it does not provide any specific quantities (e.g., tonnes, ounces, grade) for this resource. A resource for the 'Gemini' project is mentioned, but this is a different project and not relevant to Kinsley Mountain."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CPAU",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the text: 'CopAur Minerals Inc. (TSXV: CPAU) (OTCQX: COPAF) (\"CopAur\" or the \"Company\")...'"
+    }
+  }
+}

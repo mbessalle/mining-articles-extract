@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Atlas/83400.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atlas",
+      "justification": "The text states: \"Ridgeline Minerals Corp. (TSXV: RDG) (OTCQB: RDGMF) (FSE: 0GC0) ('Ridgeline' or the 'Company') is pleased to announce the staking of the Atlas Gold Project, ('Atlas' or the 'Project')...\""
+    },
+    "company_name": {
+      "value": "Ridgeline Minerals Corp.",
+      "justification": "The acquiring company is identified as \"Ridgeline Minerals Corp. (TSXV: RDG) (OTCQB: RDGMF) (FSE: 0GC0) ('Ridgeline' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "Chad Peters",
+      "justification": "The text identifies the CEO of the acquiring company: \"Chad Peters, Ridgeline's President & CEO, commented...\" and later confirms \"On behalf of the Board 'Chad Peters' President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"The Project is 100% owned by the Company and retains no underlying lease payments, work commitments or royalty obligations.\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the project as: \"the Atlas Gold Project, ('Atlas' or the 'Project') a high-grade, oxide gold ('Au') exploration prospect...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236253",
+      "justification": "The article is titled \"Ridgeline Minerals Stakes High-Grade, Carlin-Type Gold Project in Nevada\" and discusses the staking of the Atlas project, which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is described as a 'low-cost staking' with no specific financial consideration or currency mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking claims, not a purchase from another entity. No cash payment amount is specified in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking claims. No share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking claims. No combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made via staking claims. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a future \"maiden drill program (3-5 holes)\" but does not specify a committed meterage as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states the project \"retains no underlying lease payments, work commitments or royalty obligations.\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the project \"retains no underlying lease payments, work commitments or royalty obligations.\""
+    },
+    "coverage_area_raw": {
+      "value": 1219,
+      "justification": "The text states: \"The Company acquired Atlas via the low-cost staking of 59 lode claims totaling 1,219 acres (5.0 square kilometers).\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"The Company acquired Atlas via the low-cost staking of 59 lode claims totaling 1,219 acres (5.0 square kilometers).\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate. It states, \"The Project has never been drilled\" and only provides results from rock chip and soil samples, not a formal resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RDG",
+      "justification": "The company is identified in the first paragraph as \"Ridgeline Minerals Corp. (TSXV: RDG)\"."
+    }
+  }
+}

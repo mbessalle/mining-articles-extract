@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/White_Hills/92777.txt",
+    "projects/White_Hills/92777_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "White Hills",
+      "justification": "The article is titled 'Helix acquires White Hills Copper-Gold project'."
+    },
+    "company_name": {
+      "value": "Helix Resources Limited",
+      "justification": "The summary states: 'Helix Resources Limited (ASX: HLX) has entered into conditional Binding Agreements...'"
+    },
+    "ceo_buyer": {
+      "value": "Mike Povey",
+      "justification": "A quote is attributed to 'Helix's Executive Chairman, Mike Povey'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition terms are listed under the heading 'Acquisition Terms (to acquire 100% of the project):'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is referred to as the 'White Hills Copper-Gold project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No full, verifiable URL is provided in the source text."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The consideration payments are denominated in Australian dollars ('A$'): 'Payment of A$100,000' and 'Issue of Helix FPO shares to the value of A$1.3M'."
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The total cash payment is the sum of two components: 'Payment of A$100,000' and 'A$100,000 after Formal Agreements are signed'."
+    },
+    "share_payments_raw": {
+      "value": 1300000,
+      "justification": "The terms include the 'Issue of Helix FPO shares to the value of A$1.3M'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the value of shares to be issued (A$1.3M) but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "An issued share price is not mentioned in the transaction terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "A forward work program of 2000m of drilling is mentioned, but this is an intention, not a binding commitment of the acquisition. The binding commitment is a monetary value."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 500000,
+      "justification": "A binding commitment is listed under the Newmont Agreement Obligations: 'Farm-in Obligation: Spending US$500,000 on the Mining Sublease claims by 5th January 2026.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "As part of the agreement, 'Newmont retains a production royalty of 2.5% net smelter return from the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 23,
+      "justification": "The project comprises 'a total of 7 tenements over 23 km²'."
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The project comprises 'a total of 7 tenements over 23 km²'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes previous exploration work but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:HLX",
+      "justification": "The buyer is identified as 'Helix Resources Limited (ASX: HLX)' in the document."
+    }
+  }
+}

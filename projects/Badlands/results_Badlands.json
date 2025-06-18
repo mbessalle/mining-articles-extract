@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Badlands/31167.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Badlands",
+      "justification": "The text announces the acquisition of the project: 'Nevada Sunrise Stakes Badlands Lithium Project, Esmeralda County, Nevada'."
+    },
+    "company_name": {
+      "value": "Nevada Sunrise Metals Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'VANCOUVER, BC, Feb. 14, 2023 /CNW/ -Nevada Sunrise Metals Corp.(\"Nevada Sunrise\", or the \"Company\") (TSXV: NEV) (OTC: NVSGF) is pleased to announce the acquisition by staking of the Badlands Lithium Project...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not mention the name of the CEO or President of Nevada Sunrise Metals Corporation."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company's ownership interest is stated in the 'About Nevada Sunrise' section: 'Nevada Sunrise owns 100% interests in the Gemini, Jackson Wash and Badlands lithium projects...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is explicitly identified as a lithium project: '...pleased to announce the acquisition by staking of the Badlands Lithium Project...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "While the acquisition was via staking with no cash consideration, other financial details for the company are mentioned in Canadian dollars, and the company is listed on the TSXV. For example: '...an exercise price of CAD$0.16...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not by a cash purchase. The text states: '...pleased to announce the acquisition by staking of the Badlands Lithium Project...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not through a share-based payment. The text states: '...pleased to announce the acquisition by staking of the Badlands Lithium Project...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, and no combined cash and share payment was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued for the acquisition of the Badlands project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were issued as payment for the acquisition of the Badlands project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as payment for the acquisition of the Badlands project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for the acquisition of the Badlands project, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions exploration plans, including drilling, but does not specify a committed number of meters: 'The goal of further work at the Project is to determine if lithium values increase with depth and if so, positive results from the proposed prospecting program could provide the foundation for a systematic conventional drilling program.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a specific monetary value for an exploration commitment for the Badlands project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The project was acquired by staking and there is no mention of a Net Smelter Royalty (NSR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1080,
+      "justification": "The text specifies the total area of the project: 'Badlands consists of 54 unpatented claims on Bureau of Land Management land totaling approximately 1,080 acres (437 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified in the text: '...totaling approximately 1,080 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Badlands project. It describes reconnaissance sampling and the need for future drilling. A resource estimate is mentioned, but it is for a different project: 'The Company's key gold asset is a 20.01% interest in a joint venture at the Kinsley Mountain Gold Project... hosting a National Instrument 43-101 compliant gold resource consisting of 418,000 indicated ounces of gold...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NEV",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Nevada Sunrise Metals Corp.(\"Nevada Sunrise\", or the \"Company\") (TSXV: NEV)...'"
+    }
+  }
+}

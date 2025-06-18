@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Excelsior_Springs/55531.txt",
+    "projects/Excelsior_Springs/69723.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Excelsior Springs",
+      "justification": "The acquisition is described as an expansion of Athena's main project: \"This acquisition expands our flagship Excelsior Springs Project located in the Walker Lane Trend, Nevada.\""
+    },
+    "company_name": {
+      "value": "Athena Gold Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Athena Gold Corporation (OTCQB:AHNR)(CSE:ATHA) (\"Athena\" or the \"Company\") is pleased to announce that it has entered into an asset purchase and sale agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "John C. Power",
+      "justification": "The CEO and President of the buyer, Athena Gold Corporation, is listed at the end of the press release: \"On Behalf of the Board of Directors John C. Power Chief Executive Officer and President\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a full interest in the acquired claims: \"...to acquire an 100% interest in 11 unpatented BLM claims covering approximately 89 hectares (220 acres) known as the Blue Dick Mine...\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the flagship project's primary commodity: \"About Our Flagship Excelsior Springs Project... Gold mineralization discovered at the Project to date occurs in quartz veins, stock-works, and silicified zones...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/876365/athena-gold-corporation-signs-agreement-to-acquire-historic-blue-dick-mine-and-significantly-expands-its-flagship-excelsior-springs-gold-project-in-nevada",
+      "justification": "The article's title and content directly relate to the Excelsior Springs project, detailing an acquisition to expand it: \"Athena Gold Corporation Signs Agreement to Acquire Historic Blue Dick Mine and Significantly Expands Its Flagship Excelsior Springs Gold Project in Nevada\"."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the cash consideration is explicitly stated as US dollars: \"Total consideration consists of an aggregate of US $45,000 in cash and a 3% NSR.\""
+    },
+    "cash_payments_raw": {
+      "value": 45000,
+      "justification": "The total cash consideration is stated in both articles. The first article breaks it down into three payments (US $10,000, US $15,000, and US $20,000) and also provides the total: \"Total consideration consists of an aggregate of US $45,000 in cash and a 3% NSR.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction details only mention cash payments and an NSR; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment is explicitly detailed, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction details do not mention any issuance of shares as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The press release does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The press release does not mention any monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, a Net Smelter Royalty was granted to the seller: \"...the grant of a 3% net smelter return royalty to Silver Reserve, of which 2% may be purchased by the Company subject to certain buy-back options.\""
+    },
+    "coverage_area_raw": {
+      "value": 89,
+      "justification": "The area of the acquired claims is specified in the agreement details: \"...acquire an 100% interest in 11 unpatented BLM claims covering approximately 89 hectares (220 acres) known as the Blue Dick Mine...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is specified as hectares: \"...covering approximately 89 hectares (220 acres)...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions \"unverified, historical production of 19,200 troy ounces\" but does not provide a current, quantified mineral resource estimate. A disclaimer notes that \"a qualified person has not done sufficient work to verify the results\" of historical data."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ATHA",
+      "justification": "The buyer's ticker and exchange are provided in the company's introduction: \"Athena Gold Corporation (OTCQB:AHNR)(CSE:ATHA)\""
+    }
+  }
+}

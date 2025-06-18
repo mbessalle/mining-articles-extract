@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Kennedy/89431.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kennedy Project",
+      "justification": "The article is titled: \"Summa Silver Announces Staking of the High-Grade Gold-Silver Kennedy Project, Nevada\"."
+    },
+    "company_name": {
+      "value": "Summa Silver Corp.",
+      "justification": "The acquiring company is identified as \"Summa Silver Corp. (TSXV: SSVR) (OTCQX: SSVRF) (FSE: 48X) (\"Summa\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Galen McNamara",
+      "justification": "The CEO is identified at the end of the press release: '\"Galen McNamara\" Galen McNamara, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"The Kennedy Project consists of 99 mineral claims spanning approximately 2,000 acres, is 100% owned by the Company, and is free of any royalties.\""
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata provided in the prompt specifies \"Au\" as the primary commodity. The article confirms the presence of gold: \"mined grades were reported to be 15 g/t Au and 311 g/t Ag2.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/242579",
+      "justification": "The article is about the Kennedy Project, which is the project of interest. The source link is provided at the end of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/242579\"."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via \"low-cost claim staking\" and no financial consideration (cash or shares) was mentioned for the acquisition itself."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"low-cost claim staking,\" not a cash payment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"low-cost claim staking,\" not a share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"low-cost claim staking,\" not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via \"low-cost claim staking,\" not by issuing shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions exploration plans but does not specify a commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines future exploration plans but does not state a specific monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 0,
+      "justification": "The text explicitly states the project is \"free of any royalties.\""
+    },
+    "coverage_area_raw": {
+      "value": 2000,
+      "justification": "The text states: \"The Kennedy Project consists of 99 mineral claims spanning approximately 2,000 acres...\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"The Kennedy Project consists of 99 mineral claims spanning approximately 2,000 acres...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a \"1M ounce near surface gold target\" but does not provide a formal mineral resource estimate with tonnage and grade."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SSVR",
+      "justification": "The text identifies the company and its ticker: \"Summa Silver Corp. (TSXV: SSVR) (OTCQX: SSVRF) (FSE: 48X)\"."
+    }
+  }
+}

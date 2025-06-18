@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Bonnie_Claire/36074.txt",
+    "projects/Bonnie_Claire/37678.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bonnie Claire",
+      "justification": "The text states the acquisition is for 'Iconic's 50% interest in the Bonnie Claire Lithium project located in Nye County, Nevada'."
+    },
+    "company_name": {
+      "value": "Nevada Lithium Resources Inc.",
+      "justification": "The buyer is identified in the text: 'Nevada Lithium Resources Inc. (\"Nevada Lithium\") will acquire, by way of plan of arrangement under the Business Corporations Act (British Columbia), Iconic's 50% interest in the Bonnie Claire Lithium project'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Rentschler",
+      "justification": "The CEO of the buyer is identified as: 'Stephen Rentschler, Chief Executive Officer of Nevada Lithium, stated: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The text states: 'Nevada Lithium acquired Iconic's 50% interest in the Bonnie Claire lithium project (the \"Bonnie Claire Project\") located in Nye County, Nevada'."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is consistently referred to as the 'Bonnie Claire Lithium project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/172900",
+      "justification": "The article, titled 'Nevada Lithium Completes Acquisition of 100% Ownership of Bonnie Claire Lithium Project...', directly concerns the transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves two Canadian companies (Nevada Lithium and Iconic Minerals) listed on Canadian exchanges (CSE, TSXV). The warrant exercise price is given as '$0.20' and the structuring fee as '$500,000', which are inferred to be in CAD, the typical currency for such transactions. The PEA values are explicitly in USD but do not represent the transaction currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The primary consideration for the arrangement was shares. A separate '$500,000 structuring fee' was also paid. Per the mutually exclusive financial data extraction hierarchy, Priority 2 (calculable share value) was followed, making this field null. The consideration is stated as: 'Nevada Lithium issued an aggregate of 66,912,827 common shares as consideration for the Arrangement'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "An explicit monetary value for the share payment was not provided. The number of shares and a fallback price per share are available, so Priority 2 of the financial hierarchy is used instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Not applicable as the transaction details are broken down into components, allowing for a more specific financial data extraction path."
+    },
+    "amount_of_shares_issued": {
+      "value": 66912827,
+      "justification": "The text states: 'Nevada Lithium issued an aggregate of 66,912,827 common shares as consideration for the Arrangement'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction included the issuance of 4,000,000 warrants, but a total monetary value for this component was not provided in the text. The text states: 'Nevada Lithium issued to Iconic an aggregate of 4,000,000 Nevada Lithium warrants...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction included the grant of 3,930,000 stock options, but a monetary value for this component was not provided in the text. The text states: 'Nevada Lithium granted to certain eligible persons associated with Iconic an aggregate of 3,930,000 stock options...'"
+    },
+    "issued_share_price": {
+      "value": 0.135,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price for the buyer (Nevada Lithium) as a fallback, as seen in the detailed quote: 'Last: 0.135'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 74,
+      "justification": "The text states: 'The current claim block covers an area of 74 km2 (28.6 mi2)'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states: 'The current claim block covers an area of 74 km2 (28.6 mi2)'."
+    },
+    "resource_size": {
+      "value": "3,407 million tonnes (Mt) grading 1,013 ppm Li for 18,372 million kilograms of contained lithium carbonate equivalent (LCE), at a cut-off grade of 700 ppm Li",
+      "justification": "The text provides a resource estimate: 'Bonnie Claire is one the largest lithium resources in North America with a current NI 43-101 inferred mineral resource of 3,407 million tonnes (Mt) grading 1,013 ppm Li for 18,372 million kilograms of contained lithium carbonate equivalent (LCE), at a cut-off grade of 700 ppm Li.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NVLH",
+      "justification": "The buyer is Nevada Lithium Resources Inc. The text states its tickers at the time of the transaction were '(CSE: NVLH) (OTCQB: NVLHF) (FSE: 87K)'. The primary Canadian listing is used."
+    }
+  }
+}

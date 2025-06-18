@@ -1,0 +1,63 @@
+--- Article Metadata ---
+Project Name: Moss
+Company Name: Mako Mining Corp.
+Exchange: TSXV
+Ticker: ELVT
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.19.2024, 6:47:00 PM
+
+# Elevation Gold Announces Canadian Approval of Purchase and Sale Agreement
+
+VANCOUVER, BC, Dec. 19, 2024 /CNW/ - **Elevation Gold Mining Corporation  **(TSXV: ELVT.H) (the "**Company** " or "**Elevation Gold** ") previously announced in its press release dated December 4, 2024 that it entered into a purchase and sale agreement dated December 2, 2024 (the "**APS** "), with an arm's length purchaser, EG Acquisition LLC (the "**Purchaser** "), in respect of the purchase and sale of certain of Elevation's assets (the "**Transaction** "), including the outstanding common shares of Golden Vertex Corp. ("**GVC** "), which holds the Moss Mine located in Arizona.
+
+[ ](https://mma.prnewswire.com/media/2585416/Elevation_Gold_Mining_Corp__Elevation_Gold_Announces_Canadian_Ap.html)
+
+The APS and the Transaction are subject to approval of the BC Court and recognition and enforcement by the US Court.
+
+The hearing of the Petitioners' application to the BC Court (the "**Canadian Approval Hearing** ") for an order, among other things, approving the Transaction (the "**Canadian Approval Order** ") took place at 10:00 am PST on December 17, 2024 in Vancouver, British Columbia.  The Company hereby announces that the Canadian Approval Order was granted by the BC Court on December 17, 2024, with certain amendments. The Canadian Approval Order will be signed and entered in due course.
+
+The hearing of the motion before the US Court in the Chapter 15 Proceedings (the "**US Recognition Hearing** ") by Elevation Gold, Eclipse Gold Mining Corporation, Golden Vertex Corp. ("**GVC** ") and Golden Vertex (Idaho) Corp. (collectively, the "**Companies** ") for an order for recognition and enforcement of the Canadian Approval Order (the "**US Approval Order** ") is scheduled to be heard at 11:00 am MST on December 23, 2024.  The Transaction is also subject to the approval of the TSX Venture Exchange, as well as other standard conditions precedent. 
+
+All notices and documents pertaining to the Canadian Approval Hearing and the US Approval Hearing will be posted to the Case Website once available. Closing will occur if, and after, the US Approval Order is granted and the TSX-V approves of the transaction.
+
+**ON BEHALF OF THE BOARD OF ELEVATION GOLD MINING CORPORATION**
+
+_"Tim J. Swendseid"_
+
+Tim J. Swendseid, Chief Executive Officer of Elevation Gold Mining Corporation
+
+**About Elevation Gold Mining Corporation**
+
+Elevation Gold is a publicly listed gold and silver producer, engaged in the acquisition, exploration, development and operation of mineral properties located in the United States.  Elevation Gold's common shares are currently listed on the Exchange's NEX Board in Canada under the ticker symbol ELVT.H.  The Company's principal operation is the 100% owned Moss Mine in the Mohave County of Arizona.
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+**Cautionary Statement on Forward-Looking Information**
+
+_Certain of the statements made and information contained herein is "forward-looking information" within the meaning of applicable Canadian securities laws. All statements other than statements of historical facts included in this document constitute forward-looking information, including but not limited to statements regarding the completion of the Transaction pursuant to the APS, and anticipated receipt of associated court and other regulatory approvals. Words such as "believe", "expect", "anticipate", "contemplate", "target", "plan", "goal", "aim", "intend", "continue", "budget", "estimate", "may", "will", "can", "could", "should", "schedule" and similar expressions identify forward-looking statements._
+
+_Forward-looking information is necessarily based upon various estimates and assumptions including, without limitation, the expectations and beliefs of management. While these factors and assumptions are considered reasonable by the Company as at the date of this document in light of management's experience and perception of current conditions and expected developments, these statements are inherently subject to significant business, economic and competitive uncertainties and contingencies. Known and unknown factors could cause actual results to differ materially from those projected in the forward-looking statements and undue reliance should not be placed on such statements and information. Such factors include, but are not limited to: risks regarding receipt of court and regulatory approvals; risks related to non-performance by counterparties; and other risks and uncertainties including but not limited to those described the Company's public disclosure documents which are available on SEDAR at[www.sedar.com](http://www.sedar.com) under the Company's profile. All of the forward-looking statements made in this document are qualified by these cautionary statements. Although the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking information, there may be other factors that cause results not to be as anticipated, estimated, forecast or intended and readers are cautioned that the foregoing list is not exhaustive of all factors and assumptions which may have been used. Should one or more of these risks and uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those described in forward-looking information. Accordingly, there can be no assurance that forward-looking information will prove to be accurate and forward-looking information is not a guarantee of future performance. Readers are advised not to place undue reliance on forward-looking information. The forward-looking information contained herein speaks only as of the date of this document. The Company disclaims any intention or obligation to update or revise forward–looking information or to explain any material difference between such and subsequent actual events, except as required by applicable law._
+
+View original content to download multimedia:<https://www.prnewswire.com/news-releases/elevation-gold-announces-canadian-approval-of-purchase-and-sale-agreement-302336453.html>
+
+SOURCE Elevation Gold Mining Corp.
+
+### Project Name
+
+[Moss Project](/?gid=2775)  
+Arizona, United States
+
+--- Detailed Quote ---
+
+Last: 0.075            Beta: 2.46191
+Year High: 0.095       Market Cap: 8.42m
+PB Ratio: 0.22        EPS: -0.29
+Prev. Close: 0.075     Year Low: 0.07
+Total Shares: 112.21m    Shares Out: 112.21m
+Float: 61.49m           Exchange: TSXV

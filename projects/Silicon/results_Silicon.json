@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Silicon/93667.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Silicon",
+      "justification": "The project is identified in the text as the 'Silicon Project'."
+    },
+    "company_name": {
+      "value": "Orogen",
+      "justification": "The article is an announcement from Orogen: 'Orogen appoints Mr. Daniel Pace as Vice President of Exploration'. This contradicts the authoritative company name 'AngloGold Ashanti Limited' but aligns with the authoritative ticker 'OGN' and the content of the document."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article is a personnel announcement, not an M&A transaction, and does not mention a CEO or a buyer."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition or transfer of interest."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The primary commodity is based on the authoritative metadata provided in the prompt, as the text does not specify a commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be CAD from the dollar symbol '$' used in the detailed quote section for a company listed on the TSXV: 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is a personnel announcement and does not mention any cash payments for a transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is a personnel announcement and does not mention any share payments for a transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is a personnel announcement and does not mention any combined payments for a transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a share issuance price for a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the unit for the coverage area."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain any information about mineral resources for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article is not an M&A announcement and does not identify a buyer."
+    }
+  }
+}

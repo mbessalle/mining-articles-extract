@@ -1,0 +1,56 @@
+--- Article Metadata ---
+Project Name: Lucky Boy
+Company Name: Oberon Uranium Corp.
+Exchange: CSE
+Ticker: OBRN
+Primary Commodity: U
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.13.2024, 1:30:00 AM
+
+# Oberon Uranium Corp. Successfully Earns 100% Interest in the Lucky Boy Property
+
+Vancouver, British Columbia--(Newsfile Corp. - January 12, 2024) - **OBERON URANIUM CORP.**(CSE: OBRN) ("**Oberon** " or the "**Company** ") is pleased to announce that it has successfully earned a 100% interest in the Company's past producing "Lucky Boy Property" located in Arizona, USA, pursuant to the option agreement respecting the property. To exercise the option, the Company issued an aggregate of 250,000 common shares of the Company to the optionor, each share issued at a deemed price of $0.05 per share for aggregate consideration of $12,500. The shares are subject to a four month hold period.
+
+_**About the Company**_
+
+Oberon Uranium Corp. is a mineral exploration company with a 100% interest in the past producing Lucky Boy Uranium Property located in Arizona, USA. Oberon also owns a 100% interest in the Fusion Uranium Zone Project and the Element 92 Property both located in the Athabasca Region of Saskatchewan, Canada. For further information, please refer to the Company's disclosure record on SEDAR+ ([www.sedarplus.ca](https://api.newsfilecorp.com/redirect/eLxpYh2A12)) or contact the Company by email at [info@oberonuranium.com](mailto:info@oberonuranium.com).
+
+**On Behalf of the Board of Directors  
+** "_Lawrence Hay"  
+_ President and CEO  
+Tel: 778.317.8754  
+Email: [info@oberonuranium.com](mailto:info@oberonuranium.com)
+
+**Forward-Looking Information**
+
+ _Certain statements in this news release are forward-looking statements, including with respect to future plans, and other matters. Forward-looking statements consist of statements that are not purely historical, including any statements regarding beliefs, plans, expectations or intentions regarding the future. Such information can generally be identified by the use of forwarding-looking wording such as "may", "expect", "estimate", "anticipate", "intend", "believe" and "continue" or the negative thereof or similar variations. The reader is cautioned that assumptions used in the preparation of any forward-looking information may prove to be incorrect. Events or circumstances may cause actual results to differ materially from those predicted, as a result of numerous known and unknown risks, uncertainties, and other factors, many of which are beyond the control of the Company, including but not limited to, business, economic and capital market conditions, the ability to manage operating expenses, and dependence on key personnel. Such statements and information are based on numerous assumptions regarding present and future business strategies and the environment in which the Company will operate in the future, anticipated costs, and the ability to achieve goals. Factors that could cause the actual results to differ materially from those in forward-looking statements include, the continued availability of capital and financing, litigation, failure of counterparties to perform their contractual obligations, loss of key employees and consultants, and general economic, market or business conditions. Forward-looking statements contained in this news release are expressly qualified by this cautionary statement. The reader is cautioned not to place undue reliance on any forward-looking information._
+
+_The forward-looking statements contained in this news release are made as of the date of this news release. Except as required by law, the Company disclaims any intention and assumes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise._
+
+_The CSE has not reviewed, approved or disapproved the contents of this news release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/194187](https://api.newsfilecorp.com/redirect/854zwUeK04)
+
+### Project Name
+
+[Lucky Boy Project](/?gid=4348)  
+Arizona, United States
+
+--- Detailed Quote ---
+
+Last: 0.015          Open: 0.015
+High: 0.015          Bid: 0.01
+Bid Size: 496000      Beta: -2.73939
+Year High: 0.05     Market Cap: 938.03k
+PB Ratio: 0.20      Average Volume (30 Day): 52.42k
+Volume: 10.00k        Prev. Close: 0.015
+Low: 0.015           Ask: 0.015
+Ask Size: 574000      VWAP: 0.015
+Year Low: 0.005      Total Shares: 62.54m
+Shares Out: 62.54m    Float: 62.03m
+Exchange: CSE

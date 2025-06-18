@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/New_Pass/53259.txt",
+    "projects/New_Pass/53268.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "New Pass",
+      "justification": "The article is titled 'Gold Basin Announces Signing of Option Agreement to Acquire New Pass Gold Property, Nevada' and refers to the property as 'New Pass' throughout."
+    },
+    "company_name": {
+      "value": "Iconic Minerals Ltd.",
+      "justification": "The authoritative company name provided is 'Iconic Minerals Ltd.'. The text confirms this company's role as the seller: '...property option agreement...with Iconic Minerals Ltd. (TSXV:ICM; OTCQB: ICMFF) (\"Iconic\") and a wholly owned subsidiary of Iconic (together with Iconic, the \"Vendors\")...'"
+    },
+    "ceo_buyer": {
+      "value": "Colin Smith",
+      "justification": "The buyer is identified as Gold Basin Resources Corporation. The text states: 'Colin Smith, Chief Executive Officer of the Company, commented...'. 'The Company' refers to Gold Basin."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The text states that 'Gold Basin can acquire from the Vendors a 50% interest in and to the New Pass gold property'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative commodity is Au. The text confirms this, referring to the project as the 'New Pass gold property' and describing the 'New Pass Gold-Silver (\"Au-Ag\") deposit'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/208107",
+      "justification": "The article, titled 'Iconic Announces Option Agreement for New Pass Gold Property', directly concerns the transaction for the New Pass project between Iconic Minerals Ltd. and Gold Basin Resources Corporation."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction details specify Canadian dollars: '...in consideration of the payment of an aggregate of CAD $750,000 in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 750000,
+      "justification": "The agreement is 'in consideration of the payment of an aggregate of CAD $750,000 in cash'."
+    },
+    "share_payments_raw": {
+      "value": 1500000,
+      "justification": "The agreement includes an initial delivery of 'CAD $750,000 in common shares' and a conditional future payment where 'Gold Basin shall deliver a further $750,000 in Consideration Shares to the Vendors.' The total potential share payment is the sum of these two amounts ($750,000 + $750,000)."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of the shares to be issued is provided, but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants as part of the consideration for the property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option, the consideration is specified as cash and shares, not a separate option payment. A separate stock option grant to directors and consultants is mentioned but is not part of the property acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The value of the shares to be issued is provided, but not the price per share for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 2140,
+      "justification": "The property is described as 'consisting of 107 unpatented mineral claims (2,140 hectares)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The property is described as 'consisting of 107 unpatented mineral claims (2,140 hectares)'."
+    },
+    "resource_size": {
+      "value": "341,750 ounces ('oz') of gold equivalent ('AuEq'), and separate estimates of gold-only ('Au') and silver-only ('Ag') of 282,986 oz Au and 3,134,129 oz Ag",
+      "justification": "The text states: 'New Pass hosts the Carlin-type New Pass Gold-Silver (\"Au-Ag\") deposit, with a historical (2010) NI 43-101 Inferred Mineral Resource of 341,750 ounces (\"oz\") of gold equivalent (\"AuEq\"), and separate estimates of gold-only (\"Au\") and silver-only (\"Ag\") of 282,986 oz Au and 3,134,129 oz Ag;'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GXX",
+      "justification": "The buyer is identified as 'Gold Basin Resources Corporation (the \"Company\", \"Gold Basin\" or the \"Optionee\") – (TSX-V GXX, OTCQB: GXXFF)'."
+    }
+  }
+}

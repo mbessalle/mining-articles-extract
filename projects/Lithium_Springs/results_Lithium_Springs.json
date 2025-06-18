@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Lithium_Springs/31233.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium Springs",
+      "justification": "Fuse Battery Metals Inc. (\"the Company \"or \"Fuse\") (TSXV:FUSE)(OTCQB:FUSEF)(FRA:43W3) is pleased to announce the expansion of our exploration land holdings with the inclusion of a new lithium exploration project in Nevada, the Lithium Springs Project."
+    },
+    "company_name": {
+      "value": "Fuse Battery Metals Inc.",
+      "justification": "Fuse Battery Metals Inc. (\"the Company \"or \"Fuse\") (TSXV:FUSE)(OTCQB:FUSEF)(FRA:43W3) is pleased to announce the expansion of our exploration land holdings with the inclusion of a new lithium exploration project in Nevada, the Lithium Springs Project."
+    },
+    "ceo_buyer": {
+      "value": "Tim Fernback",
+      "justification": "On Behalf of the Board of Directors \"Tim Fernback\" Tim Fernback, Interim President & CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has entered into a Purchase and Sale Agreement dated February 14, 2023, to acquire a 100% interest in 108 placer claims (BRD1 - BRD108) from Malcolm J. Bell (the \"Vendor\")."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "...is pleased to announce the expansion of our exploration land holdings with the inclusion of a new lithium exploration project in Nevada, the Lithium Springs Project."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/739414/Fuse-Battery-Metals-Expands-its-Land-Holdings-by-Adding-a-Lithium-Exploration-Project-in-Nevada",
+      "justification": "The article content is about the acquisition of the Lithium Springs Project by Fuse Battery Metals Inc., which matches the primary project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The Company agrees to the following: (a) reimburse the staking and recording costs to the Vendor in the amount of US$33,982 upon signing the Agreement;"
+    },
+    "cash_payments_raw": {
+      "value": 33982,
+      "justification": "The Company agrees to the following: (a) reimburse the staking and recording costs to the Vendor in the amount of US$33,982 upon signing the Agreement;"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms specify the number of shares to be issued, not their monetary value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately and no combined value is provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "(b) issuing to the Vendor 500,000 fully paid and non-assessable common shares in the capital of the Company upon TSX Venture Exchange acceptance of the Transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes a \"Proposed Exploration Plan\" but does not state a binding monetary commitment for exploration. It only states \"A reasonable expectation for a First Phase exploration program...\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR)."
+    },
+    "coverage_area_raw": {
+      "value": 858,
+      "justification": "The claims cover approximately 858 hectares of playa and alluvial fan located at the south end of the Black Rock Desert..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The claims cover approximately 858 hectares of playa and alluvial fan located at the south end of the Black Rock Desert..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces). It only mentions surface sample grades (e.g., \"Values ranged from 82.8 to 520 ppm lithium\") and exploration potential."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FUSE",
+      "justification": "Fuse Battery Metals Inc. (\"the Company \"or \"Fuse\") (TSXV:FUSE)(OTCQB:FUSEF)(FRA:43W3) is pleased to announce the expansion of our exploration land holdings..."
+    }
+  }
+}

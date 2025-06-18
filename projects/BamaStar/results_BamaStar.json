@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/BamaStar/84727.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "BamaStar",
+      "justification": "The text consistently refers to the project by this name, for example: 'South Star Battery Metals Announces Exercise of Earn-in and Acquisition of 100% of the BamaStar Graphite Project in Coosa County, Alabama'."
+    },
+    "company_name": {
+      "value": "South Star Battery Metals Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'South Star Battery Metals Corp. (\"South Star \" or the \"Company\") ... is pleased to announce that it has successfully exercised its right to earn-in 75% of the BamaStar Graphite Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Richard Pearce",
+      "justification": "The CEO of the acquiring company is named in the text: 'Richard Pearce, CEO of South Star commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "South Star first earned 75% and then acquired the remaining 25%. The text states: '...successfully exercised its right to earn-in 75% of the BamaStar Graphite Project...' and '...all the Project partners (the \"CML Owners\") exercised their vendor option to sell the remaining 25% of the Project to South Star... On completion of the transfer... the Company will have 100% of the rights to the Project.'"
+    },
+    "primary_commodity": {
+      "value": "Graphite",
+      "justification": "The project is explicitly identified as a graphite project in the headline: '...Acquisition of 100% of the BamaStar Graphite Project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/south-star-battery-metals-announces-exercise-of-earn-in-and-acquisition-of-100-of-the-bamastar-graphite-project-in-coosa-county-alabama-971087",
+      "justification": "The article is about the BamaStar project acquisition by South Star Battery Metals Corp. The original press release link is provided at the bottom of the text: 'View the original press release on ACCESS Newswire'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is indicated by the 'C$' prefix in the payment and expenditure details: '...sell the remaining 25% of the Project to South Star for C$250,000 in common shares...' and '...Fund an annual minimum expenditure of C$250,000...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were mentioned as part of the consideration for the acquisition of the project equity. The acquisition of the final 25% was made entirely in shares."
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The acquisition of the remaining 25% interest was paid for with shares valued at C$250,000. '...sell the remaining 25% of the Project to South Star for C$250,000 in common shares of South Star...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly detailed as a share payment, not a combined cash and share payment. Therefore, per the financial data extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text states that 445,454 shares will be issued. However, the financial extraction rules prioritize capturing the explicit value of the payment (C$250,000) under the 'share_payments_raw' field (Priority 1). According to the mutually exclusive hierarchy, if 'share_payments_raw' is populated, other financial fields from other priority levels, like 'amount_of_shares_issued', must be null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any option payments as part of the transaction. The 'vendor option' refers to the seller's right to sell, not a payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The financial extraction rules prioritize capturing the explicit value of the payment (C$250,000) under the 'share_payments_raw' field (Priority 1). According to the mutually exclusive hierarchy, if 'share_payments_raw' is populated, other financial fields from other priority levels, like 'issued_share_price', must be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not mention any exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 750000,
+      "justification": "A total expenditure of C$750,000 was a condition to complete the 75% earn-in. The text states South Star had to: 'Fund an annual minimum expenditure of C$250,000 (C$750,000 total) to earn 75% of the Project.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The source text does not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The source text does not specify the coverage area of the project in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The source text does not specify the coverage area of the project, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a 'NI 43-101 compliant Preliminary Economic Analysis (PEA)' and 'resource estimation' but does not provide a quantified statement of mineral resources with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STS",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: 'South Star Battery Metals Corp. (\"South Star \" or the \"Company\") [(TSXV:STS)]...'"
+    }
+  }
+}

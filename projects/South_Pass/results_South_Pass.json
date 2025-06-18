@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/South_Pass/45379.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Pass",
+      "justification": "The text states: \"Basin Uranium CORP. (CSE: NCLR) ('Basin Uranium' or the 'Company') is pleased to announce it has acquired the South Pass Property Uranium Project (the 'Project' or 'South Pass')\"."
+    },
+    "company_name": {
+      "value": "Basin Uranium Corp.",
+      "justification": "The acquiring company is identified as \"BASIN URANIUM CORP. (CSE: NCLR) ('Basin Uranium' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "Mike Blady",
+      "justification": "The CEO of the buyer, Basin Uranium Corp., is listed at the end of the press release: \"On Behalf of the Board of Directors Mike Blady Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The project was acquired through \"direct staking by the Company\". Staking is the process of claiming full mineral rights on public land, which implies a 100% interest was acquired."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article is titled \"Basin Uranium Stakes Significant New Uranium Project in Wyoming\" and refers to the project as the \"South Pass Property Uranium Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/190026",
+      "justification": "The article is titled \"Basin Uranium Stakes Significant New Uranium Project in Wyoming\" and the content is entirely about the acquisition of the South Pass project by Basin Uranium Corp. The source URL is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", which does not involve a financial transaction with a seller. No currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", which does not involve a cash payment to a seller. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", which does not involve a share payment to a seller. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\", which does not involve a payment to a seller. No combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via \"direct staking\". No shares were issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3775,
+      "justification": "The text states: \"The South Pass Uranium Project is comprised of 3,775 acres of contiguous claims (151 unpatented mineral lode claims)\"."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"The South Pass Uranium Project is comprised of 3,775 acres of contiguous claims\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no current resource can be disclosed: \"Evaluation of historical records also indicated a historic resource was calculated on at least two parts of the claims currently comprising the South Pass project, however additional verification and validation must be performed by the Company's Qualified Person before being disclosed publicly.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NCLR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"BASIN URANIUM CORP. (CSE: NCLR) ('Basin Uranium' or the 'Company')\"."
+    }
+  }
+}

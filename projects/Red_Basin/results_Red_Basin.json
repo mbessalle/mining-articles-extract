@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Red_Basin/86759.txt",
+    "projects/Red_Basin/87551.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Red Basin",
+      "justification": "The primary project of interest is stated in the title: 'Myriad Uranium Enters into Option to Acquire 100% of the Red Basin Uranium Project in New Mexico, USA'."
+    },
+    "company_name": {
+      "value": "Myriad Uranium Corp.",
+      "justification": "The acquiring company (Buyer) is identified at the beginning of the press release: 'Myriad Uranium Corp. (CSE: M) (OTCQB: MYRUF) (FSE: C3Q) (\"Myriad \" or the \"Company\") is pleased to announce that it has entered into a property option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Thomas Lamb",
+      "justification": "The CEO of the acquiring company, Myriad Uranium Corp., is identified in the text: 'Myriad's CEO Thomas Lamb commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement gives Myriad the option to acquire a full interest: '...pursuant to which Myriad has the option (the \"Option\") to earn a 100% interest in and to the First American Red Basin Uranium Project...'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly identified as a uranium project in the title: 'Myriad Uranium Enters into Option to Acquire 100% of the Red Basin Uranium Project in New Mexico, USA'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/239518",
+      "justification": "The article is confirmed to be about the Red Basin project as stated in the title: 'Myriad Uranium Enters into Option to Acquire 100% of the Red Basin Uranium Project in New Mexico, USA'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars (C$): '...consideration is comprised of cash and share payments aggregating C$525,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 275000,
+      "justification": "The total cash payment is the sum of a deposit and an additional payment: 'Having already paid the Optionor a C$25,000 non-refundable deposit, to exercise the Option, Myriad must make an additional cash payment of C$250,000 to the Optionor...' (25,000 + 250,000 = 275,000)."
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The value of the shares issued as part of the consideration is explicitly stated: '...issue the Optionor 612,164 common shares of Myriad (each, a \"Share\") at a deemed price of approximately C$0.408 per Share, representing a value of C$250,000...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Null because separate cash and share payment values were identified and populated in `cash_payments_raw` and `share_payments_raw` as per the mutually exclusive financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Null because explicit cash and share payment values were identified. Per the financial extraction hierarchy, `cash_payments_raw` and `share_payments_raw` are populated, and other financial fields are set to null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments, aside from the main transaction consideration, were mentioned."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Null because explicit cash and share payment values were identified. Per the financial extraction hierarchy, `cash_payments_raw` and `share_payments_raw` are populated, and other financial fields are set to null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is a geophysics survey, not a specific length of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "A monetary value for the required exploration commitment was not specified: 'Myriad's final obligation under the Option is to conduct a geophysics survey of the Project within one year of the Option Agreement...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1776,
+      "justification": "The project area is specified in acres: '...comprised of 86 lode claims in the Red Basin area... covering approximately 1,776 acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is specified as acres: '...covering approximately 1,776 acres...'"
+    },
+    "resource_size": {
+      "value": "500,000 pounds and an inferred resource between 1.5 - 6.5 million pounds U3O8",
+      "justification": "A historical resource estimate is provided in the text: 'Using a grade times thickness (GT) cutoff of 0.25 and grade cutoff of 0.02%, in-place resources of 500,000 pounds and an inferred resource between 1.5 - 6.5 million pounds U3O8 was estimated (RGR, 2012).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:M",
+      "justification": "The buyer's ticker and exchange are listed with its name: 'Myriad Uranium Corp. (CSE: M) (OTCQB: MYRUF) (FSE: C3Q)...'"
+    }
+  }
+}

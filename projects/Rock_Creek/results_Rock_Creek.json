@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Rock_Creek/70256.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rock Creek",
+      "justification": "The text announces the acquisition of two projects, including the Rock Creek project: 'Headwater has acquired the Rock Creek and Hot Creek epithermal gold projects by claim staking on BLM land.'"
+    },
+    "company_name": {
+      "value": "Headwater Gold Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Vancouver, British Columbia - TheNewswire - September 4, 2024: Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF) (the \"Company\" or \"Headwater\") is pleased to announce the acquisitions of two additional epithermal vein projects, Rock Creek and Hot Creek, in Northern Nevada.'"
+    },
+    "ceo_buyer": {
+      "value": "Caleb Stroup",
+      "justification": "The CEO of the acquiring company is quoted in the text: 'Caleb Stroup, the President and CEO of the Company, states: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Headwater Gold acquired full ownership of the project: 'Both projects are 100% owned and are royalty free.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the project as an epithermal gold project: 'Headwater has acquired the Rock Creek and Hot Creek epithermal gold projects by claim staking on BLM land.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Rock Creek, but a specific, verifiable URL for the article is not present in the document body."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company's primary stock exchange is listed as the CSE (Canadian Securities Exchange) in the detailed quote section, which implies the currency is Canadian Dollars (CAD). 'Exchange: CSE'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through claim staking, not a cash purchase from another entity. The text states the acquisition was through 'claim staking on open ground managed by the Bureau of Land Management (“BLM”)' with no mention of cash consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through claim staking, not a share-based purchase. The text states the acquisition was through 'claim staking on open ground managed by the Bureau of Land Management (“BLM”)' with no mention of share consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired through claim staking, and no combined cash and share payment was mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction; the project was acquired via claim staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments is mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments is mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any specific monetary exploration commitment for the Rock Creek project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that the project is royalty-free, meaning no NSR was acquired or retained. 'Both projects are 100% owned and are royalty free.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states that the project consists of '103 unpatented mining claims' but does not provide a specific area measurement in units such as hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text states that the project consists of '103 unpatented mining claims' but does not provide a specific area measurement in units such as hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical drill intercepts but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). It refers to 'Untested High-Grade Targets', suggesting no current NI 43-101 compliant resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HWG",
+      "justification": "The buyer's ticker and primary exchange are explicitly mentioned in the first paragraph: 'Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF)'."
+    }
+  }
+}

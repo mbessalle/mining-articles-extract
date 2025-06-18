@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Railroad_Valley/70414.txt",
+    "projects/Railroad_Valley/71325.txt",
+    "projects/Railroad_Valley/75141.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Railroad Valley",
+      "justification": "The project is consistently located in Railroad Valley, as stated in the headline: 'Canter Resources Acquires Railroad Valley Lithium-Boron Project'. The specific acquisition is referred to as the 'RV Project'."
+    },
+    "company_name": {
+      "value": "Canter Resources Corp.",
+      "justification": "The authoritative company name is Canter Resources Corp., which is identified as the acquirer in the relevant news release: 'Canter Resources Corp. (CSE: CRC) (OTC Pink: CNRCF) (FSE: 601) (\"Canter \" or the \"Company \") is pleased to report that it has acquired a prospective 1,000 acre property (\"RV Project\") in Railroad Valley...'"
+    },
+    "ceo_buyer": {
+      "value": "Joness Lang",
+      "justification": "The CEO of the acquiring company, Canter Resources Corp., is identified in the text: 'commented Canter CEO, Joness Lang.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Canter acquired a full interest in the claims as stated in the acquisition terms: '...entered into a Claims Acquisition Agreement with Ramp Metals USA Inc. to a 100% interest in 50 unpatented association placer claims in Railroad Valley...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The authoritative primary commodity is Li. The project is described as a lithium project in the text: 'Canter Resources Acquires Railroad Valley Lithium-Boron Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars for the share price and the NSR buyback option: '...with a deemed price of CAD$0.13...' and '...buy back the NSR for a one-time CAD$500,000 payment...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The agreement mentions that 'Canter will pay transfer costs and reimburse recently paid BLM fees', but no specific cash amount for the acquisition itself is stated."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, which are populated in their respective fields as per the extraction hierarchy. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, which are populated in their respective fields as per the extraction hierarchy. Therefore, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "The acquisition terms state the number of shares to be issued: '300,000 Canter common shares (\"Consideration Shares\")...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": 0.13,
+      "justification": "The acquisition terms state the deemed price of the shares to be issued: '300,000 Canter common shares (\"Consideration Shares\") with a deemed price of CAD$0.13...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for future work ('Canter has compiled historical data and plans to complete follow up sampling at the RV Project... in Q4/2024') but does not state a specific monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 0.5,
+      "justification": "The seller retained a Net Smelter Royalty as part of the deal terms: 'Ramp Metals USA Inc. will retain a 0.5% NSR, with Canter having the ability to buy back the NSR for a one-time CAD$500,000 payment at any time.'"
+    },
+    "coverage_area_raw": {
+      "value": 1000,
+      "justification": "The size of the acquired property is stated in the text: '...it has acquired a prospective 1,000 acre property (\"RV Project\") in Railroad Valley...'"
+    },
+    "coverage_area_unit": {
+      "value": "acre",
+      "justification": "The unit for the coverage area is specified in the text: '...it has acquired a prospective 1,000 acre property (\"RV Project\") in Railroad Valley...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is early-stage and lacks a defined resource: 'Despite its promising geologic similarities to Clayton Valley, Railroad Valley remains largely underexplored for lithium and boron.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRC",
+      "justification": "The authoritative metadata provided (TSXV: PE) corresponds to Pure Energy Minerals Ltd., the buyer in a separate transaction also in Railroad Valley. The correct buyer for the project of interest is Canter Resources Corp., whose ticker is explicitly stated as '(CSE: CRC)' in the text."
+    }
+  }
+}

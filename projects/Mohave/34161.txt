@@ -1,0 +1,167 @@
+--- Article Metadata ---
+Project Name: Mohave
+Company Name: Pershing Resources Company Inc.
+Exchange: TSXV
+Ticker: PGX
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+4.24.2023, 2:00:00 PM
+
+# Prosper Gold Enters Into Option Agreement to Acquire 100% of the Mohave Gold Project, Mohave County, Arizona, USA
+
+VANCOUVER, British Columbia, April 24, 2023 (GLOBE NEWSWIRE) -- Prosper Gold Corp. ("**Prosper Gold** " or the "**Company** ") (TSXV:PGX) is pleased to announce that Prosper Gold USA LLC, a wholly-owned subsidiary of the Company, has entered into a definitive option agreement (the “**Option Agreement** ”) with DDS Resources LLC and Mohave Mine Partnership LLC (collectively, the “**Optionors** ”), whereby the Optionors have granted the Company the option to acquire a 100% interest in the Mohave Project (the “**Property** ”).  
+
+
+**Project Highlights:**
+
+  * **Large, robust low-sulphidation epithermal gold-silver system covering a 4 x 1.5 km area**
+  * **Project is permitted for up to 600 drill sites and up to 27 kilometers of access roads**
+  * **619 historical drill holes totaling 23,244 metres - shallow holes averaging 37.5 metres depth with many bottoming in gold mineralization**
+  * **Over 40 abandoned mine workings (adits, shafts and declines)**
+  * **Large areas of anomalous rock and soil geochemistry and historical mine workings which have not seen any drilling**  
+
+
+
+
+“The opportunity to acquire the Mohave Gold Project was one we could not pass up,” commented Peter Bernier, CEO. “The exploration potential for high-grade gold on this project is clear and we look forward to drilling the multitude of mineralized zones, many of which have never been drilled. The Mohave Gold Project will complement Prosper Gold’s Golden Sidewalk project in Red Lake allowing for year-round exploration on two highly prospective land packages in low-risk jurisdictions.”
+
+**Mohave Gold Project**
+
+The Mohave Gold Project has a long history of exploration and small-scale mining dating back to 1865. Gold was discovered at the Dixie Queen Mine (_Figure 1_) in 1894. The Project is a low-sulphidation epithermal gold-silver prospect considered to be in the advanced exploration stage. The Project comprises 160 contiguous mining claims covering 1,176 hectares in the Mohave County, northwestern Arizona. It is road-accessible with a well-developed network of access roads to historical workings and drill sites. The Project is permitted for construction of up to 600 drill sites and approximately 27 kilometres of access roads.
+
+Exploration to date by historical operators has outlined several mineralized zones through relatively shallow drilling (_refer to Table 1_) along with additional targets outlined through geochemical and geophysical surveys which have not been drill tested. Extensive alteration and widespread gold mineralization outlines three mineralized trends: the Golden Door, the Klondyke and the Dixie trends. The Dixie trend has seen no drilling to date, despite the presence of highly anomalous rock and soil geochemistry and the presence of numerous historical workings.
+
+**_Table 1 - Select historical drill intercepts._**
+
+ 
+
+**Hole ID**| **From (m)**| **To (m)**| **Interval (m)**| **Gold (gpt)**| **Prospect**  
+---|---|---|---|---|---  
+M80R-028| 15.3| 30.5| 15.2| 3.97| Klondyke  
+M87A-117| 15.2| 25.9| 10.7| 5.63| Klondyke  
+M88A-158| 7.64| 18.74| 11.1| 4.76| Klondyke  
+M90R-313| 10.7| 13.7| 3.0| 10.3| Klondyke  
+M81R-035| 21.4| 29.0| 7.6| 6.75| Golden Ram  
+M80R-144| 32| 47.2| 15.2| 2.82| Scout  
+M80R-149| 0| 35.1| 35.1| 1.39| Scout  
+M87A-073| 7.6| 15.2| 7.6| 3.9| Golden Door  
+M87A-083| 13.7| 18.3| 4.6| 8.1| Golden Door  
+M85A-017| 3.1| 6.1| 3.0| 8.4| Jim & Jerry  
+M85A-025A| 0| 15.2| 15.2| 2.35| Jim & Jerry  
+M81R-027| 36.6| 42.7| 6.1| 3.0| Epidote Ridge  
+M89A-244| 9.1| 13.7| 4.6| 4.27| Apex  
+  
+_* True thicknesses are not known_
+
+The first production in the district was from the Klondyke and North Klondyke mines in 1898, with documented production of approximately 4,500 tons averaging 19.3 gpt gold. The Red Gap mine was discovered in 1904. There is no known record of production at the Red Gap mine, though a one ton “test shipment” from the No. 2 tunnel in 1926 assayed 85.8 gpt gold and 497.7 gpt silver. The Golden Door open pit mine is reported to have produced about 20,000 tons averaging 7.46 gpt gold over a thickness ranging from 0.61 metres to 2.45 metres. This mine was closed during World War II. The Dixie Queen Mine is reported to have produced some 4,000 tons at an average gold grade of 23.3 gpt. Other mines with unknown past production include the Scout, Jim and Jerry, Apex, Middle Dixie and Dixie Gold mines.
+
+**_Figure 1. Map showing compiled historical rock sampling results (gold) and location of historical workings/prospects.  
+_**  
+
+Modern exploration, predominantly Reverse Circulation (“RC”) and Rotary Air Blast (“RAB”) with only 9 diamond drill holes, began in 1975 and continued intermittently to 1995. Various geophysical and geochemical surveys have been completed by several operators in recent years, though the last time drilling activities were completed on the Project was 1995. Select historical drilling results, along with mapped geology and soil geochemistry results are illustrated in _Figure 2_.
+
+**_Figure 2. Map showing select historical drill results (gold) and compiled soil geochemistry results (gold), underlain by property geology.  
+_**  
+
+**_Table 2 - Collar information for select historical drill holes (coordinates are in Datum WGS 84, zone 11N)._**
+
+ 
+
+**Hole ID**| **Easting (m)**| **Northing (m)**| **Azi (°)**| **Dip (°)**| **Depth (m)**| **Hole Type**| **Prospect**  
+---|---|---|---|---|---|---|---  
+M80R-028| 723266| 3933932| 0| -90| 48.158| RC| Klondyke  
+M87A-117| 723260| 3933934| 0| -90| 28.346| Air Rotary| Klondyke  
+M88A-158| 723259| 3934002| 0| -90| 18.745| Air Rotary| Klondyke  
+M90R-313| 723474| 3934088| 0| -90| 59.436| RC| Klondyke  
+M81R-035| 723642| 3935500| 0| -90| 45.72| RC| Golden Ram  
+M80R-144| 723286| 3935151| 0| -90| 54.254| RC| Scout  
+M80R-149| 723293| 3935146| 0| -90| 54.254| RC| Scout  
+M87A-073| 722858| 3935278| 0| -90| 18.288| Air Rotary| Golden Door  
+M87A-083| 722884| 3935276| 0| -90| 32.004| Air Rotary| Golden Door  
+M85A-017| 723749| 3935203| 0| -90| 18.288| Air Rotary| Jim & Jerry  
+M85A-025A| 723721| 3935142| 0| -90| 18.288| Air Rotary| Jim & Jerry  
+M81R-027| 723862| 3934687| 0| -90| 53.34| Air Rotary| Epidote Ridge  
+M89A-244| 723411| 3934379| 0| -90| 25.908| Air Rotary| Apex  
+  
+**  
+Key Terms of Option Agreement**
+
+The Option Agreement on the Property calls for the Company to pay US$3,350,000 cash (the “**Cash Payments** ”) and for work expenditures totaling US$1,700,000 (the “**Expenditures** ”) over 5 years in order for the Company to earn a 100% interest in the Property (the “**Option** ”). The Company may, in its sole and absolute discretion, accelerate payment of the Cash Payments. In the event that the Company accelerates the Cash Payments in full, the Option will be deemed to be exercised whether or not all the Expenditures have been incurred. Upon full payment of the Cash Payments, the Company will grant a 1.5% net smelter royalty to the Optionors and Desert Ventures Inc. (the “**Royalty** ”).
+
+Details of the Option Agreement will be available on the Company’s SEDAR profile at [www.sedar.com](http://www.sedar.com "www.sedar.com").
+
+**Qualified Person**
+
+The scientific and technical information in this news release has been reviewed by Rory Ritchie, P.Geo., Vice-President of Exploration for Prosper Gold and a Qualified Person under National Instrument 43-101. The results contained in this release were completed by previous operators of the Property. Although the Company was not involved in the original work in respect of these results, proper industry data verification procedures appear to have been followed.
+
+For a detailed overview of Prosper Gold please visit [www.ProsperGoldCorp.com](http://www.prospergoldcorp.com/ "www.ProsperGoldCorp.com").
+
+**ON BEHALF OF THE BOARD OF DIRECTORS**
+
+Per: _“_ __Peter Bernier__ _”_  
+Peter Bernier  
+President & CEO
+
+For further information, please contact:
+
+Peter Bernier  
+President & CEO  
+Prosper Gold Corp.  
+Cell: (250) 316-6644  
+Email: [Pete@ProsperGoldCorp.com](mailto:Pete@ProsperGoldCorp.com "Pete@ProsperGoldCorp.com")
+
+_Information set forth in this news release may involve forward-looking statements under applicable securities laws. Forward-looking statements are statements that relate to future, not past, events. In this context, forward-looking statements often address expected future business and financial performance, and often contain words such as "anticipate", "believe", "plan", "estimate", "expect", and "intend", statements that an action or event "may", "might", "could", "should", or "will" be taken or occur, or other similar expressions. All statements, other than statements of historical fact, included herein including, without limitation; statements about the terms of the Option Agreement, exploration potential of the Property, the planned exploration of the Property and granting the Royalty are forward-looking statements. By their nature, forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause our actual results, performance or achievements, or other future events, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors include, among others, the following risks: the need for additional financing; the Company’s ability to satisfy conditions precedent under the Option Agreement; operational risks associated with mineral exploration; fluctuations in commodity prices; title matters; environmental liability claims and insurance; reliance on key personnel; the potential for conflicts of interest among certain officers, directors or promoters with certain other projects; the absence of dividends; competition; dilution; the volatility of our common share price and volume and the additional risks identified the management discussion and analysis section of our interim and most recent annual financial statement or other reports and filings with the TSX Venture Exchange and applicable Canadian securities regulations. Forward-looking statements are made based on management's beliefs, estimates and opinions on the date that statements are made and the Company undertakes no obligation to update forward-looking statements if these beliefs, estimates and opinions or other circumstances should change, except as required by applicable securities laws. Investors are cautioned against attributing undue certainty to forward-looking statements._
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+  
+
+
+### Project Name
+
+[Mohave Project](/?gid=4533)  
+Arizona, United States
+
+[Project Summary](https://app.mininghub.com?gid=4533&modal=project_summary)[Company Profile](https://app.mininghub.com/company/prosper-gold-corp/4)[Management](https://app.mininghub.com/management/prosper-gold-corp/4)[All Projects](https://app.mininghub.com/company/prosper-gold-corp/4)
+
+### Other Company News
+
+5/28/2025 [Prosper Mobilizes Crews for Additional Drilling at Cyprus](/article/prosper-gold-corp/ca-pgx/-/prosper-mobilizes-crews-for-additional-drilling-at-cyprus-106059)
+
+4/22/2025 [Prosper Gold Refines Target at Cyprus](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-refines-target-at-cyprus-100408)
+
+4/2/2025 [Prosper Gold Corp. Closes Private Placement](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-corp-closes-private-placement-98611)
+
+3/21/2025 [Prosper Gold Corp. Announces Private Placement](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-corp-announces-private-placement-92117)
+
+2/10/2025 [Prosper Gold Mobilizes Crews to Cyprus Project in Preparation for Diamond Drilling](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-mobilizes-crews-to-cyprus-project-in-preparation-for-diamond-drilling-87302)
+
+12/20/2024 [Prosper Gold Corp. Closes Second Tranche of Private Placement](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-corp-closes-second-tranche-of-private-placement-82650)
+
+12/13/2024 [Prosper Gold Corp. Closes First Tranche of Private Placement](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-corp-closes-first-tranche-of-private-placement-81904)
+
+10/10/2024 [Prosper Gold Corp. Closes Private Placement](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-corp-closes-private-placement-74488)
+
+9/18/2024 [Prosper Gold Appoints Colin Burge as Advisor](/article/prosper-gold-corp/ca-pgx/-/prosper-gold-appoints-colin-burge-as-advisor-71790)
+
+9/10/2024 [ZTEM Survey at Cyprus Project Identifies Highly Prospective Porphyry Targets](/article/prosper-gold-corp/ca-pgx/-/ztem-survey-at-cyprus-project-identifies-highly-prospective-porphyry-targets-70890)
+
+--- Detailed Quote ---
+
+Last: 0.075            $  Chg: -0.005
+Open: 0.075            High: 0.075
+Bid: 0.075             Bid Size: 19000
+Beta: 0.33528            Year High: 0.155
+Market Cap: 4.26m      PB Ratio: 2.27
+EPS: -0.04             Average Volume (30 Day): 40.96k
+Volume: 35.00k          % Chg: -6.25%
+Prev. Close: 0.08     Low: 0.075
+Ask: 0.08             Ask Size: 8000
+VWAP: 0.075            Year Low: 0.06
+Total Shares: 56.76m    Shares Out: 62.01m
+Float: 52.34m           Exchange: TSXV

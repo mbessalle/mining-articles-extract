@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Phoenix_Silver/46092.txt",
+    "projects/Phoenix_Silver/48576.txt",
+    "projects/Phoenix_Silver/88565.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Phoenix Silver",
+      "justification": "The text consistently refers to the project as the Phoenix Silver Project, for example: 'SILVER ONE COMPLETES THE 100% ACQUISITION OF ITS PHOENIX SILVER PROJECT IN ARIZONA'."
+    },
+    "company_name": {
+      "value": "Silver One Resources Inc.",
+      "justification": "The buyer is identified in the text as: 'Silver One Resources Inc. (TSXV: SVE) (OTCQX: SLVRF) (FSE: BRK1) (\"Silver One\" or the \"Company\") is pleased to announce that it has exercised its option to acquire a 100% interest in the high-grade Phoenix Silver Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Greg Crowe",
+      "justification": "The CEO of the buyer is identified in the text: 'Greg Crowe, President and CEO of Silver One commented: \"Acquiring a 100% interest in Phoenix Silver represents a rare opportunity...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Silver One... is pleased to announce that it has exercised its option to acquire a 100% interest in the high-grade Phoenix Silver Project...'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The authoritative metadata identifies the primary commodity as Ag, and the project is consistently referred to as a silver project, e.g., 'The Silver Phoenix Project is a very high-grade native silver prospect that lies within the \"Arizona Silver Belt\"'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/191563",
+      "justification": "The article titled 'Silver One Expands Its Land Position... at Its Phoenix Silver Project, Arizona' and other provided articles are directly about the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payment portion of the acquisition is specified in US dollars: 'In order to acquire a 100% interest in the Phoenix Silver Project, Silver One paid US$350,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The acquisition terms include a cash payment: 'In order to acquire a 100% interest in the Phoenix Silver Project, Silver One paid US$350,000 and issued ten million common shares of Silver One over 3 years to the property vendors.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved issuing shares, but no explicit monetary value for the share component was provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were provided as separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 10000000,
+      "justification": "The acquisition terms include the issuance of shares: 'In order to acquire a 100% interest in the Phoenix Silver Project, Silver One paid US$350,000 and issued ten million common shares of Silver One over 3 years to the property vendors.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.27,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback from the detailed quote section of the acquisition announcement (Feb 8, 2024): 'Last: 0.27'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms include a retained royalty by the seller: 'The central portion of the claim block is subject to a 2% NSR, which can be purchased for US$ 1.0 million.'"
+    },
+    "coverage_area_raw": {
+      "value": 6141,
+      "justification": "The total area of the project is stated as: 'The Project now covers 6,141 hectares (15,175 acres)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is specified in the text: 'The Project now covers 6,141 hectares (15,175 acres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes high-grade vein fragments and select samples (e.g., 'a 189 kg (417 lb.) specimen'), but does not provide a formal, quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SVE",
+      "justification": "The buyer's ticker and exchange are provided in the news release header: 'Silver One Resources Inc. (TSXV: SVE) (OTCQX: SLVRF) (FSE: BRK1)'."
+    }
+  }
+}

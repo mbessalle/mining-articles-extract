@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Cuprite/30192.txt",
+    "projects/Cuprite/70682.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cuprite",
+      "justification": "The primary project of interest is named in the headline: 'StrikePoint Gold to Acquire Cuprite Gold Project in Nevada's Walker Lane Gold Trend from Orogen Royalties'."
+    },
+    "company_name": {
+      "value": "Strikepoint Gold Inc.",
+      "justification": "The acquiring company is identified in the first sentence: 'StrikePoint Gold Inc. (TSXV: SKP) (OTCQB: STKXF) (\"StrikePoint\" or the \"Company\") is pleased to announce it has signed a purchase and sale agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Michael G. Allen",
+      "justification": "The CEO of the buyer, StrikePoint, is identified in a quote and at the end of the press release: '\"This acquisition establishes StrikePoint, a year-round exploration target within the Walker Lane, perhaps the most underexplored district in Nevada,\" said StrikePoint President and CEO, Michael G. Allen.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement details state: 'StrikePoint will acquire a 100% interest in the Cuprite Gold Project'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly named the 'Cuprite Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/152051",
+      "justification": "The article at this link is titled 'StrikePoint Gold to Acquire Cuprite Gold Project in Nevada's Walker Lane Gold Trend from Orogen Royalties', which directly concerns the specified project and transaction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The largest component of the transaction, the share issuance, is valued in Canadian dollars: '...issuing 6,428,571 common shares of StrikePoint with a deemed value of C$450,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 35208,
+      "justification": "A cash component of the deal is mentioned in the transaction details: '...reimbursing US$35,208 on project related costs...'"
+    },
+    "share_payments_raw": {
+      "value": 450000,
+      "justification": "The transaction terms include shares with an explicitly stated value: '...issuing 6,428,571 common shares of StrikePoint with a deemed value of C$450,000...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments are provided, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 6428571,
+      "justification": "The number of shares to be issued is specified in the transaction terms: '...issuing 6,428,571 common shares of StrikePoint...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms are defined by explicit cash and share payment values (Priority 1), not by a per-share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, the seller (Orogen) retained a royalty: '...and granting a 3% NSR royalty to Orogen...'"
+    },
+    "coverage_area_raw": {
+      "value": 44,
+      "justification": "The second article provides a specific area for the project: 'The Cuprite Gold Project consists of approximately 574 unpatented claims covering approximately 44-square kilometers...'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the text: '...covering approximately 44-square kilometers...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for an analogous project ('AngloGold Ashanti's Silicon deposit where a maiden maiden Mineral Resource of 3.4 million ounces of gold has been defined'), but does not state a resource for the Cuprite project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SKP",
+      "justification": "The buyer's ticker and exchange are listed directly after its name in the first sentence: 'StrikePoint Gold Inc. (TSXV: SKP) (OTCQB: STKXF)'."
+    }
+  }
+}

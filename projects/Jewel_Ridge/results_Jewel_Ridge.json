@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Jewel_Ridge/41463.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jewel Ridge",
+      "justification": "The text identifies the project in several places, including: 'Golden Lake Exploration Inc. (CSE:GLM)(OTCQB:GOLXF) (\"GLM or the \"Company\") is pleased to announce the staking of an additional forty-six Bureau of Land Management (\"BLM\") lode claims totaling 924 acres near its Jewel Ridge project in Eureka County, Nevada.'"
+    },
+    "company_name": {
+      "value": "Golden Lake Exploration Inc.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'VANCOUVER, BC / ACCESSWIRE / September 26, 2023 / Golden Lake Exploration Inc. (CSE:GLM)(OTCQB:GOLXF) (\"GLM or the \"Company\")'"
+    },
+    "ceo_buyer": {
+      "value": "Mike England",
+      "justification": "The CEO of the acquiring company is quoted and named at the end of the press release: '\"Mike England\" Mike England, CEO & DIRECTOR'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article describes the staking of new claims which are fully owned by the company. 'The property consists of unpatented lode claims that are 100% owned by the Company, without any royalty obligations or work commitments...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The authoritative metadata lists Au as the primary commodity, and the text confirms significant gold values in sampling: 'Initial selective grab samples taken by the company's geological team have returned significant precious and base metal values of up to 1.73 grams gold per tonne (g/t Au)...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/787348/golden-lake-exploration-increases-eureka-district-property-position-by-50-obtains-high-precious-base-metal-assays-in-surface-grab-sampling",
+      "justification": "The article is directly about the Jewel Ridge project, as stated in the headline and body: 'Golden Lake Exploration Increases Eureka District Property Position by 50%...' and '...staking of an additional forty-six Bureau of Land Management (\"BLM\") lode claims totaling 924 acres near its Jewel Ridge project...'"
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction was a staking of claims, not a purchase, so no currency is mentioned in the transaction terms."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was mentioned. The company acquired the land via staking: '...pleased to announce the staking of an additional forty-six Bureau of Land Management (\"BLM\") lode claims...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment was mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment was mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so no share price is associated with the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article explicitly states there are no royalty obligations on the newly acquired claims: 'The property consists of unpatented lode claims that are 100% owned by the Company, without any royalty obligations or work commitments...'"
+    },
+    "coverage_area_raw": {
+      "value": 924,
+      "justification": "The article specifies the size of the newly staked area: '...the staking of an additional forty-six Bureau of Land Management (\"BLM\") lode claims totaling 924 acres near its Jewel Ridge project...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the newly acquired area is specified as acres: '...totaling 924 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article provides assay results from grab samples but does not state a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces). It notes: 'While grab rock samples are not representative of the grade of mineralization of an occurrence or target...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GLM",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Golden Lake Exploration Inc. (CSE:GLM)(OTCQB:GOLXF)'"
+    }
+  }
+}

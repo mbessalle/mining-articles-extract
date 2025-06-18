@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Maverick_Springs/53491.txt",
+    "projects/Maverick_Springs/78515.txt",
+    "projects/Maverick_Springs/78515_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Maverick Springs",
+      "justification": "The authoritative name is Maverick Springs, and the documents confirm the name, for example: '...the closing of the sale of the Maverick Springs Project to Sun Silver.'"
+    },
+    "company_name": {
+      "value": "Sun Silver Limited",
+      "justification": "The buyer is identified in the text: '...the successful exercise of the Binding Option Agreement (“The Acquisition Agreement”) with Sun Silver Limited (formerly Green Power Minerals Pty Ltd. “Sun Silver”) for the closing of the sale of the Maverick Springs Project to Sun Silver.'"
+    },
+    "ceo_buyer": {
+      "value": "Gerard O'Donovan",
+      "justification": "Gerard O'Donovan is listed as the Executive Director of the buyer, Sun Silver Limited. 'Sun Silver Executive Director, Gerard O'Donovan, said...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states a full sale of the project's assets, implying 100% interest: 'The transaction and associated transfer of all the Maverick Springs assets has been successfully completed...'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The project is described as a 'globally significant Maverick Springs Silver-Gold Project' and the JORC resource lists '253.3Moz of contained silver and 2.0Moz of contained gold', indicating silver is the primary commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash portion of the transaction is explicitly denominated in Canadian dollars: 'Sale proceeds will generate a total of CAD $4,400,000 cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 4400000,
+      "justification": "The text states the total cash consideration: 'In accordance with the Acquisition Agreement, Element79 has received total cumulative cash consideration of C$4,400,000...'"
+    },
+    "share_payments_raw": {
+      "value": 700000,
+      "justification": "The share component of the payment has a stated fair market value in Australian dollars: '...3,500,000 ordinary shares in Sun Silver priced at AUD$0.20 (fair market value AUD $700,000.)'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details fall under Priority 1 of the financial data extraction hierarchy, as explicit cash and share payment values are provided. Therefore, this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction details fall under Priority 1 of the financial data extraction hierarchy, as explicit cash and share payment values are provided ('CAD $4,400,000 cash' and 'fair market value AUD $700,000'). Therefore, other financial fields like amount_of_shares_issued must be null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of option payments in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction details fall under Priority 1 of the financial data extraction hierarchy, as explicit cash and share payment values are provided ('CAD $4,400,000 cash' and 'fair market value AUD $700,000'). Therefore, other financial fields like issued_share_price must be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No mention of an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No mention of an exploration commitment value as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 26.28,
+      "justification": "The most recent total landholding for the project is stated as: 'Total Project landholding increased by 34% to 26.28km².'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the project area is provided in the text: 'Total Project landholding increased by 34% to 26.28km².'"
+    },
+    "resource_size": {
+      "value": "195.7Mt grading 40.25g/t Ag and 0.32g/t Au for 253.3Moz of contained silver and 2.0Moz of contained gold (423Moz of contained silver equivalent)",
+      "justification": "The most recent resource estimate is provided in the text: 'The Project, which is proximal to the prolific Carlin Trend, hosts a JORC Inferred Mineral Resource of 195.7Mt grading 40.25g/t Ag and 0.32g/t Au for 253.3Moz of contained silver and 2.0Moz of contained gold (423Moz of contained silver equivalent)¹.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:SS1",
+      "justification": "The authoritative metadata provided the seller's ticker (CSE:ELEM). The text provides a clear ticker for the buyer, Sun Silver Limited, which must be used instead: 'ASX Announcement ASX: SS1'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Si2/84278.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Si2",
+      "justification": "The document title is 'K2 Gold Announces Agreement to Accelerate Acquisition of 100% of Si2 Project'."
+    },
+    "company_name": {
+      "value": "K2 Gold Corporation",
+      "justification": "The acquiring company is identified in the first sentence: 'K2 Gold Corporation (TSXV: KTO) ... today announced the signing of an agreement to acquire a 100% interest in the Si2 Project'."
+    },
+    "ceo_buyer": {
+      "value": "Anthony Margarit",
+      "justification": "A quote in the article is attributed to 'Anthony Margarit, K2's President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The press release states: 'K2 will acquire a 100% interest in Si2 by paying C$250,000 in cash or common shares of K2...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The document states: 'Si2 hosts an early-stage epithermal gold system within the Walker Lane Trend...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/237353",
+      "justification": "The article is about the Si2 project acquisition by K2 Gold. The source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/237353'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is specified in Canadian dollars: 'K2 will acquire a 100% interest in Si2 by paying C$250,000 in cash or common shares of K2...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The payment is a combined value that can be paid in either cash or shares, so this specific field is not applicable. The total consideration is captured in `cash_and_share_payments_combined_raw`."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is a combined value that can be paid in either cash or shares, so this specific field is not applicable. The total consideration is captured in `cash_and_share_payments_combined_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 250000,
+      "justification": "The agreement terms state: 'K2 will acquire a 100% interest in Si2 by paying C$250,000 in cash or common shares of K2, at the discretion of K2.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the agreement details."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the new transaction. The text refers to a 'now terminated Option Agreement'."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for any potential share issuance is not specified in the agreement details."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the new agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No new exploration commitment value is mentioned in the agreement. The text refers to past expenditures under a 'now terminated Option Agreement': 'incurred over C$2.3 million in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller will retain a royalty: 'Orogen will retain a 2% net smelter return (\"NSR\") royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 986,
+      "justification": "The project description states: 'The project is road accessible and consists of 118 BLM lode claims covering 986 Ha...'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The project description states: 'The project is road accessible and consists of 118 BLM lode claims covering 986 Ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not state a quantified mineral resource for the Si2 project itself. It describes the project as 'early-stage' and mentions resources of nearby analogue projects, but not for Si2."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KTO",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the article: 'K2 Gold Corporation (TSXV: KTO)'."
+    }
+  }
+}

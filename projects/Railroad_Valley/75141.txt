@@ -1,0 +1,103 @@
+--- Article Metadata ---
+Project Name: Railroad Valley
+Company Name: Canter Resources Corp
+Exchange: CSE
+Ticker: CRC
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+10.17.2024, 3:25:00 PM
+
+# Canter Completes Railroad Valley Acquisition
+
+Vancouver, British Columbia--(Newsfile Corp. - October 17, 2024) - **Canter Resources Corp. (CSE: CRC) (OTC Pink: CNRCF) (FSE: 6O1)** ("**Canter** " or the "**Company** ") is pleased to report that the Company's transaction to acquire the Railroad Valley claims ("**RV Project** "), as previously reported (see Company news release on September 12, 2024), has now closed. 
+
+The RV Project claim block is contiguous with ground controlled by the most active critical mineral explorer in Railroad Valley, 3 Proton Lithium or 3PL (private). Canter has compiled historical data and plans to complete follow up sampling at the RV Project (164 kilometres from the Company's exploration base in Tonopah) in Q4/2024.
+
+"We are excited to have expanded our lithium-boron exploration footprint in Nevada with this strategic acquisition in a highly prospective, yet underexplored area," commented Canter CEO, Joness Lang. "While our primary focus remains on advancing our flagship Columbus Project, we see value in adding low-cost, high-potential projects that strengthen our portfolio and align with our long-term growth strategy."
+
+Railroad Valley presents a geologically favourable environment for lithium-boron exploration due to several key geological features:
+
+**Paleozoic and Tertiary Rock Units** :
+
+  * The valley is flanked by **Paleozoic limestone and dolomite carbonate rocks**. These rocks are exposed in the **Pancake Range** to the west and the **Quinn Canyon** and **Grant Ranges** to the east.
+
+  * The east side of Railroad Valley is underlain by **Paleozoic rocks** , while the west side is dominated by **Tertiary volcanic rocks** at depths of up to 4,900 feet. These formations, particularly the volcanic units, are essential in hosting lithium deposits.
+
+
+
+
+[](https://images.newsfilecorp.com/files/10112/226911_8e06befd9473c855_001full.jpg)  
+  
+**Figure 1:**  Showing location of Canter's flagship Columbus and Railroad Valley (RV) lithium-boron projects in Nevada.
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10112/226911_8e06befd9473c855_001full.jpg>
+
+**Volcanic Calderas** :
+
+  * A major geologic feature of interest is the **Hot Creek Valley Caldera Complex** , located in the Pancake Range to the west of Railroad Valley. This complex consists of five individual calderas. Additionally, three more calderas are present on the southern side of the valley and one on the northern side.
+
+  * The presence of these volcanic calderas is considered highly favorable for lithium and boron exploration, as volcanic activity can lead to the concentration of these elements in the basin sediments.
+
+
+
+
+**Geologic Activity and Basin Characteristics** :
+
+  * The combination of the valley's **closed-basin structure** , underlying volcanic rocks, and **evaporation processes** creates ideal conditions for the concentration of lithium and boron in the playa areas and beneath the valley floor.
+
+
+
+For more information about boron and lithium, please visit the Company's [Boron 101](https://api.newsfilecorp.com/redirect/q8a2pCWrQy) and [Lithium 101](https://api.newsfilecorp.com/redirect/nVaWoc3N7X) pages on the website.
+
+Disclaimer: Mineralization at nearby or adjacent projects is not necessarily indicative of mineralization at the Company's Columbus Project. 
+
+**Qualified Person (QP)**
+
+The technical information contained in this news release was reviewed and approved by Eric Saderholm P.Geo, Director and Technical Advisor of Canter Resources, a Qualified Person (QP), as defined under National Instrument 43- 101 – Standards of Disclosure for Mineral Projects.
+
+**About Canter Resources Corp.**
+
+Canter Resources Corp. is a junior mineral exploration company advancing the Columbus Lithium-Boron Project and the Railroad Valley (RV) Lithium-Boron Project in Nevada, USA. The Company is completing a phased drilling approach at Columbus to test highly prospective brine targets at varying depths for lithium-boron enrichment and plans to leverage the Company's critical metals targeting database to generate a portfolio of high-quality projects with the aim of defining mineral resources that support the technology and domestic clean energy supply chains in North America.
+
+For further information contact:
+
+Joness Lang  
+Chief Executive Officer   
+Canter Resources Corp.   
+Tel: 778.382.1193  
+[jlang@canterresources.com](mailto:jlang@canterresources.com)
+
+For investor inquiries contact:
+
+Kristina Pillon, High Tide Consulting Corp.  
+Tel: 604.908.1695  
+[investors@canterresources.com](mailto:investors@canterresources.com)
+
+_The Canadian Securities Exchange has neither approved nor disapproved the contents of this news release. The Canadian Securities Exchange does not accept responsibility for the adequacy or accuracy of this news release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/226911](https://api.newsfilecorp.com/redirect/K8Y0LCr17O)
+
+### Project Name
+
+[Railroad Valley Project](/?gid=8572)
+
+--- Detailed Quote ---
+
+Last: 0.085            $  Chg: -0.005
+Open: 0.09            High: 0.09
+Bid: 0.085             Bid Size: 4000
+Beta: 28.7698            Year High: 0.25
+Market Cap: 4.55m      PB Ratio: 0.27
+EPS: -0.04             Average Volume (30 Day): 118.00k
+Volume: 90.50k          % Chg: -5.56%
+Prev. Close: 0.09     Low: 0.08
+Ask: 0.09             Ask Size: 31000
+VWAP: 0.08689            Year Low: 0.035
+Total Shares: 53.49m    Shares Out: 53.49m
+Float: 49.29m           Exchange: CSE

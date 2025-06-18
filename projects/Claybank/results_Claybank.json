@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Claybank/92366.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Claybank",
+      "justification": "The title of the article is 'Rockland Resources Acquires the Claybank Beryllium Project Near the Spor Mountain Beryllium Mine'."
+    },
+    "company_name": {
+      "value": "Rockland Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Rockland Resources Ltd. (the “Company” or \"Rockland\") (CSE: RKL)' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Michael England",
+      "justification": "The CEO of the buyer, Rockland Resources Ltd., is identified at the end of the article: 'On Behalf of the Board of Directors Michael England, CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states the 'acquisition of the Claybank Beryllium Project' but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Be",
+      "justification": "The project is named the 'Claybank Beryllium Project' and the text states 'Rockland Resources is advancing critical metals exploration and is specializing in beryllium at its strategically located Beryllium Butte and Claybank projects'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents. The content is verified to be about the Claybank project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payment component of the acquisition is explicitly denominated in USD: 'cumulative cash payments of $400,000 USD'."
+    },
+    "cash_payments_raw": {
+      "value": 400000,
+      "justification": "The terms of the acquisition call for 'cumulative cash payments of $400,000 USD'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition consideration consists of cash and warrants, not shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment amount is provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition consideration consists of cash and warrants, not the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions the granting of one million warrants but does not assign a raw monetary value to this part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The grant of 25,000 options is to a consultant and is not specified as part of the acquisition terms for the Claybank project. The text states: 'The Company also announces it has set 25,000 options to a consultant of the Company...'"
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition consideration, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a planned 'reconnaissance surface sampling and mapping program' but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "As part of the transaction, 'A 2.5% NSR will be granted to the vendor of which Rockland can purchase back, at any time, one percent for one million dollars USD.' This NSR is retained by the vendor."
+    },
+    "coverage_area_raw": {
+      "value": 16,
+      "justification": "The text states: 'The Claybank Beryllium Project consists of two unpatented claims with a contiguous area of roughly 16 hectares (40 acres).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Claybank Beryllium Project consists of two unpatented claims with a contiguous area of roughly 16 hectares (40 acres).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes a 'zone of beryllium mineralization' and historical drill intercepts but does not provide a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RKL",
+      "justification": "The buyer is identified in the text as 'Rockland Resources Ltd. (the “Company” or \"Rockland\") (CSE: RKL)'."
+    }
+  }
+}

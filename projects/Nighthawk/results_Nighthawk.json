@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Nighthawk/33770.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nighthawk",
+      "justification": "The text clearly states the project name in the headline: 'Bitterroot Resources Stakes the Nighthawk Gold Property in Nevada's Walker Lane Trend'."
+    },
+    "company_name": {
+      "value": "Bitterroot Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Bitterroot Resources Ltd. (TSXV:BTT) has staked the 163-claim Nighthawk Gold Property...'"
+    },
+    "ceo_buyer": {
+      "value": "Michael Carr",
+      "justification": "The CEO of the acquiring company is listed at the end of the article: 'Michael Carr, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article states that Bitterroot Resources Ltd. has full ownership: 'The 100%-owned Nighthawk Property covers approximately five square miles...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The article repeatedly refers to the project as a gold property: 'Nighthawk Gold Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/745099/Bitterroot-Resources-Stakes-the-Nighthawk-Gold-Property-in-Nevadas-Walker-Lane-Trend",
+      "justification": "The article is directly about the Nighthawk project being staked by Bitterroot Resources Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars. 'Bitterroot Resources Ltd. (TSXV:BTT)' and 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase. No cash consideration is mentioned in the article."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase. No share consideration is mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase. No combined cash and share consideration is mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the article."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the article."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase. No shares were issued, so there is no associated share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions future exploration plans but does not specify a commitment in terms of drilling meters: 'Management and its technical consultants are currently developing plans for ongoing exploration.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions future exploration plans but does not specify a monetary commitment: 'Management and its technical consultants are currently developing plans for ongoing exploration.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty is mentioned as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5,
+      "justification": "The article specifies the size of the property: 'The 100%-owned Nighthawk Property covers approximately five square miles...'"
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The unit for the coverage area is explicitly stated: 'The 100%-owned Nighthawk Property covers approximately five square miles...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article explicitly states there are no known drill holes on the property, implying no defined resource exists for Nighthawk. The resource mentioned belongs to an adjacent property: 'The Castle/Boss/Berg oxide gold deposits collectively host NI 43-101-compliant Inferred Resources of 20 million tonnes grading 0.49 g Au/t.' and 'there are no known drill holes' on the Nighthawk property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BTT",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Bitterroot Resources Ltd. (TSXV:BTT)'."
+    }
+  }
+}

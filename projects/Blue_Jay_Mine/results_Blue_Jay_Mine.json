@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Blue_Jay_Mine/51379.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue Jay Mine Project",
+      "justification": "The text refers to the project as: \"The Blue Jay Mine Project lies in San Juan County, Utah...\""
+    },
+    "company_name": {
+      "value": "C2C Metals Corp.",
+      "justification": "The text clearly identifies the acquiring company: \"C2C Metals Corp.(CSE: CTOC) (the \"Company\" or \"C2C\") reports today the acquisition of its second United States uranium project acquired through claim staking.\" This contradicts the authoritative metadata, but is directly supported by the article."
+    },
+    "ceo_buyer": {
+      "value": "Chris Huggins",
+      "justification": "The CEO of the acquiring company, C2C Metals Corp., is identified: \"Chris Huggins, Chief Executive Officer stated: 'The Blue Jay Mine Project is C2C's second uranium project...'\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The project was acquired via 'claim staking', and the text does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article describes the project as a uranium project: \"C2C Metals Corp. ... reports today the acquisition of its second United States uranium project...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/c2c-metals-corp-announces-acquisition-of-its-second-united-states-uranium-project-302105293.html",
+      "justification": "The article, titled 'C2C Metals Corp. Announces Acquisition of its Second United States Uranium Project', is about the 'Blue Jay Mine Project', which is the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired through claim staking, and no financial transaction details requiring a currency are provided in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through 'claim staking', not a cash purchase."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired through 'claim staking', not a share-based purchase."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired through 'claim staking', and no financial consideration is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired through 'claim staking', and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The project was acquired through 'claim staking', and no shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an exploration target but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention a Net Smelter Royalty (NSR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 560,
+      "justification": "The text states: \"C2C's Blue Jay Mine Uranium Property comprises 28 mineral claims covering about 560 acres...\""
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: \"C2C's Blue Jay Mine Uranium Property comprises 28 mineral claims covering about 560 acres...\""
+    },
+    "resource_size": {
+      "value": "110,000 pounds U3O8, at an average grade of about 0.25% U3O8, and an estimated 550,000 lbs. V2O5",
+      "justification": "The text describes a historical resource estimate: \"...a deposit on the property estimating about 110,000 pounds U3O8, at an average grade of about 0.25% U3O8... suggesting an estimated 550,000 lbs. V2O5 included with the estimated uranium resource.\" This is noted as a historical estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CTOC",
+      "justification": "The press release identifies the acquiring company and its ticker as: \"C2C Metals Corp.(CSE: CTOC)\". This contradicts the authoritative metadata but is directly supported by the article."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Rock_Creek_Mill/90129.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rock Creek Mill",
+      "justification": "The title of the press release is 'Almaden Enters into Agreement to Sell the Rock Creek Mill'."
+    },
+    "company_name": {
+      "value": "Metals Exploration PLC",
+      "justification": "The text identifies the buyer as Metals Exploration PLC: '...to sell certain assets comprising the Rock Creek Mill to Metals Exploration PLC (LSE AIM: MTL) (the “Purchaser”)...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text provides the name of the Chair for the seller (Almaden Minerals Ltd.), but does not mention the CEO or any executive for the buyer, Metals Exploration PLC."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text describes the transaction as a sale of 'certain assets comprising the Rock Creek Mill' but does not specify a percentage of interest being acquired."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The primary commodity is taken from the authoritative metadata provided in the prompt as it is not mentioned in the source text."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The purchase price is explicitly stated in US dollars: '...for a purchase price of US$9,700,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 9700000,
+      "justification": "The total purchase price is stated as 'US$9,700,000'. The text confirms this is a cash payment by detailing the payment installments: 'US$2,000,000 is due...', 'US$3,000,000 shall be paid...', 'US$2,000,000 shall be paid...', 'US$2,700,000 shall be paid...'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described entirely in terms of cash payments, with no mention of shares being issued as part of the purchase price."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly defined as cash, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or any other royalty is mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit is mentioned for the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of mineral resources for the Rock Creek Mill."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "LSE AIM:MTL",
+      "justification": "The text identifies the buyer and its ticker: 'Metals Exploration PLC (LSE AIM: MTL) (the “Purchaser”)'."
+    }
+  }
+}

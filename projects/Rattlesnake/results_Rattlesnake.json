@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Rattlesnake/53518.txt",
+    "projects/Rattlesnake/68709.txt",
+    "projects/Rattlesnake/82134.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rattlesnake",
+      "justification": "The authoritative project name is Rattlesnake. The text refers to the project as the 'Rattlesnake Hills Gold Project'."
+    },
+    "company_name": {
+      "value": "Axcap Ventures Inc.",
+      "justification": "The closing announcement identifies the buyer as 'Patriot Gold Vault Ltd., (“Patriot”) a wholly owned subsidiary of Axcap Ventures Inc. (“Axcap”)'."
+    },
+    "ceo_buyer": {
+      "value": "Mario Vetro",
+      "justification": "The text identifies a key person for the buyer: 'stated Mario Vetro, Co-Founder of Patriot.' Patriot Gold Vault is the acquiring entity."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text consistently states that 'Patriot will acquire a 100% interest in the Project'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is consistently referred to as the 'Rattlesnake Hills Gold Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "All financial considerations are specified in Canadian dollars, denoted as 'C$' throughout the transaction terms."
+    },
+    "cash_payments_raw": {
+      "value": 2700000,
+      "justification": "The total cash payment is C$2,700,000, which is the sum of four separate payments mentioned in the transaction terms: 'Cash payment of C$250,000 to GFG on signing of the binding LOI', 'Cash payment of C$250,000 to GFG upon the execution and delivery of a definitive agreement', 'a cash payment of C$1,200,000 to GFG' on closing, and an additional 'cash payment of C$1,000,000 on December 16, 2025'."
+    },
+    "share_payments_raw": {
+      "value": 600000,
+      "justification": "The transaction's total consideration is 'approximately C$3.3 million' and includes C$2.7 million in cash payments. The remaining C$600,000 is the value of the share component, which is consistent with the term stating the issuance of shares would be 'the greater of 3,000,000 common shares of Patriot... or $600,000 in value of Consideration Shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values are provided, so this combined field is not used per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is nulled because Priority 1 (explicit cash and share values) is used. While the closing announcement mentions the issuance of '3,061,224 common shares of Axcap', the primary financial terms are defined by value, not by the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is nulled because Priority 1 (explicit cash and share values) is used."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that 'Patriot will reimburse GFG for all costs and expenses relating to the Project', but this is a reimbursement of past/ongoing costs, not a forward-looking exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The total area of the project is not specified in the documents."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The total area of the project is not specified in the documents."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate. It mentions a future milestone payment 'If a National Instrument 43-101 resource estimate in the Project reveal a mineral resource of greater than 3,000,000 ounces of gold', which implies no such NI 43-101 compliant resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as Patriot Gold Vault Ltd., a subsidiary of Axcap Ventures Inc. The text provides a ticker for the seller, 'GFG Resources Inc. (TSXV: GFG)', but does not provide a ticker for the buyer (Patriot) or its parent company (Axcap)."
+    }
+  }
+}

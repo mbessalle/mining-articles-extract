@@ -1,0 +1,61 @@
+--- Article Metadata ---
+Project Name: Union Bay
+Company Name: Granite Creek Copper
+Exchange: CSE
+Ticker: PLTO
+Primary Commodity: Hydrogen
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.20.2024, 12:02:00 AM
+
+# Pluto Ventures Announces Letter of Intent to Acquire Rights to Alaska Mining Assets
+
+Vancouver, British Columbia--(Newsfile Corp. - December 19, 2024) - Pluto Ventures Inc. (CSE: PLTO) ("PLTO" or the "Company") is pleased to announce that the Company has entered into a Letter of Intent (the "LOI") dated effective December 19, 2024 to purchase all of the issued and outstanding shares of 1508260 B.C. Ltd. ("BC1508260"), which holds the rights to acquire a series of mineral claims located in Alaska known as the Union Bay property (the "Union Bay Property"), and resulting in the indirect acquisition of the right to acquire a 100% interest in the Union Bay Property (the "Proposed Transaction"), located in Alaska.
+
+**Principal Terms of the Proposed Transaction**
+
+In consideration for the acquisition of all outstanding shares of BC1508260, the Company shall issue 7,500,000 common shares of PLTO (the "Consideration Shares") and 4,500,000 common share purchase warrants (the "Consideration Warrants") entitling the holders to acquire an equivalent number of common shares of PLTO at a price of $0.35 for a period of thirty-six months. The Consideration Shares and the Consideration Warrants will be issued to the existing shareholders of BC1508260, pro rata based upon their existing interest in BC1508260.
+
+The Company is at arm's length from BC1508260 and the Union Bay Property vendors. Completion of the Proposed Transaction remains subject to a number of conditions, including: the satisfactory completion of due diligence on the Union Bay Project; the receipt of any required regulatory approvals, including the Canadian Securities Exchange; and the negotiation of definitive documentation. The Proposed Transaction cannot be completed until these conditions have been satisfied. There can be no guarantees that the Proposed Transaction will be completed as contemplated or at all.
+
+The Proposed Transaction is not expected to constitute a Fundamental Change for the Company (as defined in the policies of the Canadian Securities Exchange), nor is it expected to result in a change of control of the Company, within the meaning of applicable securities laws and the policies of the Canadian Securities Exchange.
+
+All securities issued pursuant to the Proposed Transaction will be issued under prospectus exemptions pursuant to National Instrument 45-106 – _Prospectus Exemptions_ of the Canadian Securities Administrators and may be subject to resale restrictions if imposed by applicable securities laws.
+
+**About the Company**
+
+Pluto Ventures Inc., headquartered in Vancouver, BC, Canada, is a mineral exploration company engaged in acquisition, exploration, and development of mineral properties. The Company's current principal project is the Dardanelle Project, which covers an area of 1,434 hectares located 23 kilometers east of Terrace, British Columbia.
+
+ON BEHALF OF THE BOARD OF DIRECTORS
+
+"Lawrence Tsang"
+
+Lawrence Tsang, President and Chief Executive Officer
+
+For further information, please contact the Company at (604) 688-9588
+
+Cautionary Statement Regarding "Forward-Looking" Information
+
+This news release includes certain statements that may be deemed "forward-looking statements". All statements in this new release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words "expects", "plans", "anticipates", "believes", "intends", "estimates", "projects", "potential" and similar expressions, or that events or conditions "will", "would", "may", "could" or "should" occur. Forward-looking statements in this news release include statements related to the Proposed Transaction, satisfaction of the conditions precedent to the Proposed Transaction, and the acquisition of the Union Bay Property and related matters. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward- looking statements. Factors that could cause the actual results to differ materially from those in forward-looking statements include market prices, continued availability of capital and financing, and general economic, market or business conditions. Investors are cautioned that any such statements are not guarantees of future performance and actual results or developments may differ materially from those projected in the forward-looking statements. Forward-looking statements are based on the beliefs, estimates and opinions of the Company's management on the date the statements are made. Except as required by applicable securities laws, the Company undertakes no obligation to update these forward-looking statements in the event that management's beliefs, estimates or opinions, or other factors, should change.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/234608](https://api.newsfilecorp.com/redirect/ZApXmFxOPX)
+
+### Project Name
+
+[Union Bay Project](/?gid=9334)  
+Alaska, United States
+
+--- Detailed Quote ---
+
+Last: 0.19                       Bid: 0.13
+Bid Size: 500                   Beta: 23.26756
+Year High: 0.49                  Market Cap: 4.11m
+Average Volume (30 Day): 8,751    Prev. Close: 0.19
+Ask: 0.18                        Ask Size: 500
+VWAP: 0.19                       Year Low: 0.055
+Total Shares: 21.61m               Shares Out: 21.61m
+Float: 19.31m                      Exchange: CSE

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Yuma_King/83621.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yuma King",
+      "justification": "The article is titled 'Corcel Completes Acquisition of the Yuma King Property in Arizona' and refers to the property throughout the text."
+    },
+    "company_name": {
+      "value": "Corcel Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Corcel Exploration Inc. (CSE: CRCL) (the \"Company\" or \"Corcel\")'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Dunn",
+      "justification": "The contact for Corcel Exploration Inc. is listed as 'Stephen Dunn Interim Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Corcel acquired 100% of CuQuest Resources Corp., and 'CuQuest holds the right to acquire a 100% interest in the Yuma King Property'."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The authoritative primary commodity for this project is Cu. The target company name 'CuQuest Resources Corp.' also suggests copper ('Cu')."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236522",
+      "justification": "The article title is 'Corcel Completes Acquisition of the Yuma King Property in Arizona', which directly matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Corcel Exploration Inc., is listed on the Canadian Securities Exchange (CSE) and the transaction share price is denoted with a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was paid for with shares, not cash. The text states the company issued 15,000,000 common shares."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction details are provided as a number of shares and a price per share, which are populated in their respective fields (`amount_of_shares_issued` and `issued_share_price`) according to the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details are provided as a number of shares and a price per share, not a combined value, according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 15000000,
+      "justification": "In connection with the Acquisition, the Company issued an aggregate of 15,000,000 common shares in the capital of the Company (the \"Payment Shares\")..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": 0.09,
+      "justification": "...at a deemed price of $0.09 per Payment Share."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": null
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": null
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource for the Yuma King project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRCL",
+      "justification": "The text identifies the buyer as 'Corcel Exploration Inc. (CSE: CRCL)'."
+    }
+  }
+}

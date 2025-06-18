@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Vanadium_Queen/49897.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Vanadium Queen",
+      "justification": "The project is explicitly named in the 'Project Name' section at the end of the document: 'Project Name [Vanadium Queen Project](/?gid=6473)'."
+    },
+    "company_name": {
+      "value": "Sassy Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Sassy Gold Corp. (\"Sassy\" or the \"Company\") (CSE:SASY) (OTCQB:SSYRF) (FSE:4E7) is pleased to announce that it has signed binding letters of intent... to acquire a total of fifteen (15) advanced uranium properties...'"
+    },
+    "ceo_buyer": {
+      "value": "Mark Scott",
+      "justification": "The CEO of the acquiring company is identified in the 'CEO Comments' section: 'Mark Scott, Sassy's President and CEO, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states Sassy will 'acquire' the properties, but does not specify the percentage of interest being acquired."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The authoritative primary commodity is U, and the article title is 'Sassy To Acquire Advanced Uranium Properties in Utah and Colorado'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/838058/sassy-to-acquire-advanced-uranium-properties-in-utah-and-colorado",
+      "justification": "The article announces the acquisition of a portfolio of 15 uranium properties, and the document explicitly lists the 'Vanadium Queen Project' as one of the projects involved."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is explicitly stated in the transaction terms and in a concluding note: 'Sassy will pay a total value of $8,391,326 USD...' and 'All currency within the news release is intended to be in USD, unless otherwise stated.'"
+    },
+    "cash_payments_raw": {
+      "value": 159855.47,
+      "justification": "The value is calculated as the project's 1/15th share of the total cash consideration. Total cash is $2,097,832 upfront plus a potential $300,000 in PEA bonuses ($100,000 for each of the three LOIs), totaling $2,397,832. $2,397,832 / 15 properties = $159,855.47. Source text: 'a total of $2,097,832 USD will be paid in cash' and 'each LOI includes a provision which will pay a maximum of one \"PEA Bonus\" per LOI, in the amount of $100,000 cash'."
+    },
+    "share_payments_raw": {
+      "value": 419566.3,
+      "justification": "The value is calculated as the project's 1/15th share of the total share consideration. The total transaction value is $8,391,326 USD, with 75% payable in shares, equating to $6,293,494.50. $6,293,494.50 / 15 properties = $419,566.30. Source text: 'Sassy will pay a total value of $8,391,326 USD... with 75% of the Transaction's value payable in Shares.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Data was populated into the separate cash and share payment fields as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares for the main transaction is not yet determined, as stated: 'The value and number of the Shares will be determined by the price of the financing completed immediately prior to the closing of the Transaction'. While a PEA bonus includes shares, the primary transaction share amount is unknown, so this field is left null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price for the transaction is not yet determined: 'The value and number of the Shares will be determined by the price of the financing completed immediately prior to the closing of the Transaction'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The vendors retained a 1% gross royalty, which is treated as an NSR for this field. 'The Vendors maintain a 1% gross royalty on most of the properties...'"
+    },
+    "coverage_area_raw": {
+      "value": 546.67,
+      "justification": "The value is calculated as the project's 1/15th share of the total 8,200 acre area for the 15 properties acquired. 8,200 / 15 = 546.67. Source text: 'All of these properties, comprising 8,200 acres or 33 sq. km...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the total area is specified as acres. 'All of these properties, comprising 8,200 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the acquired properties. It states, 'A Qualified Person (as defined in NI 43-101) has not done sufficient work to verify the historical drilling data... Sassy is not treating the historical data as current and it should not be relied upon.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SASY",
+      "justification": "The buyer, Sassy Gold Corp., is identified with the ticker and exchange '(CSE:SASY)' in the first paragraph of the press release."
+    }
+  }
+}

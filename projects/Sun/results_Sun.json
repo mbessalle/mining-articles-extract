@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Sun/52929.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sun Uranium Project",
+      "justification": "C2C Metals Corp. (CSE: CTOC) today reports the acquisition, through staking, of the Sun Uranium Project located in easternmost Utah..."
+    },
+    "company_name": {
+      "value": "C2C Metals Corp.",
+      "justification": "The article clearly identifies the acquiring company: 'C2C Metals Corp. (CSE: CTOC) today reports the acquisition, through staking, of the Sun Uranium Project'. This contradicts the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": "Jason Bagg",
+      "justification": "The Company also advises that Jason Bagg, Chief Executive Officer, will present on Tuesday April 30th, 2024..."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking', which typically implies 100% interest, but no specific percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "C2C Metals Stakes Uranium Claims in the Prolific Uravan District, Utah"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/c2c-metals-stakes-uranium-claims-in-the-prolific-uravan-district-utah-302131100.html",
+      "justification": "The article is titled 'C2C Metals Stakes Uranium Claims in the Prolific Uravan District, Utah' and describes the acquisition of the Sun Uranium Project by C2C Metals Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, C2C Metals Corp., is listed on the Canadian Securities Exchange (CSE: CTOC) and based in Vancouver, BC. The currency is inferred to be Canadian Dollars (CAD) as is common for companies on this exchange."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking' and no cash consideration paid to a third party is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking' and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking' and no combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was 'through staking' and no issuance of shares is mentioned as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a recommendation for future exploration but does not specify a binding financial commitment for the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4,
+      "justification": "The Sun Uranium Property consists of 120 claims, covering almost 4 square miles..."
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The Sun Uranium Property consists of 120 claims, covering almost 4 square miles..."
+    },
+    "resource_size": {
+      "value": "32,100 lbs. U3O8, at an average grade of 0.20% U3O8",
+      "justification": "An early non-compliant historical resource estimate made using data from the 23 drill holes was 32,100 lbs. U3O8, at an average grade of 0.20% U3O8."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CTOC",
+      "justification": "The buyer is identified in the text as 'C2C Metals Corp. (CSE: CTOC)'."
+    }
+  }
+}

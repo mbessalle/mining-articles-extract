@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/South_Mountain/45817.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Mountain",
+      "justification": "The text states: 'Thunder Mountain Gold, Inc. ... announced today that it has purchased an additional 56 acres of strategic land at the Company`s South Mountain Project.'"
+    },
+    "company_name": {
+      "value": "Thunder Mountain Gold, Inc.",
+      "justification": "The acquiring company is identified as 'Thunder Mountain Gold, Inc. (OTCQB: THMG) (TSXV: THM) (the \"Company\" or \"THMG\")'."
+    },
+    "ceo_buyer": {
+      "value": "Eric T. Jones",
+      "justification": "The text identifies the CEO of the buyer: 'Eric T. Jones, President and CEO of Thunder Mountain Gold Inc. commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction was for the purchase of land ('purchased an additional 56 acres of strategic land'), not a percentage interest in the project itself."
+    },
+    "primary_commodity": {
+      "value": "Zn",
+      "justification": "The text states: 'The South Mountain Mine is a polymetallic development project focused on high-grade zinc, silver, gold, and copper...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/190897",
+      "justification": "The source link is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/190897'"
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The purchase price is given as '$50,000'. The currency is inferred to be USD as the project is in Idaho, U.S.A., and a prior expenditure on the project is explicitly stated in US dollars: 'expenditures into the project of approximately US$20 million'."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The text states the terms of the purchase: 'Terms of the purchase were $50,000 plus closing costs.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash only, as stated in the terms: 'Terms of the purchase were $50,000 plus closing costs.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly for cash, so this field is not applicable as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was for cash only; no shares were issued as payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned as part of this transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 56,
+      "justification": "The text states the company 'has purchased an additional 56 acres of strategic land at the Company`s South Mountain Project.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states the company 'has purchased an additional 56 acres of strategic land at the Company`s South Mountain Project.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The press release mentions an 'updated Mineral Resource Estimate' but does not provide the specific tonnage or grade figures for it, stating a technical report will be filed later. The text only provides historical production data ('approximately 53,642 tons of mineralized material has been mined to date'), which is not a current mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:THM",
+      "justification": "The text identifies the company's listings: 'Thunder Mountain Gold, Inc. (OTCQB: THMG) (TSXV: THM)'. The 'Detailed Quote' section also confirms 'Exchange: TSXV'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Kaycee/43079.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kaycee",
+      "justification": "The authoritative project name is Kaycee, and the text confirms this: 'Nuclear Fuels Announces Kaycee Uranium Project Expanded to 42+ Square Miles'."
+    },
+    "company_name": {
+      "value": "Nuclear Fuels Inc.",
+      "justification": "The buyer is identified in the text: 'Nuclear Fuels Inc. (CSE:NF) (“Nuclear Fuels” or the “Company”) announced today that Nuclear Fuels has expanded its Kaycee Uranium Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Michael Collins",
+      "justification": "The CEO of the buyer, Nuclear Fuels Inc., is named in the text: 'Michael Collins, our Chief Executive Officer, and I are excited at the opportunity presented with drilling at the Kaycee Project this Fall...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article announces an expansion of land holdings, not the acquisition of a percentage interest from another company. It mentions a past deal where 'Nuclear Fuels acquired the Kaycee Project from enCore Energy Corp.', but does not specify the percentage. It only mentions enCore's future back-in right."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text repeatedly refers to the project as a uranium project, for example: 'Nuclear Fuels Announces Kaycee Uranium Project Expanded to 42+ Square Miles'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The detailed quote section lists the company's exchange as the Canadian Securities Exchange ('Exchange: CSE'), which uses Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about a project expansion and drilling program, not an M&A transaction involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The announcement is about a project expansion and drilling program, not an M&A transaction involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The announcement is about a project expansion and drilling program, not an M&A transaction involving a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The announcement does not mention any issuance of shares as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The announcement does not mention any issuance of shares, so there is no associated price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a '200 hole rotary drill program' but does not specify a total meterage commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a 'fully-funded 200 hole rotary drill program' but does not provide a specific monetary value for the commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the project details or any transaction."
+    },
+    "coverage_area_raw": {
+      "value": 42,
+      "justification": "The text states the total area of the project: 'The Kaycee Project, in Wyoming’s prolific Powder River Basin (“PRB”) now extends more than 33-miles along trend with over 110 miles of identified roll fronts and consists of more than 42 square miles of mineral rights.'"
+    },
+    "coverage_area_unit": {
+      "value": "square miles",
+      "justification": "The unit for the coverage area is explicitly mentioned: '...consists of more than 42 square miles of mineral rights.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates that a resource has not yet been established and that this is a future goal: '...upon Nuclear Fuels establishing a minimum 15 million pound U3O8 43-101 compliant resource.' and '...statements relating to planned exploration programs and the results of additional exploration work in seeking to establish mineral resources as defined in NI43-101 on any of our properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NF",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Nuclear Fuels Inc. (CSE:NF) (“Nuclear Fuels” or the “Company”)...'"
+    }
+  }
+}

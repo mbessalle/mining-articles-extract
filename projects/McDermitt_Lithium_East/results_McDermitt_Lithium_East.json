@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/McDermitt_Lithium_East/41080.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McDermitt Lithium East",
+      "justification": "The title of the article is 'USCM Enters Into Exploration and Option Agreement on McDermitt Lithium East Project'."
+    },
+    "company_name": {
+      "value": "US Critical Metals Corp.",
+      "justification": "The buyer is identified in the first paragraph: 'US Critical Metals Corp. (CSE: USCM) (OTCQB: USCMF) (FSE: 0IU0) (\"USCM \" or the \"Company \") is pleased to announce that it has, along with its wholly-owned subsidiary, US Energy Metals Corp. (\"USEM \"), entered into an Exploration and Option to Enter Joint Venture Agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Darren Collins",
+      "justification": "The contact information at the end of the article lists: 'Darren Collins Chief Executive Officer & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement provides an option for a total of 75% interest through a two-stage process: '...providing the Company with the option to acquire up to a 50% interest in the Project and a further option to acquire an additional 25% interest for an aggregate total of 75% interest in the Project...'"
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is named the 'McDermitt Lithium East Project' and the text states, 'McDermitt Caldera is potentially the largest source of lithium clays in the world.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180964",
+      "justification": "The article is about the McDermitt Lithium East Project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms consistently use 'CAD$' as the currency for payments and expenditures, for example: 'CAD$50,000 within 5 business days...' and 'initial CAD$1,500,000 in exploration expenditures'."
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The total cash payment is the sum of two conditional payments: CAD$50,000 upon CSE acceptance and CAD$100,000 after the second year. 'CAD$50,000 within 5 business days after the CSE's acceptance of the Option Agreement; if USEM elects to continue the Option Agreement in effect after the Second Year Deadline, CAD$100,000 within 10 business days after the Second Year Deadline'."
+    },
+    "share_payments_raw": {
+      "value": 1300000,
+      "justification": "The total share payment value is the sum of three components required to earn the full 75% interest: CAD$100,000, CAD$200,000, and CAD$1,000,000. 'Shares having a value of CAD$100,000 on the CSE's acceptance...'; 'Shares having a value of CAD$200,000 within 10 business days after the Second Year Deadline.'; and to get the additional 25% interest, 'by issuing Shares having a value of CAD$1,000,000 within 10 business days after the Additional Earn-in Deadline.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values are provided, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of shares to be issued is specified, but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified, so a price per share cannot be determined from the deal terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 9500000,
+      "justification": "The total exploration commitment to earn the full 75% interest is the sum of CAD$4,500,000 (for the first 50%) and CAD$5,000,000 (for the next 25%). '...an initial CAD$1,500,000... and an additional CAD$3,000,000... for a total of CAD$4,500,000...' and 'incurring and paying additional exploration expenditures in the amount of CAD$5,000,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The seller (LVH) retains a royalty if its interest is diluted: 'If at any time LVH's participating interest in the joint venture is diluted to below 10%, LVH's interest will be deemed to have been withdrawn and been converted into a 3.0% net smelter returns mineral production royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 6508,
+      "justification": "The Project Overview section states: 'The Project spans 6,508 acres of BLM claims and is located within the McDermitt Caldera...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The Project Overview section states: 'The Project spans 6,508 acres of BLM claims and is located within the McDermitt Caldera...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the McDermitt Lithium East project. It mentions a resource for a nearby, different project: 'Thacker Pass, which is the largest known lithium deposit in the US and one of the largest in the world with 3.7 million tonnes of lithium carbonate equivalent reserves'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:USCM",
+      "justification": "The buyer's name is followed by its ticker and exchange in the first paragraph: 'US Critical Metals Corp. (CSE: USCM)'."
+    }
+  }
+}

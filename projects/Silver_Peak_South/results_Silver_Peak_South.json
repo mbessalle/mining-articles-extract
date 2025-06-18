@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Silver_Peak_South/36525.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Silver Peak South Lithium Project",
+      "justification": "The article is titled 'Sienna Completes the Acquisition of the \"Silver Peak South Lithium Project\" in Clayton Valley, Nevada'."
+    },
+    "company_name": {
+      "value": "Sienna Resources Inc.",
+      "justification": "The acquiring company is identified in the first paragraph: 'Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) (\"Sienna\" or the \"Company\") is pleased to announce that it has completed the acquisition of the Silver Peak South Lithium Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "The press release is signed by '\"Jason Gigliotti\" President, Director Sienna Resources Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Sienna 'completes the acquisition', but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text explicitly states the project is prospective for lithium and is named the 'Silver Peak South Lithium Project'. 'The SPSLP is prospective for lithium and consists of approximately 1750 contiguous acres.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/169724",
+      "justification": "The article, titled 'Sienna Completes the Acquisition of the \"Silver Peak South Lithium Project\" in Clayton Valley, Nevada', is directly about the project of interest. The source link is provided at the end of the article."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not provide any financial details regarding the acquisition transaction, so the currency cannot be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article states the acquisition was completed 'pursuant to the terms of the option agreement that was announced on December 14, 2022', but does not disclose the financial terms of that agreement."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article states the acquisition was completed 'pursuant to the terms of the option agreement that was announced on December 14, 2022', but does not disclose the financial terms of that agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article states the acquisition was completed 'pursuant to the terms of the option agreement that was announced on December 14, 2022', but does not disclose the financial terms of that agreement."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a share price associated with the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in meters for the Silver Peak South project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment value for the Silver Peak South project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1750,
+      "justification": "The text states: 'The SPSLP is prospective for lithium and consists of approximately 1750 contiguous acres.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: 'The SPSLP is prospective for lithium and consists of approximately 1750 contiguous acres.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not provide a mineral resource estimate for the Silver Peak South project. It only states that the project is 'prospective for lithium'. The mention of 'Lithium values as high as 1230 ppm Li' refers to the separate Blue Clay Lithium Project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIE",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Sienna Resources Inc. (TSXV: SIE)...'"
+    }
+  }
+}

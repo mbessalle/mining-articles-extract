@@ -1,0 +1,127 @@
+--- Article Metadata ---
+Project Name: Bell Mountain
+Company Name: Lincoln Gold Mining Inc.
+Exchange: TSXV
+Ticker: LMG
+Primary Commodity: Au
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.6.2025, 9:00:00 PM
+
+# Lincoln Gold Acquires the Bell Mountain Gold-Silver Project
+
+**VANCOUVER, BC / ACCESSWIRE / January 6, 2025 /****Lincoln Gold Mining Inc. (TSX.V:LMG)** ("**Lincoln Gold** " or the "**Company** ") is pleased to announce that is has closed the previously announced acquisition (the "**Acquisition** ") of all of the assets that comprise the Bell Mountain Gold/Silver Project (the "**Project** " or "**Bell Mountain** ") pursuant to an agreement (the "**Agreement** ") dated November 3, 2023, as amended on January 8, 2024, March 15, 2024, May 31, 2024, August 15, 2024, November 15, 2024 and December 29, 2024, with Lincoln Resource Group Corp., a wholly-owned subsidiary of the Company, Eros Resources Corp. ("**Eros** ") and Bell Mountain Exploration Corp. ("**BMEC** " and together with Eros, the "**Seller** "), a wholly-owned subsidiary of Eros. Upon completing the Acquisition, Lincoln holds a 100% interest in the Project, located in Churchill County, Nevada.
+
+The Company issued to Eros 3,000,000 common shares in the capital of the Company ("**Shares** ") upon closing the Acquisition. Pursuant to the Agreement, the Company agreed to issue to Eros an additional 1,500,000 Shares within five business days of the date on which Lincoln completes any issuance of Shares, the result of which is that there are at least 28,500,000 Shares issued and outstanding. As a result of the Acquisition, Eros is now an insider of the Company. Lincoln Resource Group Corp. also granted to BMEC a net profits interest of 7.5% of the net returns from gold and silver produced or extracted from the Project up to a maximum amount of US$2,000,000. No finder's fees were paid in connection with the Acquisition.
+
+The Company is proceeding with discussions with various financial institutions for the capital required to take Bell Mountain through construction and into startup. The Company expects it will take approximately eight to 10 months to complete construction once funding has been arranged and then move into the initial gold/silver mineralization placement and leaching process.
+
+**Filing PEA on Bell Mountain Project**
+
+The Company also reports on the filing of an independent technical report in accordance with National Instrument 43-101 - _Standards of Disclosure for Mineral Projects_ ("**NI 43-101** ") on the Project. The Technical Report, titled "NI 43-101 Technical Report on the Bell Mountain Project, Updated Preliminary Economic Assessment, Churchill County, Nevada, USA" dated January 6, 2025 (effective date of July 23, 2024) (the "**PEA** ") was completed by John D. Welsh, PE; Douglas W. Willis, CPG; Randall K. Martin, SME-RM; and Carl C. Nesbitt, SME-RM, and is available on SEDAR+ (www.sedarplus.ca) under Lincoln's issuer profile.
+
+The PEA describes how the process works and how gold is produced in a heap leach operation. The economic base case is considered realistic and shows a robust cash flow. A gold price of $2,200/oz and a silver price of $24.00/oz were chosen for the base case economic evaluation. Up to date capital and operating costs were used.
+
+The following table has been taken from the PEA:
+
+| **_Pre-tax_**| ** _After Tax_**  
+---|---|---  
+Internal Rate of Return (1)| 63.2%| 59.6%  
+NPV @ 5% Discount Rate (US$M)| $25.69| $24.06  
+Net Cash Flow (US$M)| $29.71| $27.97  
+Net Operating Margin (oz Au Eq)| $535.97| $504.52  
+Payback Period| ~10 Months| ~11 Months  
+  
+(1) Internal Rate of Return ("IRR") is a metric used in financial analysis to estimate the profitability of potential investments. IRR is a discount rate that makes the net present value ("NPV") of all cash flows equal to zero in a discounted cash flow analysis. IRR calculations rely on the same formula as NPV does. IRR is not the actual dollar value of the project; it is the annual return that makes the NPV equal to zero. Generally speaking, the higher an internal rate of return, the more desirable an investment is to undertake.
+
+Paul Saxton, President and CEO stated. "This milestone allows Lincoln to proceed to acquire the funding necessary to complete the design details and the start of construction at the Bell Mountain. Much of the detail design work has been completed already. In addition, we plan on continuing the permitting at Pine Grove and carrying on with exploration on both properties, especially around the four defined deposits at Bell Mountain."
+
+The PEA is preliminary in nature. It includes inferred mineral resources that are considered too speculative geologically to have the economic considerations applied to them that would enable them to be characterized as mineral reserves, and there is no certainty that the PEA will be realized. The current basis of project information is not sufficient to convert the mineral resources to mineral reserves. Mineral resources that are not mineral reserves do not have demonstrated economic viability.
+
+A technical economic model has been developed on an annual basis to assess the economic potential of the Project. The basis for the PEA is to demonstrate the economic potential of the Project. The PEA results are intended as a review of the potential Project economics based on preliminary information.
+
+**Private Placement**
+
+Lincoln also announces it has closed a non-brokered private placement (the "**Private Placement** ") of four convertible debenture units (the "**Note Units** ") for gross proceeds of C$140,000. Each Note Unit is comprised of one unsecured convertible debenture of the Company (each, a "**Note** ") and such number of common share purchase warrants in the capital of the Company ("**Warrants** ") equal to the Principal (as hereinafter defined) divided by the Conversion Price (as hereinafter defined). Each Warrant is exercisable into one common share in the capital of the Company (a "**Common Share** ") at an exercise price of C$0.35 for a period of 24 months from the date of issuance. A total of 933,333 Warrants were issued in the Private Placement.
+
+The Notes have a maturity date (the "**Maturity Date** ") of 24 months from the date of issuance, unless previously converted in accordance with the terms of the Notes. From and after the date of issue of the Notes until the Maturity Date, any principal amount (the "**Principal** ") may be converted, at the option of the Note holder, into Common Shares at a conversion price of C$0.15 per Common Share (the "**Conversion Price** "). A maximum of 933,333 Common Shares will be issuable assuming the aggregate Principal amount under each Note is converted by the Note holders.
+
+Interest on the Notes will accrue at a rate of 18% per annum (the "**Interest** "), subject to adjustments, payable at maturity of the Notes. Subject to the approval of the TSXV, the Company may elect to convert any portion of the accrued and outstanding Interest into Common Shares, which will be issued at the closing price of the Common Shares on the TSXV on the last trading day immediately prior to the announcement of such conversion.
+
+Within 10 days of the Maturity Date, the Note holder may elect, at its sole option, to have the then outstanding Principal repaid in cash or converted into Common Shares, in accordance with the terms of the Note and by providing the Company with written notice of such election.
+
+The Company intends to use the proceeds from the Private Placement on exploration and development of the Bell Mountain Project and for general working capital and corporate purposes. No finder's fees were paid in connection with the Private Placement.
+
+All securities issued in connection with the Private Placement will be subject to a four-month hold period from the date of issue under applicable Canadian securities laws, in addition to such other restrictions as may apply under applicable securities laws of jurisdictions outside Canada.
+
+**Advance Notice Policy**
+
+The Company further announces that the board of directors (the "**Board** ") of the Company approved an advance notice policy (the "**Advance Notice Policy** ") on December 24, 2024 with effect as of such date. The Advance Notice Policy includes, among other things, a provision that requires advance notice be given to the Company in circumstances where nominations of persons for election to the Board are made by shareholders of the Company other than pursuant to: (i) a requisition of a meeting made pursuant to the provisions of the Business Corporations Act (British Columbia) (the "**BCA** "); or (ii) a shareholder proposal made pursuant to the provisions of the BCA.
+
+Additionally, the Advance Notice Policy sets a deadline by which holders of record of Common Shares must submit director nominations to the Company prior to any annual general or special meeting of shareholders, sets forth the information that a shareholder must include in the notice to the Company, and establishes the form in which the shareholder must submit the notice for that notice to be in proper written form.
+
+In the case of an annual general meeting of shareholders, notice to the Company must be made not less than 30 days prior to the date of the annual general meeting. However, in the event that the annual general meeting is to be held on a date that is less than 50 days after the date on which the first public announcement of the date of the annual general meeting was made, notice may be made not later than the close of business on the tenth (10th) day following such public announcement.
+
+In the case of a special meeting of shareholders (which is not also an annual general meeting) notice to the Company must be made not later than the close of business on the fifteenth (15th) day following the day on which the first public announcement of the date of the special meeting was made.
+
+Notwithstanding the foregoing, the Board may, in its discretion, waive any requirement set out in the Advance Notice Policy.
+
+The full text of the Advance Notice Policy is available under the Company's profile on SEDAR+ at www.sedarplus.ca.
+
+**About Lincoln Gold Mining Inc.:**
+
+Lincoln is a Canadian precious metals exploration and development company headquartered in Vancouver, BC. Lincoln holds interest in Pine Grove gold project, an area covering 7.2 square miles (18.1 square kilometers), located in Lyon County, Nevada and the Bell Mountain gold-silver project covering 5.65 square miles (14.63 square kilometres) is in Churchill County, Nevada renowned for being a mining-friendly jurisdiction. Both projects are in close proximity to each other in the highly prospective Walker Lane mineral belt, known for its numerous gold and silver deposits. Lincoln is committed to maintaining steady and robust progress towards its goal of becoming a mid-tier gold producer.
+
+**Disclosure**
+
+Paul Saxton, P.Eng., President and CEO of the Company, is a Qualified Person as defined by NI 43-101. Mr. Saxton has reviewed and approved the technical information in this news release.
+
+**For further information, please contact:**
+
+**Lincoln Gold Mining Inc.**  
+Paul Saxton, President and Chief Executive Officer  
+Phone: 604-688-7377   
+Email: [saxton@lincolnmining.com](mailto:saxton@lincolnmining.com)
+
+**Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+_**Cautionary Note Regarding Forward-Looking Statements**_
+
+ _This news release contains "forward-looking information" within the meaning of applicable Canadian securities legislation. "Forward-looking information" includes, but is not limited to, statements with respect to the activities, events or developments that the Company expects or anticipates will or may occur in the future, including expectations regarding the Company's strategy and exploration and development plans, the timing thereof, and the use of proceeds from the Private Placement._
+
+_Generally, but not always, forward-looking information and statements can be identified by the use of words such as "plans", "expects", "is expected", "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates", or "believes" or the negative connotation thereof or variations of such words and phrases or state that certain actions, events or results "may", "could", "would", "might" or "will be taken", "occur" or "be achieved" or the negative connation thereof. Such forward-looking information and statements are based on numerous assumptions, including among others, assumptions regarding general business and economic conditions, the Company's strategy and exploration and development plans, the Company's ability to raise additional capital, the use of proceeds of the Private Placement and the timing upon which the Company will complete its anticipated activities at the Project on the timeline currently expected._
+
+_Although the assumptions made by the Company in providing forward-looking information or making forward-looking statements are considered reasonable by management at the time, there can be no assurance that such statements will prove to be accurate and actual results and future events could differ materially from those anticipated in such statements. Important factors that could cause actual results to differ materially from the Company's plans or expectations include that the Company will not use the proceeds of the Private Placement as currently anticipated, that exploration and development activities at the Project will not be completed on the timeline currently anticipated, or at all, that the Company will not be able to raise additional capital, risks relating to the actual results of current exploration activities, fluctuating gold prices, possibility of equipment breakdowns and delays, exploration cost overruns, availability of capital and financing, general economic, market or business conditions, regulatory changes, timeliness of government or regulatory approvals and other risks detailed herein and from time to time in the filings made by the Company with securities regulators._
+
+_Although the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in the forward-looking information or implied by forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that forward-looking information and statements will prove to be accurate, as actual results and future events could differ materially from those anticipated, estimated or intended. Accordingly, readers should not place undue reliance on forward-looking statements or information._
+
+**SOURCE:** Lincoln Gold Mining Inc.
+
+  
+  
+View the original [press release](https://www.accesswire.com/964465/lincoln-gold-acquires-the-bell-mountain-gold-silver-project) on accesswire.com  
+  
+
+
+### Project Name
+
+[Bell Mountain Project](/?gid=5738)
+
+--- Detailed Quote ---
+
+Last: 0.16            $  Chg: 0.005
+Open: 0.16            High: 0.16
+Bid: 0.145             Bid Size: 8500
+Beta: 0.93399            Year High: 0.35
+Market Cap: 3.61m      PB Ratio: -1.53
+EPS: -0.10             Average Volume (30 Day): 8,136
+Volume: 33.50k          % Chg: 3.23%
+Prev. Close: 0.155     Low: 0.16
+Ask: 0.16             Ask Size: 500
+VWAP: 0.16            Year Low: 0.11
+Total Shares: 22.56m    Shares Out: 22.56m
+Float: 22.43m           Exchange: TSXV

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Beartrack-Arnett/49216.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beartrack-Arnett",
+      "justification": "The text refers to the project as 'the Company’s Beartrack-Arnett Gold Project (“Beartrack-Arnett”) located in Idaho, USA.'"
+    },
+    "company_name": {
+      "value": "Revival Gold Inc.",
+      "justification": "The company is identified as 'Revival Gold Inc. (TSXV: RVG, OTCQX: RVLGF) (“Revival Gold” or the “Company”).'"
+    },
+    "ceo_buyer": {
+      "value": "Hugh Agro",
+      "justification": "The text quotes 'Hugh Agro, President & CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an expansion of land position via staking claims ('Fifty-seven lode claims encompassing 476 hectares have been staked'), not the acquisition of a percentage interest from another company."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is referred to as the 'Beartrack-Arnett Gold Project' and the resource is quantified in 'g/T gold'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents. The content of the document is verified to be about the Beartrack-Arnett project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange ('TSXV: RVG') and the detailed quote section uses a '$' symbol, which implies Canadian Dollars (CAD) for a Canadian exchange."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a land expansion via staking claims, not a purchase from another entity, so no cash payment was made."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a land expansion via staking claims, not a purchase from another entity, so no share payment was made."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is a land expansion via staking claims, not a purchase from another entity, so no combined payment was made."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is a land expansion via staking claims, not a purchase from another entity, so no shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the land expansion."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the land expansion."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is a land expansion via staking claims, not a purchase from another entity, so no shares were issued as consideration, and thus there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article discusses past and future drilling but does not mention a specific drilling commitment in meters as part of a transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article discusses future exploration plans but does not state a specific monetary commitment as part of a transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in the text."
+    },
+    "coverage_area_raw": {
+      "value": 476,
+      "justification": "The text states: 'Fifty-seven lode claims encompassing 476 hectares have been staked to increase Revival Gold’s land position...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'Fifty-seven lode claims encompassing 476 hectares have been staked...'"
+    },
+    "resource_size": {
+      "value": "86.2 million tonnes at 0.87 g/T gold containing 2.42 million ounces of gold, and an Inferred Mineral Resource of 50.7 million tonnes at 1.34 g/T gold containing 2.19 million ounces of gold",
+      "justification": "The text states the project has a 'Measured & Indicated Mineral Resource of 86.2 million tonnes at 0.87 g/T gold containing 2.42 million ounces of gold, and an Inferred Mineral Resource of 50.7 million tonnes at 1.34 g/T gold containing 2.19 million ounces of gold'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RVG",
+      "justification": "The buyer, Revival Gold Inc., is identified with the ticker and exchange in the text: 'Revival Gold Inc. (TSXV: RVG, OTCQX: RVLGF)'."
+    }
+  }
+}

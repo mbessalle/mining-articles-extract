@@ -1,0 +1,68 @@
+--- Article Metadata ---
+Project Name: Clayton Valley
+Company Name: Cruz Battery Metals Corp.
+Exchange: TSXV
+Ticker: PE
+Primary Commodity: Li
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+9.11.2024, 3:21:00 PM
+
+# SLB Completes Earn-in for Pure Energy's Clayton Valley Lithium Project
+
+Vancouver, British Columbia--(Newsfile Corp. - September 11, 2024) - **Pure Energy Minerals Ltd. (TSXV: PE) (OTCQB: PEMIF)** ("Pure Energy" or "the Company") is pleased to report that its partner, SLB (NYSE: SLB), has completed a comprehensive technology demonstration and testing program as required to earn-in to the Company's 100%- owned Clayton Valley lithium brine project ("CV Project") in Esmeralda County, Nevada. Pure Energy and SLB formed a partnership in May of 2019, which provides for SLB to design, permit, develop and build a state-of-the-art pilot plant for Direct Lithium Extraction ("DLE") of lithium brines from the Clayton Valley property. The sustainable lithium Demonstration Plant, operated by SLB, currently is producing lithium carbonate (Li2CO3) product, a direct component of lithium batteries in mobile phones, electric vehicles and energy storage.
+
+SLB has demonstrated completion of specific technical milestones to qualify the earn-in to 100% ownership of the CV Project, which include continuous production of lithium carbonate for an extended period and achieving a material quantity of lithium product in excess of a required purity threshold, which was verified by a third party. For further details regarding SLB's participation, please refer to Pure Energy's Annual General and Special Meeting Management Information Circular dated April 4, 2019, available on [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/kOVBqF0e8M).
+
+Upon completion of all earn-in terms, SLB may take ownership of the CV Project claims and Pure Energy will receive a 3% net smelter return ("NSR") royalty payable on all commodities extracted from the Project, net of advance royalty payments made to the Company. 
+
+Pure Energy acquired its Clayton Valley mineral properties over an eleven-year period from 2012 - 2023 by staking open ground and through option agreements with neighboring claimholders. The property comprises 950 placer mineral claims over 9.450 hectares (23,360 acres) in good standing, granted by the US Bureau of Land Management ("BLM"). These constitute one of the largest mineral landholdings within Clayton Valley. During the period 2014-2019, nine bore holes were completed by Pure Energy, of which the production-scale hole CV-9 provides brine flow to the pilot plant. A Preliminary Economic Assessment ("PEA") study, as amended, was published in April of 2018, incorporating results from the initial eight bore holes, and an additional seven holes subsequently were acquired together with properties. Pure Energy initiated the permitting process for development of a pilot plant in 2017. 
+
+During the past five years, SLB worked closely with the BLM and the State of Nevada to obtain necessary permits for construction and operation of the pilot plant, in addition to meeting all environmental requirements for site and resource use. Construction was initiated in Q1 2023 and the first product of Li2CO3 occurred in March of 2024. 
+
+"The CV Project Pilot Plant represents one of the largest and most advanced DLE plant of its kind in United States", remarked Joseph Mullin, CEO of Pure Energy Minerals. "We are very excited for Pure Energy to be part of SLB's development of clean energy technologies through its New Energy business. Our partnership has been productive, professional and beneficial to both entities." 
+
+The information in this news release has been reviewed and approved by Mary L. Little, MMSA QP#01503, who is a Qualified Person as defined by National Instrument 43-101. Ms. Little is a director of the Company and therefore is not considered to be independent.
+
+On behalf of the Board of Directors,  
+"Joseph Mullin"  
+CEO, Pure Energy Minerals Ltd.
+
+**CONTACT:**
+
+Pure Energy Minerals Limited ([www.pureenergyminerals.com](https://api.newsfilecorp.com/redirect/BpozDiGxrv))  
+Email: [info@pureenergyminerals.com](mailto:info@pureenergyminerals.com)  
+Telephone - +1 604 608 6611
+
+**Cautionary Statements and Forward-Looking Information**
+
+The information in this news release contains forward-looking statements that are subject to a number of known and unknown risks, uncertainties and other factors that may cause actual results to differ materially from those anticipated in our forward-looking statements. Factors that could cause such differences include changes in world commodity markets, equity markets, costs and supply of materials relevant to the mining industry, change in government and changes to regulations affecting the mining industry. Forward-looking statements in this release may include future exploration and development of the Clayton Valley Project. Although we believe the expectations reflected in our forward-looking statements are reasonable, results may vary, and we cannot guarantee future results, levels of activity, performance or achievements.
+
+The Company does not undertake to update any forward-looking information, except as required by applicable laws.
+
+_Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/222961](https://api.newsfilecorp.com/redirect/55VPDc4Eej)
+
+### Project Name
+
+[Clayton Valley Project](/?gid=2610)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.215                       Open: 0.215
+High: 0.215                       Bid: 0.205
+Bid Size: 4000                   Beta: 0.19047
+Year High: 0.395                  Market Cap: 7.30m
+PB Ratio: 0.20                   EPS: -0.02
+Average Volume (30 Day): 6,473    Volume: 576
+Prev. Close: 0.215                Low: 0.215
+Ask: 0.215                        Ask Size: 1500
+VWAP: 0.215                       Year Low: 0.15
+Total Shares: 33.97m               Shares Out: 33.97m
+Float: 23.50m                      Exchange: TSXV

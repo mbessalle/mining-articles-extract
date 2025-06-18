@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Thorn/70921.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thorn",
+      "justification": "The article is titled 'Brixton Metals Acquires Infill Claims to its Thorn Project Near the Past Producing Golden Bear Mine'."
+    },
+    "company_name": {
+      "value": "Brixton Metals Corporation",
+      "justification": "The acquiring company is identified as 'Brixton Metals Corporation (TSX-V: BBB, OTCQB: BBBXF) (the “Company ” or “Brixton ”)'."
+    },
+    "ceo_buyer": {
+      "value": "Gary R. Thompson",
+      "justification": "The CEO is identified in the text: 'On Behalf of the Board of Directors Mr. Gary R. Thompson, Chairman and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'shall acquire one hundred percent interest in mineral claims totaling 6446 hectares or 64.4 square kilometers within the Thorn Project'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The article discusses the acquisition in the context of gold potential: 'We are excited to further consolidate the Thorn Project by adding more gold potential to the copper porphyry district play.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project (Thorn), but no verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in Canadian dollars: 'Brixton shall pay the Vendors CAD$75,000'."
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "The deal terms state: 'Brixton shall pay the Vendors CAD$75,000 and issue 1,250,000 common shares of Brixton upon Exchange approval'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but a total monetary value for the shares is not provided. The number of shares is provided instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and the number of shares to be issued, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1250000,
+      "justification": "The deal terms state: 'Brixton shall pay the Vendors CAD$75,000 and issue 1,250,000 common shares of Brixton upon Exchange approval'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.105,
+      "justification": "The transaction terms mention 1,250,000 shares will be issued, but do not specify a price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.105'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "An NSR was granted to the vendors as part of the deal: 'Brixton shall grant the Vendors a one percent Net Smelter Royalty Return (“NSR”)'."
+    },
+    "coverage_area_raw": {
+      "value": 6446,
+      "justification": "The company acquired 'mineral claims totaling 6446 hectares or 64.4 square kilometers within the Thorn Project'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The company acquired 'mineral claims totaling 6446 hectares or 64.4 square kilometers within the Thorn Project'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the acquired claims have no resource: 'These newly acquired claims do not contain any reserves or resources and are considered early-stage exploration targets for its high-grade underground potential.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:BBB",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: 'Brixton Metals Corporation (TSX-V: BBB, OTCQB: BBBXF)'."
+    }
+  }
+}

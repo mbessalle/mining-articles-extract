@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Blackhawk/72696.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blackhawk",
+      "justification": "The article is titled 'Kapa Gold Enters Strategic Partnership with MFD Investment Holdings for the Advancement of the Blackhawk Gold Property' and the text refers to the project as the 'Blackhawk Gold Property (the \"Project\")'."
+    },
+    "company_name": {
+      "value": "KAPA Gold Inc.",
+      "justification": "The press release is from 'KAPA GOLD INC. (TSXV: KAPA) (\"Kapa\" or the \"Company\")' which is the owner of the Blackhawk project."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is MFD Investment Holdings SA, which is described as a 'private investment company'. No CEO for MFD is named in the text. The CEO mentioned, David Paxton, is the CEO of Kapa Gold, the project owner."
+    },
+    "interest_acquired_percent": {
+      "value": 10,
+      "justification": "The text states that MFD can 'earn an undivided 10% interest in Kapa's Blackhawk Gold Property'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is referred to as the 'Blackhawk Gold Property' and the authoritative metadata confirms 'Au'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/224545",
+      "justification": "The article is titled 'Kapa Gold Enters Strategic Partnership with MFD Investment Holdings for the Advancement of the Blackhawk Gold Property' and the content matches the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The expenditure commitment is explicitly denominated in US dollars: '...by incurring a total of US$1,000,000 in expenditures on the Project...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the interest is in the form of an exploration expenditure commitment, not a direct cash payment to Kapa Gold."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is an exploration expenditure commitment. While Kapa may issue bonus shares to MFD, this is not a payment of shares from the buyer (MFD) to acquire the interest."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is in the form of an exploration expenditure commitment, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement involves potential 'bonus shares' issued by Kapa to MFD upon achieving milestones, not a payment of a set number of shares from the buyer to acquire the interest. The primary consideration is an expenditure commitment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the payment terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as direct payment for the interest, so there is no applicable share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "A monetary exploration commitment of US$1,000,000 is specified as the primary condition for the earn-in. As the monetary and meterage commitment fields are mutually exclusive, the monetary value has been prioritized. The 600 meters of drilling is a component of this total expenditure: 'incurring a total of US$1,000,000 in expenditures on the Project... including at least 600 meters of exploration drilling'."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "The agreement states that MFD can earn its interest 'by incurring a total of US$1,000,000 in expenditures on the Project over the next three years.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size of the project area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the size of the project area."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates that a resource has not yet been defined, as the agreement includes bonus shares for the future 'delineation of a resource estimate between 1-5 million ounces of gold discovered'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, MFD Investment Holdings SA, is stated to be a 'private investment company' and therefore does not have a stock ticker or exchange listing."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Apache/39178.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Apache",
+      "justification": "The text states the agreement is for '...the Apache property, California (the “Apache Project”)...'"
+    },
+    "company_name": {
+      "value": "Thunderbird Minerals Corp.",
+      "justification": "The acquiring company is identified as 'Thunderbird Minerals Corp. (TSXV: BIRD) (“Thunderbird” or the “Company”) is pleased to announce that the Company has signed a mineral lease and option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "John Newell",
+      "justification": "The text identifies the CEO of the acquiring company: 'John Newell, President and CEO of Thunderbird, states:...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The agreement is a lease and option for exploration rights, not a direct acquisition of a specified ownership percentage. The text states Thunderbird has been granted 'exploration and development rights for the Apache Project for a minimum of 50 years'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The article is titled 'Thunderbird Minerals Corp. Options the Apache Copper-Gold Property...' and the authoritative metadata confirms Au (Gold) as the primary commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment terms are specified in US dollars: 'US$28,000 upon signing of the agreement...'"
+    },
+    "cash_payments_raw": {
+      "value": 98000,
+      "justification": "The total of the defined pre-production payments is $98,000, calculated from the sum of payments over the first 30 months: 'US$28,000 upon signing... US$10,000 6-months... US$10,000 12-months... US$15,000 18-months... US$15,000 24-months... US$20,000 30-months...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any payments in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details list explicit cash payments, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction details do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any payments in warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any payments in stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "The total of the defined minimum work commitments over the first four years is $250,000, calculated from: '$50,000 in Year 1; $50,000 in Year 2; $50,000 in Year 3; $100,000 in Year 4...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, BMR, has retained a 2% NSR as part of the transaction terms: 'On achievement of production on the Apache Project, a production royalty of 2% of net smelter returns is payable on claims owned by BMR...'"
+    },
+    "coverage_area_raw": {
+      "value": 1200,
+      "justification": "The text states: 'The Apache Project consists of 152 unpatented lode mining claims (approximately 1,200 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the coverage area: '... (approximately 1,200 hectares)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate. It indicates the project is at an early exploration stage, stating 'No verified historical drilling has been recorded; therefore, geochemical and geophysical anomalies remain untested.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BIRD",
+      "justification": "The acquiring company is identified with its ticker and exchange in the first paragraph: 'Thunderbird Minerals Corp. (TSXV: BIRD)'."
+    }
+  }
+}

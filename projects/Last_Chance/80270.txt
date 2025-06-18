@@ -1,0 +1,73 @@
+--- Article Metadata ---
+Project Name: Last Chance
+Company Name: Military Metals Corp.
+Exchange: CSE
+Ticker: MILI
+Primary Commodity: Sb
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.28.2024, 1:00:00 PM
+
+# Military Metals Completes Claim Staking Around the Last Chance Antimony-Gold Property in Nevada
+
+Vancouver, British Columbia--(Newsfile Corp. - November 28, 2024) - **Military Metals Corp.  (CSE: MILI) (OTCQB: MILIF) (FSE: QN90) (the "Company" or "MILI") **is pleased to report that it has completed additional staking of claims surrounding the Last Chance antimony-gold property, located in Nye County, Nevada, just over 70km north of the town of Tonapah and 12km due west of Kinross' Round Mountain gold mine. The Company recently entered into a letter of intent to acquire the Last Chance antimony-gold property. Please refer to the Company's news release dated November 14, 2024, for additional details about the Last Chance property.
+
+Scott Eldridge, Chief Executive Officer of the Company, commented, "Antimony prices have now risen to $38,000 USD per tonne, making antimony the top performing commodity thus far for 2024. China's export restriction that came into play September 15, 2024, has created a supply crunch that has magnified the need for domestic development of defense sector metals. This additional staking solidifies complete coverage of what we believe is the entire mineralized system surrounding the Last Chance antimony-gold property."
+
+[](https://images.newsfilecorp.com/files/10818/231755_11f4bf32b4999b42_001full.jpg)
+
+Location map, Last Chance Property
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10818/231755_11f4bf32b4999b42_001full.jpg>
+
+Historical antimony-gold occurrences and a solitary shaft where limited historical production is recorded occur within a sequence of Paleozoic carbonates and Lower Mesozoic metamorphosed shales and carbonates; A series of ultramafic dykes as well as younger felsic intrusives and extrusives cut this sequence at several locations. Mineralization is structurally controlled, with folding, faulting and quartz veining seen throughout the metamorphosed sedimentary sequence at several locations across the property.
+
+A fence of claims was staked surrounding the Last Chance property to ensure that additional ground considered potentially prospective remains available to the Company when it begins its first field campaign scheduled for Q2/2025.
+
+The technical contents of this release were reviewed and approved by Avrom E. Howard, MSc, PGeo, geological consultant to Military Metals and a qualified person as defined by NI 43-101.
+
+_**About Military Metals Corp.**_
+
+The Company is a British Columbia-based mineral exploration company that is primarily engaged in the acquisition, exploration and development of mineral properties with a focus on antimony. 
+
+**ON BEHALF OF THE BOARD of DIRECTORS**
+
+For more information, please contact:
+
+Scott Eldridge  
+CEO and Director
+
+[scott@militarymetalscorp.com](mailto:scott@militarymetalscorp.com)
+
+For enquiries, please call 604-722-5381 or 604-537-7556
+
+This news release contains "forward-looking information". Often, but not always, forward-looking statements can be identified by the use of words such as "plans", "expects", "is expected", "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates", or "believes" or variations (including negative variations) of such words and phrases, or state that certain actions, events or results "may", "could", "would", "might" or "will" be taken, occur or be achieved. Forward-Looking information in this news release includes statements related to the completion of a binding agreement and closing of the acquisition of the Last Chance Gold Property, as well as future plans for exploration activities, and assumptions related to the continuation of the global demand for antimony. A variety of factors, including known and unknown risks, many of which are beyond our control, could cause actual results to differ materially from the forward-looking information in this news release. These include meeting the conditions to close the acquisition of the Last Chance Gold Property, geopolitical developments related to the supply of antimony, the continued use of antimony and availability of alternatives, availability of capital and labour in respect of the properties that are the subjects of this news release, the results of any future exploration activities, which cannot be guaranteed, and such other factors as may impact both and any future activities in respect of the properties. Additional risk factors can also be found in the Company's public filings under the Company's SEDAR+ profile at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/gOMMQUVpVY). Forward-Looking statements contained herein are made as of the date of this news release and the Company disclaims any obligation to update any forward-looking statements, whether as a result of new information, future events or results or otherwise. There can be no assurance that forward-looking statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. The Company undertakes no obligation to update forward looking statements if circumstances, management's estimates or opinions should change, except as required by securities legislation. Accordingly, the reader is cautioned not to place undue reliance on forward-looking statements. 
+
+The Canadian Securities Exchange has neither approved nor disapproved the information contained herein and does not accept responsibility for the adequacy or accuracy of this news release.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/231755](https://api.newsfilecorp.com/redirect/pEMMPi0o0W)
+
+### Project Name
+
+[Last Chance Project](/?gid=9022)  
+Nevada, United States
+
+--- Detailed Quote ---
+
+Last: 0.43            $  Chg: -0.01
+Open: 0.44            High: 0.45
+Bid: 0.43             Bid Size: 1500
+Beta: -3.69747            Year High: 1.03
+Market Cap: 27.74m      PB Ratio: 2.28
+EPS: -0.13             Average Volume (30 Day): 168.86k
+Volume: 215.59k          % Chg: -2.27%
+Prev. Close: 0.44     Low: 0.425
+Ask: 0.44             Ask Size: 2500
+VWAP: 0.43699            Year Low: 0.27
+Total Shares: 64.51m    Shares Out: 64.51m
+Float: 62.80m           Exchange: CSE

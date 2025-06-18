@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "projects/Last_Chance/78821.txt",
+    "projects/Last_Chance/80270.txt",
+    "projects/Last_Chance/81305.txt",
+    "projects/Last_Chance/88361.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Last Chance",
+      "justification": "The primary project of interest is confirmed in the title of the press release: 'Military Metals Announces LOI to Acquire Past-Producing Last Chance Antimony-Gold Property, near Round Mountain, Nevada'."
+    },
+    "company_name": {
+      "value": "Military Metals Corp.",
+      "justification": "The acquiring company is identified as 'Military Metals Corp. (CSE: MILI) (OTCQB: MILIF) (FSE: QN90) (the \"Company\" or \"Military\")'."
+    },
+    "ceo_buyer": {
+      "value": "Scott Eldridge",
+      "justification": "The CEO of the acquiring company is identified as 'Scott Eldridge CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The final interest acquired is stated as: 'it has fulfilled all obligations required in order to acquire 100% interest in the subject property'."
+    },
+    "primary_commodity": {
+      "value": "Sb",
+      "justification": "The project is described as the 'Last Chance Antimony-Gold Property'. The authoritative metadata specifies Sb (Antimony) as the primary commodity."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/229931",
+      "justification": "The article titled 'Military Metals Announces LOI to Acquire Past-Producing Last Chance Antimony-Gold Property...' is directly about the specified project and company."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction is specified as USD in the payment terms: 'total compensation of $45,000 USD'."
+    },
+    "cash_payments_raw": {
+      "value": 45000,
+      "justification": "The total cash consideration for the acquisition is stated as: 'total compensation of $45,000 USD'. This includes a '$10,000 USD exclusivity deposit'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are explicitly defined as cash only, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for a drilling program but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for exploration but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A royalty was part of the transaction terms, retained by the seller: 'total compensation of $45,000 USD and includes a 2% Net Smelter Royalty (\"NSR\")'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the acquisition covers '5 unpatented mineral claims' but does not provide a specific area in units such as hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area unit like 'ha' or 'km2' is mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'the development of a small (historical) low-grade gold resource' but does not provide any specific quantities (e.g., tonnes, ounces) for this resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MILI",
+      "justification": "The buyer's ticker and exchange are explicitly stated as 'Military Metals Corp. (CSE: MILI)'."
+    }
+  }
+}

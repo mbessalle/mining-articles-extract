@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Tibbs/94248.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tibbs",
+      "justification": "The project name is listed in the document: 'Project Name [Tibbs Project]'"
+    },
+    "company_name": {
+      "value": "Tectonic Metals Inc.",
+      "justification": "The company name is taken from the authoritative metadata and supported by the document title: 'TECTONIC EAGERLY ANTICIPATES REMAINING 2021 DRILL ASSAYS...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The document does not mention a CEO."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The document is an exploration program summary, not an M&A announcement, and does not mention the acquisition of any interest."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The primary commodity is based on authoritative metadata provided in the prompt, as the text does not specify the commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The detailed quote uses a '$' symbol and lists the exchange as 'TSXV', which implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document is an exploration update and does not contain details of a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document summarizes a completed exploration program and does not mention a future exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document summarizes a completed exploration program and does not mention a future exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The document does not specify the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The document does not specify the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not contain a mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TECT",
+      "justification": "The authoritative metadata identifies the company as Tectonic Metals Inc. with ticker TECT on the TSXV. The document text confirms the exchange: 'Exchange: TSXV'. As this is not an M&A announcement, this refers to the project owner."
+    }
+  }
+}

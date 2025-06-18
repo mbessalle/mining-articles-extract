@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Atlantic_Cable_Gold_Mine/89259.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atlantic Cable Gold Mine",
+      "justification": "The press release is titled 'Magellan Copper and Gold Corp. Announces Participatory Agreement with Gold Express Mines Regarding the Historic Atlantic Cable Gold Mine'."
+    },
+    "company_name": {
+      "value": "Magellan Copper and Gold Corp.",
+      "justification": "The acquiring company is identified as 'Magellan Copper and Gold Corp. (OTC PINK:MAGE) (\"Magellan\" or the \"Company\")' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Mike Lavigne",
+      "justification": "The contacts section at the end of the document lists: 'Contacts: Magellan Copper and Gold Corp. Mike Lavigne, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 45,
+      "justification": "The agreement terms state: 'In doing so, Magellan will earn a 45% participatory interest in the project.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is described as one of 'Montana's top tier bonanza-grade gold producers' and the historic resource includes '0.11 to 0.14 ounces gold per ton'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input text to verify."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text mentions a commitment of '$400,000'. The company is listed on a US exchange (OTC PINK) and the project is in Montana, USA, implying the currency is USD."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The agreement does not involve a direct cash payment for the asset. The consideration is an exploration commitment to be spent on the project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in the form of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any issuance of shares as part of the agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in the form of options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the agreement, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 400000,
+      "justification": "The text states: 'The agreement calls for Magellan to spend a minimum of $400,000 in development expenditures on the project over the next twenty-four months'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides two component areas, '480 acres of patented ground and 500 acres of unpatented mining claims', but does not state a single total area. A total cannot be calculated per the 'no calculations' rule."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "As no single raw value for the coverage area is provided, the unit is also null."
+    },
+    "resource_size": {
+      "value": "207,000 tons grading 1.5 to 4% copper and 0.11 to 0.14 ounces gold per ton",
+      "justification": "The text describes a historic resource: 'This historic resource block...was estimated to contain 207,000 tons grading 1.5 to 4% copper and 0.11 to 0.14 ounces gold per ton.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTC PINK:MAGE",
+      "justification": "The buyer is identified in the first paragraph as 'Magellan Copper and Gold Corp. (OTC PINK:MAGE)'."
+    }
+  }
+}

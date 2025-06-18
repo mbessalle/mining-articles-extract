@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "projects/Toiyabe/49124.txt",
+    "projects/Toiyabe/55081.txt",
+    "projects/Toiyabe/84174.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Toiyabe",
+      "justification": "The primary project is identified in the headline: 'Westward Gold Exercises Option to Acquire 100% Ownership of the Toiyabe Project'."
+    },
+    "company_name": {
+      "value": "Westward Gold Inc.",
+      "justification": "The acquiring company is identified as 'Westward Gold Inc. (CSE:WG), (OTC:WGLIF), (FSE:IM50) (“Westward” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Colin Moore",
+      "justification": "The CEO of the buyer is identified in the text: 'Colin Moore, President & CEO of Westward, noted:'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Westward exercised its option 'to acquire a 100% ownership interest in the Toiyabe Project in Lander County, Nevada (“Toiyabe”)'."
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text mentions gold multiple times in relation to the project area, for example: 'Our expert team with multiple Carlin-type gold discoveries to their credit has been instrumental in guiding our growth story...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Westward Gold Inc., is listed on the Canadian Securities Exchange (CSE:WG), and the share price calculation refers to 'the daily USD/CAD exchange rate published by the Bank of Canada', implying CAD is the primary currency for the transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a share-based payment, which fits Priority 2 of the financial extraction hierarchy. No cash payment was mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are captured by `amount_of_shares_issued` and `issued_share_price` as per Priority 2 of the financial extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was a share-based payment, which fits Priority 2 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 3391839,
+      "justification": "The text states: 'the Company has issued 3,391,839 common shares (the “Shares”) to Minquest'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.0939,
+      "justification": "The text specifies the share price for the transaction: '...at a deemed price of $0.0939 per Share.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment measured in meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, the seller retained a royalty: 'As per the terms of the Option Agreement, Minquest will be issued a 3.0% net smelter returns (“NSR”) royalty on the Minquest Claims...'"
+    },
+    "coverage_area_raw": {
+      "value": 40,
+      "justification": "Upon completion of the acquisition, the total project size was stated as: 'The entirety of our flagship land position along the Cortez Trend – totaling approximately 40 square kilometers of contiguous exploration ground – is now 100% owned by Westward.'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometers",
+      "justification": "The unit is specified in the text: '...totaling approximately 40 square kilometers of contiguous exploration ground...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text describes exploration potential, geology, and geochemistry, but does not contain a quantified mineral resource estimate (e.g., in tonnes or ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WG",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Westward Gold Inc. (CSE:WG), (OTC:WGLIF), (FSE:IM50)'."
+    }
+  }
+}

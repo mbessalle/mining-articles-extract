@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Wray_Mesa/42456.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wray Mesa",
+      "justification": "The article announces an option agreement for the 'Wray Mesa uranium project in Utah, USA.'"
+    },
+    "company_name": {
+      "value": "Nexus Uranium Corp.",
+      "justification": "The buyer is identified as Golden Independence Mining Corp. in the text ('Golden Independence Mining Corp. ... is pleased to announce it has entered into an option agreement ... to acquire up to a 90%-interest in the Wray Mesa uranium project'). This company was subsequently renamed to Nexus Uranium Corp., which is the authoritative name provided for this analysis."
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Poirier",
+      "justification": "The CEO of the buyer, Golden Independence, is identified in the quote: 'commented Jeremy Poirier, CEO of Golden Independence.'"
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "The agreement allows the company to acquire a maximum interest of 90%. '...the Company can earn a further 19% interest (for a total of 90%).'"
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The project is explicitly referred to as a uranium project: 'Golden Independence Announces Option to Acquire Wrey Mesa Uranium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/183981",
+      "justification": "The article, titled 'Golden Independence Announces Option to Acquire Wrey Mesa Uranium Project', details the acquisition terms for the Wray Mesa project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash and share value payments are denominated in Canadian dollars ('C$'). For example: 'the Company must pay C$50,000 in cash'."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The total cash consideration is C$300,000, aggregated from four staged payments mentioned in the transaction terms: 'pay C$50,000 in cash', 'paying C$100,000 in cash', 'an additional payment of C$75,000 in cash', and 'payment of C$75,000 in cash'."
+    },
+    "share_payments_raw": {
+      "value": 528500,
+      "justification": "The total share consideration is C$528,500, comprised of two tranches of 'C$250,000 worth of stock' each, plus an initial issuance of '300,000 shares'. The value of the 300,000 shares is calculated as C$28,500 using the fallback last traded price of C$0.095 from the detailed quote section ('Last: 0.095')."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Financial terms are captured under Priority 1 (separate cash and share payments)."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because financial terms are captured under Priority 1 (cash_payments_raw and share_payments_raw) due to the presence of explicit share payment values (e.g., 'C$250,000 worth of stock')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the transaction is an option agreement, there are no distinct payments specified for the option itself; payments are for earning interest in the project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because financial terms are captured under Priority 1 (cash_payments_raw and share_payments_raw)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "Exploration commitments are specified in monetary value (US$), not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2750000,
+      "justification": "The total exploration commitment is US$2,750,000, aggregated from four stages: 'incur US$250,000 in exploration', 'incurring US$500,000 of exploration', 'incurring US$1,000,000 in exploration', and 'incurring US$1,000,000 in exploration'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention the acquisition or retention of a Net Smelter Royalty (NSR) or similar royalty."
+    },
+    "coverage_area_raw": {
+      "value": 6282,
+      "justification": "The article states: 'The Wray Mesa project is comprised of 308 unpatented lode claims totalling 6,282 acres located in San Juan County, Utah.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The article states: 'The Wray Mesa project is comprised of 308 unpatented lode claims totalling 6,282 acres located in San Juan County, Utah.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not provide a mineral resource estimate for the Wray Mesa project. It provides resource data for the adjacent La Sal project and for the buyer's other project (Independence project), but not for Wray Mesa itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NEXU",
+      "justification": "The authoritative ticker for the buyer (now Nexus Uranium Corp.) is NEXU on the CSE. The article lists the company's former ticker at the time of the announcement as 'Golden Independence Mining Corp. (CSE: IGLD)'."
+    }
+  }
+}

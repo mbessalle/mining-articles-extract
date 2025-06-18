@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Sahara/50058.txt",
+    "projects/Sahara/52556.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sahara",
+      "justification": "The press release announces an agreement for the 'acquisition of the Sahara Uranium-Vanadium Property'."
+    },
+    "company_name": {
+      "value": "Ashley Gold Corp.",
+      "justification": "The text clearly identifies the acquirer as 'Ashley Gold Corp. (CSE: “ASHL”)'. This is a direct contradiction to the authoritative metadata, which names a company, Energy Fuels, that is only mentioned in the text as having defined a historical resource on the property."
+    },
+    "ceo_buyer": {
+      "value": "Darcy Christian",
+      "justification": "The text quotes the CEO of the acquiring company: 'Darcy Christian, CEO of Ashley comments...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Ashley Gold Corp. to 'acquire a 100%-interest in the Sahara uranium-vanadium property'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The asset is named the 'Sahara Uranium-Vanadium Property' and milestone payments are tied to the delineation of 'pounds of Uranium'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The definitive agreement specifies cash payments and work expenditures in USD, for example: 'pay USD $1,000,000 cash' and 'USD $7,000,000 of expenditures on the Property'."
+    },
+    "cash_payments_raw": {
+      "value": 4100000,
+      "justification": "This is the sum of all potential cash payments under the definitive agreement: USD $100,000 to earn 30%, USD $1,000,000 to earn 100%, and two milestone payments of USD $500,000 and USD $2,500,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued, not an explicit total dollar value for the share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The definitive agreement details cash and share components separately. An approximate combined value of 'CAD $5,000,000' mentioned in the LOI was superseded by the specific terms of the definitive agreement."
+    },
+    "amount_of_shares_issued": {
+      "value": 130000000,
+      "justification": "This is the sum of all potential share issuances: 500,000 (LOI deposit), 4,500,000 (signing), 18,500,000 (to earn 30%), 20,000,000 (to earn 50%), 36,500,000 (to earn 100%), and two milestone payments of 15,000,000 and 35,000,000 shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement mentions a total expenditure commitment of USD $10 million, which is a more comprehensive figure for the full earn-in than the initial '1,000m drill program'. The value field is populated instead to reflect the total commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 10000000,
+      "justification": "This is the sum of the minimum work expenditures required to earn 100% interest: 'expenditures of USD $3,000,000 on the Property' and 'USD $7,000,000 of expenditures on the Property'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty as part of the deal: 'Upon completion of the acquisition of a 100% interest in the Property, Ashley will grant a 2% Net Smelter Return Royalty (the “NSR”) to San Rafael.'"
+    },
+    "coverage_area_raw": {
+      "value": 10000,
+      "justification": "The text states the property 'consists of over 400 claims totalling over 10,000 acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states the property 'consists of over 400 claims totalling over 10,000 acres'."
+    },
+    "resource_size": {
+      "value": "500,000 lbs non-compliant uranium reserve",
+      "justification": "The text mentions a historical resource: 'Historically a 500,000 lbs non-compliant uranium reserve was defined on the Sahara Property by Energy Fuels...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ASHL",
+      "justification": "The acquiring company is identified as 'Ashley Gold Corp. (CSE: “ASHL”)' and the detailed quote section confirms 'Exchange: CSE'."
+    }
+  }
+}

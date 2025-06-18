@@ -1,0 +1,102 @@
+{
+  "source_files": [
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81164.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81165.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81241.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81241_pdf.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81718.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/81718_pdf.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89814.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89892.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89914.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89914_pdf.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89920.txt",
+    "projects/Cripple_Creek_and_Victor_Gold_Mine/89920_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cripple Creek and Victor Gold Mine",
+      "justification": "The authoritative project name is 'Cripple Creek and Victor Gold Mine', which is consistently referenced in the documents, for example: 'SSR Mining Announces the Acquisition of the Cripple Creek & Victor Gold Mine From Newmont'."
+    },
+    "company_name": {
+      "value": "SSR Mining Inc.",
+      "justification": "The buyer is identified in the text: 'SSR Mining Inc. (Nasdaq/TSX: SSRM; ASX: SSR) (“SSR Mining” or the “Company”) is pleased to announce that it has entered into a definitive purchase agreement to acquire the Cripple Creek & Victor Gold Mine (“CC&V”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Rod Antal",
+      "justification": "The Executive Chairman of the buyer, SSR Mining, is named in the press release: 'Rod Antal, Executive Chairman of SSR Mining, said, “The acquisition of the Cripple Creek & Victor Gold Mine represents a rare opportunity to add a high-quality producing asset in a Tier-1 jurisdiction at an accretive valuation.”'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states a full acquisition of the mine, not a partial interest: 'SSR Mining Inc. ... is pleased to announce that it has entered into a definitive purchase agreement to acquire the Cripple Creek & Victor Gold Mine (“CC&V”) in Colorado from Newmont Corporation (“Newmont”)...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The project is explicitly called a gold mine throughout the text: 'SSR Mining Announces the Acquisition of the Cripple Creek & Victor Gold Mine From Newmont'."
+    },
+    "verified_article_link": {
+      "value": "https://www.businesswire.com/news/home/20250228343106/en/",
+      "justification": "The provided documents are press releases from both the buyer (SSR Mining) and the seller (Newmont) announcing the acquisition and subsequent closing of the sale of the Cripple Creek & Victor Gold Mine. The content directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction values are given with a '$' symbol, and given the US location of the asset and the US listings of the companies, the currency is inferred to be USD. For example: '...in an all-cash deal for $100 million in upfront consideration...'"
+    },
+    "cash_payments_raw": {
+      "value": 275000000,
+      "justification": "The total cash consideration is the sum of the upfront payment and potential milestone payments: '...in an all-cash deal for $100 million in upfront consideration and up to $175 million in additional milestone-based payments (the “Transaction”).' ($100,000,000 + $175,000,000 = $275,000,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is explicitly described as an 'all-cash deal', with no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly broken down into cash components, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is an 'all-cash deal' and does not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments was found in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is an 'all-cash deal' and does not involve the issuance of shares as consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any specific financial commitment for exploration as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not include any mention of a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 5000,
+      "justification": "The text specifies the size of the land package: 'Currently, CC&V operations span three developed open pit areas: Globe Hill, Schist Island, and South Cresson with a total land package of more than 5,000 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: '...with a total land package of more than 5,000 hectares...'"
+    },
+    "resource_size": {
+      "value": "2.4 million ounces of gold Mineral Reserves... an additional 0.8 million ounces of Measured and Indicated gold Mineral Resources and 0.9 million ounces of Inferred gold Mineral Resources",
+      "justification": "The most recent resource statement is used: 'As of December 31, 2024, CC&V hosted 2.4 million ounces of gold Mineral Reserves, an 85% year-over-year increase from the 1.3 million ounces of gold Mineral Reserves as of December 31, 2023. Newmont also reported an additional 0.8 million ounces of Measured and Indicated gold Mineral Resources and 0.9 million ounces of Inferred gold Mineral Resources for CC&V as of December 31, 2024.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:SSRM",
+      "justification": "The buyer's ticker and exchanges are listed in the announcement: 'SSR Mining Inc. (Nasdaq/TSX: SSRM; ASX: SSR) (“SSR Mining” or the “Company”)...'"
+    }
+  }
+}

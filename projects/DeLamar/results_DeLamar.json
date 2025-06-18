@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/DeLamar/49745.txt",
+    "projects/DeLamar/50314.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "DeLamar",
+      "justification": "The text refers to the project as 'the DeLamar Project (the \"Project\" or \"DeLamar\") in southwestern Idaho.'"
+    },
+    "company_name": {
+      "value": "Integra Resources Corp.",
+      "justification": "The acquiring company is identified as 'Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG)'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Kosec",
+      "justification": "The CEO is listed at the end of the press release: 'Jason Kosec President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Integra's subsidiary acquired all interests in the holding company for the claims: 'DMC will acquire all of the member interests of Rich Gulch, LLC (\"Rich Gulch LLC\"), the undivided 100% owner of the Rich Gulch claims.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text describes the project as containing gold: 'The past producing DeLamar Project, which includes the adjacent DeLamar and Florida Mountain gold and silver deposits...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/integra-exercises-option-to-acquire-strategic-claims-at-delamar-project-302074741.html",
+      "justification": "The article is titled 'INTEGRA EXERCISES OPTION TO ACQUIRE STRATEGIC CLAIMS AT DELAMAR PROJECT', confirming its relevance to the specified project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is explicitly stated as US dollars: '...in exchange for US$2,100,000 (the \"Purchase Price\")' and 'DMC paid to the Vendor US$24,000 in cash.'"
+    },
+    "cash_payments_raw": {
+      "value": 24000,
+      "justification": "A cash payment was made for the option grant: 'As consideration for the grant of the Option pursuant to the Option Agreement, DMC paid to the Vendor US$24,000 in cash.'"
+    },
+    "share_payments_raw": {
+      "value": 2100000,
+      "justification": "The purchase price was satisfied with shares valued at US$2,100,000: 'Under the terms of the MIPA, DMC will acquire all of the Interests in exchange for US$2,100,000 (the \"Purchase Price\"). The Purchase Price is to be satisfied through the issuance of common shares in the capital of the Company (the \"Shares\")...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were broken down into separate cash and share components, so this combined field is not applicable as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is set to null because explicit cash and share payment values were provided, which takes priority."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is set to null because explicit cash and share payment values were provided, which takes priority."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The documents mention the acquisition of 'seventeen unpatented claims' and 'seventeen patented claims' but do not specify a total area in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The documents mention the acquisition of 'seventeen unpatented claims' and 'seventeen patented claims' but do not specify a total area in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions past studies but does not provide a specific, quantified mineral resource estimate: 'Since acquiring the Project in 2017, the Company has demonstrated significant resource growth and conversion while demonstrating robust economic studies in its maiden Preliminary Economic Assessment and Preliminary Feasibility Study.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ITR",
+      "justification": "The buyer's ticker and exchange are listed in the header of the news release: 'Integra Resources Corp. (\"Integra\" or the \"Company\")(TSXV: ITR) (NYSE American: ITRG)'."
+    }
+  }
+}

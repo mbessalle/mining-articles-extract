@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Union_Bay/82182.txt",
+    "projects/Union_Bay/82640.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Union Bay",
+      "justification": "The Company further announces that it has entered into an agreement dated December 16, 2024 (the Option Agreement\") granting 1508260 B.C. Ltd the option to acquire an 100% interest in the recently staked Union Bay hydrogen project (\"Union Bay\" or the \"Project\") located in Southeast Alaska."
+    },
+    "company_name": {
+      "value": "Granite Creek Copper",
+      "justification": "Granite Creek Copper Ltd. (TSXV:GCX)(OTCQB:GCXXF) (\"Granite Creek\" or the \"Company\") is pleased to announce that it has entered into an agreement dated December 16, 2024 (the Option Agreement\") granting 1508260 B.C. Ltd the option to acquire an 100% interest in the recently staked Union Bay hydrogen project."
+    },
+    "ceo_buyer": {
+      "value": "Lawrence Tsang",
+      "justification": "Pluto Ventures Inc. is the ultimate acquirer of the project via its purchase of 1508260 B.C. Ltd. The CEO of Pluto Ventures is Lawrence Tsang, as stated: \"ON BEHALF OF THE BOARD OF DIRECTORS \"Lawrence Tsang\" Lawrence Tsang, President and Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "granting 1508260 B.C. Ltd the option to acquire an 100% interest in the recently staked Union Bay hydrogen project (\"Union Bay\" or the \"Project\")"
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The Company further announces that it has entered into an agreement dated December 16, 2024 (the Option Agreement\") granting 1508260 B.C. Ltd the option to acquire an 100% interest in the recently staked Union Bay hydrogen project (\"Union Bay\" or the \"Project\") located in Southeast Alaska."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/956047/granite-creek-copper-incorporates-geologic-hydrogen-subsidiary-options-union-bay-project-and-appoints-allegra-hosford-scheirer-to-lead-advisory-board",
+      "justification": "The article at https://www.accesswire.com/956047/granite-creek-copper-incorporates-geologic-hydrogen-subsidiary-options-union-bay-project-and-appoints-allegra-hosford-scheirer-to-lead-advisory-board details the option agreement for the Union Bay project between Granite Creek Copper and 1508260 B.C. Ltd."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash payments are explicitly denominated in US dollars: \"making aggregate cash payments of US$175,000 to Granite as follows:\""
+    },
+    "cash_payments_raw": {
+      "value": 175000,
+      "justification": "The total cash payment is the sum of three tranches: \"making aggregate cash payments of US$175,000 to Granite as follows: US$50,000 on signing (the \"Effective Date\"); US$50,000 on or before the first anniversary of the Effective Date; and US$75,000 on or before the second anniversary of the Effective Date\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The shares are issued by a private company (1508260 B.C. Ltd.) and no monetary value is assigned to them in the agreement, so a raw share payment value cannot be determined."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2750000,
+      "justification": "The total number of shares to be issued is the sum of four tranches: \"issuing to Granite an aggregate of 2,750,000 shares as follows: 200,000 shares on the Effective Date and; 300,000 shares... 1,000,000 shares... 1,250,000 on or before the second anniversary of the Effective Date\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are part of the secondary transaction where Pluto Ventures acquires 1508260 B.C. Ltd., not the primary option agreement for the Union Bay project itself."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The 2,750,000 shares are issued by 1508260 B.C. Ltd., which is a private company. No value or price per share is mentioned in the transaction terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1200000,
+      "justification": "The total exploration commitment is the sum of three tranches: \"incurring aggregate of $1,200,000 in expenditures on the Property as follows: $200,000 on or before the first anniversary of the Effective Date; and an additional $400,000 on or before the second anniversary of the Effective Date; and an additional $600,000 on or before the third anniversary of the of the Effective Date\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement is subject to a royalty retained by the seller, Granite Creek: \"subject to a 2% Gross Overriding Royalty (GORR) to be granted by 1508260 B.C. Ltd in favor of Granite Creek\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not mention the size or area of the Union Bay project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not mention the size or area of the Union Bay project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions past exploration work but does not provide a quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:PLTO",
+      "justification": "Pluto Ventures Inc. is the ultimate public company acquiring the project rights through its acquisition of 1508260 B.C. Ltd. Its ticker is stated as: \"Pluto Ventures Inc. (CSE: PLTO) (\"PLTO\" or the \"Company\") is pleased to announce that the Company has entered into a Letter of Intent (the \"LOI\") ... to purchase all of the issued and outstanding shares of 1508260 B.C. Ltd. (\"BC1508260\"), which holds the rights to acquire ... the Union Bay property\"."
+    }
+  }
+}

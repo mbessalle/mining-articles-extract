@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Candelaria/35899.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Candelaria",
+      "justification": "The article title is 'SILVER ONE ACQUIRES 100% OF THE PAST PRODUCING CANDELARIA SILVER MINE PROJECT, NEVADA'."
+    },
+    "company_name": {
+      "value": "Silver One Resources Inc.",
+      "justification": "The acquiring company is identified as 'Silver One Resources Inc.(TSXV: SVE) (OTCQX: SLVRF) (FSE: BRK1) (\"Silver One\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Greg Crowe",
+      "justification": "The text states: 'Greg Crowe , President and CEO of Silver One commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text announces that Silver One 'has acquired a 100% interest in the past producing Candelaria silver mine project in Nevada from SSR Mining Inc.'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The project is referred to as the 'Candelaria silver mine project' and the text notes 'Historically it produced over 60 million ounces of silver.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/silver-one-acquires-100-of-the-past-producing-candelaria-silver-mine-project-nevada-301838095.html",
+      "justification": "The article content, titled 'SILVER ONE ACQUIRES 100% OF THE PAST PRODUCING CANDELARIA SILVER MINE PROJECT, NEVADA', is directly about the specified project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The payment is specified in US dollars: '...a total US$3,100,000 of common shares...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were mentioned as part of the acquisition consideration. The payment was made in shares."
+    },
+    "share_payments_raw": {
+      "value": 3100000,
+      "justification": "The text states: 'In order to obtain its 100% interest, Silver One previously issued to SSR Mining a total US$3,100,000 of common shares...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific value for the share payment was provided, so this field is not applicable according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 10674374,
+      "justification": "The total is the sum of 10,424,374 shares issued for the acquisition ('...a total US$3,100,000 of common shares (being 10,424,374 common shares)...') and 250,000 shares for an option extension ('...the Company agreed to issue 250,000 common shares to SSR Mining.')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": 0.27,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.27'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment. It mentions an assumed reclamation bond, which is not an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that no royalty was part of the transaction: 'As part of its acquisition of the Candelaria silver mine project, the Company did not grant a royalty to SSR Mining.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Candelaria project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Candelaria project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that the company is 'currently updating the historical resource estimate to a current resource', but does not provide a quantified value for a current mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SVE",
+      "justification": "The buyer is identified in the text as 'Silver One Resources Inc.(TSXV: SVE)'."
+    }
+  }
+}

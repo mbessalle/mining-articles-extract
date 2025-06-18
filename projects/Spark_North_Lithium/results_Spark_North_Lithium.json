@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Spark_North_Lithium/85641.txt",
+    "projects/Spark_North_Lithium/91418.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Spark North Lithium",
+      "justification": "The text states ExGen entered into an agreement to acquire 'the Spark North lithium project in Elko County, Nevada... (the “Spark North Lithium Project”).'"
+    },
+    "company_name": {
+      "value": "ExGen Resources Inc.",
+      "justification": "The buyer is identified as 'ExGen Resources Inc.(TSX.V: EXG; OTC: BXXRF) (“ExGen”, the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Riley",
+      "justification": "The text includes a comment from 'Jason Riley, CEO of ExGen'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states ExGen entered into an 'asset purchase agreement... to acquire (the “Acquisition”) the Spark North lithium project'. An asset purchase implies the acquisition of the entire project."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The project is consistently referred to as the 'Spark North lithium project'."
+    },
+    "verified_article_link": {
+      "value": "https://app.mininghub.com/article/exgen-resources-inc/ca-exg/-/exgen-signs-purchase-agreement-to-acquire-spark-north-lithium-project-in-nevada-85641",
+      "justification": "The article is titled 'ExGen Signs Purchase Agreement to Acquire Spark North Lithium Project in Nevada', which directly corresponds to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is specified in Canadian dollars: 'ExGen to provide a cash payment of CAD $250,000'."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The agreement outlines a cash payment: 'ExGen to provide a cash payment of CAD $250,000 (the “Cash Consideration”) to the Vendor on the Closing of the Acquisition.' This is confirmed in a later article: 'the Company paid a total of CAD$250,000 cash consideration'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves a specific number of shares, not a monetary value of shares, so amount_of_shares_issued is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The agreement terms state: 'ExGen to issue 5,000,000 common shares to the Vendor on Closing.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.085,
+      "justification": "The transaction terms mention the number of shares issued (5,000,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.085'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the deal, ExGen granted a royalty to the seller: 'ExGen to grant a 1.5% NSR in favour of the Vendor, with a 0.75% NSR buyback (half of the NSR) at ExGen’s option for CAD $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 2300,
+      "justification": "The project is described as 'consisting of 111 claims totaling approximately 2300 acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The project is described as 'consisting of 111 claims totaling approximately 2300 acres'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the nearby 'Nevada North Lithium Project' ('11.24 Mt LCE grading 3,010 ppm Li'), but not for the Spark North Lithium Project itself. The text cautions that 'discoveries on properties in proximity... may not necessarily be indicative of the presence of mineralization on any of the Company’s properties'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EXG",
+      "justification": "The acquiring company is identified as 'ExGen Resources Inc.(TSX.V: EXG; OTC: BXXRF)'. The detailed quote section also lists 'Exchange: TSXV'."
+    }
+  }
+}

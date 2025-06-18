@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Shootaring_Canyon_Mill/46693.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Shootaring Canyon Mill",
+      "justification": "The project is identified in the text: 'A key asset in Anfield’s portfolio is the Shootaring Canyon Mill in Garfield County, Utah.'"
+    },
+    "company_name": {
+      "value": "Anfield Energy Inc.",
+      "justification": "The company is identified at the beginning of the article: 'Anfield Energy Inc. (TSX.V: AEC; OTCQB: ANLDF; FRANKFURT: 0AD) (“Anfield” or “the Company”)'"
+    },
+    "ceo_buyer": {
+      "value": "Corey Dias",
+      "justification": "The CEO of Anfield, the acquiring company, is identified in the text: 'On behalf of the Board of Directors ANFIELD ENERGY INC. Corey Dias, Chief Executive Officer'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is the acquisition of a 100% interest in twelve Department of Energy (DOE) leases, not an interest in the Shootaring Canyon Mill project. The text states Anfield will 'acquire a 100% interest in twelve Department of Energy (DOE) leases'."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The text confirms the company's focus on uranium, which is the primary commodity provided in the authoritative metadata. 'Anfield is a uranium and vanadium development and near-term production company...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article describes the acquisition of twelve Department of Energy (DOE) leases in Colorado by Anfield Energy. While this acquisition is intended to provide feed for the Shootaring Canyon Mill, the M&A transaction itself is not for the mill project. The article states Anfield will 'acquire a 100% interest in twelve Department of Energy (DOE) leases'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The currency (US$) mentioned applies to the transaction for the DOE leases, not to a transaction for the Shootaring Canyon Mill project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments detailed are consideration for the acquisition of DOE leases, not the Shootaring Canyon Mill project. The text states the payments are 'As consideration for the DOE Leases and associated data'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments detailed are consideration for the acquisition of DOE leases, not the Shootaring Canyon Mill project. The text states the payments are 'As consideration for the DOE Leases and associated data'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is for the DOE leases, not the Shootaring Canyon Mill project, and the payment components are listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The shares to be issued are consideration for the acquisition of DOE leases, not the Shootaring Canyon Mill project. The text states the issuance is 'As consideration for the DOE Leases and associated data'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price calculation applies to the acquisition of DOE leases, not the Shootaring Canyon Mill project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Shootaring Canyon Mill project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Shootaring Canyon Mill project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of a transaction for the Shootaring Canyon Mill project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is specified for the Shootaring Canyon Mill project itself, which is a processing facility."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is specified for the Shootaring Canyon Mill project itself, which is a processing facility."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Shootaring Canyon Mill itself, which is a processing facility. The resource tables provided are for other projects in Anfield's portfolio that are intended to feed the mill."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AEC",
+      "justification": "The buyer in the described transaction is Anfield Energy Inc., whose ticker and exchange are listed as '(TSX.V: AEC; OTCQB: ANLDF; FRANKFURT: 0AD)'. The detailed quote section also lists 'Exchange: TSXV'."
+    }
+  }
+}

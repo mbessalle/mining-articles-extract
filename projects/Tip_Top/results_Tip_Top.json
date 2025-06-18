@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Tip_Top/54151.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tip Top",
+      "justification": "The article is titled 'Gold79 Completes Acquisition of the Tip Top Gold Project' and states 'Gold79 now owns 100% of the Tip Top Project in Nevada.'"
+    },
+    "company_name": {
+      "value": "Gold79 Mines Ltd.",
+      "justification": "The text identifies the acquiring company: 'Gold79 Mines Ltd. (TSXV: AUU) (OTCQB: AUSVF) (\"Gold79\" or the \"Company\") is pleased to announce that it has made the final acquisition payment of US$25,000 to the vendor of the Tip Top project.'"
+    },
+    "ceo_buyer": {
+      "value": "Derek Macpherson",
+      "justification": "The press release identifies the CEO in the contact section: 'Derek Macpherson, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Gold79 now owns 100% of the Tip Top Project in Nevada.'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The article is titled 'Gold79 Completes Acquisition of the Tip Top Gold Project' and mentions 'low-sulfidation oxide gold-silver epithermal veins'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/209691",
+      "justification": "The article is titled 'Gold79 Completes Acquisition of the Tip Top Gold Project' and the content is entirely focused on this project, confirming its relevance."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The text specifies the currency in the payment details: '...final acquisition payment of US$25,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 225000,
+      "justification": "The total cash consideration is the sum of the final payment and a future milestone payment: 'With the final payment of US$25,000 on May 9, 2024, Gold79 has completed its acquisition...' and 'the Company is obligated to pay the vendor a cash payment of US$200,000 within 30 days of completion of a bankable feasibility study.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was identified, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any payment in warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any issuance of shares, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The text states that the seller has retained a royalty as part of the transaction: 'The Vendor retains a 1% net smelter return royalty on the property...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the size or area of the Tip Top project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the size or area of the Tip Top project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical production figures ('6,900 ounces of gold') and drill intercepts, but does not contain a formal, quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AUU",
+      "justification": "The buyer is identified as Gold79 Mines Ltd., and the text provides its ticker information directly: 'Gold79 Mines Ltd. (TSXV: AUU) (OTCQB: AUSVF)'."
+    }
+  }
+}

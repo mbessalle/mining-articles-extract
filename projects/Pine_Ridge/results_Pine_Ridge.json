@@ -1,0 +1,99 @@
+{
+  "source_files": [
+    "projects/Pine_Ridge/90742.txt",
+    "projects/Pine_Ridge/90742_pdf.txt",
+    "projects/Pine_Ridge/90747.txt",
+    "projects/Pine_Ridge/90747_pdf.txt",
+    "projects/Pine_Ridge/90753.txt",
+    "projects/Pine_Ridge/90753_pdf.txt",
+    "projects/Pine_Ridge/90766.txt",
+    "projects/Pine_Ridge/91916.txt",
+    "projects/Pine_Ridge/93108.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pine Ridge",
+      "justification": "The documents consistently refer to the project as the Pine Ridge Project, for example: \"Acquisition of the Advanced Pine Ridge Uranium Project in Wyoming through strategic partnership with Snow Lake Energy\"."
+    },
+    "company_name": {
+      "value": "Global Uranium And Enrichment Ltd",
+      "justification": "The buyer is identified as \"Global Uranium and Enrichment Limited (ASX: GUE, OTCQB: GUELF) (Global Uranium, GUE or the Company)\"."
+    },
+    "ceo_buyer": {
+      "value": "Andrew Ferrier",
+      "justification": "The Managing Director of the buyer, Global Uranium and Enrichment Ltd, is identified: \"Commenting on the acquisition and JV, Mr. Andrew Ferrier, Managing Director of GUE said...\"."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "Global Uranium and Enrichment Ltd (GUE) is acquiring its interest via a 50/50 joint venture. The JV acquires 100% of the project, making GUE's effective interest 50%. \"Powder River Basin LLC (owned 50% by the Usuran Resources Inc, and 50% by Snow Lake Exploration (US) Ltd) (Buyer). Usuran is a wholly owned subsidiary of Global Uranium and Enrichment Limited (Company)\"."
+    },
+    "primary_commodity": {
+      "value": "U",
+      "justification": "The documents describe the transaction as a \"Transformational U.S. Uranium Transaction\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the prompt. All provided documents are verified to be about the Pine Ridge project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The consideration for the acquisition is stated in US dollars: \"The consideration payable by Powder River to acquire a 100% interest in Pine Ridge totals US$22.5 million\"."
+    },
+    "cash_payments_raw": {
+      "value": 11250000,
+      "justification": "The total cash consideration is US$22,500,000. As a 50% partner in the joint venture, Global Uranium's share is US$11,250,000. \"pay the Seller a total of US$22,500,000 cash... As part of the JV, Global Uranium and Snow Lake are each responsible for providing 50% of the Consideration\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the project acquisition is entirely in cash. No shares were issued to the seller."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash payment values were found, so this field is null as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration to acquire the project from the seller. The placement mentioned is a separate capital raising transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Not applicable as no shares were issued as consideration for the project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "The joint venture has a total exploration commitment of US$10,000,000. As a 50% partner, Global Uranium's share is US$5,000,000. \"The Buyer shall expend a minimum of US$10,000,000 in exploration and development costs by the three-year anniversary of Closing.\" and \"As part of the JV, Global Uranium and Snow Lake are each responsible for providing 50% of the Consideration and future exploration expenditures.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 6,
+      "justification": "The seller retains a variable Net Smelter Royalty. The value is the maximum of the specified range. \"The Buyer shall pay the Seller a production royalty based on an applicable royalty percentage (which will be calculated by a Net Smelter Returns variable between 3.5% and 6%, dependent on U3O8 Realized Price)...\"."
+    },
+    "coverage_area_raw": {
+      "value": 8086,
+      "justification": "The total area is the sum of the mineral interests detailed in the JORC table: 3,584 hectares (Private) + 4,213 hectares (Federal) + 289 hectares (State) = 8,086 hectares. \"Acreage of mineral interest controlled by each method: o Private Minerals 8,856 acres/3,584 hectares o Federal Minerals 10,410 acres/4,213 hectares o State Minerals 713 acres/289 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the JORC table breakdown of mineral interests: \"Private Minerals 8,856 acres/3,584 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents explicitly state that no JORC compliant Mineral Resource has been estimated. \"Insufficient modern exploration has been conducted to estimate a JORC compliant Mineral Resource and it is uncertain whether future exploration will lead to the estimation of a Mineral Resource in the defined areas.\" The JORC Table Section 3 also repeatedly states, \"No Mineral Resources are reported on the Project.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:GUE",
+      "justification": "The buyer's ticker and exchange are provided in the document: \"Global Uranium and Enrichment Limited (ASX: GUE, OTCQB: GUELF)\"."
+    }
+  }
+}

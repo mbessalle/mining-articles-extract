@@ -1,0 +1,80 @@
+--- Article Metadata ---
+Project Name: South Pass
+Company Name: Basin Uranium Corp
+Exchange: CSE
+Ticker: NCLR
+Primary Commodity: U
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.6.2023, 9:02:00 AM
+
+# Basin Uranium Stakes Significant New Uranium Project in Wyoming
+
+Vancouver, British Columbia--(Newsfile Corp. - December 6, 2023) - **BASIN URANIUM CORP. (CSE: NCLR)**("**Basin Uranium** " or the "**Company** ") is pleased to announce it has acquired the South Pass Property Uranium Project (the "**Project** " or "**South Pass** ") located in Fremont and Sublette County, Wyoming, USA. The Project, which was acquired through direct staking by the Company, is comprised of 151 unpatented mineral lode claims totaling 3,775 acres located along the perimeter of the Great Divide Basin of Wyoming (see Figure 1). Wyoming is home to both the largest uranium reserves and top producing state in US1, with the Great Divide Basin representing the least exploited of Wyoming's basins estimated to contain over 270 million pounds of uranium2.
+
+"The staking of the South Pass property represents our continued expansion into the USA, focused on acquiring strategic assets located in in prolific mining districts with extensive historical exploration," commented Mike Blady, CEO of Basin Uranium. "Preliminary review of historical exploration records for South Pass dating back to the 1960's indicates the potential to host ISR-amendable uranium mineralization. Wyoming represents one of the premiere exploration and mining jurisdictions for uranium within the USA which provides for a clearly defined and expedient pathway for permitting and development."
+
+[](https://images.newsfilecorp.com/files/8416/190026_70125bf5f4a45bce_001full.jpg)
+
+_Figure 1: South Pass Project Map_  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/8416/190026_70125bf5f4a45bce_001full.jpg>
+
+**South Pass Project, Wyoming**
+
+The South Pass Uranium Project is comprised of 3,775 acres of contiguous claims (151 unpatented mineral lode claims) located 45 miles southwest of Lander, Wyoming. Access to the property is facilitated through State Highway 28, located within 5 miles to the southeast, with year-round gravel and ATV roads servicing the claims. Exploration dates back to the 1960's and 1970's with several large companies having drilled numerous wells along a 12-mile-long trend that bisects the long axis of the property. Specifically, close-spaced drilling by Rocky Mountain Energy Corp. (a subsidiary of Union Pacific Railway) in the 1980's reported uranium mineralization at depths of over 400 feet - depths which would be potentially amenable to in-situ recovery (ISR) methods. Evaluation of historical records also indicated a historic resource was calculated on at least two parts of the claims currently comprising the South Pass project, however additional verification and validation must be performed by the Company's Qualified Person before being disclosed publicly. 
+
+_The reader is cautioned that at this time it is too early to assess the feasibility of these recovery methods at South Pass however mineralization at this depth typically lies within the parameters of ISR mining and recovery._
+
+**Qualified Person:**
+
+R. Tim Henneberry, PGeo (B.C.), a technical advisor to the Company, is the Qualified Person as defined by National Instrument 43-101 who has reviewed and approved the technical data in this news release.
+
+**About Basin Uranium Corp.**
+
+Basin Uranium is a Canadian junior exploration company focused on mineral exploration and development in the green energy sector. The Company has three advanced-stage uranium projects located in the United States, namely the Chord project in South Dakota, the South Pass project in Wyoming, and the Wray Mesa project in Utah. All three projects have seen extensive historical exploration and are located in prospective development areas. The Company also has the Mann Lake uranium project, located in the world-class Athabasca basin of Northern Saskatchewan, Canada, in addition to the CHG gold project in south-central British Columbia.
+
+For further information, please contact Mr. Mike Blady or view the Company's filings at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/eL7vaS2JwM).
+
+On Behalf of the Board of Directors  
+Mike Blady  
+Chief Executive Officer  
+[info@basinuranium.ca](mailto:info@basinuranium.ca)  
+604-722-9842
+
+ _**Neither the Canadian Securities Exchange nor its regulation services provider accepts responsibility for the adequacy or accuracy of this news release**_**.**
+
+**FORWARD-LOOKING STATEMENTS:**
+
+_Cautionary Note Regarding Forward-Looking Statements: This news release includes certain statements and information that may constitute forward-looking information within the meaning of applicable Canadian securities laws. All statements in this news release, other than statements of historical facts, including statements regarding future estimates, plans, objectives, timing, assumptions or expectations of future performance are forward-looking statements and contain forward-looking information. Generally, forward-looking statements and information can be identified by the use of forward-looking terminology such as "intends" or "anticipates", or variations of such words and phrases or statements that certain actions, events or results "may", "could", "should", "would" or "occur". Forward-looking statements are based on certain material assumptions and analysis made by the Company and the opinions and estimates of management as of the date of this news release. These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking statements or forward-looking information. Important factors that may cause actual results to vary include, without limitation, uncertainties affecting the expected use of proceeds. Although management of the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking statements or forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and forward-looking information. Readers are cautioned that reliance on such information may not be appropriate for other purposes. The Company does not undertake to update any forward-looking statement, forward-looking information or financial out-look that are incorporated by reference herein, except in accordance with applicable securities laws._
+
+* * *
+
+1Domestic Uranium Production Report - Q2/2023, US Energy Information Administration [https://www.eia.gov/uranium/production/quarterly/qupdtable1.php](https://api.newsfilecorp.com/redirect/852OPheG2m)  
+2Applied Exploration Geology and Uranium Resources of Great Divide Basin, Wyoming [https://pubs.geoscienceworld.org/aapgbull/article-abstract/63/5/822/558172/Applied-Exploration-Geology-and-Uranium-Resources](https://api.newsfilecorp.com/redirect/yE25Luw1ea)
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/190026](https://api.newsfilecorp.com/redirect/1p2v3fBrK0)
+
+### Project Name
+
+[South Pass Project](/?gid=5855)  
+Wyoming, United States
+
+--- Detailed Quote ---
+
+Last: 0.13                       Open: 0.135
+High: 0.135                       Bid: 0.13
+Bid Size: 53500                   Beta: 0.02349
+Year High: 0.45                  Market Cap: 3.53m
+PB Ratio: 1.20                   EPS: -0.35
+Average Volume (30 Day): 23.93k    Volume: 26.00k
+Prev. Close: 0.13                Low: 0.13
+Ask: 0.145                        Ask Size: 15500
+VWAP: 0.13452                       Year Low: 0.115
+Total Shares: 27.15m               Shares Out: 27.15m
+Float: 20.76m                      Exchange: CSE

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Spring_Peak/43383.txt",
+    "projects/Spring_Peak/63361.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Spring Peak",
+      "justification": "The text repeatedly refers to the project as the 'Spring Peak project', for example: 'Headwater Gold Consolidates Spring Peak Land Position Through Private Land Agreements and Additional Claim Staking'."
+    },
+    "company_name": {
+      "value": "Headwater Gold Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Vancouver, British Columbia - The Newswire - November 1, 2023 - Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF) (the \"Company\" or \"Headwater\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Caleb Stroup",
+      "justification": "The CEO of the acquiring company is quoted in the text: 'Caleb Stroup, the President and CEO of the Company, states: “The expansion and consolidation of the Spring Peak land position is an important milestone...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text describes the underlying agreement for the project which is being consolidated: 'Headwater holds an option to acquire a 100% undivided interest in the Spring Peak project from Orogen Royalties...'"
+    },
+    "primary_commodity": {
+      "value": "Au",
+      "justification": "The text mentions gold exploration and results multiple times, for example: 'Recent drilling at the Disco Zone has confirmed the presence of high-grade gold mineralization, including significant intersections such as 15.92 g/t Au over 2.38 m...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No specific article URL is provided in the document text, only a general company website (www.headwatergold.com)."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency is explicitly stated in the terms of the private land agreements: 'By making an initial cash payment of US$10,000 on signing...'"
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The total initial cash payment is the sum of two separate payments for two lease agreements within the Spring Peak project: one for 'an initial cash payment of US$10,000 on signing' and a second for 'an initial cash payment of US$10,000 on signing'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms for the land consolidation involved cash payments for leases; no share payments were mentioned as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms specify separate cash payments, not a single combined value for cash and shares."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms for the land consolidation involved cash payments for leases; no shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The company did not pay with options; rather, it acquired an option to purchase land as part of the lease agreements."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned '7,000 metres' drill program for Spring Peak, but this is described as a scheduled exploration activity funded under a separate earn-in agreement with Newmont, not a commitment as part of the consideration for the private land lease agreements."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the consideration for the private land lease agreements."
+    },
+    "nsr_acquired_percent": {
+      "value": 5,
+      "justification": "The terms for one of the lease agreements state that the land is 'subject to a 5% NSR royalty', which is retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 7835,
+      "justification": "The text specifies the total area of the Spring Peak project after the expansion: 'The addition of 583 new claims in this area, split between the Company’s Spring Peak (~7,835 hectares) and Lodestar (~1,620 hectares) projects...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is provided with the area measurement: '...split between the Company’s Spring Peak (~7,835 hectares) and Lodestar (~1,620 hectares) projects...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Spring Peak project. It mentions historical production for the surrounding district and drill intercepts, but not a defined resource volume or mass."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HWG",
+      "justification": "The company's ticker and exchange are provided in the introduction: 'Headwater Gold Inc. (CSE: HWG) (OTCQB: HWAUF)'."
+    }
+  }
+}

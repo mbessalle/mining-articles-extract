@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Prince/88825.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Prince",
+      "justification": "The article is titled 'Hawthorn to Acquire Past Producing Prince Silver Deposit in Nevada...' and refers to the 'Prince Silver project' throughout."
+    },
+    "company_name": {
+      "value": "Hawthorn Resources Corp.",
+      "justification": "The acquiring company is identified as 'Hawthorn Resources Corp. (CSE: HWTN) (\"Hawthorn\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Ralph Shearing",
+      "justification": "The press release is signed 'On Behalf of the Board of Directors Ralph Shearing, Director, President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Hawthorn is acquiring Stampede Metals Corporation, which holds the project. The text states: 'Hawthorn has agreed to acquire 100% interest in the issued and outstanding shares of Nevada Corp. from the shareholders of Australia Corp'."
+    },
+    "primary_commodity": {
+      "value": "Zn",
+      "justification": "While multiple commodities are mentioned, the historical production data includes a significant zinc component: 'The Prince Mine historic production between 1912 and 1949 was recorded at 1.12 Mt @ 4.5% Zn...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241796",
+      "justification": "The article content, titled 'Hawthorn to Acquire Past Producing Prince Silver Deposit in Nevada...', directly concerns the acquisition of the Prince project by Hawthorn Resources Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration shares have a deemed price in dollars, and the concurrent financing is explicitly in Canadian dollars, implying the transaction currency is CAD. '...at a deemed price of $0.27 per Consideration Share.' and '...private placement of subscription receipts for minimum aggregate proceeds of C$3.5 million...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The primary consideration for the acquisition of Nevada Corp. is shares. The cash payments mentioned (USD $2,750,000 and USD $1,040,000) are related to underlying options to purchase claims held by Nevada Corp, not direct cash consideration for the acquisition itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, because the number of shares and a price per share are provided, the `amount_of_shares_issued` and `issued_share_price` fields are populated instead of this one."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is not presented as a single combined value; it is broken down by the number of shares and a deemed price per share."
+    },
+    "amount_of_shares_issued": {
+      "value": 23870000,
+      "justification": "This is the sum of 15,000,000 Consideration Shares, 8,500,000 conditional Prince Milestone Shares, and 370,000 finder's shares. 'Hawthorn will issue 15 million common shares (the \"Consideration Shares\")... Hawthorn will allot an additional 8.5 million shares (the \"Prince Milestone Shares\")... the Company intends to issue an aggregate of 370,000 common shares as finder's shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The share purchase warrants are part of the concurrent financing private placement, not part of the consideration paid to the seller for the project assets."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.27,
+      "justification": "The consideration shares and finder's shares were assigned a specific price: 'Hawthorn will issue 15 million common shares (the \"Consideration Shares\") to the benefit of Australia Corp shareholders at a deemed price of $0.27 per Consideration Share.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "A drilling commitment of 7,500 meters is mentioned, but it is explicitly for the Stampede Gap project, not the Prince project. '...in order to exercise the option and acquire a 100% interest in the Gap Optioned Claims, Nevada Corp must either complete 7,500 meters of drilling on the property...'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "A cash payment of USD $500,000 is mentioned as an alternative to a drilling commitment, but this is for the Stampede Gap project, not the Prince project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The net smelter royalties mentioned in the text (0.5%, 1%, 1.5%) are all explicitly associated with the claims of the Stampede Gap project, not the Prince project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the Prince project is comprised of '20 unpatented mineral claims' and '12 patented mineral claims' but does not provide a total area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was found, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that a compliant mineral resource has not been defined: 'Readers are cautioned that the Exploration Target is not an \"inferred\", \"indicated\" or \"measured\" mineral resource compliant with National Instrument 43-101... There has been insufficient exploration to define a mineral resource and it is uncertain if further exploration will result in the Exploration Target being delineated as a mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HWTN",
+      "justification": "The buyer is identified in the first paragraph as 'Hawthorn Resources Corp. (CSE: HWTN)'."
+    }
+  }
+}

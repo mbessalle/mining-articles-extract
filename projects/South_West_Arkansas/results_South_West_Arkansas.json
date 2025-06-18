@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/South_West_Arkansas/40836.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South West Arkansas",
+      "justification": "The article headline is 'Standard Lithium Acquires Large Parcel of Land for South West Arkansas Project'."
+    },
+    "company_name": {
+      "value": "Standard Lithium Ltd.",
+      "justification": "The first sentence identifies the company: 'Standard Lithium Ltd. (“Standard Lithium” or the “Company”) (TSXV:SLI) (NYSE American:SLI) (FRA:S5L)...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text mentions a President and COO, Dr. Andy Robinson, but does not name a CEO for Standard Lithium Ltd."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is for a land purchase ('acquisition of 118 acres of land'), not for a percentage interest in the project itself."
+    },
+    "primary_commodity": {
+      "value": "Li",
+      "justification": "The text describes the project's resource in terms of lithium: 'The SWA Project’s Indicated and Inferred Mineral Resource of 1.4 Mt and 0.4 Mt lithium carbonate equivalent, respectively...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, South West Arkansas, as stated in the headline: 'Standard Lithium Acquires Large Parcel of Land for South West Arkansas Project'. However, no article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes a land purchase but does not state the purchase price or the currency used for the transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not provide any financial details for the land acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not provide any financial details for the land acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not provide any financial details for the land acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not provide any financial details for the land acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not provide any financial details for the land acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 118,
+      "justification": "The text states: 'Standard Lithium Ltd. ... today announced the acquisition of 118 acres of land intended to advance development of its South West Arkansas Project'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text states: 'Standard Lithium Ltd. ... today announced the acquisition of 118 acres of land intended to advance development of its South West Arkansas Project'."
+    },
+    "resource_size": {
+      "value": "1.4 Mt and 0.4 Mt lithium carbonate equivalent",
+      "justification": "The text states: 'The SWA Project’s Indicated and Inferred Mineral Resource of 1.4 Mt and 0.4 Mt lithium carbonate equivalent, respectively, has some of the highest reported lithium brine concentrations in North America...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SLI",
+      "justification": "The text explicitly lists the company's tickers: 'Standard Lithium Ltd. (“Standard Lithium” or the “Company”) (TSXV:SLI) (NYSE American:SLI) (FRA:S5L)'."
+    }
+  }
+}

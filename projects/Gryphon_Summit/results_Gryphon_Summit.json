@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "projects/Gryphon_Summit/40283.txt",
+    "projects/Gryphon_Summit/67281.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gryphon Summit",
+      "justification": "The primary project is referred to as the 'Gryphon Summit Project' in the text. For example: 'Reyna Silver and Reyna Gold Announce Signing of Option Agreement for Gryphon Project in Nevada'."
+    },
+    "company_name": {
+      "value": "Reyna Gold Corp.",
+      "justification": "Reyna Gold Corp. is one of the two acquiring companies in a joint venture. The text states: 'Reyna Silver Corp. ... and Reyna Gold Corp. ... are pleased to announce that they have entered into a Property Option Agreement'."
+    },
+    "ceo_buyer": {
+      "value": "Michael Wood",
+      "justification": "The CEO of the buyer, Reyna Gold Corp., is identified in the text: '\"Our geological team has considerable expertise in Carlin Gold deposits we can bring to bear,\" said Michael Wood, CEO of Reyna Gold.'"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement for the main project allows for the acquisition of a 70% interest. 'The Agreement gives Reyna Silver and Reyna Gold, jointly, the ability to earn up to a 70% equity interest in the Project (the \"Option\").'"
+    },
+    "primary_commodity": {
+      "value": "Ag",
+      "justification": "The project has significant silver grades mentioned. 'Extensive systematic sampling revealed gold grades up to 15-24 g/t Au, silver grades up to 300-2060 g/t Ag...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/780347/reyna-silver-and-reyna-gold-announce-signing-of-option-agreement-for-gryphon-project-in-nevada",
+      "justification": "The article at this link is about the Gryphon Summit project acquisition by Reyna Silver and Reyna Gold."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for payments and expenditures is explicitly stated as US dollars. For example: 'expending a total of US$9,500,000 on the Project'."
+    },
+    "cash_payments_raw": {
+      "value": 2910000,
+      "justification": "The total cash payment of US$2,910,000 is an aggregation of US$1,100,000 from the main Gryphon Summit option agreement ('making cash payments to Gryphon in the total amount of US$1,100,000') and US$1,810,000 from the subsequent Mineral Hill option agreement, an inlier within the project ('making cash payments to Minquest in the aggregate amount of US$1,810,000')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, but does not provide a total monetary value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash payments and the number of shares to be issued, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2400000,
+      "justification": "The total is 2,400,000 shares, comprising 1,200,000 from Reyna Silver and 1,200,000 from Reyna Gold as stated: 'issuing a total of 1,200,000 common shares in the capital of Reyna Silver and 1,200,000 common shares in the capital of Reyna Gold to Gryphon.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments, separate from the main agreement, are not mentioned."
+    },
+    "issued_share_price": {
+      "value": 0.09,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.09'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 11050000,
+      "justification": "The total exploration commitment of US$11,050,000 is an aggregation of US$9,500,000 from the main Gryphon Summit option agreement ('expending a total of US$9,500,000 on the Project') and US$1,550,000 from the subsequent Mineral Hill option agreement ('incurring aggregate exploration expenditures of US$1,550,000 on the Project')."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller of the main project, Gryphon, will retain a 2% NSR. The text states: 'Gryphon will be granted a 2% net smelter returns royalty on the Project (subject to a 50% buy down right to a 1% royalty)...'"
+    },
+    "coverage_area_raw": {
+      "value": 10300,
+      "justification": "The project size is explicitly stated as 10,300 hectares: 'The 10,300-hectare Gryphon project covers 8 by 16 kilometres of ground...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified as hectares: 'The 10,300-hectare Gryphon project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides sample grades and historical production grades but does not contain a quantified mineral resource estimate with a total mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:REYG",
+      "justification": "The ticker for the buyer, Reyna Gold Corp., is explicitly stated in the text: 'Reyna Gold Corp. (TSXV:REYG)(OTCQB:REYFG)(\"Reyna Gold\")'."
+    }
+  }
+}

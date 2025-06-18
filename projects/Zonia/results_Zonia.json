@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "projects/Zonia/88455.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Zonia",
+      "justification": "The text states that World Copper has entered into an agreement to sell its interest in the 'Zonia copper project located in the Walnut Grove Mining District, Yavapai County, Arizona (\"Zonia\" or the \"Project\")'."
+    },
+    "company_name": {
+      "value": "World Copper Ltd.",
+      "justification": "The press release is issued by 'World Copper Ltd. (TSXV: WCU) (OTCQB: WCUFF) (FSE: 7LY0) (\"World Copper\" or the \"Company\")' which is selling the Zonia project. This aligns with the authoritative metadata provided."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is an unnamed 'arm's length third party (the \"Purchaser\")' and no CEO is mentioned for this entity."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction involves the Purchaser acquiring 'all of the issued and outstanding shares of the Company's Arizona subsidiary, Cardero Copper (USA) Ltd. (\"Subco\")', which holds the Zonia project."
+    },
+    "primary_commodity": {
+      "value": "Cu",
+      "justification": "The project is explicitly referred to as the 'Zonia copper project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241479",
+      "justification": "The article is titled 'World Copper Enters into Letter Agreement to Sell Zonia Project' and the content is entirely about this transaction for the Zonia project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The purchase price is stated as 'CAD $26.0 million cash'."
+    },
+    "cash_payments_raw": {
+      "value": 26000000,
+      "justification": "The total consideration is 'CAD $26.0 million cash (the \"Purchase Price\")', which is the sum of the tranches: 'CAD $8.0 million to World Copper at closing... an additional instalment of CAD $8.0 million on or before the 15-month anniversary of Closing, and a final instalment of CAD $10.0 million on or before the 30-month anniversary of Closing'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is specified as cash only; no share payments are mentioned in the agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly defined as cash, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The consideration is entirely in cash; no shares are being issued as payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration spending commitment as part of the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Zonia project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the Zonia project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions that the Zonia project has 'estimated resources' but does not provide a specific, quantified mineral resource estimate with mass or volume numbers (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is an unnamed private 'European based metals and mining investment manager' and no ticker or exchange is provided for this entity."
+    }
+  }
+}
