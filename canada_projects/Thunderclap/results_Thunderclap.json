@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Thunderclap/82807.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thunderclap",
+      "justification": "The text states: \"...Argo Gold can acquire a 100% interest in the Thunderclap mineral claim...\""
+    },
+    "company_name": {
+      "value": "Argo Gold Inc.",
+      "justification": "The acquiring company is identified as \"Argo Gold Inc. (CSE: ARQ) (OTC Pink: ARBTF) (FSE: A2ASDS) (XSTU: A2ASDS) (XBER: A2ASDS) (\"Argo \" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Judy Baker",
+      "justification": "The CEO of the buyer, Argo Gold Inc., is listed at the end of the article: \"Judy Baker, CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text specifies the interest to be acquired: \"...pursuant to which Argo Gold can acquire a 100% interest in the Thunderclap mineral claim...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article is titled \"Argo Acquires Additional Saskatchewan Uranium Claim\" and refers to the project's location in the Athabasca Basin, known for uranium."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/234910",
+      "justification": "The article is about the acquisition of the Thunderclap project by Argo Gold. The source link is provided at the end of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/234910\"."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment for the Thunderclap project is specified as '$1,000 in cash'. A separate transaction in the same press release is explicitly denoted in Canadian dollars ('C$40,000'), and the acquiring company, Argo Gold Inc., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 1000,
+      "justification": "The consideration for the Thunderclap claim is stated as: \"...for $1,000 in cash payable to the vendor.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a share issuance, but it is explicitly for a different acquisition: \"Argo has issued 500,000 common shares...whereby the Company acquired Thunderbolt and Zig Zag claims\". No shares were issued for the Thunderclap acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash payment value was available, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of 500,000 shares is explicitly tied to the acquisition of the Thunderbolt and Zig Zag claims, not the Thunderclap project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms for the Thunderclap project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms for the Thunderclap project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for the Thunderclap project, so there is no associated share price. The mentioned price of $0.08 per share relates to the separate acquisition of the Thunderbolt and Zig Zag claims."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 97,
+      "justification": "The text specifies the area of the project: \"...the Thunderclap mineral claim located in the Athabasca Basin which covers an area of 97 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: \"...covers an area of 97 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the property has not been drill-tested, implying no mineral resource exists: \"The Thunderclap Property is considered highly prospective and has never been drilled-tested.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ARQ",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Argo Gold Inc. (CSE: ARQ)\"."
+    }
+  }
+}

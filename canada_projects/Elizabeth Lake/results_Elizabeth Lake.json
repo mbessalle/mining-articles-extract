@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Elizabeth Lake/51187.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Elizabeth Lake",
+      "justification": "The article is titled 'Eagle Plains Acquires Elizabeth Lake Critical Metals Deposit' and the project is consistently referred to as Elizabeth Lake throughout the text."
+    },
+    "company_name": {
+      "value": "Eagle Plains Resources Ltd.",
+      "justification": "The first sentence of the article states: 'Eagle Plains Resources Ltd. (TSXV:EPL)(OTC PINK:EGPLF) has acquired by staking, a block of claims that cover the historic Elizabeth Lake Cu-Ag VMS deposit.'"
+    },
+    "ceo_buyer": {
+      "value": "C.C. (Chuck) Downie",
+      "justification": "The press release is signed 'On behalf of the Board of Directors \"C.C. (Chuck) Downie\" P. Geo President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'The claims are 100% owned by Eagle Plains and carry no underlying royalties or encumbrances.'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text describes the project as the 'Elizabeth Lake Cu-Ag VMS deposit' and historical resources are quoted in terms of copper grade, for example: '4,985,938 tonnes grading 0.73% Cu'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/847601/eagle-plains-acquires-elizabeth-lake-critical-metals-deposit",
+      "justification": "The article is titled 'Eagle Plains Acquires Elizabeth Lake Critical Metals Deposit' and the content is entirely focused on this project. The original press release link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was completed 'by staking', which does not involve a financial transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was completed 'by staking', which does not involve a cash payment. The text states: 'Eagle Plains Resources Ltd. ... has acquired by staking, a block of claims...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was completed 'by staking', which does not involve a share payment. The text states: 'Eagle Plains Resources Ltd. ... has acquired by staking, a block of claims...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was completed 'by staking', which does not involve a combined cash and share payment. The text states: 'Eagle Plains Resources Ltd. ... has acquired by staking, a block of claims...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued for the Elizabeth Lake acquisition. The mention of 750,000 shares is related to a separate transaction for the 'Lone Pine Project'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments for the Elizabeth Lake acquisition is mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments for the Elizabeth Lake acquisition is mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for the Elizabeth Lake acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters of drilling for the Elizabeth Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the Elizabeth Lake project."
+    },
+    "nsr_acquired_percent": {
+      "value": 0,
+      "justification": "The text explicitly states: 'The claims are 100% owned by Eagle Plains and carry no underlying royalties or encumbrances.'"
+    },
+    "coverage_area_raw": {
+      "value": 1266,
+      "justification": "The text states: 'The claims cover an area of 1266 ha and are located 21 km north of La Ronge, Saskatchewan.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The claims cover an area of 1266 ha and are located 21 km north of La Ronge, Saskatchewan.'"
+    },
+    "resource_size": {
+      "value": "4,985,938 tonnes grading 0.73% Cu",
+      "justification": "The text provides a historical resource estimate: 'The 2003 Saskatchewan Exploration and Development Highlights, published by the Saskatchewan Ministry of Energy and Resources, quotes a Geological Resource at Elizabeth Lake of 4,985,938 tonnes grading 0.73% Cu.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EPL",
+      "justification": "The buyer is identified as 'Eagle Plains Resources Ltd. (TSXV:EPL)(OTC PINK:EGPLF)' in the first paragraph of the article."
+    }
+  }
+}

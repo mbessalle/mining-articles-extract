@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Obalski/41066.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Obalski",
+      "justification": "The text identifies Obalski as one of the company's existing properties: \"the Corporation holds interests in five gold properties in the vicinity of the camp: Obalski, Monster Lake East, Monster Lake West, Hazeur and Doda Lake.\""
+    },
+    "company_name": {
+      "value": "TomaGold Corporation",
+      "justification": "The company is identified in the first sentence: \"TOMAGOLD CORPORATION (TSXV: LOT) (OTCQB: TOGOF) (“TomaGold ” or the “Corporation”) is pleased to announce that it has met all its initial commitments...\""
+    },
+    "ceo_buyer": {
+      "value": "David Grondin",
+      "justification": "The CEO is identified in a quote: \"said David Grondin, President and CEO of TomaGold.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Obalski project. It details the acquisition of 20 other properties in the Chibougamau Mining Camp. Obalski is mentioned only as a pre-existing asset."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text lists Obalski as one of the company's gold properties: \"the Corporation holds interests in five gold properties in the vicinity of the camp: Obalski, Monster Lake East, Monster Lake West, Hazeur and Doda Lake.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction for the Obalski project. It details TomaGold's acquisition of 20 different properties in the Chibougamau Mining Camp from SOQUEM, CIM, and Globex. Obalski is only mentioned as a pre-existing asset."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction for the Obalski project is mentioned in the article."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments mentioned in the article ($340,000 and $200,000) are for the acquisition of 20 other properties, not the Obalski project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments mentioned in the article are for the acquisition of 20 other properties, not the Obalski project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No financial transaction for the Obalski project is mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 7,125,000 shares issued are for the acquisition of 20 other properties, not the Obalski project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the article."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the article."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No financial transaction for the Obalski project is mentioned in the article."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Obalski project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Obalski project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No NSR is mentioned in relation to the Obalski project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Obalski project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit is mentioned for the Obalski project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No resource size is mentioned for the Obalski project. The text provides historical production data for the entire Chibougamau Mining Camp (\"produced around 55 million tonnes of ore\"), not a resource for the specific project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LOT",
+      "justification": "The ticker and exchange for TomaGold Corporation are provided in the first paragraph: \"TOMAGOLD CORPORATION (TSXV: LOT)\"."
+    }
+  }
+}

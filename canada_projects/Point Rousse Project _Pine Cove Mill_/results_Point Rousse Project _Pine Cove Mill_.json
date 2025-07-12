@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Point Rousse Project _Pine Cove Mill_/36796.txt",
+    "canada_projects/Point Rousse Project _Pine Cove Mill_/39663.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Point Rousse Project Pine Cove Mill",
+      "justification": "The authoritative project name is 'Point Rousse Project Pine Cove Mill'. The text confirms the project name in the headline: 'Maritime Announces Purchase Agreement to Acquire Point Rousse Project from Signal Gold'."
+    },
+    "company_name": {
+      "value": "Maritime Resources Corp.",
+      "justification": "The buyer is identified in the first sentence: 'Maritime Resources Corp. (TSXV: MAE) (\"Maritime\" or the \"Company\") is pleased to announce that it has entered into a share purchase agreement with Signal Gold Inc.'"
+    },
+    "ceo_buyer": {
+      "value": "Garett Macdonald",
+      "justification": "The CEO of the buyer, Maritime Resources, is identified: 'comments Garett Macdonald, President and CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is acquiring the entire project-holding entity: 'the Vendor will sell, assign and transfer to the Company and the Company will purchase all of the shares of Point Rousse Mining Inc. (the \"Transaction\"), which owns all of the property, assets, mineral rights, royalties and liabilities underlying the Point Rousse Project'."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The text describes the assets as being related to gold processing: 'the key asset being the Pine Cove mill, a fully permitted gold processing facility rated at 1,400 tonnes per day'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/170488",
+      "justification": "The article, titled 'Maritime Announces Purchase Agreement to Acquire Point Rousse Project from Signal Gold and Related Offering...', directly concerns the acquisition of the specified project by the specified company."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is specified in Canadian dollars: 'for aggregate consideration of C$4 million'."
+    },
+    "cash_payments_raw": {
+      "value": 3000000,
+      "justification": "The cash portion of the consideration is explicitly stated: 'comprised of: (i) C$3 million in cash (the \"Cash Purchase Price\").'"
+    },
+    "share_payments_raw": {
+      "value": 1000000,
+      "justification": "The value of the share component is clarified in the second article: '23,970,218 common shares (the \"Consideration Shares\") of Maritime with a value of approximately C$1 million'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash and share payment values were provided, so this combined field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 23970218,
+      "justification": "The number of shares issued as part of the consideration is specified: 'and (ii) 23,970,218 common shares (the \"Consideration Shares\") in the capital of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the project acquisition. Warrants were issued as part of separate financing transactions (Note Offering and Unit Offering) to fund the acquisition and for general purposes, not as payment to the vendor for the asset."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.04172,
+      "justification": "The deemed price per share for the transaction is stated: 'issued at a deemed price of approximately C$0.04172 per Consideration Share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include any commitment for a specific amount of exploration drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any commitment for exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction did not involve the creation or specific transfer of an NSR as a key term of the deal. The acquisition was for the entire company which owns all assets, including any existing royalties."
+    },
+    "coverage_area_raw": {
+      "value": 57,
+      "justification": "The second article specifies the area of the acquired claims: 'over 57 km2 of mineral claims and mining leases, including the Stog'er Tight gold deposit.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the text: 'over 57 km2 of mineral claims and mining leases'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions the acquisition includes the 'Stog'er Tight gold deposit' but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for it or any other deposit within the project area."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MAE",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Maritime Resources Corp. (TSXV: MAE)'."
+    }
+  }
+}

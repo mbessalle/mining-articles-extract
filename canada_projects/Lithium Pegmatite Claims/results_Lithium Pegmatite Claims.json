@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lithium Pegmatite Claims/35389.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium Pegmatite Claims",
+      "justification": "The project is identified in the text in the title: 'Acquired 37,000 Hectares Potential Lithium Bearing Pegmatite Claims in Saskatchewan, Canada' and in a project summary section: 'Project Name Lithium Pegmatite Claims Project'."
+    },
+    "company_name": {
+      "value": "Arya Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Arya Resources Ltd. (TSX-V: RBZ) (“Arya” or the “Company”)' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Rasool Mohammad",
+      "justification": "The CEO of the buyer, Arya Resources Ltd., is listed at the end of the press release: 'On behalf of the Board of Directors: Rasool Mohammad, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that the company acquired claims, but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The announcement states the company 'acquired 37,000 Hectares (Ha) of new Potential Lithium (Li) bearing Pegmatites claims In Saskatchewan, Canada.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, 'Lithium Pegmatite Claims', but no URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSXV (Toronto Stock Exchange Venture), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The detailed quote section also lists 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash consideration for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share consideration for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions future drilling ('Follow up work includes mapping and sampling- on positive results drilling.') but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions future exploration work but does not specify a monetary commitment for this specific project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 37000,
+      "justification": "The text states: 'Arya Resources Ltd. (TSX-V: RBZ) (“Arya” or the “Company”) is pleased to announce that has acquired 37,000 Hectares (Ha) of new Potential Lithium (Li) bearing Pegmatites claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The text states: '...acquired 37,000 Hectares (Ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified statement of mineral resources in terms of mass or volume (e.g., tonnes, ounces). It only mentions geological mapping and sample values (e.g., 'highest Li sample of 108ppm')."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RBZ",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence: 'Arya Resources Ltd. (TSX-V: RBZ)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/TCS/63547.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "TCS",
+      "justification": "The article is titled 'Orogen Royalties Acquires the TCS Copper and Zinc Massive Sulphide Target in British Columbia' and refers to the project as 'the TCS volcanic-hosted-massive-sulphide (VHMS) project'."
+    },
+    "company_name": {
+      "value": "Orogen Royalties Inc.",
+      "justification": "The acquiring company is identified as 'Orogen Royalties Inc. (\"Orogen\" or the \"Company\")' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Paddy Nicol",
+      "justification": "The press release is signed 'On Behalf of the Board OROGEN ROYALTIES INC. Paddy Nicol President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the 'Acquisition terms' section, the text states: 'The Company has acquired a 100% interest in the TCS project from a syndicate of prospectors (the \"Syndicate\")...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as the 'TCS Copper and Zinc Massive Sulphide Target' in the headline."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/881833/orogen-royalties-acquires-the-tcs-copper-and-zinc-massive-sulphide-target-in-british-columbia",
+      "justification": "The article is about the acquisition of the TCS project by Orogen Royalties, which matches the project of interest. The link is provided in the footer of the press release text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is specified in '$' and the acquiring company, Orogen Royalties Inc., is based in Vancouver, BC, Canada and is listed on the TSX Venture Exchange (TSXV), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 25000,
+      "justification": "The 'Acquisition terms' state the company acquired the project 'by paying the Syndicate $25,000 cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and exploration expenditure components of the deal are listed separately, not as a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any payment in warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions '15,000 metres of drilling' as a condition to cease annual payments, not as a required exploration commitment for the acquisition itself."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 125000,
+      "justification": "The 'Acquisition terms' state the company acquired the project by 'making exploration expenditures of $125,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text describes a potential future arrangement regarding a royalty ('In the event a Future Payment involves a royalty interest...'), but no royalty was acquired or retained as part of the current transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1850,
+      "justification": "The text states: 'The TCS project consists of 1,850 hectares of gentle terrain in northwestern British Columbia...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The TCS project consists of 1,850 hectares of gentle terrain in northwestern British Columbia...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an 'undrilled copper-zinc target', which implies no mineral resource has been defined. The resource figures mentioned are for the nearby Kutcho Copper project for comparison purposes."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:OGN",
+      "justification": "The first paragraph of the press release identifies the company with its tickers: '(TSXV:OGN)(OTCQX:OGNRF) Orogen Royalties Inc.'"
+    }
+  }
+}

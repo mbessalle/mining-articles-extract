@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Baptiste _Decar_ Nickel/76521.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Baptiste  Decar  Nickel",
+      "justification": "The primary project of interest is the Baptiste Nickel Project, located within the Decar Nickel District, as stated: '...the Baptiste Nickel Project (\"Baptiste\" or the \"Project\"), located within the Company's wholly-owned Decar Nickel District (\"Decar\").'"
+    },
+    "company_name": {
+      "value": "FPX Nickel Corp.",
+      "justification": "The acquiring company is identified as 'FPX Nickel Corp. (TSXV: FPX) (OTCQB: FPOCF) (\"FPX Nickel\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Martin Turenne",
+      "justification": "The CEO of the buyer, FPX Nickel Corp., is identified at the end of the release: 'Martin Turenne, President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the claims related to the transaction: 'the Company has acquired from a previous operator a 100% interest in 18 km2 of claims adjacent to the southern boundary of Decar'."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is explicitly referred to as a nickel project throughout the document, for example in the title: 'FPX Nickel Expands Land Packages at the Decar Nickel District'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No direct, specific article link was provided in the source text, only a general link to the company's main website."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction value is given as '$185,000'. The currency is inferred to be Canadian Dollars (CAD) as the acquiring company, FPX Nickel Corp., is listed on the TSX Venture Exchange ('Exchange: TSXV')."
+    },
+    "cash_payments_raw": {
+      "value": 185000,
+      "justification": "The cash payment for the Decar claims is explicitly stated: 'the Company has acquired from a previous operator a 100% interest in 18 km2 of claims adjacent to the southern boundary of Decar, for cash consideration of $185,000'. The separate $50,000 payment for the Klow project was ignored as it is not the project of interest."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash consideration only."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was for cash consideration only, not a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Decar project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a '$1,000,000 in exploration expenditures' commitment, but this is explicitly for the Klow Project, not the Baptiste/Decar project of interest."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a '1.5% NSR royalty', but this is related to a potential dilution scenario on the Klow Project, not the Baptiste/Decar project."
+    },
+    "coverage_area_raw": {
+      "value": 18,
+      "justification": "The area acquired in the M&A transaction for the Decar project is specified as 18 km2: 'the Company has acquired from a previous operator a 100% interest in 18 km2 of claims adjacent to the southern boundary of Decar'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the acquired area is specified in the text: '...acquired from a previous operator a 100% interest in 18 km2 of claims...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a 'large-scale greenfield discovery' but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FPX",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'FPX Nickel Corp. (TSXV: FPX)'."
+    }
+  }
+}

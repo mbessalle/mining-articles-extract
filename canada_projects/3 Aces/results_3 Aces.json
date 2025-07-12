@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/3 Aces/18656.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "3 Aces",
+      "justification": "The text lists the company's assets, which include 'the 3 Aces project in the Yukon Territory.'"
+    },
+    "company_name": {
+      "value": "Seabridge Gold Inc.",
+      "justification": "The press release is from 'Seabridge Gold (TSX: SEA) (NYSE: SA)'."
+    },
+    "ceo_buyer": {
+      "value": "Rudi Fronk",
+      "justification": "The text identifies 'Rudi Fronk' as 'Chairman & C.E.O.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is a corporate update about management appointments, not an M&A transaction. While it states 'Seabridge holds a 100% interest in... the 3 Aces project', it does not describe the terms of the acquisition itself."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The company is named 'Seabridge Gold' and the text states 'Seabridge holds a 100% interest in several North American gold projects.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction for the 3 Aces project. The article's subject is 'Seabridge Gold Strengthens Management Team with 3 Key Appointments' and does not contain any details of a project acquisition."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitments."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction or mention any royalties."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the coverage area for the 3 Aces project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the coverage area for the 3 Aces project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not provide a resource size, instead stating: 'For a full breakdown of Seabridge's mineral reserves and mineral resources by category please visit the Company's website...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:SEA",
+      "justification": "The text identifies the company as 'Seabridge Gold (TSX: SEA) (NYSE: SA)'."
+    }
+  }
+}

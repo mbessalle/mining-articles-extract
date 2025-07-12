@@ -1,0 +1,92 @@
+--- Article Metadata ---
+Project Name: Chester
+Company Name: Canadian Copper Inc.
+Exchange: CSE
+Ticker: CCI
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+9.30.2024, 6:00:00 PM
+
+# Canadian Copper Closes Chester Asset Sale and Receives Notice of Early Turgeon Payment
+
+Toronto, Ontario--(Newsfile Corp. - September 30, 2024) - Canadian Copper Inc. (CSE: CCI) ("Canadian Copper" or the "Company") announced today the closing of the Chester Project asset sale and certain modifications to the [previously announced Raptor Resources Ltd. ("Raptor") transaction.](https://api.newsfilecorp.com/redirect/55QJyI4Knw) Raptor has requested (**Table A**) certain changes to the transaction agreements to which the Company has agreed to. The executed updated purchase agreements do not impact any cash component paid to Canadian Copper previously [announced on September 10th, 2024.](https://api.newsfilecorp.com/redirect/LG4RZsaX4M)
+
+**Payment Transfer Summary**
+
+  * The $675,0001 associated with the Chester Project Agreement is being transferred to the Company. 
+
+  * The $225,0001 early [exercise payment associated](https://api.newsfilecorp.com/redirect/oLkOgSMk3O) with the Turgeon Project Agreement is being transferred to the Company. 
+
+  * Under the modified agreements, Raptor is targeting its Initial Public Offering ("IPO") and listing on the Australian Securities Exchange ("ASX") in June 2025. Therefore, Canadian Copper will receive 4,000,000 Raptor unlisted shares until their listing is complete. Future Turgeon cash and share payment2 totals remain unchanged.
+
+
+
+
+**Table A: Transaction Agreement Changes****1**
+
+[](https://images.newsfilecorp.com/files/9218/224862_6978ed2d84bbc85f_001full.jpg)  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/9218/224862_6978ed2d84bbc85f_001full.jpg>
+
+_**"Multiparty transactions are rarely a straight line. We welcome the closing of the Chester Agreement and receiving a non-dilutive capital injection via the Chester and Turgeon cash payments. New Brunswick is an excellent jurisdiction to explore for base metals and we are eager to watch the Chester and Turgeon resources increase in size through additional exploration efforts by Raptor."**_ Simon Quick, CEO of Canadian Copper.
+
+**Figure A: Asset Sale Map**
+
+[](https://images.newsfilecorp.com/files/9218/224862_6978ed2d84bbc85f_002full.jpg)  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/9218/224862_6978ed2d84bbc85f_002full.jpg>
+
+**Qualified Person**
+
+Mr. Eugene Puritch, P.Eng., FEC, CET, President of P&E Mining Consultants Inc. and independent Qualified Person as defined in NI 43-101. Mr. Puritch is responsible for the Murray Brook MRE and has reviewed and approved the scientific and technical content of this news release.
+
+Mr. Michael Dufresne, M.Sc., P.Geol., P.Geo. is President and a Principal of APEX Geoscience Ltd. and is an independent QP. Mr. Dufresne is responsible for the Chester MRE and has reviewed and approved the geological information reported in this news release.
+
+**About Canadian Copper Inc.**
+
+Canadian Copper is a Canadian-based mineral exploration company with a copper and base metals portfolio of historical resources and grassroots projects. The Company is focused on the prolific Bathurst Mining Camp (BMC) of New Brunswick, Canada. There are currently 90,044,762 shares issued and outstanding in the Company.
+
+**For more information, please contact:**
+
+Simon Quick, Director and CEO
+
+**email** [simon@canadiancopper.com](mailto:simon@canadiancopper.com) / [ir@canadiancopper.com](mailto:ir@canadiancopper.com)  
+**phone** (905)-220-6661  
+**web** [www.canadiancopper.com](https://api.newsfilecorp.com/redirect/O3JEyH71JQ)
+
+Neither the CSE nor its Market Regulator (as that term is defined in the policies of the CSE) accepts responsibility for the adequacy or accuracy of this news release.
+
+**Cautionary and Forward-Looking Statements**
+
+ _This news release includes certain forward-looking statements and forward-looking information (collectively, "forward-looking statements") within the meaning of applicable Canadian securities legislation. All statements, other than statements of historical fact, included herein including, without limitation, statements regarding the sale of the Chester and Turgeon Projects and the anticipated business plans and timing of future activities of the Company, are forward-looking statements. Although the Company believes that such statements are reasonable, it can give no assurance that such expectations will prove to be correct. Often, but not always, forward looking information can be identified by words such as "pro forma", "plans", "expects", "will", "may", "should", "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates", "believes", "potential" or variations of such words including negative variations thereof, and phrases that refer to certain actions, events or results that may, could, would, might or will occur or be taken or achieved. Forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the Company to differ materially from any future results, performance or achievements expressed or implied by the forward-looking statements. Such risks and other factors include, among others, statements as to the anticipated business plans and timing of future activities of the Company, including the Company's option to acquire properties under the Puma Option Agreement, the proposed expenditures for exploration work thereon, the ability of the Company to obtain sufficient financing to fund its business activities and plans, delays in obtaining governmental and regulatory approvals (including of the CSE), permits or financing, changes in laws, regulations and policies affecting mining operations, the Company's limited operating history, currency fluctuations, title disputes or claims, environmental issues and liabilities, as well as those factors discussed under the heading "Risk and Uncertainties" in the Company's annual management discussion and analysis for the year ended October 31, 2023 and other filings of the Company with the Canadian Securities Authorities, copies of which can be found under the Company's profile on the SEDAR+ website at www.sedarplus.ca. Readers are cautioned not to place undue reliance on forward-looking statements. The Company undertakes no obligation to update any of the forward-looking statements in this presentation or incorporated by reference herein, except as otherwise required by law._
+
+_1 CAD Exchange Rate (AUD:CAD) 0.9_  
+ _2 $675,000 payment with a minimum cash component of $270,0001 by Raptor to the Company on or before June 30th, 2025. This payment is conditional on Raptor listing its company shares on the ASX._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/224862](https://api.newsfilecorp.com/redirect/PLGg2SLznw)
+
+### Project Name
+
+[Chester Project](/?gid=2712)  
+New Brunswick
+
+--- Detailed Quote ---
+
+Last: 0.17                       Open: 0.175
+High: 0.175                       Bid: 0.17
+Bid Size: 3500                   Beta: 1.37117
+Year High: 0.24                  Market Cap: 17.39m
+PB Ratio: 4.90                   EPS: -0.02
+Average Volume (30 Day): 77.73k    Volume: 42.43k
+Prev. Close: 0.17                Low: 0.17
+Ask: 0.175                        Ask Size: 21000
+VWAP: 0.17036                       Year Low: 0.055
+Total Shares: 102.27m               Shares Out: 102.27m
+Float: 97.26m                      Exchange: CSE

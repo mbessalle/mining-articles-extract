@@ -1,0 +1,81 @@
+--- Article Metadata ---
+Project Name: Bam (Ball Creek)
+Company Name: P2 Gold Inc.
+Exchange: TSXV
+Ticker: PGLD
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.7.2023, 5:00:00 PM
+
+# P2 Gold Acquires Ball Creek Claims
+
+VANCOUVER, British Columbia, March 07, 2023 (GLOBE NEWSWIRE) -- **P2 Gold Inc.** (“P2” or the “Company”) (TSX-V:PGLD) (OTCQB:PGLDF) reports that it has entered into an agreement (the “Agreement”) with a wholly-owned subsidiary of Orogen Royalties Inc. (“Orogen”), a TSX Venture Exchange (the “Exchange”) listed company, for the acquisition of certain mineral claims (the “Ball Creek Claims”) that comprise the western portion of Orogen’s Ball Creek Property. The Agreement remains subject to Exchange approval.
+
+The Ball Creek Claims border the Company’s BAM Project to the north ([see the attached map](https://www.globenewswire.com/Tracker?data=xzHFqxVQj6LQouhb5YjREAa4OCLsYMMz3NDb4Osx352RH7Gvo8hvpy-5ufMp6bTGNqLP_vn87JIRDIVevHIqsoJlWoaWYbWf_jIFynrwKw6qVLqiTEByyFBQbiJT3ZcC3XihY92gJaBzfvXXXvWpkLRlNWtdUREfBjqzKapIalNks9y-pgClO5Y6MpOGIYMQcGUGZxiXixTwOKpQ-vOxFB2d6Yqy7WhYaKLqMts1kow= "see the attached map")).
+
+  
+
+
+Under the terms of the Agreement, in return for the transfer of the Ball Creek Claims, the Company will issue four million shares in its capital to Orogen and grant Orogen a one percent net smelter returns royalty in respect of production from the Ball Creek Claims. In addition, the Ball Creek Property is subject to an underlying agreement with Sandstorm Gold Ltd. (“Sandstorm”) pursuant to which Sandstorm holds a two percent net smelter returns royalty (the “Sandstorm Royalty”), one percent of which may be repurchased for $1 million, and is entitled to a payment of $1 million on the announcement of a one-million-ounce Mineral Resource and $3 million on the announcement of a positive feasibility study. Under the Agreement, the Company has agreed to assign Orogen the right to repurchase one percent of the Sandstorm Royalty and assume the obligations to Sandstorm on the announcement of a one-million-ounce Mineral Resource and a positive feasibility study in respect of the portion of the Ball Creek Property being acquired by the Company.
+
+**About P2 Gold Inc.**
+
+P2 Gold is a mineral exploration and development company focused on advancing precious metals and copper discoveries and acquisitions in the western United States and British Columbia.
+
+For further information, please contact:
+
+Joseph Ovsenek   
+President & CEO  
+(778) 731-1055  
+  
+P2 Gold Inc.  
+Suite 1100, 355 Burrard Street  
+Vancouver, BC  
+V6C 2G8  
+[info@p2gold.com](mailto:info@p2gold.com "info@p2gold.com")  
+(SEDAR filings: P2 Gold Inc.)| Michelle Romero  
+Executive Vice President  
+(778) 731-1060  
+  
+---|---  
+  
+Neither the TSX Venture Exchange (the “Exchange”) nor its Regulation Services Provider (as that term is defined in the policies of the Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+**Forward Looking Information**
+
+This press release contains “forward-looking information” within the meaning of applicable securities laws that is intended to be covered by the safe harbours created by those laws. “Forward-looking information” includes statements that use forward-looking terminology such as “may”, “will”, “expect”, “anticipate”, “believe”, “continue”, “potential” or the negative thereof or other variations thereof or comparable terminology. Such forward-looking information includes, without limitation, information with respect to the Company’s expectations, strategies and plans for the Ball Creek Claims including the Company’s planned expenditures and exploration activities.
+
+Forward-looking information is not a guarantee of future performance and is based upon a number of estimates and assumptions of management at the date the statements are made. Furthermore, such forward-looking information involves a variety of known and unknown risks, uncertainties and other factors which may cause the actual plans, intentions, activities, results, performance or achievements of the Company to be materially different from any future plans, intentions, activities, results, performance or achievements expressed or implied by such forward-looking information. See “Risk Factors” in the Company’s annual information form for the year ended December 31, 2021, dated March 31, 2022 filed on SEDAR at www.sedar.com for a discussion of these risks.
+
+The Company cautions that there can be no assurance that forward-looking information will prove to be accurate, as actual results and future events could differ materially from those anticipated in such information. Accordingly, investors should not place undue reliance on forward-looking information.
+
+Except as required by law, the Company does not assume any obligation to release publicly any revisions to forward-looking information contained in this press release to reflect events or circumstances after the date hereof.
+
+A photo accompanying this announcement is available at 
+
+  
+
+
+### Project Name
+
+[Bam (Ball Creek) Project](/?gid=4201)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.145          Open: 0.15
+High: 0.15          Bid: 0.14
+Bid Size: 6000      Beta: 1.56801
+Year High: 0.165     Market Cap: 22.06m
+PB Ratio: -24.77      Average Volume (30 Day): 114.76k
+Volume: 143.50k        Prev. Close: 0.145
+Low: 0.135           Ask: 0.15
+Ask Size: 20000      VWAP: 0.14275
+Year Low: 0.05      Total Shares: 152.16m
+Shares Out: 152.16m    Escrow Shares: 942.50k
+Float: 91.08m         Exchange: TSXV

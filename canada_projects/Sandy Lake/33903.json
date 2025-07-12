@@ -1,0 +1,140 @@
+{
+  "article": {
+    "id": 33903,
+    "link": "https://www.newsfilecorp.com/release/162757/S2-Announces-Acquisition-of-Mining-Claims",
+    "title": "S2 Announces Acquisition of Mining Claims",
+    "description": "<img id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" src=\"https://api.newsfilecorp.com/newsinfo/162757/367\" /><p>Toronto, Ontario--(Newsfile Corp. - April 17, 2023) - <b>S2 Minerals Inc.&#160;</b>(CSE: STWO) (\"<b>S2</b>\" or the \"<b>Company</b>\")&#160;announces that it has acquired 880 mining claims (the \"<b>Property</b>\") in the Veekay Lake, Gifford Lake, Opikeigan Lake, Frond Lake, Rich Lake and Reserve Lake areas in Ontario.</p><p>The Property was acquired from an insider of the Company pursuant to an assignment agreement dated as of April 14, 2023. The insider had acquired the Property from an arm's length third party for a cash payment of $300,000 and a 2% net smelter returns royalty (the \"<b>Royalty</b>\") and agreed that if the Property was assigned to a public company before March 2024, such public company would issue $50,000 of common shares (the \"<b>Shares</b>\"). The Company assumed the obligations under the Royalty, paid $300,000 to the insider and issued 526,315 Shares with a deemed price of $0.095 per Share.</p><p>The assignment of the Property and assumption of the Royalty may be a \"related party transaction\" and therefore subject to Multilateral Instrument 61-101 &#8211;&#160;<i>Protection of Minority Security Holders in Special Transactions</i> (\"<b>MI 61-101</b>\") because the Company has acquired the Property from, assumed the obligations of a related party under the Royalty. However, Section 5.4(1) of MI 61-101 provides that such assignment and assumption does not require a formal valuation and Section 5.7(1)(a) of MI 61-101 provides that the Company is exempt from the requirement to obtain minority shareholder approval because the fair market value of any consideration received by the related party in connection with such assignment and assumption is less than 25% of the Company's market capitalization.</p><p><u><b>About S2 Minerals Inc.</b></u></p><p>S2 Minerals Inc. is a Canadian mineral exploration company and holds the Sandy Lake project in Ontario. The Sandy Lake project comprises approximately 167,000 acres of contiguous mineral claims in the Sandy Lake Archean Greenstone Belt, located approximately 140 miles north of Red Lake, Ontario. S2 beneficially holds a 100% interest in the mineral rights to approximately 137,000 acres, and holds a 50.1% interest in the approximately 15,000 acres of the \"Weebigee Joint Venture\" claims and a 50% interest in a further 15,000 acres of the Southern Block claims in joint ventures with Goldeye Explorations Limited, now part of Treasury Metals Inc. It is expected that over time, S2 may add new Canadian-focused exploration stage projects to its portfolio.</p><p>For further information please contact: </p><p>Dan Noone <br />CEO <br />+1.416.628.5904 <br />Email: <a href=\"mailto:info@s2minerals.com\">info@s2minerals.com</a></p><p><i>Forward-Looking Statements</i></p><p><i>This news release contains certain forward-looking statements, including, but not limited to, statements about the addition of projects to its portfolio. Wherever possible, words such as \"may\", \"will\", \"should\", \"could\", \"expect\", \"plan\", \"intend\", \"anticipate\", \"believe\", \"estimate\", \"predict\" or \"potential\" or the negative or other variations of these words, or similar words or phrases, have been used to identify these forward-looking statements. These statements reflect management's current beliefs and are based on information currently available to management as at the date hereof.</i></p><p><i>Forward-looking statements involve significant risk, uncertainties and assumptions. Many factors could cause actual results, performance or achievements to differ materially from the results discussed or implied in the forward-looking statements. These factors should be considered carefully and readers should not place undue reliance on the forward-looking statements. Although the forward-looking statements contained in this news release are based upon what management believes to be reasonable assumptions, the Company cannot assure readers that actual results will be consistent with these forward-looking statements. The Company assumes no obligation to update or revise them to reflect new events or circumstances, except as required by law.</i></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/mopjoHbpDO\">https://www.newsfilecorp.com/release/162757</a></p>",
+    "search_terms": "Sandy Lake,S2 Minerals Inc.,STWO",
+    "master_gid": 4491,
+    "date": "2023-04-17T21:05:00.000Z",
+    "tags": "Canada||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 1695,
+    "provider": null,
+    "excerpt": "Toronto, Ontario--(Newsfile Corp. - April 17, 2023) -S2 Minerals Inc.&#160;(CSE: STWO) (\"S2\" or the \"Company\")&#160;announces that it has acquired 880 mining claims (the \"Property\") in the Veekay Lake, Gifford Lake, Opikeigan Lake, Frond Lake, Rich Lake and Reserve Lake areas in Ontario.The Property was acquired from an insider of the",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "S2 Minerals Inc.",
+    "exchange": "CSE",
+    "root_ticker": "STWO",
+    "project_name": "Sandy Lake",
+    "gid": 4491,
+    "location": "Ontario, Canada",
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 4491,
+    "project_name": "Sandy Lake",
+    "location": "Ontario, Canada"
+  },
+  "articleExchange": "CSE",
+  "articleCompanyId": 1695,
+  "articleTicker": "STWO",
+  "articleCompanyName": "S2 Minerals Inc.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 1695,
+      "gid": 4493,
+      "project_name": "South Block",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 1695,
+      "gid": 4491,
+      "project_name": "Sandy Lake",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 1695,
+      "gid": 4492,
+      "project_name": "Weebigee",
+      "location": "Ontario, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 107713,
+      "company_id": 1695,
+      "title": "S2 Announces Closing of Private Placement Financing",
+      "link": null,
+      "date": "2025-06-11T18:54:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106937,
+      "company_id": 1695,
+      "title": "S2 Announces Private Placement Financing",
+      "link": null,
+      "date": "2025-06-04T12:22:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 81109,
+      "company_id": 1695,
+      "title": "S2 Minerals Announces Completion of Share Consolidation",
+      "link": "https://www.newsfilecorp.com/release/232531/S2-Minerals-Announces-Completion-of-Share-Consolidation",
+      "date": "2024-12-05T11:43:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 80276,
+      "company_id": 1695,
+      "title": "S2 Minerals Inc. Announces Share Consolidation",
+      "link": "https://www.newsfilecorp.com/release/231658/S2-Minerals-Inc.-Announces-Share-Consolidation",
+      "date": "2024-11-28T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 33903,
+      "company_id": 1695,
+      "title": "S2 Announces Acquisition of Mining Claims",
+      "link": "https://www.newsfilecorp.com/release/162757/S2-Announces-Acquisition-of-Mining-Claims",
+      "date": "2023-04-17T21:05:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -51925,
+      "company_id": 1695,
+      "title": "S2 Announces Assignment of Option Agreement and First Anniversary Payment",
+      "link": "https://www.newsfilecorp.com/release/148419/S2-Announces-Assignment-of-Option-Agreement-and-First-Anniversary-Payment",
+      "date": "2022-12-16T21:10:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -3821,
+      "company_id": 1695,
+      "title": "S2 Minerals Announces Resignation of Director",
+      "link": "https://www.newsfilecorp.com/release/113352/S2-Minerals-Announces-Resignation-of-Director",
+      "date": "2022-02-09T17:55:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -3815,
+      "company_id": 1695,
+      "title": "S2 Announces Directorship of Harvey L. A. Yesno",
+      "link": "https://www.newsfilecorp.com/release/113269/S2-Announces-Directorship-of-Harvey-L.-A.-Yesno",
+      "date": "2022-02-09T08:55:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -3662,
+      "company_id": 1695,
+      "title": "S2 Announces Closing of Private Placement Financing",
+      "link": "https://www.newsfilecorp.com/release/112034/S2-Announces-Closing-of-Private-Placement-Financing",
+      "date": "2022-01-28T17:24:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -3167,
+      "company_id": 1695,
+      "title": "S2 Announces Private Placement Financing",
+      "link": "https://www.newsfilecorp.com/release/107751/S2-Announces-Private-Placement-Financing",
+      "date": "2021-12-15T15:33:00.000Z",
+      "hidden": false
+    }
+  ]
+}

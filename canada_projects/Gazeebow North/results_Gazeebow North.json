@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gazeebow North/25745.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gazeebow North",
+      "justification": "The text announces that Exploits Discovery Corp. has 'acquired 100% interest in the Gazeebow North properties (the \"Property\")'."
+    },
+    "company_name": {
+      "value": "Exploits Discovery Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Exploits Discovery Corp. (CSE: NFLD) (OTCQX: NFLDF) (FSE: 634) (\"Exploits\" or the \"Company\") is pleased to announce that it has acquired 100% interest in the Gazeebow North properties...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeff Swinoga",
+      "justification": "The CEO of the buyer is identified in the text: 'Jeff Swinoga, Chief Executive Officer of Exploits, comments...' and also by his signature '/s/ \"Jeff Swinoga\" President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the company 'has acquired 100% interest in the Gazeebow North properties (the \"Property\")'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text states that 'structural interpretation indicates the Appleton Structural Corridor and related secondary splay structures may extend across the Gazeebow area suggesting the potential to host gold mineralization at Gazeebow North.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/137045",
+      "justification": "The article is titled 'Exploits Acquires Claims North of Gazeebow' and details the acquisition of the Gazeebow North project by Exploits Discovery Corp. The source URL is found at the bottom of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is given in dollars ('$45,000'). The currency is inferred to be Canadian Dollars (CAD) as the acquiring company, Exploits Discovery Corp., is listed on the Canadian Securities Exchange (CSE) and the project is located in Newfoundland and Labrador, Canada."
+    },
+    "cash_payments_raw": {
+      "value": 45000,
+      "justification": "The consideration for the acquisition was debt forgiveness, which is treated as a cash-equivalent payment. 'The Property was acquired from a third party in consideration for the forgiveness of debt in the amount of approximately $45,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in shares as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific value for debt forgiveness (treated as cash) was identified, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration spending commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 64,
+      "justification": "The text specifies the size of the acquired property: 'consolidating these Gazeebow properties strategically increases Exploits' land package by 64km2.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the acquired area is provided in the text: 'consolidating these Gazeebow properties strategically increases Exploits' land package by 64km2.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a quantified mineral resource. It indicates the area is underexplored: 'The Gazeebow North claims have been previously underexplored leaving ample room for significant new discoveries.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NFLD",
+      "justification": "The buyer's primary ticker and exchange are listed in the first paragraph: 'Exploits Discovery Corp. (CSE: NFLD) (OTCQX: NFLDF) (FSE: 634)'."
+    }
+  }
+}

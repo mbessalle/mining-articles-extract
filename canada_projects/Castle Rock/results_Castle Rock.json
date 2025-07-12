@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Castle Rock/30139.txt",
+    "canada_projects/Castle Rock/39034.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Castle Rock",
+      "justification": "The primary project of interest is stated as Castle Rock, and the text confirms this: 'Trailbreaker Resources Acquires Castle Rock Property, Northern Vancouver Island...'"
+    },
+    "company_name": {
+      "value": "Trailbreaker Resources Ltd.",
+      "justification": "The acquiring company is identified in the text: 'Trailbreaker Resources Ltd. (TBK.V) (“Trailbreaker” or “the Company”) is pleased to announce the acquisition of the Castle Rock property...'"
+    },
+    "ceo_buyer": {
+      "value": "Daithi Mac Gearailt",
+      "justification": "The CEO of the buyer, Trailbreaker Resources, is named in the text: 'Daithi Mac Gearailt, President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "Trailbreaker is acquiring the remaining interest from its partner, Cazador Resources. 'Effective as of July 27th, 2023, Trailbreaker has signed an option agreement with Cazador which provides Trailbreaker the option to acquire the remaining 50% of the Castle Rock property (for 100% ownership)...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly emphasizes gold as the target commodity. '...newly identified gold +/- copper-enriched intrusions' and '...has potential to be rapidly expanded into a significant gold prospect.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.trailbreakerresources.com/news/trailbreaker-resources-acquires-castle-rock-property-northern-vancouver-island-signs-partnership-agreement-with-cazador-resources/",
+      "justification": "The provided text is about the Castle Rock project. A link to the relevant news release is provided within the second article's text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is explicitly stated as Canadian Dollars in the transaction terms: 'A total of CAD$60,000 of expenditures on the Castle Rock property...'"
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The agreement includes four annual advance royalty payments of $5,000 each, for a total of $20,000. 'On the second anniversary of the effective date and annually to the fifth anniversary date, payment to Cazador of CAD$5,000 as advance payments on the royalty'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, since `amount_of_shares_issued` and `issued_share_price` can be populated, this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, since payment components are detailed separately, this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "The total number of shares to be issued is the sum of two tranches: 200,000 upon approval and 300,000 on or before the fifth anniversary. '...issuance to Cazador of 200,000 common shares; ... On or before the fifth anniversary of the effective date, issuance to Cazador of a further 300,000 common shares.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any stock options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.33,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.33'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 60000,
+      "justification": "The option agreement includes a commitment for exploration expenditures. 'A total of CAD$60,000 of expenditures on the Castle Rock property by the second anniversary of the effective date;'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller retains a royalty. The highest value mentioned is 2%. 'Cazador will retain a 2% NSR (Net Smelter Return royalty) on claims currently 100% held by Cazador, and a 1% NSR on claims held jointly between Cazador and Trailbreaker.'"
+    },
+    "coverage_area_raw": {
+      "value": 3108,
+      "justification": "The total area of the property is stated multiple times. 'Covers 3,108 hectares of land on northern Vancouver Island...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned. 'Covers 3,108 hectares of land on northern Vancouver Island...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Castle Rock property. It is described as a 'Relatively new discovery' and states 'No past systematic geochemical or geophysical work has been done on the property,' which implies no formal resource has been calculated."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TBK",
+      "justification": "The buyer's ticker and exchange are identified in the text as 'Trailbreaker Resources Ltd. (TBK.V)' and confirmed in the detailed quote section: 'Exchange: TSXV'. The '.V' suffix is a standard representation for the TSX Venture exchange."
+    }
+  }
+}

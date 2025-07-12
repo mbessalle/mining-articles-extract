@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Taft/81323.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Taft",
+      "justification": "The text states: \"Riverside Resources Inc. ... is pleased to announce it has signed an option agreement to acquire a 100% interest in the Taft Project ('Project').\""
+    },
+    "company_name": {
+      "value": "Riverside Resources Inc.",
+      "justification": "The acquiring company is identified as \"Riverside Resources Inc. (TSXV: RRI) (OTCQB: RVSDF) (FSE: 5YY) ('Riverside' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "John-Mark Staude",
+      "justification": "The press release is issued on behalf of \"'John-Mark Staude' Dr. John-Mark Staude, President & CEO\" of Riverside Resources Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement terms state: \"As per the Agreement, Riverside can earn a 100% interest in the Taft Project...\""
+    },
+    "primary_commodity": {
+      "value": "Rare Earth Elements",
+      "justification": "The project is described as being located in a region prospective for \"Rare Earth Elements (REE) and gold mineralization,\" with the article headline focusing on the \"Rare Earth Elements Property Portfolio\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/232849",
+      "justification": "The article is titled 'Riverside Resources Expands British Columbia Rare Earth Elements Property Portfolio with Taft Project Acquisition' and the source URL is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment terms are explicitly denominated in Canadian dollars: \"...making staged cash payments totaling CAD $125,000 over five years...\""
+    },
+    "cash_payments_raw": {
+      "value": 125000,
+      "justification": "The agreement requires total cash payments of $125,000, composed of staged payments over five years. The text states: \"Riverside can earn a 100% interest in the Taft Project by making staged cash payments totaling CAD $125,000 over five years...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the document consist of cash payments and exploration commitments only; there is no mention of any share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is explicitly broken down into cash payments and exploration commitments, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not include the issuance of any shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the deal is an 'option agreement', the payments are made in cash. There is no mention of stock options being issued as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 320000,
+      "justification": "The agreement includes a commitment for exploration spending: \"Additionally, Riverside will commit to a minimum of $320,000 in exploration expenditures over the same period...\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that no royalty is involved in the transaction: \"This transaction involves no royalties, aligning with Riverside's ongoing commitment to maintaining royalty-free projects.\""
+    },
+    "coverage_area_raw": {
+      "value": 3000,
+      "justification": "The text specifies the project's area: \"The Project covers a total area of 3,000 hectares (30 km2)...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is given in the text: \"The Project covers a total area of 3,000 hectares (30 km2)...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project in terms of its potential for discovery, stating it is a \"high-potential opportunity to discover critical mineral resources\" and that the focus is to \"delineate the Rare Earth Element potential\". This indicates no formal mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RRI",
+      "justification": "The buyer, Riverside Resources Inc., is identified with its stock ticker and exchange in the first paragraph: \"Riverside Resources Inc. (TSXV: RRI)...\""
+    }
+  }
+}

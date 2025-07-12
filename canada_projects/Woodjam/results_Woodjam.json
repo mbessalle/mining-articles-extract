@@ -1,0 +1,97 @@
+{
+  "source_files": [
+    "canada_projects/Woodjam/34902.txt",
+    "canada_projects/Woodjam/36476.txt",
+    "canada_projects/Woodjam/37074.txt",
+    "canada_projects/Woodjam/47351.txt",
+    "canada_projects/Woodjam/49244.txt",
+    "canada_projects/Woodjam/83517.txt",
+    "canada_projects/Woodjam/86620.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Woodjam",
+      "justification": "The documents consistently refer to the project as the 'Woodjam Copper-Gold Project' or the 'Woodjam Project'. For example: 'Vizsla Copper is pleased to announce the amendment of the Megaton Option Agreement to include an additional 1,061ha of prospective mineral claims contiguous with the Company's Woodjam Copper-Gold Project (the \"Woodjam Project\").'"
+    },
+    "company_name": {
+      "value": "Vizsla Copper Corp.",
+      "justification": "The acquiring company is identified in each press release, for example: 'VANCOUVER, BC, May 9, 2023 /CNW/ - Vizsla Copper Corp. (TSXV: VCU) (OTCQB: VCUFF) (FRANKFURT: 97E0) (\"Vizsla Copper\" or the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "No CEO is named or quoted in the provided documents. The most senior person quoted is 'Steve Blower, Vice President of Exploration'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is consolidating 100% interest in the project area through multiple transactions. For example, one agreement is for the 'option to acquire a 100% interest', another is to 'acquire a 100% interest', and a third is to acquire the remaining '49% joint venture interest' to reach 100% ownership."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as the 'Woodjam Copper-Gold Project' and the company as a 'Cu-Au-Mo focused mineral exploration and development company'. Copper is the first commodity listed."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text consists of multiple press releases and does not contain a direct, verifiable link to a single news article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Cash payments are specified in Canadian dollars, for example 'C$40,000' and 'paid CA$5,000 in cash'. The company is listed on the TSXV, a Canadian exchange."
+    },
+    "cash_payments_raw": {
+      "value": 855000,
+      "justification": "This value is the sum of future cash payments from the amended Megaton Option Agreement table (C$100,000 + C$250,000 + C$250,000 + C$250,000 = C$850,000) and the cash payment for the Rand Claims ('paid CA$5,000 in cash')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value for the share payments is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transactions are detailed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "This is the sum of shares from multiple agreements to expand the Woodjam project: '300,000 common shares' (Megaton amendment), 'an aggregate of 400,000 common shares' (Trailbreaker option), '200,000 common shares' (Stope Baby acquisition), '100,000 Vizsla Copper Shares' (Copper Pit acquisition), and '2,000,000 common shares' (Rand claims acquisition)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction considerations."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction considerations."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitments were specified in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "This is the sum of future exploration commitments from the amended Megaton Option Agreement table: 'C$500,000 | May 6, 2025' and 'C$1,000,000 | May 6, 2026'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Multiple transactions involved a retained NSR by the sellers. For example, the Trailbreaker claims 'will be subject to a 2% net smelter return royalty ('NSR')' and the Stope Baby claims are subject to a '2% net smelter returns royalty'."
+    },
+    "coverage_area_raw": {
+      "value": 25110.5,
+      "justification": "This is the sum of all areas acquired or staked across the multiple announcements: 'an additional 1,061ha' (Megaton Extension), '6,482 hectares' (Trailbreaker), '1,226 hectares' (Stope Baby), '14,782 hectares' (staked), '59.5 ha' (Copper Pit), and '1,500 hectares' (Rand)."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the acquired land is consistently specified in hectares, for example: 'an additional 1,061ha of prospective mineral claims' and 'two mineral claims totalling 59.5 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The forward-looking statements in multiple press releases explicitly state there are 'no known mineral reserves or resources'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:VCU",
+      "justification": "The buyer is identified as 'Vizsla Copper Corp. (TSXV: VCU)' in the press releases."
+    }
+  }
+}

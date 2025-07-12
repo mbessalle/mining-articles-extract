@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lucky Strike/31546.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lucky Strike",
+      "justification": "The text states that Warrior Gold has entered into an agreement \"to acquire from NFG all of the properties comprising its Lucky Strike project (the \"Lucky Strike Property\")\"."
+    },
+    "company_name": {
+      "value": "Kirkland Lake Discoveries Corp.",
+      "justification": "The acquiring company is Warrior Gold Inc., which plans to \"change its name (the \"Name Change\") to \"Kirkland Lake Discoveries Inc.\"\" upon closing the transaction. The authoritative metadata confirms the final name is Kirkland Lake Discoveries Corp."
+    },
+    "ceo_buyer": {
+      "value": "Danièle Spethmann",
+      "justification": "Upon completion of the transaction, the proposed management will include: \"Danièle Spethmann – Director, President and Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Warrior Gold to \"acquire from NFG all of the properties comprising its Lucky Strike project\", which implies a 100% interest."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is located in the \"Kirkland Lake Gold Camp\" and the text mentions \"many mineral showings of gold, copper, silver and other precious metals\", indicating gold is the primary target."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidated document and does not contain a specific, verifiable URL for a single source article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Warrior Gold Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian stock exchange. The private placement value is denoted with a '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition consists of shares and a royalty. There is no mention of a cash payment to the seller, New Found Gold Corp."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null because the number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 28612500,
+      "justification": "Pursuant to the Purchase Agreement, Warrior Gold will acquire the Lucky Strike Property by issuing to NFG 28,612,500 Warrior Gold Shares, issued on a post-consolidation basis at the time of closing..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued to the seller as part of the acquisition consideration. Warrants are mentioned only in the context of a separate private placement financing."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued but not an explicit price per share. Using the last traded price as a fallback, as seen in the detailed quote section: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While a private placement of at least $10,000,000 is planned to fund exploration, this is a financing activity to raise capital for the company's future plans and not a direct commitment to the seller as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller (NFG) retained a royalty: \"...and granting to NFG, on the closing date, a 1.0% net smelter return royalty on the Lucky Strike Property.\""
+    },
+    "coverage_area_raw": {
+      "value": 11367,
+      "justification": "The Lucky Strike Property, located immediately to the east of Warrior Gold's land package, in Kirkland Lake, Ontario, consists of 653 unpatented mining claims covering approximately 11,367 hectares (114 km2)."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Lucky Strike Property... consists of 653 unpatented mining claims covering approximately 11,367 hectares (114 km2)."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate (e.g., tonnes, ounces) for the Lucky Strike property. It mentions past production and showings, but no specific figures that constitute a formal resource statement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KLDC",
+      "justification": "The buyer, Warrior Gold Inc., is listed on the TSXV (\"Warrior Gold Inc. (TSXV: WAR)\") and is changing its name to Kirkland Lake Discoveries. The authoritative metadata provides the new ticker as KLDC. The detailed quote section confirms the exchange is TSXV."
+    }
+  }
+}

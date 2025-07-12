@@ -1,0 +1,96 @@
+{
+  "source_files": [
+    "canada_projects/Delta-1/28820.txt",
+    "canada_projects/Delta-1/34735.txt",
+    "canada_projects/Delta-1/37964.txt",
+    "canada_projects/Delta-1/54585.txt",
+    "canada_projects/Delta-1/67618.txt",
+    "canada_projects/Delta-1/74937.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Delta-1",
+      "justification": "The primary project of interest is stated as Delta-1. The documents consistently refer to acquisitions for the Delta-1 property, for example: 'Delta Further Expands Land Position at The Delta-1 Property in Thunder Bay, Ontario' and 'Delta Doubles Its Land Position at the Delta-1 Property in Thunder Bay, Ontario'."
+    },
+    "company_name": {
+      "value": "Delta Resources Limited",
+      "justification": "The acquiring company is consistently identified as 'Delta Resources Limited (TSXV: DLTA) (OTC Pink: DTARF) (FSE: 6GO1) (\"Delta\" or \"The Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Andre Tessier",
+      "justification": "The documents are signed 'ON BEHALF OF THE BOARD OF DELTA RESOURCES LIMITED. Andre Tessier President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisitions are consistently for a 100% interest. For example: 'Delta will issue 80,000 shares to earn a 100% interest in the claims' and 'the Corporation acquired a 100% interest in twenty-two (22) claims'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly refers to gold in the context of the Delta-1 project, such as 'The Delta-1 property is located in the Shebandowan Greenstone Belt and covers a 17 km strike extent of the Shebandowan Structural Zone which also hosts the 4.17 million-ounce Moss Lake gold deposit' and 'the Eureka Gold Zone'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/147837",
+      "justification": "The articles are all related to the Delta-1 project. The first article is titled 'Delta Further Expands Land Position at The Delta-1 Property in Thunder Bay, Ontario and Completes Acquisition of The Delta-2 Property in Chibougamau, Quebec'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Delta Resources Limited, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and payments are denoted with the '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 1102000,
+      "justification": "This is the sum of all cash payments across multiple transactions for the Delta-1 project: $45,000 (Dec 2022 lease), $90,000 (Jul 2023 lease), $50,000 (Jul 2023 P2), $250,000 (Jul 2023 P3 total), $45,000 (Jul 2023 P4), $21,150 (May 2024 P1), $31,850 (May 2024 P2), $300,000 (May 2024 P3 total), $84,000 (May 2024 P4 total), $150,000 (Aug 2024), and $35,000 (Oct 2024)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text provides the number of shares issued but does not assign a specific monetary value to these share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transactions are detailed with separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4280001,
+      "justification": "This is the sum of all shares issued across multiple transactions: 80,000 (May 2023), 2,000,001 (May 2024 P3 total), 600,000 (May 2024 P4 total), 1,100,000 (Aug 2024), and 500,000 (Oct 2024)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.095,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.095'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the agreements."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents explicitly state for some transactions that 'There are no work commitments'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Multiple transactions involve the vendor retaining a Net Smelter Return Royalty, most commonly 2%. For example: 'Vendors will retain a 2% Net Smelter Return Royalty (\"NSR\")'."
+    },
+    "coverage_area_raw": {
+      "value": 21803,
+      "justification": "This is the sum of all acquired land areas mentioned across the press releases: 67 hectares (Dec 2022), 177 hectares (May 2023), 4,716 hectares (Jul 2023), 68 sq km or 6800 ha (May 2024), 93 sq km or 9300 ha (Aug 2024), and 743 hectares (Oct 2024)."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The individual property acquisitions are most frequently described in hectares, such as 'The 67-hectare property' and 'Delta adds an additional 177 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention drill intercepts (e.g., '5.92 g/t Au over 31 m') but do not contain a formal mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DLTA",
+      "justification": "The company is identified with its ticker and exchange in the press releases: 'Delta Resources Limited (TSXV: DLTA)'."
+    }
+  }
+}

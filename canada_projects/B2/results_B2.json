@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/B2/89891.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "B2",
+      "justification": "The text states that the company has agreed to acquire 50% interest in 59 claims known as the B2 project."
+    },
+    "company_name": {
+      "value": "Steadright Critical Minerals Inc.",
+      "justification": "The acquiring company is identified as: 'Steadright Critical Minerals Inc. (CSE: SCM) (“Steadright” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "John Theobald",
+      "justification": "The contact person for the buyer is listed as 'John Theobald Chairman & Director Steadright Critical Minerals Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The announcement states: '...agreed to acquire 50% interest in 59 claims known as the B2 project...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text lists sample results for multiple commodities, with Copper having the highest percentage: 'Grab bag samples, taken independently, in October of 2022 on the B2 property yielded results with individual grades up to 3.19% Copper, 0.71% Nickel, 0.08% Cobalt and 7.25 g/t Silver'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Steadright Critical Minerals Inc., is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD). 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was in shares only, not cash."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration was a number of shares, but no explicit monetary value for the shares was provided in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1600000,
+      "justification": "The consideration for the acquisition is stated as '1,600,000 common shares of Steadright Critical Minerals'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a separate Private Placement, not as part of the consideration for the B2 project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.1,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.10'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a private placement for 'exploration expenditures' but does not specify a commitment value for the B2 project itself."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The project is described as '59 claims' but no area in hectares or square kilometers is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The project is described as '59 claims' but no area in hectares or square kilometers is provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides 'Grab bag samples' results, but this does not constitute a formal mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SCM",
+      "justification": "The buyer is identified in the text as 'Steadright Critical Minerals Inc. (CSE: SCM)'."
+    }
+  }
+}

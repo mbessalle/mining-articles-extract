@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gibbons Creek/53449.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gibbons Creek",
+      "justification": "The article is titled: \"ALX Resources Corp. Announces Definitive Option Agreement with Trinex Minerals for the Gibbons Creek Uranium Project, Athabasca Basin, Saskatchewan\"."
+    },
+    "company_name": {
+      "value": "ALX Resources Corp.",
+      "justification": "The authoritative company name provided is 'ALX Resources Corp.'. The text confirms ALX is the owner of the project: \"...on its 100%-owned Gibbons Creek Uranium Project...\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Trinex Minerals Limited. The text does not name the CEO of Trinex. It names Warren Stanyer as the CEO of ALX Resources Corp., the seller."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement allows for a two-stage earn-in, with the final potential interest being 75%. \"Trinex Canada can earn an initial 51% interest and up to a 75% participating interest in the Project in two stages...\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the \"Gibbons Creek Uranium Project\" in the title and throughout the text."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/208342",
+      "justification": "The article's title, \"ALX Resources Corp. Announces Definitive Option Agreement with Trinex Minerals for the Gibbons Creek Uranium Project...\", directly relates to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The table detailing the transaction terms explicitly labels the columns in Canadian dollars: \"Cash Payments (CAD)\", \"Value of Share Payments (CAD)\", \"Annual Exploration Expenditures (CAD)\"."
+    },
+    "cash_payments_raw": {
+      "value": 1350000,
+      "justification": "The summary table of the option agreement shows a total cash payment of $1,350,000 over the five-year term. \"TOTALS | $1,350,000\"."
+    },
+    "share_payments_raw": {
+      "value": 2250000,
+      "justification": "The summary table of the option agreement shows a total value of share payments of $2,250,000 over the five-year term. \"TOTALS | ... | $2,250,000\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are itemized separately in the transaction terms, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The total number of shares to be issued is not fixed. Future share payments are based on a variable price: \"the number of shares will be determined by reference to the 10-trading day volume weighted average price (or 'VWAP')\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement, but there are no payments made in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The total number of shares is not fixed and the price for future issuances is variable based on a VWAP, so a single issue price for the transaction cannot be determined."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5500000,
+      "justification": "The summary table of the option agreement shows a total exploration expenditure commitment of $5,500,000. \"TOTALS | ... | $5,500,000\"."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a legacy agreement for a 25% interest buy-back right on certain claims, but does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 13864,
+      "justification": "The text states: \"Gibbons Creek consists of eight mineral claims comprising 13,864 hectares (34,259 acres)\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"Gibbons Creek consists of eight mineral claims comprising 13,864 hectares (34,259 acres)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical drill intercepts (e.g., \"0.13% U3O8 over 0.23 metres\") but does not provide a formal mineral resource estimate with mass or volume units such as tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Trinex Minerals Limited, which is \"listed on the Australian Securities Exchange.\" However, the text does not provide a specific ticker symbol for Trinex. The authoritative ticker provided (TSXV:AL) belongs to the seller, ALX Resources Corp."
+    }
+  }
+}

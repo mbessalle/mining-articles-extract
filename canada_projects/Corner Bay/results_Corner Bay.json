@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Corner Bay/64139.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Corner Bay",
+      "justification": "The article describes an agreement to acquire claims next to the company's 'flagship Corner Bay high-grade copper deposit'."
+    },
+    "company_name": {
+      "value": "Dore Copper Mining Corp.",
+      "justification": "The acquiring company is identified as: 'Doré Copper Mining Corp. (the \"Company\" or \"Doré Copper\") (TSXV: DCMC; OTCQB: DRCMF; FRA: DCM)'."
+    },
+    "ceo_buyer": {
+      "value": "Ernest Mast",
+      "justification": "The text identifies the CEO of the buyer, Dore Copper: 'Ernest Mast, President and CEO of Doré Copper, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 56.41,
+      "justification": "The company entered into an agreement 'to acquire a 56.41% interest in a group of contiguous claims (the “Claim Group”)'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as the 'flagship Corner Bay high-grade copper project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release but does not contain a usable URL."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denominated in '$' and the acquiring company is listed on the TSX Venture Exchange (TSXV: DCMC) and is subject to 'applicable Canadian securities legislation', implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 370000,
+      "justification": "The total cash consideration is $370,000, which includes an upfront payment and two future contingent payments. The text states: 'a cash payment of $20,000', 'the Company will pay SOQUEM the sum of $100,000', and 'the Company will pay SOQUEM the sum of $250,000'."
+    },
+    "share_payments_raw": {
+      "value": 125000,
+      "justification": "The agreement states that upon execution, 'SOQUEM is to receive... (ii) equivalent of $125,000 in common shares of the Company'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of the share payment was provided in dollars ('equivalent of $125,000 in common shares'), not as a specific number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued was not specified, so a price per share for the transaction cannot be determined."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not include an exploration commitment defined by drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not include a monetary exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller, SOQUEM, will retain a 1% NSR as part of the consideration. The text states: 'On commencement of commercial production... the Company will pay SOQUEM the sum of $250,000 and a 1% Net Smelter Return royalty (the \"NSR\") on the production of copper and gold.'"
+    },
+    "coverage_area_raw": {
+      "value": 446,
+      "justification": "The acquired claims cover a specified area: 'The Claim Group totals 17 claims covering an area of 446 ha'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: 'The Claim Group totals 17 claims covering an area of 446 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a current mineral resource estimate for the acquired Claim Group. A future payment is contingent on completing one, which implies none currently exists: 'in the event that the Company completes a mineral resource estimate in accordance with NI 43-101 on the Claim Group, the Company will pay SOQUEM the sum of $100,000.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DCMC",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Doré Copper Mining Corp. (the \"Company\" or \"Doré Copper\") (TSXV: DCMC; OTCQB: DRCMF; FRA: DCM)'."
+    }
+  }
+}

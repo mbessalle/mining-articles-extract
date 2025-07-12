@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Typhoon/77131.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Typhoon",
+      "justification": "The text announces the staking of four new properties, including Typhoon: \"FISSION URANIUM CORP. ... is pleased to announce it has staked four new properties in the Athabasca Basin region of northern Saskatchewan: Typhoon, Corsair, Merlin, and Seahawk\""
+    },
+    "company_name": {
+      "value": "Fission Uranium Corp.",
+      "justification": "The company making the announcement and staking the properties is identified as \"FISSION URANIUM CORP. (\"Fission\" or \"the Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Ross McElroy",
+      "justification": "The CEO of the acquiring company, Fission Uranium Corp., is identified in the text: \"Ross McElroy, President and CEO for Fission, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text specifies the ownership interest for the Typhoon project: \"It is 100% owned by Fission.\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The announcement headline and body clearly state the target commodity: \"Fission Stakes Four New Uranium Properties in Athabasca Basin\" and \"All four properties are prospective for high-grade uranium\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims from the government, not a purchase from another company, and no financial consideration or currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking."
+    },
+    "coverage_area_raw": {
+      "value": 3867,
+      "justification": "The area for the Typhoon project is explicitly stated: \"Typhoon (3,867ha) located ~20km south of Fission's PLS project\" and \"consists of three contiguous mineral claims totaling 3,867 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the area is provided in parentheses next to the project name: \"Typhoon (3,867ha)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a \"highly prospective greenfield uranium exploration project\" with a \"complete lack of drill testing\", indicating no mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:FCU",
+      "justification": "The text confirms the company's stock listing: \"Fission's common shares are listed on the TSX Exchange under the symbol \"FCU\"\"."
+    }
+  }
+}

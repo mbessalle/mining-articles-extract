@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Reynolds Lake/89038.txt",
+    "canada_projects/Reynolds Lake/92946.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Reynolds Lake",
+      "justification": "The project name is confirmed in the text: 'Project Name [Reynolds Lake Project](/?gid=9895)'"
+    },
+    "company_name": {
+      "value": "Infini Resources Limited",
+      "justification": "The company name 'Infini' is mentioned in the article title 'Infini To Acquire Major Footprint In Athabasca Basin'. The full name 'Infini Resources Limited' is provided by the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The name of the CEO is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The percentage of interest acquired is not mentioned in the provided text."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The primary commodity is not explicitly mentioned in the provided text."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial details or currency are mentioned in the provided text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment details are mentioned in the provided text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment details are mentioned in the provided text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment details are mentioned in the provided text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The amount of shares issued is not mentioned in the provided text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payment details are mentioned in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payment details are mentioned in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The issued share price is not mentioned in the provided text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the provided text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the provided text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) details are mentioned in the provided text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The coverage area is not mentioned in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The unit for the coverage area is not mentioned in the provided text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource size is mentioned in the provided text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:I88",
+      "justification": "The ticker and exchange were provided by the authoritative metadata and are associated with the buyer, Infini Resources Limited."
+    }
+  }
+}

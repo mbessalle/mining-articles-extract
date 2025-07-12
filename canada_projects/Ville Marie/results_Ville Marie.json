@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ville Marie/83281.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ville Marie",
+      "justification": "The article is titled 'Hi-View Resources Acquires Mineral Claim Applications Package in Ville Marie, Quebec...'"
+    },
+    "company_name": {
+      "value": "Hi-View Resources Inc.",
+      "justification": "The press release is from 'Hi-View Resources Inc. (‘Hi-View' or the ‘Company’) (CSE: HVW; OTCQB: HVWRF; FSE: B63)' and states it has acquired the property."
+    },
+    "ceo_buyer": {
+      "value": "Howard Milne",
+      "justification": "The text states: 'Hi-View Resources President and CEO Howard Milne states...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text announces that Hi-View 'has acquired a 100% interest in a portfolio of highly prospective mineral claim applications...'"
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The CEO states, 'We are excited to begin exploration for clean energy Hydrogen in this newly discovered and highly prospective camp.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is denoted with a '$' symbol ('$3,465'). The acquiring company, Hi-View Resources Inc., is based in Vancouver, British Columbia, and is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 3465,
+      "justification": "Under 'Terms of the Agreement', it states 'Zeal will pay staking costs of $3,465 subject to a 2% Royalty to the vendor.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The 'Terms of the Agreement' section only mentions a cash payment for staking costs and a royalty; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly defined as cash for staking costs, not a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 'Terms of the Agreement' do not mention any issuance of shares as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text outlines a potential exploration program but does not specify a committed number of meters to be drilled as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes a future exploration program but does not mention a specific monetary exploration commitment as a term of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The 'Terms of the Agreement' state the acquisition is 'subject to a 2% Royalty to the vendor.'"
+    },
+    "coverage_area_raw": {
+      "value": 3000,
+      "justification": "The text states: 'These claim blocks consist of 2 separate packages, covering applications for 45 cells and totaling over 3,000 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: '...totaling over 3,000 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the project as a new exploration opportunity and does not mention any existing mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HVW",
+      "justification": "The company is identified as 'Hi-View Resources Inc. (‘Hi-View' or the ‘Company’) (CSE: HVW; OTCQB: HVWRF; FSE: B63)'. The primary listing is confirmed in the detailed quote section: 'Exchange: CSE'."
+    }
+  }
+}

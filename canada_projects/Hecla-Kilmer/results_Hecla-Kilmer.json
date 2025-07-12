@@ -1,0 +1,97 @@
+{
+  "source_files": [
+    "canada_projects/Hecla-Kilmer/50304.txt",
+    "canada_projects/Hecla-Kilmer/50343.txt",
+    "canada_projects/Hecla-Kilmer/52767.txt",
+    "canada_projects/Hecla-Kilmer/52769.txt",
+    "canada_projects/Hecla-Kilmer/54890.txt",
+    "canada_projects/Hecla-Kilmer/65865.txt",
+    "canada_projects/Hecla-Kilmer/65873.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hecla-Kilmer",
+      "justification": "The articles consistently refer to the project by this name, for example: \"Neotech Metals Corp. Completes Hecla-Kilmer REE Project Acquisition\" and \"Neotech Metals to Acquire a 100% Interest in the Hecla-Kilmer Project from VR Resources Ltd.\""
+    },
+    "company_name": {
+      "value": "Neotech Metals Corp.",
+      "justification": "The buyer is identified in multiple press releases: \"Neotech Metals Corp. (CSE: NTMC) (OTC Pink: NTMFF) (FSE: V690) ('Neotech' or the 'Company'), a mineral exploration company, is pleased to announce the signing of a non-binding LOI... pursuant to which Neotech will have the right to acquire a 100% interest...\""
+    },
+    "ceo_buyer": {
+      "value": "Reagan Glazier",
+      "justification": "The CEO of the acquiring company is named in the press releases: \"Reagan Glazier, CEO of Neotech Metals, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition is for a full interest in the project: \"Neotech will have the right to acquire a 100% interest in the Rare-Earth Element ('REE'), niobium and phosphate project in northeastern Ontario...\""
+    },
+    "primary_commodity": {
+      "value": "Rare-Earth Element",
+      "justification": "The project is described as a \"Rare-Earth Element ('REE'), niobium and phosphate project\". REE is listed first and is the primary focus of the announcements."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/217429",
+      "justification": "This article from July 23, 2024, announces the completion of the acquisition of the Hecla-Kilmer project by Neotech Metals Corp., which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed with a '$' symbol. As the acquiring company (Neotech Metals Corp.) and selling company (VR Resources Ltd.) are listed on Canadian exchanges (CSE and TSXV respectively) and the project is in Ontario, Canada, the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "The final announcement confirms the total cash paid: \"In consideration for the Acquisition, the Company has paid to VRR $1,000,000 in cash...\" This is consistent with the definitive agreement terms of \"$600,000 in initial cash... $400,000 in secondary cash\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares issued but does not provide an explicit monetary value for the share component of the payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the consideration are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The consideration includes a specific number of shares: \"In consideration for the Acquisition, the Company has paid to VRR $1,000,000 in cash, and issued to them 4,000,000 common shares (the 'Shares') of the Company...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.21,
+      "justification": "The transaction terms mention the number of shares issued but not the price ('to be priced at the Company's then market price'). Using the last traded price as a fallback, as seen in the detailed quote for the buyer (Neotech Metals Corp.): 'Last: 0.21 ... Exchange: CSE'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include an exploration commitment measured in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a specific monetary exploration commitment. The text mentions future exploration plans but not as a binding part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The seller, VR Resources, retained a conditional right as part of the deal: \"VR has also retained the right to buy-down, at any time, up to one half of the existing 3% NSR on the property... Should VR exercise such right, VR will receive from Neotech a NSR on the property equal to the percentage that the Existing Royalty is reduced.\" This represents a potential NSR of up to 1.5% (half of 3%) that could be granted to the seller."
+    },
+    "coverage_area_raw": {
+      "value": 4617,
+      "justification": "The property size is explicitly stated: \"...the Rare-Earth Element ('REE'), niobium and phosphate project in northeastern Ontario, consisting of 224 unpatented mining claims covering 4,617 hectares in northern Ontario...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: \"...consisting of 224 unpatented mining claims covering 4,617 hectares in northern Ontario...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as \"early-stage\" and provides drill intercepts (e.g., length and grade), but does not contain a mineral resource estimate with mass or volume units such as tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NTMC",
+      "justification": "The acquiring company is identified with its ticker and exchange in the press releases: \"Neotech Metals Corp. (CSE: NTMC)\". This is also confirmed in the detailed quote section: \"Exchange: CSE\"."
+    }
+  }
+}

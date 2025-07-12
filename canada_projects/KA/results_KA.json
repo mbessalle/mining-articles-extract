@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/KA/37869.txt",
+    "canada_projects/KA/39226.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "KA",
+      "justification": "The article announces the acquisition of the KA property: \"...the acquisition of the KA nickel-copper-cobalt-chrome-platinum group element property (the \"Property\")...\""
+    },
+    "company_name": {
+      "value": "Sky Gold Corp.",
+      "justification": "The acquiring company is identified as: \"SKY GOLD CORP. (\"Sky\" or the \"Company\") (SKYG-TSX:V)(OTC PINK:SRKZF) is pleased to announce the acquisition...\""
+    },
+    "ceo_buyer": {
+      "value": "Mike England",
+      "justification": "The CEO is listed at the end of the press release: \"MIKE ENGLAND, CEO, PRESIDENT & DIRECTOR\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement terms state the company will acquire a full interest: \"To acquire a 100% interest in the Property...\""
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The property is described with Nickel as the leading commodity: \"...the acquisition of the KA nickel-copper-cobalt-chrome-platinum group element property (the \"Property\")...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/767269/Sky-Gold-Consolidates-Land-Position-in-The-Shebandowan-Greenstone-Belt-With-the-Acquisition-of-The-KA-Ni-Cu-Co-Cr-PGE-Property-Northwestern-Ontario",
+      "justification": "The article is titled \"Sky Gold Consolidates Land Position in The Shebandowan Greenstone Belt, With the Acquisition of The KA Ni-Cu-Co-Cr-PGE Property, Northwestern Ontario\", which directly relates to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Sky Gold Corp., is listed on the TSX Venture Exchange (TSXV:SKYG), which implies that the currency for payments denoted with a '$' symbol is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The completion announcement specifies the cash component of the deal: \"the Company will issue up to 815,000 shares of Sky Gold and pay up to $150,000 in cash to the vendors, over a 4-year period.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead as the number of shares and a price are available."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, separate cash and share components are available and have been extracted."
+    },
+    "amount_of_shares_issued": {
+      "value": 815000,
+      "justification": "The agreement terms state the number of shares to be issued: \"To acquire a 100% interest in the Property, the Company will issue 815,000 shares of Sky Gold...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the agreement terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, a royalty was granted to the sellers: \"The Company will additionally grant a 2.0% Royalty to the vendors.\""
+    },
+    "coverage_area_raw": {
+      "value": 655,
+      "justification": "The text specifies the area of the KA property being acquired: \"the Property comprises 37 unpatented claims totaling 655 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: \"the Property comprises 37 unpatented claims totaling 655 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the neighboring Shebandowan mine ('8.7 million tonnes at 2.0% nickel...'), but not for the KA property itself. No resource has been defined for the KA property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SKYG",
+      "justification": "The company's ticker and exchange are provided in the text: \"SKY GOLD CORP. (\"Sky\" or the \"Company\") (TSXV:SKYG)...\" and confirmed in the detailed quote section: \"Exchange: TSXV\"."
+    }
+  }
+}

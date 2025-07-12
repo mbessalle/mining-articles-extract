@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": 49940,
+    "link": "https://www.newsfilecorp.com/release/200125/EV-Minerals-Closes-Acquisition-of-Nickel-Projects-in-Sudbury-Ontario",
+    "title": "EV Minerals Closes Acquisition of Nickel Projects in Sudbury, Ontario",
+    "description": "<img src=\"https://api.newsfilecorp.com/newsinfo/200125/367\" id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" /><p>Toronto, Ontario--(Newsfile Corp. - March 1, 2024) - <a href=\"https://api.newsfilecorp.com/redirect/q8NexFVoR8\"><b>EV Minerals Corporation</b></a>&#160;<b>(CSE: EVM) (FSE: RLC)&#160;</b>(the \"<b>Company</b>\" or \"<b>EV Minerals</b>\")&#160;is pleased to announce that, further to its press releases of <a href=\"https://api.newsfilecorp.com/redirect/nV2eqH8PeO\">February 23, 2024</a> and <a href=\"https://api.newsfilecorp.com/redirect/K8p4QF0XKb\">February 29, 2024</a>, the Company has acquired (the \"<b>Acquisition</b>\") the Baldwin and Lunge Projects (the \"<b>Sudbury Projects</b>\"). The Acquisition was carried out pursuant to a purchase agreement (the \"<b>Agreement</b>\") with Graycliff Exploration Limited (the \"<b>Vendor</b>\").</p><p>As partial consideration for the Sudbury Projects, the Company issued the Vendor an aggregate of 2,000,000 common shares (the \"<b>Common Shares</b>\") in the capital of the Company, at a deemed issuance price of $0.05 per Common Share. In addition, as partial consideration for the Sudbury Projects, the Company made a one-time cash payment of $25,000 to the Vendor on February 6, 2024, upon signing of the letter of intent dated February 6, 2024, between the Company and the Vendor. </p><p>The Company acknowledges that there is an existing 2% net smelter return royalty (\"<b>NSR</b>\") on the Sudbury Projects and upon closing of the Acquisition, the Company assumed the Vendor's obligations of the NSR and will have the right to buy back 1% of the NSR for $1 million (reducing such NSR to 1%).</p><p>All Common Shares issued are subject to a statutory hold period of four months plus a day from the date of issuance in accordance with applicable securities legislation.</p><p><b>About EV Minerals Corporation</b></p><p>EV Minerals Corporation is a Canadian exploration company focused on mineral exploration and development. The current focus is the EV Nickel Project, host of the nickel-copper-cobalt McNickel deposit. The Project is comprised of 32 mineral claims covering approximately 1,792 hectares located in the Saguenay area, the Province of Quebec. This deposit is reputed containing a historical resource of 5.585 million tonnes with grades of 0.21% Ni, 0.11% Cu and 0.03% Co (NI 43-101 non-compliant resource), which is to be re-evaluated with the consideration of using either bioleaching or acid leaching and electrowinning for nickel, cobalt and copper recovery. </p><p>For more information, please contact: </p><p>Nicholas Konkin<br />President and CEO, Director<br /><a href=\"mailto:nick@evmineralscorp.ca\">nick@evmineralscorp.ca</a><br />416-642-1807 Ext 305 </p><p><i>This news release contains certain \"forward-looking information\" within the meaning of applicable securities law. Forward-looking information is frequently characterized by words such as \"plan\", \"expect\", \"project\", \"intend\", \"believe\", \"anticipate\", \"estimate\", \"may\", \"will\", \"would\", \"potential\", \"proposed\" and other similar words, or statements that certain events or conditions \"may\" or \"will\" occur. These statements are only predictions. Forward-looking information is based on the opinions and estimates of management at the date the information is provided and is subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ materially from those projected in the forward-looking information. For a description of the risks and uncertainties facing the Company and its business and affairs, readers should refer to the Company's Management's Discussion and Analysis. The Company undertakes no obligation to update forward-looking information if circumstances or management's estimates or opinions should change, unless required by law. The reader is cautioned not to place undue reliance on forward-looking information.</i></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/7111/200125_be983b3214c6aa46_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/Ey2NzuxWYD\">https://www.newsfilecorp.com/release/200125</a></p>",
+    "search_terms": "Baldwin,EV Minerals Corporation,EVM",
+    "master_gid": 3473,
+    "date": "2024-03-01T22:15:00.000Z",
+    "tags": "||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 2553,
+    "provider": null,
+    "excerpt": "Toronto, Ontario--(Newsfile Corp. - March 1, 2024) -EV Minerals Corporation&#160;(CSE: EVM) (FSE: RLC)&#160;(the \"Company\" or \"EV Minerals\")&#160;is pleased to announce that, further to its press releases ofFebruary 23, 2024andFebruary 29, 2024, the Company has acquired (the \"Acquisition\") the Baldwin and Lunge Projects (the \"Sudbury Projects\"). The Acquisition was carried out",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "EV Minerals Corporation",
+    "exchange": "CSE",
+    "root_ticker": "EVM",
+    "project_name": "Baldwin",
+    "gid": 3473,
+    "location": "Ontario, Canada",
+    "plan_id": "companytier2"
+  },
+  "articleProject": {
+    "gid": 3473,
+    "project_name": "Baldwin",
+    "location": "Ontario, Canada"
+  },
+  "articleExchange": "CSE",
+  "articleCompanyId": 2553,
+  "articleTicker": "EVM",
+  "articleCompanyName": "EV Minerals Corporation",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 2553,
+      "gid": 8791,
+      "project_name": "Santa Monica Mine",
+      "location": null
+    },
+    {
+      "company_id": 2553,
+      "gid": 5733,
+      "project_name": "EV Nickel Project",
+      "location": "Quebec, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 90581,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Resignation and Appointment of CFO",
+      "link": "https://www.newsfilecorp.com/release/244066/EV-Minerals-Announces-Resignation-and-Appointment-of-CFO",
+      "date": "2025-03-10T23:21:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 75107,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Acquisition of High Grade Copper Asset in Chile",
+      "link": "https://www.newsfilecorp.com/release/226863/EV-Minerals-Announces-Acquisition-of-High-Grade-Copper-Asset-in-Chile",
+      "date": "2024-10-16T21:41:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -146760,
+      "company_id": 2553,
+      "title": "Canadian Investment Regulatory Organization Trading Halt - EVM",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20241011C8648",
+      "date": "2024-10-11T16:04:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 70285,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Closing of First Tranche of Private Placement",
+      "link": "https://www.newsfilecorp.com/release/221944/EV-Minerals-Announces-Closing-of-First-Tranche-of-Private-Placement",
+      "date": "2024-09-03T21:15:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 68565,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Private Placement",
+      "link": "https://www.newsfilecorp.com/release/220075/EV-Minerals-Announces-Private-Placement",
+      "date": "2024-08-15T21:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 68196,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Private Placement Extension",
+      "link": "https://www.newsfilecorp.com/release/219713/EV-Minerals-Announces-Private-Placement-Extension",
+      "date": "2024-08-12T21:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -110562,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Strategic Entry into Copper Exploration",
+      "link": "https://www.newsfilecorp.com/release/214616/EV-Minerals-Announces-Strategic-Entry-into-Copper-Exploration",
+      "date": "2024-06-27T14:37:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 55381,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Private Placement",
+      "link": "https://www.newsfilecorp.com/release/212074/EV-Minerals-Announces-Private-Placement",
+      "date": "2024-06-07T21:15:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 52856,
+      "company_id": 2553,
+      "title": "EV Minerals Announces Initial Assay Results Including 0.96% Ni, 0.15% Cu, and 0.05% Co Over 0.75 Metres Near Surface at the EVM Nickel Project, Quebec",
+      "link": "https://www.newsfilecorp.com/release/207270/EV-Minerals-Announces-Initial-Assay-Results-Including-0.96-Ni-0.15-Cu-and-0.05-Co-Over-0.75-Metres-Near-Surface-at-the-EVM-Nickel-Project-Quebec",
+      "date": "2024-04-30T04:12:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 50888,
+      "company_id": 2553,
+      "title": "EV Minerals Highlights Historic North Zone Results Providing Compelling Drill Targets at EV Nickel Project in Saguenay-Lac-Saint-Jean Region, Quebec",
+      "link": "https://www.newsfilecorp.com/release/202603/EV-Minerals-Highlights-Historic-North-Zone-Results-Providing-Compelling-Drill-Targets-at-EV-Nickel-Project-in-SaguenayLacSaintJean-Region-Quebec",
+      "date": "2024-03-22T04:02:00.000Z",
+      "hidden": false
+    }
+  ]
+}

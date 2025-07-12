@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Kindersley/31869.txt",
+    "canada_projects/Kindersley/32503.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kindersley",
+      "justification": "The text announces an acquisition of land in the company's \"core Kindersley area\" which is part of the \"Kindersley Lithium Project (\"KLP\")\"."
+    },
+    "company_name": {
+      "value": "Grounded Lithium Corp.",
+      "justification": "The buyer is identified as: \"Grounded Lithium Corp. (\"GLC\" or the \"Company\") is pleased to announce the entering into a purchase and sale agreement... to acquire...\""
+    },
+    "ceo_buyer": {
+      "value": "Gregg Smith",
+      "justification": "A comment in the article is attributed to \"Gregg Smith, President & CEO.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is an asset acquisition of land parcels (\"33 sections (8,498 hectares)\"), not the acquisition of a percentage interest in a project entity."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the \"Kindersley Lithium Project\" and resources are measured in \"lithium carbonate equivalent (\"LCE\")\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/grounded-lithium-announces-strategic-land-acquisition-in-core-area-301759132.html",
+      "justification": "The article, titled \"Grounded Lithium Announces Strategic Land Acquisition in Core Area\", directly concerns the acquisition of land for the Kindersley project by Grounded Lithium Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Grounded Lithium Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian stock exchange. Therefore, the '$' symbol is inferred to represent Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 175000,
+      "justification": "The transaction terms state: \"Total consideration - $425,000 comprised of cash consideration of $175,000...\""
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The transaction terms state: \"Total consideration - $425,000 comprised of cash consideration of $175,000 and the issuance of $250,000 of GLC common shares...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, explicit cash and share payment values were found and populated in their respective fields, so this combined field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 779557,
+      "justification": "The closing announcement specifies the number of shares: \"The Purchase Price was comprised of cash consideration of $175,000 and the issuance of 779,557 Shares...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share is not explicitly stated, only the total value of the shares ($250,000) and the method of calculation (\"based on the 10-day volume weighted average trading price\"). As per the financial hierarchy, since explicit cash and share values were used (Priority 1), this field is null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that \"the Company will have six years to meet capital commitments on the Assets\" but does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 8498,
+      "justification": "The company agreed to \"acquire an additional 33 sections (8,498 hectares) of highly prospective lands\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The company agreed to \"acquire an additional 33 sections (8,498 hectares) of highly prospective lands\"."
+    },
+    "resource_size": {
+      "value": "482,000 tonnes of LCE",
+      "justification": "The resource associated specifically with the acquired land is stated as: \"The incremental inferred resource base on the acquired sections is approximately 482,000 tonnes of LCE.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GRD",
+      "justification": "The buyer is identified at the top of the press release as \"(TSXV: GRD) (OTCQB: GRDAF) - Grounded Lithium Corp.\""
+    }
+  }
+}

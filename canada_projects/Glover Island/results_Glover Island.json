@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Glover Island/85047.txt",
+    "canada_projects/Glover Island/85465.txt",
+    "canada_projects/Glover Island/86465.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Glover Island",
+      "justification": "The text refers to the project as the 'Glover Island Project' and Galloper's 'flagship Glover Island asset'."
+    },
+    "company_name": {
+      "value": "Galloper Gold Corp.",
+      "justification": "The acquiring company is identified as 'Galloper Gold Corp. (CSE:BOOM)(OTC PINK:GGDCF) (the \"Company\" or \"Galloper\")'."
+    },
+    "ceo_buyer": {
+      "value": "Hratch Jabrayan",
+      "justification": "The documents are signed 'On behalf of the Board of Directors, Mr. Hratch Jabrayan CEO and Director Galloper Gold Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text describes the acquisition of specific claims and a proposal for land, but does not state a percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text states, 'Historic exploration on the EML advanced to include trenching and drilling resulting in a 43-101 National Instrument compliant gold resource estimate...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/galloper-gold-submits-proposal-to-acquire-glover-island-exempt-mineral-land-historic-gold-deposit-972501",
+      "justification": "The article is titled 'Galloper Gold Submits Proposal to Acquire Glover Island \"Exempt Mineral Land\" Historic Gold Deposit' and discusses activities related to the Glover Island project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Galloper Gold Corp., is listed on the Canadian Securities Exchange (CSE) and the project is in Canada. A private placement is priced in '$', which implies Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition of three claims was entirely in shares, with no cash component mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is defined by the number of shares and a price per share, not a total share value. Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is defined by the number of shares and a price per share, not a combined value. Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "In a transaction for additional claims on Glover Island, the text states: 'As consideration, Galloper has issued the Vendor an aggregate of 300,000 Galloper common shares.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the acquisition of the claims."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the acquisition of the claims."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of meters of drilling was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While the proposal for the EML mentions 'project commitments', no specific monetary value for an exploration commitment is provided."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1925,
+      "justification": "The proposal submitted by Galloper is for the 'Exempt Mineral Land' which 'consists of 1,925 hectares of surface area'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The proposal submitted by Galloper is for the 'Exempt Mineral Land' which 'consists of 1,925 hectares of surface area'."
+    },
+    "resource_size": {
+      "value": "58,200 oz indicated and 120,600 oz inferred",
+      "justification": "The text describes a 'historic 43-101 National Instrument compliant gold resource estimate of 58,200 oz indicated and 120,600 oz inferred' on the Exempt Mineral Land."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BOOM",
+      "justification": "The buyer is identified in the text as 'Galloper Gold Corp. (CSE:BOOM)(OTC PINK:GGDCF)'."
+    }
+  }
+}

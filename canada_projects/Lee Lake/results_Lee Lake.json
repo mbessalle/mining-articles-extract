@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lee Lake/79691.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lee Lake",
+      "justification": "The authoritative project name is Lee Lake. The article refers to the acquisition of claims contiguous to the company's 'Lee Creek claims', which is taken to be the same project. 'The Company is also pleased to announce that it has agreed to acquire additional claims contiguous to its Lee Creek claims (Figure 1)...'"
+    },
+    "company_name": {
+      "value": "Volta Metals Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Toronto, Ontario--(Newsfile Corp. - November 22, 2024) - Volta Metals Ltd. (CSE: VLTA) (FSE: D0W) (\"Volta \" or the \"Company\") is pleased to announce that it has... agreed to acquire additional claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Kerem Usenmez",
+      "justification": "The CEO is listed at the end of the press release: 'Kerem Usenmez, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the claims: 'The Company will acquire a 100% interest in these newly acquired claims...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company's focus is on lithium and the acquired claims are on a lithium trend: 'Volta Metals Ltd. ... is a mineral exploration company ... focused on lithium, cesium, and tantalum.' and 'Newly acquired claims along Lithium trend strike within the greenstone belt'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/230961",
+      "justification": "The article is a press release from Volta Metals Ltd. announcing the acquisition of claims contiguous to its Lee Creek/Lake project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted by '$' and the acquiring company, Volta Metals Ltd., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 7875,
+      "justification": "The cash consideration for the acquisition is explicitly stated: 'The Company paid $7,875 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a price per share can be determined via the fallback rule, so this field is null per the financial data extraction hierarchy (Priority 2)."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, so this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 150000,
+      "justification": "The number of shares issued as part of the acquisition is specified: '...and will issue 150,000 common shares in its capital to the vendors of the newly acquired claims.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants were mentioned in the context of a separate private placement financing, not as part of the consideration for the claim acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the claim acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.055,
+      "justification": "The transaction terms mention the number of shares issued, but not the price for the acquisition. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.055'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters for the acquired claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions use of proceeds from a financing for exploration on the 'ZigZag Project', not the newly acquired Lee Lake/Creek claims. Therefore, there is no exploration commitment value for this specific project."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the seller retained a Net Smelter Royalty: '...and upon closing, will grant the vendors a 1.5% net smelter returns royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 1520,
+      "justification": "The total surface area of the acquired claims is stated: '...with a total surface area of 1,520 hectares (15.2 km2).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: '...with a total surface area of 1,520 hectares (15.2 km2).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions a mineral resource estimate for a nearby, third-party project, not for the acquired claims themselves. '...contiguous to its Lee Creek claims (Figure 1), and to the north end of the Seymour deposit owned by Green Technology Metals (MRE 10.3Mt at 1.03% Li2O)...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:VLTA",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'Volta Metals Ltd. (CSE: VLTA)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Epworth/49877.txt",
+    "canada_projects/Epworth/69725.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Epworth",
+      "justification": "The primary project is identified in the title of the press release: 'Aston Bay Signs LOI to Option Epworth Sediment Hosted Copper-Silver-Zinc-Cobalt Project, Nunavut, Canada'."
+    },
+    "company_name": {
+      "value": "Aston Bay Holdings Ltd.",
+      "justification": "The acquiring company is identified as 'Aston Bay Holdings Ltd. (TSX-V:BAY)(OTCQB:ATBHF)(the \"Company\" or \"Aston Bay\")'."
+    },
+    "ceo_buyer": {
+      "value": "Thomas Ullrich",
+      "justification": "A quote in the article identifies the CEO of the acquiring company: '\"We are very excited to option the Epworth Property,\" stated Thomas Ullrich, CEO of Aston Bay.'"
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement grants Aston Bay an option 'to acquire an undivided 80% beneficial interest in a property owned by EGS in Nunavut, Canada (the \"Property\").'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as the 'Epworth Sediment Hosted Copper-Silver-Zinc-Cobalt Project', with Copper listed first. The text also refers to it as a 'high-grade copper project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/838090/aston-bay-signs-loi-to-option-epworth-sediment-hosted-copper-silver-zinc-cobalt-project-nunavut-canada",
+      "justification": "The article is directly about the transaction for the Epworth project, as stated in its title: 'Aston Bay Signs LOI to Option Epworth Sediment Hosted Copper-Silver-Zinc-Cobalt Project, Nunavut, Canada'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves payments in dollars ('$'). The acquiring company, Aston Bay Holdings Ltd., is listed on the Canadian TSX Venture Exchange ('TSX-V:BAY'), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The terms of the agreement state: 'Aston Bay also agreed to make a cash payment of $50,000 to EGS on the business day following the date of the Agreement.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment is mentioned, so this field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option to acquire an interest in the property, but no stock options were issued as payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "Under the terms of the Agreement, Aston Bay can earn an 80% undivided interest in the Property by spending a minimum of $3 million on qualifying exploration expenditures ('Expenditures') over a four-year period."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement includes terms for a 2% net smelter return royalty to be retained by the seller (EGS) if their interest is diluted below 10%: 'its interest will be converted into a 2% net smelter return if its interest is diluted to below 10%'."
+    },
+    "coverage_area_raw": {
+      "value": 71134.86,
+      "justification": "At the time of the agreement, the property was described as consisting of '51 claims covering an area of 71,134.86 hectares (175,778 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: '71,134.86 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides grades from grab samples and drill intercepts (e.g., '10.4% Cu over 0.9m'), but does not contain a quantified mineral resource statement with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:BAY",
+      "justification": "The press release identifies the acquiring company and its ticker as 'Aston Bay Holdings Ltd. (TSX-V:BAY)(OTCQB:ATBHF)'."
+    }
+  }
+}

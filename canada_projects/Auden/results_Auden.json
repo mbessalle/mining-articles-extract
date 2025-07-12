@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Auden/44850.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Auden",
+      "justification": "The text states: \"Golden Sky Minerals Corp. ... has acquired the district-scale 26,300-hectare Auden Gold Property ~50 km east of the Beardmore-Geraldton Greenstone Belt, Ontario, Canada\"."
+    },
+    "company_name": {
+      "value": "Golden Sky Minerals Corp.",
+      "justification": "The acquiring company is identified as \"Golden Sky Minerals Corp. (AUEN.V) (the “Company” or “Golden Sky”)\"."
+    },
+    "ceo_buyer": {
+      "value": "John Newell",
+      "justification": "The text identifies the CEO of the buyer company: \"John Newell, President and CEO of Golden Sky Minerals, states...\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"The Property is 100% owned by Golden Sky with no underlying royalties.\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the \"Auden Gold Property\" and the text notes \"high potential for the expansion and discovery of new gold targets on the property.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Auden, but no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV) and is headquartered in Vancouver, Canada, which implies the currency is Canadian Dollars (CAD). The detailed quote uses a \"$\" symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired \"through staking\", and no cash payment is mentioned in the transaction terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired \"through staking\", and no share payment is mentioned in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired \"through staking\", and no combined payment is mentioned in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The property was acquired \"through staking\", and no issuance of shares is mentioned as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the property has \"no underlying royalties.\""
+    },
+    "coverage_area_raw": {
+      "value": 26300,
+      "justification": "The text states: \"the Company has acquired the district-scale 26,300-hectare Auden Gold Property\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text states: \"the Company has acquired the district-scale 26,300-hectare Auden Gold Property\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an early-stage exploration property with historical drilling results, but does not provide a consolidated mineral resource estimate for the Auden project itself. The company's mandate is described as developing its portfolio of Properties \"to the mineral resource stage\", implying one does not yet exist."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AUEN",
+      "justification": "The text identifies the company as \"Golden Sky Minerals Corp. (AUEN.V)\" and the detailed quote section lists the exchange as \"TSXV\". The \".V\" suffix is a common representation for the TSX Venture Exchange."
+    }
+  }
+}

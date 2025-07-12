@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Sheraton/72363.txt",
+    "canada_projects/Sheraton/77640.txt",
+    "canada_projects/Sheraton/90914.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sheraton",
+      "justification": "The project is consistently referred to as the 'Sheraton Property' or 'Sheraton Project' across all provided documents. For example: 'Planet Green Metals Add Additional Claims to the Sheraton Property' and 'About the Sheraton Property:'."
+    },
+    "company_name": {
+      "value": "Planet Green Metals Inc.",
+      "justification": "The acquiring company is identified in all documents as 'Planet Green Metals Inc. (CSE:PGR) (“Planet Green” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Jeremy S. Brett",
+      "justification": "Jeremy S. Brett is identified as the President and CEO in all three announcements, for example: 'Jeremy S. Brett, President and Chief Executive Officer, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The March 12, 2025 announcement states that the company entered into option agreements 'to acquire a 100% undivided interest in a claims package located adjacent to the Company’s Sheraton Property'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is described as being 'highly prospective for Cu-Zn±Au±Ag VMS-style mineralization' and the text repeatedly mentions copper as a key target, such as 'The presence of significant copper mineralization at the adjacent Cross Lake property makes the Sheraton Property a compelling target.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of multiple news releases about the correct project, not a single web article with a verifiable link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with a '$' symbol. The acquiring company, Planet Green Metals Inc., is listed on the Canadian Securities Exchange (CSE) and the project is in Ontario, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 430000,
+      "justification": "This is the sum of cash payments from two option agreements announced on March 12, 2025: one with Kraken for 'cash payments totaling $240,000' and one with 2628860 for 'cash payments totaling $190,000'."
+    },
+    "share_payments_raw": {
+      "value": 690000,
+      "justification": "This is the sum of share payments from two option agreements announced on March 12, 2025: one with Kraken for 'further cash payments of $385,000 payable in common shares' and one with 2628860 for 'further cash payments of $305,000 payable in common shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of shares to be issued is specified in dollars, not as a specific number of shares. The number of shares depends on a '20-day volume weighted average price'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a concurrent financing ('Unit Offering'), not as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transactions are structured as option agreements, but the consideration is broken down into cash, shares, and exploration commitments, which are extracted into their respective fields."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price for the shares issued as consideration is not a fixed price but is 'based on a 20-day volume weighted average price as of the date of each respective payment'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitments specified in terms of drilling meters were found in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2450000,
+      "justification": "This is the sum of exploration commitments from two option agreements announced on March 12, 2025: one with Kraken requiring '$1,350,000 in exploration expenditures' and one with 2628860 requiring '$1,100,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The option agreements include a Net Smelter Royalty retained by the sellers. 'These claims will also be subject to a net smelter return royalty (“NSR”) in favor of Kraken of 1.5%.' and 'These claims will also be subject to a net smelter return royalty (“NSR”) in favor of 2628860 of 1.5%.'"
+    },
+    "coverage_area_raw": {
+      "value": 10989,
+      "justification": "This is the total area acquired across three separate events: staking of '680 hectares', an acquisition of '172 hectares', and option agreements for 'a total of 575 claims spanning 10,137 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for all mentioned areas is hectares. For example: '...totaling an area of 680 hectares...' and '...adding a total of 575 claims spanning 10,137 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes mineralization on an adjacent property ('Exploration by Cross Lake Minerals in the late 1990s on the adjacent property at Cross Lake identified bedded sulfides...') and explicitly cautions that 'there is no guarantee this VMS zone will extend to the expanded Sheraton Property'. No resource has been defined on the Sheraton Property itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:PGR",
+      "justification": "The company is identified as 'Planet Green Metals Inc. (CSE:PGR)' in the news releases."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Acacia/35924.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Acacia",
+      "justification": "The text identifies the project in a table: 'Property Name: Acacia | District: Central BC | Commodity: Au, Ag, Zn, Pb, Cu | Geology: VMS | Area(Ha): 4,857'."
+    },
+    "company_name": {
+      "value": "NevGold Corp.",
+      "justification": "NevGold Corp. is the parent company of the acquiring entity. 'NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) ... is pleased to announce that it has established a new British Columbia subsidiary, 1416753 B.C. Ltd. (“SubCo”) ... SubCo has also entered into an option agreement ... to acquire a portfolio of advanced exploration assets including ... Acacia ... from Eagle Plains Resources Ltd.'"
+    },
+    "ceo_buyer": {
+      "value": "Brandon Bonifacio",
+      "justification": "The CEO of the parent acquiring company is identified: 'Brandon Bonifacio, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The option is for a 100% interest in a portfolio of projects including Acacia: 'Subject to the terms and conditions of the Option Agreement, the Optionor granted to SubCo the sole and exclusive irrevocable right and option (the “Option”) to acquire an undivided 100% interest in the Option Projects...'"
+    },
+    "primary_commodity": {
+      "value": "Au, Ag, Zn, Pb, Cu",
+      "justification": "A table in the document lists the commodities for the project: 'Property Name: Acacia | District: Central BC | Commodity: Au, Ag, Zn, Pb, Cu'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article link was not provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is identified from a Canadian dollar denominated figure in the agreement terms: '...with a buy-down option for SubCo of a 1% NSR royalty for C$1,000,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any cash payments as consideration for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration involves the issuance of shares, but no dollar value is assigned to them."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The project's share is 2,000,000 shares, calculated as one-fifth of the total 10,000,000 SubCo shares issued to EPL for the five Option Projects. The total is comprised of: '(i) on or before the Option closing date, 5,000,000 SubCo shares; and (ii) on or within 10 business days of the closing of a going public transaction involving SubCo, an additional 5,000,000 SubCo shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the payment consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price of the private 'SubCo' shares to be issued is not stated in the text. The detailed quote refers to NevGold Corp. (NAU) shares, not the shares of the subsidiary involved in the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 200000,
+      "justification": "The project's share is $200,000, calculated as one-fifth of the total $1,000,000 in expenditures to be incurred on the five Option Projects. The total commitment is stated as: '(iii) on or before December 31, 2023, $500,000 of expenditures; and (iv) on or before December 31, 2024, $500,000 of additional expenditures.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is granted to the seller as part of the agreement: 'Upon the exercise of the Option, SubCo has agreed to grant EPL a 2% NSR royalty on certain Option Projects without underlying royalties...'"
+    },
+    "coverage_area_raw": {
+      "value": 4857,
+      "justification": "The area for the Acacia project is listed in a table: 'Property Name: Acacia ... Area(Ha): 4,857'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the area is specified in the table header: 'Area(Ha)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill and channel sampling results (e.g., '0.72 g/t Au over 10.3 meters'), but does not contain a quantified mineral resource estimate with total tonnage or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NAU",
+      "justification": "The ticker and exchange for the parent acquiring company, NevGold Corp., is provided in the text: 'NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU)'."
+    }
+  }
+}

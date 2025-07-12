@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Kannika/43013.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kannika",
+      "justification": "The article is titled 'Bathurst Metals Announces Kannika Claims Option' and discusses the acquisition of the 'Kannika Property'. This matches the authoritative project name."
+    },
+    "company_name": {
+      "value": "Bathurst Metals Corp.",
+      "justification": "The acquiring company is identified as 'Bathurst Metals Corp. (TSXV:BMV) (OTC:BMVVF) (“Bathurst” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Harold Forzley",
+      "justification": "The document is signed off by '“Harold Forzley” CEO Bathurst Metals Corp.'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Bathurst entered into an agreement 'to acquire an undivided 100% interest in five (5) mineral claims known as the “Kannika Property”'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is referred to as 'The Kannika Gold Project' and historically had 'high-grade gold showings'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Kannika, but no verifiable URL is provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The primary cash payment to exercise the option is explicitly denominated in USD: 'pay the sum of USD $250,000 to exercise the option'."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "To exercise the option, 'The Company must... pay the sum of USD $250,000 to exercise the option'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A number of shares are issued, but no explicit dollar value for this share payment is provided in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "As consideration for the assignment of the Option Agreement, 'the Company will issue 1,500,000 common shares to the Vendors'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the property acquisition agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Stock options are mentioned, but they are for an investor relations consultant ('issue 250,000 stock options with an exercise price of $0.10'), not for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 50000,
+      "justification": "The company is required to 'incur not less than $50,000 of expenditures on the claims within 18 months of the date of the Option Agreement'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement includes a retained royalty for the seller: 'The claims will be subject to a net smelter royalty in favor of the underlying optionor equal to 2.0% (the \"Royalty\")'."
+    },
+    "coverage_area_raw": {
+      "value": 1887.04,
+      "justification": "The text states: 'The Kannika Gold Project consists of five (5) mineral claims covering 1,887.04 Ha'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The text states: 'The Kannika Gold Project consists of five (5) mineral claims covering 1,887.04 Ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that 'Recent, systematic exploration has not been undertaken on the property,' which implies no modern mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BMV",
+      "justification": "The buyer is identified as 'Bathurst Metals Corp. (TSXV:BMV)'."
+    }
+  }
+}

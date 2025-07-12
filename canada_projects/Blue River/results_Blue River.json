@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Blue River/54169.txt",
+    "canada_projects/Blue River/55865.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue River",
+      "justification": "The title of the press release is 'Commerce Resources Enters into Agreement to Sell Its Blue River Property'."
+    },
+    "company_name": {
+      "value": "Commerce Resources Corp.",
+      "justification": "The press release is from 'Commerce Resources Corp. (TSXV:CCE)(FSE:D7H0)(OTCQX:CMRZF) (the \"Company\" or \"Commerce\")' which is selling the property. This aligns with the authoritative metadata provided."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is an unnamed 'arm's length private company (the \"Purchaser\")' and no CEO for this entity is mentioned. Chris Grove is the President of the seller, Commerce Resources Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Commerce Resources Corp. has 'completed the sale of its interest in certain mineral claims comprising the \"Blue River\" property'. The phrasing 'sale of its interest' implies the full interest held by the company was sold."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text does not specify the primary commodity for the Blue River project. It only mentions commodities for Commerce's other projects in Quebec, such as the 'Ashram Rare Earth and Fluorspar Deposit'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration has a deemed price of '$0.05 per share'. The selling company, Commerce Resources Corp., is listed on the TSX Venture Exchange (TSXV) and based in Vancouver, BC, implying Canadian Dollars. Another news item mentioned in the text confirms the company uses CAD: 'Commerce Resources Receives $2.6M CAD from Canada’s Critical Minerals Infrastructure Fund'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration was entirely in shares of the purchaser, not cash."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a deemed price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a deemed price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 20000000,
+      "justification": "As consideration for the Blue River Assets, the Company will receive 20,000,000 common shares in the capital of the Purchaser at a deemed price of $0.05 per share (the \"Blue River Shares\")."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "As consideration for the Blue River Assets, the Company will receive 20,000,000 common shares in the capital of the Purchaser at a deemed price of $0.05 per share (the \"Blue River Shares\")."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction is a sale of the property, not a farm-in, and no exploration commitment in meters is mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction is a sale of the property, not a farm-in, and no exploration commitment value is mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Blue River property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Blue River property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not mention any mineral resource estimate for the Blue River project. It only mentions resources for the separate Ashram deposit."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as an 'arm's length private company', which does not have a public ticker or exchange listing."
+    }
+  }
+}

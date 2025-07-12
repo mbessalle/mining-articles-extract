@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Cable Bay Southwest/48230.txt",
+    "canada_projects/Cable Bay Southwest/48648.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cable Bay Southwest",
+      "justification": "The text announces the acquisition of three projects, including the primary project of interest: 'With the addition of the Cable Bay Southwest (“CBSW”), Ox Lake, and Brown Lake Projects...'"
+    },
+    "company_name": {
+      "value": "Standard Uranium Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Standard Uranium Ltd. (“Standard Uranium” or the “Company”) (TSX-V: STND) is pleased to announce the acquisition by staking of three new 100% owned uranium exploration properties...'"
+    },
+    "ceo_buyer": {
+      "value": "Jon Bey",
+      "justification": "The CEO of the acquiring company is listed in the contact information section: 'Jon Bey, Chief Executive Officer, and Chairman'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement specifies that the properties are fully owned: '...acquisition by staking of three new 100% owned uranium exploration properties...'"
+    },
+    "primary_commodity": {
+      "value": "uranium",
+      "justification": "The press release repeatedly identifies the target commodity: 'Standard Uranium is a uranium exploration company...' and '...acquisition by staking of three new 100% owned uranium exploration properties...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt to verify."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', which is a claim process and not a purchase transaction involving currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', not through a cash purchase. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', not through a share-based purchase. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking'. No financial consideration was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking'. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any drilling or meter-based exploration commitment for the project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty was mentioned as part of the acquisition terms."
+    },
+    "coverage_area_raw": {
+      "value": 3158,
+      "justification": "The text provides a specific area for the project of interest: 'The CBSW project comprises two mineral claims totalling 3,158 ha...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified in the text: 'The CBSW project comprises two mineral claims totalling 3,158 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is at an early stage with no defined resource: 'The Project has never been drill-tested, and will benefit from additional surface sampling and geophysical surveys to aid in future drill target generation.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STND",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Standard Uranium Ltd. (“Standard Uranium” or the “Company”) (TSX-V: STND)...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gambler/78857.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gambler",
+      "justification": "The article is titled 'Mink Ventures Acquires Gambler Project...' and states the company 'has acquired a 100% interest in the Gambler property'."
+    },
+    "company_name": {
+      "value": "Mink Ventures Corporation",
+      "justification": "The acquiring company is identified in the first sentence: 'Mink Ventures Corporation (TSXV:MINK) (“MINK” or the \"Company\") today announced that it has acquired a 100% interest in the Gambler property...'"
+    },
+    "ceo_buyer": {
+      "value": "Natasha Dixon",
+      "justification": "The CEO of the buyer, Mink Ventures, is quoted in the text: '“Consolidating claims over 100 km2...is an enviable position for Mink from a both geological and corporate perspective,” said Natasha Dixon, Mink President and CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Mink Ventures Corporation (TSXV:MINK) (“MINK” or the \"Company\") today announced that it has acquired a 100% interest in the Gambler property...'"
+    },
+    "primary_commodity": {
+      "value": "Ni Cu Co",
+      "justification": "The article title describes the project as a 'Ni Cu Co Project'. The body also refers to Mink's 'nickel copper cobalt exploration portfolio'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source document text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction consideration was a Net Smelter Royalty, not a monetary payment, so no currency is specified."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition did not include cash. The text states: 'Total consideration for the claims is a 2% net smelter return royalty (NSR) on those claims...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition did not include shares. The text states: 'Total consideration for the claims is a 2% net smelter return royalty (NSR) on those claims...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was a royalty, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the Gambler project acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Gambler project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was specified for the Gambler project. A drill program is mentioned for a different project: '...the diamond drill program at Mink’s nearby Warren Ni Cu Co project...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The consideration for the acquisition was a royalty granted to the seller. 'Total consideration for the claims is a 2% net smelter return royalty (NSR) on those claims, granted in favour of Voltage Metals Corporation.'"
+    },
+    "coverage_area_raw": {
+      "value": 59.2,
+      "justification": "The text specifies the area for the Gambler property itself: '...acquired a 100% interest in the Gambler property, consisting of 296 mining cell claims (59.2 km2)...' The larger 100 km2 figure is a combined total with the separate Montcalm property and is therefore ignored."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is provided in the same sentence as the area measurement: '...the Gambler property, consisting of 296 mining cell claims (59.2 km2)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource has been defined for the Gambler project. The text describes the claims as 'underexplored'. The only resource mentioned is for the adjacent, separate property: '...adjoining the former Glencore Montcalm nickel mine, with historical production of 3.93 million tonnes @ 1.25% Ni, 0.67% Cu and 0.05% Co...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MINK",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Mink Ventures Corporation (TSXV:MINK)'."
+    }
+  }
+}

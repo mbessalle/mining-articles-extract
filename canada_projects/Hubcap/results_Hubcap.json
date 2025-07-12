@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hubcap/53373.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hubcap",
+      "justification": "The text announces the sale of the Hubcap project: '...the sale of its Echum and Hubcap Projects to BTU Metals Corporation...'"
+    },
+    "company_name": {
+      "value": "Kingsview Minerals Ltd.",
+      "justification": "The press release is from Kingsview Minerals Ltd., who is selling the project. 'Toronto, Ontario--(Newsfile Corp. - May 7, 2024) - Kingsview Minerals (CSE: KVM) (FSE: 0L4) (the \"Company\" or \"Kingsview\") announces the signing of a Purchase and Sale Agreement (\"PSA\") for the sale of its Echum and Hubcap Projects...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO mentioned, James Macintosh, is the President and CEO of the seller, Kingsview Minerals Ltd., not the buyer, BTU Metals Corporation."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer, BTU, is acquiring a full interest in the project. 'Per the terms of the PSA, BTU will purchase a 100% interest in two packages of mineral claims known as the Echum and Hubcap Projects...'"
+    },
+    "primary_commodity": {
+      "value": "gold, base metals",
+      "justification": "The company selling the project is focused on these commodities. 'Kingsview is a mineral exploration company focused on its gold and base metal exploration properties, including the flagship 13,056-hectare Echum Project and the 2,239-hectare Hubcap Project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/208178",
+      "justification": "The article is a press release from Kingsview Minerals Ltd. announcing the sale of the Hubcap project to BTU Metals Corporation."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted by '$' and the companies involved are Canadian, with the seller listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 12500,
+      "justification": "The value is $12,500, calculated as half of the total $25,000 cash payment which was for two projects (Hubcap and Echum). The text states: 'BTU will also make a one-time cash payment in the amount of $25,000 upon Closing' for the 'Echum and Hubcap Projects'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described in terms of number of shares and a cash payment, not a dollar value for the shares. Therefore, this field is null as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "The value is 2,500,000 shares, calculated as half of the total shares issued for the two projects (Hubcap and Echum). The text states the properties were sold 'for a total of 5,000,000 common shares in the capital of BTU'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No price per share for the transaction is mentioned in the article. The 'Detailed Quote' section refers to the seller's (Kingsview Minerals) stock, not the buyer's (BTU Metals Corp.), so it cannot be used as a fallback."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The buyer, BTU, is not acquiring a royalty stream. Instead, it is taking on the obligation of pre-existing royalties owed to original vendors as part of the property acquisition, as stated: 'the Company is also assigning to BTU four 2% net smelter return (\"NSR\") royalties to the various original vendors in relation to the Properties, as applicable.'"
+    },
+    "coverage_area_raw": {
+      "value": 2239,
+      "justification": "The text specifies the area for the Hubcap project: '...the 2,239-hectare Hubcap Project...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text specifies the unit for the Hubcap project area: '...the 2,239-hectare Hubcap Project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified statement of mineral resources for the Hubcap project. It only mentions 'there being no assurance that any future exploration program on the projects will result in mineral resources'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The text does not provide a stock ticker or exchange for the buyer, BTU Metals Corporation. The ticker provided in the authoritative metadata and detailed quote (CSE: KVM) belongs to the seller, Kingsview Minerals Ltd."
+    }
+  }
+}

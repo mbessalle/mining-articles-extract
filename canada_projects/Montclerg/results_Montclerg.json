@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Montclerg/12293.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Montclerg",
+      "justification": "The article is titled 'GFG Finalizes Montclerg Gold Project Acquisition and Initiates Aggressive Exploration Program'."
+    },
+    "company_name": {
+      "value": "GFG Resources Inc.",
+      "justification": "The buyer is identified as 'GFG Resources Inc. (TSXV: GFG) (OTCQB: GFGSF) (“GFG” or the “Company”)' which is acquiring 'a 100% interest in the Montclerg Gold Project'."
+    },
+    "ceo_buyer": {
+      "value": "Brian Skanderbeg",
+      "justification": "“This acquisition fits our strategy of exploring in top tier jurisdictions...”, stated Brian Skanderbeg, President and CEO of GFG."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the Agreement, GFG has the right to acquire 100% of the Project..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold project, for example: 'GFG Finalizes Montclerg Gold Project Acquisition'."
+    },
+    "verified_article_link": {
+      "value": "https://www.globenewswire.com/Tracker?data=J4idlV7fiOta117Zzpd65sDa-mNmdSc2NwPeM0SJALxQA5VqeZto4R7COJrBiQBKdH5gimAw2-s_TknXAWo-Fen43NvH9z9LeHIre2gT0I1zvMn5PUfhodEAA2fSmagzcrMNoDAra5XfbGGNepHSmLQ3qlwrDQtC_B4c1239roFF3iDE9lN2BuiMqO5KKQItmN3ndol0RhgH3Jf6jOZCb0dzTg-6WiNCSsq1E5Fad-gkwWr46QiEWIcAT0hCqqSNQMwf1rjoMhfHhrFA4agk1V5aecZMiOIPR3CSrBq-2-r6cYCBv1vasX_t0Vn_Z_sfOkcnOWMCDH8HXBX1rAgBNC1V-cdcsTvM4vAXjIn0pQEBG58oIbtvrvsk8kAlwCTY-ItslE4Ku8bRQpY02atoH_A7tkPrvGCSEW-tm8-OOSc=",
+      "justification": "The article is titled 'GFG Finalizes Montclerg Gold Project Acquisition' and the content is entirely focused on this transaction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms and commitments are specified in Canadian dollars, indicated by 'C$'. For example: 'Spend a minimum of C$1.0 million in exploration expenditures'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration consists of share payments, an exploration commitment, and a transfer of assessment credits. No cash payments are mentioned in the terms of the agreement."
+    },
+    "share_payments_raw": {
+      "value": 2000000,
+      "justification": "The total value of share payments is C$2.0 million, comprised of an initial C$1.0 million, a C$500,000 payment at 12 months, and a C$500,000 payment at 24 months. 'The issuance of an aggregate of 7,423,905 common shares of GFG (the “Initial Shares”), valued at C$1.0 million... The issuance of common shares of GFG 12 months following the date of the Agreement, valued at C$500,000... The issuance of common shares of GFG 24 months following the date of the Agreement, valued at C$500,000...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Share payments are explicitly valued and can be separated, so this field is not applicable as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The total value of the share payments is explicitly stated (C$2.0M), which takes precedence over calculating value from the number of shares according to the financial data extraction hierarchy. While an initial number of shares is given (7,423,905), the number for future payments is variable."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The total value of the share payments is explicitly stated (C$2.0M), which takes precedence over calculating value from share price according to the financial data extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "Spend a minimum of C$1.0 million in exploration expenditures over 24 months on the Project following the date of the Agreement;"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement is subject to a royalty retained by the seller: 'subject to a net smelter return royalty of up to 2% on certain of the claims'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the project consists of 'five patented mining claims and 110 unpatented mining claims' but does not provide a total area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions the project consists of 'five patented mining claims and 110 unpatented mining claims' but does not provide a total area in units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no mineral resource has been defined: 'There has been insufficient exploration to define a Mineral Resource on the Project to date and it is uncertain if further exploration will result in the Project being defined as a Mineral Resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GFG",
+      "justification": "The buyer is identified in the text as 'GFG Resources Inc. (TSXV: GFG) (OTCQB: GFGSF)'."
+    }
+  }
+}

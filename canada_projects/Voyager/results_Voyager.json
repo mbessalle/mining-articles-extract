@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Voyager/36371.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Voyager",
+      "justification": "The project is explicitly named in the headline and body of the text: 'CanAlaska Stakes Voyager Project in Eastern Athabasca Basin' and 'CanAlaska Uranium Ltd. ... is pleased to announce the newly acquired Voyager project...'"
+    },
+    "company_name": {
+      "value": "Canalaska Uranium Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'CanAlaska Uranium Ltd. (TSXV: CVV) (OTCQX: CVVU) (FSE: DH7N)(\"CanAlaska or the \"Company\") is pleased to announce the newly acquired Voyager project...'"
+    },
+    "ceo_buyer": {
+      "value": "Cory Belyk",
+      "justification": "The CEO of the acquiring company, CanAlaska, is identified in the text: 'CanAlaska CEO, Cory Belyk, comments...' and in the signature block 'Cory Belyk, P.Geo., FGC CEO, President and Director CanAlaska Uranium Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article states 'CanAlaska Stakes Voyager Project'. Staking is the process of acquiring mineral rights directly from the government, which implies a 100% interest in the staked claims. The text refers to it as the 'newly acquired Voyager project'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The primary commodity is stated in the sub-headline and throughout the document: 'Historical Uranium Showings Up to 0.797% U3O8 Within Voyager Project Area'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/169170",
+      "justification": "The article is titled 'CanAlaska Stakes Voyager Project in Eastern Athabasca Basin', which directly pertains to the project of interest. The source link is provided at the end of the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "No transaction value is mentioned, but the acquiring company, CanAlaska Uranium Ltd., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. The detailed quote section also uses a '$' symbol, implying Canadian Dollars. 'Exchange: TSXV'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an acquisition via staking, not a purchase from another entity. There is no mention of any cash consideration in the article."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an acquisition via staking. There is no mention of any share consideration in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is an acquisition via staking. There is no mention of any combined cash and share consideration in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is an acquisition via staking. There is no mention of shares being issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this staking acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article states the company will seek partners to advance the project, but does not specify any monetary exploration commitment as part of the acquisition. 'the Company will seek strategic partners to advance this and other CanAlaska owned assets.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of this staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5634,
+      "justification": "The size of the project is explicitly stated: 'the newly acquired Voyager project, totalling 5,634 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the same sentence as the value: 'the newly acquired Voyager project, totalling 5,634 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions grades from historical grab samples, such as 'up to 0.797% U3O8 in a grab sample', but does not provide a quantified mineral resource estimate that includes mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CVV",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'CanAlaska Uranium Ltd. (TSXV: CVV)'."
+    }
+  }
+}

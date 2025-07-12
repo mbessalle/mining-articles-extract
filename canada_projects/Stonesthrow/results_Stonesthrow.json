@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Stonesthrow/65554.txt",
+    "canada_projects/Stonesthrow/70269.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stonesthrow",
+      "justification": "The text refers to the project as the 'Stonesthrow Gold Project'. The authoritative name is 'Stonesthrow'."
+    },
+    "company_name": {
+      "value": "Sienna Resources Inc.",
+      "justification": "The acquiring company is identified as 'Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) (\"Sienna\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "The text identifies the president of the buyer company: '\"Jason Gigliotti\" President, Director Sienna Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition method is staking, which implies acquiring 100% of the mineral rights for the claimed area. The text states: 'This new acreage was acquired via staking.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly identified as a gold project: 'Sienna has acquired the \"Stonesthrow Gold Project\", consisting of approximately 18,350 contiguous acres prospective for gold.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/222073",
+      "justification": "The article is titled 'Sienna Almost Doubles Acreage of Stonesthrow Gold Project in Saskatchewan Bordering Ramp Metals Inc' and is directly about the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the detailed quote uses a '$' symbol, implying Canadian Dollars (CAD). 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a purchase from another party, so no cash payment was involved. The text states: 'This new acreage was acquired via staking.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a purchase from another party, so no share payment was involved. The text states: 'This new acreage was acquired via staking.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned as the acquisition was via staking."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, which was done via staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in relation to the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in relation to the project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 31718,
+      "justification": "The most recent article provides the updated total acreage for the project: 'Sienna has significantly increased acreage of the \"Stonesthrow Gold Project\", consisting now of approximately 31,718 contiguous acres prospective for gold.'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated: '...consisting now of approximately 31,718 contiguous acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Stonesthrow project. It only refers to mineralization on an adjacent property and includes a caution about it."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIE",
+      "justification": "The text explicitly states the company's ticker and exchange: 'Sienna Resources Inc. (TSXV: SIE)'."
+    }
+  }
+}

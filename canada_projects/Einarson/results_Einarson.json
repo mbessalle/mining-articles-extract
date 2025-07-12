@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Einarson/52697.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Einarson",
+      "justification": "The article is titled 'Snowline Gold Consolidates 100% of Its Einarson Project...' and the text states Snowline 'will result in the consolidation of 100% ownership of its Einarson Project'."
+    },
+    "company_name": {
+      "value": "Snowline Gold Corp.",
+      "justification": "The press release is from 'SNOWLINE GOLD CORP (TSXV:SGD) (OTCQB:SNWGF) (the \"Company\" or \"Snowline\")'."
+    },
+    "ceo_buyer": {
+      "value": "Scott Berdahl",
+      "justification": "The article quotes 'Scott Berdahl, CEO & Director of Snowline' and is signed 'ON BEHALF OF THE BOARD Scott Berdahl CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 30,
+      "justification": "The transaction is for the 'purchase of a privately held 30% interest in 3,003 mineral claims (~61,000 ha)' to consolidate 100% ownership."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article title mentions an 'adjacent gold target' and the text discusses 'orogenic gold system', 'g/t Au', and 'gold targets'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/856439/snowline-gold-consolidates-100-of-its-einarson-project-and-acquires-adjacent-gold-target-with-historical-drill-result-of-97-grams-per-tonne-gold-over-387-m",
+      "justification": "The article content is about the consolidation of the Einarson project by Snowline Gold Corp, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies cash payments in Canadian dollars, for example, 'a cash payment of C$1,200,000'."
+    },
+    "cash_payments_raw": {
+      "value": 6000000,
+      "justification": "The agreement includes future conditional payments specific to the Einarson claims. 'The Vendor will also be entitled to up to seven (7) individual, one-time cash bonus payments of C$1,000,000 in the event of a resource estimate... on any of six specified mineral claim groupings within the consolidated claims...'. This totals C$6,000,000 for the Einarson claims. The initial C$1,200,000 cash payment is not included as it was for a package of assets (Einarson, Venus, etc.) and cannot be disaggregated."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The 'one-time share payment of 1,012,000 Snowline shares' is part of the consideration for a package of assets including the 30% interest in Einarson, 100% interest in Venus, other claims, and physical assets. The value attributable solely to the Einarson project is not specified."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Not applicable, as cash and share components of the consideration are listed separately, although they are for a package of assets and cannot be attributed solely to the Einarson project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 'one-time share payment of 1,012,000 Snowline shares' is for a package of assets including the 30% interest in Einarson, 100% interest in Venus, other claims, and physical assets. The portion of shares attributable solely to the Einarson project is not specified."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "An issue price for the shares in the transaction is not mentioned, and the shares themselves cannot be attributed solely to the Einarson project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction mentions 'The Vendor will retain a 2% Net Smelter Return (NSR) royalty on the Venus claim block'. This royalty pertains to the Venus project, not the Einarson project."
+    },
+    "coverage_area_raw": {
+      "value": 61000,
+      "justification": "The acquisition is for a '30% interest in 3,003 mineral claims (~61,000 ha)' which comprise the Einarson project."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The acquisition is for a '30% interest in 3,003 mineral claims (~61,000 ha)' which comprise the Einarson project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Einarson project. It mentions bonus payments that are contingent 'in the event of a resource estimate prepared in accordance with NI 43-101 standards', implying no such resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGD",
+      "justification": "The buyer is identified as 'SNOWLINE GOLD CORP (TSXV:SGD) (OTCQB:SNWGF)'."
+    }
+  }
+}

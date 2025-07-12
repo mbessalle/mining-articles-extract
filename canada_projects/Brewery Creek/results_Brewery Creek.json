@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Brewery Creek/40996.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Brewery Creek",
+      "justification": "The text identifies the project of interest directly: 'Victoria has acquired Sabre’s 100% interest in the Brewery Creek property...'"
+    },
+    "company_name": {
+      "value": "Victoria Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Victoria Gold Corp. (TSX-VGCX) (“Victoria” or the “Company”) is pleased to announce the acquisition of Sabre Gold Mines Corp.’s (TSX-SGLD) (“Sabre”) Yukon assets...'"
+    },
+    "ceo_buyer": {
+      "value": "John McConnell",
+      "justification": "The CEO of the acquiring company, Victoria Gold Corp., is quoted in the text: 'Mr. John McConnell, President and CEO of Victoria commented: “With the acquisition of Sabre’s Yukon assets, we are pleased to be expanding our footprint and asset base in our own backyard.”'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text explicitly states the percentage of interest acquired: 'Victoria has acquired Sabre’s 100% interest in the Brewery Creek property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The resource estimate for the Brewery Creek project is described in terms of gold: '...a Mineral Resource Estimate1 of 34.5 million tonnes of Measured and Indicated Mineral Resources grading 1.03g/t Au, containing 1.14 million ounces of gold...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of documents and does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency for the transaction is specified in the text: 'All currency amounts listed in Canadian dollars.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a mix of guaranteed cash and elective cash/share payments for three properties. The total value is allocated to the `cash_and_share_payments_combined_raw` field and divided by the number of projects."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a mix of guaranteed cash and elective cash/share payments for three properties. The total value is allocated to the `cash_and_share_payments_combined_raw` field and divided by the number of projects."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 4500000,
+      "justification": "The value is calculated as one-third of the total aggregate consideration of $13.5 million, as the acquisition was for three properties (Brewery Creek, Gold Dome, and Grew Creek). The text states: 'Victoria will pay aggregate consideration of $13.5 million for Golden Predator... which indirectly holds a 100% interest in the Brewery Creek property, as well as certain other mineral assets that include the Gold Dome and Grew Creek exploration properties.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction details do not specify a fixed amount of shares to be issued, only elective portions that could be paid in shares at Victoria's discretion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction details do not specify an issue price for any potential shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 181,
+      "justification": "The text specifies the area for the Brewery Creek project: 'Brewery Creek is a formerly producing heap leach project, covering 181 square kilometers...'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometers",
+      "justification": "The unit for the coverage area is provided in the same sentence: 'Brewery Creek is a formerly producing heap leach project, covering 181 square kilometers...'"
+    },
+    "resource_size": {
+      "value": "34.5 million tonnes of Measured and Indicated Mineral Resources grading 1.03g/t Au, containing 1.14 million ounces of gold and 36.0 million tonnes of Inferred Mineral Resources grading 0.88g/t Au, containing 1.02 million ounces of gold",
+      "justification": "The text provides a detailed mineral resource estimate for the Brewery Creek property: 'The property is the subject of a NI 43-101 Technical Report which sets out a Mineral Resource Estimate1 of 34.5 million tonnes of Measured and Indicated Mineral Resources grading 1.03g/t Au, containing 1.14 million ounces of gold and 36.0 million tonnes of Inferred Mineral Resources grading 0.88g/t Au, containing 1.02 million ounces of gold (effective date of Mineral Resource Estimate: May 31, 2020).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:VGCX",
+      "justification": "The buyer's name is followed by its ticker and exchange in parentheses: 'Victoria Gold Corp. (TSX-VGCX) (“Victoria” or the “Company”) is pleased to announce the acquisition...'"
+    }
+  }
+}

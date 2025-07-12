@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bot/67435.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bot",
+      "justification": "The authoritative project name is Bot, and the acquired tenures are described as connecting multiple projects including Bot: 'The Tenures comprise 10 mineral claims that also join up TDG's Bot and Oxide Peak projects...'"
+    },
+    "company_name": {
+      "value": "TDG Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'TDG Gold Corp. (TSXV:TDG) (the \"Company\" or \"TDG\") is pleased to announce that it has entered into an agreement (the \"Purchase Agreement\") for the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Fletcher Morgan",
+      "justification": "The CEO of the buyer, TDG Gold Corp., is listed at the end of the press release: 'ON BEHALF OF THE BOARD Fletcher Morgan Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that TDG will acquire the mineral tenures outright, implying a 100% interest in the acquired property: 'Pursuant to the Purchase Agreement, TDG will acquire the Tenures from Volatus Capital Corp.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The press release title refers to the 'Toodoggone Au-Ag District', with 'Au' being the symbol for gold. The company name is also TDG Gold Corp."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/896074/tdg-gold-significantly-expands-land-package-in-the-toodoggone-au-ag-district-bc",
+      "justification": "The article is relevant as it details an acquisition of mineral tenures that directly connect to and expand the land package associated with the Bot project, among others."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed in '$' and the acquiring company, TDG Gold Corp., is listed on the TSX Venture Exchange (TSXV:TDG), which implies Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 25000,
+      "justification": "The project's share is $25,000, calculated as one-quarter of the total $100,000 cash payment. The acquisition is for a single land package connecting four of TDG's project areas (Bot, Oxide Peak, Baker Complex, and Greater Shasta-Newberry). The total cash payment is '$100,000 will be paid in cash'."
+    },
+    "share_payments_raw": {
+      "value": 25000,
+      "justification": "The project's share is $25,000, calculated as one-quarter of the total $100,000 share payment. The acquisition is for a single land package connecting four of TDG's project areas (Bot, Oxide Peak, Baker Complex, and Greater Shasta-Newberry). The total share payment is '$100,000 will be paid through the issuance of 752,445 common shares of TDG'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Null as per the financial data extraction hierarchy, since explicit cash and share payment values were provided (Priority 1)."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Value is null because Priority 1 of the financial data extraction hierarchy was met (explicit cash and share values were provided), which requires other financial fields to be null. The total number of shares for the entire acquisition was '752,445 common shares of TDG'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Value is null because Priority 1 of the financial data extraction hierarchy was met, as explicit cash and share payment values were provided."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2400,
+      "justification": "The project's allocated share is 2,400 ha, calculated as one-quarter of the total 'approximately 9,600 hectares' acquired. The acquisition is for a single land package that connects four of TDG's project areas (Bot, Oxide Peak, Baker Complex, and Greater Shasta-Newberry)."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the acquired area is explicitly stated: '...acquisition of approximately 9,600 hectares (\"ha\")...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that 'No drilling has ever been completed on these tenures' and that historical data is 'too speculative to suggest that additional exploration will result in mineral resource delineation,' indicating no defined mineral resource exists on the acquired property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TDG",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'TDG Gold Corp. (TSXV:TDG)'."
+    }
+  }
+}

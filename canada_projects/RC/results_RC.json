@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/RC/46152.txt",
+    "canada_projects/RC/52544.txt",
+    "canada_projects/RC/52955.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "RC Gold Project",
+      "justification": "The documents consistently refer to the project as the RC Gold Project, for example: \"Sitka to Complete Acquisition of 100% Ownership of its Flagship RC Gold Project, Yukon\"."
+    },
+    "company_name": {
+      "value": "Sitka Gold Corp.",
+      "justification": "The buyer is identified in all documents, for example: \"Sitka Gold Corp. (“Sitka” or the “Company”) (TSXV:SIG) (FSE:1RF) (OTCQB:SITKF) is pleased to announce that it has entered into an amending agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Cor Coe",
+      "justification": "“Completing our requirements to obtain 100% ownership of the Clear Creek Property, which hosts the Blackjack and Eiger deposits, is an important milestone in Sitka’s advancement of the RC Gold Project,” stated Cor Coe, CEO and Director."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transactions described are to consolidate full ownership: \"The amendments to the RC and BeeBop option agreements in addition to the previously announced Barney Ridge property amendment (see news release dated April 23, 2024) and Clear Creek property amendment (see news release dated (December 19, 2023) will complete Sitka's acquisition of 100% ownership of all the underlying properties that comprise the district-scale and road accessible RC Gold Project.\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold project: \"Sitka Acquires 100% Ownership of the Recently Discovered Blackjack and Eiger Gold Deposits and Stakes Additional Claims at its RC Gold Project, Yukon\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$'. Given the company is listed on the TSXV (a Canadian exchange) and the project is in Yukon, Canada, the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 230000,
+      "justification": "The total cash payment of $230,000 is the sum of final payments for four underlying properties: 'a final payment of $90,000 cash' (Clear Creek), 'a final payment of $60,000 cash' (Barney Ridge), 'a final payment of $60,000 cash' (RC Property), and 'a final payment of $20,000 cash' (BeeBop Property)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with cash and a number of shares, not an explicit share value in currency. Per the financial data hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details separate cash and share components, so this combined field is not used per the financial data hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1700000,
+      "justification": "The total shares issued of 1,700,000 is the sum for four underlying properties: 'the issuance of 650,000 shares' (Clear Creek), 'issue 550,000 shares' (Barney Ridge), 'issue 375,000 shares' (RC Property), and 'issue 125,000 shares' (BeeBop Property)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.54,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.54'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No new exploration commitment was made. For several of the properties, existing commitments were waived: \"the balance of future exploration expenditures will be waived\"."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 386,
+      "justification": "The total size of the consolidated project is stated multiple times: \"The RC Gold Project consists of a 386 square kilometre contiguous district-scale land package\"."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the text: \"The RC Gold Project consists of a 386 square kilometre contiguous district-scale land package\"."
+    },
+    "resource_size": {
+      "value": "1,340,000 ‎ounces of gold",
+      "justification": "The text provides a summary of the mineral resource estimate for the project: \"On January 19, 2023 Sitka Gold announced an Initial Mineral Resource Estimate prepared in accordance with National Instrument 43-101 (“NI 43-101”) guidelines for the RC Gold Property of 1,340,000 ‎ounces of gold(1).\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIG",
+      "justification": "The buyer's ticker and exchange are provided in the text: \"Sitka Gold Corp. (“Sitka” or the “Company”) (TSXV:SIG)(FSE:1RF)(OTCQB:SITKF) is pleased to announce that it has entered into amending agreements...\""
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Dam Lake/48614.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dam Lake",
+      "justification": "The article is titled 'SLAM Acquires Dam Lake Gold Project' and refers to the acquisition of 'the Dam Lake gold project'."
+    },
+    "company_name": {
+      "value": "SLAM Exploration Ltd.",
+      "justification": "The acquiring company is identified as 'SLAM Exploration Ltd. (TSX-V:SXL) (OTC: SLMXF) (“SLAM or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "The qualifying statement at the end of the release identifies 'Mike Taylor P.Geo, President and CEO of SLAM Exploration Ltd.'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement terms state: 'SLAM can earn an 100% interest by paying for claim renewals and completing exploration expenditures of $200,000 on or before the 3rd anniversary of the Agreement.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text refers to the project as the 'Dam Lake gold project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release about the correct project, but no canonical article URL is present in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, SLAM Exploration Ltd., is listed on the Canadian TSXV exchange and based in New Brunswick. The consideration is listed in '$', which is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 1090,
+      "justification": "As part of the agreement to earn the interest, the text states: 'The Company has paid $1,090 for the initial claim renewal.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The terms of the Dam Lake Agreement do not mention any share payments to the seller, Edge Exploration Inc. The stock options mentioned were granted to advisory board members, not as part of the project acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment for claim renewal was identified, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The terms of the Dam Lake Agreement do not mention any shares being issued to the seller, Edge Exploration Inc."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants are mentioned as part of the consideration for the Dam Lake project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The stock options mentioned in the text were granted to advisory board members, not to the seller as part of the Dam Lake project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the Dam Lake project acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value ($200,000), not a drilling distance in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 200000,
+      "justification": "A condition of the agreement is 'completing exploration expenditures of $200,000 on or before the 3rd anniversary of the Agreement.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction terms, 'Edge shall retain a 2% NSR royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text describes the project and drilling results but does not specify the total coverage area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text describes the project and drilling results but does not specify the total coverage area in units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text reports gold grades from basal till samples and float boulders but does not provide a quantified mineral resource estimate with a total mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SXL",
+      "justification": "The company is identified as 'SLAM Exploration Ltd. (TSX-V:SXL)' in the first paragraph of the news release."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Beacon Mill/72198.txt",
+    "canada_projects/Beacon Mill/73589.txt",
+    "canada_projects/Beacon Mill/75162.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beacon Mill",
+      "justification": "The primary project of interest is confirmed in the article title: 'LaFleur Minerals to Acquire Fully Permitted Beacon Gold Mill and Property in Abitibi Gold Belt, Val-d'Or Region, Québec'."
+    },
+    "company_name": {
+      "value": "LaFleur Minerals Inc.",
+      "justification": "The acquiring company is identified as 'LaFleur Minerals Inc. (CSE: LFLR) (OTC Pink: WPNNF) (\"LaFleur Minerals \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Paul Ténière",
+      "justification": "The CEO of the buyer is identified in the text: 'Paul Ténière, CEO of LaFleur Minerals commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that 'the Company has completed the acquisition of the Beacon Mill and Beacon Property'. As this is an asset purchase of the entire named property, it represents a 100% interest in those assets."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the 'Beacon Gold Mill' and 'Beacon Gold Property', and is located in the 'Abitibi Gold Belt'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/223993",
+      "justification": "The article at this URL is titled 'LaFleur Minerals to Acquire Fully Permitted Beacon Gold Mill and Property...' which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is denominated in '$' and the acquiring company, LaFleur Minerals Inc., is listed on the Canadian Securities Exchange (CSE), indicating the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The cash consideration is explicitly stated: 'As consideration for the Acquisition, the Company paid the Vendor an aggregate purchase price of $1,100,000, as follows: $250,000 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": 850000,
+      "justification": "The value of the share payment is explicitly stated: '...the consideration payable by LaFleur Minerals to the Vendor shall be an aggregate value $1,100,000 (the \"Purchase Price\"), of which LaFleur Minerals shall pay $250,000 in cash... and issue $850,000 of common shares in the capital of LaFleur Minerals...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are explicitly broken down, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2474526,
+      "justification": "The number of shares issued is specified in the completion announcement: '2,474,526 common shares in the capital of the Company (the Consideration Shares”)...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": 0.3435,
+      "justification": "The price per share is explicitly stated: '2,474,526 common shares in the capital of the Company (the Consideration Shares”) at a deemed price of $0.3435 per Consideration Share.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned as part of the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions an area of 'over 15,000 hectares', but this is explicitly for the separate Swanson Gold Project. No total area is provided for the acquired Beacon Mill and Property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area was provided for the project, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a mineral resource estimate for the Swanson Gold Project ('123,400 gold ounces in the Indicated category and 64,500 gold ounces in the Inferred category'), not for the Beacon Mill project. No current resource is stated for the Beacon Mill property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LFLR",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'LaFleur Minerals Inc. (CSE: LFLR)'."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Miller/54011.txt",
+    "canada_projects/Miller/54584.txt",
+    "canada_projects/Miller/71926.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Miller",
+      "justification": "The text repeatedly refers to the project as the 'Miller Copper-Gold Property', for example: 'Northstar's 100%-owned Miller Copper-Gold Property (the \"Property\" or \"Project\"), located 18 kilometers southeast of Kirkland Lake, Ontario.'"
+    },
+    "company_name": {
+      "value": "Northstar Gold Corp.",
+      "justification": "The company associated with the project is consistently identified as Northstar Gold Corp. For example: 'Northstar Gold Corp. (CSE: NSG) (\"Northstar\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Brian P. Fowler",
+      "justification": "The articles describe Northstar Gold Corp. signing Letters of Intent to acquire adjacent properties. In these transactions, Northstar is the buyer. The CEO of Northstar is identified as 'Mr. Brian P. Fowler, P.Geo. President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a non-binding memorandum of understanding where Hunan Nonferrous can 'earn a negotiated interest', but the specific percentage is not defined. The LOIs for the Boston Creek Mines and Philip properties are to 'negotiate acquisition terms' for 100%-owned properties, but no final interest is stated."
+    },
+    "primary_commodity": {
+      "value": "Copper-Gold",
+      "justification": "The project is explicitly named the 'Miller Copper-Gold Property'. The company's focus is described as advancing 'bulk-tonnage gold-telluride and more recently discovered VMS copper mineral deposits on the Company's flagship, 100%-owned Miller Copper-Gold Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/223820",
+      "justification": "All provided articles are relevant to the Miller project. This link was chosen as it describes the most recent agreement, a Memorandum of Understanding with Hunan Nonferrous Ltd. to develop a gold resource on the property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Northstar Gold Corp. is listed on the Canadian Securities Exchange (CSE), as stated in the text 'Northstar Gold Corp. (CSE: NSG)' and in the detailed quote section 'Exchange: CSE'. This implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The agreements mentioned are a Memorandum of Understanding based on an exploration commitment and Letters of Intent to negotiate terms. No definitive cash payments are mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreements mentioned are a Memorandum of Understanding based on an exploration commitment and Letters of Intent to negotiate terms. No definitive share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The agreements mentioned are a Memorandum of Understanding based on an exploration commitment and Letters of Intent to negotiate terms. No combined cash and share payments are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreements mentioned are a Memorandum of Understanding based on an exploration commitment and Letters of Intent to negotiate terms. No issuance of shares is mentioned as part of the considerations."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms in any of the documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the transaction terms in any of the documents."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The agreements mentioned are a Memorandum of Understanding based on an exploration commitment and Letters of Intent to negotiate terms. No shares are being issued as part of the consideration, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": 10000,
+      "justification": "The MOU with Hunan Nonferrous specifies an exploration commitment: 'This will be achieved by diamond drilling up to 10,000 meters, allowing Hunan Nonferrous to earn a negotiated interest...'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in meters of drilling, not a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of any of the described agreements."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides areas for adjacent properties being acquired via LOI (e.g., '65 hectare Boston Creek Mines Property', '64 hectare Philip Property') but does not state the total area for the Miller Copper-Gold Property itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was found for the Miller project, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": "500,000 ounces of gold averaging 2.04 g/t Au",
+      "justification": "The text describes a study on the property: 'An upper range exceeding 500,000 ounces of gold averaging 2.04 g/t Au has been referenced in this study.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NSG",
+      "justification": "In the transactions to acquire the adjacent Boston Creek Mines and Philip properties, Northstar Gold Corp. is the buyer. The company's ticker and exchange are provided in the text: 'Northstar Gold Corp. (CSE: NSG)'."
+    }
+  }
+}

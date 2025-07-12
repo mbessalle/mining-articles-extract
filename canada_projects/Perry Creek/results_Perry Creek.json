@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Perry Creek/35278.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Perry Creek",
+      "justification": "The article is titled 'Ximen Mining Acquires Perry Creek Gold Property Cranbrook, BC'."
+    },
+    "company_name": {
+      "value": "Ximen Mining Corp.",
+      "justification": "The article states, 'VANCOUVER, BC / ACCESSWIRE / May 16, 2023 / Ximen Mining Corp. (TSX.v:XIM) (FRA:1XMA)(OTCQB:XXMMF) (the \"Company\" or \"Ximen\") announces it has acquired the Perry Creek gold property...'"
+    },
+    "ceo_buyer": {
+      "value": "Christopher R. Anderson",
+      "justification": "The press release is signed 'On behalf of the Board of Directors, \"_Christopher R. Anderson_ \" Christopher R. Anderson, President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states, 'The Perry Creek claims were acquired 100% from an independent vendor...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article states, 'Ximen Mining Acquires Perry Creek Gold Property Cranbrook, BC'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/755187/Ximen-Mining-Acquires-Perry-Creek-Gold-Property-Cranbrook-BC",
+      "justification": "The article is titled 'Ximen Mining Acquires Perry Creek Gold Property Cranbrook, BC' and describes the acquisition of this project by Ximen Mining Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial consideration for the acquisition is mentioned in the article, so no currency can be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash consideration for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share consideration for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a share price associated with the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions plans for 'trenching and/or drilling' but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions plans for exploration but does not state a specific monetary commitment for the Perry Creek project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 608.7,
+      "justification": "The text states Ximen 'has acquired the Perry Creek gold property of 8 claims covering 608.7 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states Ximen 'has acquired the Perry Creek gold property of 8 claims covering 608.7 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article refers to historical results but does not contain a formal, quantified mineral resource estimate. It cautions that 'historical records referred to in this News Release have been examined but not verified by a Qualified Person.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XIM",
+      "justification": "The text states, 'Ximen is a publicly listed company trading on the TSX Venture Exchange under the symbol XIM...' and also lists '(TSX.v:XIM)'."
+    }
+  }
+}

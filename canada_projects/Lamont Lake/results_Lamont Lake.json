@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Lamont Lake/67224.txt",
+    "canada_projects/Lamont Lake/67224_pdf.txt",
+    "canada_projects/Lamont Lake/69559.txt",
+    "canada_projects/Lamont Lake/69559_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lamont Lake",
+      "justification": "The document is titled 'ACQUISITION OF LAMONT LAKE URANIUM PROJECT' and also lists the project name as 'Lamont Lake Project'."
+    },
+    "company_name": {
+      "value": "ENRG Elements Ltd",
+      "justification": "The acquiring company is identified as 'ENRG Elements Limited (ASX:EEL, OTCQB: EELFF) (“ENRG” or the “Company”) is pleased to advise it has entered into an agreement to acquire 100% of the Lamont Lake Uranium Project (“Project”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Caroline Keats",
+      "justification": "The text states: 'ENRG Elements Managing Director, Caroline Keats, commented'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'has entered into an agreement to acquire 100% of the Lamont Lake Uranium Project (“Project”)'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The announcement is titled 'ACQUISITION OF LAMONT LAKE URANIUM PROJECT' and refers to it as a 'uranium exploration project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The consideration includes payments in two different currencies (C$27,500 and A$100,000). As per the rules, no currency conversion can be performed, so a single currency cannot be specified."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The total cash consideration consists of C$27,500 and a deferred, optional payment of A$100,000. These amounts cannot be aggregated into a single value without currency conversion, which is not permitted by the rules. The text states: 'C$27,500 in cash to be paid... on execution' and an optional deferred payment of 'A$100,000 in cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described in terms of the number of shares to be issued, not a total share value. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into separate cash and share components, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 33333333,
+      "justification": "The acquisition terms include '33,333,333 Shares to be issued to the Vendor on completion of the Acquisition (Completion)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No specific issue price was mentioned for the 33,333,333 shares issued on completion. A formula is provided for potential deferred shares, but not a fixed price for the primary transaction, and no detailed quote section is available to use as a fallback."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 22,
+      "justification": "The text states: 'The Project encompasses 4 mineral claims covering an area of ~22km2.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states: 'The Project encompasses 4 mineral claims covering an area of ~22km2.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No formal mineral resource estimate for the Lamont Lake project is provided in the text. The document mentions 'potential for significant resource development' and refers to a JORC resource for a different project (Agadez), indicating no current resource for Lamont Lake."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:EEL",
+      "justification": "The buyer is identified as 'ENRG Elements Limited (ASX:EEL, OTCQB: EELFF)'."
+    }
+  }
+}

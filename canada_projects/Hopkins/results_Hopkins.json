@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hopkins/79846.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hopkins",
+      "justification": "The article is titled 'Primary Hydrogen Acquires Hopkins Project in Ontario' and refers to the project as the 'Hopkins Hydrogen Project'."
+    },
+    "company_name": {
+      "value": "Primary Hydrogen Corp.",
+      "justification": "The acquiring company is identified as 'Primary Hydrogen Corp. (TSXV: HDRO) (\"Primary Hydrogen\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Benjamin Asuncion",
+      "justification": "The text states: 'commented Benjamin Asuncion, CEO of Primary Hydrogen.' and lists 'Ben Asuncion Chief Executive Officer Primary Hydrogen Corp.' in the contact section."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction terms state: 'the Company is acquiring a 100% interest in the Hopkins H2 Project'."
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The company is described as 'a natural hydrogen exploration company' and the project's potential is for 'naturally-occurring hydrogen (NOH)'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/231220",
+      "justification": "The article is about the acquisition of the Hopkins project. The source link is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/231220'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is specified in Canadian dollars: 'for consideration of C$96,000'."
+    },
+    "cash_payments_raw": {
+      "value": 96000,
+      "justification": "The transaction terms state the consideration includes 'C$96,000 and 450,000 common shares'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text provides the number of shares (450,000) but does not state their total monetary value as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 450000,
+      "justification": "The transaction terms state the consideration includes 'C$96,000 and 450,000 common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": 0.42,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.42'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": null
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The seller retained a royalty as part of the transaction: 'The Vendors have been granted a 1.5% net smelter returns royalty (NSR) on the Hopkins H2 Project...'"
+    },
+    "coverage_area_raw": {
+      "value": 6920,
+      "justification": "The text states: 'The Hopkins hydrogen project is comprised of 31 mineral claims covering an area of 6,920 hectares (69.2 km2)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Hopkins hydrogen project is comprised of 31 mineral claims covering an area of 6,920 hectares (69.2 km2)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource on an adjacent project ('The Project is adjacent to the Clay-Howells Alkali carbonatite intrusive, which is host to a rare earth element, thorium and iron resource1'), but does not state a quantified mineral resource for the Hopkins project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HDRO",
+      "justification": "The buyer is identified in the first paragraph as 'Primary Hydrogen Corp. (TSXV: HDRO)'."
+    }
+  }
+}

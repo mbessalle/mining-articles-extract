@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cote Gold/73300.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cote Gold",
+      "justification": "The text announces the intention to repurchase the 9.7% interest of the Côté Gold Mine (\"Côté Gold\")."
+    },
+    "company_name": {
+      "value": "IAMGOLD Corporation",
+      "justification": "The press release is from \"IAMGOLD Corporation (TSX: IMG) (NYSE: IAG) (\"IAMGOLD\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, IAMGOLD Corporation, is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 9.7,
+      "justification": "IAMGOLD announced its \"intention to exercise the right to repurchase the 9.7% interest of the Côté Gold Mine\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the \"Côté Gold Mine\" and the company, IAMGOLD, is described as an \"intermediate gold producer\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/225140",
+      "justification": "The article is titled \"IAMGOLD Submits Formal 60 Days Notice to Sumitomo for Repurchase of 9.7% Cote Gold Mine Interest\", which directly pertains to the Cote Gold project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The document states at the beginning: \"All monetary amounts are expressed in U.S. dollars, unless otherwise indicated.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article announces the intention to repurchase but does not specify the financial consideration, such as cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article announces the intention to repurchase but does not specify the financial consideration, such as share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article announces the intention to repurchase but does not specify the financial consideration for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the coverage area of the Cote Gold project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the coverage area of the Cote Gold project, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions \"estimation of mineral reserves and mineral resources\" in a general forward-looking statement but does not provide a specific quantified resource for the Cote Gold project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX: IMG",
+      "justification": "The press release identifies the buyer as \"IAMGOLD Corporation (TSX: IMG) (NYSE: IAG)\"."
+    }
+  }
+}

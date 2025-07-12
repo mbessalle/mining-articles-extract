@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Brassie Creek/84121.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Brassie Creek",
+      "justification": "The article is titled 'Stearman Signs Option to Acquire 100% of Brassie Creek Property in BC' and refers to an option agreement for the 'Brassie Creek Property'."
+    },
+    "company_name": {
+      "value": "Stearman Resources Inc.",
+      "justification": "The acquiring company is identified as 'Stearman Resources Inc. (CSE:STMN) (“Stearman” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Howard Milne",
+      "justification": "The press release is signed 'On Behalf of the Company Howard Milne, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'has entered into an option agreement to acquire a 100% interest in the Brassie Creek Property'."
+    },
+    "primary_commodity": {
+      "value": "copper, gold and silver",
+      "justification": "The property is described as 'prospective for copper, gold and silver'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Brassie Creek, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is based in Vancouver, British Columbia and is listed on the Canadian Securities Exchange (CSE:STMN), implying the currency is Canadian Dollars (CAD) for the stated '$200,000' cash payments and '$54,000' exploration expenditures."
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The option agreement 'calls over a 4-year period for cash payments of $200,000 to the optionor'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but a total monetary value for the share component is not explicitly stated. The number of shares and a price are available instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "The option agreement calls for 'the issuance of 300,000 shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were mentioned as part of the acquisition agreement consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the acquisition agreement consideration. The granting of 400,000 stock options to directors is a separate corporate action."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the issuance of 300,000 shares but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 54000,
+      "justification": "The option agreement calls for 'exploration expenditures of $54,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1862,
+      "justification": "The property consists of '9 mineral claims covering 1,862 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The property consists of '9 mineral claims covering 1,862 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a history of exploration but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:STMN",
+      "justification": "The buyer is identified in the text as 'Stearman Resources Inc. (CSE:STMN)'."
+    }
+  }
+}

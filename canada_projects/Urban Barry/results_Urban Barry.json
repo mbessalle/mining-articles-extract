@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Urban Barry/46209.txt",
+    "canada_projects/Urban Barry/50039.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Urban Barry",
+      "justification": "The text consistently refers to the project as Urban Barry, for example: 'Harvest Gold Options 100% of the Urban Barry Property (“Urban Barry”)' and 'TSXV Approves Harvest Gold's Agreement To Acquire The Urban Barry Property'."
+    },
+    "company_name": {
+      "value": "Harvest Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Harvest Gold Corporation (TSX.V:HVG) (“Harvest Gold” or the “Company”) is pleased to announce that it has entered into an Option Agreement (the “Option Agreement”) with EGR Exploration Ltd. (“EGR”) to acquire 100% of the Urban Barry Property'."
+    },
+    "ceo_buyer": {
+      "value": "Rick Mark",
+      "justification": "The CEO of the buyer, Harvest Gold, is identified in the text: 'Rick Mark, President and CEO of Harvest Gold states...' and in the signature block 'Rick Mark President and CEO Harvest Gold Corporation'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for an option to acquire 100% interest: 'Harvest Gold Options 100% of the Urban Barry Property in the Abitibi Region of Quebec'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the acquisition as a 'gold property': 'We are pleased to announce our agreement with EGR to earn 100% of a second gold property in the Abitibi region of Quebec.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Urban Barry. The headline states: 'Harvest Gold Options 100% of the Urban Barry Property in the Abitibi Region of Quebec'. No URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars from the use of 'C$' in the text and the company being listed on the TSX Venture Exchange. '...their partner Gold Fields will sole fund expenditures for regional exploration up to a maximum of C$75 million.'"
+    },
+    "cash_payments_raw": {
+      "value": 90000,
+      "justification": "The total cash payment is the sum of three tranches ($15,000 + $30,000 + $45,000): 'Harvest Gold will pay a total of $90,000 in cash payable in three tranches: First cash payment of $15,000... Second cash payment of $30,000... Third cash payment of $45,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not specify a monetary value for the share payments, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2750000,
+      "justification": "The total number of shares to be issued is 2,750,000, which includes a conditional final tranche: 'Harvest Gold to issue 2,750,000 shares in three tranches: First share issuance of 1,000,000 shares... Second share issuance of 500,000 shares... Third share issuance of 250,000 shares... Final share issuance of 1,000,000 shares if there is an NI 43-101 inferred resource estimate of 1,000,000 oz AuEq or greater.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any payments in the form of options."
+    },
+    "issued_share_price": {
+      "value": 0.095,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.095'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction details do not specify an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 300000,
+      "justification": "The total exploration commitment is the sum of two expenditure periods ($100,000 + $200,000): 'Harvest Gold will expend $100,000 on the property within one year of the date of TSXV approval and an additional $200,000 on or before the second anniversary of TSXV approval of the Option Agreement.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller will retain a 2.0% NSR as part of the transaction terms: 'EGR will retain a 2.0% NSR Royalty on the Urban Barry Property subject to a 1% (50% of Royalty) buyback for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 6789,
+      "justification": "The property size is stated in the text: 'Urban Barry encompasses an area of 6,789 hectares within 122 claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: 'Urban Barry encompasses an area of 6,789 hectares within 122 claims...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The resource mentioned in the text ('11,061 MT at 11.4 g/t Au Measured & Indicated mineral resource') is explicitly for the nearby Windfall deposit, not the Urban Barry project. The text clarifies: 'A number of mineral resources or significant occurrences disclosed herein relate to nearby properties owned by other companies... and such results are not necessarily indicative of potential quantities or grades of mineralization on the Company’s properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HVG",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Harvest Gold Corporation (TSX.V:HVG)'. The 'Detailed Quote' section also confirms 'Exchange: TSXV'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Napoleon/33171.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Napoleon Gold Project",
+      "justification": "The article is titled 'Golden Independence Announces Completion of Acquisition of Napoleon Gold Project' and refers to the project by this name throughout."
+    },
+    "company_name": {
+      "value": "Golden Independence Mining Corp.",
+      "justification": "The text clearly identifies the acquiring company at the time of the transaction: 'Golden Independence Mining Corp. (CSE: IGLD) (OTCQB: GIDMF) (FSE: 6NNA) (the \"Company\" or \"Golden Independence\") is pleased to announce it has completed its previously announced proposed acquisition of the Napoleon Gold Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Poirier",
+      "justification": "The text states: '\"We are excited to have secured this exciting project which has high-grade gold discovery potential,\" commented Jeremy Poirier, CEO of Golden Independence.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the acquisition resulted in the vendor company becoming 'a wholly owned subsidiary of the company'. It also describes the project as 'wholly-owned'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Napoleon Gold Project' and is described as having 'high-grade gold discovery potential'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/160907",
+      "justification": "The article content is entirely about the acquisition of the Napoleon Gold Project by Golden Independence Mining Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Golden Independence Mining Corp., is listed on the Canadian Securities Exchange (CSE), and the detailed quote section lists the exchange as 'CSE', implying the use of Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration was entirely in shares. The text states the deal involved an exchange for '7,000,000 common shares of the Company' and does not mention any cash component."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved the issuance of shares, but a total monetary value for the share payment was not provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value for the transaction was mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 7000000,
+      "justification": "The text states: 'all of the outstanding common shares of the Vendor Company have been exchanged for 7,000,000 common shares of the Company.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.1,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.10'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The company states it will 'look to announce the details of our program in the near-term,' but no specific monetary exploration commitment was made as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the project is 'free from any underlying royalties' and 'wholly-owned with no underlying royalties'."
+    },
+    "coverage_area_raw": {
+      "value": 996,
+      "justification": "The text states: 'The Napoleon Gold Project is comprised of 996 hectares located in the Kamloops Mining Division...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Napoleon Gold Project is comprised of 996 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not provide a mineral resource estimate for the Napoleon project. It mentions a resource for a different project ('The Independence project hosts an M&I resource...') and for Napoleon, it only states 'Golden Independence cautions investors it has yet to verify the historical information'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:IGLD",
+      "justification": "The acquiring company is identified in the text as 'Golden Independence Mining Corp. (CSE: IGLD)'."
+    }
+  }
+}

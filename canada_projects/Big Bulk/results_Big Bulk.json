@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Big Bulk/46976.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Big Bulk",
+      "justification": "The text announces the 'acquisition of Big Bulk Property Option'."
+    },
+    "company_name": {
+      "value": "Dolly Varden Silver Corporation",
+      "justification": "The press release is from 'Dolly Varden Silver Corporation (TSXV: DV) (OTCQX: DOLLF) (the \"Company\" or \"Dolly Varden\")'."
+    },
+    "ceo_buyer": {
+      "value": "Shawn Khunkhun",
+      "justification": "The contact for further information is listed as: 'Shawn Khunkhun, CEO & Director, 1-604-609-5137'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Dolly Varden acquired an option agreement 'entitling Dolly Varden to earn-in a 100% undivided interest in the property known to Libero as the Big Bulk Property'."
+    },
+    "primary_commodity": {
+      "value": "copper, gold",
+      "justification": "The text states 'the Big Bulk property which is prospective for porphyry and skarn style copper and gold mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/193758",
+      "justification": "The article is titled 'Dolly Varden Silver Announces Issuance of Common Shares for Acquisition of Big Bulk Property Option' and discusses the transaction for the Big Bulk project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Dolly Varden Silver Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. A floor price for future payments is mentioned in dollars ('$0.64'), which is inferred to be Canadian Dollars (CAD) due to the Canadian listing."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the consideration is defined by the number of shares issued and a price per share."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the consideration is defined by the number of shares issued and a price per share."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the consideration is defined by the number of shares issued and a price per share."
+    },
+    "amount_of_shares_issued": {
+      "value": 275000,
+      "justification": "The company 'has completed the issuance of 275,000 common shares of the Company (the \"Consideration Shares\") to Libero Copper & Gold Corporation'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions future 'option payments' but does not quantify their value, only the conditions under which they can be paid in shares."
+    },
+    "issued_share_price": {
+      "value": 4.8,
+      "justification": "The transaction terms mention the issuance of 275,000 shares but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 4.80'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the property is 'comprised of seven mineral claims' but does not provide a specific area in hectares or square kilometers for the Big Bulk property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was provided, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states the property is 'prospective for... mineralization' but does not provide a quantified mineral resource estimate for the Big Bulk property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DV",
+      "justification": "The buyer is identified as 'Dolly Varden Silver Corporation (TSXV: DV)'."
+    }
+  }
+}

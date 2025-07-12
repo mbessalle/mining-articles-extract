@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Oxide Peak/48876.txt",
+    "canada_projects/Oxide Peak/50544.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Oxide Peak",
+      "justification": "The text states: \"TDG will acquire from ArcWest a 100% interest in the Oxide Peak mineral claims ('Oxide Peak')...\""
+    },
+    "company_name": {
+      "value": "TDG Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"TDG Gold Corp (TSXV:TDG) (the 'Company' or 'TDG') announces that it has entered into a definitive purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Fletcher Morgan",
+      "justification": "The CEO of the acquiring company, TDG Gold Corp., is identified as Fletcher Morgan: \"Fletcher Morgan, TDG's CEO, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that TDG will acquire a 100% interest: \"TDG will acquire from ArcWest a 100% interest in the Oxide Peak mineral claims...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text mentions the potential for copper and gold discoveries, listing copper first: \"Oxide Peak provides multiple opportunities for copper-gold porphyry discoveries.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/833754/tdg-gold-announces-definitive-purchase-agreement-for-oxide-peak-toodoggone",
+      "justification": "The article is a press release from TDG Gold Corp. announcing the definitive purchase agreement for the Oxide Peak project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is denoted by '$' and the acquiring company, TDG Gold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The agreement includes a cash payment of $100,000: \"Under the terms of the Purchase Agreement, in consideration for the Acquisition, TDG will pay ArcWest $100,000...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated. Instead, the number of shares and a price per share are available, so amount_of_shares_issued and issued_share_price are populated per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 412031,
+      "justification": "The agreement specifies the number of shares to be issued: \"...and will issue to Arcwest 412,031 common shares of TDG (the 'TDG Shares').\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.56,
+      "justification": "The transaction terms mention the number of shares issued (412,031), but not an explicit price per share for the transaction. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.56'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The 2,050 metres of diamond drilling mentioned was completed under a previous option agreement which has now been terminated, and does not represent a new commitment under the current Purchase Agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The $3.3 million of exploration expenditures mentioned was completed under a previous option agreement which has now been terminated, and does not represent a new commitment under the current Purchase Agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, ArcWest, retained a 2% NSR as part of the transaction terms: \"Additionally, ArcWest will receive a 2% net smelter returns royalty on the Oxide Peak property...\""
+    },
+    "coverage_area_raw": {
+      "value": 8490,
+      "justification": "The text specifies the size of the property: \"Oxide Peak covers 8,490 hectares of prospective exploration ground...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: \"Oxide Peak covers 8,490 hectares of prospective exploration ground...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is at an early stage and does not have a defined mineral resource, stating: 'Exploration targets and/or Exploration zones and/or Exploration areas are speculative and there is no certainty that any future work or evaluation will lead to the definition of a mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TDG",
+      "justification": "The buyer is identified with its ticker and exchange in the first sentence of the press release: \"TDG Gold Corp (TSXV:TDG)\"."
+    }
+  }
+}

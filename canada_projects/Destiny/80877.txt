@@ -1,0 +1,86 @@
+--- Article Metadata ---
+Project Name: Destiny
+Company Name: Big Ridge Gold Corp.
+Exchange: TSXV
+Ticker: BRAU
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.4.2024, 7:00:00 PM
+
+# Big Ridge Gold Corp. Enters into Destiny Option Agreement
+
+Toronto, Ontario--(Newsfile Corp. - December 4, 2024) - Big Ridge Gold Corp. (TSXV: BRAU) (OTCQB: ALVLF) ("**Big Ridge** " or the "**Company** ") announced that it has entered into a binding Option Agreement with Caprock Mining Corp. (CSC-CAPR) ("Caprock") for the option of its 100% owned Destiny gold property, located in Despinassy Township, 75km northeast of Val d'Or, Quebec.
+
+**Terms of the Option Agreement**
+
+Under the terms of the Option Agreement, Caprock must make the following cash payments and share issuances to Big Ridge and exploration expenditures to earn a 100% interest in the Destiny gold property:
+
+  * Issue 8,000,000 common shares in the capital of Caprock on the Closing Date, which must occur no later than April 2, 2025;
+  * Pay $100,000 in cash and issue $250,000 in shares on or before the first anniversary of the closing date;
+  * Pay $250,000 in cash and issue $350,000 in shares on or before the second anniversary of the closing date;
+  * Pay $400,000 in cash and issue $700,000 in shares on or before the third anniversary of the closing date; and 
+  * Make exploration expenditures totalling $200,000, $750,000 and $1,000,000 in the first, second and third years of the Option Agreement, respectively.
+
+
+
+Upon Caprock's satisfaction of the exploration expenditure and share-based payment obligations described above, it will assume Big Ridge's existing 100% interest in the Destiny gold property. Big Ridge will retain a 1% net smelter return royalty on the property, subject to a $1.0 million buy-back right in favour of Caprock.
+
+Mike Bandrowski, President & CEO of Big Ridge commented: "We are excited to work with the Caprock Mining team as they advance the Destiny Gold Project and unlock value for shareholders. We believe the Project has significant exploration potential and look forward to Caprock's initial exploration program."
+
+**About Big Ridge Gold Corp.**
+
+Big Ridge Gold Corp. is an exploration and development company managed by a disciplined and experienced team of officers and directors. The Company is committed to the development of advanced stage mining projects using industry best practices combined with strong social license from our local communities. Big Ridge owns an 80% interest in its flagship Hope Brook Gold Project, located in Newfoundland and Labrador. Big Ridge also owns 100% in the highly prospective Oxford Gold Project located in Manitoba and the Destiny Gold Project in Quebec. 
+
+**Acknowledgement**
+
+Big Ridge acknowledges and appreciates the Newfoundland and Labrador Ministry of Natural Resources' financial support of the Company's 2023 exploration programs through the Junior Exploration Assistance (JEA) Program.
+
+For more details regarding the Company's projects, please visit our website at [www.bigridgegold.com](https://api.newsfilecorp.com/redirect/v131oUYOVZ)
+
+ON BEHALF OF THE BOARD,
+
+Mike Bandrowski,   
+President & CEO 
+
+Mike Bandrowski,  
+President & CEO   
+BIG RIDGE GOLD CORP.  
+18 King St. East, Suite 1400  
+Toronto, ON, M5C 1C4  
+Tel: 416-540-5480  
+Email: [Mike@bigridgegold.com](mailto:Mike@bigridgegold.com)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+**Cautionary Note Regarding Forward-Looking Statements**
+
+ _This news release includes certain "forward-looking information" and "forward-looking statements" (collectively "forward-looking statements") within the meaning of applicable Canadian securities legislation. These forward-looking statements are made as of the date of this news release. Forward-looking statements are frequently, but not always, identified by words such as "expects", "anticipates", "believes", "plans", "projects", "intends", "estimates", "envisages", "potential", "possible", "strategy", "goals", "objectives", or variations thereof or stating that certain actions, events or results "may", "could", "would", "might" or "will" be taken, occur or be achieved, or the negative of any of these terms and similar expressions._
+
+_Forward-looking statements in this news release relate to future events or future performance and reflect current estimates, predictions, expectations or beliefs regarding future events, and include, without limitation, statements with respect to Big Ridge's intentions with respect to Caprock's shares. All forward-looking statements are based on Big Ridge's and its employees' current beliefs as well as various assumptions made by them and information currently available to them. There can be no assurance that such statements will prove to be accurate, and actual results and future events could differ materially from those anticipated in such statements. Forward-looking statements reflect the beliefs, opinions and projections on the date the statements are made and are based upon a number of assumptions and estimates that, while considered reasonable by the respective parties, are inherently subject to significant business, economic, competitive, political and social uncertainties and contingencies. Many factors, both known and unknown, could cause actual results, performance or achievements to be materially different from the results, performance or achievements that are or may be expressed or implied by such forward-looking statements and the parties have made assumptions and estimates based on or related to many of these factors. When relying on our forward-looking statements to make decisions with respect to Big Ridge, investors and others should carefully consider the foregoing factors and other uncertainties and potential events. Big Ridge does not undertake to update any forward-looking statement, whether written or oral, that may be made from time to time by the Company or on our behalf, except as required by law._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/232441](https://api.newsfilecorp.com/redirect/Jgbg4HDm0r)
+
+### Project Name
+
+[Destiny Project](/?gid=3874)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.145            $  Chg: 0.015
+Open: 0.135            High: 0.145
+Bid: 0.13             Bid Size: 20000
+Beta: 2.5302            Year High: 0.145
+Market Cap: 33.30m      PB Ratio: 4.55
+EPS: -0.02             Average Volume (30 Day): 328.78k
+Volume: 971.50k          % Chg: 11.54%
+Prev. Close: 0.13     Low: 0.13
+Ask: 0.15             Ask Size: 179500
+VWAP: 0.13859            Year Low: 0.05
+Total Shares: 229.64m    Shares Out: 229.64m
+Float: 222.87m           Exchange: TSXV

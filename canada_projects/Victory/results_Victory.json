@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Victory/42146.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Victory Project",
+      "justification": "The article title is \"Beyond Lithium Options Victory Project...\" and the text states the company will \"...acquire 100% of the Victory Project (7,873 ha) and the Victory West Project (8,808 ha) (together the \\\"Victory Project\\\")\"."
+    },
+    "company_name": {
+      "value": "Beyond Lithium Inc.",
+      "justification": "The buyer is identified in the text: \"Beyond Lithium Inc. (CSE: BY) (OTCQB: BYDMF) (the \"Company\" or \"Beyond Lithium\") is pleased to announce that it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Allan Frame",
+      "justification": "\"Allan Frame, President and CEO of Beyond Lithium, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "\"...whereby Beyond Lithium will acquire a 100% interest in the Victory Project.\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company name is \"Beyond Lithium Inc.\" and the text repeatedly refers to the discovery of \"spodumene bearing pegmatites\". Spodumene is a primary ore of lithium."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/183463",
+      "justification": "The article is titled \"Beyond Lithium Options Victory Project Totalling More than 16,000 Hectares\" and the content is entirely about this transaction for the Victory Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with a '$' symbol. The currency is inferred to be Canadian Dollars (CAD) as the acquiring company, Beyond Lithium Inc., is listed on the Canadian Securities Exchange (CSE) and the project is located in Ontario, Canada."
+    },
+    "cash_payments_raw": {
+      "value": 5250000,
+      "justification": "The total cash payment is the sum of staged payments and milestone payments. \"...the Company will make cash payments to the optionors totaling up to $2,250,000...\" plus \"...a $1 million milestone payment...\" and \"...a $2 million milestone payment...\". Total is $2,250,000 + $1,000,000 + $2,000,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement includes the issuance of shares, but no equivalent dollar value for these shares is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate cash and share components for the transaction, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 6875000,
+      "justification": "\"...and issue to the optionors an aggregate of up to 6,875,000 common shares in the capital of the Company (the \\\"Shares\\\")...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an \"option agreement\" to acquire the project, but stock options are not mentioned as a form of payment."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.03'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for future exploration, including drilling, but does not specify a required drilling meterage as part of the option agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for future exploration but does not state a specific monetary exploration commitment as part of the option agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "\"Upon acquiring a 100% interest in the Victory Project, the Company shall grant the optionors a 2.0% net smelter return royalty on such project.\""
+    },
+    "coverage_area_raw": {
+      "value": 16681,
+      "justification": "The total area is the sum of the two properties that constitute the Victory Project: \"...the Victory Project (7,873 ha) and the Victory West Project (8,808 ha) (together the \\\"Victory Project\\\")...\" (7,873 + 8,808 = 16,681)."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "\"...acquire 100% of the Victory Project (7,873 ha) and the Victory West Project (8,808 ha)...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a current mineral resource estimate for the Victory Project. It mentions milestone payments for future resource estimates and lists resources for other unrelated projects (Mavis Lake, Root/McComb)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BY",
+      "justification": "The text identifies the acquiring company as \"Beyond Lithium Inc. (CSE: BY) (OTCQB: BYDMF)...\""
+    }
+  }
+}

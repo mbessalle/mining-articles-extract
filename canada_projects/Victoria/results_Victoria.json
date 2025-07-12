@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Victoria/67771.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Victoria",
+      "justification": "The article is titled 'Canterra Minerals Samples 12.5% Cu and Expands the Victoria Project in Newfoundland' and refers to the project throughout."
+    },
+    "company_name": {
+      "value": "Canterra Minerals Corporation",
+      "justification": "The acquiring company is identified as 'Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF) (\"Canterra\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Chris Pennimpede",
+      "justification": "A quote in the article is attributed to 'Chris Pennimpede, CEO & President of Canterra'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'entered into an Option Agreement (the \"Agreement\") with local prospectors (collectively, the \"Optionors\"), to acquire a 100% interest in adjacent properties'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The article highlights '12.5% and 12.1% copper grab samples' and describes the Victoria Project as a 'critical minerals prospect with... known high-grade copper occurrences'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/219085",
+      "justification": "The article content directly corresponds to the acquisition of the Victoria Project by Canterra Minerals Corporation, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment terms are specified in Canadian Dollars: '$10,000 Canadian Dollars and 100,000 shares of the Company upon execution of the Agreement'."
+    },
+    "cash_payments_raw": {
+      "value": 60000,
+      "justification": "The total cash payment is the sum of three tranches: '$10,000 Canadian Dollars... upon execution', '$20,000 Canadian Dollars... on or before the first anniversary', and '$30,000 Canadian Dollars... on or before the second anniversary'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no specific dollar value is assigned to these shares in the agreement terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 600000,
+      "justification": "The total number of shares to be issued is the sum of three tranches: '100,000 shares... upon execution', '200,000 shares... on or before the first anniversary', and '300,000 shares... on or before the second anniversary'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The option agreement terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The option agreement terms do not mention any option payments as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": 0.085,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.085'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not specify any exploration commitment in terms of drilling meters as part of the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not specify a monetary exploration commitment as part of the option agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement terms state: 'The Agreement assigns a 2% Net Smelter Return (\"NSR\") to the Optionors upon commencement of production...'. This NSR is retained by the seller (Optionors)."
+    },
+    "coverage_area_raw": {
+      "value": 1095,
+      "justification": "The text states: 'The acquisition expands Canterra's Victoria property position by 1,095 hectares (11 km2) to 1,275 hectares (12.75 km2)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is specified in the text: 'The acquisition expands Canterra's Victoria property position by 1,095 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical drill intersections (e.g., '5.5% Cu over 20.58 m') but does not provide a formal mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CTM",
+      "justification": "The buyer is identified as 'Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF)'."
+    }
+  }
+}

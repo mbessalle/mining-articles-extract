@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Goldboro/28169.txt",
+    "canada_projects/Goldboro/47932.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Goldboro",
+      "justification": "Signal Gold Inc. (\"Signal Gold\" or the \"Company\") (TSX:SGNL) (OTCQX:SGNLF) is pleased to announce it has acquired a 100% interest in six (6) exploration licenses adjacent to the Goldboro Mineral Resource at its Goldboro Gold Project in Nova Scotia, Canada (\"Goldboro\", or the \"Project\")."
+    },
+    "company_name": {
+      "value": "Signal Gold Inc.",
+      "justification": "The article identifies the acquiring company as: \"Signal Gold Inc. (\"Signal Gold\" or the \"Company\") (TSX:SGNL) (OTCQX:SGNLF) is pleased to announce it has acquired a 100% interest in six (6) exploration licenses...\""
+    },
+    "ceo_buyer": {
+      "value": "Kevin Bullock",
+      "justification": "A quote in the article is attributed to: \"~Kevin Bullock, President and CEO, Signal Gold Inc.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the company \"...acquired a 100% interest in six (6) exploration licenses adjacent to the Goldboro Mineral Resource...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the \"Goldboro Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/728821/Signal-Gold-Significantly-Expands-Its-Exploration-License-Area-Adjacent-To-The-Goldboro-Gold-Project",
+      "justification": "The article is titled \"Signal Gold Significantly Expands Its Exploration License Area Adjacent To The Goldboro Gold Project\" and discusses the acquisition of licenses for this project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions payments in '$'. As the acquiring company, Signal Gold Inc., is listed on the Toronto Stock Exchange (TSX), the currency is inferred to be Canadian Dollars (CAD). The payment is described as: \"total purchase price of $700,000\"."
+    },
+    "cash_payments_raw": {
+      "value": 400000,
+      "justification": "The total purchase price is described as being \"...comprised of $400,000 in cash and $300,000 in common shares of Signal Gold...\""
+    },
+    "share_payments_raw": {
+      "value": 300000,
+      "justification": "The total purchase price is described as being \"...comprised of $400,000 in cash and $300,000 in common shares of Signal Gold...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The individual cash and share payment components were explicitly provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 900901,
+      "justification": "The transaction resulted in \"...the issuance of 900,901 common shares of the Company.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.333,
+      "justification": "The shares were issued \"...at a deemed value of $0.333 per common share, based on the 20-day volume weighted average price as of November 16, 2022...\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The press release does not mention a specific exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The press release does not mention a specific exploration commitment value as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction terms, \"The Company also granted to Meguma Gold Inc. a 1.0% royalty over the licenses acquired...\" This represents a royalty retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 3157,
+      "justification": "The area acquired is calculated from the total increase in land holdings resulting from the transaction. The text states: \"As a result, Signal Gold has increased its exploration license area from 599 hectares to 3,756 hectares.\" The acquired area is the difference (3756 - 599 = 3157)."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text: \"As a result, Signal Gold has increased its exploration license area from 599 hectares to 3,756 hectares.\""
+    },
+    "resource_size": {
+      "value": "Probable Mineral Reserves of 1.15 million ounces of gold (15.80 million tonnes at 2.26 g/t gold), Measured and Indicated Mineral Resources inclusive of Mineral Reserves of 2.58 million ounces (21.6 million tonnes at 3.72 g/t gold) and additional Inferred Mineral Resources of 0.48 million ounces (3.18 million tonnes at 4.73 g/t gold)",
+      "justification": "The 'ABOUT SIGNAL GOLD' section provides a resource estimate for the Goldboro project: \"Probable Mineral Reserves of 1.15 million ounces of gold (15.80 million tonnes at 2.26 g/t gold), Measured and Indicated Mineral Resources inclusive of Mineral Reserves of 2.58 million ounces (21.6 million tonnes at 3.72 g/t gold) and additional Inferred Mineral Resources of 0.48 million ounces (3.18 million tonnes at 4.73 g/t gold)\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:SGNL",
+      "justification": "The company is identified in the text as \"Signal Gold Inc. (\"Signal Gold\" or the \"Company\") (TSX:SGNL) (OTCQX:SGNLF)\"."
+    }
+  }
+}

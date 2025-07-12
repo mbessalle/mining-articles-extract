@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Stellar/82041.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stellar",
+      "justification": "The article is titled 'Interra Aquires the Stellar Property and Solidifies Dominant Land Position Within the Bulkley Copper Porphyry Belt' and states the company 'has acquired the Stellar Property (“Stellar”, or the “Property”)'."
+    },
+    "company_name": {
+      "value": "Interra Copper Corp.",
+      "justification": "The text identifies the acquiring company as 'Interra Copper Corp. (CSE: IMCX; OTCQB: IMIMF; FRA: 3MX) (“Interra” or the “Company”)'. This is a direct contradiction of the authoritative metadata 'Copper Quest Exploration Inc.' and the text is used as the primary source."
+    },
+    "ceo_buyer": {
+      "value": "Brian Thurston",
+      "justification": "The article is signed 'On behalf of the Board of Interra Copper Corp. Brian Thurston, P.Geo. Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition was made in multiple parts, all for 100% interest: 'In consideration for a 100% interest in the Stellar Claims...' and 'In consideration for a 100% interest in the Jewelry Box Claims and the Sparkle Claim...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as being within the 'Bulkley Copper Porphyry Belt' and the company's name is 'Interra Copper Corp.' The text also mentions 'porphyry Cu-Au potential'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No direct, verifiable URL for this specific news release was provided in the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Interra Copper Corp., is based in Vancouver, British Columbia, and is listed on the Canadian Securities Exchange (CSE), implying the currency for transactions denoted with '$' is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 8000,
+      "justification": "The transaction terms include a cash payment for staking costs: 'In addition, Interra will reimburse the holders of the Stellar Claims staking costs of approximately $8,000.'"
+    },
+    "share_payments_raw": {
+      "value": 10000,
+      "justification": "The transaction includes shares valued at $10,000: 'In consideration for a 100% interest in the Jewelry Box Claims and the Sparkle Claim, Interra will issue an aggregate of 117,647 Shares representing consideration of $10,000 based on a deemed price of $0.085 per Share...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available, so this field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 117647,
+      "justification": "As part of the consideration, the text states: 'Interra will issue an aggregate of 117,647 Shares representing consideration of $10,000...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes 'an aggregate of 5,000,000 transferable common share purchase warrants', but no raw dollar value is assigned to these warrants in the text, only the number of warrants and their exercise price."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions stock options granted to a consultant, not as part of the property acquisition consideration: 'The Company has granted stock options to a consultant of the Company to acquire an aggregate of 150,000 common shares...'"
+    },
+    "issued_share_price": {
+      "value": 0.085,
+      "justification": "The shares issued as part of the transaction had a deemed price: '...representing consideration of $10,000 based on a deemed price of $0.085 per Share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any future exploration spending commitment by Interra as part of the acquisition terms. Historical spending by a previous operator is mentioned but is not a commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller retained a royalty: 'In addition, the Company will grant the present holder of the Sparkle Claim a 1.0% net smelter returns royalty (the “Royalty”) on all minerals produced from the Sparkle Claim...'"
+    },
+    "coverage_area_raw": {
+      "value": 5388.66,
+      "justification": "The text provides a precise total area for the property: 'The Stellar Property comprises 22 mineral tenures covering 5,388.66 ha within the Omineca Mining district of northern British Columbia, Canada.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is explicitly stated as hectares: 'The Stellar Property comprises 22 mineral tenures covering 5,388.66 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Stellar property. It mentions high-grade historical samples and prospective targets, but no quantified resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:IMCX",
+      "justification": "The text clearly identifies the buyer's ticker and primary exchange: 'Interra Copper Corp. (CSE: IMCX; OTCQB: IMIMF; FRA: 3MX)'. This contradicts the authoritative metadata ticker 'CQX', and the text is used as the primary source."
+    }
+  }
+}

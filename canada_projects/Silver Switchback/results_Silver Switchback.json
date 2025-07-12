@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Silver Switchback/71933.txt",
+    "canada_projects/Silver Switchback/73695.txt",
+    "canada_projects/Silver Switchback/74236.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Silver Switchback",
+      "justification": "The documents refer to the project as the 'Silver Switchback property' and the 'Switchback Copper-Silver property'. The first article states: '...acquisition by the Company of 143 BC, which holds the Silver Switchback property (the “Property”)...'"
+    },
+    "company_name": {
+      "value": "Bolt Metals Corp.",
+      "justification": "The buyer is consistently identified in the documents, for example: 'Bolt Metals Corp. (“Bolt” or the “Company”) (CSE: BOLT) is pleased to announce it has entered into a non-binding letter of intent...'"
+    },
+    "ceo_buyer": {
+      "value": "Branden Haynes",
+      "justification": "The CEO of the buyer, Bolt Metals Corp., is listed at the end of the press releases: 'Branden Haynes – Director and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Bolt Metals is acquiring the entire holding company, 1436060 B.C. Ltd., which holds the property. This constitutes a 100% acquisition of the project. The text states: '...acquisition by the Company of 143 BC, which holds a beneficial interest in the Switchback Copper-Silver property...'"
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The project is named the 'Silver Switchback Property' and 'Switchback Copper-Silver Property'. Surface sampling highlights also list silver first: 'recent surface sampling returned 1,975 g/t silver (Ag), 17.01 % copper (Cu)...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is from a data feed and does not contain a public-facing article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is explicitly denominated in Canadian dollars: 'The Company will also make a cash payment of CAD$20,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The definitive agreement includes a cash component: 'The Company also made a cash payment of CAD$20,000 to 143 BC.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms specify the number of shares to be issued, not a total monetary value for the share component."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The terms of the transaction state: 'Under the terms of the Definitive Agreement, the Company issued an aggregate of 4,000,000 common shares in the Company (the “Consideration Shares”) to the shareholders of 143 BC...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a separate private placement for financing, not as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms for the acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention the issuance of 4,000,000 shares but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary exploration commitment as part of the acquisition agreement. A past work program and future use of private placement funds are mentioned, but these are not acquisition commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2560,
+      "justification": "The property size is explicitly stated: 'The Property consists of eight contiguous mineral claims totalling 2,560 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: 'The Property consists of eight contiguous mineral claims totalling 2,560 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the property as 'exploration stage' and mentions 'anomalous areas and prospective targets' but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BOLT",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press releases: 'Bolt Metals Corp. (“Bolt” or the “Company”) (CSE: BOLT)...'"
+    }
+  }
+}

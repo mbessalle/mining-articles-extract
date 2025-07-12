@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Au-Li/31522.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Au-Li Project",
+      "justification": "The document contains a specific section identifying the project name: 'Project Name Au-Li Project Quebec, Canada'."
+    },
+    "company_name": {
+      "value": "Midland Exploration Inc.",
+      "justification": "The press release begins: 'MONTREAL, Feb. 22, 2023 (GLOBE NEWSWIRE) -- Midland Exploration Inc. (“Midland’ or the “Corporation”) (TSX-V: MD) is pleased to announce the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Gino Roger",
+      "justification": "The contact information section at the end of the press release lists: 'Gino Roger, President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Midland is pleased to announce the acquisition by map designation of 100% interest in an important strategic land position...'"
+    },
+    "primary_commodity": {
+      "value": "Gold, Lithium",
+      "justification": "The headline of the press release states: 'Midland Expands Its Patris Property and Acquires Strategic Position for Gold and Lithium in Abitibi'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Midland Exploration Inc., is headquartered in Montreal, Quebec, and is listed on the Canadian TSX Venture Exchange (TSX-V), implying the Canadian Dollar (CAD). The detailed quote section uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'acquisition by map designation', which is a form of claim staking, and no cash consideration to a seller is mentioned in the press release."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'acquisition by map designation', and no share consideration is mentioned in the press release."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'acquisition by map designation', and no combined financial consideration is mentioned in the press release."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is described as an 'acquisition by map designation', and no issuance of shares as payment is mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a plan for a survey but does not state a specific drilling meterage commitment as part of the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan for a survey but does not state a specific exploration expenditure commitment as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The press release does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 74,
+      "justification": "The text states: 'This new acquisition adjacent to the east of Midland’s Patris gold property, consists of 133 claims (74 square kilometres)...'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometres",
+      "justification": "The text states: 'This new acquisition... consists of 133 claims (74 square kilometres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The mineral resources mentioned in the text are explicitly for the LAN and Authier deposits held by Sayona Mining, not for the property acquired by Midland. The text includes a cautionary statement: 'Mineralization occurring at the LAN and Authier deposits held by Sayona is not necessarily indicative of mineralization that may be found on the Patris project held by Midland...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MD",
+      "justification": "The press release identifies the company as 'Midland Exploration Inc. (“Midland’ or the “Corporation”) (TSX-V: MD)'."
+    }
+  }
+}

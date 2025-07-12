@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Monument Bay/79829.txt",
+    "canada_projects/Monument Bay/79830.txt",
+    "canada_projects/Monument Bay/82776.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Monument Bay",
+      "justification": "The text states that ONGold Resources Ltd. has entered into agreements to purchase the project: \"...agreements to purchase 100% interests in both the Monument Bay Gold Project ('Monument Bay')...\""
+    },
+    "company_name": {
+      "value": "ONGold Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"ONGold Resources Ltd. (TSXV: ONAU) ('ONGold' or the 'Company') is pleased to announce that it has entered into agreements to purchase 100% interests in both the Monument Bay Gold Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Kyle Stanfield",
+      "justification": "The CEO of the acquiring company, ONGold, is quoted in the text: \"Kyle Stanfield, CEO of ONGold, commented: 'We are thrilled to have reached this agreement with Agnico Eagle...'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text clearly states a 100% interest was acquired: \"...agreements to purchase 100% interests in both the Monument Bay Gold Project ('Monument Bay')...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the 'Monument Bay Gold Project' and the text mentions its mineralization: \"...significant gold and tungsten mineralization...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/231235",
+      "justification": "The article, titled 'Ongold Announces Agreement to Acquire the Monument Bay and Domain Projects in Manitoba', directly concerns the acquisition of the Monument Bay project by ONGold Resources Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, ONGold Resources Ltd., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. The consideration is denoted with '$' and a separate mention of 'C$7 million' in another context confirms the use of Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 21600000,
+      "justification": "The total cash consideration for Monument Bay is the sum of the initial payment ($100,000) and the contingent payments ($21.5 million). \"...$100,00 is payable under the MB Agreement...\" and \"In addition, Agnico Eagle will be entitled to up to $21.5 million in contingent milestone-based payments under the MB Agreement...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (amount of shares and price) is used for the share component as it provides more granular data than the approximate total value of '$4.2 million'. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 8700000,
+      "justification": "The number of shares issued for the Monument Bay portion of the deal is explicitly stated: \"...and 8.7 million ONGold common shares... payable under the MB Agreement...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.485,
+      "justification": "The price per share is stated in the description of the share consideration: \"...and 8.7 million ONGold common shares valued at approximately $4.2 million at a $0.485 ONAU share price...\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes future 'Exploration Plans' but does not specify a drilling commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes future 'Exploration Plans' but does not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention the acquisition or retention of a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 31250,
+      "justification": "The size of the project area is specified in the 'Monument Bay Description' section: \"The project consists of 136 contiguous mining claims covering 31,250 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the same sentence as the value: \"The project consists of 136 contiguous mining claims covering 31,250 hectares.\""
+    },
+    "resource_size": {
+      "value": "2.3 million Au oz (58.0 million tonnes at an average grade of 1.24 g/t) in the Measured & Indicated Mineral Resources categories, and 720,000 Au oz (24.4 million tonnes at an average grade of 0.92 g/t) in the Inferred Mineral Resources category",
+      "justification": "A historical resource estimate is provided in the text: \"The most recent Technical Report (2017) identified 2.3 million Au oz (58.0 million tonnes at an average grade of 1.24 g/t) in the Measured & Indicated Mineral Resources categories, and 720,000 Au oz (24.4 million tonnes at an average grade of 0.92 g/t) in the Inferred Mineral Resources category.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ONAU",
+      "justification": "The buyer's name is followed by its ticker and exchange in the first sentence of the press release: \"ONGold Resources Ltd. (TSXV: ONAU) ('ONGold' or the 'Company')...\""
+    }
+  }
+}

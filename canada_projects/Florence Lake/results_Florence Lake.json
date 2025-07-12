@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Florence Lake/37751.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Florence Lake",
+      "justification": "The article is titled 'Churchill Resources Announces Exercise of Option and Acquisition of 100% Interest in Florence Lake Mineral Properties in Eastern-Central Labrador'."
+    },
+    "company_name": {
+      "value": "Churchill Resources Inc.",
+      "justification": "The buyer is identified as 'Churchill Resources Inc. (“Churchill” or the “Company”) (TSXV: CRI) is pleased to announce that it has exercised an existing option (the “Option”) to acquire a 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Paul Sobie",
+      "justification": "The CEO of the buyer, Churchill Resources, is identified in the quote: 'Paul Sobie, CEO of Churchill stated “We are very pleased to execute this option at Florence Lake...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Churchill acquired a 100% interest: '...exercised an existing option (the “Option”) to acquire a 100% interest in certain mineral properties...'"
+    },
+    "primary_commodity": {
+      "value": "nickel, copper and cobalt",
+      "justification": "The text describes the properties as having '...prospective nickel, copper and cobalt targets...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a direct copy and does not contain a web link to the original article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Churchill Resources Inc., is listed on the TSXV (a Canadian exchange) and the text mentions 'fluctuations in currency markets (such as the Canadian dollar to United States dollar exchange rate)', implying Canadian dollars for the transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments are mentioned as part of the option exercise consideration. The payment was made in shares."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured with a specific number of shares and a price per share was available via fallback, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was not described as a single combined value. The number of shares issued is specified, so `amount_of_shares_issued` is populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 6415635,
+      "justification": "The total number of shares issued to exercise the option is stated: 'Since entering into the Option Agreement, the Company has issued an aggregate of 6,415,635 common shares in the capital of the Company (“Common Shares”) to Altius under the terms of the Option...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No separate option payments were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of meters of drilling was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that Churchill 'incurred the required cumulative exploration expenditures in connection with the Properties' but does not specify the monetary value of this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.6,
+      "justification": "As part of the transaction, the seller (Altius) retained a royalty. The text states the acquisition is 'subject to a new 1.6% gross sales royalty on the Properties in favour of Altius.'"
+    },
+    "coverage_area_raw": {
+      "value": 104,
+      "justification": "The total area of the project is specified: 'The Florence Lake project consists of four map-staked licenses totalling 416 claims (104 km2) in east-central Labrador.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified: 'The Florence Lake project consists of four map-staked licenses totalling 416 claims (104 km2) in east-central Labrador.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a technical report that is 'highly encouraging for nickel discoveries' and a forward-looking statement mentions the risk of 'failure to identify any mineral resources or significant mineralization', but no quantified mineral resource estimate (e.g., tonnes, ounces) is provided for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CRI",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'Churchill Resources Inc. (“Churchill” or the “Company”) (TSXV: CRI)...'"
+    }
+  }
+}

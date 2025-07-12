@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Snegamook/76819.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Snegamook",
+      "justification": "it has been granted the option (the “Option”) to acquire up to a one-hundred percent interest in and to a mineral claim block located in the Province of Newfoundland and Labrador, commonly known as the “Snegamook Project” (the “Project”)."
+    },
+    "company_name": {
+      "value": "Azincourt Energy Corp.",
+      "justification": "AZINCOURT ENERGY CORP. (“Azincourt” or the “Company”) (TSX.V: AAZ, OTC: AZURF), is pleased to announce that it has entered into a definitive property option agreement with BR Corporation Pty Ltd."
+    },
+    "ceo_buyer": {
+      "value": "Alex Klenman",
+      "justification": "ON BEHALF OF THE BOARD OF AZINCOURT ENERGY CORP. “Alex Klenman” Alex Klenman, President & CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pursuant to terms of the Option, the Company can acquire a one-hundred percent interest in the Project by completing a series of share issuances and incurring certain expenditures on the Project"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Azincourt Energy Options Advanced Uranium Project in Labrador"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release and does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Azincourt Energy Corp., is listed on the TSX Venture Exchange (TSXV), and the exploration expenditures are denoted with a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option is in share issuances and exploration expenditures. A $1,000,000 cash payment is mentioned, but it is for a potential future buy-back of half the NSR ('half of which may be purchased back at any time for a one-time cash payment of $1,000,000'), not for the acquisition itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment structure is defined by the number of shares to be issued and an implied price per share, fitting the Priority 2 extraction rule, not a raw share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment structure is defined by separate share issuance and exploration commitment components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 60000000,
+      "justification": "Pursuant to terms of the Option, the Company can acquire a one-hundred percent interest in the Project by completing a series of share issuances... On the grant of the Option 15,000,000... Within nine months 15,000,000... Within twenty-one months 15,000,000... Within thirty-three months 15,000,000. The total is 15,000,000 x 4 = 60,000,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a separate 'Non-Brokered Private Placement' for general working capital, not as part of the consideration for the project option agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement, but the consideration is paid in shares and exploration commitments, which are captured in other fields. No separate cash payment for the option itself is mentioned."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment defined in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "Pursuant to terms of the Option, the Company can acquire a one-hundred percent interest in the Project by... incurring certain expenditures on the Project, as follows: ...Within twenty-one months $250,000... Within thirty-three months $750,000. The total commitment is $250,000 + $750,000 = $1,000,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Following exercise of the Option, the Project will be subject to a two percent net smelter returns royalty..."
+    },
+    "coverage_area_raw": {
+      "value": 423,
+      "justification": "The Project... consists of a mineral claim block comprised of 17 contiguous claims covering 423 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The Project... consists of a mineral claim block comprised of 17 contiguous claims covering 423 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a current mineral resource for the Snegamook Project. It mentions resources on adjacent properties ('Two Time Zone Project (Indicated and Inferred resource of 5.55 Mlb U3O8)' and 'Michelin deposit (Measured and Indicated resource of 82.2Mlb U3O8)'), but explicitly states these are not on the Snegamook project and that historical data has not been verified by the company."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AAZ",
+      "justification": "The text identifies the buyer as 'AZINCOURT ENERGY CORP. (“Azincourt” or the “Company”) (TSX.V: AAZ, OTC: AZURF)'. The detailed quote section also confirms 'Exchange: TSXV'. TSX.V is equivalent to TSXV."
+    }
+  }
+}

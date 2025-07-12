@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Thelon Basin Claims/47811.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thelon Basin Claims",
+      "justification": "The article announces the staking of claims within the Thelon Basin, which are added to the company's existing projects in the area. The collective project is referred to as the company's holdings in the Thelon Basin. The title is 'Lexston Mining Corporation Arranges Staking of Additional Mineral Claims in Thelon Basin, Nunavut'."
+    },
+    "company_name": {
+      "value": "Lexston Mining Corporation",
+      "justification": "Lexston Mining Corporation (the “Company” or “Lexston”) (CSE:LEXT) (OTC:LEXTF) (Frankfurt:W5G) announces that further to its news releases dated November 27, 2023 and January 10, 2024, the Company has arranged staking of five new mineral claims for prospective uranium exploration."
+    },
+    "ceo_buyer": {
+      "value": "Jagdip Bal",
+      "justification": "On Behalf of the Board of Directors LEXSTON MINING CORPORATION Jagdip Bal Chief Executive Officer"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the staking of mineral claims directly from the government, not an acquisition from another company. The text does not specify an ownership percentage, though staking typically implies 100%."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "...the Company has arranged staking of five new mineral claims for prospective uranium exploration."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and does not involve any financial consideration (cash or shares), so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, not an acquisition involving a cash payment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, not an acquisition involving a share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, not an acquisition involving a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and does not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes 'Proposed Work' but does not include a specific drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not state any future exploration expenditure commitment as part of this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and does not mention any Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 5688,
+      "justification": "The announcement is for the staking of new claims. 'These five mineral claims are in the Thelon Basin in Nunavut Territory and occupy an area of 5,688ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "These five mineral claims are in the Thelon Basin in Nunavut Territory and occupy an area of 5,688ha."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'high-grade uranium showings' but does not provide a quantified mineral resource estimate with mass and grade. It also states, 'the Company currently has no reserves on its properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LEXT",
+      "justification": "Lexston Mining Corporation (the “Company” or “Lexston”) (CSE:LEXT) (OTC:LEXTF) (Frankfurt:W5G)..."
+    }
+  }
+}

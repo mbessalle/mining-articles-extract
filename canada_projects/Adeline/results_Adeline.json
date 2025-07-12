@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Adeline/30463.txt",
+    "canada_projects/Adeline/55902.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Adeline",
+      "justification": "The second article is titled 'Sterling Metals Exercises Option to Acquire 100% of the Adeline Project in Labrador and Provides Exploration Update'. The first article is titled 'Update on Acquisition of Adeline Project in Labrador, Canada'."
+    },
+    "company_name": {
+      "value": "Sterling Metals Corp.",
+      "justification": "The successful acquirer of the project is Sterling Metals Corp. as stated in the second article: 'Sterling Metals Corp. (TSXV:SAG)(OTCQB:SAGGF) (\"Sterling\" or the \"Company\") is pleased to announce that pursuant to the option agreement dated March 6, 2023, with Chesterfield Resource Plc. (\"Chesterfield\"), it has exercised its option to acquire 100% of the Adeline Copper-Silver Project'. The authoritative company, Pacton Gold Inc., terminated its acquisition attempt as per the first article."
+    },
+    "ceo_buyer": {
+      "value": "Mathew Wilson",
+      "justification": "The CEO of the acquiring company, Sterling Metals, is identified in the text: 'Mathew Wilson, CEO of Sterling Metals, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The title of the second news release states: 'Sterling Metals Exercises Option to Acquire 100% of the Adeline Project in Labrador and Provides Exploration Update'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as a copper project: '...it has exercised its option to acquire 100% of the Adeline Copper-Silver Project located in Labrador, Canada.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/878443/sterling-metals-exercises-option-to-acquire-100-of-the-adeline-project-in-labrador-and-provides-exploration-update",
+      "justification": "The provided text contains two articles. The first, from Jan 2023, details the termination of an acquisition by Pacton Gold. The second, from June 2024, details the successful acquisition by Sterling Metals. This link corresponds to the successful acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies the currency for the cash payment: '...a cash payment of CAD$200,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The consideration for the acquisition includes 'a cash payment of CAD$200,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into cash and a number of shares. As per the extraction hierarchy, when the number of shares and a price are available, `share_payments_raw` should be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment components (cash and shares) are listed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 8500000,
+      "justification": "The consideration for the acquisition includes 'the issuance of an additional 8,500,000 common shares (each, a \"Common Share\") in the capital of the Company.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an exercise of a pre-existing option, but the payment consideration does not include new options."
+    },
+    "issued_share_price": {
+      "value": 0.425,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote section of the relevant article: 'Last: 0.425'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes future exploration plans but does not specify a commitment in terms of drilling meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes future exploration plans but does not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 29000,
+      "justification": "The 'About Sterling Metals' section describes the project as 'the 29,000-hectare Adeline Project in Labrador'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the description of the project area: 'the 29,000-hectare Adeline Project in Labrador'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'many copper showings' and that 'drilling and systematic exploration is sparse', but it does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SAG",
+      "justification": "The buyer is Sterling Metals Corp. The header of the second news release identifies the company with its tickers: 'Sterling Metals Corp. (TSXV:SAG)(OTCQB:SAGGF)'."
+    }
+  }
+}

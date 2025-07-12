@@ -1,0 +1,80 @@
+--- Article Metadata ---
+Project Name: Gold Standard
+Company Name: Storm Exploration Inc.
+Exchange: TSXV
+Ticker: STRM
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.13.2024, 6:00:00 PM
+
+# Storm Exploration Completes Option Payment on Gold Standard Project
+
+**VANCOUVER, BC / ACCESSWIRE / May 13, 2024 /** Storm Exploration Inc. (TSX-V:STRM) (the "Company") is pleased to announce that it has completed the twenty four-month option payment in connection with its Option Agreement to acquire a 100% interest in the Gold Standard Project located in northwest Ontario. The payment consisted of $25,000 cash and the issuance of 59,524 common shares at a deemed price of $0.42 per share to the property vendors.
+
+The Company has now completed its payment obligations under the Option Agreement and has acquired a 100% interest in the Gold Standard Project. The property vendors are entitled to receive a 2.0% Net Smelter Returns Royalty on minerals produced from the property which the Company can reduce at any time to 1.0% by paying the property vendors $750,000.
+
+**About the Gold Standard Project**
+
+The road-accessible Gold Standard Project comprises 284 mineral claims covering 6,016 ha and is located 65 km north of the community of Fort Frances (_see Figure 1_). The project lies within the traditional territory of the Naicatchewenin and Nigigoonsiminikaaning First Nations and Storm now has agreements in place with both groups.
+
+The Gold Standard property is located within the Manitou-Stormy Lake greenstone belt and is prospective for gold and base metals. The property hosts three historical small-scale gold mining operations that date from 1901 to 1903. These gold showings have seen little modern exploration and have never been tested with drilling. In 2022, Storm confirmed the high-grade nature of the old workings with grab samples that returned grades up to **166 g/t Au** ([see Storm news release dated 27-Sep-2022](https://pr.report/TGnBc3Pj)).
+
+A property-wide airborne electromagnetic survey conducted by Storm in October of 2022 identified a large conductivity anomaly with a strike length of more than five kilometres (_see Figure 2_) that occurs in host rocks that are often associated with Volcanogenic Massive Sulphide ("VMS") mineralization. This is supported by copper and zinc mineralization noted in shallow historical drill holes completed between 1969 and 1971 ([_see Storm news release dated 8-Feb-2023_](https://pr.report/KjIQ4Gux)).
+
+**Next Steps at Gold Standard**
+
+Plans are in place for a scout drill program to test the large VMS target. The Cu-Zn target can be accessed by an existing network of forestry roads, and it is expected that drilling will commence in Q3/2024. Exploration work aimed at extending the high-grade gold mineralization in the southern part of the property is also planned for Q3/2024.
+
+Figure 1: Gold Standard Project Location Map
+
+Figure 2: Gold Standard Project Conductivity Anomaly - 2022 VTEM Survey
+
+**Qualified Person**
+
+The technical contents of this news release have been reviewed and approved by Bruce Counts, P. Geo., President and CEO of Storm Exploration Inc. and Qualified Person under National Instrument 43-101.
+
+**About Storm Exploration Inc.**
+
+Storm Exploration is a Canadian mineral exploration company focused on the discovery and development of economic precious and base metal deposits on four district-scale projects in northwest Ontario: Miminiska, Keezhik, Attwood and Gold Standard.
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) has reviewed or accepts responsibility for the adequacy or accuracy of this release.
+
+**Forward Looking Information**
+
+This news release includes certain information that may constitute "forward-looking information" under applicable Canadian securities legislation. Forward-looking information includes, but is not limited to, the Company's strategic plans, future operations, future work programs and objectives. Forward-looking information is necessarily based upon estimates and assumptions that, while considered reasonable, are subject to known and unknown risks, uncertainties, and other factors which may cause the actual results and future events to differ materially from those expressed or implied by such forward-looking information. There can be no assurance that such information will prove to be accurate, as actual results and future events could differ materially from those anticipated in such information. Accordingly, readers should not place undue reliance on forward-looking information. All forward-looking information contained in this press release is given as of the date hereof and is based upon the opinions and estimates of management and information available to management as at the date hereof. The Company disclaims any intention or obligation to update or revise any forward-looking information, whether as a result of new information, future events or otherwise, except as required by law.
+
+For further information, please contact:
+
+Storm Exploration Inc.  
++1 (604) 506-2804  
+[info@stormex.ca](mailto:info@stormex.ca)
+
+**SOURCE:** Storm Exploration Inc.
+
+  
+  
+View the original [press release](https://www.accesswire.com/862378/storm-exploration-completes-option-payment-on-gold-standard-project) on accesswire.com  
+  
+
+
+### Project Name
+
+[Gold Standard Project](/?gid=5217)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.055                       Bid: 0.055
+Bid Size: 41000                   Beta: -0.44666
+Year High: 0.09                  Market Cap: 3.67m
+PB Ratio: -3.74                   EPS: -0.03
+Average Volume (30 Day): 63.25k    Prev. Close: 0.055
+Ask: 0.065                        Ask Size: 15000
+Year Low: 0.025                   Total Shares: 66.69m
+Shares Out: 76.43m                 Float: 64.52m
+Exchange: TSXV

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Sweeney/70292.txt",
+    "canada_projects/Sweeney/70948.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sweeney",
+      "justification": "The articles are titled 'Coast Copper Acquires the Sweeney Property in the Huckleberry Camp' and 'Coast Copper Closes the Sweeney Property Purchases in Huckleberry Camp'."
+    },
+    "company_name": {
+      "value": "Coast Copper Corp.",
+      "justification": "The buyer is identified as 'Coast Copper Corp. (\"Coast Copper\" or the \"Company\");(TSXV: COCO)'."
+    },
+    "ceo_buyer": {
+      "value": "Adam Travis",
+      "justification": "The text identifies the CEO of the buyer, Coast Copper, in the description of one of the sellers: 'Cazador Resources Ltd. (\"Cazador\"), a private company controlled by Coast Copper's CEO Adam Travis'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in two separate transactions. 'Under the terms of the Cazador purchase agreement... in consideration for a 100% interest in the Property' and 'Under the terms of the Third-Party purchase agreement, in consideration for a 100% interest in the Third Party Claims'."
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "Historical production was primarily silver, and the historical resource is graded with silver as a key component. 'producing 83,493 ounces ('oz') Ag, 49 oz Au...' and 'Unclassified reserves on the Emerald Vein are 40,800 tonnes grading 355 grams per tonne ('g/t') Ag...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the Sweeney project, which matches the project of interest. However, no article link was provided in the source documents to be verified."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Coast Copper Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for the transaction is Canadian Dollars (CAD). The text uses the '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 60134,
+      "justification": "The total cash payment is the sum of two separate transactions: a '$60,000 to Cazador' and a '$134 to the Third Party'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention cash payments, not share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash payments are explicitly broken out, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The sellers retained a 1% NSR as part of the transaction terms. 'Cazador, which will retain a 1% net smelter return ('NSR') royalty on the Cazador Claims' and 'the Third Party, who will retain a 1% NSR royalty on the Third Party Claims'."
+    },
+    "coverage_area_raw": {
+      "value": 1550,
+      "justification": "The total area for the Sweeney project is 1550 ha, calculated by summing the 1,492 ha from the Cazador acquisition ('8 mineral claims totaling 1,492 hectares') and 58 ha from the Third Party acquisition. The Third Party acquisition was for a total of 77 ha ('3 mineral claims totaling 77 ha'), but one claim of 19 ha was not part of the Sweeney project ('One of the 3 Third-Party claims purchased, covering 19 ha, is not adjacent to the Sweeney property')."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit is specified in the text: '8 mineral claims totaling 1,492 hectares (\"ha\")'."
+    },
+    "resource_size": {
+      "value": "40,800 tonnes grading 355 grams per tonne (\"g/t\") Ag, 8.23% Pb, 9.49% Zn and 1.13 g/t Au",
+      "justification": "The text states a historical, unclassified resource: 'Unclassified reserves on the Emerald Vein are 40,800 tonnes grading 355 grams per tonne (\"g/t\") Ag, 8.23% Pb, 9.49% Zn and 1.13 g/t Au ² ³'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:COCO",
+      "justification": "The ticker and exchange for the buyer, Coast Copper Corp., are provided at the top of the news releases: 'TSX.V: COCO' and '(TSXV: COCO)'."
+    }
+  }
+}

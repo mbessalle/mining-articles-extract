@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bourier/46253.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bourier",
+      "justification": "The text announces the completion of ownership in the 'Bourier Lithium Property' and refers to the 'Bourier project' multiple times."
+    },
+    "company_name": {
+      "value": "Lomiko Metals Inc.",
+      "justification": "The acquiring company is identified in the headline and body: 'Lomiko Metals Inc.(TSX.V: LMR) (“Lomiko Metals” or the “Company”) is pleased to announce that... the Company has successfully earned its 49% interest in the project.'"
+    },
+    "ceo_buyer": {
+      "value": "Belinda Labatte",
+      "justification": "The document is signed off by 'Belinda Labatte CEO and Director, Lomiko Metals Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 49,
+      "justification": "The text states: 'the Company has successfully earned its 49% interest in the project.'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the 'Bourier Lithium Property' in the headline."
+    },
+    "verified_article_link": {
+      "value": "https://www.businesswire.com/news/home/20231220666419/en/",
+      "justification": "The article is titled 'Lomiko Announces Completion of 49% Ownership of Bourier Lithium Property' and discusses the transaction for the Bourier project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Lomiko Metals Inc., is listed on the TSX Venture Exchange (TSX.V), a Canadian exchange, and the project is located in Quebec, Canada. The currency for the exploration expenditure is therefore inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration to earn the interest was through exploration expenditures, not cash payments. The text states Lomiko needed to 'incur or fund exploration expenditures'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration to earn the interest was through exploration expenditures, not share payments. No issuance of shares for the acquisition is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was in the form of exploration expenditures, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were mentioned as being issued as part of the transaction to earn the interest in the Bourier project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment was specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1300000,
+      "justification": "The text states: 'To earn its 49% interest in the Bourier project (the “First Option”), Lomiko Metals needed to incur or fund exploration expenditures aggregating not less than $1,300,000 on the project.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in the transaction details."
+    },
+    "coverage_area_raw": {
+      "value": 10252.2,
+      "justification": "The text states: 'The Bourier project site ... consists of 203 claims for a total ground position of 10,252.20 hectares (102.52 km2).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Bourier project site ... consists of 203 claims for a total ground position of 10,252.20 hectares (102.52 km2).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article provides a detailed Mineral Resource Estimate for the La Loutre project ('64.7 million tonnes of Indicated Mineral Resources averaging 4.59% Cg per tonne...'), not the Bourier project. For the Bourier project, the text states 'The final exploration results are pending... still receiving the assay results', indicating no current resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LMR",
+      "justification": "The buyer is identified as 'Lomiko Metals Inc. (TSX.V: LMR)'. The 'Detailed Quote' section also confirms the exchange is 'TSXV'."
+    }
+  }
+}

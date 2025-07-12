@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Gold Anchor/70421.txt",
+    "canada_projects/Gold Anchor/74379.txt",
+    "canada_projects/Gold Anchor/89252.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Anchor",
+      "justification": "The first article is titled \"Hemlo Explorers Closes Acquisition of Rocky Shore Metals and its Gold Anchor Project\" and refers to it as \"Rocky Shore’s flagship Gold Anchor Project\"."
+    },
+    "company_name": {
+      "value": "Hemlo Explorers Inc.",
+      "justification": "The buyer is identified in the first sentence: \"Hemlo Explorers Inc. (the “Company” or “Hemlo”) (CSE: HMLO) is pleased to announce completion of the purchase of Rocky Shore Metals Ltd. (“Rocky Shore”)...\""
+    },
+    "ceo_buyer": {
+      "value": "Brian Howlett",
+      "justification": "The CEO of the acquiring company is identified as Brian Howlett: \"Brian Howlett, the President and Chief Executive Officer of Hemlo said, “We are extremely pleased to have acquired this exciting claim package...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired full ownership of the target company and its projects: \"the Company has acquired all of the issued and outstanding common shares of Rocky Shore\" and \"Acquisition of 100% ownership of six (6) grass roots gold projects\"."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The project is consistently described in the context of gold exploration: \"grass roots gold projects\", \"potential to host widespread, high grade gold mineralization\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": null
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Hemlo Explorers Inc., is listed on the Canadian Securities Exchange (CSE: HMLO) and transaction values are denoted with '$', implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured as a share exchange, not a cash payment. The consideration was an issuance of shares."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described by the number of shares issued and a price per share, which falls under Priority 2 of the financial extraction hierarchy, making this field null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is described by the number of shares issued and a price per share, which falls under Priority 2 of the financial extraction hierarchy, making this field null."
+    },
+    "amount_of_shares_issued": {
+      "value": 49999704,
+      "justification": "The consideration for the acquisition was a share issuance: \"the Company has acquired all of the issued and outstanding common shares of Rocky Shore (“Rocky Shore Shares”) in exchange for the issuance of an aggregate of 49,999,704 common shares (“Hemlo Shares”) in the capital of the Company (the “Transaction”).\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants were mentioned in the context of a subsequent, separate non-brokered private placement, not as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the number of shares issued (49,999,704), but not an explicit price for the transaction. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the projects have no royalties: \"Acquisition of 100% ownership of six (6) grass roots gold projects in a Tier 1 jurisdiction (Newfoundland and Labrador, Canada) with no underlying royalties.\""
+    },
+    "coverage_area_raw": {
+      "value": 533,
+      "justification": "The size of the project at the time of acquisition is stated as: \"Rocky Shore’s flagship Gold Anchor Project, is a district scale asset in a significantly underexplored area that totals over 2,100 claims and 533 square kilometres.\""
+    },
+    "coverage_area_unit": {
+      "value": "square kilometres",
+      "justification": "The unit for the coverage area is provided in the same sentence: \"...totals over 2,100 claims and 533 square kilometres.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource has been defined: \"No systematic exploration or drilling has ever been completed for gold over the entire property\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HMLO",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the announcement: \"Hemlo Explorers Inc. (the “Company” or “Hemlo”) (CSE: HMLO)\"."
+    }
+  }
+}

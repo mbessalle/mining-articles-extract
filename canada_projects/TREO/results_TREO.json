@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/TREO/43908.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "TREO",
+      "justification": "The text announces the staking of new claims contiguous to the Company's TREO claim group and refers to the 'TREO project'."
+    },
+    "company_name": {
+      "value": "Neotech Metals Corp.",
+      "justification": "The press release is issued by 'Neotech Metals Corp. (CSE: NTMC) (OTCQB: NTMFF) (FSE: V690) (formerly, Caravan Energy Corporation) ('Neotech ' or the 'Company ')'."
+    },
+    "ceo_buyer": {
+      "value": "Reagan Glazier",
+      "justification": "A quote in the article is attributed to 'Reagan Glazier, Neotech's CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes claim staking, which is securing mineral rights from the government, not acquiring a percentage interest from another company. No percentage is mentioned."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text does not specify the primary commodity for the TREO project. The 'About' section mentions the company owns 'rare earth mineral claims' but does not explicitly state that the TREO project is one of them."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/186726",
+      "justification": "The article is titled 'Neotech Metals Announces Additional TREO Claims Staked' and is about the TREO project. The source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/186726'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes a claim staking event, not a financial transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, not a purchase involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, not a purchase involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a claim staking, not a purchase involving cash or share payments."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a claim staking, not a purchase involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 15500,
+      "justification": "The article states: 'The additional claims increase the TREO project's footprint to over 15,500 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The article states: 'The additional claims increase the TREO project's footprint to over 15,500 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a current mineral resource. It only mentions 'enhancing the Company's potential to define a possible mineral resource going forward,' which implies no resource has been defined yet."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NTMC",
+      "justification": "The company is identified as 'Neotech Metals Corp. (CSE: NTMC)'. The detailed quote section also lists 'Exchange: CSE'."
+    }
+  }
+}

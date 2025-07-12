@@ -1,0 +1,60 @@
+--- Article Metadata ---
+Project Name: Antimony
+Company Name: Decade Resources Ltd.
+Exchange: TSXV
+Ticker: DEC
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.13.2025, 8:00:00 PM
+
+# Decade Acquires Antimony Claim
+
+Stewart, British Columbia--(Newsfile Corp. - February 13, 2025) - Decade Resources Ltd (TSXV: DEC) ("Decade") reports that it staked 1742 ha covering a major shear structure hosting antimony mineral (stibnite) in the Golden Triangle area of BC. The property is located 40km NE of Stewart BC within the Bowser Basin sediments.
+
+The mineralization was discovered by E. Kruchkowski. President of the Company in 2004 while working as a consultant for a junior company. The lack of appreciable precious metals in the shear resulted in the claim being dropped. With the recent interest in antimony properties, the Company acquired the project area to evaluate for Antimony content. 
+
+According to the ARIS report on this shear: _"A strong quartz-stibnite vein system up to 5 meters wide shear zone has been traced on the ground over a strike length of 300 meters based on aerial view extending beyond the 300 meters that was sampled. The zone consists of individual 2-5 meter wide brecciated zones with quartz filling the voids between clasts. Locally the zone will be entirely quartz filled. Numerous splays to the shear zone extend the overall width of the zone up to 15 meters in several places. In these locations, veins up to 4-5 meters wide, separated by weakly brecciated argillite form the east and west walls to the zones. Locally massive stibnite and arsenopyrite form pockets and stringers of mineralization that is up to 15-20 cm wide within the breccias. Pyrite is common in the brecciated argillite but is not common in the quartz."_
+
+Out of 8 grab samples taken in 2004 in the vicinity of the shears,6 analyzed over limits for Antimony and arsenic (all samples of heavily mineralized shear). Silver values ranged from 12.1 to a high of 65 g/t.
+
+Antimony which is considered a critical mineral by the Government of Canada, is a mineral primarily used as a flame retardant and alloying agent in lead-acid batteries, ammunition, and semiconductors. It also has strategic applications in defense and energy storage technologies, making it a high-priority material for many governments. The global antimony market is forecasted to grow at a compound annual growth rate (CAGR) of 5.5% from 2023 to 2030, driven by rising demand in renewable energy storage and military applications.
+
+China which dominates global antimony production, accounting for over 70% of supply, banned exports of antimony to the United States, citing its dual military and civilian uses. further causing supply chain concerns. 
+
+Ed. Kruchkowski, P. Geo., a qualified person under National Instrument 43-101, is in charge of the exploration programs on behalf of the Company and is responsible for and approves the contents of this release. E. Kruchkowski is not independent of Decade as he is the president of the Company.
+
+Decade Resources Ltd. is a Canadian based mineral exploration company actively seeking opportunities in the resource sector. Decade holds numerous properties at various stages of development and exploration from basic grass roots to advanced ones. Its properties and projects are all located in the "Golden Triangle" area of northern British Columbia. For a complete listing of the Company assets and developments, visit the Company website at [www.decaderesources.ca](https://api.newsfilecorp.com/redirect/X3kz2hOw73). For investor information please call 250- 636-2264 or Gary Assaly at 604-377-7969.
+
+ON BEHALF OF THE BOARD OF DECADE RESOURCES LTD.
+
+"Ed Kruchkowski"
+
+Ed Kruchkowski, President
+
+"Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release."  
+"This news release may contain forward-looking statements. Forward-Looking statements address future events and conditions and therefore involve inherent risks and uncertainties. Actual results may differ materially from those currently anticipated in such statements."
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/240741](https://api.newsfilecorp.com/redirect/DZKy5iZNGO)
+
+### Project Name
+
+[Antimony Project](/?gid=9827)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.03                       Bid: 0.025
+Bid Size: 852000                   Beta: -0.51275
+Year High: 0.075                  Market Cap: 4.41m
+PB Ratio: 0.25                   EPS: -0.02
+Average Volume (30 Day): 179.44k    Volume: 135.00k
+Prev. Close: 0.03                Ask: 0.03
+Ask Size: 435000                   VWAP: 0.03
+Year Low: 0.025                   Total Shares: 147.03m
+Shares Out: 158.78m                 Float: 108.56m
+Exchange: TSXV

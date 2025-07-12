@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Lorrain-Bucke/84031.txt",
+    "canada_projects/Lorrain-Bucke/84032.txt",
+    "canada_projects/Lorrain-Bucke/91697.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lorrain-Bucke",
+      "justification": "The articles refer to the project as the 'Lorrain-Bucke claim blocks'. For example: 'The Lorrain-Bucke claim blocks acquired by Record are underlain by Huronian Group sedimentary and volcanic formations...'"
+    },
+    "company_name": {
+      "value": "Quebec Innovative Materials Corp.",
+      "justification": "This is the authoritative company name provided in the prompt. The company is a party to the transaction as one of the sellers (optionors): 'Record Resources, as optionee, will issue an aggregate of 9,000,000 common shares to a group of arm's length optionors, namely Gravel Ridge Resources Ltd., 1544230 Ontario Inc. and QIMC.'"
+    },
+    "ceo_buyer": {
+      "value": "Michael Judson",
+      "justification": "The buyer is Record Resources Inc. Its CEO is identified in the text: 'Michael Judson, CEO of Record Resources, added...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Record Resources entered into an 'option agreement to acquire a key property', but does not specify the percentage of interest being acquired."
+    },
+    "primary_commodity": {
+      "value": "hydrogen",
+      "justification": "The text repeatedly refers to the project's potential for hydrogen: '...positions Record as a prominent player in hydrogen exploration within Ontario's rapidly expanding renewable hydrogen sector.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236936",
+      "justification": "The article titled 'QIMC Strengthens Strategic Collaboration with Record Resources in the Temiskaming Hydrogen Camp' directly discusses the option agreement concerning the Lorrain-Bucke property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is listed in dollars ('$90,000') and the companies involved (Record Resources, QIMC) are Canadian entities listed on Canadian exchanges (TSXV, CSE), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 90000,
+      "justification": "A clarification news release states the terms: 'The company will also make cash payment totalling $90,000 payable in four instalments over a four-year period.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is structured with a specific number of shares and a cash component, so the `amount_of_shares_issued` and `issued_share_price` fields are populated instead, per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into separate share and cash components, so the `amount_of_shares_issued`, `issued_share_price`, and `cash_payments_raw` fields are populated instead, per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 9000000,
+      "justification": "The clarification news release states the total share issuance for the option agreement: 'Record Resources, as optionee, will issue an aggregate of 9,000,000 common shares to a group of arm's length optionors...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments for options as part of the transaction, aside from the main consideration for the option agreement itself."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued (9,000,000), but not the price. Using the last traded price for the buyer (Record Resources) as a fallback, as seen in the detailed quote for TSXV:REC: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A royalty is retained by some of the sellers as part of the transaction terms, as stated in the clarification news release: 'A 2% Gross Revenue Royalty (GRR) shall be granted to Gravel Ridge and 15444230 Ontario Inc. from the sale of hydrogen or any other mineral product from the property.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size of the property in hectares or any other unit of area."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size of the property in hectares or any other unit of area."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'significant natural hydrogen resource potential' but does not provide a quantified mineral resource estimate with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:REC",
+      "justification": "The buyer is identified as Record Resources Inc., and the text provides its ticker and exchange: 'Record Resources Inc. (TSXV: REC)'."
+    }
+  }
+}

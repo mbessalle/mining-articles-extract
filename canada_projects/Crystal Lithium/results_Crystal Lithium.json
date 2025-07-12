@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Crystal Lithium/31179.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Crystal Lithium",
+      "justification": "The text states: 'ALX Resources Corp. ... has acquired by staking the Crystal Lithium Project (\"Crystal\", or the \"Project\") in northern Saskatchewan.'"
+    },
+    "company_name": {
+      "value": "ALX Resources Corp.",
+      "justification": "The acquiring company is identified as 'ALX Resources Corp. (TSXV: AL) (FSE: 6LLN) (OTC: ALXEF) (\"ALX\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Warren Stanyer",
+      "justification": "The press release is signed 'On Behalf of the Board of Directors of ALX Resources Corp. \"Warren Stanyer\" Warren Stanyer, CEO and Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Crystal is 100%-owned by ALX with no applicable royalties...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the 'Crystal Lithium Project' and the text states 'ALX acquired Crystal because of its potential to host lithium-cesium-tantalum (\"LCT\") pegmatites.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/154712",
+      "justification": "The article is titled 'ALX Resources Corp. Stakes Crystal Lithium Project, Northern Saskatchewan, Canada' and the content is entirely about this project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not a purchase involving cash. The text states 'ALX... has acquired by staking the Crystal Lithium Project'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not a purchase involving shares. The text states 'ALX... has acquired by staking the Crystal Lithium Project'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not a purchase involving cash or shares. The text states 'ALX... has acquired by staking the Crystal Lithium Project'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired by staking, not a purchase involving the issuance of shares. The text states 'ALX... has acquired by staking the Crystal Lithium Project'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The project was acquired by staking, not a purchase involving the issuance of shares at a specific price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No specific drilling meterage commitment is mentioned in the text. It only states 'ALX is planning a prospecting program at Crystal in 2023'."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific monetary exploration commitment is mentioned in the text. It only states 'ALX is planning a prospecting program at Crystal in 2023'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the project has 'no applicable royalties'."
+    },
+    "coverage_area_raw": {
+      "value": 44587,
+      "justification": "The text states the project 'consists of 54 mineral claims in five claim blocks encompassing 44,587 hectares (110,174 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the project 'consists of 54 mineral claims in five claim blocks encompassing 44,587 hectares (110,174 acres)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical sampling results and grades (e.g., '3,470 parts per million (\"ppm\") lithium') but does not provide a formal mineral resource estimate with tonnage."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AL",
+      "justification": "The text identifies the company as 'ALX Resources Corp. (TSXV: AL)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Waterbury East/48869.txt",
+    "canada_projects/Waterbury East/50995.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Waterbury East",
+      "justification": "The transaction concerns two projects, one of which is the project of interest: \"Bayridge may earn up to an 80% interest in each of CanAlaska's Waterbury East and Constellation Projects (the \"Projects\")\"."
+    },
+    "company_name": {
+      "value": "Bayridge Resources Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"Bayridge Resources Corp. (CSE: BYRG) ('Bayridge' or the 'Company') is pleased to announce that it has entered into Letters of Intent ('LOI') with CanAlaska Uranium Ltd. ('CanAlaska') to allow the Company to earn up to an 80% interest in each of CanAlaska's Waterbury East and Constellation Projects...\""
+    },
+    "ceo_buyer": {
+      "value": "Charn Deol",
+      "justification": "The CEO of the acquiring company, Bayridge, is named in a quote: \"Bayridge CEO, Charn Deol, comments...\""
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement allows for a maximum potential interest of 80% to be acquired over three stages. \"Bayridge may earn up to an 80% interest in each of the Projects by undertaking work and making cash and share payments in three defined earn-in stages... and an additional 20% interest for a total 80% interest (Stage 3).\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The projects are explicitly identified as uranium projects. \"Bayridge is excited that the company was able to negotiate LOIs for two uranium exploration projects in the prolific Athabasca region of Canada...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/197825",
+      "justification": "The article, sourced from newsfilecorp.com, is titled \"Bayridge Signs Letters of Intent to Acquire Interests in Two Uranium Exploration Properties in the Athabasca Basin\" and directly details the transaction for the Waterbury East project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Bayridge Resources Corp., is listed on the Canadian Securities Exchange (CSE: BYRG) and the projects are in Saskatchewan, Canada. The payments are denoted with '$', which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 760000,
+      "justification": "The total cash payment for the Waterbury East Project is the sum of all three stages: Stage 1 ($265,000), Stage 2 ($220,000), and Stage 3 ($275,000). Stage 1: 'Pay $265,000 cash'; Stage 2: 'Pay a further $220,000 cash'; Stage 3: 'Pay a further $275,000 cash'."
+    },
+    "share_payments_raw": {
+      "value": 1305000,
+      "justification": "The total share payment for the Waterbury East Project is the sum of all three stages: Stage 1 ($370,000), Stage 2 ($385,000), and Stage 3 ($550,000). Stage 1: 'issue $370,000 of common shares'; Stage 2: 'issue an additional $385,000 of Common Shares'; Stage 3: 'issue an additional $550,000 of Common Shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the value of shares to be issued, not a fixed number of shares. The share price is variable, based on a 5-day VWAP at the time of issuance."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in the form of options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not state a fixed issue price for the shares; it is variable: \"The deemed price per Common Share issuable under the Option Agreements will be equal to the greater of: (i) the five (5) day volume-weighted average closing price of the Common Shares on the date immediately preceding the date of issue of such Common Shares, and (ii) the lowest price permitted by the Canadian Securities Exchange ('CSE').\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "The total exploration commitment for the Waterbury East Project is the sum of all three stages: Stage 1 ($1,500,000), Stage 2 ($1,500,000), and Stage 3 ($2,000,000). Stage 1: 'incur $1,500,000 in exploration expenditures'; Stage 2: 'incur a further $1,500,000 in exploration expenditures'; Stage 3: 'incur an additional $2,000,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is a component of the agreement, granted to any party whose interest is diluted to 10%. \"Any party diluting to a 10% interest will automatically forfeit its interest in the Project and in lieu thereof will be granted a 2% net smelter return royalty on the Project.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Waterbury East project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the area of the Waterbury East project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the properties as \"exploration projects\" and does not provide any mineral resource estimates."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BYRG",
+      "justification": "The buyer's name is followed by its ticker and exchange in parentheses: \"Bayridge Resources Corp. (CSE: BYRG)\"."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/W2/47448.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "W2",
+      "justification": "The article is titled 'Platinex Consolidates W2 Copper-Nickel-PGE Project Acquiring Historical Resource' and refers to the project as 'W2 Copper-Nickel-PGE Project (“W2”)'."
+    },
+    "company_name": {
+      "value": "PTX Metals Inc.",
+      "justification": "Using the authoritative metadata 'PTX Metals Inc.'. The article refers to the company as Platinex Inc.: 'Platinex Inc. (CSE: PTX) (OTCQB: PANXF, Frankfurt: 9PX) (“Platinex” or the “Company”) is pleased to announce the successful acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Greg Ferron",
+      "justification": "The article identifies the CEO of the buyer, Platinex, as 'Greg Ferron, President, and Chief Executive Officer Platinex Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction was for the acquisition of 32 mining claims to consolidate the W2 project, which the text states is already 'Platinex’s 100% owned W2 Copper-Nickel-PGE Project'. No specific percentage interest in the overall project was acquired."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as the 'W2 Copper-Nickel-PGE Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in Canadian dollars: 'Platinex has paid C$30,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 30000,
+      "justification": "The terms of the transaction state: 'Platinex has paid C$30,000 and issued 3,000,000 Platinex shares to Gungnir.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment was defined by the number of shares and a price per share, not a total raw value. Per the data extraction hierarchy, amount_of_shares_issued and issued_share_price are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the transaction were listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The terms of the transaction state: 'Platinex has paid C$30,000 and issued 3,000,000 Platinex shares to Gungnir.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms specify the share price: 'The Platinex shares were issued at a deemed price of $0.05...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms include Platinex granting a 2% NSR to the seller: 'Platinex has also granted Gungnir a 2% net smelter returns royalty on the 19 claims (the “Royalty Interest”)'."
+    },
+    "coverage_area_raw": {
+      "value": 630,
+      "justification": "The text states: 'The 32 newly acquired claims total 630 hectares (6.3 km2)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The 32 newly acquired claims total 630 hectares (6.3 km2)...'"
+    },
+    "resource_size": {
+      "value": "14.6 million tons averaging 0.58% copper and 0.37% nickel with minor values in cobalt, gold, platinum and palladium",
+      "justification": "A historical resource is described: 'Inco described the central area as containing a potential resource of “approximately 14.6 million tons averaging 0.58% copper and 0.37% nickel with minor values in cobalt, gold, platinum and palladium”...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PTX",
+      "justification": "The authoritative metadata provided is TSXV:PTX. This is supported by the 'Detailed Quote' section which lists 'Exchange: TSXV'. The article header lists a different exchange (CSE: PTX), but the authoritative metadata and the detailed quote data point are prioritized."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/South Falcon East/30371.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Falcon East",
+      "justification": "The text states that Tisdale Clean Energy Corp. has been granted 'the right to acquire up to a seventy-five percent interest in the South Falcon East Property (the “Property”)'."
+    },
+    "company_name": {
+      "value": "Tisdale Clean Energy Corp.",
+      "justification": "The acquiring company is identified as 'TISDALE CLEAN ENERGY CORP. (“Tisdale” or the “Company”) (TSXV:TCEC)'."
+    },
+    "ceo_buyer": {
+      "value": "Alex Klenman",
+      "justification": "The document is signed 'ON BEHALF OF THE BOARD OF TISDALE CLEAN ENERGY CORP. “Alex Klenman” Alex Klenman, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement grants 'the right to acquire up to a seventy-five percent interest in the South Falcon East Property'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the asset as 'The South Falcon East Project is a uranium exploration project...' and states 'The Property is prospective for uranium'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The document is a news release and does not contain a link to a third-party article. The provided URL `www.tisdalecleanenergy.com` is a general company website, not a specific article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Tisdale Clean Energy Corp., is listed on the TSX Venture Exchange (TSXV:TCEC) and based in Vancouver, BC. The project is in Saskatchewan, Canada. The seller, Skyharbour Resources Ltd., is also listed on the TSX.V. These factors strongly imply the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 11100000,
+      "justification": "The total cash payments are the sum of all potential payments under the option agreement: on closing, paying $350,000; by the eighteen-month anniversary, paying $1,450,000; by the second anniversary of closing, paying $1,800,000; by the third anniversary of closing, paying $2,500,000; and a payment to the Vendor of $5,000,000 by the fourth anniversary. The sum is $11,100,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the issuance of a number of shares, not a payment of a specific cash value in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate components for cash and share payments, not a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 1111111,
+      "justification": "The initial payment terms include 'on closing, paying $350,000 (paid) and issuing 1,111,111 common shares to the Vendor (issued)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a separate non-brokered private placement for financing, not as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The entire agreement is an option, but no specific payment is identified as being solely for the purchase of the option itself."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the issuance of 1,111,111 shares, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified in monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 10500000,
+      "justification": "The total exploration commitment is the sum of all required expenditures: 'at least $1,250,000 by the eighteen-month anniversary'; 'at least a further $1,750,000 by the second anniversary'; 'at least a further $2,500,000 by the third anniversary'; and 'incurring expenditures on the Property of no less than $2,500,000 on each of the fourth and fifth anniversaries of closing'. The sum is $10,500,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the buyer grants a royalty to the seller: 'the Company has agreed to grant a further two percent royalty to the Vendor.'"
+    },
+    "coverage_area_raw": {
+      "value": 12770,
+      "justification": "The text states, 'The Property consists of a series of mineral claims totaling 12,770 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states, 'The Property consists of a series of mineral claims totaling 12,770 hectares...'"
+    },
+    "resource_size": {
+      "value": "7.0 Mlbs U3O8 inferred at a grade of 0.03% U3O8 and 5.3 Mlbs ThO2 inferred at a grade of 0.023 % ThO2",
+      "justification": "The text describes a historical resource: 'The South Falcon East Project contains the Fraser Lakes B Uranium Thorium Deposit with a historic mineral resource* of 7.0 Mlbs U3O8 inferred at a grade of 0.03% U3O8 and 5.3 Mlbs ThO2 inferred at a grade of 0.023 % ThO2.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TCEC",
+      "justification": "The buyer is Tisdale Clean Energy Corp. While the body of the text mentions the TSXV, the 'Detailed Quote' section at the end of the document explicitly states the exchange is CSE: 'Exchange: CSE'. The ticker is given as TCEC in the text body '(TSXV:TCEC)'. Combining the ticker with the exchange from the quote gives CSE:TCEC."
+    }
+  }
+}

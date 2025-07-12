@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Silverknife/79382.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Silverknife",
+      "justification": "The text announces an option agreement on the \"Silverknife Property\" between CMC Metals Ltd. and Coeur Mining, Inc."
+    },
+    "company_name": {
+      "value": "Coeur Mining, Inc.",
+      "justification": "The acquiring company is identified as Coeur Silvertip Holdings, Ltd., a subsidiary of Coeur Mining, Inc. The text states: \"...entered into an option agreement (“Agreement”) with Coeur Silvertip Holdings, Ltd. (“Coeur”), a subsidiary of Coeur Mining, Inc. (NYSE: CDE)...\""
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Coeur Mining, Inc., is not mentioned in the text. Aoife McGrath is mentioned as Senior Vice President of Exploration for Coeur."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The Agreement provides Coeur with the ability to earn a 75% interest in the Property..."
+    },
+    "primary_commodity": {
+      "value": "silver",
+      "justification": "The project is located in the 'Rancheria Silver District' and the text states: \"Exploration at Silverknife is targeting high-grade silver-lead-zinc CRDs...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies Canadian dollars for the financial commitments: \"...$500,000 Cdn is cash payments to CMC and $3,550,000 Cdn is exploration expenditures.\""
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The agreement includes total cash payments of $500,000 to earn the interest, as stated: \"...of which $500,000 Cdn is cash payments to CMC...\" and confirmed in the cumulative total of the payments table."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms consist of cash payments and exploration expenditures, with no mention of payments in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and exploration expenditure components of the deal are explicitly separated, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement does not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The term \"Option Payments\" used in the document's table refers to the cash consideration, which is captured in the `cash_payments_raw` field. There are no separate stock option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3550000,
+      "justification": "The agreement requires Coeur to fund exploration expenditures totaling $3,550,000 to earn its interest: \"...and $3,550,000 Cdn is exploration expenditures.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The agreement notes that the seller, CMC, has a right related to an NSR: \"CMC retained its right to purchase an existing 1% NSR on the Property.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size of the Silverknife Property in hectares or any other unit of area."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size of the Silverknife Property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides details of drill intersections but does not contain a quantified mineral resource estimate with total tonnage or ounces for the property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NYSE:CDE",
+      "justification": "The buyer is identified in the text with its ticker and exchange: \"Coeur Mining, Inc. (NYSE: CDE)\"."
+    }
+  }
+}

@@ -1,0 +1,79 @@
+--- Article Metadata ---
+Project Name: Snip North
+Company Name: Hanstone Gold Corp.
+Exchange: TSXV
+Ticker: HANS
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.9.2024, 11:10:00 PM
+
+# Hanstone Gold Executes Asset Purchase Agreement
+
+[](https://www.hanstonegold.com/)  
+---  
+[](https://thenewswire.com/api/apps/tnw/r?i=1Bz4FZexD&m=fac)| [](https://thenewswire.com/api/apps/tnw/r?i=1Bz4FZexD&m=twi)| [](https://thenewswire.com/api/apps/tnw/r?i=1Bz4FZexD&m=lin)|   
+ 
+
+Vancouver, BC – TheNewswire - May 09, 2024 – Hanstone Gold Corp. (TSXV:HANS) (FRA:HGO) (the “Company” or “Hanstone”) is pleased to announce that it has entered into an asset purchase agreement dated as of May 6, 2024 (the “APA”) with Richard Mill (“Mill”) pursuant to which the Company will purchase three mineral exploration claims (the “Purchased Claims”) comprising approximately 355.37 hectares in the Province of British Columbia 
+
+ 
+
+The Purchased Claims adjoin the south western portion of Hanstone’s existing Snip North property.  The prospective claims are located along the north shore of the Iskut River across from the historic Snip Mine owned by Skeena Resources.  The area is known for its exceptional exploration potential, with such discoveries as the Stu area situated on the north side of the Iskut River, where high grade gold-bearing quartz veins occur within lapilli tuffs.  The Purchased Claims represent a unique opportunity to discover and expand Hanstone’s exceptional exploration potential and future growth.
+
+ 
+
+Under the APA, as consideration for the Purchased Claims the Company will issue an aggregate of 650,000 common shares of the Company (each, a “Share”) to Mill at a deemed price of $0.05 per Share, representing an aggregate value of $32,500. In addition, the Company will grant to Mill a royalty equal to 2% of the net smelter returns on the Purchased Claims (the “NSR Royalty”), provided that the Company may purchase 1/2 of the NSR Royalty (so that a 1% royalty will remain) for total consideration of $500,000 at any time. The closing of the transaction is subject to the approval of the TSX Venture Exchange. The Shares, when issued, will be subject to a four month hold period. The Company will provide an update respecting the transaction upon receipt of approval from the TSX Venture Exchange. 
+
+ 
+
+About Hanstone Gold Corp
+
+ 
+
+Hanstone is a precious and base metals explorer with its current focus on the Doc and Snip North Projects optimally located in the heart of the prolific mineralized area of British Columbia known as the Golden Triangle. The Golden Triangle is an area which hosts numerous producing and past-producing mines and several large deposits that are approaching potential development. The Company holds a 100% earn-in option on the 1,704-hectare Doc Project and owns a 100% interest in the 3,336-hectare Snip North Project. Hanstone has a highly experienced team of industry professionals with a successful track record in the discovery of gold deposits and in developing mineral exploration projects through discovery to production.
+
+ 
+
+For Further Information Contact:
+
+ 
+
+Ray Marks, President
+
++1-(778)-896-7778, ray.marks@hanstonegold.com
+
+Or visit the Company’s website at [www.hanstonegold.com](http://www.hanstonegold.com)
+
+ 
+
+Forward Looking Statements Disclaimer
+
+The information contained herein contains “forward-looking statements” within the meaning of the United States Private Securities Litigation Reform Act of 1995 and “forward-looking information” within the meaning of applicable Canadian securities legislation. “Forward-looking information” includes, but is not limited to, statements with respect to the activities, events, or developments that the Company expects or anticipates will or may occur in the future. Generally, but not always, forward-looking information and statements can be identified using words such as “plans”, “expects”, “is expected”, “budget”, “scheduled”, “estimates”, “forecasts”, “intends”, “anticipates”, or “believes” or the negative connotation thereof or variations of such words and phrases or state that certain actions, events, or results “may”, “could”, “would”, “might” or “will be taken”, “occur” or “be achieved” or the negative connotation thereof.
+
+Forward-looking information and statements are based on the then current expectations, beliefs, assumptions, estimates and forecasts about Hanstone’s business and the industry and markets in which it operates and will operate. Forward-looking information and statements are made based upon numerous assumptions, including among others, the results of planned exploration activities are as anticipated, the price of gold, the cost of planned exploration activities, that financing will be available if needed and on reasonable terms, that third party contractors, equipment, supplies and governmental and other approvals required to conduct Hanstone’s planned exploration activities will be available on reasonable terms and in a timely manner and that general business and economic conditions will not change in a material adverse manner. Although the assumptions made by the Company in providing forward-looking information or making forward-looking statements are considered reasonable by management at the time, there can be no assurance that such assumptions will prove to be accurate. 
+
+Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Copyright (c) 2024 TheNewswire - All rights reserved.
+
+### Project Name
+
+[Snip North Project](/?gid=660)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.025                       Bid: 0.02
+Bid Size: 354000                   Beta: -0.03745
+Year High: 0.055                  Market Cap: 1.29m
+PB Ratio: 6.39                   EPS: -0.02
+Average Volume (30 Day): 19.01k    Prev. Close: 0.025
+Ask: 0.025                        Ask Size: 197000
+Year Low: 0.02                   Total Shares: 51.69m
+Shares Out: 51.69m                 Escrow Shares: 7.59m
+Float: 31.41m                      Exchange: TSXV

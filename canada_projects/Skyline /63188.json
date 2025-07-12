@@ -1,0 +1,156 @@
+{
+  "article": {
+    "id": 63188,
+    "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61210666",
+    "title": "Investor Webinar - York Harbour Copper Project Acquisition",
+    "description": "",
+    "search_terms": "York Harbour,Firetail Resources Limited,FTL",
+    "master_gid": 1437,
+    "date": "2024-06-06T00:09:52.000Z",
+    "tags": "||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 4026,
+    "provider": "ASX",
+    "excerpt": "Firetail Resources Limited (ASX:FTL)",
+    "is_regulatory": false,
+    "refined_tags": null,
+    "ftp_filename": null,
+    "company_name": "Firetail Resources Limited",
+    "exchange": "ASX",
+    "root_ticker": "FTL",
+    "project_name": "Skyline ",
+    "gid": 1437,
+    "location": null,
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 1437,
+    "project_name": "Skyline ",
+    "location": null
+  },
+  "articleExchange": "ASX",
+  "articleCompanyId": 4026,
+  "articleTicker": "FTL",
+  "articleCompanyName": "Firetail Resources Limited",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 4026,
+      "gid": 8762,
+      "project_name": "Wandanya",
+      "location": null
+    },
+    {
+      "company_id": 4026,
+      "gid": 8763,
+      "project_name": "Disraeli",
+      "location": null
+    },
+    {
+      "company_id": 4026,
+      "gid": 7197,
+      "project_name": "Paterson",
+      "location": null
+    },
+    {
+      "company_id": 4026,
+      "gid": 8120,
+      "project_name": "Picha",
+      "location": null
+    },
+    {
+      "company_id": 4026,
+      "gid": 8121,
+      "project_name": "Dalgaranga",
+      "location": null
+    },
+    {
+      "company_id": 4026,
+      "gid": 8122,
+      "project_name": "Yalgoo",
+      "location": null
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": -207215,
+      "company_id": 4026,
+      "title": "Proposed issue of securities - FTL",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61271336",
+      "date": "2025-07-02T05:23:30.000Z",
+      "hidden": false
+    },
+    {
+      "id": -207218,
+      "company_id": 4026,
+      "title": "Letter to Shareholders - Notice of General Meeting",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61271333",
+      "date": "2025-07-02T05:21:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -207213,
+      "company_id": 4026,
+      "title": "Notice of General Meeting/Proxy Form",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61271328",
+      "date": "2025-07-02T05:19:20.000Z",
+      "hidden": false
+    },
+    {
+      "id": -206862,
+      "company_id": 4026,
+      "title": "Investor Presentation",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61270910",
+      "date": "2025-06-30T21:49:15.000Z",
+      "hidden": false
+    },
+    {
+      "id": 108424,
+      "company_id": 4026,
+      "title": "Prospecting Identifies Copper Target Covering 800m Strike",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61269022",
+      "date": "2025-06-17T22:31:17.000Z",
+      "hidden": false
+    },
+    {
+      "id": -202910,
+      "company_id": 4026,
+      "title": "Proposed issue of securities - FTL",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61266898",
+      "date": "2025-06-01T22:01:56.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106485,
+      "company_id": 4026,
+      "title": "Option Secured to Acquire Two High-Grade USA Gold Projects",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61266895",
+      "date": "2025-06-01T22:01:46.000Z",
+      "hidden": false
+    },
+    {
+      "id": -202448,
+      "company_id": 4026,
+      "title": "Trading Halt",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61266490",
+      "date": "2025-05-28T22:54:20.000Z",
+      "hidden": false
+    },
+    {
+      "id": 103936,
+      "company_id": 4026,
+      "title": "RIU Sydney Investor Presentation",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61263779",
+      "date": "2025-05-07T21:33:29.000Z",
+      "hidden": false
+    },
+    {
+      "id": 100868,
+      "company_id": 4026,
+      "title": "Quarterly Activities/Appendix 5B Cash Flow Report",
+      "link": "https://clients3.weblink.com.au/Clients/JuniorMining/headline.aspx?id=61261342",
+      "date": "2025-04-24T02:29:49.000Z",
+      "hidden": false
+    }
+  ]
+}

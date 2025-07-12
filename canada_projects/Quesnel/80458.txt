@@ -1,0 +1,63 @@
+--- Article Metadata ---
+Project Name: Quesnel
+Company Name: Carlyle Commodities Corp.
+Exchange: CSE
+Ticker: CCC
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.30.2024, 7:30:00 AM
+
+# Carlyle Issues Quesnel Property Option Shares and Acquires Quesnel Gold Property
+
+Vancouver, British Columbia--(Newsfile Corp. - November 29, 2024) - **CARLYLE COMMODITIES CORP. (CSE: CCC) (FSE: BJ4) (OTC Pink: CCCFF)** ("**Carlyle** " or the "**Company** ") announces that, further to its news release dated September 27, 2024, it has issued 2,000,000 common shares (each, a "**Share** ") at a deemed price of $0.05 per Share to Divitiae Resources Ltd. (the "**Optionor** "), pursuant to the Company's recently announced option to purchase an undivided 100% right, title and interest in certain mining claims (the "**Option** ") in the Quesnel Terrane in central British Columbia (the "**Quesnel Gold Project** "), subject to a 2% net smelter return royalty to be retained by the Optionor. Pursuant to the terms of the Option, Carlyle may, at any time, purchase 1% of the royalty on the Quesnel Gold Project from the Optionor for a cash payment in the aggregate amount of $1,000,000. The Company, having satisfied the terms of the Option, has acquired an undivided 100% right, title and interest in the Quesnel Gold Project.
+
+The Quesnel Gold Project is located in the Cariboo Mining Division, 30 kilometers northeast of Quesnel in Central British Columbia covering 1,607.34 hectares, proximal to main highways and power lines facilitating year-round access and workability. The Quesnel Gold Project is situated within the Quesnel Trough within a subdivision of the Intermountain Tectonic Belt, and on trend with the historic "G-South" historical gold resource. 
+
+All securities issued in connection with the Option will be subject to a statutory hold period expiring four months and one day after the date of issuance, as set out in National Instrument 45‐102 - Resale of Securities.
+
+**About Carlyle**
+
+Carlyle is a mineral exploration company focused on the acquisition, exploration, and development of mineral resource properties. Carlyle owns 100% of the Newton Project in the Clinton Mining Division of B.C. and is listed on the Canadian Securities Exchange under the symbol "CCC", on the OTC Market under the ticker "CCCFF", and the Frankfurt Exchange under the ticker "BJ4".
+
+**ON BEHALF OF THE BOARD OF DIRECTORS OF**
+
+**CARLYLE COMMODITIES CORP.**
+
+_"Morgan Good"_
+
+Morgan Good  
+Chief Executive Officer
+
+**For more information regarding this news release, please contact:**
+
+Morgan Good, CEO and Director
+
+T: 604-715-4751  
+E: [morgan@carlylecommodities.com](mailto:morgan@carlylecommodities.com)   
+W: [www.carlylecommodities.com](https://api.newsfilecorp.com/redirect/nVMypu3oz2)
+
+_Neither the CSE nor its Regulation Services Provider (as that term is defined in the policies of the CSE accepts responsibility for the adequacy or accuracy of this release)._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/231998](https://api.newsfilecorp.com/redirect/K8wNofrAVW)
+
+### Project Name
+
+[Quesnel Project](/?gid=9162)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.015                       Bid: 0.01
+Bid Size: 1459000                   Beta: 0.25693
+Year High: 0.045                  Market Cap: 1.37m
+PB Ratio: 0.54                   EPS: -0.10
+Average Volume (30 Day): 231.86k    Prev. Close: 0.015
+Ask: 0.015                        Ask Size: 169000
+Year Low: 0.01                   Total Shares: 91.18m
+Shares Out: 91.18m                 Float: 87.86m
+Exchange: CSE

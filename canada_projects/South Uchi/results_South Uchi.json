@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/South Uchi/80566.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Uchi",
+      "justification": "The article is titled \"Kenorland Options the South Uchi Project to Auranova Resources Inc.\" and the text states the agreement is for \"the South Uchi Project (the \"Project\"), located in the Red Lake District of Northwestern Ontario.\""
+    },
+    "company_name": {
+      "value": "Auranova Resources Inc.",
+      "justification": "The text identifies the acquiring company (buyer) as Auranova Resources Inc. in the sentence: \"Kenorland Minerals Ltd. ... has entered into a definitive agreement ... with Auranova Resources Inc. ('Auranova'), pursuant to which the Company has agreed to grant to Auranova the right to acquire up to a 70% interest in the South Uchi Project\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not name a specific CEO for the buyer, Auranova Resources Inc. It states: \"The company was founded and is controlled and managed by Tom Obradovich, Chris Taylor and Timothy Young.\""
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Auranova can acquire a total of 70% interest through two options. \"Auranova may acquire an initial 51% interest in the Project (the \"First Option\")\" and then \"acquire an additional 19% interest in the Project (the \"Second Option\"), for an aggregate 70% interest\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project's potential is described in terms of gold: \"...completion of a NI 43-101-compliant Preliminary Economic Assessment (\"PEA\") demonstrating at least 1,000,000 ounces of gold equivalent...\" and \"The majority of gold deposits in the Red Lake District...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/232004",
+      "justification": "The article is titled \"Kenorland Options the South Uchi Project to Auranova Resources Inc.\" and the content is entirely focused on this transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are specified in Canadian dollars, as indicated by the 'C$' prefix: \"Pay C$250,000 upon signing the Agreement.\""
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The total cash payment is the sum of two tranches: \"Pay C$250,000 upon signing the Agreement.\" and \"Pay an additional C$250,000 upon receiving the Drilling Permit\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A share payment is part of the deal (\"Issue to Kenorland common shares of Auranova representing a 19.9% equity interest.\"), but no specific monetary value is assigned to these shares in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides an explicit value for cash payments, so this combined field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies that shares will be issued to represent a percentage of equity, not a specific number of shares: \"Issue to Kenorland common shares of Auranova representing a 19.9% equity interest.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of payments for financial options or warrants in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price is provided for the buyer, as it is not publicly traded: \"Auranova Resources Inc. is an unlisted reporting issuer\"."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is stated as either drilling meters or a monetary value (\"Complete at least 15,000 metres of diamond drilling or incur C$8,000,000 in qualifying expenditures\"). The monetary value is used as it covers the full commitment across both options."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 18000000,
+      "justification": "The total exploration commitment is the sum of the commitments for the two options: C$8,000,000 for the first option and \"an additional C$10,000,000 in qualifying expenditures\" for the second option."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The text states that the seller, Kenorland, retains a royalty on the project: \"Kenorland holds a 2% net smelter return royalty on the Project\"."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the project's area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the project's area in units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is early-stage and lacks a defined resource: \"Prior to Kenorland staking the Project, records indicated little to no systematic exploration had been completed, and the land package remained under-explored.\" The mention of \"1,000,000 ounces of gold equivalent\" is a future target, not a current resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is not a publicly listed company and therefore has no ticker or exchange. The text states: \"Auranova Resources Inc. is an unlisted reporting issuer\"."
+    }
+  }
+}

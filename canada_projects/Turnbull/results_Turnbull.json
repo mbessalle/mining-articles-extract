@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Turnbull/89687.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Turnbull",
+      "justification": "The text states that Melkior will 'acquire a 100% interest in the Turnbull Property in the Timmins, Ontario'."
+    },
+    "company_name": {
+      "value": "Melkior Resources Inc.",
+      "justification": "The buyer is identified in the first sentence: 'Melkior Resources Inc. (“Melkior” or the “Company”) (TSXV: MKR) (OTC: MKRIF) is pleased to announce that has entered into an agreement...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The signatory for the company is 'Jim Deluce, Director', but no CEO is explicitly named in the document."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Melkior will acquire a 100% interest in the Turnbull Property in the Timmins, Ontario'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the agreement 'to acquire a gold exploration property in Timmins, Ontario' and refers to 'Turnbull Gold Prospect Highlights'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in '$' and the acquiring company, Melkior Resources Inc., is listed on the TSX Venture Exchange (TSXV), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 10000,
+      "justification": "The text states: 'Pursuant to the Agreement, Melkior Resources will pay cash of $10,000;...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is described by the number of shares issued and a price per share is available via the fallback rule, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment details are provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "The agreement terms state Melkior will pay '300,000 common shares of the Company (the “Shares”)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.14,
+      "justification": "The transaction terms mention 300,000 shares but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.14'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration expenditure commitment is mentioned as part of the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement includes terms to 'provide a 2% Net Smelter Royalty (“NSR”)' to the vendors."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The acquisition is described as 'adding an additional 76 mineral claims', but no area in hectares or square kilometers is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area is provided, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical grab sample results and assays (e.g., '59.2 gpt', '77.35 g/t gold'), but does not contain a formal mineral resource estimate with tonnage or total ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MKR",
+      "justification": "The buyer is identified as 'Melkior Resources Inc. (“Melkior” or the “Company”) (TSXV: MKR)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Noyell/54026.txt",
+    "canada_projects/Noyell/54037.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Noyell",
+      "justification": "The articles are titled 'Magna Terra Announces Receipt of Final Payment for Noyell Option Agreement' and 'Opus One Gold Corp Makes its Final Payment to Acquire a 100% Interest in the Noyell Gold Property'."
+    },
+    "company_name": {
+      "value": "Opus One Gold Corp",
+      "justification": "The text identifies the acquiring company: 'Opus One Gold Corp (TSX-V: OOR) (the “Company” or “Opus One”) is pleased to announce that it has made the final payment of $200 000 to Magna Terra Minerals, allowing it to acquire a 100% interest in Noyell gold property...'"
+    },
+    "ceo_buyer": {
+      "value": "Louis Morin",
+      "justification": "The CEO of the buyer, Opus One, is identified: 'Louis Morin, CEO of Opus One, commented: A very important step has been achieved by Opus One Gold Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the payment allows Opus One 'to acquire a 100% interest in Noyell gold property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the 'Noyell gold property' and 'Noyell Gold project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is listed as '$200,000'. The currency is inferred to be Canadian Dollars (CAD) as both companies involved (Opus One Gold Corp and Magna Terra Minerals Inc.) are Canadian and listed on the TSX Venture Exchange."
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The announcement is about a specific payment: 'Magna Terra has received the fifth and final anniversary option payment of $200,000, which completes Opus One's requirements to earn a 100% ownership interest in the Noyell Project'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text only mentions a cash payment; no share payments are described."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly defined as cash, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the described transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the completion of an option agreement, but the payment itself is specified as cash, not in the form of options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size of the Noyell project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size of the Noyell project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as being at an 'advanced definition drilling stage on Zone 1' but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:OOR",
+      "justification": "The buyer's ticker and exchange are explicitly stated: 'Opus One Gold Corp (TSX-V: OOR)'."
+    }
+  }
+}

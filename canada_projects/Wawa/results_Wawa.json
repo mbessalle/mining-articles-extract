@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Wawa/82192.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wawa",
+      "justification": "The authoritative project name is Wawa, which is confirmed in the text: 'Red Pine is pleased to announce additional assay results from its 2024 prospecting program on the Wawa Gold Project, Ontario.'"
+    },
+    "company_name": {
+      "value": "Red Pine Exploration Inc.",
+      "justification": "The acquiring company is identified in the text: 'TORONTO, Dec. 17, 2024 (GLOBE NEWSWIRE) -- Red Pine Exploration Inc. (TSXV: RPX, OTCQB: RDEXF) (“Red Pine” or the “Company”)'"
+    },
+    "ceo_buyer": {
+      "value": "Michael Michaud",
+      "justification": "The CEO of the acquiring company, Red Pine Exploration Inc., is named in the text: 'Michael Michaud, President and CEO of Red Pine, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is the acquisition of a specific mining claim, not a percentage interest in the overall project. The text states the company 'acquired a key patented mining and surface rights claim'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly identified as a gold project: 'Red Pine Exploration Inc. is a gold exploration company... The Wawa Gold Project is in the Michipicoten Greenstone Belt of Ontario...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the Wawa project, which is the correct project of interest. No URL was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial consideration for the acquisition of the mining claim, so no currency can be determined for the transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payment for the acquisition of the mining claim."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payment for the acquisition of the mining claim."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment for the acquisition of the mining claim."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the consideration for the mining claim acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the consideration for the mining claim acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the consideration for the mining claim acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The '25,000 m drill program' mentioned is a general corporate activity for the entire project and not a specific commitment made as consideration for the acquisition of the single mining claim."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment as part of the consideration for the mining claim acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3.8,
+      "justification": "The text specifies the size of the acquired claim: 'Red Pine is also pleased to announce that it has acquired a key patented mining and surface rights claim, measuring 3.8 hectares in size...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is explicitly stated: '...measuring 3.8 hectares in size...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article refers to a '2024 Mineral Resource Estimate' but does not provide any specific quantities (e.g., tonnes, ounces) for it."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RPX",
+      "justification": "The text identifies the buyer's ticker and exchange: 'Red Pine Exploration Inc. (TSXV: RPX, OTCQB: RDEXF)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Humber/66036.txt",
+    "canada_projects/Humber/76547.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Humber",
+      "justification": "The primary project of interest is stated as Humber, and the text confirms this: 'Magna Terra Acquires the Humber Copper-Cobalt Project in Western Newfoundland via Staking'."
+    },
+    "company_name": {
+      "value": "Magna Terra Minerals Inc.",
+      "justification": "The acquiring company is identified in the text: 'Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT) is pleased to announce that it has acquired via staking the Humber Copper-Cobalt Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Lewis Lawrick",
+      "justification": "The CEO of the acquiring company, Magna Terra Minerals Inc., is identified in the contact information section: 'Lewis Lawrick President and CEO, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Magna Terra has full ownership of the project: 'The Company is focused on exploring our 100%-owned Humber Copper-Cobalt Project in Newfoundland and Labrador...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is explicitly named for its primary commodities: 'Magna Terra Acquires the Humber Copper-Cobalt Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/891992/magna-terra-acquires-the-humber-copper-cobalt-project-in-western-newfoundland-via-staking",
+      "justification": "The article is titled 'Magna Terra Acquires the Humber Copper-Cobalt Project in Western Newfoundland via Staking', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a monetary transaction, so no currency is applicable. The text states it was a 'cost effective acquisition and no royalties or option payments'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a cash transaction. The text states it was a 'cost effective acquisition and no royalties or option payments'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a share-based transaction. The text states it was a 'cost effective acquisition and no royalties or option payments'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a combined cash and share transaction. The text states it was a 'cost effective acquisition and no royalties or option payments'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a share-based transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text explicitly states there were 'no... option payments' associated with the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a share-based transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the Humber project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the acquisition has 'no underlying royalties or option payments'."
+    },
+    "coverage_area_raw": {
+      "value": 40675,
+      "justification": "The second press release provides the updated total area after an expansion: 'The Humber Project... now comprises 1,627 claims in 12 mineral licences covering a total area of 40,675 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: '...covering a total area of 40,675 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an 'early-stage conceptual exploration project' and does not provide a specific mineral resource estimate for the Humber Project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MTT",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the press release: 'Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT)'."
+    }
+  }
+}

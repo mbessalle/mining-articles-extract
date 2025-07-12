@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lac Simard North/79601.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lac Simard North",
+      "justification": "The project name is provided by the authoritative metadata in the prompt."
+    },
+    "company_name": {
+      "value": "American Salars Lithium Inc.",
+      "justification": "The company name is provided by the authoritative metadata in the prompt."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "No information regarding the CEO of the buyer was found in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "No information regarding the interest acquired was found in the provided text."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "No information regarding the primary commodity was found in the provided text."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text consists only of navigation elements ('← Back Project Summary ← Back   Close') and does not contain any article content."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial information or currency was mentioned in the provided text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No information regarding cash payments was found in the provided text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share payments was found in the provided text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No information regarding combined cash and share payments was found in the provided text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No information regarding the amount of shares issued was found in the provided text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share warrant payments was found in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information regarding option payments was found in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No information regarding the issued share price was found in the provided text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information regarding an exploration commitment in meters was found in the provided text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information regarding an exploration commitment value was found in the provided text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No information regarding an NSR was found in the provided text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the coverage area was found in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the coverage area unit was found in the provided text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No information regarding the resource size was found in the provided text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:USLI",
+      "justification": "The ticker and exchange are provided by the authoritative metadata in the prompt."
+    }
+  }
+}

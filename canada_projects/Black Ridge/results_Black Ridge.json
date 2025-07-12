@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Black Ridge/44734.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Black Ridge",
+      "justification": "The article is titled: \"Maritime Resources Stakes Black Ridge Property with Outcrop Grades of 8.8 gpt Gold, 198.6 gpt Silver and 10.3% Copper\"."
+    },
+    "company_name": {
+      "value": "Maritime Resources Corp.",
+      "justification": "The press release is from \"Maritime Resources Corp. (TSXV: MAE) (OTC Pink: MRTMF) (\"Maritime\" or the \"Company\")\" which \"is pleased to report it has staked the Black Ridge volcanic massive sulphide (VMS) target\"."
+    },
+    "ceo_buyer": {
+      "value": "Garett Macdonald",
+      "justification": "The document is signed \"On Behalf of the Board: Garett Macdonald, MBA, P.Eng. President and CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is described as \"staking\" claims, which typically implies 100% interest, but no specific percentage of interest acquired is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The headline mentions multiple commodities: \"Outcrop Grades of 8.8 gpt Gold, 198.6 gpt Silver and 10.3% Copper\". Gold is listed first, and the company describes itself as a \"gold exploration and development company\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/188705",
+      "justification": "The article is about the staking of the Black Ridge property by Maritime Resources Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and no financial consideration or currency is mentioned in the press release."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and no share payment is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and no combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is the staking of claims and no shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that \"an exploration program... will be planned for Spring 2024\" but does not specify a monetary value for the commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 150,
+      "justification": "\"Newly staked claims cover 150 hectares of highly prospective VMS ground...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "\"Newly staked claims cover 150 hectares of highly prospective VMS ground...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical sample grades from outcrops (e.g., \"10.0 grams per tonne '(gpt)' gold\") but does not state a quantified mineral resource estimate with a total mass or volume. The property is described as being at an \"early stage of exploration\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MAE",
+      "justification": "The acquiring company is identified as \"Maritime Resources Corp. (TSXV: MAE) (OTC Pink: MRTMF)\"."
+    }
+  }
+}

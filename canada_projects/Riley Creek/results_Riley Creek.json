@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Riley Creek/78238.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Riley Creek",
+      "justification": "The Claims, known as the Riley Creek Project, are located on the west side of Graham Island, Haida Gwaii in the north coast region of British Columbia."
+    },
+    "company_name": {
+      "value": "Armory Mining Corp.",
+      "justification": "The Company is also pleased to announce it intends to change its name from \"Spey Resources Corp.\" to \"Armory Mining Corp.\", effective on or about November 19, 2024."
+    },
+    "ceo_buyer": {
+      "value": "Nader Vatanchi",
+      "justification": "FOR FURTHER INFORMATION CONTACT: Nader Vatanchi CEO, Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Spey Resources Corp. ... has entered into a share exchange agreement ... with Antimony Assets Inc. ... to acquire 100% of the issued and outstanding common shares of Antimony... Antimony is a privately held arm's length party that holds an interest in two mineral claims... known as the Riley Creek Project"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project surrounds four separate gold-antimony occurrences. The named showings are described as: NEEDLES: - Gold, silver, antimony showing; SOL (GUMBO ZONE): - Gold, silver antimony showing; COURTE: - Antimony, gold silver, lead, zinc showing; RUMPLESTILTSKIN: - Gold showing."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/940832/spey-resources-corp-enters-into-share-exchange-agreement-with-antimony-assets-and-announces-name-change",
+      "justification": "The article is titled 'Spey Resources Corp. Enters into Share Exchange Agreement with Antimony Assets and Announces Name Change' and details the acquisition of the Riley Creek Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Spey Resources Corp., is listed on the Canadian Securities Exchange (CSE) and the consideration shares are priced in dollars ('$0.0675 per share'), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a share exchange agreement. No cash payment is mentioned as part of the consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is defined by the number of shares and a price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is defined by the number of shares and a price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 4975000,
+      "justification": "...to acquire 100% of the issued and outstanding common shares of Antimony in consideration for an aggregate of 4,975,000 common shares of the Company..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.0675,
+      "justification": "...in consideration for an aggregate of 4,975,000 common shares of the Company at a deemed price of $0.0675 per share..."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or any other royalty is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 3550,
+      "justification": "Antimony is a privately held arm's length party that holds an interest in two mineral claims covering 3,550 hectares, located in Haida Gwaii, British Columbia (the 'Claims')."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "...two mineral claims covering 3,550 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate with mass or volume units (e.g., tonnes, ounces). It only provides historical, unverified assay results from chip samples and drill holes. The text explicitly states, 'All data in this news release is historical in nature and was not verified by Spey.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ARMY",
+      "justification": "The Company is also pleased to announce it intends to change its name from 'Spey Resources Corp.' to 'Armory Mining Corp.'... The trading symbol on the CSE will change to 'ARMY'."
+    }
+  }
+}

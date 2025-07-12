@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/East Spire/68770.txt",
+    "canada_projects/East Spire/68770_pdf.txt",
+    "canada_projects/East Spire/74461.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Spire and Horizon Projects",
+      "justification": "The transaction is for Terra Uranium to acquire an interest in ATHA's Spire and Horizon Projects. The text states: '...will allow T92 to potentially acquire up to 70% of ATHA’s Spire and Horizon Projects.'"
+    },
+    "company_name": {
+      "value": "Terra Uranium Limited",
+      "justification": "The text identifies Terra Uranium as the acquiring party: '...will allow T92 to potentially acquire up to 70% of ATHA’s Spire and Horizon Projects.' The company name is confirmed as 'Terra Uranium Limited ASX:T92'."
+    },
+    "ceo_buyer": {
+      "value": "Andrew Vigar",
+      "justification": "The announcement includes a comment from the buyer's representative: 'Terra Uranium Executive Chairman, Andrew Vigar commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement allows for the acquisition of a maximum of 70% interest. 'ATHA shall grant T92 the sole and exclusive right and option to acquire up to 70% interest of the Spire and Horizon Projects...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The projects are explicitly identified as uranium projects: '...give Terra Uranium the right (but not the obligation) to acquire up to 70% of ATHA’s Spire and Horizon Uranium Exploration Projects...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable URL for the source articles."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The exploration expenditures are denominated in Canadian dollars, indicated by 'C$'. '...in consideration for incurring a minimum of C$4,750,000 in statutory exploration expenditures...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option is entirely in the form of exploration expenditures, not cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option is entirely in the form of exploration expenditures, not share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration for the option is entirely in the form of exploration expenditures, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction terms for the Spire and Horizon option."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are being issued as payment as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 4750000,
+      "justification": "The total exploration commitment is the sum of five tranches (C$750,000 + C$1,000,000 + C$1,000,000 + C$1,000,000 + C$1,000,000). The text states: 'in consideration for incurring a minimum of C$4,750,000 in statutory exploration expenditures as set out below...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a pre-existing '5% carried interest in favour of a third party' but no NSR is being acquired or retained as part of the transaction between Terra Uranium and ATHA for the Spire and Horizon projects. An NSR is mentioned only in relation to the separate Pasfield Option."
+    },
+    "coverage_area_raw": {
+      "value": 60965,
+      "justification": "The total area for the combined projects is stated in the text: 'The Spire and Horizon Projects are comprised of 12 mineral claims totalling 60,965 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned: 'The Spire and Horizon Projects are comprised of 12 mineral claims totalling 60,965 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Spire and Horizon projects. It describes them as having 'a high concentration of shallow prospective exploration targets for discovery of uranium mineralization.' Historical resources are mentioned for other ATHA projects, not Spire or Horizon."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:T92",
+      "justification": "The buyer is Terra Uranium Limited, and its ticker and exchange are provided in the document: 'Terra Uranium Limited ASX:T92 (“Terra Uranium” or the “Company”)...'"
+    }
+  }
+}

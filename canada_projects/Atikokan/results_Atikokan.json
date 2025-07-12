@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Atikokan/39357.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atikokan",
+      "justification": "The article is titled \"New Energy Metals Announces Option Agreement for Atikokan Lithium Property...\" and refers to the acquisition of the \"Atikokan Lithium Property\"."
+    },
+    "company_name": {
+      "value": "New Energy Metals Corp.",
+      "justification": "The press release is from \"New Energy Metals Corp. (TSXV:ENRG) (OTC:NRGYF) (“New Energy” or the “Company “)\" which \"has entered into an option agreement (the \"Agreement\") dated July 28, 2023, to acquire a 100% interest in the highly prospective Atikokan Lithium Property\"."
+    },
+    "ceo_buyer": {
+      "value": "Rishi Kwatra",
+      "justification": "The document is signed off by \"Rishi Kwatra CEO & Director\" on behalf of New Energy Metals Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the Agreement, New Energy has the right to acquire a 100% interest in the Property..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The announcement is for the \"Atikokan Lithium Property\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, New Energy Metals Corp., is listed on the TSX Venture Exchange (TSXV:ENRG), which is a Canadian exchange. The cash payments are denoted with a '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 66000,
+      "justification": "Under the terms of the Agreement, New Energy has the right to acquire a 100% interest in the Property by making aggregate cash payments of $66,000 over a period of two years."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a share issuance for a different project: \"amended the terms of the Troitsa option agreement...will issue 900,000 shares\". No shares were issued for the Atikokan project agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is explicitly stated as cash payments only, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text mentions a share issuance for a different project: \"amended the terms of the Troitsa option agreement...will issue 900,000 shares\". No shares were issued for the Atikokan project agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the agreement terms for the Atikokan project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the consideration for the Atikokan project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the Atikokan option agreement, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the agreement terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The optionors will retain a 3% net smelter returns royalty."
+    },
+    "coverage_area_raw": {
+      "value": 3788,
+      "justification": "The Property consists of 4 mining claims comprising 3,788 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Property consists of 4 mining claims comprising 3,788 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document describes historical sampling results and anomalous values (e.g., 'Lithium ranged from 11 to 164 ppm'), but does not contain a quantified mineral resource estimate with tonnage."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ENRG",
+      "justification": "The buyer is identified as \"New Energy Metals Corp. (TSXV:ENRG)\"."
+    }
+  }
+}

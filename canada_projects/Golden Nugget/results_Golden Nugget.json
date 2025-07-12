@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Golden Nugget/37688.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Golden Nugget",
+      "justification": "The article is titled 'C2C Gold Acquires Golden Nugget Project' and refers to the property as the 'Golden Nugget Property'."
+    },
+    "company_name": {
+      "value": "C2C Gold Corp.",
+      "justification": "The acquiring company is identified as 'C2C Gold Corp. (CSE:CTOC) (the “Company” or “C2C”)' which 'announced today it has entered into an option agreement for 100% of the Golden Nugget Property'."
+    },
+    "ceo_buyer": {
+      "value": "Chris Huggins",
+      "justification": "The CEO of the buyer, C2C Gold Corp., is identified in the quote: 'Chris Huggins, Chief Executive Officer stated: “The Golden Nugget Project is an exciting property...'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'has entered into an option agreement for 100% of the Golden Nugget Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named 'Golden Nugget' and project highlights include multiple high-grade gold showings, such as '29.2 g/t gold over 2.5m' and '49.0 g/t gold over 0.3 m'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the Golden Nugget project, which is the project of interest, but no article URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$'. The acquiring company, C2C Gold Corp., is listed on the Canadian Securities Exchange (CSE) and the project is located in Newfoundland, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 330000,
+      "justification": "The agreement requires C2C to 'Pay to the Optionor an aggregate of $330,000 in cash payments', which is the sum of four staged payments: $50,000, $70,000, $90,000, and $120,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, this field is null because the transaction terms are broken down into the number of shares and a price per share can be determined, which is a higher priority."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, this field is null because the cash and share components of the deal are listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 9000000,
+      "justification": "The agreement requires 'Issuing and delivering to the Optionor an aggregate of 9,000,000 Shares', which is the sum of five staged issuances: 2,000,000, 1,000,000, 1,500,000, 2,000,000, and 2,500,000 shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrant payments as part of the agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the deal is an 'option agreement', there are no specific payments designated as 'option payments' separate from the cash and share considerations."
+    },
+    "issued_share_price": {
+      "value": 0.1,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.10'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The source text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The source text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 20,
+      "justification": "The text states, 'The Golden Nugget Property comprises 9 mineral licenses covering approximately 20 km2'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states, 'The Golden Nugget Property comprises 9 mineral licenses covering approximately 20 km2'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical exploration results and showings (e.g., '29.2 g/t gold over 2.5m'), but does not provide a formal, quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CTOC",
+      "justification": "The buyer is identified in the text as 'C2C Gold Corp. (CSE:CTOC)'."
+    }
+  }
+}

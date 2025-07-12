@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/PLS/30410.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "PLS",
+      "justification": "The article is titled 'Fission Announces Winter Program to Advance PLS' and refers to the project as the '100% owned PLS property'."
+    },
+    "company_name": {
+      "value": "Fission Uranium Corp.",
+      "justification": "The press release is from 'FISSION URANIUM CORP.' which it refers to as 'Fission' or 'the Company'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article describes a work program by the project owner, Fission Uranium Corp., not an acquisition. There is no buyer. Ross McElroy is the CEO of the project owner."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is not about an acquisition of interest. It confirms that the project is already '100% owned' by Fission Uranium Corp."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The company is Fission Uranium Corp. and the article discusses its 'PLS uranium project' and staking a 'New Uranium Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement, and describes no cash payments for an acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement, and describes no share payments for an acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement, and describes no combined payments for an acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement, and describes no issuance of shares for an acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of a transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of a transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article is a project update, not an M&A announcement, and describes no share issuance price for an acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The drilling mentioned (e.g., '5 drill holes (730m) on the R780E zone') is part of a planned work program by the owner, not an exploration commitment as part of an M&A transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention a monetary exploration commitment as part of an M&A transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention an NSR being acquired or retained as part of a transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions a size of '11,148-hectare', but this is for the newly staked 'West Cluff property', not the PLS project of interest."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is null because the only area mentioned was for a different project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the PLS project. It mentions 'over 62 million pounds of uranium produced' but this is for the separate, past-producing Cluff Lake mine."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article describes a work program by the project owner, Fission Uranium Corp., not an acquisition. There is no buyer."
+    }
+  }
+}

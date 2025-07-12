@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Quesnelle Gold Quartz Mine/82165.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Quesnelle Gold Quartz Mine",
+      "justification": "The text refers to the project as the 'Quesnelle Gold Quartz Mine Property (the “Project”)'. The staking is of claims contiguous to this property."
+    },
+    "company_name": {
+      "value": "Golden Cariboo Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Golden Cariboo Resources Ltd. (the “Company”) (CSE:GCC)...'"
+    },
+    "ceo_buyer": {
+      "value": "J. Frank Callaghan",
+      "justification": "The CEO of the acquiring company is identified in the signature block: 'J. Frank Callaghan, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims. While this typically implies 100% ownership, the text does not explicitly state a percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the 'Quesnelle Gold Quartz Mine' and is located in the 'Cariboo Gold District'. The text also refers to 'placer gold production' and 'orogenic gold systems'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is relevant to the Quesnelle Gold Quartz Mine project as it details the staking of contiguous claims, but no URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Golden Cariboo Resources Ltd., is listed on the Canadian Securities Exchange (CSE), and the detailed quote section uses a '$' symbol, implying Canadian Dollars. 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase from another entity, and no cash payment as consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no share payment as consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no issuance of shares as consideration is mentioned in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 90989,
+      "justification": "The press release announces the acquisition of new claims: '...announces today the staking of 90,989 ha (224,052 acres) of contiguous mineral claims to the Company’s Quesnelle Gold Quartz Mine Property...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the staked area is specified in the text: '...staking of 90,989 ha (224,052 acres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions resources for other projects ('4.7 Moz Spanish Mountain Deposit', '5.3 Moz Cariboo Gold Project') and drill intercepts for the project of interest ('1.77 g/t gold over 136.51 m'), but does not provide a formal mineral resource estimate for the Quesnelle Gold Quartz Mine project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GCC",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Golden Cariboo Resources Ltd. (the “Company”) (CSE:GCC)...'"
+    }
+  }
+}

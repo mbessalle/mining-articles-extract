@@ -1,0 +1,59 @@
+--- Article Metadata ---
+Project Name: Big Bulk
+Company Name: Dolly Varden Silver Corporation
+Exchange: TSXV
+Ticker: DV
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.10.2024, 9:29:00 AM
+
+# Dolly Varden Silver Announces Issuance of Common Shares for Acquisition of Big Bulk Property Option
+
+Vancouver, British Columbia--(Newsfile Corp. - January 9, 2024) - Dolly Varden Silver Corporation (TSXV: DV) (OTCQX: DOLLF) (the "**Company** " or "**Dolly Varden** ") is pleased to announce that, further to its news release dated December 20, 2023, it has completed the issuance of 275,000 common shares of the Company (the "**Consideration Shares** ") to Libero Copper & Gold Corporation ("**Libero** ") as consideration for the acquisition by Dolly Varden of an option agreement (the "**Option Agreement** ") from Libero entitling Dolly Varden to earn-in a 100% undivided interest in the property known to Libero as the Big Bulk Property, comprised of seven mineral claims in the Golden Triangle, British Columbia (the "**Acquisition** "). In connection with the issuance of the Consideration Shares to Libero, the Company has filed a prospectus supplement to its base shelf prospectus dated April 25, 2023 to qualify the distribution thereof.
+
+In connection with the Acquisition, Dolly Varden also entered into a further amending agreement to the Option Agreement clarifying that Dolly Varden may only elect to issue common shares of the Company to satisfy any option payments under the Option Agreement so long as the deemed price of the common shares at the time is equal to or greater than $0.64, as required by the rules of the TSXV. Whether Dolly Varden chooses to make such payments is cash or common shares is otherwise at the discretion of Dolly Varden.
+
+**About Dolly Varden Silver Corporation**
+
+Dolly Varden Silver Corporation is a mineral exploration company focused on advancing its 100% held Kitsault Valley Project (which combines the Dolly Varden Project and the Homestake Ridge Project) located in the Golden Triangle of British Columbia, Canada, 25kms by road to tide water. The 163 sq. km. project hosts the high-grade silver and gold resources of Dolly Varden and Homestake Ridge along with the past producing Dolly Varden and Torbrit silver mines. It is considered to be prospective for hosting further precious metal deposits, being on the same structural and stratigraphic belts that host numerous other, high-grade deposits, such as Eskay Creek and Brucejack. The Kitsault Valley Project also contains the Big Bulk property which is prospective for porphyry and skarn style copper and gold mineralization, similar to other such deposits in the region (Red Mountain, KSM, Red Chris).
+
+**Forward-Looking Statements**
+
+ _This news release contains statements that constitute "forward-looking statements." Such forward looking statements involve known and unknown risks, uncertainties and other factors that may cause the Company's actual results, performance or achievements, or developments to differ materially from the anticipated results, performance or achievements expressed or implied by such forward-looking statements. Forward looking statements are statements that are not historical facts and are generally, but not always, identified by the words "expects," "plans," "anticipates," "believes," "intends," "estimates," "projects," "potential" and similar expressions, or that events or conditions "will," "would," "may," "could" or "should" occur._
+
+_Forward-looking statements in this news release include, among others, the potential future issuances of common shares of the Company and other statements that are not historical facts. These forward-looking statements are based on management's current expectations and beliefs and assume, among other things, the receipt of final approval of the Acquisition from the TSXV, use of proceeds of the Acquisition, the adequacy of the Company's current financial position, the ability of the Company to successfully pursue its current development plans, that future sources of funding will be available to the Company on desirable and permitted terms, that relevant commodity prices will remain at levels that are economically viable for the Company and that the Company will receive relevant permits in a timely manner in order to enable its operations, but given the uncertainties, assumptions and risks, readers are cautioned not to place undue reliance on such forward-looking statements or information._
+
+_By their nature, forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause our actual results, performance or achievements, or other future events, to be materially different from any future results, performance or achievements expressed or implied by such forward-looking statements. Such factors and risks include, among others: the risk that the Company may not be able to complete the Acquisition due to failure to receive regulatory approval; the Company may require additional financing from time to time in order to continue its operations which may not be available when needed or on acceptable terms and conditions acceptable; compliance with extensive government regulation; domestic and foreign laws and regulations could adversely affect the Company's business and results of operations; and the stock markets have experienced volatility that often has been unrelated to the performance of companies and these fluctuations may adversely affect the price of the Company's securities, regardless of its operating performance. The risk factors identified herein are not intended to represent a complete list of factors that could affect the Company. For additional information on risks and uncertainties, see the Company's annual information form dated April 11, 2023 for the year ended December 31, 2022 and the Company's base-shelf prospectus dated April 25, 2023, both available on SEDAR+ at_[ _www.sedarplus.ca_](https://api.newsfilecorp.com/redirect/AMZ8JSMRR1) _._
+
+_The forward-looking information contained in this news release represents the expectations of the Company as of the date of this news release and, accordingly, is subject to change after such date. Readers should not place undue importance on forward-looking information and should not rely upon this information as of any other date. The Company undertakes no obligation to update these forward-looking statements in the event that management's beliefs, estimates or opinions, or other factors, should change._
+
+_Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release._
+
+_**For further information** : Shawn Khunkhun, CEO & Director, 1-604-609-5137, _[_www.dollyvardensilver.com_](https://api.newsfilecorp.com/redirect/ZAxE3TeVVL) _._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/193758](https://api.newsfilecorp.com/redirect/arxn5TYQQw)
+
+### Project Name
+
+[Big Bulk Project](/?gid=159)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 4.80            $  Chg: 0.11
+Open: 4.70            High: 4.85
+Bid: 4.55             Bid Size: 1000
+Beta: 1.59517            Year High: 5.84
+Market Cap: 382.17m      PB Ratio: 3.72
+EPS: -0.25             Average Volume (30 Day): 192.61k
+Volume: 68.08k          % Chg: 2.35%
+Prev. Close: 4.69     Low: 4.59
+Ask: 4.85             Ask Size: 1000
+VWAP: 4.72536            Year Low: 3.21
+Total Shares: 79.62m    Shares Out: 81.27m
+Float: 79.40m           Exchange: TSXV

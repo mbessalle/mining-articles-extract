@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Wabowden - Bucko Lake Mine/45412.txt",
+    "canada_projects/Wabowden - Bucko Lake Mine/80849.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wabowden - Bucko Lake Mine",
+      "justification": "The authoritative project name is 'Wabowden - Bucko Lake Mine'. The text confirms the components: 'Blackstone has executed an option agreement to acquire 100% of the Wabowden nickel sulphide project' and 'Includes the well-maintained Bucko mine and processing facility'."
+    },
+    "company_name": {
+      "value": "Blackstone Minerals Limited",
+      "justification": "The text identifies the buyer: 'Blackstone Minerals Limited (ASX: BSX) (\"Blackstone\" or the \"Company\") is pleased to announce it has entered into an option agreement with CaNickel Mining Limited (TSXV: CML) (\"CaNickel\") where Blackstone will have a 12-month period and exclusive right to acquire the Wabowden nickel project...'"
+    },
+    "ceo_buyer": {
+      "value": "Scott Williamson",
+      "justification": "Blackstone Minerals' Managing Director, Scott Williamson, commented:..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Blackstone has executed an option agreement to acquire 100% of the Wabowden nickel sulphide project located in the world-class Thompson Nickel Belt in Manitoba, Canada."
+    },
+    "primary_commodity": {
+      "value": "nickel",
+      "justification": "Blackstone has executed an option agreement to acquire 100% of the Wabowden nickel sulphide project..."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/189986",
+      "justification": "The article is titled 'Blackstone Secures Option to Acquire Major Nickel Asset' and details the option agreement for Blackstone Minerals to acquire the Wabowden project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are specified with a 'C$' prefix, indicating Canadian Dollars: 'Under the option agreement Blackstone has agreed to make a cash payment of C$1.1 million ('option payment').'"
+    },
+    "cash_payments_raw": {
+      "value": 70000000,
+      "justification": "The total cash consideration is the sum of all staged payments: C$20 million at closing, C$10 million after 18 months, C$15 million upon permitting, and C$25 million upon commercial production. 'Upon exercise of the option and satisfaction of associated closing conditions, Blackstone will acquire 100% of Wabowden by making up to four staged payments as outlined below: 1. Cash payment of C$20 million... 2. C$10 million cash to be paid 18 months following the closing date; 3. C$15 million in cash payable upon Wabowden achieving fully permitted status; and 4. C$25 million in cash payable upon Wabowden achieving commercial production.' The sum is 20,000,000 + 10,000,000 + 15,000,000 + 25,000,000 = 70,000,000."
+    },
+    "share_payments_raw": {
+      "value": 10000000,
+      "justification": "A payment in shares is specified as part of the first staged payment: '...Blackstone will acquire 100% of Wabowden by making up to four staged payments as outlined below: 1. Cash payment of C$20 million (less the option payment) and C$10 million in Blackstone shares upon closing...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payment components are specified separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not a fixed amount but is dependent on a future price: '...with the number of shares calculated based on 10 day volume-weighted average price (\"VWAP\") on exercise of the option and execution of the asset purchase agreement'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option to acquire an asset, but the consideration does not include payments in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not explicitly stated and will be determined by a future 10-day VWAP."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The document does not specify the land area of the project in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The document does not specify the land area of the project."
+    },
+    "resource_size": {
+      "value": "230Mt at 0.56% nickel for 1.3Mt of contained nickel",
+      "justification": "Large scale resource base of 230Mt at 0.56% nickel for 1.3Mt of contained nickel 1, with significant growth potential."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:BSX",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the text: 'Blackstone Minerals Limited (ASX: BSX) (\"Blackstone\" or the \"Company\") is pleased to announce it has entered into an option agreement...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/JB/36161.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "JB",
+      "justification": "The article is titled 'K9 Gold Closes Transaction and Adds 3300 Ha to the JB Lithium Project, N. Quebec.' and refers to the project as the 'JB lithium project' throughout."
+    },
+    "company_name": {
+      "value": "K9 Gold Corp.",
+      "justification": "The buying company is identified in the first sentence: 'K9 Gold Corp. (TSXV: KNC) (FSE: 5GP) (OTCQB:WDFCF) (\"K9\" or the \"Company\") is pleased to announce that further to its press released dated May 24, 2023, it has acquired 1415322 B.C. LTD.'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text lists a Director and a Chief Financial Officer, but does not name a CEO for the buyer, K9 Gold Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "K9 Gold acquired 141 BC, which holds an option to acquire a 100% interest in the property. '141 BC is a party to an option agreement (the \"Option Agreement\") whereby, pursuant to the terms of the Option Agreement, 141 BC may acquire a 100% interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the 'JB Lithium Project' in the title and body of the text: 'K9 Gold Closes Transaction and Adds 3300 Ha to the JB Lithium Project, N. Quebec.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168815",
+      "justification": "The article's content, as indicated by the title 'K9 Gold Closes Transaction and Adds 3300 Ha to the JB Lithium Project, N. Quebec.', is directly about the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, K9 Gold Corp., is listed on the TSX Venture Exchange, and payments are denoted with a '$' symbol, implying Canadian Dollars. 'The Company is listed on the TSX Venture Exchange.'"
+    },
+    "cash_payments_raw": {
+      "value": 1025000,
+      "justification": "The total cash consideration is the sum of a firm payment of $25,000 and a contingent payment of $1,000,000. 'Payment of $25,000 within 180 days of May 9, 2023' and 'pay to the Optionor a one-time payment of $1,000,000 in the event there is a National Instrument 43-101 - Standards of Disclosure for Mineral Projects compliant mineral resource on the Property valued over $100,000,000.'"
+    },
+    "share_payments_raw": {
+      "value": 550000,
+      "justification": "The total share consideration includes $105,000 for the acquisition of 141 BC ('issued 3,000,000 common shares... at a deemed value of $0.035 per Company Share') and up to $445,000 in optional share payments under the Option Agreement ('Payment of $80,000, or the issuance of $80,000 worth of Company Shares... Payment of $150,000... Payment of $215,000...')."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were identified, so this field is null as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because explicit raw values for cash and share payments were found, which takes precedence under the financial data extraction hierarchy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The term 'option agreement' refers to the right to acquire the property, not stock options as a form of payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because explicit raw values for cash and share payments were found, which takes precedence under the financial data extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions the option is subject to 'the completion of certain expenditures' but does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller (Optionor) retains a 2% NSR as part of the deal terms. 'Upon exercise of the Milestones, the Optionor will be granted a 2% net smelter royalty (the \"NSR\"), of which 1.5% of the NSR may be purchased by 141 BC for a cash payment of $2,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 3304,
+      "justification": "The transaction specifically adds 3304 Ha to the project. 'Pursuant to the Transaction, the Company added 64 claims (3304 Ha) to its JB lithium project in the James Bay region of northern Quebec.'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the acquired area is specified as Ha (hectares). 'Pursuant to the Transaction, the Company added 64 claims (3304 Ha) to its JB lithium project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the JB project. It mentions a future payment contingent on the establishment of a resource, which implies one does not currently exist: 'in the event there is a National Instrument 43-101 - Standards of Disclosure for Mineral Projects compliant mineral resource on the Property'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KNC",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'K9 Gold Corp. (TSXV: KNC)'."
+    }
+  }
+}

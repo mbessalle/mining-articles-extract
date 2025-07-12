@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Canary/46505.txt",
+    "canada_projects/Canary/68026.txt",
+    "canada_projects/Canary/68026_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Canary",
+      "justification": "The primary document is titled 'Standard Uranium Signs Definitive Agreement to Option Canary Project in Athabasca Basin'."
+    },
+    "company_name": {
+      "value": "Standard Uranium Ltd.",
+      "justification": "The press release is issued by 'Standard Uranium Ltd. (“Standard Uranium” or the “Company”) (TSX-V: STND) (OTCQB: STTDF) (Frankfurt: FWB:9SU)' which is the optionor of the project."
+    },
+    "ceo_buyer": {
+      "value": "Simon Andrew",
+      "justification": "The buyer is Mamba Exploration Limited. Their announcement includes a quote from their director: 'Simon Andrew, Executive Director of Mamba commented:'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement allows the buyer to earn a total interest of 75%: 'Pursuant to the Option Agreement, the Optionee has been granted an option (the “Option”) to earn a 75% interest over three years in the 7,302-hectare Canary Project located in the eastern Athabasca Basin.'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text repeatedly refers to uranium exploration: 'The Canary project has exceptional potential for a high-grade1 unconformity-related uranium discovery...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.globenewswire.com/news-release/2023/12/27/2799999/0/en/Standard-Uranium-Signs-Definitive-Agreement-to-Option-Canary-Project-in-Athabasca-Basin.html",
+      "justification": "The provided text is a press release titled 'Standard Uranium Signs Definitive Agreement to Option Canary Project in Athabasca Basin', which directly concerns the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are listed with a '$' symbol. The seller, Standard Uranium, is a Canadian company based in Vancouver, BC and listed on the TSX-V, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The total cash payment is the sum of payments over three years, as shown in the summary table: 'TOTAL | $300,000'."
+    },
+    "share_payments_raw": {
+      "value": 300000,
+      "justification": "The total value of share payments is the sum of payments over three years, as shown in the summary table: 'TOTAL | ... | $300,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the value of shares to be issued ('$200,000 worth of Optionee shares' and '$100,000 worth of Optionee shares') but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of stock options as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares issued was not specified, so a price per share cannot be determined from the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 6000000,
+      "justification": "The total exploration commitment is the sum of expenditures over three years, as shown in the summary table: 'TOTAL | ... | $6,000,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The seller retains an NSR as part of the deal terms: 'Following exercise of the Option, the Company [Standard Uranium] will retain a one-and-one-half percent net smelter returns (NSR) royalty on the Canary Project...'"
+    },
+    "coverage_area_raw": {
+      "value": 7302,
+      "justification": "The text states the project size is 7,302 hectares: '...earn a 75% interest over three years in the 7,302-hectare Canary Project...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit is specified in the text: '...in the 7,302-hectare Canary Project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as having 'exceptional potential for a high-grade1 unconformity-related uranium discovery' and being 'drill-ready with multiple overlapping geophysical anomalies', indicating it is an exploration-stage project with no defined mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:M24",
+      "justification": "The buyer is Mamba Exploration Limited, which is 'listed on the Australian Securities Exchange'. An announcement from Mamba Exploration includes the ticker 'ASX:M24'."
+    }
+  }
+}

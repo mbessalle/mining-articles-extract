@@ -1,0 +1,55 @@
+--- Article Metadata ---
+Project Name: Loveland 
+Company Name: STLLR Gold Inc.
+Exchange: TSX
+Ticker: STLR
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.28.2025, 5:00:00 AM
+
+# STLLR Gold Announces Proposed Sale of its Non-Core Loveland Nickel Property to Loyalist Exploration
+
+Toronto, Ontario--(Newsfile Corp. - February 27, 2025) - **STLLR Gold Inc.** **(TSX: STLR) (OTCQX: STLRF) (FSE: O9D) ("STLLR" or the "Company** ") is pleased to announce it has entered into a binding letter of intent with **Loyalist Exploration Limited** **(CSE: PNGC)**("**Loyalist** ") to sell its interest in the Loveland Nickel Property (the "**Transaction** "), located approximately 45 kilometres ("**km** ") northwest of Timmins, Ontario, Canada. 
+
+The Transaction is part of the Company's ongoing efforts to streamline its core business of focusing on advancing its Tower and Colomac Gold Projects and evaluating its Hollinger Tailings Project. The letter of intent requires the parties to enter a definitive agreement on or before March 31, 2025 that will provide that STLLR receives for the Transaction: i) C$250,000 in an upfront cash payment, ii) 7,000,000 in Loyalist common shares, and iii) a 2.0% net smelter royalty granting Loyalist a 1.0% buyback option for C$1,000,000 (subject to CPI adjustments). 
+
+**About STLLR Gold**
+
+STLLR Gold Inc. (TSX: STLR) (OTCQX: STLRF) (FSE: O9D) is a Canadian gold development company actively advancing two cornerstone gold projects in Canada: The Tower Gold Project in the Timmins Mining Camp in Ontario and the Colomac Gold Project located north of Yellowknife, Northwest Territories. Each of these two projects has the potential for a long-life and large-scale operation and are surrounded by exploration land with favourable upside potential. STLLR's experienced management team, with a track record of successfully advancing projects and operating mines, is working towards rapidly advancing these projects.
+
+**Contact Us**
+
+STLLR Gold Investor Relations
+
++1 (416) 863-2105 | [investors@stllrgold.com](mailto:investors@stllrgold.com) | [www.STLLRgold.com](https://api.newsfilecorp.com/redirect/YYp3OckKJy)
+
+_**Forward-Looking Information**_
+
+ _This news release contains "forward-looking information" within the meaning of applicable Canadian securities legislation. Forward-looking information includes, but is not limited to the completion of a definitive agreement for the Transaction and completion thereof. Generally, forward-looking information can be identified by the use of forward-looking terminology such as "accelerate", "add" or "additional", "advancing", "anticipates" or "does not anticipate", "appears", "believes", "can be", "conceptual", "confidence", "continue", "convert" or "conversion", "deliver", "demonstrating", "estimates", "encouraging", "expand" or "expanding" or "expansion", "expect" or "expectations", "fast-track", "forecasts", "forward", "goal", "improves", "increase", "intends", "justification", "leading", "plans", "potential" or "potentially", "pro-forma", "promise", "prospective", "prioritize", "reflects", "re-rating", "robust", "scheduled", "stronger", "suggesting" or "suggests", "support", "updating", "upside", "will be" or "will consider", "work towards", or variations of such words and phrases or state that certain actions, events or results "may", "could", "would", "might", or "will be taken", "occur", or "be achieved"._
+
+_Forward-looking information is based on the opinions and estimates of management at the date the information is made, and is based on a number of assumptions and is subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of STLLR to be materially different from those expressed or implied by such forward-looking information, including risks associated with required regulatory approvals, the exploration, development and mining such as economic factors as they effect exploration, future commodity prices, changes in foreign exchange and interest rates, actual results of current exploration activities, government regulation, political or economic developments, the ongoing wars and their effect on supply chains, environmental risks, pandemic risks, permitting timelines, capex, operating or technical difficulties in connection with development activities, employee relations, the speculative nature of gold exploration and development, including the risks of diminishing quantities of grades of reserves, contests over title to properties, and changes in project parameters as plans continue to be refined as well as those risk factors discussed in the Company's Annual Information Form for the year ended December 31, 2023, available on_[ _www.sedarplus.ca_](https://api.newsfilecorp.com/redirect/0VO3LhbYmj) _. Although STLLR has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such information will prove to be accurate, as actual results and future events could differ materially from those anticipated in such information. Accordingly, readers should not place undue reliance on forward-looking information. STLLR does not undertake to update any forward-looking information, except in accordance with applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/242699](https://api.newsfilecorp.com/redirect/R75pQiqvJY)
+
+### Project Name
+
+[Loveland Project](/?gid=1605)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.85                       Bid: 0.82
+Bid Size: 500                   Beta: 0.42096
+Year High: 1.50                  Market Cap: 105.35m
+PB Ratio: 941.19                   EPS: -0.24
+Average Volume (30 Day): 112.95k    Volume: 72.42k
+Prev. Close: 0.85                Ask: 0.85
+Ask Size: 500                   VWAP: 0.8314
+Year Low: 0.705                   Total Shares: 123.94m
+Shares Out: 123.94m                 Float: 95.90m
+Exchange: TSX

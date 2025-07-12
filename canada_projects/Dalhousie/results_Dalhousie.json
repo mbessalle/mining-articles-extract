@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Dalhousie/36120.txt",
+    "canada_projects/Dalhousie/38315.txt",
+    "canada_projects/Dalhousie/38687.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dalhousie",
+      "justification": "The articles consistently refer to the project being acquired as the 'Dalhousie Project'. For example: '...to acquire a 100% interest in the Dalhousie Project (the \"Property\")...'"
+    },
+    "company_name": {
+      "value": "Infinico Metals Corp.",
+      "justification": "The authoritative metadata provided in the prompt specifies the company name as 'Infinico Metals Corp.'. The articles refer to the acquirer as 'Burin Gold Corp.', but other metadata in the document under 'Other Company News' links 'Infinico Metals Corp.' and the ticker 'INFM' to the project, suggesting a name change occurred after the transaction."
+    },
+    "ceo_buyer": {
+      "value": "Tom Panoulias",
+      "justification": "The contact person for the buyer, Burin Gold Corp., is listed as 'Tom Panoulias Interim CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Burin Gold signed an agreement 'to acquire a 100% interest in the Dalhousie Project'."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is described as a 'Ni-Cu-Co prospect' and the company as an 'emerging Canadian nickel-copper-cobalt explorer'. Nickel is the first commodity listed."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168550",
+      "justification": "The article at this link, titled 'Burin Gold Acquires a Ni-Cu-Co Project in Quebec...', directly details the acquisition of the Dalhousie Project, which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves two Canadian companies (Burin Gold on TSXV, Globex on TSX) for a project in Quebec, Canada, and uses the '$' symbol. This context strongly implies the currency is Canadian Dollars (CAD). For example: 'Under the terms of the agreement, Burin shall pay $1,500,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 1500000,
+      "justification": "The total cash payment is stated as $1,500,000, composed of several tranches detailed in a table: 'On Signing $100,000, First Anniversary $100,000, Second Anniversary $300,000, Third Anniversary $500,000, Fourth Anniversary $500,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms explicitly separate cash and share components, so this field, which is for share value, is not applicable."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms explicitly separate cash and share components, so a combined value field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The text states Burin will 'issue 4,000,000 common shares in the capital of the Company (\"Shares\") to Globex'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.005,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.005'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "The agreement requires Burin to 'undertake $5,000,000 in exploration over a four-year period to earn 100 % interest in the property.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The seller, Globex, retains a royalty as part of the deal: 'Globex shall retain a 3% gross metal royalty on all payable metals subject to a 1% buyback for $1,000,000, payable anytime.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The property is described by the number of claims (31 or 32), but no specific area in units like hectares or square kilometers is mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The property is described by the number of claims (31 or 32), but no specific area in units like hectares or square kilometers is mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical chip channel samples and mentions exploration potential, but does not contain a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:INFM",
+      "justification": "The authoritative metadata provided in the prompt specifies the ticker as 'INFM' and exchange as 'TSXV' for the company 'Infinico Metals Corp.'. While the transaction was conducted by 'Burin Gold Corp. (TSXV: BURG)', subsequent information in the documents suggests a name change to Infinico Metals Corp., making the authoritative ticker the most current identifier for the buyer entity."
+    }
+  }
+}

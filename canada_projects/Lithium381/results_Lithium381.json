@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lithium381/28585.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium381",
+      "justification": "The article is titled: \"Clarity Gold Enters Option to Acquire a 50% Interest in the Lithium381 Property\"."
+    },
+    "company_name": {
+      "value": "Clarity Metals Corp.",
+      "justification": "The acquiring company is identified as \"Clarity Gold Corp. (“Clarity” or the “Company”) (CSE: CLAR, OTC: CLGCF, FSE: 27G)\". The name Clarity Metals Corp. is used as per the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": "James Rogers",
+      "justification": "The press release is signed off by \"“James Rogers” Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The company has entered into an option agreement \"to earn an undivided 50% right, title, ownership and beneficial interest in and to 21 mineral claims...\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The press release states: \"This Option Agreement marks Clarity’s step towards diversifying its mineral portfolio into the exciting lithium space\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a URL to the original article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Clarity Gold Corp., is based in Vancouver, British Columbia, and is listed on the Canadian Securities Exchange (CSE), implying the use of Canadian Dollars (CAD) for the '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No direct cash payments for the property are mentioned. A $25,000 deposit is mentioned, but it is explicitly included as part of the exploration commitment: \"incur an aggregate of $750,000 in exploration expenditures on or before December 31, 2024, inclusive of the deposit of $25,000 provided by the Company to the Optionor...\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is structured as an issuance of a number of shares and an exploration commitment, which is captured under `amount_of_shares_issued` and `exploration_commitment_value_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration components (shares and exploration commitment) are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 720000,
+      "justification": "Under the Option Agreement, Clarity must \"issue an aggregate of 720,000 common shares of the Company (the “Shares”)...\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The warrants mentioned in the text are part of a separate non-brokered private placement for general corporate purposes, not as consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The stock options mentioned are part of an \"Equity Compensation Grant\" to employees, directors, and officers, not as consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the issuance of 720,000 shares but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement includes a monetary exploration commitment, not a commitment for a specific number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 750000,
+      "justification": "To maintain the option, the Company must \"incur an aggregate of $750,000 in exploration expenditures on or before December 31, 2024...\"."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1107,
+      "justification": "The property consists of \"21 mineral claims covering approximately 1107 hectares (the “Property”)\"."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The size of the property is described as a \"1107 ha land position\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states the property has not been explored for the target commodity: \"The Property has not previously been explored for lithium bearing pegmatites\". The resource mentioned in the text (40.3 Mt) belongs to the adjacent Allkem Limited's James Bay Lithium project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CMET",
+      "justification": "The buyer, Clarity Gold Corp., is listed on the Canadian Securities Exchange (CSE) as stated: '(CSE: CLAR...)'. The ticker 'CMET' is used based on the authoritative metadata provided."
+    }
+  }
+}

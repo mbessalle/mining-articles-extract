@@ -1,0 +1,77 @@
+--- Article Metadata ---
+Project Name: Berrigan Mine
+Company Name: TomaGold Corporation
+Exchange: TSXV
+Ticker: LOT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.24.2024, 8:40:00 AM
+
+# TomaGold Announces Shares for Debt Transaction, Closing of First Tranche of Private Placement and Amendments to Terms of Acquisitions
+
+MONTREAL--([BUSINESS WIRE](https://www.businesswire.com/))--**TOMAGOLD CORPORATION (TSXV: LOT)** (“**TomaGold** ” or the “**Corporation** ”) announces the following corporate update. 
+
+**Shares for Debt Transaction**
+
+The Corporation is pleased to announce that, further to its previous press release dated December 6, 2024, the Corporation has settled a total of $541,380.94 of its outstanding debt by issuing to the creditors thereof an aggregate of 27,069,047 common shares in the capital of the Corporation at a deemed price of $0.02 per share (the “**Debt Settlement** ”). All securities issued pursuant to the Debt Settlement were issued to arm’s length parties to the Corporation and are subject to a four month and one day hold period from their issuance date until April 24, 2025. 
+
+**Closing of the First Tranche of the Private Placement**
+
+The Corporation is also pleased to announce that it has closed a first tranche (the “**First Tranche** ”) of its previously announced non-brokered private placement (the “**Private Placement** ”). Pursuant to the closing of the First Tranche, the Corporation has issued 10,600,000 common shares on a “flow-through” basis (“**FT Shares** ”) at a price of $0.025 per FT Share for gross proceeds of $265,000. 
+
+The Corporation plans to complete a second tranche of the Private Placement of up to 9,400,000 FT Shares at a price of $0.025 and up to 25 million common shares at a price of $0.02, for aggregate gross proceeds of up to $735,000 on or before December 31, 2024. 
+
+In connection with the First Tranche of the Private Placement, the Corporation paid finder’s fees to eligible finders, consisting of $17,500 in cash and 700,000 common share purchase warrants (the “**Finder’s Warrants** ”). Each Finder’s Warrant is exercisable to acquire one common share of the Corporation at an exercise price of $0.05 per common share for a period of 24 months. 
+
+All securities issued in connection with the First Tranche of the Private Placement will be subject to a statutory hold period of 4 months and a day from their issuance. 
+
+Closing of the Private Placement and the Debt Settlement remain subject to final approval of the TSX Venture Exchange. 
+
+**Amending Agreements**
+
+TomaGold has entered into respective amending agreements with Chibougamau Independent Mines Inc. (“**Chibougamau** ”) and Globex Mining Enterprises Inc. (“**Globex** ”) to amend its previously announced option agreements (the “**Option Agreements** ”) by extending the cash payments and expenditures due in September 2024 to June 30, 2025 or such other date as agreed by the parties. TomaGold has also entered into an amending agreement with SOQUEM Inc. (“**SOQUEM** ”) to extend exploration expenditures due for December 15, 2024 to April 30, 2025. 
+
+The initial transactions with Chibougamau, Globex and SOQUEM were announced in press releases dated August 14, 2023, September 13, 2023, September 18, 2023 and February 8, 2024. 
+
+This press release does not constitute an offer to sell or a solicitation of an offer to buy any of the securities in the United States. The securities have not been and will not be registered under the United States Securities Act of 1933, as amended (the “**U.S. Securities Act** ”), or any state securities laws and may not be offered or sold within the United States or to or for the account or benefit of a U.S. person (as defined in Regulation S under the U.S. Securities Act) unless registered under the U.S. Securities Act and applicable state securities laws or pursuant to an exemption from such registration requirements. 
+
+**About TomaGold**
+
+TomaGold Corporation (TSXV: LOT) is a Canadian mineral exploration company engaged in the acquisition, assessment, exploration and development of gold, copper, rare earth elements and lithium projects. 
+
+**_Cautionary Statement on Forward-Looking Information_**
+
+_This news release includes certain statements that may be deemed “forward-looking statements”. All statements in this news release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words “expects”, “plans”, “anticipates”, “believes”, “intends”, “estimates”, “projects”, “potential” and similar expressions, or that events or conditions “will”, “would”, “may”, “could” or “should” occur. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward-looking statements. Factors that could cause the actual results to differ materially from those in forward-looking statements include ability to complete the private placement, market prices, continued availability of capital and financing, and general economic, market or business conditions. Investors are cautioned that any such statements are not guarantees of future performance and actual results or developments may differ materially from those projected in the forward-looking statements. Forward-looking statements are based on the beliefs, estimates and opinions of the Company's management on the date the statements are made. Except as required by applicable securities laws, the Company undertakes no obligation to update these forward-looking statements in the event that management’s beliefs, estimates, opinions, or other factors should change._
+
+_Neither TSX Venture Exchange nor its Regulations Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release._
+
+## Contacts
+
+David Grondin   
+President and Chief Executive Officer   
+(514) 583-3490   
+[www.tomagoldcorp.com](https://cts.businesswire.com/ct/CT?id=smartlink&url=http%3A%2F%2Fwww.tomagoldcorp.com&esheet=54170662&newsitemid=20241223641072&lan=en-US&anchor=www.tomagoldcorp.com&index=1&md5=260559bda433d67c865f73509997109f)
+
+### Project Name
+
+[Berrigan Mine Project](/?gid=1738)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02          Open: 0.02
+High: 0.02          Bid: 0.015
+Bid Size: 1538000      Beta: 1.08942
+Year High: 0.04     Market Cap: 4.80m
+PB Ratio: -5.57      Average Volume (30 Day): 153.56k
+Volume: 191.00k        Prev. Close: 0.02
+Low: 0.02           Ask: 0.02
+Ask Size: 1000      VWAP: 0.02
+Year Low: 0.015      Total Shares: 239.75m
+Shares Out: 239.75m    Float: 200.48m
+Exchange: TSXV

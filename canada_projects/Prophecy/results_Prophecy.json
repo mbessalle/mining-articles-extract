@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Prophecy/91978.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Prophecy",
+      "justification": "The authoritative project name is Prophecy, which is confirmed in the text: \"Quantum Critical Metals Corp. (TSX.V: LEAP) ... is pleased to announce staking of the Prophecy Germanium-Gallium-Zinc Project...\""
+    },
+    "company_name": {
+      "value": "Quantum Critical Metals Corp.",
+      "justification": "The acquiring company is identified in the first paragraph: \"Quantum Critical Metals Corp. (TSX.V: LEAP) (OTCQB: ATOXF) (Frankfurt: 86A1) (“Quantum” or the “Company”) is pleased to announce staking of the Prophecy Germanium-Gallium-Zinc Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Marcy Kiesman",
+      "justification": "The CEO of the acquiring company is named in the text: \"Marcy Kiesman, CEO of Quantum Critical Metals, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the project through staking: \"The 100% owned Prophecy Project spans 4,349 hectares...\""
+    },
+    "primary_commodity": {
+      "value": "Germanium",
+      "justification": "The project is explicitly named for multiple commodities, with Germanium listed first: \"...staking of the Prophecy Germanium-Gallium-Zinc Project...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Prophecy, but no specific URL is provided in the source text to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Quantum Critical Metals Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the detailed quote uses a \"$\" symbol. The exchange is confirmed in the quote section: \"Exchange: TSXV\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a \"staking\" of the property, not a purchase from another entity, and no cash consideration was mentioned. The text states: \"Quantum Critical Metals Corp. ... is pleased to announce staking of the Prophecy Germanium-Gallium-Zinc Project...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a staking. No share consideration was mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was a staking. No combined cash and share consideration was mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was a staking. No shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the project staking."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The company states it \"will advance systematic exploration\" but does not commit to a specific monetary value for the Prophecy project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4349,
+      "justification": "The size of the project is stated in the text: \"The 100% owned Prophecy Project spans 4,349 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is specified: \"The 100% owned Prophecy Project spans 4,349 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Prophecy project. A resource is mentioned for an adjacent, different project: \"the historic Robb Lake Deposit with a reported resource of 6.5 million tonnes at 7.11% combined lead and zinc.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LEAP",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: \"Quantum Critical Metals Corp. (TSX.V: LEAP) (OTCQB: ATOXF) (Frankfurt: 86A1)...\" and confirmed in the detailed quote section: \"Exchange: TSXV\"."
+    }
+  }
+}

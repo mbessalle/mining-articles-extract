@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/McKenzie/84441.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McKenzie",
+      "justification": "The article is titled 'Puma Exploration Closes Agreements for McKenzie Gold Project' and the authoritative metadata confirms the project name is 'McKenzie'."
+    },
+    "company_name": {
+      "value": "Puma Exploration Inc.",
+      "justification": "The first sentence of the article identifies the company: 'Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF) (the “Company” or “Puma”) is pleased to announce that it completed its transactions...'"
+    },
+    "ceo_buyer": {
+      "value": "Marcel Robillard",
+      "justification": "The contact section at the end of the article lists 'Marcel Robillard, President and CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Under 'TRANSACTION DETAILS', the text states: 'To secure an initial 70% interest in the McKenzie Gold Project, Puma...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'McKenzie Gold Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the McKenzie project, which matches the project of interest. However, a verifiable URL for the article itself is not present in the document text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Puma Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The cash payment is denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The transaction details include: 'Made a cash payment of $20,000 to NB Gold;'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of a specific number of shares at a price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are detailed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2650000,
+      "justification": "The total number of shares is the sum of three issuances mentioned in the transaction details: 'Issued the remaining 200,000 shares to NB Gold to complete the TIMM Property Option;', 'Issued 2,000,000 shares to NB Gold; and', 'Issued 450,000 shares to Comet Lithium.' (200,000 + 2,000,000 + 450,000 = 2,650,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the payment consideration."
+    },
+    "issued_share_price": {
+      "value": 0.075,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.075'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The agreement states: 'NB Gold’s 30% interest will be free-carried until Puma incurs $2,000,000 in exploration expenditures.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Comet Lithium, retained a royalty as part of the transaction terms: 'Comet Lithium retains a 2% net smelter return royalty (“NSR”) on production from each of the Northwest Property (7298-7734) and the Grog Property (7211-8167-7683-9131-9132-9133).'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the McKenzie Gold Project in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the McKenzie Gold Project in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'several high-grade gold occurrences' but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PUMA",
+      "justification": "The first paragraph identifies the buyer as 'Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF)'."
+    }
+  }
+}

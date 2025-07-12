@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Nut Lake/47530.txt",
+    "canada_projects/Nut Lake/54383.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nut Lake",
+      "justification": "Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3), is pleased to announce it has entered into an Option Agreement (the “Agreement”) with three optionors (the “Optionors”) to acquire a 100% interest (the \"Acquisition\") in the Nut Lake Uranium Project (the “Nut Lake Property” or the “Project”)..."
+    },
+    "company_name": {
+      "value": "Greenridge Exploration Inc.",
+      "justification": "Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3), is pleased to announce it has entered into an Option Agreement..."
+    },
+    "ceo_buyer": {
+      "value": "Russell Starr",
+      "justification": "Russell Starr, Chief Executive Officer of the Company, commented, “The Nut Lake Project is a highly prospective project and a major step forward for the Company's development."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "On January 17, 2024, the Company entered into the Agreement to acquire an option from the Optionors to earn a hundred percent (100%) interest in the Project..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Greenridge Exploration Announces Option Agreement to Acquire the Nut Lake Uranium Project with High Grade Historical Drilling"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The Company engaged the Optionees to assist the Company in staking the additional 1,818ha of Claims, subject to the cost of staking (CAD $4,455.00) and the granting of a 2.0% net smelter returns royalty to the Optionees."
+    },
+    "cash_payments_raw": {
+      "value": 44455,
+      "justification": "The total cash payment is $44,455, comprising an aggregate of $40,000 from the option agreement ('paying the Optionors an aggregate of $40,000 in cash') and an additional CAD $4,455 for staking costs ('subject to the cost of staking (CAD $4,455.00)')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with separate cash and share components, so this field is null per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is structured with separate cash and share components, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "issuing to the Optionors an aggregate of 3,500,000 common shares (“Shares”)..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction payments."
+    },
+    "issued_share_price": {
+      "value": 0.465,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.465'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The Optionors will retain a 2% net smelter returns royalty on the Nut Lake Property. A second article confirms a 2% NSR on newly staked claims: 'the granting of a 2.0% net smelter returns royalty to the Optionees.'"
+    },
+    "coverage_area_raw": {
+      "value": 5854,
+      "justification": "The new Claims cover an area of ~1,818 ha (18km2) making the Nut Lake Project (the “Project”) now a total of ~5,854 ha (59km2)."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The new Claims cover an area of ~1,818 ha (18km2) making the Nut Lake Project (the “Project”) now a total of ~5,854 ha (59km2)."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drill intercepts and sample grades (e.g., '9ft of 0.69% U3O8', 'samples of up to 10.4% U3O8') but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces) for the Nut Lake project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GXP",
+      "justification": "Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3), is pleased to announce it has entered into an Option Agreement..."
+    }
+  }
+}

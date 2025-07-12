@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Taylor Brook/40192.txt",
+    "canada_projects/Taylor Brook/68961.txt",
+    "canada_projects/Taylor Brook/71465.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Taylor Brook",
+      "justification": "The documents consistently refer to the project by this name, for example: \"Churchill Announces Acquisition of 100% Interest in Taylor Brook Properties\" and \"Churchill Substantially Increases Taylor Brook Nickel Project\"."
+    },
+    "company_name": {
+      "value": "Churchill Resources Inc.",
+      "justification": "The acquiring company is identified in all documents as: \"Churchill Resources Inc. (“Churchill” or the “Company”)\"."
+    },
+    "ceo_buyer": {
+      "value": "Paul Sobie",
+      "justification": "The CEO of the acquiring company, Churchill Resources Inc., is identified as \"Paul Sobie, Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The first announcement states the company's action: \"exercised two existing options to acquire a 100% interest in certain mineral properties\"."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is repeatedly referred to as a nickel project, for instance in the headline: \"Churchill Substantially Increases Taylor Brook Nickel Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": null
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Churchill Resources Inc., is listed on the TSX Venture Exchange (TSXV), which implies the currency is Canadian Dollars (CAD), as seen in \"(TSXV: CRI)\"."
+    },
+    "cash_payments_raw": {
+      "value": 235000,
+      "justification": "The total cash payment is $235,000, aggregated from two separate agreements. The first involved payments totaling $145,000 ('paid $72,500 to Russell... and paid $72,500 to Hicks'). The second involves payments totaling $90,000 ('On execution of the agreement Churchill paid $15,000... Subsequent option payments... include... payment of $25,000... and... payment of $50,000')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, not a total dollar value for the share component of the payment. Therefore, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, not a single combined value for the transactions."
+    },
+    "amount_of_shares_issued": {
+      "value": 897544,
+      "justification": "The total number of shares is 897,544, aggregated from two agreements. The first involved issuing 547,544 shares ('an aggregate of 358,772 common shares... to Russell, and an aggregate of 188,772 Common Shares... to Hicks'). The second involves issuing 350,000 shares ('issue 50,000 common shares... issuance of 100,000 Churchill Shares... issuance of 200,000 Churchill Shares')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transactions involve option agreements on properties, but the consideration paid by the buyer does not include stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transactions involve two separate blocks of shares with different issue prices or methods of determination. The August 2023 transaction for 547,544 shares has no explicit price. The September 2024 transaction for 350,000 shares has a price defined as 'the closing price of the Churchill Shares on the TSX Venture Exchange... on date immediately preceding the date of announcement'. As there are multiple pricing mechanisms and no single price applies to all issued shares, a single value cannot be extracted."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary commitment for exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Two separate agreements both involve a 2.0% net smelter royalty retained by the sellers. The first is 'subject to a 2.0% net smelter royalty (“the Russell and Hicks NSRs”)'. The second involved granting 'a 2.0% net smelter returns royalty on the properties'."
+    },
+    "coverage_area_raw": {
+      "value": 302.5,
+      "justification": "A press release announces an expansion of the project's total area: \"The two new licenses total 126.75 km2, expanding the total area for the Taylor Brook Project to 302.5 km2.\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the project area is specified as square kilometers: \"expanding the total area for the Taylor Brook Project to 302.5 km2.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention mineral showings and exploration potential (e.g., 'known mineralized Nickel-Copper-Cobalt showings'), but do not contain a quantified statement of mineral resources or reserves (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CRI",
+      "justification": "The buyer's ticker and exchange are provided in the header of the press releases: \"Churchill Resources Inc. (“Churchill” or the “Company”) (TSXV: CRI)\"."
+    }
+  }
+}

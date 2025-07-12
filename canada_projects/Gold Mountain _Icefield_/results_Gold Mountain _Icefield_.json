@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Gold Mountain _Icefield_/84350.txt",
+    "canada_projects/Gold Mountain _Icefield_/91990.txt",
+    "canada_projects/Gold Mountain _Icefield_/91991.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Mountain (Icefield) Project",
+      "justification": "The project is referred to by this name in the document's metadata sections: 'Project Name Gold Mountain (Icefield) Project British Columbia, Canada'"
+    },
+    "company_name": {
+      "value": "Ashley Gold Corp.",
+      "justification": "The documents describe a purchase agreement where Ashley Gold Corp. is the acquirer. 'Ashley Gold Corp. (CSE: ASHL) (the \"Company\" or \"Ashley\") is pleased to announce that it has entered into a purchase agreement (the “Agreement”) with Pegasus Resources Inc. [TSXv:PEGA] (\"Pegasus\") for the sale of the Icefield Property...'"
+    },
+    "ceo_buyer": {
+      "value": "Darcy J. Christian",
+      "justification": "The CEO of the buyer, Ashley Gold Corp., is identified in the press release: 'Mr. Darcy Christian, P.Geo, President and CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is described as a 'purchase agreement... for the sale of the Icefield Property', which implies a complete transfer of ownership. No retained interest by the seller is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named 'Gold Mountain' and is described as an 'Early-stage gold-silver property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/pegasus-resources-inc-enters-purchase-and-sale-agreement-with-ashley-gold-corp-fo-1002888",
+      "justification": "The article titled 'Pegasus Resources Inc. Enters Purchase and Sale Agreement with Ashley Gold Corp. for Icefield Property' directly concerns the acquisition of the Gold Mountain (Icefield) project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Ashley Gold Corp., is listed on the Canadian Securities Exchange (CSE), and the seller, Pegasus Resources Inc., is on the TSX Venture Exchange (TSXV). Both are Canadian exchanges, and the detailed quotes use a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was entirely in shares, with no cash component mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is defined by the number of shares issued and a price per share, which falls under Priority 2 of the financial extraction hierarchy, making this field null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is defined by the number of shares issued and a price per share, which falls under Priority 2 of the financial extraction hierarchy, making this field null."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The total consideration includes current and future share issuances: 'In accordance with the terms of the Agreement, Pegasus will receive 8,000,000 common shares of Ashley Gold (the “Shares”) as follows: (i) 6,000,000 Shares of Ashley Gold upon signing the Agreement... and (ii) 2,000,000 Shares within 60 days of receiving drill permits for the Property.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the issuance of 8,000,000 shares but not an explicit price. Using the last traded price for the buyer (Ashley Gold Corp.) as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment defined in meters was mentioned as part of the purchase agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the purchase agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The agreement states 'Ashley Gold shall assume the entirety of the royalty obligations of Pegasus...'. This is a transfer of a pre-existing obligation to the new owner, not a new royalty being created or acquired as part of the consideration for this specific transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1863,
+      "justification": "The sale is for the wider Icefield Property, which includes Gold Mountain (1,863 ha), Vertebrae Ridge (5,324 ha), and Punch Bowl (1163 ha). As the primary project of interest is Gold Mountain, only its area is extracted from the text: 'Gold Mountain Highlights Location: Early-stage gold-silver property ~50 km NW of Golden, BC, covering 1,863 ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the project area is specified in the text: 'Location: Early-stage gold-silver property ~50 km NW of Golden, BC, covering 1,863 ha.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drill results and samples but does not contain a formal, quantified mineral resource estimate. The NI 43-101 disclosure states, 'Pegasus Resources nor the qualified person have performed sufficient work or data verification of the historical data,' indicating no current compliant resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ASHL",
+      "justification": "The buyer is identified as Ashley Gold Corp. The text provides its ticker and exchange: 'Ashley Gold Corp. (CSE: ASHL)'."
+    }
+  }
+}

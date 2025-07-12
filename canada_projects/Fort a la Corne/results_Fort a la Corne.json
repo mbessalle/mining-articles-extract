@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Fort a la Corne/44891.txt",
+    "canada_projects/Fort a la Corne/48062.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Fort a la Corne",
+      "justification": "The text refers to the project as the \"Fort à la Corne diamond project\". The authoritative metadata confirms the name as \"Fort a la Corne\"."
+    },
+    "company_name": {
+      "value": "Star Diamond Corporation",
+      "justification": "The press release identifies the acquiring company: \"Star Diamond Corporation (\"Star Diamond \") is pleased to announce that it has today entered into a binding agreement (the \"Agreement\") with Rio Tinto Exploration Canada Inc. (\"RTEC\"), providing for the transfer by RTEC to Star Diamond of all of RTEC's 75% interest in the Fort à la Corne diamond project...\""
+    },
+    "ceo_buyer": {
+      "value": "Ewan Mason",
+      "justification": "\"Acquiring 100% ownership of the Project will be a major accomplishment for Star Diamond and its shareholders. We are grateful to Rio Tinto for the significant monetary investment and expertise it has contributed to the Project over the past more than five years, which has meaningfully advanced what Star Diamond believes is one of the most promising diamond projects in the world,\" said Ewan Mason, President and Chief Executive Officer of Star Diamond."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "Star Diamond is acquiring the remaining interest from its partner: \"...transfer by RTEC to Star Diamond of all of RTEC's 75% interest in the Fort à la Corne diamond project located in central Saskatchewan (the \"Project\").\""
+    },
+    "primary_commodity": {
+      "value": "diamond",
+      "justification": "The text explicitly names the project as the \"Fort à la Corne diamond project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a verifiable article link to an external publication."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A payment mentioned in the agreement is denominated in Canadian dollars: \"...in exchange for a Cdn. $4 million payment from RTEC to Star Diamond.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The buyer, Star Diamond, did not make any cash payments. Instead, the seller (RTEC) made a payment to the buyer: \"...in exchange for a Cdn. $4 million payment from RTEC to Star Diamond.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the shares to be issued was not specified in the text. The consideration is an issuance of shares to achieve a certain ownership percentage, not a fixed monetary value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value was provided in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not state a specific number of shares to be issued. It states: \"Star Diamond will issue to RTEC and/or an affiliate that number of common shares of Star Diamond that results in RTEC and its affiliates owning 19.9% of the then outstanding common shares of Star Diamond...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Neither the number of shares issued nor the total value of the share payment was specified, so a price per share for the transaction cannot be determined."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention an exploration spending commitment. A Cdn. $9.9 million letter of credit is mentioned, but it is to \"secure certain environmental remediation and reclamation obligations related to the Project,\" not for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the area of the project in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a future \"revised Mineral Resource\" but does not provide a quantified statement of current mineral resources for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:DIAM",
+      "justification": "The text explicitly states the buyer's ticker and exchange: \"Shares of Star Diamond trade on the Toronto Stock Exchange under the trading symbol \"DIAM\".\""
+    }
+  }
+}

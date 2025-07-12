@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Carpenter Lake/54756.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Carpenter Lake",
+      "justification": "The primary project of interest is confirmed in the headline: 'Greenridge Exploration Announces Acquisition of the Carpenter Lake Uranium Project in the Athabasca Basin with Multiple High Priority Targets'."
+    },
+    "company_name": {
+      "value": "Greenridge Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3), is pleased to announce it has entered into a Property Option Agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Russell Starr",
+      "justification": "The CEO of the acquiring company is identified at the end of the press release: 'Russell Starr Chief Executive Officer, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Greenridge 'to acquire a 100% interest in the Carpenter Lake Uranium Project (the “Carpenter Lake Property” or the “Project”).'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project in the headline: 'Greenridge Exploration Announces Acquisition of the Carpenter Lake Uranium Project...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Greenridge Exploration Inc., is listed on the Canadian Securities Exchange (CSE), and payments are denoted with a '$' symbol. The context of a CSE-listed company implies the currency is Canadian Dollars (CAD). 'The Canadian Securities Exchange (CSE) does not accept responsibility for the adequacy or accuracy of this release.'"
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The agreement requires 'paying the Optionors an aggregate of $200,000 in cash as follows: i. $100,000... and ii. $100,000...'"
+    },
+    "share_payments_raw": {
+      "value": 1230000,
+      "justification": "The total value of the share issuance is calculated from the terms provided: 'issuing to the Optionors... an aggregate of 1,500,000 common shares (“Shares”) at a deemed price of $0.82 per Share'. (1,500,000 * 0.82 = 1,230,000)."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The agreement includes 'issuing to the Optionors (60% to ALX; 40% to Pacton) an aggregate of 1,500,000 common shares (“Shares”)...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.82,
+      "justification": "The shares are to be issued 'at a deemed price of $0.82 per Share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "The agreement requires 'incurring a minimum of $1,000,000 in exploration expenditures on the Project as follows: i. $300,000... ii. $300,000... and iii. $400,000...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states that 'The Project is subject to a 2% net smelter returns royalty.' This is a royalty retained by the optionors."
+    },
+    "coverage_area_raw": {
+      "value": 13387,
+      "justification": "The text states: 'The Project covers 13,387 hectares of the Cable Bay Shear Zone...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Project covers 13,387 hectares of the Cable Bay Shear Zone...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Carpenter Lake project itself. It mentions resources and production at nearby, unrelated projects (e.g., Key Lake mine) and sample grades from boulders ('up to 1,550 ppm uranium'), but no formal resource statement with mass or volume for the subject project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GXP",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3)'."
+    }
+  }
+}

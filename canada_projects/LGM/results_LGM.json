@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/LGM/55213.txt",
+    "canada_projects/LGM/55264.txt",
+    "canada_projects/LGM/64718.txt",
+    "canada_projects/LGM/64733.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "LGM",
+      "justification": "The primary project of interest is confirmed in the title: \"Kingfisher Signs Definitive Agreement to Acquire the LGM Project in the Golden Triangle, British Columbia\"."
+    },
+    "company_name": {
+      "value": "Kingfisher Metals Corp.",
+      "justification": "The acquiring company is identified as \"Kingfisher Metals Corp. (TSXV:KFR)(FSE:970)(OTCQB:KGFMF) (\"Kingfisher\" or the \"Company\") is pleased to announce that it has entered into a definitive agreement (the \"Agreement\") to acquire the LGM Project from Origen Resources Inc. (\"Origen\").\""
+    },
+    "ceo_buyer": {
+      "value": "Dustin Perry",
+      "justification": "The CEO of the buyer, Kingfisher Metals, is identified as \"Dustin Perry, P.Geo. CEO and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a full acquisition, as stated: \"Origen Resources Enters into Agreement to Sell 100% Interest in the LGM Project\"."
+    },
+    "primary_commodity": {
+      "value": "Copper, Gold",
+      "justification": "The project's mineralization is described as \"porphyry Cu-Au mineralization\" and trench sampling returned \"0.74% Cu and 1.09 g/t Au over 38 m\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/872200/kingfisher-signs-definitive-agreement-to-acquire-the-lgm-project-in-the-golden-triangle-british-columbia",
+      "justification": "The article is about the acquisition of the LGM project by Kingfisher Metals Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in Canadian dollars: \"...pay C$75,000 in cash to Origen...\""
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "The cash component of the deal is explicitly stated: \"...pay C$75,000 in cash to Origen in exchange for the transfer of the LGM Project claims on closing.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described as a number of shares, not a specific monetary value of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The terms of the agreement state: \"Under the terms of the Agreement, the Company will issue 3,000,000 common shares in the capital of Kingfisher, to Origen...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a \"grant of 1,700,000 stock options\", but specifies these are \"to its directors, officers, various staff members, and an investor relations consultant\", not as consideration for the project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.285,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for the buyer (Kingfisher Metals): 'Last: 0.285'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not mention a specific drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention a commitment for exploration expenditure."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states the property is \"subject to underlying royalty agreements over different parts of the project that range from 1 to 2%\". These are pre-existing royalties held by third parties, not a new royalty acquired from or retained by the seller as part of this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 26771,
+      "justification": "The project size is stated as: \"The 26,771 Ha LGM Project is located immediately south and contiguous with Kingfisher's HWY 37 Project...\""
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the coverage area is provided in the sentence: \"The 26,771 Ha LGM Project...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text implies no resource has been defined for the project, stating, \"The LGM/Voigtberg region represents rare exposure to a Galore Creek-type system, and the only magmatic-volcanic complex where a deposit has not yet been delineated.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KFR",
+      "justification": "The buyer's ticker and exchange are identified in the first paragraph: \"Kingfisher Metals Corp. (TSXV:KFR)(FSE:970)(OTCQB:KGFMF)...\""
+    }
+  }
+}

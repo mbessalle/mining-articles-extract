@@ -1,0 +1,76 @@
+--- Article Metadata ---
+Project Name: Kegashka
+Company Name: Fjordland Exploration Inc.
+Exchange: TSXV
+Ticker: FEX
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.25.2023, 6:00:00 PM
+
+# Fjordland Acquires Kegashka Lithium Project on the North Shore of Quebec
+
+****Vancouver, British Columbia--(Newsfile Corp. - May 25, 2023) -**Fjordland Exploration Inc.** (TSXV: FEX) (the "Company") is pleased to announce that it has acquired by staking the 233 square kilometer Kegashka Lithium Project ("KLP") located 40 kilometers north-east of Natashquan on Quebec's North Shore.
+
+The KLP project was identified based on a desk top study of a region defined by highly anomalous lithium-rich lake bottom sediments derived from the Quebec government's geochemical database. Research revealed that historical geology maps from the 1970's and 80's had identified pegmatites that were not subsequently added to Quebec's online database, SIGÉOM. The 1969 map prepared by J.P. Bassaget (SIGÉOM file RP597PLAN.pdf) specifically identified "White Pegmatite" as a map unit - which was quite uncommon. Most lithium bearing spodumene deposits in Quebec are found within white pegmatite bodies. A later map published in 1983 by Quebec's Ministry of Energy and Resources (SIGÉOM file DV8314PLAN_1-19.pdf) identified rock unit G19 as being "Granite with Pegmatite". As seen in the map below, the largest of these units lies within the Fjordland claim group and measures 45 square kilometers. 
+
+James Tuer, Fjordland's President commented, "We think this land package offers our shareholders an excellent opportunity to participate in the lithium staking rush happening in Quebec right now. There is a sound geological rationale for why we have specifically chosen this ground. Another group staked over 1,200 square kilometers next to us based purely on the chemistry in the lake bottom sediments. We think we have a superior land package based on historical maps that have identified the prerequisite pegmatite units occurring within the KLP claim group. Our initial reconnaissance for the project will start the third week of June." 
+
+**About Fjordland Exploration Inc.**
+
+Fjordland Exploration Inc. is a mineral exploration company that is focused on the discovery of large-scale economic metal deposits in Canada. 
+
+In collaboration with Commander Resources Ltd., Fjordland is exploring the SVB "Pants Lake Intrusive" target which is in a geologic setting analogous to the nearby nickel-cobalt-copper Voisey's Bay deposit. Fjordland has earned a 75% interest in the project.
+
+Fjordland, owns a 100% interest in the Renzy nickel-project located near Maniwaki, Quebec. The project encompasses the former Renzy Mine where, during the period from 1969 to 1972, 716,000 short tons were mined with average grades of 0.70% nickel and 0.72% copper. Recent work also highlighted the graphite potential for the project. The project size measures 530 sq. km. 
+
+Fjordland has two copper-gold properties in the Quesnel Trough of central British Columbia, The West Milligan copper-gold project is a joint venture with Northwest Copper Corp. located within 4 km of Centerra's Mount Milligan copper-gold mine. The 103 sq. km. Witch copper-gold project is located another 35 km west of the Milligan mine.
+
+[](https://images.newsfilecorp.com/files/4193/167420_97b9c6ba34658b7f_001full.jpg)  
+Figure 1
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/4193/167420_97b9c6ba34658b7f_001full.jpg>
+
+Robert Cameron, PGeo, is a qualified person within the context of National Instrument 43-101 and has read and takes responsibility for the technical aspects of this release.
+
+ON BEHALF OF THE BOARD OF DIRECTORS
+
+ _**"James Tuer"**_****  
+James Tuer, CEO
+
+**For further information:**  
+James Tuer  
+Ph: 604-688-3415  
+[tuer@fjordlandex.com](mailto:tuer@fjordlandex.com)  
+[www.fjordlandex.com](https://api.newsfilecorp.com/redirect/1zW87ID0bo)
+
+**Forward-Looking Statements**
+
+This news release includes certain forward-looking statements or information. All statements other than statements of historical fact included in this news release, including, without limitation, statements regarding the use of proceeds from the private placement, and other future plans and objectives of the Company are forward-looking statements that involve various risks and uncertainties. There can be no assurance that such statements will prove to be accurate and actual results and future events could differ materially from those anticipated in such statements. Important factors that could cause actual results to differ materially from the Company's plans or expectations include market prices, general economic, market or business conditions, regulatory changes, timeliness of government or regulatory approvals and other risks detailed herein and from time to time in the filings made by the Company with securities regulators. The Company expressly disclaims any intention or obligation to update or revise any forward-looking statements whether as a result of new information, future events or otherwise except as otherwise required by applicable securities legislation.
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/167420](https://api.newsfilecorp.com/redirect/ABNa5TOLvD)
+
+### Project Name
+
+[Kegashka Project](/?gid=4746)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.015                  Bid: 0.01
+Bid Size: 249000              Beta: 3.03424
+Year High: 0.02             Previous Payable Date: 2011-11-25
+Dividend Frequency: U    Market Cap: 1.24m
+PB Ratio: 8.88              Average Volume (30 Day): 20.11k
+Volume: 60                Prev. Close: 0.015
+Ask: 0.015                   Ask Size: 843000
+Year Low: 0.01              Previous Ex-Dividend Date: 2011-11-23
+Total Shares: 82.94m          Shares Out: 82.94m
+Float: 68.92m                 Exchange: TSXV

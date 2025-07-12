@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Umbra/84300.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Umbra",
+      "justification": "The authoritative project name is Umbra, which is confirmed in the article title: \"Standard Uranium Acquires Umbra and Sable Uranium Projects...\""
+    },
+    "company_name": {
+      "value": "Standard Uranium Ltd.",
+      "justification": "The acquiring company is identified as \"Standard Uranium Ltd. (TSXV: STND) (OTCQB: STTDF) (FSE: 9SU0) (\"Standard Uranium \" or the \"Company\") is pleased to announce the acquisition of the Umbra and Sable uranium projects...\""
+    },
+    "ceo_buyer": {
+      "value": "Jon Bey",
+      "justification": "The CEO of the buyer, Standard Uranium Ltd., is listed as: \"Jon Bey, Chief Executive Officer, and Chairman\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states the project was acquired via staking, which typically implies 100% interest, but no specific percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text repeatedly refers to uranium, for example: \"Standard Uranium Acquires Umbra and Sable Uranium Projects...\" and \"Expanded Uranium Portfolio: Addition of the Umbra and Sable Projects - targeting high-grade* uranium mineralization...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/237373",
+      "justification": "The article is titled \"Standard Uranium Acquires Umbra and Sable Uranium Projects...\" and the content confirms the acquisition of the Umbra project by Standard Uranium Ltd."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a financial transaction with a seller, so no currency is mentioned. The text states: \"The projects were acquired via low-cost staking...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, not a cash purchase. The text states: \"The projects were acquired via low-cost staking...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, and no share payments are mentioned. The text states: \"The projects were acquired via low-cost staking...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made via staking, and no combined cash and share payments are mentioned. The text states: \"The projects were acquired via low-cost staking...\""
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition via staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No drilling commitment for the Umbra project is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration expenditure commitment for the Umbra project is mentioned. The text mentions surveys on other projects: \"high-resolution ground gravity surveys on the Atlantic and Rocas projects.\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the acquisition details."
+    },
+    "coverage_area_raw": {
+      "value": 3679,
+      "justification": "The text states: \"The Umbra project comprises two mineral claims totalling 3,679 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Umbra project comprises two mineral claims totalling 3,679 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the Umbra project. It mentions mineralization on a nearby property but not on the project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STND",
+      "justification": "The text identifies the acquiring company and its ticker as: \"Standard Uranium Ltd. (TSXV: STND)\"."
+    }
+  }
+}

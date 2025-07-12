@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Jake/38771.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jake",
+      "justification": "The article is titled 'Quartz Mountain Resources Completes Acquisition of 100% Interest in Jake Property and Begins Drill Program Planning' and refers to the 'Jake Porphyry Copper-Gold-Silver Property'."
+    },
+    "company_name": {
+      "value": "Quartz Mountain Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Quartz Mountain Resources Ltd. (\"Quartz Mountain\" or \"the Company\") (TSXV:QZM)(OTC PINK:QZMRF)'."
+    },
+    "ceo_buyer": {
+      "value": "Robert Dickinson",
+      "justification": "The document is signed 'On behalf of the Board of Directors, Robert Dickinson Chairman' and he is listed as the primary contact."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline states 'Completes Acquisition of 100% Interest in Jake Property' and the body confirms 'The Company now owns 100% of the Jake Property'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is described as the 'Jake Porphyry Copper-Gold-Silver Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/771351/Quartz-Mountain-Resources-Completes-Acquisition-of-100-Interest-in-Jake-Property-and-Begins-Drill-Program-Planning",
+      "justification": "The article content is entirely about the acquisition of the Jake Property by Quartz Mountain Resources Ltd., which matches the project of interest. The URL is provided at the end of the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are listed in '$' and the acquiring company, Quartz Mountain Resources Ltd., is listed on the TSXV and based in Vancouver, BC, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 275000,
+      "justification": "The total cash payment is the sum of two separate payments: 'reimbursing UMS $200,000 for its costs to assemble the Property' and a 'final payment of $75,000 in July 2023' to fulfill the Electrum option."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms described in the text only mention cash payments; there is no mention of any share-based consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payments are explicitly detailed, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any payment in warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not mention any payment in options. A cash payment was made to fulfill an existing option, but no options were issued as consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for drilling but does not specify a commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that 'drilling is being planned to start in 2024' but does not state a specific monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The claims acquired from Electrum are subject to a retained royalty by the seller: 'The Electrum claims, also now owned 100% by Quartz Mountain are subject to a 2% net smelterreturn royalty which is capped at $3 million'."
+    },
+    "coverage_area_raw": {
+      "value": 2374,
+      "justification": "The text states: 'The mine claims cover an area of 2,374 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The mine claims cover an area of 2,374 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the 'potential for the discovery of gold-rich porphyry copper deposits' and historical exploration, but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:QZM",
+      "justification": "The text identifies the buyer as 'Quartz Mountain Resources Ltd. (\"Quartz Mountain\" or \"the Company\") (TSXV:QZM)(OTC PINK:QZMRF)'."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Murphy Lake South/72325.txt",
+    "canada_projects/Murphy Lake South/72326.txt",
+    "canada_projects/Murphy Lake South/73906.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murphy Lake South",
+      "justification": "The project is one of ten properties included in the option agreement. \"The 10-project portfolio subject to the Option Agreement (the 'Exploration Properties') consists of the following properties: Murphy Lake South, Hatchet Lake, Turkey Lake, Torwalt Lake, Marten, Wolverine, Epp Lake, Blackwing, GR and CLK.\""
+    },
+    "company_name": {
+      "value": "Foremost Clean Energy Ltd.",
+      "justification": "Foremost is the acquiring company in the transaction. \"Foremost Lithium Resource & Technology Ltd. ('Foremost Lithium', 'Foremost' or the 'Company') is pleased to announce today that it has executed a property acquisition agreement (the 'Option Agreement') with Denison Mines Corp. ('Denison')... In connection with the Transaction, Foremost intends to change its name to 'Foremost Clean Energy Ltd.'\""
+    },
+    "ceo_buyer": {
+      "value": "Jason Barnard",
+      "justification": "Jason Barnard is the President and CEO of the acquiring company, Foremost. \"stated Foremost’s President and CEO, Jason Barnard.\""
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Foremost has the option to acquire up to a 70% interest in the portfolio of properties, which includes Murphy Lake South. \"Under the terms of the Option Agreement, Foremost may acquire up to 70% of Denison's interest in the Exploration Properties.\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The transaction is for a portfolio of uranium exploration properties. \"Denison Announces Option of Non-Core Exploration Projects to Foremost for up to $30 Million in Combined Consideration... grants Foremost an option to acquire up to 70% of Denison's interest in 10 uranium exploration properties\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/denison-announces-option-of-non-core-exploration-projects-to-foremost-for-up-to-30-million-in-combined-consideration-302256556.html",
+      "justification": "The article describes an option agreement between Denison Mines and Foremost for a portfolio of 10 projects, which explicitly includes the Murphy Lake South project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Foremost, and the selling company, Denison, are both Canadian entities listed on Canadian exchanges (CSE and TSX respectively), implying the currency is Canadian Dollars (CAD) where not otherwise specified."
+    },
+    "cash_payments_raw": {
+      "value": 450000,
+      "justification": "The project's share is $450,000, calculated as one-tenth of the total potential cash payments of $4,500,000 ($2,000,000 in Phase 2 + $2,500,000 in Phase 3) shared across 10 projects. Text: 'Pay Denison $2,000,000 in cash or common shares...' and 'Pay Denison a further $2,500,000 in cash or common shares...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value for the share payment is provided in the deal terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal components are broken down into cash, shares, and exploration commitments; no single combined value is provided for just cash and shares. A headline value of '$30 million in Combined Consideration' exists but includes exploration commitments and applies to 10 projects."
+    },
+    "amount_of_shares_issued": {
+      "value": 136981,
+      "justification": "The project's share is 136,981 shares, calculated as one-tenth of the 1,369,810 common shares issued for an initial 20% interest in 10 properties. Text: 'To earn an initial 20% interest in the Exploration Properties... Foremost must: Issue 1,369,810 common shares to Denison;'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 4.31,
+      "justification": "The transaction terms mention the number of shares issued, but not an explicit price. Using the last traded price for the buyer (Foremost) as a fallback, as seen in the detailed quote: 'Last: 4.31'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The project's share is $2,000,000, calculated as one-tenth of the total $20,000,000 exploration commitment ($8,000,000 in Phase 2 + $12,000,000 in Phase 3) shared across 10 projects. Text: 'Incur $8,000,000 in exploration expenditures on the Exploration Properties.' and 'Incur a further $12,000,00 in exploration expenditures on the Exploration Properties.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides an aggregate area of 332,378 acres for all 10 properties in the transaction but does not specify the area for the Murphy Lake South project individually."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the specific project is not mentioned."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical mineralization on some properties in the portfolio but does not provide a quantified mineral resource estimate for the Murphy Lake South project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:FMST",
+      "justification": "The acquiring company is Foremost, and its ticker and exchange are explicitly mentioned: 'Foremost Lithium Resource & Technology Ltd. (NASDAQ: FMST) (CSE: FAT)'."
+    }
+  }
+}

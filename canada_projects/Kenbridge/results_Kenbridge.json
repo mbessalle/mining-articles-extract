@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Kenbridge/54021.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kenbridge",
+      "justification": "The article is titled 'Tartisan Nickel Corp. Acquires Additional Claims for the Kenbridge Nickel Project, Advances Baseline Studies'."
+    },
+    "company_name": {
+      "value": "Tartisan Nickel Corp.",
+      "justification": "The press release is issued by 'Tartisan Nickel Corp. (CSE: TN) (OTCQB: TTSRF) (FSE: 8TA)(\"Tartisan\", or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Mark Appleby",
+      "justification": "The contact for the company is listed as 'Mark Appleby, President & CEO, and a Director of the Company'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that the company acquired additional claims, but does not specify a percentage interest acquired in a transaction from another party. It states the resulting ownership is 100%: 'The patents and staked cells are owned 100% by Tartisan Nickel Corp. through wholly owned subsidiaries.'"
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is referred to as the 'Kenbridge Nickel Project' and it is stated that 'The Kenbridge Nickel Deposit hosts a Nickel-Copper Resource'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/209418",
+      "justification": "The article is titled 'Tartisan Nickel Corp. Acquires Additional Claims for the Kenbridge Nickel Project, Advances Baseline Studies', which directly pertains to the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's primary listing is on the Canadian Securities Exchange (CSE), as stated: 'Tartisan Nickel Corp. common shares are listed on the Canadian Securities Exchange (CSE: TN)'. This implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payment as consideration for the acquisition of claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payment as consideration for the acquisition of claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment as consideration for the acquisition of claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention a specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions baseline study fieldwork but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4273,
+      "justification": "The text states: 'The total property size now consists of 93 contiguous patents, 153 single cell mining claims and 4 Mining Licenses which in total cover 4,273 ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The total property size now consists of 93 contiguous patents, 153 single cell mining claims and 4 Mining Licenses which in total cover 4,273 ha.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states 'The Kenbridge Nickel Deposit hosts a Nickel-Copper Resource with a 622-meter shaft', but it does not provide a quantified resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TN",
+      "justification": "The text states: 'Tartisan Nickel Corp. (CSE: TN) (OTCQB: TTSRF) (FSE: 8TA)'."
+    }
+  }
+}

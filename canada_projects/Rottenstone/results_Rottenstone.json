@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Rottenstone/72896.txt",
+    "canada_projects/Rottenstone/72899.txt",
+    "canada_projects/Rottenstone/86030.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rottenstone Project",
+      "justification": "The text identifies the project acquired by 79 Resources Ltd. as the Rottenstone Project. Quote: 'The Claims comprise a group of 140 individual mining claims totalling 282,951 hectares (hereafter the “Rottenstone Project”)...'"
+    },
+    "company_name": {
+      "value": "79 Resources Ltd.",
+      "justification": "The acquiring company is explicitly identified in the text. Quote: '79 Resources Ltd. - CSE:SNR - (“79 Resources” or the \"Corporation\" or the “Issuer”) is pleased to confirm that it has today closed its previously announced purchase of dispositions (the “Rottenstone Transaction”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Jordan Harris",
+      "justification": "The CEO of the acquiring company, 79 Resources Ltd., is named in the text. Quote: 'The Issuer reports that Mr. Jordan Harris has been appointed as the new Chief Executive Officer of the Corporation effective September 12, 2024.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that 79 Resources acquired a group of mining claims, but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text describes the project as an 'early-stage grassroots project' and mentions that other juniors in the region are exploring for 'precious and base metals', but does not specify a primary commodity for the Rottenstone Project itself."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction value is given in dollars ($), and the companies involved (buyer in Vancouver, seller in Calgary) and the location of the project (Saskatchewan, Canada) strongly indicate the currency is Canadian Dollars. Quote: 'Under the Agreement, the Corporation will provide cash consideration of $170,254.66...'"
+    },
+    "cash_payments_raw": {
+      "value": 170254.66,
+      "justification": "The text specifies the exact cash amount paid for the acquisition. Quote: 'Under the Agreement, the Corporation will provide cash consideration of $170,254.66, being an amount that is equal to the cash sum that the Vendor first paid as staking fees to the Government of Saskatchewan during 2024 for the Crown to grant the Claims.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention a cash consideration; there is no mention of any share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as cash only, so this field is not applicable as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the project acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify any mandatory exploration expenditure. It states that exploration plans are subject to future funding. Quote: 'Exploration plans (which would remain subject to funding availability) and technical information related to the Rottenstone Project will be provided in the ordinary course...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The text states that a pre-existing royalty is part of the transaction terms and will be assumed by the buyer. Quote: 'A pre-existing two percent royalty on the Claims will be assumed by the Issuer.'"
+    },
+    "coverage_area_raw": {
+      "value": 282951,
+      "justification": "The total area of the acquired claims is explicitly stated. Quote: 'The Claims comprise a group of 140 individual mining claims totalling 282,951 hectares (hereafter the “Rottenstone Project”)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text. Quote: '...totalling 282,951 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an 'early-stage grassroots project' and does not contain any statement of a mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SNR",
+      "justification": "The buyer's ticker and exchange are explicitly provided in the text. Quote: '79 Resources Ltd. - CSE:SNR - (“79 Resources” or the \"Corporation\" or the “Issuer”)...'"
+    }
+  }
+}

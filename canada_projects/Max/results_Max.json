@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Max/31924.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Max",
+      "justification": "The article is titled \"Tarku Acquires 100% of the MAX Lithium Property\" and refers to the project as the \"MAX Lithium property\" throughout."
+    },
+    "company_name": {
+      "value": "Tarku Resources Ltd.",
+      "justification": "The acquiring company is identified as \"Tarku Resources Ltd (TSXV:TKU)(FRA:7TK)(OTCQB:TRKUF) (the \"Company\" or \"Tarku\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Julien Davy",
+      "justification": "The text identifies the CEO: \"Julien Davy, P.Geo., M.Sc, MBA, President and Chief Executive Officer of Tarku...\" and quotes him as \"Julien Davy, President and CEO of Tarku Resources\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline states: \"Tarku Acquires 100% of the MAX Lithium Property\". The body confirms: \"Tarku can earn a 100% interest in the MAX Lithium property...\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as the \"MAX Lithium property\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/741320/Tarku-Acquires-100-of-the-MAX-Lithium-Property",
+      "justification": "The article content directly corresponds to the acquisition of the Max project by Tarku Resources Ltd., as confirmed by the headline and body of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Tarku Resources Ltd., is listed on the TSX Venture Exchange (TSXV), a Canadian stock exchange. The separate financing mentioned uses the '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the section \"Summary of the transaction to acquire the MAX Lithium property\" only mention the issuance of common shares as consideration, with no mention of a cash payment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the data extraction hierarchy, this field is null because the consideration is specified by the number of shares to be issued (`amount_of_shares_issued`) and a price per share, not a total share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No single combined cash and share value for the transaction is provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The summary of the transaction states: \"Tarku can earn a 100% interest in the MAX Lithium property by issuing 4 million common shares of the Company...\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the property acquisition. The warrants mentioned are part of a separate financing transaction, not the acquisition itself."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the consideration for the property acquisition. The options grant mentioned is a separate corporate action for directors, officers, and consultants."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a future exploration program but does not specify a drilling commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While the text states \"We intend to do aggressive exploration\", no specific monetary value for an exploration commitment is mentioned as a term of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 19.25,
+      "justification": "The text states the acquisition is for \"28 claims (19.25 km2) forming the MAX Lithium property\"."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text specifies the unit for the area: \"...28 claims (19.25 km2) forming the MAX Lithium property\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the MAX project itself, noting it has \"as-yet untested potential\". The resource mentioned (\"proven reserves of 1.2 million tonnes grading 0.92% Li2O and probable reserves 28 million tonnes grading 0.96% Li2O\") is explicitly for the nearby \"Sayona Mining's North American Lithium mine\", not the MAX project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TKU",
+      "justification": "The company is identified in the first paragraph as \"Tarku Resources Ltd (TSXV:TKU)(FRA:7TK)(OTCQB:TRKUF)\"."
+    }
+  }
+}

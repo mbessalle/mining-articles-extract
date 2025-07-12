@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Marion/64235.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Marion",
+      "justification": "The text announces an option agreement to acquire the Marion Property: \"...has entered into four (4) option agreements, each to acquire a 100% undivided interest in each of the Marion Property, Sheraton Property, Rich Lake Property, and Grenfell Property...\""
+    },
+    "company_name": {
+      "value": "Planet Green Metals Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Planet Green Metals Inc. (CSE: PGR)(“Planet Green ” or the “Company ”) is pleased to announce that it has entered into four (4) option agreements...\""
+    },
+    "ceo_buyer": {
+      "value": "Jeremy S. Brett",
+      "justification": "A quote in the article is attributed to the President and CEO: \"Jeremy S. Brett, President and CEO commented, “The acquisition of these new properties further increases our land holdings to six projects...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a complete interest in the property: \"to exercise its option to acquire a 100% interest in the Marion Property...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text specifies the target mineral: \"The primary mineral deposit type being targeted on the property is gold-rich volcanogenic massive sulphides.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a direct link to the source article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) as the payments are denoted by '$' and the acquiring company, Planet Green Metals Inc., is listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": 83250,
+      "justification": "The total cash payment is calculated by summing the property-specific payment of $60,000 ('pay an aggregate $60,000') and a one-quarter share ($23,250) of the additional $93,000 payment for the simultaneous exercise of all four agreements ('exercise all four Agreements simultaneously... for a total payment of $93,000.00... This cash payment and share issuance is in addition to those already made under each Agreement.')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described in terms of the number of shares and a price per share, not a total share value. Populating `amount_of_shares_issued` and `issued_share_price` instead, as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components are provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 462500,
+      "justification": "The total number of shares is calculated by summing the property-specific issuance of 300,000 shares ('issue an aggregate 300,000 common shares') and a one-quarter share (162,500) of the additional 650,000 shares for the simultaneous exercise of all four agreements ('the issuance of a total of 650,000 common shares... This cash payment and share issuance is in addition to those already made under each Agreement.')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration for the property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The grant of 100,000 stock options mentioned was to a consultant and not part of the property acquisition consideration: \"The Company has also granted incentive stock options to a consultant...\""
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The text specifies a deemed price for the shares issued as part of the transaction: \"All shares of the Company that are issued as part of the consideration for any of the Options will be issued at a deemed price of $0.07 each.\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states there are no NSRs involved in the transaction: \"It is also very important that there are no NSRs attached to these four new properties...\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The property size is given as 'fifty-three (53) unpatented mining claims', not in a unit of area like hectares or km2."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The property size is given as 'fifty-three (53) unpatented mining claims', not in a unit of area like hectares or km2."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Marion property. It mentions resources for the nearby Côté Lake gold mine but clarifies this is 'not necessarily indicative of mineralization present on Planet Green’s property'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:PGR",
+      "justification": "The buyer's ticker and exchange are stated in the first paragraph of the press release: \"Planet Green Metals Inc. (CSE: PGR)\"."
+    }
+  }
+}

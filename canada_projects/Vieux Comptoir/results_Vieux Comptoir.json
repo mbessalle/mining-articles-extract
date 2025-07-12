@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Vieux Comptoir/33764.txt",
+    "canada_projects/Vieux Comptoir/39043.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Vieux Comptoir",
+      "justification": "The documents refer to the project as the 'Vieux Comptoir Lithium Property'. For example: 'Superior Mining has the option to earn a 100% interest in the Vieux Comptoir Lithium Property in Quebec (the \"Property\")'."
+    },
+    "company_name": {
+      "value": "Superior Mining International Corp.",
+      "justification": "The acquiring company is identified in the first sentence of both press releases: 'Superior Mining International Corp.(\"Superior Mining\" or the \"Company\") (TSXV: SUI)'."
+    },
+    "ceo_buyer": {
+      "value": "Brent Butler",
+      "justification": "The first press release is signed by '\"_Brent Butler_\" Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is acquiring a 100% interest through two agreements: 'Superior Mining has the option to earn a 100% interest in the Vieux Comptoir Lithium Property' and 'the right to acquire 100% interest in the 161 new claims'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the 'Vieux Comptoir Lithium Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no article URL is present in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Superior Mining International Corp., is listed on the TSX Venture Exchange ('TSXV: SUI'), which implies Canadian Dollars (CAD) for the transaction mentioned with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "A cash payment of $50,000 was mentioned for an option on new claims. However, per the financial extraction hierarchy, Priority 2 (calculable share value) was selected as the most complete representation of the deal. This rule requires other financial fields, including cash payments, to be null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial extraction hierarchy, Priority 2 (calculable share value) was selected, which requires this field to be null. The value is captured in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No single combined value for cash and shares was provided. The deal components were listed separately across two announcements."
+    },
+    "amount_of_shares_issued": {
+      "value": 13800000,
+      "justification": "The total number of shares is the sum of 7,500,000 shares for the initial option ('The 7,500,000 common shares due on TSXV approval have been issued to the Vendor.'), 300,000 shares for finder's fees ('aggregate finder's fees of 300,000 common shares'), and 6,000,000 shares for the expansion ('acquire 100% interest in the 161 new claims for 6,000,000 common shares to the Vendors')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.12,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.12'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the expansion agreement, the seller retained a royalty: 'The Company will also grant a 2% NSR from commercial production from the Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 278,
+      "justification": "The second document states the final, expanded size of the project: '...expanded on July 31, 2023 to be 542 Quebec mineral exploration claims, for a total of district scale size 278 square kilometers.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is specified in the text: '...total of district scale size 278 square kilometers.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for a different, nearby project ('100Mt plus resource at the Corvette Discovery by Patriot Battery'), but states no resource for the Vieux Comptoir project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SUI",
+      "justification": "The buyer's ticker and exchange are listed in parentheses after its name in both documents: 'Superior Mining International Corp. ... (TSXV: SUI)'."
+    }
+  }
+}

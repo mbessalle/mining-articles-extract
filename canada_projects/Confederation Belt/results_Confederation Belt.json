@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Confederation Belt/30466.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Confederation Belt",
+      "justification": "The authoritative project name is 'Confederation Belt', which is confirmed in the side panel of the document: 'Project Name Confederation Belt Project'."
+    },
+    "company_name": {
+      "value": "Renegade Gold Inc.",
+      "justification": "The authoritative company name is 'Renegade Gold Inc.', which is confirmed in the side panel of the document: 'Company Profile Renegade Gold Inc.'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The transaction described in the main article was conducted by Trillium Gold Mines Inc., not the company of interest, Renegade Gold Inc. While the text mentions John Newell as President of Renegade Gold in a news headline, he is not the CEO of the buyer in the transaction detailed in the article."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states Trillium Gold Mines Inc. is acquiring a '100% undivided interest', but this acquisition is by Trillium Gold, not the company of interest, Renegade Gold Inc."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The 'Other Company News' section for the company of interest, Renegade Gold, includes the headline 'Renegade Gold Intersects 14.0 g/t Au over 7.3 m at Newman Todd Gold Project', where 'Au' is the chemical symbol for gold."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The main article describes an option agreement by Trillium Gold Mines Inc. to acquire claims for its Uchi Gold Property. While this property is located on the Confederation Belt, the transaction is not being conducted by the company of interest, Renegade Gold Inc."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article mentions 'Cdn $' in the context of a transaction by Trillium Gold Mines Inc., not the company of interest, Renegade Gold Inc."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article details cash payments totaling '$80,800' to be made by Trillium Gold Mines Inc. This transaction is not relevant to the company of interest, Renegade Gold Inc."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is by Trillium Gold, not Renegade Gold. The share payment component is the issuance of a number of shares, not a monetary value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described in the article was conducted by Trillium Gold Mines Inc., not the company of interest, Renegade Gold Inc., so no combined payment value is applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article states that Trillium Gold Mines Inc. will 'issue an aggregate of 200,000 common shares'. This is part of a transaction by Trillium Gold, not the company of interest, Renegade Gold Inc."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments was found in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is by Trillium Gold, not Renegade Gold. No share price is mentioned for the transaction shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information about an exploration commitment in meters was found in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information about a monetary exploration commitment was found in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions a 1.5% Net Smelter Returns (NSR) royalty being granted by Trillium Gold to the vendors. This is not related to the company of interest, Renegade Gold Inc."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions an acquisition of 'a total 2,541 hectares' by Trillium Gold Mines Inc. This is not an acquisition by the company of interest, Renegade Gold Inc."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The area mentioned is associated with a transaction by Trillium Gold, not Renegade Gold Inc."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text does not contain a mineral resource estimate for the Confederation Belt project associated with Renegade Gold Inc."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RAGE",
+      "justification": "The authoritative metadata provides the ticker 'RAGE' and exchange 'TSXV'. This is supported by the 'Other Company News' links containing '/ca-rage/' and the 'Detailed Quote' section stating 'Exchange: TSXV'."
+    }
+  }
+}

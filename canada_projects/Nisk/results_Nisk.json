@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nisk/52568.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nisk",
+      "justification": "The article states: \"Power Nickel Inc. (the \"Company\" or \"Power Nickel\") ... is pleased to announce it has completed the acquisition of an additional 30% of the Nisk Project from Critical Elements Lithium.\""
+    },
+    "company_name": {
+      "value": "Power Nickel Inc.",
+      "justification": "The buyer is identified as \"Power Nickel Inc. (the \"Company\" or \"Power Nickel\") ****(OTCBB: PNPNF) (TSXV: PNPN) (Frankfurt: IVV)\". This name is used consistently throughout the press release, which is sourced from the company itself."
+    },
+    "ceo_buyer": {
+      "value": "Terry Lynch",
+      "justification": "The article includes a quote from the CEO: \"- Commented Power Nickel CEO Terry Lynch\""
+    },
+    "interest_acquired_percent": {
+      "value": 30,
+      "justification": "The text announces the company \"has completed the acquisition of an additional 30% of the Nisk Project from Critical Elements Lithium.\""
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The company's focus is described as: \"Power Nickel is a Canadian junior exploration company focusing on developing the high-grade Nisk project into Canada's first Carbon Neutral Nickel mine.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/power-nickel-extends-momentum---closes-acquisition-on-80-of-nisk-302125643.html",
+      "justification": "The article is titled 'Power Nickel Extends Momentum - Closes Acquisition on 80% of Nisk' and details the acquisition of interest in the Nisk project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Power Nickel Inc., is listed on the TSX Venture Exchange (TSXV: PNPN), a Canadian exchange. A separate news item in the provided text mentions a private placement for 'C$50 MILLION', indicating the company operates in Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not state any cash payment was made for the acquisition. It mentions the final condition was the filing of a technical report, suggesting the completion of a pre-existing earn-in agreement rather than a direct cash purchase at this time."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any payment in shares for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants being issued as part of this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options being issued as part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued, so there is no associated share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article states \"Power Nickel will continue to fund 100% of expenditures at Nisk until such time as a Bankable Feasibility Study is presented\", but does not quantify this future commitment with a specific dollar value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions the property has \"20 kilometers of strike length\" but does not provide a specific area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article refers to a \"2023 Mineral Resource Estimate on the Nisk Main Nickel Sulfide zone\" but does not provide the specific quantities (e.g., tonnes, ounces) of the resource within the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PNPN",
+      "justification": "The text identifies the company as \"Power Nickel Inc. (the \"Company\" or \"Power Nickel\") ****(OTCBB: PNPNF) (TSXV: PNPN) (Frankfurt: IVV)\"."
+    }
+  }
+}

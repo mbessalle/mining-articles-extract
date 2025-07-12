@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Bleasdell Lake/48376.txt",
+    "canada_projects/Bleasdell Lake/50218.txt",
+    "canada_projects/Bleasdell Lake/52146.txt",
+    "canada_projects/Bleasdell Lake/82796.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bleasdell Lake",
+      "justification": "The text identifies the project as one of the principal properties in the acquisition package: 'Bleasdell Lake -- host to a 1957 historic resource of 620,700 pounds of U3O8 (triuranium octoxide) contained within two zones;'"
+    },
+    "company_name": {
+      "value": "Atomic Minerals Corporation",
+      "justification": "The acquiring company is identified at the start of the press releases: 'Atomic Minerals Corporation (TSXV: ATOM) (\"ATOMIC MINERALS\" or the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Clive Massey",
+      "justification": "The CEO of the buyer, Atomic Minerals Corporation, is identified in the signature block and quotes: 'Clive H. Massey President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text describes a full acquisition of the properties, implying 100% interest: 'the Company is pleased to announced it has completed the acquisition of an extensive uranium land package...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text repeatedly refers to the project's commodity as uranium. 'Atomic Minerals Announces LOI To Acquire an Historical Resource of 620,000 LBS Uranium in Northern Saskatchewan' and 'Bleasdell Lake -- host to a 1957 historic resource of 620,700 pounds of U3O8'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/196767",
+      "justification": "The article is titled 'Atomic Minerals Announces LOI To Acquire an Historical Resource of 620,000 LBS Uranium in Northern Saskatchewan' and names the Bleasdell Lake project as a key highlight of the acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with a '$' symbol and the acquiring company, Atomic Minerals Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 41667,
+      "justification": "The project's share is calculated as one-third of the total amended cash payment of $125,000 ($10,000 + $115,000) for the three retained properties (Bleasdell Lake, Pistol Lake, Baby Loon). The latest amended terms state: 'Atomic Minerals will pay the Vendors $10,000 by December 2, 2024. An additional $115,000 will be paid to the Vendors by February 28, 2025.' The final package consists of three properties: 'the Company's land package consists of four claims comprising three high-priority properties... Bleasdell Lake, Pistol Lake and Baby Loon'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured with a number of shares and a price per share, not a raw share value payment. This follows Priority 2 of the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The project's share is calculated as one-third of the total 6,000,000 shares issued for the three retained properties (Bleasdell Lake, Pistol Lake, Baby Loon). The terms state: 'issuance of 6,000,000 common shares in the capital of the Company'. The final package consists of three properties: 'the Company's land package consists of four claims comprising three high-priority properties... Bleasdell Lake, Pistol Lake and Baby Loon'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include an exploration commitment measured in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a monetary exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is payable to the vendor on future production, which is considered a retained royalty as part of the transaction terms. 'There is a 2% net smelter royalty (\"NSR\") payable to the Vendor on any future production.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total area for the initial package of nine properties (6498.65 ha) and a revised total for the final three properties (2,180 ha), but does not provide a specific area for the Bleasdell Lake project itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was found for the Bleasdell Lake project."
+    },
+    "resource_size": {
+      "value": "620,700 pounds of U3O8 contained within two zones",
+      "justification": "The text explicitly states the historical resource for the project: 'Bleasdell Lake -- host to a 1957 historic resource of 620,700 pounds of U3O8 (triuranium octoxide) contained within two zones;'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ATOM",
+      "justification": "The buyer's ticker and exchange are provided in the header of the press releases: 'Atomic Minerals Corporation (TSXV: ATOM)'"
+    }
+  }
+}

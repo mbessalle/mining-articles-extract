@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Snip North/53629.txt",
+    "canada_projects/Snip North/54121.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Snip North",
+      "justification": "The acquired claims are an addition to the Snip North project. 'The Purchased Claims adjoin the south western portion of Hanstone’s existing Snip North property.'"
+    },
+    "company_name": {
+      "value": "Hanstone Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Hanstone Gold Corp. (TSXV:HANS) (FRA:HGO) (the “Company” or “Hanstone”) is pleased to announce that it has entered into an asset purchase agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Ray Marks",
+      "justification": "The contact for the buyer, Hanstone Gold Corp., is listed as 'Ray Marks, President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is an asset purchase agreement for three mineral exploration claims, which implies 100% ownership of the acquired assets. '...the Company will purchase three mineral exploration claims (the “Purchased Claims”)...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company is described as a precious metals explorer with a focus on gold in the Golden Triangle. 'Hanstone has a highly experienced team of industry professionals with a successful track record in the discovery of gold deposits...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a direct link to a specific news article, only a link to the company's main website."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) because the acquiring company, Hanstone Gold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian stock exchange, and the consideration is denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the claims is in shares and a royalty. No cash payment is mentioned as part of the primary consideration. The transaction terms are fulfilled by populating `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 650000,
+      "justification": "As consideration for the Purchased Claims the Company issued 650,000 common shares of the Company (each, a “Share”) to Mill..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The shares were issued 'at a deemed price of $0.05 per Share, representing an aggregate value of $32,500.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller (Richard Mill) retained a 2% NSR. 'In addition, the Company will grant to Mill a royalty equal to 2% of the net smelter returns on the Purchased Claims (the “NSR Royalty”)...'"
+    },
+    "coverage_area_raw": {
+      "value": 355.37,
+      "justification": "The purchased claims are explicitly stated to cover this area: '...three mineral exploration claims (the “Purchased Claims”) comprising approximately 355.37 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: '...comprising approximately 355.37 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration potential but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HANS",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: 'Hanstone Gold Corp. (TSXV:HANS)...'"
+    }
+  }
+}

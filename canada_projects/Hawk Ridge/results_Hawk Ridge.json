@@ -1,0 +1,97 @@
+{
+  "source_files": [
+    "canada_projects/Hawk Ridge/32168.txt",
+    "canada_projects/Hawk Ridge/68224.txt",
+    "canada_projects/Hawk Ridge/68226.txt",
+    "canada_projects/Hawk Ridge/81660.txt",
+    "canada_projects/Hawk Ridge/85272.txt",
+    "canada_projects/Hawk Ridge/89841.txt",
+    "canada_projects/Hawk Ridge/98321.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hawk Ridge",
+      "justification": "The documents consistently refer to the project as the \"Hawk Ridge Project\". For example: \"1844 Enters into Option Agreement to Acquire up to a 100% Interest in the High-Grade Hawk Ridge Nickel/Copper Project in Quebec\"."
+    },
+    "company_name": {
+      "value": "1844 Resources Inc.",
+      "justification": "The buyer is identified in the headline and body of the press releases: \"1844 RESOURCES Inc. (TSXV: EFF)(the \"Company\" or \"1844\") announces that it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Sylvain Laberge",
+      "justification": "The press releases are signed by \"Sylvain Laberge President and CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for the acquisition of up to 100% interest in two stages. The first option is for an 80% interest, and the second option is for the remaining 20%. \"...it has entered into an option agreement (the \"Option Agreement\") with Nickel North Exploration Corp. (\"Nickel North\"), pursuant to which Nickel North has granted options to the Company to acquire up to a 100% interest...\""
+    },
+    "primary_commodity": {
+      "value": "Nickel/Copper",
+      "justification": "The project is consistently described with these two commodities: \"...Option Agreement to Acquire up to a 100% Interest in the High-Grade Hawk Ridge Nickel/Copper Project in Quebec\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/233408",
+      "justification": "All provided documents are relevant to the Hawk Ridge project acquisition by 1844 Resources Inc. This link points to the December 11, 2024 press release which details the definitive option agreement, superseding previous announcements."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is explicitly stated as CAD in the terms for the second option: \"1844 shall retain the sole and exclusive option to acquire the remaining 20% interest in the Hawk Ridge project in exchange for a one-time payment of CAD$2,000,000.\""
+    },
+    "cash_payments_raw": {
+      "value": 3512000,
+      "justification": "The total cash payment is the sum of payments for the first 80% interest ($1,512,000 as per the table in the Dec 11, 2024 release) and the second option for the remaining 20% ($2,000,000). \"Total $1,512,000\" and \"Additionally, the Company may earn the remaining 20% interest in the Hawk Ridge Property... by paying to Nickel North an additional $2,000,000\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes the issuance of a number of shares, not a specified monetary value of shares. Therefore, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are specified separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 21000000,
+      "justification": "The total number of shares to be issued for the first 80% interest is listed in the summary table of the definitive agreement announced on December 11, 2024: \"Total ... 21,000,000\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the consideration for the project acquisition. The warrants mentioned are part of a concurrent but separate private placement financing."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the transaction is an option agreement, the payment terms are broken down into specific cash and share components, which are populated in their respective fields."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the April 1, 2025 article: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment is specified in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 6000000,
+      "justification": "The total exploration expenditure commitment is summarized in the table of the definitive agreement announced on December 11, 2024: \"Total ... $6,000,000\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Nickel North, retains a royalty if the buyer exercises the second option to acquire 100% of the project. \"If the Company exercises the Second Option, the Company will grant to Nickel North a 2% net smelter returns royalty from all mineral production from the Hawk Ridge Property (the \"NSR Royalty\").\""
+    },
+    "coverage_area_raw": {
+      "value": 179,
+      "justification": "The press release states: \"The Hawk Ridge Property is comprised of 411 claims covering 179 km2...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The press release states: \"The Hawk Ridge Property is comprised of 411 claims covering 179 km2...\""
+    },
+    "resource_size": {
+      "value": "29.44 Mt grading 0.20% Ni, 0.52% Cu, 0.012% Co, 0.19 g/t Pd, 0.04 g/t Pt and 0.021 g/t Au, corresponding to 0.56% NiEq",
+      "justification": "The historical resource is described as: \"The aggregate pit constrained inferred mineral resource (the \"Historical Resource\") for all four deposits as reported by Nickel North using a $35/t cut-off was 29.44 Mt grading 0.20% Ni, 0.52% Cu, 0.012% Co, 0.19 g/t Pd, 0.04 g/t Pt and 0.021 g/t Au, corresponding to 0.56% NiEq.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EFF",
+      "justification": "The buyer's ticker and exchange are listed in the header of the press releases: \"1844 RESOURCES Inc. (TSXV: EFF)\"."
+    }
+  }
+}

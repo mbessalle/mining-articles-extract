@@ -1,0 +1,76 @@
+--- Article Metadata ---
+Project Name: Springpole East
+Company Name: Bold Ventures Inc.
+Exchange: TSXV
+Ticker: BOL
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.23.2025, 8:00:00 PM
+
+# Bold Stakes Claims Near Springpole and Grants Options
+
+Toronto, Ontario--(Newsfile Corp. - January 23, 2025) - Bold Ventures Inc. (TSXV: BOL) (the "**Company** " or "**Bold** ") is pleased to announce that the Company has staked 208 single cell claims covering 4180 hectares. The property, named the Springpole East Gold Project, is located 120 km east-northeast of the town of Red Lake, Ontario, and 9 km east of the Springpole Gold Deposit of First Mining Gold Corp ("First Mining") ([Figure 1](https://api.newsfilecorp.com/redirect/q8Z0LUn04D)), which contains a resource of 4.6 Moz Au @ 0.94 g/t Au in the Indicated Mineral Resource category and 0.3 Moz Au @ 0.54 g/t Au in the Inferred Mineral Resources category ([First Mining website](https://api.newsfilecorp.com/redirect/nVZLkSAYr2)).
+
+Additionally, the Canamer or Birch Lake East Occurrence is located approximately 1.3 km west of the Property boundary, where First Mining obtained a result of 15.3 g/t Au from a grab sample in 2022 ([First Mining January 17, 2023 news release](https://api.newsfilecorp.com/redirect/K8KmbU4eDW) _)_. The showing is hosted in banded iron formation, a rock type which has been mapped in the northwest part of the Springpole East Property, corresponding to prominent magnetic anomalies ([see Figure 2](https://api.newsfilecorp.com/redirect/EyYRbf8pPx)).
+
+The Property area was most recently explored in 2022 by GoldON Resources Ltd. ("GoldON"), which carried out a high-resolution airborne magnetic survey as well as prospecting programs, resulting in the discovery of angular boulders of altered granitic rock returning from 191 to 1270 ppb Au ([GoldON October 9, 2022 news release](https://api.newsfilecorp.com/redirect/x3V7YCm1kg)). From an historical perspective the property area has seen very little systematic exploration work ([see Figure 2](https://api.newsfilecorp.com/redirect/7WJQpCALYA)). 
+
+The Company also reports that it has granted 2,200,000 options to Bold's Management. Directors, Consultants and Advisors. The options will expire in five years and have an exercise price of 7 cents ($0.07) representing a 40% premium to the closing price of the Company's common shares on January 22, 2025. These newly issued options bring the total issued to 74% of the available options under the Company's Stock Option Plan.
+
+_The technical information in this news release was reviewed and approved by Coleman Robertson, B.Sc., P. Geo., the Company's V.P. Exploration and a qualified person (QP) for the purposes of NI 43-101._
+
+_**Bold Ventures management believes our suite of Battery, Critical and Precious Metals exploration projects are an ideal combination of exploration potential meeting future demand**. Our target commodities are comprised of: Copper (**Cu**), Nickel (**Ni**), Lead (**Pb**), Zinc (**Zn**), Gold (**Au**), Silver (**Ag**), Platinum (**Pt**), Palladium (**Pd**) and Chromium (**Cr**). The Critical Metals list and a description of the Provincial and Federal electrification plans are posted on the Bold _[_**Critical and Battery Minerals page**_](https://api.newsfilecorp.com/redirect/eLZmVtGn1v) _._
+
+**About Bold Ventures Inc.**
+
+**The Company explores for Precious, Battery and Critical Metals in Canada. Bold is exploring properties located in active gold and battery metals camps in the Thunder Bay and Wawa regions of Ontario. Bold also holds significant assets located within and around the emerging multi-metals district dubbed the Ring of Fire region, located in the James Bay Lowlands of Northern Ontario.**
+
+For additional information about Bold Ventures and our projects please visit [**boldventuresinc.com**](https://api.newsfilecorp.com/redirect/85GMYH3L0a) or contact us at 416-864-1456 or email us at [**info@boldventuresinc.com**](mailto:info@boldventuresinc.com).
+
+"Bruce A MacLachlan| “David B Graham”  
+---|---  
+Bruce MacLachlan   
+| David Graham  
+  
+President and COO   
+| CEO   
+  
+ |    
+Direct line: (705) 266-0847|   
+  
+  
+|    
+Email: [bruce@boldventuresinc.com](mailto:bruce@boldventuresinc.com)   
+|    
+  
+Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+_Cautionary Note Regarding Forward-Looking Statements: This Press Release contains forward-looking statements that involve risks and uncertainties, which may cause actual results to differ materially from the statements made. When used in this document, the words "may", "would", "could", "will", "intend", "plan", "anticipate", "believe", "estimate", "expect" and similar expressions are intended to identify forward-looking statements. Such statements reflect our current views with respect to future events and are subject to such risks and uncertainties. Many factors could cause our actual results to differ materially from the statements made, including those factors discussed in filings made by us with the Canadian securities regulatory authorities. Should one or more of these risks and uncertainties, such actual results of current exploration programs, the general risks associated with the mining industry, the price of gold and other metals, currency and interest rate fluctuations, increased competition and general economic and market factors, occur or should assumptions underlying the forward looking statements prove incorrect, actual results may vary materially from those described herein as intended, planned, anticipated, or expected. We do not intend and do not assume any obligation to update these forward-looking statements, except as required by law. Shareholders are cautioned not to put undue reliance on such forward-looking statements._
+
+**NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES.  
+**
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/238160](https://api.newsfilecorp.com/redirect/yEzW0CGABb)
+
+### Project Name
+
+[Springpole East Project](/?gid=9687)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.065                       $  Chg: -0.005
+Bid: 0.075                        Bid Size: 5000
+Beta: 0.4746                       Year High: 0.12
+Market Cap: 3.92m                 PB Ratio: 2.80
+Average Volume (30 Day): 54.57k    Volume: 68.92k
+% Chg: -7.14%                      Prev. Close: 0.07
+Ask: 0.075                        Ask Size: 14000
+VWAP: 0.06926                       Year Low: 0.025
+Total Shares: 60.32m               Shares Out: 79.64m
+Float: 57.01m                      Exchange: TSXV

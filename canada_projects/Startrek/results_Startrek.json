@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Startrek/46513.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Startrek",
+      "justification": "The article is titled 'Thunder Gold Acquires 100% Interest in Startrek Gold Property in Newfoundland'."
+    },
+    "company_name": {
+      "value": "Thunder Gold Corp.",
+      "justification": "The press release is from 'Thunder Gold Corp (TSXV: TGOL) (FSE: Z25) (OTCQB: TGOLF) (formerly White Metal Resources Corp) (\"Thunder Gold\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Wes Hanson",
+      "justification": "The article identifies the CEO: 'Wes Hanson, P.Geo., President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline of the article states: 'Thunder Gold Acquires 100% Interest in Startrek Gold Property in Newfoundland'. The body clarifies this is the result of a partner failing to complete an option: 'As a result, the Company now holds a 100% interest in the Newfoundland (\"NL\") gold Property.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold property, for example: 'Startrek Gold Property' and 'Central Newfoundland Gold Belt (\"CNGB\"), an emerging gold district'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/192510",
+      "justification": "The article content is entirely about the Startrek project, which is the primary project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange ('TSXV: TGOL') and the detailed quote uses the '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a reversion of interest after an option agreement was not completed by Leocor Gold Inc. No cash payment was made by Thunder Gold Corp."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was a reversion of interest after an option agreement was not completed by Leocor Gold Inc. No share payment was made by Thunder Gold Corp."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was a reversion of interest after an option agreement was not completed by Leocor Gold Inc. No combined payment was made by Thunder Gold Corp."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the property interest. The text mentions an extension of existing stock options, but this is a separate corporate matter not tied to the property transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as consideration for the property interest. The text mentions an extension of existing stock options, but this is a separate corporate matter not tied to the property transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a committed exploration expenditure as part of this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the article."
+    },
+    "coverage_area_raw": {
+      "value": 6847,
+      "justification": "The text states: 'The Startrek Gold Property (6,847 hectares) is situated in the Central Newfoundland Gold Belt...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Startrek Gold Property (6,847 hectares) is situated in the Central Newfoundland Gold Belt...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical gold showings and grades (e.g., 'up to 40.9 g/t Au in selective surface rock samples') but does not provide a quantified mineral resource estimate with tonnage and grade."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TGOL",
+      "justification": "The buyer, Thunder Gold Corp., is identified with its ticker and exchange in the first paragraph: 'Thunder Gold Corp (TSXV: TGOL)'."
+    }
+  }
+}

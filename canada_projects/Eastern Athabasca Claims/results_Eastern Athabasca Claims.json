@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Eastern Athabasca Claims/51459.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Eastern Athabasca Claims",
+      "justification": "The authoritative project name is 'Eastern Athabasca Claims'. The article confirms this subject with the headline 'Searchlight Resources Stakes in the Athabasca Basin' and content stating 'the staking of two mineral claims in the Eastern Athabasca Basin'."
+    },
+    "company_name": {
+      "value": "Searchlight Resources Inc.",
+      "justification": "The company that staked the claims is identified as 'Searchlight Resources Inc. (TSXV: SCLT) (OTCQB: SCLTF) (\"Searchlight\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Wallace",
+      "justification": "The text identifies the CEO of the acquiring company, Searchlight Resources Inc., as Stephen Wallace: '\"These claims fit Searchlight exploration strategy of generating new critical element projects by staking,\" stated Stephen Wallace, P.Geo, President and CEO of Searchlight.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes a staking action, which typically implies 100% interest, but no specific percentage of interest acquired is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The claims are described as being part of a uranium strategy: 'The Company staked claim...within the Athabasca Basin which hosts the highest-grade operating Uranium mines in the world.' and 'These claims are now part of the Searchlight's uranium project portfolio...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/204037",
+      "justification": "The article is about Searchlight Resources Inc. staking two new claims in the Eastern Athabasca Basin, which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase, and no financial consideration (cash or shares) is mentioned, so currency is not applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase, and no cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase, and no share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase, and no combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this staking transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of this staking transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of this staking transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this staking transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that Searchlight 'will plan for future exploration' but does not mention a specific monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of this staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 43.5,
+      "justification": "The text states: '2 new claims covering 43.5 sq km.' and 'Searchlight staked two claims totaling 43.5 square kilometres'."
+    },
+    "coverage_area_unit": {
+      "value": "sq km",
+      "justification": "The unit for the coverage area is explicitly mentioned: '2 new claims covering 43.5 sq km.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource estimate for a different project, Duddridge Lake: '...the Duddridge Lake Uranium Deposit with a historic 43-101 inferred resource estimate of 227,880 tonnes...'. No resource is stated for the newly staked Eastern Athabasca Claims."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SCLT",
+      "justification": "The buyer, Searchlight Resources Inc., is explicitly identified with its ticker and exchange in the text: 'Searchlight Resources Inc. (TSXV: SCLT)'."
+    }
+  }
+}

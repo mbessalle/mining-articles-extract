@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/East Bull/54437.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "East Bull",
+      "justification": "The press release states the acquisition is to \"complement its East Bull Property.\" The company's project list also identifies its involvement in the \"Elliot Lake, Ontario (East Bull - Ni-Cu-PGE Prospect)\"."
+    },
+    "company_name": {
+      "value": "Marvel Discovery Corp.",
+      "justification": "The acquiring company is identified as \"Marvel Discovery Corp. (TSX-V:MARV)(FRA:O4T)(OTCQB:MARVF) (\"Marvel\" or the \"Company\").\""
+    },
+    "ceo_buyer": {
+      "value": "Karim Rayani",
+      "justification": "The document is signed on behalf of the board by \"Karim Rayani President/Chief Executive Officer, Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Marvel \"has acquired 100% of additional ground ('Pecors West')\"."
+    },
+    "primary_commodity": {
+      "value": "Ni-Cu-PGE",
+      "justification": "The company's project list describes the relevant project as \"Elliot Lake, Ontario (East Bull - Ni-Cu-PGE Prospect)\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/866832/marvel-discovery-acquires-strategic-ground-in-elliot-lake-on",
+      "justification": "The article is about Marvel Discovery Corp.'s acquisition of the Pecors West property, which is explicitly stated to \"complement its East Bull Property,\" the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves cash payments denoted by '$' and the acquiring company, Marvel Discovery Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The transaction terms include \"$10,000 cash payable upon acceptance of the transaction by the TSX Venture Exchange (the \"Effective Date\") and an additional $40,000 cash payable within 6 months from the Effective Date,\" totaling $50,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms specify the number of shares to be issued but do not provide an aggregate dollar value for the share component."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "Under the Transaction Terms, \"On the Effective Date, Marvel must also issue 500,000 common shares\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": 25000,
+      "justification": "The terms include \"500,000 share purchase warrants exercisable for a 3-year period at $.05 per share.\" The total value is 500,000 * $0.05 = $25,000."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms mention the number of shares issued (500,000), but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.03'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, \"The vendors retains a 2% NSR with a buyback option from Marvel for 50% of the NSR for $1,000,000 cash.\""
+    },
+    "coverage_area_raw": {
+      "value": 805,
+      "justification": "The text states, \"The additional land package of 805 hectares (ha) brings the land holdings in the area to a total of 6,157 ha.\" The area acquired in this transaction is 805 ha."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the acquired area is specified in the text: \"The additional land package of 805 hectares (ha)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the acquired Pecors West property. The resources mentioned (e.g., \"total indicated resources of 16.5 million tonnes at a grade of 0.93 g/t PdEq\") are explicitly located on adjacent properties owned by other companies like Quest Critical Metals Inc. and Radio Fuels Corp."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MARV",
+      "justification": "The company is identified as \"Marvel Discovery Corp. (TSX-V:MARV)\" and the detailed quote section confirms \"Exchange: TSXV\"."
+    }
+  }
+}

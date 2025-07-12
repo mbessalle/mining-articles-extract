@@ -1,0 +1,66 @@
+--- Article Metadata ---
+Project Name: Murphy Lake North
+Company Name: Cosa Resources Corp.
+Exchange: TSX-V
+Ticker: COSA
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.2.2024, 7:30:00 PM
+
+# Cosa Resources Announces TSXV Conditional Approval for Transaction with Denison Mines
+
+Vancouver, British Columbia--(Newsfile Corp. - December 2, 2024) - **Cosa Resources Corp.**(**TSX-V: COSA**) (**OTCQB:** **COSAF**) (**FSE: SSKU**) ("**Cosa** " or the "**Company** ") is pleased to announce that the TSX Venture Exchange (the "**TSXV** ") has conditionally approved Cosa's acquisition (the "**Transaction** ") of a 70% interest in a portfolio of prospective uranium projects from Denison Mines Corp. (**TSX: DML**) (**NYSE American: DNN**).
+
+The Company is also pleased to announce that trading of its common shares on the TSXV will resume at market open on Monday, December 2, 2024. Trading of the Company's common shares on the TSXV was halted on November 26, 2024 in accordance with the policies of the TSXV in connection with the Company's announcement of the Transaction. 
+
+Further details on the Transaction can be found in the Company's news release dated November 27, 2024.
+
+Cosa expects the Transaction to be completed by early 2025.
+
+**About Cosa Resources Corp.**
+
+Cosa Resources is a Canadian uranium exploration company operating in northern Saskatchewan. The portfolio comprises roughly 237,000 ha across multiple 100% owned and Cosa operated Joint Venture projects in the Athabasca Basin region, all of which are underexplored, and the majority reside within or adjacent to established uranium corridors. 
+
+Cosa's award-winning management team has a long track record of success in Saskatchewan. In 2022, members of the Cosa team were awarded the AME Colin Spence Award for their previous involvement in discovering IsoEnergy's Hurricane deposit. Prior to Hurricane, Cosa personnel led teams or had integral roles in the discovery of Denison's Gryphon deposit and 92 Energy's Gemini Zone and held key roles in the founding of both NexGen and IsoEnergy. 
+
+Cosa's primary focus through 2024 was initial drilling at the 100% owned Ursa Project, which captures over 60-kilometres of strike length of the Cable Bay Shear Zone, a regional structural corridor with known mineralization and limited historical drilling. It potentially represents the last remaining eastern Athabasca corridor to not yet yield a major discovery, which the Company believes is primarily due to a lack of modern exploration. Modern geophysics completed by Cosa in 2023 identified multiple high-priority target areas characterized by conductive basement stratigraphy beneath or adjacent to broad zones of inferred sandstone alteration - a setting that is typical of most eastern Athabasca uranium deposits. Guided by a recently completed Ambient Noise Tomography (ANT) survey, Cosa's second and most recent drilling campaign at Ursa intersected a significant zone of unconformity-style sandstone hosted structure and alteration underlain by several intervals of anomalous radioactivity in the basement rocks. Follow-up is currently in planning for 2025.
+
+**Contact**
+
+Keith Bodnarchuk, President and CEO  
+[info@cosaresources.ca](mailto:info@cosaresources.ca)   
++1 888-899-2672 (COSA)
+
+**Cautionary Statements**
+
+Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+This press release contains forward-looking information within the meaning of Canadian securities laws (collectively "forward-looking statements"). Forward-looking statements are typically identified by words such as: believe, expect, anticipate, intend, estimate, plans, postulate and similar expressions, or are those, which, by their nature, refer to future events. All statements that are not statements of historical fact are forward-looking statements. Forward-looking statements in this press release include but are not limited to statements regarding, the Company's exploration and development plans. Although the Company believes any forward-looking statements in this press release are reasonable, it can give no assurance that the expectations and assumptions in such statements will prove to be correct. Factors that could cause actual results to differ materially from such forward-looking information include, but are not limited to, changes in the state of equity and debt markets, fluctuations in commodity prices, delays in obtaining required regulatory or governmental approvals, and other risks involved in the mineral exploration and development industry, including those risks set out in the Company's management's discussion and analysis as filed under the Company's profile at www.sedarplus.ca. Forward-looking information in this news release is based on the opinions and assumptions of management considered reasonable as of the date hereof, including the price of uranium and other commodities; costs of exploration and development; the estimated costs of development of exploration projects; the Company's ability to operate in a safe and effective manner and its ability to obtain financing on reasonable terms. Although the Company believes that the assumptions and factors used in preparing the forward-looking information in this news release are reasonable, undue reliance should not be placed on such information. The Company disclaims any intention or obligation to update or revise any forward-looking information, other than as required by applicable securities laws.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/232096](https://api.newsfilecorp.com/redirect/Jg3xqFDm2V)
+
+### Project Name
+
+[Murphy Lake North Project](/?gid=9122)  
+Saskatchewan, Canada
+
+--- Detailed Quote ---
+
+Last: 0.205             $  Chg: 0.01
+Open: 0.20             High: 0.205
+Bid: 0.20              Bid Size: 10500
+Beta: 2.16347             Year High: 0.35
+Market Cap: 17.40m       PB Ratio: 1.72
+EPS: -0.11              Average Volume (30 Day): 108.40k
+Volume: 177.60k           % Chg: 5.13%
+Prev. Close: 0.195      Low: 0.19
+Ask: 0.20              Ask Size: 1500
+VWAP: 0.19709             Year Low: 0.17
+Total Shares: 84.90m     Shares Out: 84.90m
+Escrow Shares: 2.42m    Float: 77.38m
+Exchange: TSXV

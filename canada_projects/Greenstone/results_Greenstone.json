@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Greenstone/53731.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Greenstone",
+      "justification": "The article is titled 'Equinox Gold Completes Consolidation of Ownership of the Greenstone Mine' and the project is referred to as 'the Greenstone Mine in Ontario, Canada'."
+    },
+    "company_name": {
+      "value": "Equinox Gold Corp.",
+      "justification": "The press release is issued by 'Equinox Gold Corp. (TSX: EQX) (NYSE American: EQX)' which is identified as the acquirer."
+    },
+    "ceo_buyer": {
+      "value": "Greg Smith",
+      "justification": "The text states: 'Greg Smith, President and CEO of Equinox Gold, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 40,
+      "justification": "The text announces the 'acquisition of the remaining 40% of Greenstone Gold Mine GP Inc. from certain funds managed by Orion Mine Finance Management LP (\"Orion\"), giving Equinox Gold 100% ownership of the Greenstone Mine'."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The project is described as a 'long-life, low-cost gold mine of significant scale'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/208938",
+      "justification": "The article is about the Greenstone project acquisition by Equinox Gold. The source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/208938'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The only currency mentioned in a financial context related to the transaction is in the statement: 'In connection with the Transaction, Equinox Gold has also completed the previously announced US$500 million three-year term loan.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text announces the completion of the transaction but does not specify the cash consideration paid to Orion."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share consideration paid to Orion for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The total value of the consideration for the acquisition is not mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not state that any shares were issued as part of the transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so no issue price is mentioned."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the mine as being of 'significant scale' but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:EQX",
+      "justification": "The buyer is identified in the first paragraph as 'Equinox Gold Corp. (TSX: EQX) (NYSE American: EQX)'."
+    }
+  }
+}

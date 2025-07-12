@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/East Pilot/26668.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "East Pilot",
+      "justification": "The article announces an agreement for two properties: \"The Otatakan and East Pilot lithium properties\"."
+    },
+    "company_name": {
+      "value": "Westmount Minerals Corp.",
+      "justification": "The acquiring company is identified as \"Westmount Minerals Corp. (CSE: WMC) (\"Westmount\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "David Tafel",
+      "justification": "A quote in the article is attributed to \"David Tafel, CEO of Westmount\" and he is listed as \"David Tafel Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction terms state: \"The Company has the right to acquire a 100% interest in the Properties\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article describes the properties as \"two prospective lithium claim groups. The Otatakan and East Pilot lithium properties\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/140176",
+      "justification": "The article is a press release from Westmount Minerals Corp. announcing it has executed a property option agreement for the East Pilot lithium property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted by '$' and the acquiring company, Westmount Minerals Corp., is listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": 81700,
+      "justification": "The value is calculated as half of the total $163,400 payment, as this consideration is for two properties (Otatakan and East Pilot). The text states the deal is for 'the Properties' with 'staged payments over 3 years totaling $163,400'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the payment is structured as a number of shares, which is handled by `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share components can be identified."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "The value is calculated as half of the total one million shares, as this consideration is for two properties (Otatakan and East Pilot). The text states the deal is for 'the Properties' by 'issuing one million common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The transaction terms state: \"The Optionors retain a 1.5% net smelter returns royalty (\"NSR\")\"."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total area for two properties: \"The Otatakan and East Pilot lithium properties total 5,002 hectares in size\". No specific area for the East Pilot project is provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The `coverage_area_raw` is null as no specific area for the project was provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate with mass or volume for the East Pilot project. It only mentions \"Elevated Li and Cs-lake sediment samples\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WMC",
+      "justification": "The company name is followed by its ticker and exchange in the first paragraph: \"Westmount Minerals Corp. (CSE: WMC)\"."
+    }
+  }
+}

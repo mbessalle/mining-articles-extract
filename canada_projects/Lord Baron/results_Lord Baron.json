@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Lord Baron/64844.txt",
+    "canada_projects/Lord Baron/65874.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lord Baron",
+      "justification": "The primary project of interest is named in the title of the press release: 'Sorrento Resources Completes Acquisition of the Copper-Gold Lord Baron Project, Newfoundland'."
+    },
+    "company_name": {
+      "value": "Sorrento Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Sorrento Resources Ltd. (CSE: SRS) (OTCQB: SRSLF) (the \"Company\" or \"Sorrento\")' which 'completed the acquisition of a 100% undivided interest in the minerals licenses collectively representing the Lord Baron Project'."
+    },
+    "ceo_buyer": {
+      "value": "Brayden Sutton",
+      "justification": "The press release is signed on behalf of the board by 'Brayden Sutton Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Sorrento 'completed the acquisition of a 100% undivided interest in the minerals licenses collectively representing the Lord Baron Project'."
+    },
+    "primary_commodity": {
+      "value": "Copper-Gold",
+      "justification": "The project is described in the headline as the 'Copper-Gold Lord Baron Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/216146",
+      "justification": "The article at this link is titled 'Sorrento Resources Completes Acquisition of the Copper-Gold Lord Baron Project, Newfoundland', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is given in '$' and the acquiring company, Sorrento Resources Ltd., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 47500,
+      "justification": "The transaction was completed for 'aggregate consideration of $47,500 in cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved the issuance of shares, but a total monetary value for the share component was not provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction were listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4300000,
+      "justification": "The consideration included 'the issuance of an aggregate of 4,300,000 common shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued (4,300,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No drilling commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration expenditure commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, Sorrento agreed to 'the grant of 2% net smelter returns royalties to the underlying vendors of the various mineral licenses representing the Project.' This represents a royalty retained by the sellers."
+    },
+    "coverage_area_raw": {
+      "value": 5650,
+      "justification": "The initial acquisition announcement states: 'The Project, consists of 13 individual mineral licenses made up of 226 individual claims for an area of 5,650ha.' A subsequent expansion to 6,400ha was a separate staking event, not part of this acquisition."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the project area is specified in the text: '...for an area of 5,650ha.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate (e.g., JORC or NI 43-101). It only mentions historical extraction of '<25tons of massive sulphide ore', which is not a current resource statement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SRS",
+      "justification": "The acquiring company is identified in the text as 'Sorrento Resources Ltd. (CSE: SRS)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Rider/82940.txt",
+    "canada_projects/Rider/82941.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rider Natural Hydrogen Project",
+      "justification": "The text from August 1, 2024 states: \"MAX Power has assembled a 1,244 sq. km land package, which shall now be referred to as the “Rider Natural Hydrogen Project”\"."
+    },
+    "company_name": {
+      "value": "MAX Power Mining Corp.",
+      "justification": "The company is identified in the text as: \"MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N) (“MAX Power” or the “Company”)\"."
+    },
+    "ceo_buyer": {
+      "value": "Rav Mlait",
+      "justification": "The CEO is identified in the signature block of the press releases: \"“Rav Mlait”- CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves staking claims on Crown land, not acquiring a percentage interest from another entity. No percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Natural Hydrogen",
+      "justification": "The project is consistently referred to as the \"Rider Natural Hydrogen Project\" and the press release headline is \"MAX Power Uncovers Canada’s Largest Natural Hydrogen Target Area\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a direct link to the news articles themselves, only to presentations and videos."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's primary listing is on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD). The detailed quote section shows a '$' symbol and lists the exchange as 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, not an acquisition involving a cash payment. No cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, not an acquisition involving a share payment. No share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of claims, and no combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the staking transaction described in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were issued as part of the staking transaction described in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as part of the staking transaction described in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the staking transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3356,
+      "justification": "The most recent press release (August 6, 2024) provides the updated total project size: \"Rider is Canada’s largest Natural Hydrogen target area and now covers 3,356 sq. km\"."
+    },
+    "coverage_area_unit": {
+      "value": "sq. km",
+      "justification": "The unit is provided in the same sentence as the area measurement: \"Rider is Canada’s largest Natural Hydrogen target area and now covers 3,356 sq. km\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources in terms of mass or volume. It refers to historical grades (e.g., '96.4%') and the potential for discovery, stating geologists are designing a program to 'verify and validate the existence of a naturally occurring hydrogen trend or trends at Rider'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MAXX",
+      "justification": "The company's ticker and exchange are listed in the press release header: \"MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FRANKFURT: 89N)\"."
+    }
+  }
+}

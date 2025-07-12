@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lithium North/40057.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lithium North",
+      "justification": "The text states: \"...new acquisitions to enlarge Lithium North project now totalling some wholly-owned 170 claims for 8,900 hectares...\""
+    },
+    "company_name": {
+      "value": "Dios Exploration Inc.",
+      "justification": "The first sentence of the article identifies the company: \"Dios Exploration Inc. (TSX-V:DOS) management is very pleased to report new acquisitions...\""
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article is a project update by Dios Exploration Inc. about its own project, not an M&A transaction involving a buyer. Marie-José Girard is listed as President, not CEO."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an enlargement of a \"wholly-owned\" project through \"new acquisitions\" of claims, not an acquisition of a specific percentage interest from another company. No transaction terms are provided."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named \"Lithium North\" and the headline reads: \"DIOS Starts Major Boots on the Ground Lithium Exploration, James Bay, Quebec & Enlarges Significantly Lithium North\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Lithium North, but no article URL was included in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction is described in the article, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction and no cash payments are mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction and no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction and no combined cash and share payments are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction and no issuance of shares as consideration is mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of a transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of a transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction and no share issuance price is mentioned."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Lithium North project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Lithium North project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned in the article."
+    },
+    "coverage_area_raw": {
+      "value": 8900,
+      "justification": "The text states: \"Lithium North project now totalling some wholly-owned 170 claims for 8,900 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"Lithium North project now totalling some wholly-owned 170 claims for 8,900 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource for the Lithium North project. It mentions resources for nearby, but separate, projects: \"Allkem James Bay/Cyr lithium deposit (40.3Mt @1.40%Li2O resource) and 40-50km north of Rose deposit (26.3Mt @ 0.87% Li2O & 138 ppm Ta2O5 resources).\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DOS",
+      "justification": "The text identifies the company as \"Dios Exploration Inc. (TSX-V:DOS)\". The authoritative metadata also provides TSXV and DOS. The detailed quote section confirms the exchange is TSXV."
+    }
+  }
+}

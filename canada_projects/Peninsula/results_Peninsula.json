@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Peninsula/44609.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Peninsula",
+      "justification": "The article is titled 'SLAM Acquires Peninsula Critical Minerals Lithium-Tantalum Project...' and refers to the project throughout the text."
+    },
+    "company_name": {
+      "value": "SLAM Exploration Ltd.",
+      "justification": "The acquiring company is identified in the first sentence: 'SLAM Exploration Ltd. (TSX-V:SXL) (“SLAM” or the “Company”) is pleased to announce it has entered into an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "The CEO of the buyer (SLAM) is identified as 'Mike Taylor P.Geo, President and CEO of SLAM Exploration Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The option agreement allows SLAM to 'acquire 100% of the Peninsula Critical Mineral lithium project'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as a lithium project, for example: 'the Peninsula Critical Mineral lithium project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a web URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment schedule table header explicitly states 'Cash Payment (CAD)'."
+    },
+    "cash_payments_raw": {
+      "value": 125000,
+      "justification": "The payment schedule table shows a total cash payment of '$125,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement involves the issuance of shares, but no specific dollar value is assigned to these shares in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 7000000,
+      "justification": "The payment schedule table shows a total issuance of '7,000,000' common shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any stock option payments."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling distance in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "The payment schedule table shows a total of '$1,500,000' in exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction terms, 'Upon SLAM earning 100%, WhiteRock will retain a 1.5% Net Smelter Return (NSR) production royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 4700,
+      "justification": "The text states: 'The Peninsula project comprises 302 claim units covering 4,700 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Peninsula project comprises 302 claim units covering 4,700 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides resource figures for the neighboring Rose project, not the Peninsula project. For the Peninsula project, the text only describes its potential: 'These formations could host pegmatites similar to the northeast-trending lithium pegmatite bodies that outcrop on the Rose project.' No resource has been defined for the Peninsula project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SXL",
+      "justification": "The buyer is identified as 'SLAM Exploration Ltd. (TSX-V:SXL)'. The 'Detailed Quote' section also lists the exchange as 'TSXV'."
+    }
+  }
+}

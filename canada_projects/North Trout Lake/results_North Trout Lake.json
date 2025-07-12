@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/North Trout Lake/31842.txt",
+    "canada_projects/North Trout Lake/33147.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "North Trout Lake",
+      "justification": "The press release announces the acquisition of the 'North Trout Lake lithium property'."
+    },
+    "company_name": {
+      "value": "Beyond Lithium Inc.",
+      "justification": "The buyer is identified as 'Beyond Minerals Inc. (CSE: BY)'. The authoritative metadata provided in the prompt specifies the current name as 'Beyond Lithium Inc.'"
+    },
+    "ceo_buyer": {
+      "value": "Allan Frame",
+      "justification": "The article quotes 'Allan Frame, the new President and CEO of Beyond Minerals'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement is for the 'acquisition (the \"Transaction\") of a 100% undivided interest in the 179 contiguous mining claims...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The property is explicitly named the 'North Trout Lake lithium property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/156317",
+      "justification": "The source URL for the press release announcing the acquisition of the North Trout Lake property is provided at the end of the first document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is denoted with a '$' symbol and the acquiring company, Beyond Minerals Inc., is listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 1045000,
+      "justification": "The total cash consideration includes an initial payment of $45,000 and a conditional milestone payment of $1,000,000. 'Beyond Minerals paid to the vendors aggregate cash consideration of $45,000... In addition, the Company shall pay the vendors a $1-million milestone payment, payable in cash or shares at the option of the Company, in the event the Company files a mineral resource estimate...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares is provided, but not their cash value equivalent in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 171000,
+      "justification": "The company 'issued a total of 171,000 common shares of the Company (the \"Shares\").'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms for the North Trout Lake property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options as a form of payment in the transaction terms for the North Trout Lake property."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.03'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a future exploration program but does not specify a commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions 'a comprehensive exploration program to begin as soon as practically possible' but does not state a specific monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the company 'granted the vendors a 2.0% net smelter return royalty on the Property, one-half of which may be repurchased by the Company for $1,200,000 to reduce the royalty to a 1.0% net smelter return royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 3490,
+      "justification": "The property is described as '179 contiguous mining claims covering approximately 3,490 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The property is described as '179 contiguous mining claims covering approximately 3,490 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource has been defined for the property: 'There has been insufficient exploration to define a mineral resource and it is uncertain if further exploration will result in any of the targets being delineated as a mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BY",
+      "justification": "The acquiring company is identified as 'Beyond Minerals Inc. (CSE: BY)' in the first sentence of the press release."
+    }
+  }
+}

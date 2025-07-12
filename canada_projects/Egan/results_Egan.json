@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Egan/48630.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Egan",
+      "justification": "The article is titled 'Harfang Acquires 100% Interest in the Egan Gold Property' and refers to the project as 'the Egan Gold Property (“Egan” or the “Property”).'"
+    },
+    "company_name": {
+      "value": "Harfang Exploration Inc.",
+      "justification": "The press release is from 'Harfang Exploration Inc.' which is identified as the acquirer: '(TSX-V: HAR) (“Harfang” or the “Company”) is pleased to announce it has exercised its option to acquire 100% interest in the high-grade Egan Gold Property...'"
+    },
+    "ceo_buyer": {
+      "value": "Rick Breger",
+      "justification": "The contact person for Harfang Exploration Inc. is listed as 'Rick Breger, P.Geo. President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline and body of the text state: 'Harfang Acquires 100% Interest in the Egan Gold Property' and 'Harfang has exercised its option to earn 100% interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Egan Gold Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Harfang, is listed on the TSX Venture Exchange ('TSX-V: HAR'), a Canadian exchange, and the consideration is listed in dollars ('$0.1259 per share'), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 112554,
+      "justification": "The total cash payment is the sum of a paid $85,000 instalment and a final $27,554 instalment. The text states: '...two (2) separate instalments of $85,000 each, payable on August 17, 2023 (paid)...' and 'The Vendors have recently agreed to receive, as their final instalment, a total of $27,554 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share, which are captured in `amount_of_shares_issued` and `issued_share_price` respectively, as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details are broken down into cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 510670,
+      "justification": "The Vendors have recently agreed to receive, as their final instalment, a total of $27,554 in cash and 510,670 common shares of Harfang..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": 0.1259,
+      "justification": "...510,670 common shares of Harfang at a deemed price of $0.1259 per share, equivalent to a 10-day VWAP."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes exploration work already conducted but does not mention a future exploration commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes exploration work already conducted but does not mention a future exploration spending commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition is 'subject only to a 2% net smelter return royalty in favour of the Vendors.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions '117 square kilometres of Aerial LiDAR' and '828 line-kilometres of high-resolution helicopter-borne magnetic surveys', which describe exploration activities, but it does not state the total area of the property itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not state the total area of the property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article provides numerous high-grade grab and chip sample results (e.g., '105.0 g/t Au', '7.67 g/t Au over 3.0 metres'), but does not contain a quantified mineral resource estimate with total tonnage or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HAR",
+      "justification": "The buyer is identified as 'Harfang' and its ticker and exchange are provided in the first paragraph: '(TSX-V: HAR)'."
+    }
+  }
+}

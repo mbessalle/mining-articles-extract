@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Wapistan/33224.txt",
+    "canada_projects/Wapistan/33237.txt",
+    "canada_projects/Wapistan/34027.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wapistan",
+      "justification": "The articles consistently refer to the project as the 'Wapistan Lithium Project'. For example: 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL) is pleased to announce that it has signed an option agreement to acquire a 100% interest in the Wapistan Lithium Project (the \"Project\")'"
+    },
+    "company_name": {
+      "value": "Rockland Resources Ltd.",
+      "justification": "The acquiring company is identified in the first sentence of the press releases: 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL) is pleased to announce that it has signed an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Mike England",
+      "justification": "The CEO of the acquiring company is quoted in the text: 'Mike England, CEO of Rockland stated...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the project: '...pleased to announce that it has signed an option agreement to acquire a 100% interest in the Wapistan Lithium Project...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the 'Wapistan Lithium Project' throughout the documents."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/747149/REPEAT-Rockland-Resources-Acquires-the-Wapistan-Lithium-Project",
+      "justification": "The article is titled 'REPEAT: Rockland Resources Acquires the Wapistan Lithium Project' and the content confirms the acquisition of the Wapistan project by Rockland Resources, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol, and the acquiring company, Rockland Resources Ltd., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD). '...pay $400,000 cash over a 12-month period.' and '(CSE:RKL)'."
+    },
+    "cash_payments_raw": {
+      "value": 400000,
+      "justification": "The terms of the agreement include a cash payment of $400,000. 'Cumulative terms of the option agreement will see Rockland issue 10.8 million shares and pay $400,000 cash over a 12-month period.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, but not their total monetary value. Therefore, this field is null and the data is captured in `amount_of_shares_issued` and `issued_share_price` as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 10800000,
+      "justification": "The terms of the agreement specify the number of shares to be issued. 'Cumulative terms of the option agreement will see Rockland issue 10.8 million shares and pay $400,000 cash over a 12-month period.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction terms in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', there are no payments specified as 'option payments' in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The provided text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided text does not mention any monetary commitment for exploration expenditures."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, a 2% Net Smelter Royalty is granted to the seller. 'A 2% NSR will be granted to the vendor of which half (1%) can be purchased back by the Company for $1,000,000 at any time.'"
+    },
+    "coverage_area_raw": {
+      "value": 10722,
+      "justification": "The project's total area is specified in the text: 'The Wapistan Lithium Project is a large land package comprised of 219 claims (10,722 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated as hectares. 'The Wapistan Lithium Project is a large land package comprised of 219 claims (10,722 hectares)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the project has not been explored for lithium, implying no mineral resource has been defined. 'The Wapistan Project has never been explored with lithium or critical elements in mind, despite the well positioned location.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RKL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press releases: 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL)'."
+    }
+  }
+}

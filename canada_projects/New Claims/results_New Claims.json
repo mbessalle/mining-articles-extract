@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/New Claims/55371.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "New Claims",
+      "justification": "The authoritative project name provided is 'New Claims'."
+    },
+    "company_name": {
+      "value": null,
+      "justification": "The article discusses claims staked by 'Hemlo Explorers Inc.', not the authoritative company 'Rocky Shore Gold Ltd.'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article mentions Brian Howlett as the CEO of Hemlo Explorers Inc., but this is not the correct company for the project of interest."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes claim staking by Hemlo Explorers Inc., which is not an M&A transaction related to the 'New Claims' project of Rocky Shore Gold Ltd."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The article mentions potential for 'gold mineralization' on claims staked by Hemlo Explorers Inc., which is not the project of interest."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about Hemlo Explorers Inc. (CSE: HMLO) staking new claims in Newfoundland. This is not the authoritative company, Rocky Shore Gold Ltd. (CSE: RSG), associated with the 'New Claims' project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes claim staking, not a financial transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes claim staking, not a purchase involving cash payments, and it pertains to the wrong company, Hemlo Explorers Inc."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes claim staking, not a purchase involving share payments, and it pertains to the wrong company, Hemlo Explorers Inc."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes claim staking, not a purchase, and it pertains to the wrong company, Hemlo Explorers Inc."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article describes claim staking, not a share issuance for an acquisition, and it pertains to the wrong company, Hemlo Explorers Inc."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants are mentioned in the article."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the article."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article describes claim staking, not a share-based transaction, and it pertains to the wrong company, Hemlo Explorers Inc."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of a transaction in the article."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions an area of '38 square kilometres', but this pertains to claims staked by Hemlo Explorers Inc., not the 'New Claims' project of Rocky Shore Gold Ltd."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The unit 'square kilometres' is associated with an area belonging to Hemlo Explorers Inc., not the project of interest."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for any project, and specifically not for the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article provides a ticker 'CSE: HMLO' for Hemlo Explorers Inc., which is not the authoritative company or ticker (CSE: RSG) for the project of interest."
+    }
+  }
+}

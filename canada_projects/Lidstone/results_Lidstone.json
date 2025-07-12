@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lidstone/51072.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lidstone",
+      "justification": "The text refers to the project as 'its existing 100%-owned Lidstone exploration project (the \"Lidstone\")'."
+    },
+    "company_name": {
+      "value": "First Lithium Minerals Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'First Lithium Minerals Corp. (CSE: FLM) (OTC Pink: FLMCF) (FSE: X28) (\"First Lithium Minerals \" or the \"Company\") is pleased to announce that it has directly staked additional 547 mining claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Rob Saltsman",
+      "justification": "The CEO of the acquiring company is identified in the text: 'Rob Saltsman, CEO and Director of First Lithium Minerals, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the company's ownership of the project: 'its existing 100%-owned Lidstone exploration project'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text highlights the project's potential for a specific type of mineralization: '...highlighted lithium-cesium-tantalum (LCT)-type pegmatite potential...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/203200",
+      "justification": "The article is about the Lidstone project, as confirmed by the headline 'First Lithium Minerals Stakes New Mining Claims at Lidstone Project'. The source URL is provided at the end of the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) as the company is listed on the Canadian Securities Exchange (CSE) and is based in Toronto, ON."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, not a purchase from another company. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims. No combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims. No shares were issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for exploration but does not specify a commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states the company is planning exploration activities but does not mention a specific monetary value for an exploration commitment: 'The Company is planning to conduct reconnaissance exploration, geologic mapping, including geophysical and geochemical surveys at the Lidstone project during the 2024 field season.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty in the transaction details."
+    },
+    "coverage_area_raw": {
+      "value": 12830,
+      "justification": "The text specifies the new total area of the project after the staking of new claims: 'The new mining claims represent a significant increase and expand the total claims area by 11,105 hectares to a total of 12,830 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned: '...expand the total claims area by 11,105 hectares to a total of 12,830 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text discusses exploration potential and historical mineralization but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FLM",
+      "justification": "The company's ticker and exchange are provided in the first paragraph of the article: 'First Lithium Minerals Corp. (CSE: FLM)'."
+    }
+  }
+}

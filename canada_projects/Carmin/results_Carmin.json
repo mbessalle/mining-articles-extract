@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Carmin/36063.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Carmin",
+      "justification": "The article describes an agreement to \"...acquire 100% of 17 mineral claims forming the Carmin project (the “Property”).\""
+    },
+    "company_name": {
+      "value": "Lomiko Metals Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Lomiko Metals Inc.(TSX.V: LMR) (“Lomiko Metals” or the “Company”) advises that it has applied and received TSX-V approval for the acquisition agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Belinda Labatte",
+      "justification": "The document is signed: \"On behalf of the Board, Belinda Labatte CEO and Director, Lomiko Metals Inc.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Lomiko Metals entered an agreement \"...to acquire 100% of 17 mineral claims forming the Carmin project (the “Property”).\""
+    },
+    "primary_commodity": {
+      "value": "graphite",
+      "justification": "The title of the press release is \"Lomiko Announces Closing of the Acquisition of the Carmin Natural Flake Graphite Property in Southern Quebec\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Carmin project, but a specific URL for this article is not provided in the document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Lomiko Metals Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the project is in Quebec, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The terms to acquire SOQUEM's interest include: \"$50,000 payable in cash;\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is given as a number of shares and a cash amount, not a total raw value for the shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "The total is 2,500,000 shares, from two separate issuances: \"the issuance of 1,250,000 common shares of the Company\" to SOQUEM and \"the issuance of 1,250,000 common shares of the Company\" to the private owner."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": 0.125,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.125'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The sellers retained a total of 1.5% NSR as part of the transaction terms, composed of \"a royalty of 0.75% on net smelter revenues (NSR) (the “SOQUEM Royalty”)\" and \"a royalty of 0.75% NSR (the “Private Owner Royalty”).\""
+    },
+    "coverage_area_raw": {
+      "value": 678,
+      "justification": "The text states: \"The Property covers 678 hectares (6,780 Sq km).\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Property covers 678 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a Mineral Resource Estimate for the La Loutre project (\"68.2 million tonnes of Indicated Mineral Resources...\"), not for the Carmin project which is the subject of this acquisition. No resource is stated for the Carmin project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LMR",
+      "justification": "The buyer is identified as \"Lomiko Metals Inc.(TSX.V: LMR)\"."
+    }
+  }
+}

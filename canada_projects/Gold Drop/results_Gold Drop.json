@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gold Drop/15568.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Drop",
+      "justification": "The authoritative project name is Gold Drop, and the text confirms the project name: 'Proceeds from the private placement will be used for the continued exploration work on the Gold Drop Property...'"
+    },
+    "company_name": {
+      "value": "GGX Gold Corp.",
+      "justification": "The text identifies the company as: 'GGX GOLD CORP. (TSX.v: GGX) (OTCQB: GGXXD) (the \"Company\" or \"GGX\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "George Sookochoff",
+      "justification": "The document is signed 'On Behalf of the Board of Directors George Sookochoff, President'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes a private placement financing to raise capital, not an M&A transaction involving the acquisition of a project interest."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the 'Gold Drop Project' and the company is 'GGX Gold Corp.', which implies the primary commodity is gold."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, GGX Gold Corp., is listed on the TSX Venture Exchange ('TSX.v: GGX'), a Canadian exchange, which implies the currency for the financing is Canadian Dollars (CAD). The text uses the '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes a financing where the company is raising capital, not making a cash payment for an acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes a financing where the company is issuing shares to raise capital, not using them as payment in an acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is about a financing, not an M&A transaction with a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article describes a proposed private placement financing, not a completed M&A transaction where a specific number of shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article describes warrants issued as part of a financing, not as payment in an acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention option payments as part of an acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article mentions unit prices for a proposed financing ($0.20 and $0.30), not an issue price for shares used as consideration in an M&A transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While the financing is intended to fund exploration on the Gold Drop Property, the proceeds are also allocated to 'potential project acquisitions, property option payments as well as general working capital,' so a specific exploration commitment value for the project cannot be determined."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not provide the coverage area for the Gold Drop Property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not provide the coverage area for the Gold Drop Property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain any statement of mineral resources for the Gold Drop Property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GGX",
+      "justification": "The text identifies the company and its primary listing as 'GGX GOLD CORP. (TSX.v: GGX)'."
+    }
+  }
+}

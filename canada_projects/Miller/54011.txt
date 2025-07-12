@@ -1,0 +1,165 @@
+--- Article Metadata ---
+Project Name: Miller
+Company Name: Northstar Gold Corp.
+Exchange: CSE
+Ticker: NSG
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.16.2024, 7:00:00 PM
+
+# Northstar Surveys Define Large near Surface EM Conductor Southeast of Cam Copper Mine Signs Boston Creek Mines LOI
+
+Vancouver, British Columbia--(Newsfile Corp. - May 16, 2024) - **Northstar Gold Corp.** (**CSE: NSG**) (**OTC Pink: NSGCF**) ("**Northstar** " or the "**Company** ")**,** announces the completion of Pulse-EM surface electromagnetic (EM) and borehole electromagnetic (BHEM) surveys over a 900 metre southeast strike extension of the Cam Copper Mine volcanogenic massive sulphide (VMS) trend, on the Company's 100%-owned Miller Copper-Gold Property situated 18 kilometres southeast of Kirkland Lake, Ontario. Cam Copper is a road accessible shaft mine and small-scale, past producer of high-grade 'direct shipping' copper ore1,2 that recently returned multiple near-surface high-grade VMS copper drill intercepts ([See Northstar News Release dated November 23, 2023](https://api.newsfilecorp.com/redirect/QOXwbCWoVV)). (Figure 1) 
+
+_**Large 350m, 200 Siemens Near-Surface EM Conductor Defines Possible Southeast Strike Extension of Cam Copper Zone 2**_(**14.8% copper over 2.5 metres in DDH CC03-23)**
+
+Crone Geophysics and Exploration Ltd. recently completed a 3-component, or 3-dimensional surface EM survey that defined a strong near surface conductor with a conductance of 200 Siemens (S), indicating possible massive sulphide mineralization along strike and similar in composition to Cam Copper Mine Zone 2 but with potentially greater thickness. This potential "Zone 2 Extension Conductor" has a minimum 350 metre strike length and 150 metre depth extent and strikes 319° Az and dips -82 degrees to the northeast (Figures 2 and 3). The Zone 2 Extension Conductor is coincidental with several magnetic anomalies located approximately 600 to 900 meters along strike to the southeast of the Cam Copper mine site (Figures 2 and 3) and could represent the southeast expansion of previously drilled Cam Copper VMS Zone 2 (**14.8% copper over 2.5 metres in DDH CC03-23** \- [See Northstar News Release dated November 23, 2023](https://api.newsfilecorp.com/redirect/m3ELmIrq1G)).
+
+_**Boston Creek Copper Trend Consolidation - Northstar Signs Boston Creek Mines Property LOI and Lock-up Agreement**_
+
+Northstar also announces the Company has signed a Letter of Intent (LOI) which includes a 6-month lock-up agreement to negotiate acquisition terms with Boston Creek Mines Ltd. for their 100%-owned, 65 hectare Boston Creek Mines Property, situated adjacent and northwest of Northstar's Miller Copper-Gold Property (Figure 1) on the historic Boston Creek Copper Trend. 
+
+"Northstar continues to advance, enhance and expand the Boston Creek Mines VMS Copper Trend on the Miller Copper-Gold Property by diamond drilling, borehole and surface EM surveys, and strategic acquisition strategies," states Brian P. Fowler, P.Geo., President, and CEO of Northstar. "The newly defined, 350 metre near-surface Zone 2 Extension EM Conductor is 750 metres southeast of Northstar's recent high-grade Zone 2 drill hole copper intercepts at Cam Copper Mine, with signatures potentially representing a large, near-surface VMS deposit. Northstar is positioning to drill test the Zone 2 Extension Conductor later this summer." 
+
+[](https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_002full.jpg)  
+  
+**Figure 1. Rosegrove, Boston Creek Mines and Miller Copper-Gold Properties  
+Highlighting Cam Copper Mine and the Boston Creek Copper Trend**  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_002full.jpg>
+
+[](https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_003full.jpg)  
+  
+**Figure 2. Plan View of Surface Pulse-EM Survey Area with Multiple EM Conductors and Magnetic Susceptibility Inversions**  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_003full.jpg>
+
+[](https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_004full.jpg)  
+  
+**Figure 3. Longitudinal Section of Zone 2 Southeast Expansion, Conductive Plate Model and Magnetic Susceptibility Inversions**  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6839/209340_7035c761d4aa2a0c_004full.jpg>
+
+_**Strong 200 Siemens EM Conductor Discovered Southeast of the Cam Copper Mine**_
+
+The 200S conductor is characterised by strong late-time channel EM responses indicating persistence to depth and included a STEP response suggesting the presence of highly conductive sulphides within the larger conductive body. In addition to the strongly conductive EM anomaly, additional parallel conductor(s) have also been identified in the footwall and hangingwall of the main conductive body over a strike length of 500 metres; possibly greater as the footwall conductor(s) appear connected to several historic near surface low resistivity IP anomalies along strike to the northwest. The entire package of conductor(s) could represent stacked lenses of VMS surrounding a sub-seafloor hydrothermal vent area. Previously identified vertical loop electromagnetic (VLEM) conductors3 present in the hangingwall of the strongly conductive body were also detected in the surface EM survey. The y-component profile section from line 7E highlighted multiple separate and distinctive conductors over a width of 150 metres (Figures 2 and 3). Similar Pulse-EM technology and surveys lead to several previous VMS discoveries across Canada, including Hudbay Minerals' 2003 Lalor VMS deposit discovery in Manitoba.
+
+_**3D Inversion of Magnetic Data Outlines Cam Copper Zone 2 Southeast Expansion and Possible VMS Vent Areas**_
+
+In addition to the EM survey work, Northstar also completed a 3D inversion of previously collected magnetic data4 covering the larger Cam Copper area. The subsequent 3D isosurface model of magnetic susceptibility successfully outlined the Zone 2 VMS horizon along with several larger anomalies extending for 900 metres along strike to the southeast of Cam Copper (Figure 2) including one magnetic anomaly only 115 metres to the southeast of the previous DDH CC03-23 intercept grading 14.8% Cu over 2.45m from 116.55m to 119m. A strong historic IP response associated with Zone 2 was modeled between the magnetic anomaly and the hole CC03-23 intercept indicating continuity of Zone 2 along strike towards the southeast. The larger magnetic anomalies located on the Zone 2 VMS horizon that are co-incidental with the newly discovered Zone 2 Extension and footwall EM conductor(s), particularly on line 6E, could represent thicker accumulations of massive sulphides associated with a primary VMS vent area where magnetite stringer zones are common in the footwall sequence (Figures 2 and 3).
+
+_**Polymetallic Sulphide Discoveries Southeast of the Cam Copper Mine**_
+
+In early 2024, Northstar previously reported results ([See Northstar News Release dated January 30, 2024](https://api.newsfilecorp.com/redirect/kOxmGCokEW)) of a limited prospecting and sampling program covering the southeast extension of the Cam Copper VMS/exhalite trend along the contact with the Round Lake Batholith (Figure 2). The program, while abbreviated due to snow cover, included the collection of 15 grab samples from older workings and gossanous areas. Several semi-massive to massive sulphide samples collected in proximity to the newly discovered large EM conductor(s), and magnetic anomalies returned values in **Au** (0 - **2.02** g/t Au), **Ag** (0.15 - **26.9 g/t**),**Cu** (41 ppm - **27,900 ppm**), **Pb** (0.9 ppm - 3340 ppm) and **Zn** (12ppm - 2070 ppm). These samples, collected from pods or lenses of massive sulphides, represent the surficial expression of distal mineralization along the margins of what is likely a more strongly mineralized VMS envelope highlighted by the strong 200S EM conductor located below the surface and along strike to the southeast of the 2023 sample locations. 
+
+_**Borehole EM Surveys (BHEM)**_
+
+A BHEM survey was completed in only 2 of 4 boreholes at Cam Copper (CC01-23 and CC03-23) due to hole blockages and was further hampered by a geomagnetic storm and interference from an adjacent powerline. The initial coil induction survey did however identify a STEP response associated with Zone 2, indicating the presence of highly conductive mineralization. A subsequent fluxgate magnetometer survey of hole CC03-23 identified a strong conductor, only 15 metres from the hole, sub-parallel to the hole trace which was later concluded to be a highly conductive cross fault hosting both conductive fault gouge and graphite which channeled current away from both Zone 2 and borehole CC03-23, ultimately preventing full 3D plate modeling of the Zone 2 response. The strong historic IP anomaly (3) and 3D magnetic model of Zone 2 were unaffected by the conductive cross fault. 
+
+_**Future Exploration Plans**_
+
+Northstar intends to follow up on the 2023 Cam Copper trend surface sample and 2024 EM survey targets in the spring of 2024, with a program of prospecting, geological mapping, sampling and a Phase II diamond drill program. Northstar will also conduct surface inspections of historic workings, due diligence of the Boston Creek Mines Property and negotiate acquisition terms. 
+
+_**Qualified Person**_
+
+Brian P. Fowler, P.Geo., President, CEO and Director of Northstar Gold Corp, is a Qualified Person as defined by National Instrument 43-101. Mr. Fowler has reviewed the technical information in this news release and approves the written disclosure contained herein.
+
+(1) Ontario Ministry of Energy, Northern Development and Mines Mineral Deposit Inventory Record MDI31M13NW000154: Tretheway-Ossian- 1981, Ch.H. Cameron-1981.
+
+(2) Ontario Ministry of Energy, Northern Development and Mines and Mines Assessment File #KL-0259, Tretheway-Ossian (Cam Copper Mine). 1961
+
+(3) Ontario Ministry of Energy, Northern Development and Mines and Mines Assessment File #KL-0843, Prospectus of Fidelity Mining Investments Ltd. 1962
+
+(4) Ontario Ministry of Energy, Northern Development and Mines and Mines Assessment File #20009478, Magnetometer Survey Assessment Report - Boston Creek Project., David Laronde, 2011
+
+ _**About Northstar Gold Corp.**_
+
+Northstar's primary exploration focus is to advance and expand our near-surface, bulk-tonnage gold-telluride and more recently discovered VMS copper mineral deposits on the Company's flagship, 100%-owned Miller Copper-Gold Property, situated 18 km southeast of Kirkland Lake, Ontario. The Company's strategy is to develop a material (+1M ounce gold / high-grade copper) mineral resource base to either supplement a nearby mining operation or support a stand-alone mining operation at the Property. 
+
+_Allied Gold Zone_
+
+Since going public by IPO in late 2020, Northstar has spent over $5.6 million in exploration at Miller, resulting in the discovery of a series of broad, near-surface, shallow dipping sheeted quartz-gold-telluride vein structures in the Allied Syenite (Allied Gold Zone) and Planet Syenites and numerous **70  – 750 gold gram/metre** drill hole intercepts. Drilling to date at the AGZ has returned near-surface gold intercepts that include **6.6 g/t Au over 117.0 metres, 4.0 g/t Au over 50.6 metres, 1.4 g/t Au over 118.5 metres, and 1.2 g/t Au over 107.3 metres.** Step out AGZ drilling in 2021 intersected peripheral steeply dipping copper-gold bearing structures (CG1 and CG2 Zones) returning intercepts that include 9.41 g/t Au, 1.03% Cu over 3.0m. The AGZ shares numerous compelling similarities to Agnico Eagle's nearby Upper Beaver Deposit, currently in the pre-development stage. 
+
+In April, 2022, as a precursor to a Mineral Resource Estimate and for reporting purposes, the Company commissioned Ronacher Mackenzie Geoscience and SRK Consulting (Canada) to conduct an Exploration Target Study of the Miller Property Allied Gold Zone and No. 1 Vein. An upper range exceeding **500,000 ounces of gold averaging 2.04 g/t Au** has been referenced in this study. Reported results ([Northstar News Release dated July 26, 2022](https://api.newsfilecorp.com/redirect/Bp4MbSyeQo)) verify the significance, size and gold grade potential of the Allied gold mineralizing system. Results provide the Company and investors a fact-based conceptual tonnage and gold grade range for the Allied Syenite Gold Zone, and basis for continued expansion drilling and mineral resource development.
+
+_Cam Copper Mine_
+
+On November 23rd, 2023 Northstar announced results from a 720 metre, 4-hole diamond drill program completed on the historic high-grade Cam Copper Mine, located 2.5 kilometres southwest of the Allied Gold Zone and also on Northstar's 100%-owned Miller Property. The Company reported all drill holes intersected lenses of Cu-rich volcanogenic massive sulphides, including massive and stringer chalcopyrite in drill hole CC03-23 grading **14.8% Cu over 2.45m** from 116.55m to 119m in Zone 2 ([See Northstar News Release dated November 23, 2023](https://api.newsfilecorp.com/redirect/55km3cZmbx)). These results suggest Zone 2 is thickening in a southeast and down-plunge direction. Zones 1, 3 and 4 also remain open along strike and at depth.
+
+Cam Copper is a road accessible shaft mine and small-scale, past producer of high-grade 'direct shipping' copper ore centred on the historic Boston Creek Copper Trend.
+
+Cam Copper Mine is centred on a newly recognized high-grade "Besshi-type" volcanogenic massive sulphide (VMS) copper system situated at the northwest end of a 0.9 km long southeast trending belt of VMS horizons. Besshi-type VMS deposits are an important global source of base metals, simplistically characterized as vented, broad sheet-like layers of magnetite, iron-copper-lead-zinc-arsenic sulphides, cobalt, sulphosalts, silver and possibly gold deposited on an ancient sea floor, hosted in volcano-sedimentary rock packages.
+
+Northstar has recently completed down-hole and grid-scale EM geophysical surveys at Cam Copper Mine to define Phase II drill targets in Q2, 2024. 
+
+Northstar is seeking a senior partner to conduct Allied Gold Zone lateral and depth expansion diamond drilling on the Miller Property.
+
+Northstar's 3 additional 100%-owned exploration projects in northern Ontario, include the recently acquired 1,150 ha Rosegrove Property situated 0.5 km from the Miller Property, the 4,650 ha Bryce Gold Property (includes the recently optioned Britcanna Lease), an intrusive-gold / PME VMS project located along the projected east extension of the Ridout Break, and the recently expanded Temagami-Milestone Cu-Ni-Co Critical Minerals Property located in Strathcona Township. Northstar is seeking exploration partners to advance all 3 properties.
+
+**On behalf of the Board of Directors** ,
+
+Mr. Brian P. Fowler, P.Geo.
+
+President, CEO and Director  
+(604) 617-8191  
+[bfowler@northstargoldcorp.com](mailto:bfowler@northstargoldcorp.com)
+
+Connect with us on [Twitter](https://api.newsfilecorp.com/redirect/LGLWbfP8Mv) | [LinkedIn](https://api.newsfilecorp.com/redirect/oLpoBI4yxJ) | [Instagram](https://api.newsfilecorp.com/redirect/O3P2bI4Wwb)
+
+Neither the Canadian Securities Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release.
+
+_**Cautionary Note Regarding Forward-Looking Statements**_
+
+ _This news release contains certain "forward-looking information" and "forward-looking statements" (collectively "forward-looking statements") within the meaning of applicable securities legislation. All statements, other than statements of historical fact, included herein, without limitation, statements relating the future operations and activities of Kirkland Lake Discoveries, are forward-looking statements. Forward-looking statements are frequently, but not always, identified by words such as "expects", "anticipates", "believes", "intends", "estimates", "potential", "possible", and similar expressions, or statements that events, conditions, or results "will", "may", "could", or "should" occur or be achieved. Forward-looking statements in this news release relate to, among other things, the Company's three-phase drill program, the results thereof, and any impact therefrom. There can be no assurance that such statements will prove to be accurate, and actual results and future events could differ materially from those anticipated in such statements. Forward-looking statements reflect the beliefs, opinions and projections on the date the statements are made and are based upon a number of assumptions and estimates that, while considered reasonable by Northstar Gold Corp., are inherently subject to significant business, economic, competitive, political and social uncertainties and contingencies. Many factors, both known and unknown, could cause actual results, performance or achievements to be materially different from the results, performance or achievements that are or may be expressed or implied by such forward-looking statements and the parties have made assumptions and estimates based on or related to many of these factors. Such factors include, without limitation, the ability to complete proposed exploration work, the results of exploration, continued availability of capital, changes in general economic, market and business conditions, and the ability to obtain any requisite approvals. Readers should not place undue reliance on the forward-looking statements and information contained in this news release concerning these items. Northstar Gold Corp. does not assume any obligation to update the forward-looking statements of beliefs, opinions, projections, or other factors, should they change, except as required by applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/209340](https://api.newsfilecorp.com/redirect/PLNwbIVP48)
+
+### Project Name
+
+[Miller Project](/?gid=1615)  
+Ontario, Canada
+
+[Project Summary](https://app.mininghub.com?gid=1615&modal=project_summary)[Company Profile](https://app.mininghub.com/company/northstar-gold-corp/861)[All Projects](https://app.mininghub.com/company/northstar-gold-corp/861)
+
+### Other Company News
+
+6/26/2025 [Novamera Provides Northstar Positive Cam Copper Mine Surgical Mining(TM) Evaluation - Letter of Intent in Progress](/article/northstar-gold-corp/cnx-nsg/-/novamera-provides-northstar-positive-cam-copper-mine-surgical-miningtm-evaluation-letter-of-intent-in-progress-109468)
+
+6/12/2025 [Northstar Reports High-Grade Copper Exploration Target at Cam Copper Mine](/article/northstar-gold-corp/cnx-nsg/-/northstar-reports-high-grade-copper-exploration-target-at-cam-copper-mine-107849)
+
+2/24/2025 [Northstar Drills +500 Metre Conductive Stratiform Sulphide-Gold Horizon at Miller Copper-Gold Property](/article/northstar-gold-corp/cnx-nsg/-/northstar-drills-500-metre-conductive-stratiform-sulphide-gold-horizon-at-miller-copper-gold-property-88981)
+
+1/9/2025 [Northstar Completes Diamond Drill Program at Miller Copper-Gold Property New 15.76 Metre Copper Zone Discovery](/article/northstar-gold-corp/cnx-nsg/-/northstar-completes-diamond-drill-program-at-miller-copper-gold-property-new-1576-metre-copper-zone-discovery-83618)
+
+12/11/2024 [Northstar Closes 2nd Tranche of Private Placement, Continues Diamond Drilling and Postpones Annual General Meeting Due to Canadian Postal Strike](/article/northstar-gold-corp/cnx-nsg/-/northstar-closes-2nd-tranche-of-private-placement-continues-diamond-drilling-and-postpones-annual-general-meeting-due-to-canadian-postal-strike-81638)
+
+11/25/2024 [Northstar Commences Diamond Drilling at Miller Copper-Gold Property](/article/northstar-gold-corp/cnx-nsg/-/northstar-commences-diamond-drilling-at-miller-copper-gold-property-79837)
+
+11/15/2024 [Northstar Gold Corp. Closes First Tranche of Private Placement; Miller Property Zone 2 Extension Drilling to Commence Late November](/article/northstar-gold-corp/cnx-nsg/-/northstar-gold-corp-closes-first-tranche-of-private-placement-miller-property-zone-2-extension-drilling-to-commence-late-november-78859)
+
+10/29/2024 [Northstar Announces Non-Brokered Private Placement](/article/northstar-gold-corp/cnx-nsg/-/northstar-announces-non-brokered-private-placement-76539)
+
+10/3/2024 [Northstar Signs MOU to Mine High Grade Zone 2 at Cam Copper Mine Using Novamera Surgical Mining(TM) Technologies](/article/northstar-gold-corp/cnx-nsg/-/northstar-signs-mou-to-mine-high-grade-zone-2-at-cam-copper-mine-using-novamera-surgical-miningtm-technologies-73682)
+
+9/19/2024 [Northstar Gold Corp. Signs MOU with Hunan Nonferrous Ltd. to Develop Gold Resource at Miller Copper-Gold Property](/article/northstar-gold-corp/cnx-nsg/-/northstar-gold-corp-signs-mou-with-hunan-nonferrous-ltd-to-develop-gold-resource-at-miller-copper-gold-property-71926)
+
+--- Detailed Quote ---
+
+Last: 0.025            $  Chg: -0.005
+Open: 0.025            High: 0.025
+Beta: 1.30455            Year High: 0.06
+Market Cap: 3.24m      PB Ratio: 0.88
+EPS: -0.03             Average Volume (30 Day): 121.85k
+Volume: 55.00k          % Chg: -16.67%
+Prev. Close: 0.03     Low: 0.025
+VWAP: 0.025            Year Low: 0.015
+Total Shares: 129.60m    Shares Out: 129.60m
+Float: 121.47m           Exchange: CSE

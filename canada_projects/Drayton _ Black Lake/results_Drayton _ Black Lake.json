@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Drayton _ Black Lake/79273.txt",
+    "canada_projects/Drayton _ Black Lake/83195.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Drayton Black Lake",
+      "justification": "The primary project of interest is stated as 'Drayton Black Lake'. The text confirms this: '...its flagship Drayton Black Lake (“DBL”)...' and '...a portion of the Company’s flagship Drayton - Black Lake Project...'"
+    },
+    "company_name": {
+      "value": "Heritage Mining Ltd.",
+      "justification": "The acquiring company is identified in the text: 'Heritage Mining Ltd. (CSE: HML FRA:Y66) (“Heritage” or the “Company”) is pleased to announce it has exercised its option...'"
+    },
+    "ceo_buyer": {
+      "value": "Peter Schloo",
+      "justification": "The CEO of the buyer is identified in the text: 'Commented Peter Schloo, President, CEO and Director of Heritage.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the specific claims that are part of the larger project: 'Heritage Exercises Option to Acquire 100% Interest in the Zarn Lake Claims forming a portion of the Drayton-Black Lake Project'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the projects as 'high grade gold-silver-copper projects' and mentions a high-grade sample of '2,330 g/t Au', indicating gold is a primary commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a full, verifiable URL for the articles."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) as the company, Heritage Mining Ltd., is listed on the Canadian Securities Exchange (CSE) and the payments are denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 70000,
+      "justification": "The cash payment is explicitly stated as part of the option exercise terms: 'To exercise the Option, the Company paid Riives an additional $70,000 cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "This field is null because the share payment is detailed with the number of shares and price per share, which are populated in their respective fields as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate cash and share payment details are provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 833333,
+      "justification": "The number of shares issued is specified in the transaction terms: '...issued Riives an additional $50,000 of common shares (“Common Shares”) in the capital of the Company (833,333 Common Shares...)'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an exercise of a pre-existing option, but the payment consideration does not include issuing new options."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The price per share is explicitly stated in the transaction terms: '...833,333 Common Shares at a deemed price of $0.06 per Common Share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "An expenditure commitment was part of the cost to exercise the option: '...and incurred an additional $250,000 in project expenditures between the second and the third anniversary of the Option Agreement.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller retained a 2% NSR: 'Riives retains a 2% net smelter returns royalty on the Zarn Lake Claims...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the acquisition of '40 mining claims' and a total project size of '18,907 Ha', but it does not specify the area of the 40 claims being acquired in this transaction."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not specified, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade samples but does not provide a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HML",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the text: 'Heritage Mining Ltd. (CSE: HML FRA:Y66)'."
+    }
+  }
+}

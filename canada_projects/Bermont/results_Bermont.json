@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Bermont/82613.txt",
+    "canada_projects/Bermont/83271.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bermont",
+      "justification": "The text announces an agreement for Probe Gold Inc. to acquire a 100% interest in the Bermont Claims. The project is also referred to as 'the Property'."
+    },
+    "company_name": {
+      "value": "Probe Gold Inc.",
+      "justification": "The acquiring company is identified as 'PROBE GOLD INC. (TSX: PRB) (OTCQB: PROBF) (“Probe” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "David Palmer",
+      "justification": "The press release is signed 'On behalf of Probe Gold Inc., Dr. David Palmer, President & Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Probe Gold Inc. will 'acquire a 100% interest in the Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is adjacent to the 'Monique Gold Deposit' and hosts 'high-grade gold zones'. The milestone payment is tied to defining '1,000,000 ounces of gold'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No specific article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Probe Gold Inc., is listed on the Toronto Stock Exchange (TSX), and financial figures are denoted with a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 3000000,
+      "justification": "This value is the sum of the upfront $1,500,000 cash payment and a $1,500,000 milestone payment. The text states: 'a cash payment of $1,500,000. In addition, Probe will pay to Jadmine a milestone payment of $1,500,000, payable in cash or at the option of Probe, in common shares'."
+    },
+    "share_payments_raw": {
+      "value": 1500000,
+      "justification": "The agreement includes 'the issuance of common shares of the Company (the “Shares”) for a total value of $1,500,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because explicit, separate values for cash and share payments were provided, which takes priority in the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Null because explicit cash and share payment values were provided, which takes priority in the financial data extraction hierarchy. The second article mentions '894,432 common shares' but this is not used as per the hierarchy rule."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Null because explicit cash and share payment values were provided, which takes priority in the financial data extraction hierarchy. The second article mentions a 'deemed price per share of $1.677' but this is not used as per the hierarchy rule."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions planned exploration for 2025 but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions 'the company is planning resource expansion and exploration drill programs on the property for 2025' but does not state a specific monetary commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 3.5,
+      "justification": "As part of the transaction, the seller, Jadmine, retains a royalty: 'Jadmine will retain a 3.5% net smelter return royalty (“NSR”) on the Property'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the property 'spans 10 contiguous claims' but does not provide a specific area in a standard unit like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text states the property 'spans 10 contiguous claims' but does not provide a specific area in a standard unit like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource has been defined for the acquired Bermont property. The text states it has 'strong potential to host new gold resources' and the resources mentioned ('3,559,600 ounces M&I and 677,300 ounces inferred') are explicitly for the adjacent Monique deposit, not the Bermont property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:PRB",
+      "justification": "The buyer is identified in the text as 'PROBE GOLD INC. (TSX: PRB)'."
+    }
+  }
+}

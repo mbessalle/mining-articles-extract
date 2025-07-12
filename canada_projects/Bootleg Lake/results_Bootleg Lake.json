@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bootleg Lake/32838.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bootleg Lake",
+      "justification": "The article is titled 'Searchlight Resources Receives TSXV Approval for Purchase of the Bootleg Gold Property' and discusses the purchase of an interest in the 'Bootleg Lake Gold property'."
+    },
+    "company_name": {
+      "value": "Searchlight Resources Inc.",
+      "justification": "The acquiring company is identified as 'Searchlight Resources Inc. (\"Searchlight\" or the \"Company\") (TSXV:SCLT)(OTCQB:SCLTF)'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Wallace",
+      "justification": "The document is signed 'On behalf of the Board of Directors, \"Stephen Wallace\" Stephen Wallace, President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 25,
+      "justification": "The text states '...purchase by Searchlight of the 25% interest plus 1.0% NSR in the Bootleg Lake Gold property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the 'Bootleg Lake Gold property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/745584/Searchlight-Resources-Receives-TSXV-Approval-for-Purchase-of-the-Bootleg-Gold-Property",
+      "justification": "The article title 'Searchlight Resources Receives TSXV Approval for Purchase of the Bootleg Gold Property' and its content directly relate to the specified project and company."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Searchlight Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for its stock price is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration consists entirely of common shares, with no mention of a cash component."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is specified as a number of shares, but no equivalent dollar value is provided for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is mentioned. The consideration is specified as a number of shares."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "Consideration for the acquisition of the 25% interest plus 1.0% NSR in the Bootleg Lake Gold property consists of 6,000,000 common shares of Searchlight."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention 6,000,000 shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The text states '...purchase by Searchlight of the 25% interest plus 1.0% NSR in the Bootleg Lake Gold property from New Moon Minerals Corp.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the document."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SCLT",
+      "justification": "The buyer is identified as 'Searchlight Resources Inc. (TSXV:SCLT)(OTCQB:SCLTF)'."
+    }
+  }
+}

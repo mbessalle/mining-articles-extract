@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Reindeer/32344.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Reindeer",
+      "justification": "The article is titled \"ALX Resources Corp. Acquires Reindeer Lithium Project, Northern Saskatchewan, Canada\" and refers to the project as the \"Reindeer Lithium Project ('Reindeer', or the 'Project')\"."
+    },
+    "company_name": {
+      "value": "ALX Resources Corp.",
+      "justification": "The press release is from \"ALX Resources Corp. (TSXV: AL) (FSE: 6LLN) (OTC: ALXEF) ('ALX' or the 'Company')\" and states it \"is pleased to announce that it has acquired by way of purchase the Reindeer Lithium Project\"."
+    },
+    "ceo_buyer": {
+      "value": "Warren Stanyer",
+      "justification": "The document is signed \"On Behalf of the Board of Directors of ALX Resources Corp. 'Warren Stanyer' Warren Stanyer, CEO and Chairman\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"In consideration for the acquisition of the Claims, ALX has agreed to pay $12,500 to the vendor for a 100% interest in the Claims...\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as the \"Reindeer Lithium Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/158205",
+      "justification": "The article content is about the acquisition of the Reindeer project by ALX Resources Corp., which matches the primary project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is listed in dollars (\"$12,500\"). The currency is inferred to be Canadian Dollars (CAD) as the acquiring company, ALX Resources Corp., is based in Vancouver, BC, Canada, the project is in Saskatchewan, Canada, and the company is listed on the TSX Venture Exchange."
+    },
+    "cash_payments_raw": {
+      "value": 12500,
+      "justification": "The text states: \"In consideration for the acquisition of the Claims, ALX has agreed to pay $12,500 to the vendor for a 100% interest in the Claims...\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was a cash payment; no share payments were mentioned in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly defined as a cash payment, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no applicable issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions an intent to conduct geological mapping but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states ALX \"intends to carry out reconnaissance geological mapping\", but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition is \"subject to a 2.0% net smelter returns royalty ('NSR') in favour of the vendor of the Project claims\". This royalty was retained by the seller as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 13239,
+      "justification": "The text states: \"Reindeer consists of 5 mineral claims totalling 13,239 hectares (32,713 acres)...\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"Reindeer consists of 5 mineral claims totalling 13,239 hectares (32,713 acres)...\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project's potential and historical mapping but does not provide a quantified mineral resource estimate. It states ALX \"intends to carry out reconnaissance geological mapping... to evaluate the lithium potential\", indicating a resource has not yet been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AL",
+      "justification": "The text identifies the buyer as \"ALX Resources Corp. (TSXV: AL) (FSE: 6LLN) (OTC: ALXEF) ('ALX' or the 'Company')\"."
+    }
+  }
+}

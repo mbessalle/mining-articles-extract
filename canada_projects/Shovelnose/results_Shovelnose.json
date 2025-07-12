@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Shovelnose/69097.txt",
+    "canada_projects/Shovelnose/70701.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Shovelnose",
+      "justification": "The text describes a transaction related to the 'Shovelnose gold property'. The headline is 'Westhaven Expands Claim Package at the Shovelnose Gold Property'."
+    },
+    "company_name": {
+      "value": "Westhaven Gold Corp.",
+      "justification": "The acquiring company is identified as 'Westhaven Gold Corp. (TSX-V:WHN)' in the first sentence of the press release."
+    },
+    "ceo_buyer": {
+      "value": "Gareth Thomas",
+      "justification": "The press release is signed 'Gareth Thomas, President, CEO & Director' on behalf of the buyer, Westhaven Gold Corp."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the acquisition of claims measured in hectares, not a percentage interest in the overall project. The text states Westhaven will 'acquire 12 claims covering 23,550 hectares'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Shovelnose gold property' and Westhaven is described as a 'gold-focused exploration company'."
+    },
+    "verified_article_link": {
+      "value": "https://westhavengold.com/news-and-media/news/news-display/index.php?content_id=359",
+      "justification": "The second article provides a direct link to the press release on the company's website: 'Link to Press Release: https://westhavengold.com/news-and-media/news/news-display/index.php?content_id=359'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol. The acquiring company, Westhaven Gold Corp., is listed on the Canadian TSX Venture Exchange (TSX-V) and the project is located in British Columbia, Canada, implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "Pursuant to the Agreement, Westhaven will acquire the Claims from Talisker by paying $20,000 in cash..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is described by the number of shares to be issued, not a raw monetary value for the shares. Per the extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately in the agreement terms, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The agreement terms state Westhaven will be 'issuing an aggregate of 1,500,000 common shares of the Company.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.19,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.19'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not mention any commitment for a specific amount of drilling in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any monetary commitment for exploration spending."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the consideration, Westhaven is 'granting a 1% Net Smelter Royalty (NSR) on the Claims' to the seller, Talisker."
+    },
+    "coverage_area_raw": {
+      "value": 23550,
+      "justification": "The property purchase agreement with Talisker is to 'acquire 12 claims covering 23,550 hectares contiguous with its Shovelnose gold property'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is explicitly stated: '...acquire 12 claims covering 23,550 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text describes the transaction and exploration potential but does not contain a quantified statement of mineral resources (e.g., tonnes, ounces) for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:WHN",
+      "justification": "The buyer is identified as 'Westhaven Gold Corp. (TSX-V:WHN)'. The detailed quote section also confirms the exchange: 'Exchange: TSXV'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mount Sicker/69105.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mount Sicker",
+      "justification": "The article title is 'Sasquatch Resources Exercises Option to Acquire Mineral Claim Comprising The Company's Mount Sicker Property'."
+    },
+    "company_name": {
+      "value": "Sasquatch Resources Corp.",
+      "justification": "The press release is from 'SASQUATCH RESOURCES CORP.(CSE:SASQ) (\"Sasquatch \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Peter Smith",
+      "justification": "The document is signed 'On Behalf of the Board of Directors Peter Smith Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company 'successfully exercised its option to acquire the British Columbia mineral claim comprising the Company's Mount Sicker Property'. The effect is for 'Sasquatch to own its Mount Sicker Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "Methodical testing has shown the waste rock to contain good values for gold, copper, silver and zinc..."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/906112/sasquatch-resources-exercises-option-to-acquire-mineral-claim-comprising-the-companys-mount-sicker-property",
+      "justification": "The article content and title, 'Sasquatch Resources Exercises Option to Acquire Mineral Claim Comprising The Company's Mount Sicker Property', directly relate to the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) and the payment is denoted with a '$' symbol, implying Canadian Dollars. 'The CSE has not reviewed, approved or disapproved the contents of this news release.'"
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "Pursuant to the option agreement... the Company has fulfilled its third year option obligations by making an aggregate cash payment of $100,000..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit total share value was provided. The consideration was described by the number of shares and price per share, which are captured in other fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 800000,
+      "justification": "...and by issuing an aggregate of 800,000 common shares to the Optionors."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the exercise of a pre-existing option agreement, not a payment in options."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The shares were issued in accordance with applicable securities laws at a price of $0.07 per share..."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration spending commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The company granted a royalty to the sellers. 'Pursuant to the Option Agreement, the Company has also granted a 1.0% net smelter returns royalty (each, an \"NSR\") to each of the Optionors.' There are two Optionors, resulting in a total 2.0% NSR."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the mineral claim."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the coverage area of the mineral claim."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions testing of waste rock and a '530kg sample' but does not provide a quantified mineral resource estimate for the property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SASQ",
+      "justification": "The company is identified as 'SASQUATCH RESOURCES CORP.(CSE:SASQ)' in the first paragraph."
+    }
+  }
+}

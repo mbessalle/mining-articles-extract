@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Forrest Kerr Transferred/65915.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Forrest Kerr Transferred",
+      "justification": "The transaction concerns a portion of the Forrest Kerr Project, as stated: 'the sale of six minerals claims from its Forrest Kerr Project portfolio located in the Golden Triangle of Northwestern British Columbia, Canada (the “Property”) to Galore Creek Mining Corporation'."
+    },
+    "company_name": {
+      "value": "Galore Creek Mining Corporation",
+      "justification": "The text identifies the buyer as Galore Creek Mining Corporation: 'Aben Minerals Ltd. ... has entered into a Purchase and Sale Agreement ... for the sale of six minerals claims ... to Galore Creek Mining Corporation (\"GCMC\").'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text mentions Riley Trimble as the President & CEO of Aben Minerals Ltd., who is the seller, not the buyer. No CEO for the buyer, Galore Creek Mining Corporation, is mentioned."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer acquired a full interest in the specified claims: 'Under the terms of the Agreement, GCMC has agreed to purchase a 100% interest in six mineral claims...'"
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text refers to 'minerals claims' and mentions Aben is a 'gold exploration company', but does not specify the primary commodity for the six claims being sold."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is explicitly stated as Canadian Dollars: 'in exchange for $200,000 CAD.'"
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The agreement includes a single cash payment: 'in exchange for $200,000 CAD.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention a cash payment, with no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment is explicitly defined as cash, so this field is not applicable according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of any shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not include any exploration commitment defined in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not include any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3200,
+      "justification": "The total area of the claims being sold is specified: 'six mineral claims totalling approximately 3,200 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: 'six mineral claims totalling approximately 3,200 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the six claims being sold."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The text does not provide a stock ticker or exchange for the buyer, Galore Creek Mining Corporation. The ticker mentioned, TSX-V: ABM, belongs to the seller, Aben Minerals Ltd."
+    }
+  }
+}

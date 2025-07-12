@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Iron Bear/78879.txt",
+    "canada_projects/Iron Bear/78879_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Iron Bear",
+      "justification": "The document is titled 'Memorandum of Understanding between Vale S.A. and Cyclone Metals for the development of the Iron Bear Project'."
+    },
+    "company_name": {
+      "value": "Vale S.A.",
+      "justification": "The text states that Cyclone Metals Limited signed a Memorandum of Understanding with Vale S.A. for Vale to earn a controlling interest in the Iron Bear project, identifying Vale S.A. as the acquiring party. 'Cyclone Metals Limited (ASX: CLE) (“Cyclone” or “CLE”) is pleased to announce it has signed a Memorandum of Understanding (MoU) with Vale S.A. (“Vale”) regarding the development of its Iron Bear iron ore project...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text identifies 'Paul Berend, CEO of Cyclone Metals', who is the CEO of the seller. The CEO of the buyer, Vale S.A., is not mentioned."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement is a farm-in where Vale can earn a final controlling interest of 75%. 'Vale’s ownership in the Iron Bear JV will increase to 75% when the Vale takes Decision to Mine (DTM) or when Vale’s total contribution reaches USD $120 million (even if DTM has not been achieved)'"
+    },
+    "primary_commodity": {
+      "value": "Iron Ore",
+      "justification": "The text describes the project as the 'Iron Bear iron ore project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Iron Bear. However, no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The financial contributions are specified in USD. 'Vale will contribute up to USD 18 million (Phase 1 contribution)...' and '...total contribution reaches USD $120 million...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a funding commitment for development activities, which is captured in the 'exploration_commitment_value_raw' field, not a direct cash payment for the asset."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a funding commitment for development activities, not a payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is a funding commitment for development activities, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The consideration is a funding commitment for development activities, not an issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The consideration is a funding commitment for development activities, not an issuance of shares, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 120000000,
+      "justification": "The total potential funding commitment from Vale to earn its 75% interest is USD $120 million. 'Vale’s ownership in the Iron Bear JV will increase to 75% when the Vale takes Decision to Mine (DTM) or when Vale’s total contribution reaches USD $120 million (even if DTM has not been achieved)'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": "16.6 billion tonnes @ 29.3 Fe% (Inferred 14.51 billion tonnes and Indicated 2.15 billion tonnes JORC 2012 compliant)",
+      "justification": "The document states: 'World class 100% owned Iron ore mineral resource of 16.6 billion tonnes @ 29.3 Fe% (Inferred 14.51 billion tonnes and Indicated 2.15 billion tonnes JORC 2012 compliant) (refer ASX announcement 11th April 2024)'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Vale S.A. The text does not provide a stock ticker or exchange for Vale S.A. The ticker provided in the authoritative metadata (ASX:CLE) belongs to the seller, Cyclone Metals Limited."
+    }
+  }
+}

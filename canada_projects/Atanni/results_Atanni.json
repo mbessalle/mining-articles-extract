@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Atanni/76538.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atanni",
+      "justification": "The article is titled 'Blue Star Extends Ataani Massive Sulphide Discovery to +300 Metres...' and refers to the 'Ataani discovery' and 'Ataani target' throughout. The authoritative project name is Atanni."
+    },
+    "company_name": {
+      "value": "Blue Star Gold Corp.",
+      "justification": "The press release is issued by 'Blue Star Gold Corp. (TSXV: BAU) (OTCQB: BAUFF) (FSE: 5WP0) (\"Blue Star\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Grant Ewing",
+      "justification": "The text states: 'Grant Ewing, CEO of Blue Star stated, \"The Ataani massive sulphide discovery, one of the highlights of our 2024 exploration campaign...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes a 'new Mineral Exploration Agreement' which expands landholdings, but does not specify a percentage interest acquired in a project."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The acquiring company is 'Blue Star Gold Corp.' and the text mentions the area is known for its 'gold rich VMS deposits'. While copper is also significant, gold is a clear focus."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/228113",
+      "justification": "The article is titled 'Blue Star Extends Ataani Massive Sulphide Discovery...' and the content is focused on exploration results from the Atanni target, which is the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes a 'low-cost mineral exploration agreement' but does not disclose any specific financial terms, payments, or associated currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payments as part of the new Mineral Exploration Agreement."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as part of the new Mineral Exploration Agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments as part of the new Mineral Exploration Agreement."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the new Mineral Exploration Agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the new Mineral Exploration Agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the new Mineral Exploration Agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the agreement, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions past drilling (e.g., '1,365 metres have been drilled by Blue Star into the Ataani target to date') but does not state a future drilling commitment as part of the new agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not specify a monetary exploration commitment as part of the new Mineral Exploration Agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the agreement."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions an expansion of 1,587 hectares, but this is explicitly for the Roma Project, not the Atanni project. The text states: 'Blue Star has expanded its Roma Project land package... The expansion, which added 1,587 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area was specified for the Atanni project itself."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the Atanni target as a new 'discovery' and provides drill intercepts, but it does not contain a quantified mineral resource estimate for the Atanni project. A resource is mentioned for a different target: 'A significant high-grade gold resource exists at the Flood Zone deposit (Ulu Mining Lease)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BAU",
+      "justification": "The text identifies the company with its ticker and exchange: 'Blue Star Gold Corp. (TSXV: BAU)'."
+    }
+  }
+}

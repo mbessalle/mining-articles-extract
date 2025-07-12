@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Western Athabasca/35327.txt",
+    "canada_projects/Western Athabasca/38132.txt",
+    "canada_projects/Western Athabasca/40681.txt",
+    "canada_projects/Western Athabasca/47397.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Western Athabasca",
+      "justification": "The project is consistently referred to as the 'Western Athabasca Project' and the transaction concerns land in the 'Western Athabasca Basin'. The authoritative metadata also confirms this name."
+    },
+    "company_name": {
+      "value": "Stallion Uranium Corp.",
+      "justification": "The acquiring company is identified as 'Stallion Discoveries Corp.' in earlier articles and 'Stallion Uranium Corp.' in the latest article. The authoritative metadata provided is 'Stallion Uranium Corp.', which is used here. 'Stallion Uranium Corp. (the \"Company\" or \"Stallion\")(TSX-V: STUD; OTCQB: STLNF; FSE: HM40) is pleased to announce that it has acquired by staking...'"
+    },
+    "ceo_buyer": {
+      "value": "Drew Zimmerman",
+      "justification": "The CEO is identified multiple times across the documents: '“...stated Stallion CEO, Mr. Drew Zimmerman.' and 'Drew Zimmerman Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement gives Stallion an option to acquire a 70% interest in the project. '...give the Company an option (the “Option ”) to acquire a 70% interest in 47 mineral claims...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The company name is Stallion Uranium, the project is in the Athabasca Basin, and the text repeatedly refers to uranium exploration. 'Stallion Uranium Announces Expansion of Largest Uranium Exploration Project in Western Athabasca Basin'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "All provided documents are relevant to the Western Athabasca project acquisition by Stallion Uranium Corp. from ATHA Energy Corp. No external article link was provided in the source data."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. A marketing agreement mentioned is explicitly in Canadian dollars: '...in consideration of payments totaling CAD $42,500.' The exploration commitments are denoted with '$', which is inferred to be CAD based on context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include an upfront cash payment. Consideration consists of shares and exploration commitments. A potential cash payment is mentioned only as a remedy for failing to meet exploration commitments, not as part of the primary consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price, which falls under Priority 2 of the extraction hierarchy. Therefore, this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into share issuance and exploration commitments; no single combined value is provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 3333333,
+      "justification": "The agreement terms state the number of shares to be issued. 'Pursuant to the terms of the Agreement, the Company has issued 3,333,333 common shares in the capital of the Company...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being issued as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being issued as payment as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.165,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.165'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment defined by drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 12000000,
+      "justification": "The total exploration commitment is the sum of two milestone expenditures. '...accumulation of $3,311,770 Saskatchewan Exploration Expenditure Credits on the Project within 12 months... and accumulate additional $8,688,230 Saskatchewan Exploration Expenditure Credits (for an aggregate of $12,000,000) on the Project within 60 months.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained. The text mentions a '10% free-carried interest in favour of a third party' on the seller's retained interest, which is not an NSR."
+    },
+    "coverage_area_raw": {
+      "value": 547524,
+      "justification": "The option agreement is for a specific land package size. '...the Company an option (the “Option ”) to acquire a 70% interest in 47 mineral claims covering 547,524 acres...'"
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated as acres. '...47 mineral claims covering 547,524 acres...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the provided text. The project is described as being at an early exploration stage: 'The claims have never been drill tested and host several kilometre-scale under-explored prospective zones.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:STUD",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the press releases. 'Stallion Discoveries Corp. (the \"Company\" or \"Stallion\")(TSX-V: STUD; OTCQB: STLNF; FSE: HM4)'"
+    }
+  }
+}

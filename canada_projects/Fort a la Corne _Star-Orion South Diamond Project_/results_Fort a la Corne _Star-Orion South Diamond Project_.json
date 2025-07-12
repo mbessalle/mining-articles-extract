@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Fort a la Corne _Star-Orion South Diamond Project_/51066.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Fort a la Corne Star-Orion South Diamond Project",
+      "justification": "The text refers to the project as the 'Fort à la Corne diamond project located in central Saskatchewan (the \"Project\")'."
+    },
+    "company_name": {
+      "value": "Star Diamond Corporation",
+      "justification": "The acquiring company is identified as 'Star Diamond Corporation (\"Star Diamond\")'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Star Diamond Corporation, is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "Star Diamond Corporation acquired the remaining interest from its partner: 'RTEC has transferred to Star Diamond all of RTEC's 75% interest in the Fort à la Corne diamond project'."
+    },
+    "primary_commodity": {
+      "value": "diamond",
+      "justification": "The project is explicitly referred to as the 'Fort à la Corne diamond project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Star Diamond Corporation, trades on the Toronto Stock Exchange (TSX), implying Canadian dollars. The detailed quote uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were mentioned as part of the transaction consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured as an issuance of a specific number of shares. As per the data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration was not specified as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 108204112,
+      "justification": "In connection with the completion of the Transaction, Star Diamond today issued 108,204,112 common shares to RTEC..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.06'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area size was mentioned in the document."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit was mentioned in the document."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not contain a quantified statement of mineral resources with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:DIAM",
+      "justification": "The text states: 'Shares of Star Diamond trade on the Toronto Stock Exchange under the trading symbol \"DIAM\"'. The header also shows 'TSX: DIAM'."
+    }
+  }
+}

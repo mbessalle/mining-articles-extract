@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/McConnell/38400.txt",
+    "canada_projects/McConnell/45650.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McConnell",
+      "justification": "The text refers to the acquisition of the 'McConnell property' multiple times, for example: 'WestKam Gold Signs Definitive Agreement to Acquire the McConnell Property in British Columbia'."
+    },
+    "company_name": {
+      "value": "WestKam Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'WestKam Gold Corp. (TSX-V:WKG)(the “Company” or “WestKam”) is pleased to announce that it has signed a definitive agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Peter Laipnieks",
+      "justification": "The press release is signed off by the CEO: 'ON BEHALF OF THE BOARD OF DIRECTORS “Peter Laipnieks” Peter Laipnieks, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'The Company will acquire a 100% interest in the McConnell property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text mentions 'Potential copper/gold porphyry style systems have been identified along with shear hosted, gold mineralization.' The acquiring company's name, WestKam Gold Corp., also indicates a focus on gold."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, WestKam Gold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The ticker is given as '(TSX-V:WKG)'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is entirely share-based, with no cash component mentioned in the agreement terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a variable number of shares equivalent to 19.99% of the company post-issuance, not a fixed monetary value. The text states the company will issue 'such number of common shares as will result in the vendor holding a 19.99% interest in the Company as of the closing date'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is provided. The consideration is based on issuing a percentage of the company's shares, not a fixed value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not a fixed amount but is dependent on the total shares outstanding at the closing date. The agreement states the issuance will be 'such number of common shares as will result in the vendor holding a 19.99% interest in the Company as of the closing date'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issue price per share is specified for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions '$4 million in prior exploration work', but this is historical spending, not a future commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement specifies that 'The vendor will also retain a 2% net smelter return royalty on the McConnell property.'"
+    },
+    "coverage_area_raw": {
+      "value": 8700,
+      "justification": "The text states: 'The McConnell property comprises 8,700 hectares in the Golden Horseshoe region of British Columbia.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The McConnell property comprises 8,700 hectares in the Golden Horseshoe region of British Columbia.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes 'Potential copper/gold porphyry style systems' but does not provide a quantified mineral resource estimate in terms of mass or volume."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:WKG",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'WestKam Gold Corp. (TSX-V:WKG)...'"
+    }
+  }
+}

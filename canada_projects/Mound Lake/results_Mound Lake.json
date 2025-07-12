@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Mound Lake/83867.txt",
+    "canada_projects/Mound Lake/84758.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mound Lake",
+      "justification": "The articles consistently refer to the project as the Mound Lake Property. For example: \"Free Battery Enters into Binding Term Sheet for Snow Lake to Acquire an Up To 80% Interest in Free Battery's Mound Lake Property\"."
+    },
+    "company_name": {
+      "value": "Free Battery Metal Limited",
+      "justification": "The primary company associated with the project is Free Battery Metal Limited, as stated in the headline: \"Free Battery Enters into Binding Term Sheet for Snow Lake to Acquire an Up To 80% Interest in Free Battery's Mound Lake Property\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Snow Lake Resources Ltd. The CEO of the buyer is not mentioned in the text. Pam Sangster is the CEO of Free Battery Metal Limited, the seller."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "Snow Lake can earn a maximum of 80% interest through a two-stage option agreement. \"Snow Lake can earn up to an 80% interest in Free Battery's Mound Lake Property.\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text states that the company is exploring for Lithium. \"Free Battery Metal Limited is a publicly traded company exploring for Lithium.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236942",
+      "justification": "The article at this link is titled \"Free Battery Enters into Binding Term Sheet for Snow Lake to Acquire an Up To 80% Interest in Free Battery's Mound Lake Property\", which is the transaction being analyzed."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction details use the 'C$' symbol, indicating Canadian Dollars. \"...work expenditures of at least C$1,000,000 and (y) paying C$500,000 to Free Battery...\""
+    },
+    "cash_payments_raw": {
+      "value": 1500000,
+      "justification": "The total cash payment is the sum of the two optional payments: C$500,000 for the first option and an additional C$1,000,000 for the second option. The text specifies \"...paying C$500,000 to Free Battery; and... paying an additional C$1,000,000 to Free Battery (for aggregate cash payments of C$1,500,000).\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payments are explicitly detailed, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The total work commitment is the sum of the commitments for both options: C$1,000,000 for the first and an additional C$1,000,000 for the second. \"...having made work expenditures of at least C$1,000,000... having made additional work expenditures of C$1,000,000 (for aggregate work expenditures of C$2,000,000 (the \"Work Commitment\")).\""
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The transaction terms include a clause that converts a party's interest to a 1% NSR if it falls below 10%. \"in the event that either party's interest in the Mound Lake Property falls below 10%, such party's interest shall be converted into a 1% net smelter return royalty on the Mound Lake Property\"."
+    },
+    "coverage_area_raw": {
+      "value": 6800,
+      "justification": "The second article provides an updated total area for the project after an additional acquisition: \"With this acquisition, FREE now holds a total of 343 single-cell, unpatented mining claims, collectively covering an area of approximately 6,800 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated as hectares. \"...collectively covering an area of approximately 6,800 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that there has been minimal historical exploration, implying no defined resource exists: \"Historically, there has been little or no mineral exploration on or near the Mound Lake Property.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:LITM",
+      "justification": "The buyer is identified as Snow Lake Resources Ltd., and its ticker and exchange are provided in the text: \"Snow Lake Resources Ltd., (NASDAQ: LITM)\"."
+    }
+  }
+}

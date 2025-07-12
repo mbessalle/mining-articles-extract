@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Notre-Dame/43106.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Notre-Dame",
+      "justification": "The authoritative project name is Notre-Dame. The text refers to it as: \"SLAM the option to acquire a 51% interest in the Notre Dame Niobium Critical Mineral Project (the “Notre Dame Project”).\""
+    },
+    "company_name": {
+      "value": "SLAM Exploration Ltd.",
+      "justification": "The acquiring company is identified as: \"SLAM Exploration Ltd. (TSX-V: SXL) (“SLAM” or the “Company”) is pleased to announce it has signed an arm’s length binding term sheet...\""
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "The CEO of the buyer is identified in the text: \"Mike Taylor P.Geo, President and CEO of SLAM Exploration Ltd., is a qualified person as defined by National Instrument 43-101, and has approved the contents of this news release.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "SLAM can acquire an initial 51% interest, with an option to acquire the remaining 49% for a total of 100%. The text states: \"to earn a 51% interest in and to the Notre Dame Project... Alternatively, St-Georges has the option to grant SLAM the remaining 49% ownership interest...\" and confirms the 100% possibility: \"In the event that SLAM purchases a 100% interest in and to the Notre Dame Project...\""
+    },
+    "primary_commodity": {
+      "value": "Niobium",
+      "justification": "The project is explicitly identified as a Niobium project in the headline and body: \"SLAM Exploration Acquires New Niobium Critical Mineral Project\" and \"the Notre Dame Niobium Critical Mineral Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no URL for the article is present in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses the '$' symbol for payments. The acquiring company, SLAM Exploration Ltd., is listed on the TSX-V, a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The total cash payment is the sum of two tranches: \"Payment of $25,000 cash... on or before March 31st, 2024.\" and \"Payment of $25,000 cash... on or before the 1st anniversary date of a definitive option agreement.\" This totals $50,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no dollar value is assigned to these shares in the deal terms. Per the extraction hierarchy, this field is null when `amount_of_shares_issued` and `issued_share_price` are used."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal terms are broken down into separate cash and share components, not a single combined value. Per the extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The total shares issued is the sum of all tranches for 100% ownership: 500,000 shares upon approval, 500,000 shares by March 2024, 1,000,000 shares by the first anniversary (for the initial 51%), and an additional 1,000,000 shares for the remaining 49%. The text states: \"Issuance of 500,000 common shares... Payment of $25,000 cash and issuance of 500,000 common shares... Payment of $25,000 cash and issuance of 1,000,000 common shares... Alternatively, St-Georges has the option to grant SLAM the remaining 49% ownership interest... by issuing 1,000,000 common shares of SLAM to St-Georges.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments for options."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 300000,
+      "justification": "The agreement includes a commitment for exploration expenditures: \"Engage $300,000 in qualified exploration work before the 2nd anniversary of a definitive option agreement.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a 2% NSR if SLAM acquires 100% interest. The text states: \"In the event that SLAM purchases a 100% interest in and to the Notre Dame Project by making the 4th payment referenced above, St-Georges will retain a NSR of 2%.\""
+    },
+    "coverage_area_raw": {
+      "value": 6404,
+      "justification": "The project size is explicitly stated: \"The project covers 6,404 hectares (64 km²) comprised of 116 mineral claims.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is given in the same sentence: \"The project covers 6,404 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides grades from grab samples (\"Grab samples range up to 2,320 ppm niobium (0.33% Nb2O5)\") but does not contain a quantified statement of mineral resources with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SXL",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the article: \"SLAM Exploration Ltd. (TSX-V: SXL)\". This is confirmed in the detailed quote section: \"Exchange: TSXV\"."
+    }
+  }
+}

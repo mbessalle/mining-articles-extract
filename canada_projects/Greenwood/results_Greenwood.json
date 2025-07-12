@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Greenwood/31102.txt",
+    "canada_projects/Greenwood/40551.txt",
+    "canada_projects/Greenwood/55849.txt",
+    "canada_projects/Greenwood/75573.txt",
+    "canada_projects/Greenwood/84172.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Greenwood",
+      "justification": "The documents consistently refer to acquisitions for the Greenwood Project, for example: \"Grizzly to Acquire the Motherlode Crown Grants in the Greenwood District Precious and Battery Metals Project, BC\" and \"Grizzly Adds to Greenwood, BC Project with Nearby Beaverdell Properties\"."
+    },
+    "company_name": {
+      "value": "Grizzly Discoveries Inc.",
+      "justification": "The acquiring company is consistently identified in the documents: \"Grizzly Discoveries Inc. (TSXV: GZD) (FSE: G6H) (OTCQB: GZDIF) (\"Grizzly\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Brian Testo",
+      "justification": "The CEO is identified in multiple press releases: \"Brian Testo, President and CEO of Grizzly Discoveries, stated...\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition of the Beaverdell claims was for a 100% interest. The other acquisitions of land by staking and of the Motherlode Crown Grants also represent full acquisition of those specific land packages. \"The Company has entered into a purchase agreement (\"Beaverdell Agreement\") with Zimtu Capital Corp. (\"Zimtu\") whereby the Company will acquire a 100% undivided interest in ten (10) mineral claims...\"."
+    },
+    "primary_commodity": {
+      "value": "Copper, Gold",
+      "justification": "The project is described as a precious and battery metals project. The historical Motherlode Mine, a key part of an acquisition, highlights these commodities: \"The Motherlode Mine is reported to have produced 76,975,111 pounds of Cu, 173,319 ounces of Au and 688,203 ounces of Ag...\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/154557",
+      "justification": "The article titled \"Grizzly Adds to Greenwood, BC Project with Nearby Beaverdell Properties and Engages Integrous Capital Partners\" describes an acquisition by Grizzly Discoveries Inc. for its Greenwood Project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Grizzly Discoveries Inc., is based in Edmonton, Alberta, and is listed on the TSX Venture Exchange (TSXV), implying Canadian dollars for transactions denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 7500,
+      "justification": "A cash payment was made as part of the Beaverdell property acquisition: \"Under the terms of the Zimtu Beaverdell Agreement, the Company will acquire the Beaverdell Claims for a cash payment of $7,500, payable immediately...\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit raw monetary value for the share payments is provided in the transaction terms. Consideration is given as a number of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A combined value is only provided for the Beaverdell transaction (\"deemed price of $15,000\"), but not for the Motherlode transaction. Therefore, a total combined value for all transactions cannot be determined."
+    },
+    "amount_of_shares_issued": {
+      "value": 325000,
+      "justification": "This is the sum of shares from two separate acquisitions: 75,000 shares for the Beaverdell Claims (\"the issuance of 75,000 common shares of the Company to Zimtu\") and 250,000 shares for the Motherlode Crown Grants (\"Grizzly will issue First Majestic 250,000 common shares of the Company\")."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the property acquisition considerations."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 300,000 stock options mentioned are for engaging Integrous Capital Partners for consulting services, not as part of a property acquisition. 'ICP will provide capital market consulting services to the Company for consideration of... the issuance of 300,000 stock options'."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued (75,000 for Beaverdell, 250,000 for Motherlode), but not an explicit price. Using the last traded price as a fallback, as seen in the detailed quote sections of the relevant announcements: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the acquisition agreements."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as a term of the acquisition agreements."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the Motherlode acquisition, a royalty was granted to the seller: \"At closing, the Company will grant a 1% Net Smelter Return (NSR) Royalty on the Crown Grants to First Majestic...\"."
+    },
+    "coverage_area_raw": {
+      "value": 6778,
+      "justification": "This is the sum of two separate land acquisitions for the Greenwood project: 6,478 acres acquired by staking (\"Grizzly was able to acquire by staking... a total of 6,478 acres\") and 300 acres from the Motherlode acquisition (\"The Motherlode Crown Grants... consist of 13 Crown Grants covering a total of 300 acres\")."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The areas acquired were specified in acres: \"a total of 6,478 acres\" and \"a total of 300 acres\"."
+    },
+    "resource_size": {
+      "value": "2.8 million tonnes with a grade of 1.6% Cu equivalent (CuEq3) (0.8% Cu, 1.06 g/t Au)",
+      "justification": "A historical resource estimate is described for the acquired Motherlode property: \"A historical MRE1 constructed in 1967 by Allen Geological Engineering Ltd.2... is described as Drill Proven (Assured), Indicated and Inferred and totals 2.8 million tonnes with a grade of 1.6% Cu equivalent (CuEq3) (0.8% Cu, 1.06 g/t Au).\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GZD",
+      "justification": "The company's name is consistently followed by its ticker and exchange information in the press releases: \"Grizzly Discoveries Inc. (TSXV: GZD) (FSE: G6H) (OTCQB: GZDIF) (\"Grizzly\" or the \"Company\")\"."
+    }
+  }
+}

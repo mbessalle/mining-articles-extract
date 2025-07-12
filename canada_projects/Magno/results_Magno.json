@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Magno/77493.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Magno",
+      "justification": "The primary project of interest is Magno. The acquisition is of Copper Peak Metals Inc., which holds the project. Quote: 'Copper Peak has an acquisition agreement for the acquisition of a 100% interest in the Magno property.'"
+    },
+    "company_name": {
+      "value": "GoldHaven Resources Corp.",
+      "justification": "The text identifies the acquirer: 'GoldHaven Resources Corp. (CSE: GOH) ... is pleased to announce that it has entered into a definitive securities exchange agreement dated October 31, 2024 with Copper Peak Metals Inc.'"
+    },
+    "ceo_buyer": {
+      "value": "Bonn Smith",
+      "justification": "The buyer's CEO is identified in the text: 'Bonn Smith, CEO of GoldHaven Resources, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "GoldHaven is acquiring 'all of the issued and outstanding shares of Copper Peak'. Copper Peak, in turn, has an agreement for 'a 100% interest in the Magno property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article title is 'GoldHaven Enters into Definitive Agreement to Acquire BC Gold & Copper Assets' and the text states 'the Magno and Three Guardsmen property are poised for a gold exploration focus'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/228556",
+      "justification": "The article describes the acquisition of Copper Peak Metals Inc. by GoldHaven Resources Corp. Copper Peak holds the Magno project, which is the specified project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves a company listed on the Canadian Securities Exchange (CSE: GOH) and uses a '$' symbol for its share price ('deemed price of $0.09 per Consideration Share'), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 93334,
+      "justification": "This is a future obligation associated with the Magno property that GoldHaven is assuming: 'The future obligations under this acquisition agreement include the payment of $93,334 to the underlying property optionor, Gerry Diakow by January 29, 2025.' The preceding sentence specifically discusses the Magno property acquisition agreement."
+    },
+    "share_payments_raw": {
+      "value": 179550,
+      "justification": "The total deemed consideration for the shares is $359,100. This is for the acquisition of Copper Peak, which holds two properties (Magno and Three Guardsmen). The value is split equally between the two projects ($359,100 / 2 = $179,550). Quote: '...total deemed consideration of $359,100... Copper Peak holds 100% ownership of the Magno and Three Guardsmen mineral properties...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were identified, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were populated in `cash_payments_raw` and `share_payments_raw`. The total number of shares issued for both the Magno and Three Guardsmen projects was 3,990,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes 1,000,000 share purchase warrants (500,000 + 500,000), but no dollar value is assigned to them in the text, only an exercise price."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were populated in `cash_payments_raw` and `share_payments_raw`. The deemed price per share was $0.09."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration focus but does not specify a monetary exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states 'The Magno property includes 24 mineral tenures' but does not provide a specific area in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Magno project. It describes it as an exploration target: 'targets that indicate a potential for porphyry systems on the properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GOH",
+      "justification": "The buyer, GoldHaven Resources Corp., is identified in the text with the ticker and exchange '(CSE: GOH)'."
+    }
+  }
+}

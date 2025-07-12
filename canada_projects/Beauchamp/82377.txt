@@ -1,0 +1,55 @@
+--- Article Metadata ---
+Project Name: Beauchamp
+Company Name: Record Resources Inc.
+Exchange: TSXV
+Ticker: REC
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.18.2024, 10:13:00 PM
+
+# Record Resources Updates Status of Beauchamp Hydrogen Property Acquisition
+
+Calgary, Alberta--(Newsfile Corp. - December 18, 2024) - Record Resources Inc. (TSXV: REC) announces that it is actively working with the TSX Venture Exchange to address supplementary information requests regarding the final agreement. This collaborative process underscores Record's commitment to transparency and its focus on maintaining the highest standards of corporate governance.
+
+As initially disclosed on November 21, 2024, Record Resources entered into an arm's-length agreement with a private exploration company. The proposed terms provide Record with 100% ownership of the hydrogen claims in exchange for 12,500,000 shares issued at a price of $0.03 per share and a cash consideration of $39,000. The vendor will retain a 2% gross revenue royalty, with the option for Record Resources to repurchase half of the royalty for $2 million.
+
+Record Resources thanks its stakeholders for their continued support and confidence as the company advances its initiatives.
+
+For more information please contact:  
+Michael C. Judson, Chairman & CEO  
+Record Resources Inc.  
+T. +1-514-865-5496  
+Website: [www.recordgoldcorp.com](https://api.newsfilecorp.com/redirect/arKVrfw781)
+
+ _Cautionary Statements_  
+ _This news release contains "forward-looking information" and "forward-looking statements" (collectively, "forward-looking statements") within the meaning of the applicable Canadian securities legislation. All statements, other than statements of historical fact, are forward-looking statements and are based on expectations, estimates and projections as at the date of this news release. Any statement that involves discussions with respect to predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as "expects", or "does not expect", "is expected", "anticipates" or "does not anticipate", "plans", "budget", "scheduled", "forecasts", "estimates", "believes", an or "intends" or variations of such words and phrases or stating that certain actions, events or results "may" or "could", "would" , "might" or "will" be taken to occur or be achieved) are not statements of historical fact and may be forward-looking statements. In this news release, forward-looking statements relate, among other things, to: approval of the Private Placement and obtaining a full revocation order. This forward-looking information reflects the Company's current beliefs and is based on information currently available to the Company and on assumptions the Company believes are reasonable. These assumptions include, but are not limited to: the market acceptance of the Private Placement; the ability of the Company to obtain a full revocation order and the receipt of all required approvals in connection with the foregoing. Forward looking information is subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking information. Such risks and other factors may include, but are not limited to: general business, economic, competitive, political and social uncertainties; general capital market conditions and market price for securities; and the delay or failure to receive board, shareholder, court or regulatory approvals. Although the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. Readers are cautioned that the foregoing list of factors is not exhaustive. There can be no assurance that such statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on the forward-looking statements and information contained in this news release. Except as required by law the Company does not assume any obligation to update the forward-looking statements of beliefs, opinions, projections, or other factors, should they change._
+
+_Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+_The Units and the securities comprising the Units have not been and will not be registered under the United States Securities Act of 1933, as amended and may not be offered or sold in the United States absent registration or an applicable exemption from the registration requirement. This news release shall not constitute an offer to sell or the solicitation of an offer to buy any securities nor shall there be any sale of securities in the Unites States, or any other jurisdiction, in which such offer, solicitation or sale would be unlawful. Not for distribution to U.S. Newswire Services or for dissemination in the United States. Any failure to comply with this restriction may constitute a violation of U.S. Securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/234302](https://api.newsfilecorp.com/redirect/2E5JEsQrnW)
+
+### Project Name
+
+[Beauchamp Project](/?gid=9140)  
+Canada
+
+--- Detailed Quote ---
+
+Last: 0.02                       Open: 0.02
+High: 0.02                       Bid: 0.015
+Bid Size: 717000                   Beta: 0.26272
+Year High: 0.125                  Market Cap: 2.26m
+PB Ratio: 1.72                   EPS: -0.04
+Average Volume (30 Day): 166.78k    Volume: 130.00k
+Prev. Close: 0.02                Low: 0.02
+Ask: 0.025                        Ask Size: 258000
+VWAP: 0.02                       Year Low: 0.005
+Total Shares: 113.06m               Shares Out: 113.06m
+Float: 111.93m                      Exchange: TSXV

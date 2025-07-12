@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Abcourt-Barvue/52180.txt",
+    "canada_projects/Abcourt-Barvue/55862.txt",
+    "canada_projects/Abcourt-Barvue/64453.txt",
+    "canada_projects/Abcourt-Barvue/64454.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Abcourt-Barvue",
+      "justification": "The primary project of interest is stated as Abcourt-Barvue. The text confirms this in multiple headlines and article bodies, for example: \"Abcourt Acquires Nine (9) Claims Contiguous to its Abcourt-Barvue Property\" and \"The Abcourt-Barvue zinc-silver deposit is excluded from this agreement.\""
+    },
+    "company_name": {
+      "value": "Abcourt Mines Inc.",
+      "justification": "The authoritative company name is Abcourt Mines Inc. This is confirmed in the text: \"Abcourt Mines Inc. (“Abcourt” or “the Company”) (TSX Venture : ABI) is pleased to announce that it has obtained by map designation on April 14, 2024, nine (9) claims contiguous to its Abcourt-Barvue Property\"."
+    },
+    "ceo_buyer": {
+      "value": "Pascal Hamelin",
+      "justification": "In the transaction where Abcourt acquired 9 claims for the project, Abcourt is the buyer. Pascal Hamelin is the President and CEO of Abcourt. \"Pascal Hamelin, President and CEO, comments: ...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "In the acquisition of nine claims by Abcourt, the percentage of interest acquired is not stated. The text only says Abcourt \"obtained by map designation on April 14, 2024, nine (9) claims\"."
+    },
+    "primary_commodity": {
+      "value": "Zinc, Silver",
+      "justification": "The text states: \"The latest NI 43-101 compliant mineral resources estimate... indicates the presence of a measured and indicated category resource in the order of 8 million tonnes of ore at 3% zinc and 55 g/t Ag.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transactions involve Canadian companies listed on Canadian exchanges (TSXV, CSE). A transaction value is given in dollars, which is inferred to be Canadian Dollars (CAD). For example: \"LaFleur issued 4,299,211 Shares to Abcourt with a deemed price of $0.3489 per Share.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition of 9 claims by Abcourt was done by 'map designation' and no cash payment was mentioned. The cash payments mentioned in the text relate to a separate transaction where Abcourt was the seller, not the buyer."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition of 9 claims by Abcourt was done by 'map designation' and no share payment was mentioned. The share payments mentioned in the text relate to a separate transaction where Abcourt was the seller, not the buyer."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned for an acquisition by Abcourt."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition of 9 claims by Abcourt was done by 'map designation' and no shares were issued. The share issuance mentioned in the text was by LaFleur Minerals in a separate transaction where Abcourt was the seller."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned for an acquisition by Abcourt."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued by Abcourt for the acquisition of the 9 claims."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "This value is from a transaction where Abcourt sold certain claims and retained a royalty. The rule allows for capturing retained NSRs. \"Following LaFleur’s exercise of the Option, Abcourt retains a 2% NSR royalty applicable to certain mining claims comprising the Property...\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The area for the acquired nine (9) claims is not specified. The text mentions an area of 5,579 hectares, but this is for a separate property being sold by Abcourt which includes portions of both the Courville and Abcourt Barvue projects."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The area for the acquired nine (9) claims is not specified."
+    },
+    "resource_size": {
+      "value": "8 million tonnes of ore at 3% zinc and 55 g/t Ag",
+      "justification": "The text states: \"The latest NI 43-101 compliant mineral resources estimate, completed in 2014 by J-P Bérubé, P. Eng. (available on SEDAR+), indicates the presence of a measured and indicated category resource in the order of 8 million tonnes of ore at 3% zinc and 55 g/t Ag.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ABI",
+      "justification": "Abcourt Mines Inc. is the buyer in the acquisition of 9 claims. The text identifies its ticker and exchange as: \"Abcourt Mines Inc. (“Abcourt” or “the Company”) (TSX Venture : ABI)\"."
+    }
+  }
+}

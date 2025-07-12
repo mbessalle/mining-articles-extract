@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Golden Sable/35793.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Golden Sable",
+      "justification": "The article is titled 'Trailbreaker Resources Acquires Golden Sable Property, South-Central BC' and states the company 'has acquired the 2,568-hectare Golden Sable property'."
+    },
+    "company_name": {
+      "value": "Trailbreaker Resources Ltd.",
+      "justification": "The press release is from 'Trailbreaker Resources Ltd. (TBK.V) (“Trailbreaker” or “the Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Daithi Mac Gearailt",
+      "justification": "The document is signed 'ON BEHALF OF THE BOARD\n\nDaithi Mac Gearailt\nPresident and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the property was 'acquired through an option agreement' but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the property as an 'intrusion-related gold target' and mentions a 'gold-in-soil anomaly'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Golden Sable, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction details or payment amounts are mentioned in the article, so currency is not applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The terms of the option agreement, including any cash payments, are not disclosed in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The terms of the option agreement, including any share payments, are not disclosed in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The terms of the option agreement, including any payments, are not disclosed in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The terms of the option agreement, including any share issuance, are not disclosed in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The terms of the option agreement, including any warrant issuance, are not disclosed in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions the property was acquired via an 'option agreement' but does not provide any details on the payment terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction described."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a planned 'Phase 1 surficial exploration program' but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2568,
+      "justification": "Trailbreaker Resources Ltd. ... is pleased to announce that it has acquired the 2,568-hectare Golden Sable property..."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "Trailbreaker Resources Ltd. ... is pleased to announce that it has acquired the 2,568-hectare Golden Sable property..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a 'greenfields gold target' and mentions historical drilling intersections and soil anomalies, but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TBK",
+      "justification": "The text identifies the company as 'Trailbreaker Resources Ltd. (TBK.V)'. The '.V' suffix indicates the TSX Venture Exchange, which is confirmed in the 'Detailed Quote' section: 'Exchange: TSXV'."
+    }
+  }
+}

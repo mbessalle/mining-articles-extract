@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ranger Lake/63082.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ranger Lake",
+      "justification": "The article announces the acquisition of two projects, including the project of interest: \"the Snook Lake and Ranger Lake Uranium Projects\"."
+    },
+    "company_name": {
+      "value": "Greenridge Exploration Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3), is pleased to announce it has signed an Asset Transfer Agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Russell Starr",
+      "justification": "The CEO of the acquiring company, Greenridge Exploration Inc., is listed at the end of the article: \"Russell Starr Chief Executive Officer, Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a complete interest in the projects: \"...to acquire a 100% interest in the Snook Lake and Ranger Lake Uranium Projects...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project: \"The Ranger Lake Uranium project consists of 942 mineral claims covering 20,782 hectares of Uranium prospective ground...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Ranger Lake project acquisition, but no URL for the article was included in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the acquiring company, Greenridge Exploration Inc., is listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars. Quote: \"(CSE: GXP | FRA: HW3)\""
+    },
+    "cash_payments_raw": {
+      "value": 27000,
+      "justification": "The project's share is $27,000, calculated as half of the '$54,000' total cash payment which is for two projects (Ranger Lake and Snook Lake). Text: '...the Company is required to make aggregate cash payments of $54,000 to the Optionors in order to earn a hundred percent (100%) interest in the Projects...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The total value of shares was not explicitly stated. The deal was described in terms of number of shares and price per share, which are populated in other fields as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal were listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 925000,
+      "justification": "The project's share is 925,000 shares, calculated as half of the 'aggregate of 1,850,000 common shares' to be issued for two projects (Ranger Lake and Snook Lake). Text: 'Pursuant to the Agreement, the Company is required to issue to the Vendor an aggregate of 1,850,000 common shares (“Shares”)...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.96,
+      "justification": "The price per share is explicitly stated in the agreement terms: \"...the Company is required to issue to the Vendor an aggregate of 1,850,000 common shares (“Shares”) at a deemed price of $0.96 per Share...\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The projects are subject to a retained royalty by the seller, as stated: \"The Projects are subject to a 1.5% net smelter returns royalty.\""
+    },
+    "coverage_area_raw": {
+      "value": 20782,
+      "justification": "The area for the Ranger Lake project is specified: \"The Ranger Lake Uranium project consists of 942 mineral claims covering 20,782 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified: \"The Ranger Lake Uranium project consists of 942 mineral claims covering 20,782 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a grade from a selected sample ('0.30% U3O8'), but does not provide a mineral resource estimate with tonnage or volume as required by the rule."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GXP",
+      "justification": "The buyer's ticker and primary exchange are listed in the introduction: \"Greenridge Exploration Inc. (“Greenridge” or the “Company”) (CSE: GXP | FRA: HW3)...\""
+    }
+  }
+}

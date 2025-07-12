@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lorado/43782.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lorado",
+      "justification": "The article announces the acquisition of two projects, including the one of interest: 'Eagle Plains Resources Ltd. (TSXV:EPL) ('EPL' or 'Eagle Plains') has recently acquired two new projects; the Larado and the Smitty...'. The authoritative spelling 'Lorado' is used."
+    },
+    "company_name": {
+      "value": "Eagle Plains Resources Ltd.",
+      "justification": "The acquiring company is identified in the first sentence: 'Eagle Plains Resources Ltd. (TSXV:EPL) ('EPL' or 'Eagle Plains') has recently acquired two new projects...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Eagle Plains Resources Ltd., is not mentioned in the text. The document is signed by 'C.C. (Chuck) Downie' P.Geo, V.P. Exploration and Director."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Eagle Plains 'acquired' the project, but does not specify the percentage of interest acquired in this transaction."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as prospective for uranium and mentions its history: 'Mineralization at the past producing Larado Uranium Mine (SMDI 1228) is structurally controlled, and consists of pitchblende (a mineral containing uranium)...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/800900/eagle-plains-acquires-additional-saskatchewan-uranium-projects-engages-caesars-report-for-communications-and-marketing",
+      "justification": "The article is titled 'Eagle Plains Acquires Additional Saskatchewan Uranium Projects' and details the acquisition of the Larado (Lorado) project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a marketing contract for 'CND $8,820', and the acquiring company is listed on the TSX Venture Exchange (TSXV), implying Canadian currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payment as consideration for the project acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payment as consideration for the project acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment as consideration for the project acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as consideration for the project acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as consideration for the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as consideration for the project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 245,
+      "justification": "The size of the project is explicitly stated: 'The 245 ha Larado project is located along Saskatchewan Provincial Highway 962...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the project area is provided in the text: 'The 245 ha Larado project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a 'past producing Larado Uranium Mine' but does not provide a quantified mineral resource estimate with mass or volume units as required by the extraction rules."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EPL",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the article: 'Eagle Plains Resources Ltd. (TSXV:EPL)...'"
+    }
+  }
+}

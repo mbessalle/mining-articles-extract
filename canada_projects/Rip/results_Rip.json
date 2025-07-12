@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Rip/41134.txt",
+    "canada_projects/Rip/44806.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rip",
+      "justification": "The project is consistently referred to as the 'Rip Project' or 'Rip Cu-Mo Project' throughout the documents, for example: 'Interra Copper Announces Letter of Intent for Rip Copper-Molybdenum Project Earn-In'."
+    },
+    "company_name": {
+      "value": "Interra Copper Corp.",
+      "justification": "The text identifies the acquiring company: 'Interra Copper Corp. (CSE: IMCX) (OTCQB: IMIMF) (FSE: 3MX) (\"Interra\" or the \"Company\") is pleased to announce that it has entered into a non-binding letter of intent (the \"LOI\") with ArcWest Exploration Inc. (TSXV: AWX) (\"ArcWest\"), to negotiate an 80% earn-in and joint venture agreement on ArcWest's Rip Cu-Mo Project'."
+    },
+    "ceo_buyer": {
+      "value": "Rick Gittleman",
+      "justification": "The press releases are signed 'On behalf of the Board of Interra Copper Corp. Rick Gittleman Interim CEO & Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement is for a farm-in with a maximum potential interest: 'Under the terms of the LOI, Interra obtains a two-stage option to earn up to an 80% ownership interest in the Rip Project over up to an 8-year period.'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is named the 'Rip Copper-Molybdenum Project', indicating copper and molybdenum as the key commodities. 'Interra Copper Corp. and ArcWest Exploration Inc. Execute Rip Copper-Molybdenum Project Option and Joint Venture Agreement'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/181092",
+      "justification": "The article is titled 'Interra Copper Announces Letter of Intent for Rip Copper-Molybdenum Project Earn-In', which directly concerns the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The financial terms are specified in Canadian dollars: '...completing geological and exploration expenditures of Cdn $2,000,000, and paying Cdn $100,000 cash to ArcWest...'"
+    },
+    "cash_payments_raw": {
+      "value": 2150000,
+      "justification": "The total potential cash payment is C$2,150,000, aggregated from all stages. Stage 1: 'paying Cdn $100,000 cash to ArcWest'. Stage 2: 'paying ArcWest C$250,000 per year' (for 4 years = $1,000,000). Extension: 'continuing C$250,000 annual payment to ArcWest plus an additional C$100,000 per year' (for 3 years = $1,050,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares is specified, but no cash value is assigned to them in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1050000,
+      "justification": "In the 1st stage, Interra has the option to earn, over a 4-year staged work-schedule, a 60% share ownership in the Rip by issuing 1,050,000 shares of Interra..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction payment."
+    },
+    "issued_share_price": {
+      "value": 0.09,
+      "justification": "The transaction terms mention the issuance of 1,050,000 shares but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.09'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 10000000,
+      "justification": "The total potential exploration commitment is C$10,000,000, aggregated from all stages. Stage 1: 'completing geological and exploration expenditures of Cdn $2,000,000'. Stage 2: 'funding C$2 million in work'. Extension: 'a minimum of C$2,000,000 of annual exploration during the extension period' (for 3 years = $6,000,000)."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 2309,
+      "justification": "The Rip Project comprises 2,309 ha and is located about 63 km south of Houston and 79 km southwest of Burns Lake in central British Columbia."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The Rip Project comprises 2,309 ha and is located about 63 km south of Houston and 79 km southwest of Burns Lake in central British Columbia."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a formal mineral resource estimate with tonnage. It only mentions historical drill intercepts like '0.07% Cu and 0.005% Mo over 70.3 meters' and notes that 'this area will require an extensive drilling program to determine whether a zone of economic mineralization exists', implying no resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:IMCX",
+      "justification": "The acquiring company is identified with its ticker and exchange in the text: 'Interra Copper Corp. (CSE: IMCX)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Filion/43071.txt",
+    "canada_projects/Filion/43265.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Filion",
+      "justification": "The text states: \"...pleased to announce the staking of the district-scale highway-accessible Filion Gold Project (the \"Project\")...\""
+    },
+    "company_name": {
+      "value": "Torr Metals Inc.",
+      "justification": "The acquiring company is identified as \"Torr Metals Inc. (TSXV: TMET)\"."
+    },
+    "ceo_buyer": {
+      "value": "Malcolm Dorsey",
+      "justification": "The CEO is identified in the signature block: \"Malcolm Dorsey, President, CEO and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"Through staking the Filion Project we have acquired 100% ownership of a significant district-scale gold system...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the \"Filion Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/185265",
+      "justification": "The article is titled 'Torr Announces Staking of Gold Endowed 261 km2 Ontario Project' and the content is about the staking of the Filion Gold Project by Torr Metals Inc., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Torr Metals Inc., is listed on the TSXV (TSX Venture Exchange), a Canadian exchange. The detailed quote section uses a '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a 'staking' of mineral claims, not an acquisition from another party for cash or share consideration. No payment details are mentioned."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 26076,
+      "justification": "The text states: \"...staking of the district-scale highway-accessible Filion Gold Project (the \"Project\") totaling 26,076 hectares (~261 km2)...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the coverage area: \"...totaling 26,076 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as 'underexplored' with 'minimal exploration' and mentions '6 known historical gold occurrences', but does not provide a quantified mineral resource estimate (e.g., JORC or NI 43-101)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TMET",
+      "justification": "The press release identifies the company as \"Torr Metals Inc. (TSXV: TMET)\"."
+    }
+  }
+}

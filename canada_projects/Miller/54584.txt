@@ -1,0 +1,118 @@
+--- Article Metadata ---
+Project Name: Miller
+Company Name: Northstar Gold Corp.
+Exchange: CSE
+Ticker: NSG
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.28.2024, 7:00:00 PM
+
+# Northstar Signs Additional Boston Creek Copper Property Letter of Intent
+
+Vancouver, British Columbia--(Newsfile Corp. - May 28, 2024) - **Northstar Gold Corp.** (**CSE: NSG) (OTC PINK: NSGCF**) ("**Northstar** " or the "**Company** ")**,** is pleased to announce the Company has signed a Letter of Intent (LOI) with vendors of the 64 hectare Philip Property, situated adjacent and southeast of Northstar's Miller Copper-Gold Property along the historic Boston Creek Copper Trend (Figure 1). The Philip Property LOI enhances Northstar's Boston Creek Copper Trend consolidation strategy and supplements the previously signed Boston Creek Mines Property LOI reported by the Company on May 16th, 2024. Both Property LOI's include a 6-month exclusivity provision to provide for due diligence and negotiation of acquisition terms.
+
+Northstar recently reported defining 3 surface EM survey conductors on the Miller Copper-Gold Property, believed to represent near-surface volcanogenic massive sulphides (VMS) horizons ([Please see Northstar News Release dated May 16, 2024](https://api.newsfilecorp.com/redirect/7W5LDU8V1w)). These conductors extend southeast onto the Philip Property, with the central conductor extending as much as 350 metres across the property line. (Figure 2) The central, 350 metre long, 200 Siemens (S) "Zone 2 Extension Conductor" has been identified by multiple sources of data that include 1979 Input Airborne Electromagnetic (AEM)1 and Geotem III AEM surveys2. 
+
+"The Philip Property LOI is key to Northstar's Boston Creek Copper Trend consolidation and exploration strategy to ground truth and drill test the Zone 2 Extension Conductor up to, and beyond the Philip Property boundary. Positive exploration and due diligence results would provide basis for the negotiation of acquisition terms.", states Brian P. Fowler, P.Geo., President, and CEO of Northstar. "The newly defined, near-surface, 350 metre long 200 Siemens Zone 2 Extension EM Conductor on the Miller Copper-Gold Property has signatures that potentially represent a large, near-surface VMS deposit. Northstar is positioning to drill test the Zone 2 Extension Conductor later this summer." 
+
+_**Large 350m, 200 Siemens Near-Surface EM Conductor Defines Possible Southeast Strike Extension of Cam Copper Zone 2**_(**14.8% copper over 2.5 metres in DDH CC03-23)**
+
+Northstar previously reported that Crone Geophysics and Exploration Ltd. recently completed a 3-component, or 3-dimensional surface EM survey that defined a strong near surface conductor with a conductance of 200 Siemens (S), indicating possible massive sulphide mineralization along strike and similar in composition to Cam Copper Mine Zone 2 but with potentially greater thickness. This potential "Zone 2 Extension Conductor" has a minimum 350 metre strike length and 150 metre depth extent and strikes 319° Az and dips -82 degrees to the northeast (Figure 2). The Zone 2 Extension Conductor is coincidental with several magnetic anomalies located approximately 600 to 900 meters along strike to the southeast of the Cam Copper mine site (Figures 2 and 3) and could represent the southeast expansion of previously drilled Cam Copper VMS Zone 2 (**14.8% copper over 2.5 metres in DDH CC03-23** \- [See Northstar News Release dated November 23, 2023](https://api.newsfilecorp.com/redirect/eLgW2H8jXL)).
+
+[](https://images.newsfilecorp.com/files/6839/210689_13635a55d4156b25_002full.jpg)  
+  
+**Figure 1. VMS Copper and Surface EM Targets on the  Miller Copper-Gold, Boston Creek Mines (LOI) and Philip Properties (LOI)**
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6839/210689_13635a55d4156b25_002full.jpg>
+
+[](https://images.newsfilecorp.com/files/6839/210689_13635a55d4156b25_003full.jpg)  
+  
+**Figure 2. Potential VMS Horizon EM Conductors Central to  Miller Copper Gold Property, Boston Creek Mines Property LOI and Philip Property LOI**
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6839/210689_13635a55d4156b25_003full.jpg>
+
+_**Plate Modeling Identifies Philip Property EM Conductors - Potential VMS Horizons**_
+
+Recent plate modeling by RM Geoscience estimated the conductance of the Geotem III AEM anomaly on the Philip Property (Figure 2) to be 50 Siemens, dipping NE with a 250 metre strike length, minimum 300 metre depth extent and topping out at approximately 120 metres depth below surface, suggesting a shallow southeastern plunge for the conductive trend. This potential VMS horizon is estimated to strike 319 degrees Az and dip -82 degrees to the northeast. Additional lines of surface EM surveying are recommended to further define conductors on the Philip Property. 
+
+_**Future Exploration Plans**_
+
+Northstar intends to follow up on the 2023 Cam Copper trend surface sample and 2024 EM survey targets in the spring of 2024, with a program of prospecting, geological mapping, sampling and a Phase II diamond drill program. Northstar will also conduct surface inspections of historic workings, due diligence of the Boston Creek Mines and Philip Properties, and negotiate acquisition terms. 
+
+  1. OGS 1980: Airborne Electromagnetic and Total Intensity Magnetic Survey, Kirkland Lake Area, Pacaud Township, District of Timiskaming, by Questor Surveys Ltd. for the Ontario Geological Survey ; Prelim map P.2273, Geophysical Survey Scale 1: 20 000. Survey and Compilation, February and March 1979.
+
+
+  2. Ontario Geological Survey 2000. Airborne Magnetic and Electromagnetic Surveys, Kirkland Lake Area; Ontario Geological Survey, Map 82 040, scale 1: 20 000
+
+
+
+ _**Qualified Person**_
+
+Brian P. Fowler, P.Geo., President, CEO and Director of Northstar Gold Corp, is a Qualified Person as defined by National Instrument 43-101. Mr. Fowler has reviewed the technical information in this news release and approves the written disclosure contained herein.
+
+_**About Northstar Gold Corp.**_
+
+Northstar's primary exploration focus is to advance and expand our near-surface, bulk-tonnage gold-telluride and more recently discovered VMS copper mineral deposits on the Company's flagship, 100%-owned Miller Copper-Gold Property, situated 18 km southeast of Kirkland Lake, Ontario. The Company's strategy is to develop a material (+1M ounce gold / high-grade copper) mineral resource base to either supplement a nearby mining operation or support a stand-alone mining operation at the Property. 
+
+_Allied Gold Zone_
+
+Since going public by IPO in late 2020, Northstar has spent over $5.6 million in exploration at Miller, resulting in the discovery of a series of broad, near-surface, shallow dipping sheeted quartz-gold-telluride vein structures in the Allied Syenite (Allied Gold Zone) and Planet Syenites and numerous **70 - 750 gold gram/metre** drill hole intercepts. Drilling to date at the AGZ has returned near-surface gold intercepts that include **6.6 g/t Au over 117.0 metres, 4.0 g/t Au over 50.6 metres, 1.4 g/t Au over 118.5 metres, and 1.2 g/t Au over 107.3 metres.** Step out AGZ drilling in 2021 intersected peripheral steeply dipping copper-gold bearing structures (CG1 and CG2 Zones) returning intercepts that include 9.41 g/t Au, 1.03% Cu over 3.0m. The AGZ shares numerous compelling similarities to Agnico Eagle's nearby Upper Beaver Deposit, currently in the pre-development stage. 
+
+In April, 2022, as a precursor to a Mineral Resource Estimate and for reporting purposes, the Company commissioned Ronacher Mackenzie Geoscience and SRK Consulting (Canada) to conduct an Exploration Target Study of the Miller Property Allied Gold Zone and No. 1 Vein. An upper range exceeding **500,000 ounces of gold averaging 2.04 g/t Au** has been referenced in this study. Reported results ([Northstar News Release dated July 26, 2022](https://api.newsfilecorp.com/redirect/85Loru4D1e)) verify the significance, size and gold grade potential of the Allied gold mineralizing system. Results provide the Company and investors a fact-based conceptual tonnage and gold grade range for the Allied Syenite Gold Zone, and basis for continued expansion drilling and mineral resource development.
+
+_Cam Copper Mine_
+
+On November 23rd, 2023 Northstar announced results from a 720 metre, 4-hole diamond drill program completed on the historic high-grade Cam Copper Mine, located 2.5 kilometres southwest of the Allied Gold Zone and also on Northstar's 100%-owned Miller Property. The Company reported all drill holes intersected lenses of Cu-rich volcanogenic massive sulphides, including massive and stringer chalcopyrite in drill hole CC03-23 grading **14.8% Cu over 2.45m** from 116.55m to 119m in Zone 2 ([See Northstar News Release dated November 23, 2023](https://api.newsfilecorp.com/redirect/yE7GgfoN0o)). These results suggest Zone 2 is thickening in a southeast and down-plunge direction. Zones 1, 3 and 4 also remain open along strike and at depth.
+
+Cam Copper is a road accessible shaft mine and small-scale, past producer of high-grade 'direct shipping' copper ore centred on the historic Boston Creek Copper Trend.
+
+Cam Copper Mine is centred on a newly recognized high-grade "Besshi-type" volcanogenic massive sulphide (VMS) copper system situated at the northwest end of a 0.9 km long southeast trending belt of VMS horizons. Besshi-type VMS deposits are an important global source of base metals, simplistically characterized as vented, broad sheet-like layers of magnetite, iron-copper-lead-zinc-arsenic sulphides, cobalt, sulphosalts, silver and possibly gold deposited on an ancient sea floor, hosted in volcano-sedimentary rock packages.
+
+Northstar has recently completed down-hole and grid-scale EM geophysical surveys at Cam Copper Mine to define Phase II drill targets in Q2, 2024. 
+
+Northstar is seeking a senior partner to conduct Allied Gold Zone lateral and depth expansion diamond drilling on the Miller Property.
+
+Northstar's 3 additional 100%-owned exploration projects in northern Ontario, include the recently acquired 1,150 ha Rosegrove Property situated 0.5 km from the Miller Property, the 4,650 ha Bryce Gold Property (includes the recently optioned Britcanna Lease), an intrusive-gold / PME VMS project located along the projected east extension of the Ridout Break, and the recently expanded Temagami-Milestone Cu-Ni-Co Critical Minerals Property located in Strathcona Township. Northstar is seeking exploration partners to advance all 3 properties.
+
+**On behalf of the Board of Directors** ,
+
+Mr. Brian P. Fowler, P.Geo.  
+  
+President, CEO and Director   
+(604) 617-8191   
+[bfowler@northstargoldcorp.com](mailto:bfowler@northstargoldcorp.com)
+
+Connect with us on [Twitter](https://api.newsfilecorp.com/redirect/1pJGkHN1My) | [LinkedIn](https://api.newsfilecorp.com/redirect/AMzWmH1K2w) | [Instagram](https://api.newsfilecorp.com/redirect/ZAG52t4G0z)
+
+Neither the Canadian Securities Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release.
+
+_**Cautionary Note Regarding Forward-Looking Statements**_
+
+ _This news release contains certain "forward-looking information" and "forward-looking statements" (collectively "forward-looking statements") within the meaning of applicable securities legislation. All statements, other than statements of historical fact, included herein, without limitation, statements relating the future operations and activities of Kirkland Lake Discoveries, are forward-looking statements. Forward-looking statements are frequently, but not always, identified by words such as "expects", "anticipates", "believes", "intends", "estimates", "potential", "possible", and similar expressions, or statements that events, conditions, or results "will", "may", "could", or "should" occur or be achieved. Forward-looking statements in this news release relate to, among other things, the Company's three-phase drill program, the results thereof, and any impact therefrom. There can be no assurance that such statements will prove to be accurate, and actual results and future events could differ materially from those anticipated in such statements. Forward-looking statements reflect the beliefs, opinions and projections on the date the statements are made and are based upon a number of assumptions and estimates that, while considered reasonable by Northstar Gold Corp., are inherently subject to significant business, economic, competitive, political and social uncertainties and contingencies. Many factors, both known and unknown, could cause actual results, performance or achievements to be materially different from the results, performance or achievements that are or may be expressed or implied by such forward-looking statements and the parties have made assumptions and estimates based on or related to many of these factors. Such factors include, without limitation, the ability to complete proposed exploration work, the results of exploration, continued availability of capital, changes in general economic, market and business conditions, and the ability to obtain any requisite approvals. Readers should not place undue reliance on the forward-looking statements and information contained in this news release concerning these items. Northstar Gold Corp. does not assume any obligation to update the forward-looking statements of beliefs, opinions, projections, or other factors, should they change, except as required by applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/210689](https://api.newsfilecorp.com/redirect/aro32Hng2D)
+
+### Project Name
+
+[Miller Project](/?gid=1615)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.025            $  Chg: -0.005
+Open: 0.025            High: 0.025
+Beta: 1.30455            Year High: 0.06
+Market Cap: 3.24m      PB Ratio: 0.88
+EPS: -0.03             Average Volume (30 Day): 121.85k
+Volume: 55.00k          % Chg: -16.67%
+Prev. Close: 0.03     Low: 0.025
+VWAP: 0.025            Year Low: 0.015
+Total Shares: 129.60m    Shares Out: 129.60m
+Float: 121.47m           Exchange: CSE

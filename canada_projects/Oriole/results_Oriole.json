@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Oriole/51705.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Oriole",
+      "justification": "The new Oriole claims follow similar magnetic features seen at the adjacent Cardinal project."
+    },
+    "company_name": {
+      "value": "Go Metals Corp.",
+      "justification": "Go Metals Corp. (CSE: GOCO) (\"Go Metals\" and/or the \"Company\") announces staking of two claim blocks targeting critical metals..."
+    },
+    "ceo_buyer": {
+      "value": "Scott Sheldon",
+      "justification": "Scott Sheldon, CEO of Go Metals states, \"While our primary focus remains on advancing the HSP group of projects, this new greenfield project signals our commitment to exploration of critical metals in Quebec."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article announces the staking of claims, but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Nickel-Copper",
+      "justification": "The recent discovery by SOQUEM has shown the potential for magmatic Nickel-Copper systems in this underexplored region."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/204626",
+      "justification": "The article is titled 'Go Metals Announces Staking in Quebec' and the content is about the staking of the 'new Oriole claims'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial transactions or currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition with cash payment terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition with share payment terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition with payment terms."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 37.4,
+      "justification": "Figure 1: Oriole claims land packages totaling 37.4 square kilometres"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometres",
+      "justification": "Figure 1: Oriole claims land packages totaling 37.4 square kilometres"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as a 'new greenfield project' and does not mention any existing mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GOCO",
+      "justification": "Go Metals Corp. (CSE: GOCO) (\"Go Metals\" and/or the \"Company\") announces staking of two claim blocks..."
+    }
+  }
+}

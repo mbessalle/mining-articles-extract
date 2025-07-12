@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Maraschino/47951.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Maraschino",
+      "justification": "The article is titled \"Rock Edge Options Maraschino Uranium Project in the Thelon Basin, Nunavut\" and refers to the project as the \"Maraschino Uranium Project\" throughout."
+    },
+    "company_name": {
+      "value": "Rock Edge Resources Ltd.",
+      "justification": "The text clearly identifies the acquiring company: \"Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG) is pleased to announce it has entered into an Option Agreement to acquire a 100% interest in the Maraschino Uranium Project...\". This directly contradicts the provided authoritative company name."
+    },
+    "ceo_buyer": {
+      "value": "Charles Desjardins",
+      "justification": "The signatory for the buyer is listed as: \"On Behalf of the Board of Directors Charles Desjardins Chief Executive Officer, President and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows the company to \"acquire a 100% interest in the Maraschino Uranium Project\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is consistently referred to as the \"Maraschino Uranium Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted by '$' and the acquiring company, Rock Edge Resources Ltd., is listed on the Canadian Stock Exchange (CSE), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 290000,
+      "justification": "The agreement terms state the company can earn its interest through \"cumulative option payments consisting of cash payments of $290,000\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no explicit dollar value for these shares is provided in the agreement terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "The agreement terms include \"the issuance of 3,500,000 common shares in the Company over 24 months to the vendors\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options, other than the main property option agreement, are mentioned as part of the payment terms."
+    },
+    "issued_share_price": {
+      "value": 0.205,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.205'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the agreement terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The agreement specifies that \"The Vendors shall retain a 1.5% NSR on the property\"."
+    },
+    "coverage_area_raw": {
+      "value": 113,
+      "justification": "The text states: \"The Maraschino Uranium Project consists of 8 mineral licenses covering 113 square km over 6 prospects.\""
+    },
+    "coverage_area_unit": {
+      "value": "square km",
+      "justification": "The text states: \"The Maraschino Uranium Project consists of 8 mineral licenses covering 113 square km over 6 prospects.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the entire Thelon Basin ('Approximately 160 million pounds of uranium has been defined in the Thelon Basin to date'), but does not provide a specific mineral resource estimate for the Maraschino Project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:REDG",
+      "justification": "The acquiring company is identified in the text as \"Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG)\"."
+    }
+  }
+}

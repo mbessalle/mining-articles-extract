@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/McIntyre Brook/51412.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McIntyre Brook",
+      "justification": "The text refers to the project as the 'McIntyre Brook Project, New Brunswick'."
+    },
+    "company_name": {
+      "value": "Lode Gold Resources Corp.",
+      "justification": "The acquiring company is identified as 'Lode Gold Resources Corp. (TSXV: LOD) (OTCQB: SBMIF)'."
+    },
+    "ceo_buyer": {
+      "value": "Wendy T. Chan",
+      "justification": "The text identifies the CEO of the buyer company: 'Wendy T. Chan, CEO and Director, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions two separate events. One is an acquisition where the company 'acquired 100% ownership of two more claims'. The other, for which financial details are provided, is for 'second year option payments on seven arms-length option agreements'. The percentage of interest being earned through these specific option payments is not stated."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as being located in the 'emerging Triple Fault Gold Belt'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/204044",
+      "justification": "The article content, including the headline 'Lode Gold Gains 100% Ownership of Claims and Option Partners Agree to Take Shares - Mcintyre Brook Project, New Brunswick', is directly about the McIntyre Brook project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses the '$' symbol for payments: 'total payments due... total $209,000'. The currency is inferred to be Canadian Dollars (CAD) as the company is listed on the TSX Venture Exchange (TSXV) and the project is in New Brunswick, Canada."
+    },
+    "cash_payments_raw": {
+      "value": 77000,
+      "justification": "The company will satisfy the total payments 'by payments of $77,000 in cash'."
+    },
+    "share_payments_raw": {
+      "value": 132000,
+      "justification": "The company will satisfy the total payments with '$132,000 by the issuance of 4,400,000 common shares at a deemed price of $0.03 per share'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payments are broken down into explicit cash and share components, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 4400000,
+      "justification": "The payments include 'the issuance of 4,400,000 common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text describes payments for an option agreement, but these are broken down into cash and shares, not a separate category of 'option payments'."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The shares were issued 'at a deemed price of $0.03 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an intent to initiate exploration but does not state a specific monetary commitment for this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 58.41,
+      "justification": "The option payments, for which financial details are provided, cover 'seven arms-length option agreements covering 19 claims comprising 58.41 km2 (5,841 hectares)'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The area related to the option payments is specified as '58.41 km2'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a resource estimate for a different project: 'The MRE evaluates only 1.4 km of the 4 km strike length of the Fremont property... The project hosts an NI 43-101 resource of 1.16 Moz at 1.90 g/t Au...'. No resource is stated for the McIntyre Brook project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LOD",
+      "justification": "The company is identified in the text as 'Lode Gold Resources Corp. (TSXV: LOD)'."
+    }
+  }
+}

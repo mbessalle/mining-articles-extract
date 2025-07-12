@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Mercator/64992.txt",
+    "canada_projects/Mercator/65011.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mercator",
+      "justification": "The text identifies the project as one of three acquired: '...the Corporation will acquire from Troilus Gold three prospective lithium projects located in the James Bay region, namely, the Mercator, Monarch and Elmer East projects...'"
+    },
+    "company_name": {
+      "value": "Comet Lithium Corporation",
+      "justification": "The buyer is identified as Comet Lithium Corporation. 'Comet Lithium Corporation (TSXV: CLIC) (FSE: 8QY) (\"Comet Lithium\" or the \"Corporation\") is pleased to announce that it has entered into a Purchase and Sale Agreement on July 12, 2024 with Troilus Gold Corp.'"
+    },
+    "ceo_buyer": {
+      "value": "Vincent Metcalfe",
+      "justification": "The CEO of the buyer, Comet Lithium, is identified in the text. 'Vincent Metcalfe, President and CEO commented, \"The acquisition drives further consolidation in the James Bay area...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Comet Lithium will acquire the project, which implies a 100% interest. '...the Corporation will acquire from Troilus Gold three prospective lithium projects located in the James Bay region, namely, the Mercator, Monarch and Elmer East projects (the \"Transaction\").'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The announcement describes the acquisition of three lithium projects. 'Agreement signed to acquire three prospective lithium projects in the James Bay region.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the Mercator project acquisition, but no article link was included in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars (C$) in the transaction details. '...in exchange for 1,500,000 Consideration Shares to Troilus at an issue price of C$0.315 per Share...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is in shares, not cash. Per the extraction hierarchy, this field is null as `amount_of_shares_issued` and `issued_share_price` are populated."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null as `amount_of_shares_issued` and `issued_share_price` are populated."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null as `amount_of_shares_issued` and `issued_share_price` are populated."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "The value is calculated as one-third of the total shares issued, as the consideration was for three projects. The total was 1,500,000 shares. 'Pursuant to the Agreement, upon closing of the Transaction Comet Lithium will be required to: Issue 1,500,000 common shares to Troilus Gold.' This was for the Mercator, Monarch, and Elmer East projects. Therefore, Mercator's share is 1,500,000 / 3 = 500,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": 0.315,
+      "justification": "The issue price per share is explicitly stated in the agreement details. 'Comet Lithium has agreed to acquire the Mercator, Monarch and the East Elmer projects from Troilus in exchange for 1,500,000 Consideration Shares to Troilus at an issue price of C$0.315 per Share (the “Issue Price”).'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Troilus Gold, retained a 2% NSR on the project. 'Grant a 2% Net Smelter Royalty (\"NSR\") with right to buyback 1% for $3 million on each of the Mercator Project, the Monarch Project and the Elmer East Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 14.91,
+      "justification": "The area for the Mercator project is specified individually. 'The Mercator Project is located 40 kilometres southeast of Comet's Liberty property and Winsome Resources' Adina project (ASX: WR1). It is comprised of 29 mining claims covering approximately 14.91 km².'"
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The unit for the coverage area is specified as km². 'It is comprised of 29 mining claims covering approximately 14.91 km².'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Mercator project. It notes that 'little historical exploration completed to date.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CLIC",
+      "justification": "The buyer's ticker and exchange are provided in the first press release. 'Comet Lithium Corporation (TSXV: CLIC) (FSE: 8QY)...'"
+    }
+  }
+}

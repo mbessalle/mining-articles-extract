@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Big Bulk _South_/46242.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Big Bulk South",
+      "justification": "The article discusses the acquisition of an option on the 'southern portion of the Big Bulk Project'. The authoritative name provided is 'Big Bulk South'."
+    },
+    "company_name": {
+      "value": "Dolly Varden Silver Corporation",
+      "justification": "Dolly Varden Silver Corporation (TSXV: DV) (OTCQX: DOLLF) (the \"Company\" or \"Dolly Varden\") has entered into an assignment and assumption agreement (the \"Assignment Agreement\") with Libero Copper & Gold Corporation (\"Libero\") pursuant to which Dolly Varden has acquired (the \"Acquisition\") from Libero an option agreement..."
+    },
+    "ceo_buyer": {
+      "value": "Shawn Khunkhun",
+      "justification": "\"We have been continuing to seek accretive consolidation opportunities in the area and the amalgamation of the southern portion of the Big Bulk copper gold porphyry with Dolly Varden's portion is our latest step,\" said Shawn Khunkhun, President and CEO of Dolly Varden."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The amended Option Agreement provides that Dolly Varden may earn-in a 100% undivided interest in the Big Bulk Property by completing the following payments..."
+    },
+    "primary_commodity": {
+      "value": "copper",
+      "justification": "The article is titled 'Dolly Varden Silver Consolidates Big Bulk Copper-Gold Porphyry Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/191620",
+      "justification": "The article is about Dolly Varden Silver Corporation acquiring an option on the southern portion of the Big Bulk project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration shares are valued based on 'the closing price of the Common Shares on the TSX Venture Exchange (the \"TSXV\")'. The TSXV is a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No direct cash payments were made for the acquisition of the option itself. Cash payments are part of the option exercise terms, which are captured in the `option_payments_raw` field."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, Priority 2 (Calculable Share Value) was used, populating `amount_of_shares_issued` and `issued_share_price`. Therefore, this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, Priority 2 (Calculable Share Value) was used. Therefore, this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 275000,
+      "justification": "Pursuant to the Assignment Agreement, as consideration, the Company has agreed to issue Libero 275,000 common shares of the Company (the \"Consideration Shares\")."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": 1450000,
+      "justification": "The total value represents the sum of all potential payments to exercise the option agreement: \"a) $50,000 in cash... b) $150,000 in cash... c) $250,000 in cash or common shares... d) $500,000 in cash or common shares... and e) $500,000 in cash or common shares.\" ($50,000 + $150,000 + $250,000 + $500,000 + $500,000 = 1,450,000)."
+    },
+    "issued_share_price": {
+      "value": 0.78,
+      "justification": "The Acquisition is being completed pursuant to the Assignment Agreement. Dolly Varden has agreed to issue the Consideration Shares to Libero at a deemed value of $0.78 per Consideration Share..."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any specific exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3025,
+      "justification": "The Libero property, also known as the Big Bulk Property (the \"Big Bulk Property\"), is comprised of seven mineral claims making up 3,025Ha in the Golden Triangle, British Columbia."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The Libero property, also known as the Big Bulk Property (the \"Big Bulk Property\"), is comprised of seven mineral claims making up 3,025Ha in the Golden Triangle, British Columbia."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions that past drilling encountered 'porphyry-style alteration with copper and gold mineralization' but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Big Bulk project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DV",
+      "justification": "The buyer is identified as 'Dolly Varden Silver Corporation (TSXV: DV) (OTCQX: DOLLF)'."
+    }
+  }
+}

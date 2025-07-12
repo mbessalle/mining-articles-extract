@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Horetzky/75923.txt",
+    "canada_projects/Horetzky/76753.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Horetzky",
+      "justification": "Northern Lights Acquires the Horetzky Copper Project Located in the Babine Porphyry Copper Belt"
+    },
+    "company_name": {
+      "value": "Northern Lights Resources Corp.",
+      "justification": "Northern Lights Resources Corp. (“Northern Lights” or the “Company”) (CSE: NLR, OTC: NLRCF) is pleased to announce it has entered into an option agreement with veteran prospector Bernie Kreft (“Kreft”) to acquire a 100% interest in the Horetzky Copper Project"
+    },
+    "ceo_buyer": {
+      "value": "Jason Bahnsen",
+      "justification": "Northern Lights, CEO, Jason Bahnsen commented “We were excited when the Horetzky opportunity presented itself...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has the right to acquire a 100% interest in the Horetzky Project..."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "Northern Lights Acquires the Horetzky Copper Project Located in the Babine Porphyry Copper Belt"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the Horetzky project, but no article URL is present in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with '$' and the acquiring company, Northern Lights Resources Corp., is listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 5000,
+      "justification": "The Company has the right to acquire a 100% interest in the Horetzky Project by paying $5,000 in cash..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share component of the transaction is captured in the `amount_of_shares_issued` and `issued_share_price` fields, as per the data extraction hierarchy. No separate monetary value for the shares was provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were broken down into separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 7500000,
+      "justification": "The Company has the right to acquire a 100% interest in the Horetzky Project by... issuing 7,500,000 shares..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued (7,500,000), but not an explicit price for the transaction. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "A drilling meterage of 5,000m is mentioned as a potential trigger for a milestone payment, not as a required exploration commitment. The commitment is a monetary value."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "The Company has the right to acquire a 100% interest in the Horetzky Project by... completing $1,000,000 in exploration over 3 years."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The property is subject to a 2.5% NSR, 40% of which can be purchased for $2,000,000 at any time up to the commencement of commercial production."
+    },
+    "coverage_area_raw": {
+      "value": 4309,
+      "justification": "The initial acquisition agreement was for the property as described in the first announcement: 'It consists of 10 tenures totalling 4,309 hectares'. The subsequent staking of additional land was a separate event."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "It consists of 10 tenures totalling 4,309 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a future potential milestone related to defining a resource ('a minimum of 1,000,000 ounces of gold or gold equivalent') but does not state any current or historical mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NLR",
+      "justification": "The text identifies the company and its tickers: 'Northern Lights Resources Corp. (“Northern Lights” or the “Company”) (CSE: NLR, OTC: NLRCF)'"
+    }
+  }
+}

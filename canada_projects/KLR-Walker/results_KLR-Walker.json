@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/KLR-Walker/41897.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "KLR-Walker",
+      "justification": "The article is titled 'Marvel Increases Land Holdings at KLR-Walker Uranium Project...'"
+    },
+    "company_name": {
+      "value": "Marvel Discovery Corp.",
+      "justification": "The acquiring company is identified as 'Marvel Discovery Corp. (TSX-V:MARV)(Frankfurt:O4T)(OTCQB:MARVF);(\"Marvel \" or the\"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Karim Rayani",
+      "justification": "The text identifies the CEO: 'Mr. Karim Rayani, Chief Executive Officer, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction was an acquisition of land via staking, not the acquisition of a percentage interest from another party. No percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the 'KLR-Walker Uranium Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/789876/marvel-increases-land-holdings-at-klr-walker-uranium-project-tied-to-cameco-fission--athabasca-basin",
+      "justification": "The article is titled 'Marvel Increases Land Holdings at KLR-Walker Uranium Project...', which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking', which does not involve a transactional currency between parties. The mention of 'USD' is for an unrelated investor relations service agreement."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking', not a cash purchase. The text does not mention any cash consideration for the claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking'. The text does not mention any share payments for the claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking'. The text does not mention any combined cash and share payments for the claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made 'through staking'. The text does not mention any shares being issued for the claims."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 3422,
+      "justification": "The company 'acquired through staking an additional 3,422 hectares of prospective claims at the KLR-Walker Uranium Project'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The company 'acquired through staking an additional 3,422 hectares of prospective claims at the KLR-Walker Uranium Project'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the Arrow Deposit ('Probable Reserves of 239.6 million lbs. of U3O8'), but this is a nearby project owned by NexGen Energy used for comparison and is not a resource for the KLR-Walker project. No resource is stated for the KLR-Walker project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MARV",
+      "justification": "The company is identified as 'Marvel Discovery Corp. (TSX-V:MARV)...' and the detailed quote section confirms 'Exchange: TSXV'."
+    }
+  }
+}

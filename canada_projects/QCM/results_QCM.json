@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/QCM/50921.txt",
+    "canada_projects/QCM/53483.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "QCM",
+      "justification": "The primary project of interest is named QCM in the prompt and is referred to as the 'QCM Property' in the text: 'Kestrel Gold - Completes Acquisition of 100% Interest in the QCM Property...'"
+    },
+    "company_name": {
+      "value": "Kestrel Gold Inc.",
+      "justification": "The acquiring company is identified as 'Kestrel Gold Inc. (\"Kestrel\" or the \"Corporation\"), (TSX-V:KGC)'."
+    },
+    "ceo_buyer": {
+      "value": "Rob Solinger",
+      "justification": "The text identifies the CEO of the buyer, Kestrel Gold Inc., as: 'Rob Solinger, President and CEO of Kestrel, states: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement is for the completion of the acquisition: 'With the closing of this transaction Kestrel has earned a 100% interest in the QCM Property from Bernard Kreft.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The second article refers to the project as the 'QCM gold property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/845833/kestrel-gold--completes-acquisition-of-100-interest-in-the-qcm-property-and-bernard-kreft-announces-acquisition-of-common-shares",
+      "justification": "The article is about Kestrel Gold Inc. completing its acquisition of the QCM project, which aligns with the project of interest and the identified transaction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses the '$' symbol and the buyer, Kestrel Gold Inc., is listed on the TSX Venture exchange (TSXV:KGC), which implies Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "Details of the transaction include a cash payment of $100,000..."
+    },
+    "share_payments_raw": {
+      "value": 75000,
+      "justification": "The value of the share component is explicitly stated: '...and the issuance of 2,500,000 Kestrel common shares at a price of $0.03 per share for aggregate consideration of $75,000 to Bernard Kreft.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share payment values were identified and populated."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the transaction value was populated under Priority 1 using `cash_payments_raw` and `share_payments_raw`."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments as part of the consideration was found in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the transaction value was populated under Priority 1 using `cash_payments_raw` and `share_payments_raw`."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "An exploration commitment of 13,500 metres is mentioned, but it relates to a subsequent farm-out agreement with Centerra Gold, not the acquisition of 100% interest by Kestrel from Bernard Kreft."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "An exploration commitment value of $6,500,000 is mentioned, but it relates to a subsequent farm-out agreement with Centerra Gold, not the acquisition of 100% interest by Kestrel from Bernard Kreft."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "An NSR is mentioned in the context of a subsequent farm-out agreement with Centerra Gold, not the acquisition of 100% interest by Kestrel from Bernard Kreft."
+    },
+    "coverage_area_raw": {
+      "value": 8729,
+      "justification": "The second article provides the size of the project: 'QCM is comprised of 8,729 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The second article provides the unit for the project area: 'QCM is comprised of 8,729 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides drilling results (e.g., '2.86 g/t Au over 110.95 metres') but does not state a quantified mineral resource in terms of mass or volume (tonnes, ounces, etc.)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KGC",
+      "justification": "The text identifies the buyer's ticker and exchange as '(TSX-V:KGC)'. The detailed quote section confirms the exchange as 'Exchange: TSXV'."
+    }
+  }
+}

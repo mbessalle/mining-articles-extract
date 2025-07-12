@@ -1,0 +1,61 @@
+--- Article Metadata ---
+Project Name: None
+Company Name: Forum Energy Metals Corp.
+Exchange: TSXV
+Ticker: FMC
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.17.2023, 2:46:00 AM
+
+# Forum Acquires Rio Tinto's Interest in the Janice Lake Copper Project
+
+Vancouver, British Columbia--(Newsfile Corp. - November 16, 2023) - Forum Energy Metals Corp. **(TSXV: FMC) (OTCQB: FDCFF)** ("Forum" or the "Company") announces that further to its news release of March 6, 2023, it has revised and completed the acquisition of Rio Tinto Exploration Canada Inc.'s ("RTEC") interest in the Janice Lake copper project in northern Saskatchewan, giving Forum a 100% interest in the project.
+
+**Rick Mazur, President & CEO stated, **"This agreement allows Forum shareholders an optionality play in copper where Rio Tinto added significant value to the project. Forum has reviewed the data and has determined that copper deposits remain open for extension and numerous copper showings on the 52km extent of the property remain to be drilled. The key claims on the property are in good standing for four to nineteen years while copper emerges as a fundamental commodity to achieve the energy transition." 
+
+As consideration, Forum is to grant RTEC a 20% back-in right (the "**Back-in Right** ") in Janice Lake and a 2% net smelter royalty (NSR) capped at $50 million. RTEC may exercise the Back-in Right at any time no later than 180 days following the earlier of completion of a feasibility study or commencement of commercial production if a feasibility study is not completed prior to the commencement of commercial production. The Back in Right can only be exercised by paying Forum an amount equal to all the expenditures incurred by Forum on the Project from now up to the Back-in Right trigger date. On exercise of the Back-in Right Forum and RTEC will form an 80/20 joint venture for further development of the Project.
+
+Forum is also to pay RTEC $500,000 upon the earlier of completion of a PEA, completion of a feasibility study and commencement of commercial production and a further $2,000,000 upon the earlier of completion of a feasibility study or commencement of commercial production if a feasibility study is not completed prior to the commencement of commercial production (the "**Milestone Payments** "). Forum's obligations with respect to the Milestone Payments are secured by a debenture in favour of RTEC granting a first charge over all the assets comprising the interest acquired from RTEC.
+
+_**About Forum Energy Metals**_
+
+Forum Energy Metals Corp. **(TSXV: FMC) (OTCQB: FDCFF)** is focused on the discovery of high-grade unconformity-related uranium deposits in the Athabasca Basin, Saskatchewan and the Thelon Basin, Nunavut. In addition, Forum holds a diversified energy metal portfolio of copper, nickel, and cobalt projects in Saskatchewan and Idaho.
+
+For further information: [https://www.forumenergymetals.com](https://api.newsfilecorp.com/redirect/3jx4DimkOk).
+
+_This press release contains forward-looking statements. Forward-looking statements address future events and conditions and therefore involve inherent risks and uncertainties. Actual results may differ materially from those currently anticipated in such statements. Forward-looking information is subject to known and unknown risks, uncertainties and other factors that may cause Forum's actual results, level of activity, performance or achievements to be materially different from those expressed or implied by such forward-looking information. Such factors include but are not limited to: uncertainties related to the historical data, the work expenditure commitments; the ability to raise sufficient capital to fund future exploration or development programs; changes in economic conditions or financial markets; changes commodity prices, litigation, legislative, environmental and other judicial, regulatory, political and competitive developments; technological or operational difficulties or an inability to obtain permits required in connection with maintaining or advancing its exploration projects._
+
+ON BEHALF OF THE BOARD OF DIRECTORS
+
+Richard J. Mazur, P.Geo.  
+President & CEO
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+**For further information contact:**
+
+Rick Mazur, P.Geo., President & CEO  
+[mazur@forumenergymetals.com  
+](mailto:mazur@forumenergymetals.com)Tel: 604-630-1585
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/187687](https://api.newsfilecorp.com/redirect/NBReDh5v08)
+
+--- Detailed Quote ---
+
+Last: 0.05                       Open: 0.05
+High: 0.05                       Bid: 0.045
+Bid Size: 213000                   Beta: 1.27415
+Year High: 0.145                  Market Cap: 15.47m
+PB Ratio: 42.97                   EPS: -0.04
+Average Volume (30 Day): 252.40k    Volume: 178.03k
+Prev. Close: 0.05                Low: 0.05
+Ask: 0.05                        Ask Size: 95000
+VWAP: 0.05                       Year Low: 0.035
+Total Shares: 309.35m               Shares Out: 309.35m
+Escrow Shares: 6.00m              Float: 294.76m
+Exchange: TSXV

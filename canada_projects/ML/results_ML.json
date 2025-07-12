@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/ML/46694.txt",
+    "canada_projects/ML/48332.txt",
+    "canada_projects/ML/50153.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "ML",
+      "justification": "The documents consistently refer to the project as the ML Property. For example: \"Prospector to Acquire ML Property, Yukon\" and \"the closing of its previously announced acquisition of the ML Property (also known as the Mike Lake Property)\"."
+    },
+    "company_name": {
+      "value": "Prospector Metals Corp.",
+      "justification": "The acquiring company is identified at the beginning of each press release: \"Prospector Metals Corp. (TSXV: PPP) ... is pleased to announce that it has entered into a property purchase agreement to acquire a 100% interest in the ML Property\"."
+    },
+    "ceo_buyer": {
+      "value": "Rob Carpenter",
+      "justification": "The press releases are signed by 'Dr. Rob Carpenter, Ph.D., P.Geo. President & CEO' on behalf of Prospector Metals Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Prospector Metals Corp. will \"acquire a 100% interest in the ML Property\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described as being within the \"prolific Tintina Gold Belt\" and target types include \"intrusion related gold, gold-copper-tungsten skarn, high grade vein, and replacement Au-Ag mineralization\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/193003",
+      "justification": "The article titled \"Prospector to Acquire ML Property, Yukon\" directly concerns the acquisition of the ML project by Prospector Metals Corp., which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Prospector Metals Corp., is listed on the TSX Venture Exchange (TSXV: PPP) and the private placement offerings are priced in dollars ($). This context implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as a \"shares-only purchase agreement\". A future milestone payment of $1-2 million is mentioned, but it is contingent upon a future resource estimate and can be paid in shares, so it is not included as an upfront cash payment. The primary consideration is shares, following Priority 2 of the financial extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, Priority 2 (amount of shares and price per share) is used because both components are available, so this field for a single raw share value is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, Priority 2 (amount of shares and price per share) is used, so this field for a combined value is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 9222164,
+      "justification": "The closing announcement states: \"Pursuant to the Transaction, the Company issued 9,222,164 common shares of the Company (the 'Common Shares') to Troilus\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued to the seller, Troilus Gold Corporation, as part of the acquisition consideration. Warrants mentioned in the text are part of a separate private placement financing."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.21,
+      "justification": "The transaction terms mention the number of shares issued (9,222,164), but not an explicit price for the acquisition shares. Using the last traded price as a fallback per the rules, as seen in the detailed quote: 'Last: 0.21'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not contain a specific exploration spending commitment to the seller. The company states an intention to use proceeds from a separate private placement for work on the ML Property, but this is not a contractual commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention the acquisition or retention of a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 4757,
+      "justification": "The text states: \"The ML Property encompasses 4,757 hectares within the prolific Tintina Gold Belt\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The ML Property encompasses 4,757 hectares within the prolific Tintina Gold Belt\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a current mineral resource estimate. A milestone payment is contingent on the future \"completion of a mineral resource estimate\", which implies one does not currently exist."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PPP",
+      "justification": "The buyer is identified as \"Prospector Metals Corp. (TSXV: PPP) (OTCQB: ETHOF) (FSE: 1ET)\". The primary listing is TSXV:PPP."
+    }
+  }
+}

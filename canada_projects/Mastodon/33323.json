@@ -1,0 +1,134 @@
+{
+  "article": {
+    "id": 33323,
+    "link": "https://www.newsfilecorp.com/release/155492/Kapa-Gold-Announces-Option-Agreement-for-Historic-BC-Nickel-Project",
+    "title": "Kapa Gold Announces Option Agreement for Historic BC Nickel Project",
+    "description": "<img id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" src=\"https://api.newsfilecorp.com/newsinfo/155492/367\" /><p>Vancouver, British Columbia--(Newsfile Corp. - February 21, 2023) - <b>KAPA GOLD INC</b>. (TSXV: KAPA) (\"<b>Kapa</b>\" or the \"<b>Company</b>\") is pleased to announce that it has signed an option agreement to acquire a 100% interest in the Mastodon Nickel Project (\"<b>Mastodon</b>\") a large historic nickel project located in Southern BC.</p><p>The property is situated just east of Christina Lake, a 6.5 hours drive from Vancouver along the Canada-US border.  The property covers 2,118 hectares and contains several historic workings dating back to the turn of the 20th century.</p><p>In the 1970's, southern BC had a period of exploration by numerous companies focused on nickel-copper-cobalt-chromium mineralization.  The Mastodon was identified as a potential large sulphide nickel zone and had a follow-up drill campaign undertaken by Chromex Mines.</p><p>The Company is presently compiling all the available historic data and will report on the geological model and historic results, with a recommendation to advance the project.  Good road access exists throughout the project area.</p><p>The option terms call for an initial $25,000 deposit within 30 days of signing, 50,000 share issuance, and an expenditure of $150,000 in the first year.  Thereafter annual share payments spread over 6 years will total an additional 1,150,000 shares. Additionally property payments consist of 10% of exploration expenditures, capped at $1mm, with no annual commitments on the work performed. Complete details of the option agreement will be disclosed at a later date.</p><p>Kapa is excited with its latest acquisition as it provides for additional interest in strategic metals while also providing project diversification.</p><p><b>Qualified Person</b></p><p>The scientific and technical information contained in this news release has been reviewed and approved by Dr. Allan Miller, PhD., P.Geo., Consultant and Senior Geologist of Kapa Gold Inc, a \"<b>Qualified Person</b>\" as defined in National Instrument 43-101 Standards of Disclosure for Mineral Projects.</p><p><b>About Kapa</b></p><p><i>Kapa Gold, led by experienced capital markets and geologic team, is focused on exploring its 100% owned historic Blackhawk Gold Mine and surrounding underexplored properties for economic mineralization.</i></p><p><i>To learn more, visit </i><a href=\"https://api.newsfilecorp.com/redirect/ErEzpSZbQo\"><i>www.kapagold.com</i></a><i>.</i><i> </i></p><p><b>On behalf of the Board of Directors</b></p><p><b>KAPA GOLD INC.</b></p><p><u><i>\"David K. Paxton\"</i></u><br /><b>CEO and Director</b></p><p><b>For More Information Contact:</b></p><p>Konstantine Tsakumis<br /><a href=\"mailto:kon@kapagold.com\">kon@kapagold.com</a><br />604-961-9442</p><p><i>Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.</i></p><p><b>Forward Looking Information</b><br /><i>Certain statements made, and information contained herein may constitute \"forward-looking information\" and \"forward-looking statements\" within the meaning of applicable Canadian and United States securities legislation. These statements and information are based on facts currently available to the Company and there is no assurance that actual results will meet management's expectations. Forward-looking statements and information may be identified by such terms as \"anticipates\", \"believes\", \"targets\", \"estimates\", \"plans\", \"expects\", \"may\", \"will\", \"could\" or \"would\". Forward-looking statements and information contained herein are based on certain factors and assumptions. While the Company considers its assumptions to be reasonable as of the date hereof, forward-looking statements and information are not guaranteeing of future performance and readers should not place undue importance on such statements as actual events and results may differ materially from those described herein. The Company does not undertake to update any forward-looking statements or information except as may be required by applicable securities laws.</i></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/8847/155492_90e74e85a4239ba7_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/xOJyeUwjW7\">https://www.newsfilecorp.com/release/155492</a></p>",
+    "search_terms": "Mastodon,KAPA Gold Inc.,KAPA",
+    "master_gid": 4198,
+    "date": "2023-02-21T14:00:00.000Z",
+    "tags": "Canada|||Gold,Nickel|Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 2017,
+    "provider": null,
+    "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - February 21, 2023) -KAPA GOLD INC. (TSXV: KAPA) (\"Kapa\" or the \"Company\") is pleased to announce that it has signed an option agreement to acquire a 100% interest in the Mastodon Nickel Project (\"Mastodon\") a large historic nickel project located in Southern BC.The property is",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "KAPA Gold Inc.",
+    "exchange": "TSXV",
+    "root_ticker": "KAPA",
+    "project_name": "Mastodon",
+    "gid": 4198,
+    "location": "British Columbia, Canada",
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 4198,
+    "project_name": "Mastodon",
+    "location": "British Columbia, Canada"
+  },
+  "articleExchange": "TSXV",
+  "articleCompanyId": 2017,
+  "articleTicker": "KAPA",
+  "articleCompanyName": "KAPA Gold Inc.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 2017,
+      "gid": 4376,
+      "project_name": "Blackhawk",
+      "location": "California, United States"
+    },
+    {
+      "company_id": 2017,
+      "gid": 4198,
+      "project_name": "Mastodon",
+      "location": "British Columbia, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 107975,
+      "company_id": 2017,
+      "title": "Kapa Gold Announces the Results of Its 2025 Annual General Meeting",
+      "link": null,
+      "date": "2025-06-13T17:25:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 90139,
+      "company_id": 2017,
+      "title": "Kapa Gold Provides Permitting, Historic Drilling and Surface Sampling Updates",
+      "link": "https://www.newsfilecorp.com/release/243406/Kapa-Gold-Provides-Permitting-Historic-Drilling-and-Surface-Sampling-Updates",
+      "date": "2025-03-05T16:27:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 83415,
+      "company_id": 2017,
+      "title": "Kapa Gold Advances Baseline Studies and Surface Exploration at Blackhawk Project",
+      "link": "https://www.newsfilecorp.com/release/236247/Kapa-Gold-Advances-Baseline-Studies-and-Surface-Exploration-at-Blackhawk-Project",
+      "date": "2025-01-07T14:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -154394,
+      "company_id": 2017,
+      "title": "Kapa Gold Announces Grant of Stock Options",
+      "link": "https://www.newsfilecorp.com/release/230213/Kapa-Gold-Announces-Grant-of-Stock-Options",
+      "date": "2024-11-15T22:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 78488,
+      "company_id": 2017,
+      "title": "Kapa Gold Submits Exploration Permit for Blackhawk Project",
+      "link": "https://www.newsfilecorp.com/release/229611/Kapa-Gold-Submits-Exploration-Permit-for-Blackhawk-Project",
+      "date": "2024-11-12T14:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 78187,
+      "company_id": 2017,
+      "title": "Kapa Gold Reports Closing Private Placement",
+      "link": "https://www.newsfilecorp.com/release/229238/Kapa-Gold-Reports-Closing-Private-Placement",
+      "date": "2024-11-07T22:27:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 76342,
+      "company_id": 2017,
+      "title": "Kapa Gold Appoints North American Permitting Expert Ron Espell as Advisor",
+      "link": "https://www.newsfilecorp.com/release/228057/Kapa-Gold-Appoints-North-American-Permitting-Expert-Ron-Espell-as-Advisor",
+      "date": "2024-10-28T16:34:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -147225,
+      "company_id": 2017,
+      "title": "Kapa Gold Announces Grant of Stock Options",
+      "link": "https://www.newsfilecorp.com/release/226682/Kapa-Gold-Announces-Grant-of-Stock-Options",
+      "date": "2024-10-15T15:32:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 74397,
+      "company_id": 2017,
+      "title": "Kapa Gold Advances Blackhawk Mine Project with New Data Integration and 3D Modeling Efforts",
+      "link": "https://www.newsfilecorp.com/release/226260/Kapa-Gold-Advances-Blackhawk-Mine-Project-with-New-Data-Integration-and-3D-Modeling-Efforts",
+      "date": "2024-10-10T13:45:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 73701,
+      "company_id": 2017,
+      "title": "Kapa Gold Appoints Mining Executive Joanna-Josephine Pantazidou as New Board Director",
+      "link": "https://www.newsfilecorp.com/release/225385/Kapa-Gold-Appoints-Mining-Executive-JoannaJosephine-Pantazidou-as-New-Board-Director",
+      "date": "2024-10-02T19:32:00.000Z",
+      "hidden": false
+    }
+  ]
+}

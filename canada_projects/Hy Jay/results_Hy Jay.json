@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hy Jay/34210.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hy Jay",
+      "justification": "The article discusses the acquisition of a portfolio of claims, including the HY-Jay project. The authoritative name provided is 'Hy Jay'. The text states: 'The HY-Jay project is comprised of 198 claims...'"
+    },
+    "company_name": {
+      "value": "Golden Independence Mining Corp.",
+      "justification": "The article clearly identifies the acquirer: 'Golden Independence Mining Corp. (CSE: IGLD) (OTCQB: GIDMF) (FSE: 6NNA) (the \"Company\" or \"Golden Independence\") is pleased to announce it has acquired a portfolio of quartz mining claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Poirier",
+      "justification": "'The acquisition of these claims for no material consideration represents an accretive transaction which provides optionality on an emerging gold district in the Yukon,' commented Jeremy Poirier, CEO of Golden Independence."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Golden Independence 'acquired a portfolio of quartz mining claims' but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The projects are described as being located along the 'Upper Hyland River Gold Belt' which 'is host to several high-grade, sediment-hosted orogenic gold vein occurrences.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/163565",
+      "justification": "The article is titled 'Golden Independence Announces Acquisition of Yukon Mineral Claims' and details the acquisition of the 'HY-Jay project', which is the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction was for 'no material consideration', so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was completed for 'no material consideration', indicating no cash payment was made."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was completed for 'no material consideration', indicating no share payment was made."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was completed for 'no material consideration'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was completed for 'no material consideration', so no shares were issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction was completed for 'no material consideration', so no shares were issued and no price is applicable."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions a pre-existing '2% net smelter royalty (\"NSR\") in the favor of Freeport remains on the HY claims', but this was not acquired or retained as part of the transaction between Golden Independence and Bearing Lithium."
+    },
+    "coverage_area_raw": {
+      "value": 4110,
+      "justification": "The article specifies the area for the project of interest: 'The HY-Jay project is comprised of 198 claims covering an area of approximately 4,110 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "'The HY-Jay project is comprised of 198 claims covering an area of approximately 4,110 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article provides historical grab sample results but does not contain a quantified mineral resource estimate (e.g., in tonnes or ounces) for the Hy Jay project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:IGLD",
+      "justification": "The buyer is identified as 'Golden Independence Mining Corp. (CSE: IGLD)'."
+    }
+  }
+}

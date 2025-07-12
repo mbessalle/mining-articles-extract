@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Bruell/27114.txt",
+    "canada_projects/Bruell/52454.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bruell",
+      "justification": "The authoritative project name is Bruell, supported by the text: 'Sparton Resources Announces Acquisition of 100% of Bruell Property in Quebec'."
+    },
+    "company_name": {
+      "value": "Sparton Resources Inc.",
+      "justification": "The buyer is identified as 'Sparton Resources Inc. (the “Company”) (“SRI”-TSX-V) is pleased to report that it has completed the earn-in and exercised its option to acquire 100% of the 51-claim Bruell Property'."
+    },
+    "ceo_buyer": {
+      "value": "A. Lee Barker",
+      "justification": "The CEO of the buyer, Sparton Resources, is identified as 'A. Lee Barker, M.A Sc., P. Eng., President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Sparton 'exercised its option to acquire 100% of the 51-claim Bruell Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the project's location in the 'Val D’Or East Gold Area' and the potential for 'discovering an economic gold deposit'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV:SRI) and uses the '$' symbol. A related news item in the document refers to 'C$500,000', confirming the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The consideration for the acquisition included 'making $300,000 in cash payments to the vendors'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares issued and an implied price, not a total share value. Following the financial data extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into separate cash, share, and exploration components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The consideration for the acquisition included 'issuing a total of 1.5 million common shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued (1.5 million), but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the October 2022 article: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The 4,000m drilling commitment mentioned is from Eldorado to Sparton as part of a subsequent sub-option agreement, not part of Sparton's original acquisition from the vendors."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "The acquisition terms included 'incurring $1.5 million in exploration expenditures on the claims pursuant to an option agreement'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, 'The Bruell Property remains subject to a 2% Net Smelter Royalty to the original vendors'."
+    },
+    "coverage_area_raw": {
+      "value": 29,
+      "justification": "The text refers to 'the added drilling planned for the 29 square kilometre property'."
+    },
+    "coverage_area_unit": {
+      "value": "square kilometre",
+      "justification": "The text refers to 'the added drilling planned for the 29 square kilometre property'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the provided text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SRI",
+      "justification": "The buyer is identified as 'Sparton Resources Inc. (the “Company”) (“SRI”-TSX-V)'."
+    }
+  }
+}

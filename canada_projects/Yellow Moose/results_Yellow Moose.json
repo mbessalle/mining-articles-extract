@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Yellow Moose/38323.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yellow Moose",
+      "justification": "The article is titled \"Teako Minerals Acquires the Advanced and Fully Permitted District Scale Yellow Moose Gold Project in BC, Canada\" and refers to the acquisition of the \"Yellow Moose project (the \\\"Property\\\" or \\\"Yellow Moose\\\")\"."
+    },
+    "company_name": {
+      "value": "Teako Minerals Corp.",
+      "justification": "The acquiring company is identified as \"TEAKO MINERALS CORP. (CSE: TMIN) (the \"Company\" or \"Teako\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Sven Gollan",
+      "justification": "The press release is signed off \"ON BEHALF OF TEAKO MINERALS CORP. 'Sven Gollan' CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Teako is \"acquiring a 100% interest in the Yellow Moose project\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The title of the article is \"Teako Minerals Acquires the Advanced and Fully Permitted District Scale Yellow Moose Gold Project in BC, Canada\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/174184",
+      "justification": "The article is about the Yellow Moose project acquisition by Teako Minerals Corp. The source link is provided at the bottom of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/174184\"."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred from the mention of a Canadian dollar amount for the NSR buyback: \"Teako can buy back 1% of the NSR, thus reducing the NSR to 1%, for a price of CAD $1,000,000.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is in shares, not cash. The terms state \"The issuance of 3,500,000 shares of the Company to Cuprita\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, when the number of shares and a price per share are available, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, when the number of shares and a price per share are available, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "Under the terms of the Agreement, the consideration includes: \"The issuance of 3,500,000 shares of the Company to Cuprita\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote section: 'Last: 0.06'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling is mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions \"over CAD $500,000 of recent work completed on the Property\", but this is historical work, not a future exploration commitment by Teako as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction terms, the seller, Cuprita, retains a royalty: \"Cuprita retains a 2% Net Smelter Return (\\\"NSR\\\")\"."
+    },
+    "coverage_area_raw": {
+      "value": 154,
+      "justification": "The text states: \"The Property is an advanced-stage project measuring 154 km2\"."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states: \"The Property is an advanced-stage project measuring 154 km2\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions resources for adjacent or nearby projects like the Trout Deposit (\"not owned by Teako\") and the Blackwater Deposit, but does not provide a mineral resource estimate (e.g., tonnes, ounces) for the Yellow Moose project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TMIN",
+      "justification": "The buyer is identified in the first paragraph as \"TEAKO MINERALS CORP. (CSE: TMIN)\". The detailed quote section also lists the exchange as \"Exchange: CSE\"."
+    }
+  }
+}

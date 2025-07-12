@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Suni/42551.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Suni",
+      "justification": "The text announces an agreement to acquire the Suni Iron Ore Project: \"signed an agreement to acquire the Suni Iron Ore Project in Ontario Canada.\""
+    },
+    "company_name": {
+      "value": "Greenbank Capital Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"GreenBank Capital (CSE:GBC)(OTC PINK:GRNBF)(FRA:2TL) (\"GreenBank\" or the \"Company\") is pleased to announce that it has signed an agreement to acquire the Suni Iron Ore Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Vilhjalmur Thor Vilhjalmsson",
+      "justification": "The CEO of the buyer, Greenbank, is identified in a quote: \"Vilhjalmur Thor Vilhjalmsson, the CEO and Chairman of Greenbank, had this to say...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Greenbank is acquiring 100% of the holding company for the project: \"signed an agreement to acquire 100% of the issued shares (\"the Purchased Shares\") in 1500597402 Ontario Inc., which holds the Suni Iron Ore project in Ontario Canada.\""
+    },
+    "primary_commodity": {
+      "value": "Iron Ore",
+      "justification": "The project is explicitly identified as an iron ore project: \"signed an agreement to acquire the Suni Iron Ore Project in Ontario Canada.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/793532/strategy-update-acquisition-and-agm-results",
+      "justification": "The article is about the acquisition of the Suni project by Greenbank Capital. The source link is provided at the end of the article text: \"View source version on accesswire.com: https://www.accesswire.com/793532/strategy-update-acquisition-and-agm-results\""
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The purchase price is stated in Canadian Dollars: \"The aggregate purchase price (the \"Purchase Price\") for the Purchased Shares is ONE HUNDRED FIFTY THOUSAND Canadian Dollars (Cdn$150,000,)\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The payment is made via shares, not cash. Per the financial data extraction hierarchy, this field is null because `amount_of_shares_issued` and `issued_share_price` are populated."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because `amount_of_shares_issued` and `issued_share_price` are populated."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because higher priority fields (`amount_of_shares_issued` and `issued_share_price`) are populated."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The payment consists of a total of 3 million shares, issued in two tranches: \"by the issuance of a total of 3 million Common Shares in the capital of the Purchaser to the two sellers... (a) 1,500,000 Common Shares on closing; and (b) 1,500,000 Common Shares on the earlier of the date on which the Purchaser obtains an updated NI 43-101 Technical Report and 9th October 2024\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.015,
+      "justification": "The transaction terms mention the issuance of 3 million shares, but not an explicit price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.015'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The announcement does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1155,
+      "justification": "The property size is given in hectares: \"The Property consists of an area of approximately 11.5km or 1,155 hectares, comprised of 6 block claims totalling 71 mining claim units.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: \"The Property consists of an area of approximately 11.5km or 1,155 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical reports and that 'The Company expects to issue a separate technical detailed press release in due course,' but does not provide a quantified mineral resource estimate in this announcement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GBC",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"GreenBank Capital (CSE:GBC)...\" and confirmed later: \"GreenBank is listed on the Canadian Securities Exchange, under the symbol \"GBC\"\"."
+    }
+  }
+}

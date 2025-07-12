@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Tabor/33465.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tabor",
+      "justification": "The text states: \"Big Gold Inc. ... is pleased to announce the acquisition of the Tabor Project ('Tabor' or the 'Project')...\""
+    },
+    "company_name": {
+      "value": "Big Gold Inc.",
+      "justification": "The acquiring company is identified as \"Big Gold Inc. (CSE: BG) (the 'Company' or 'Big Gold')\"."
+    },
+    "ceo_buyer": {
+      "value": "Scott Walters",
+      "justification": "The text identifies the CEO of the buyer, Big Gold Inc., in the signature line: \"On Behalf of the Board of Directors, Scott Walters President and CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The terms of the acquisition state: \"Big Gold will issue 1,400,000 common shares of the Company and pay the Vendor $6,500 for a 100% interest in the Tabor Property...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the project's mineralization: \"Gold mineralization on the Project of roughly 3,120 hectares is reportedly associated with quartz veins, shearing and sulphides...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/161447",
+      "justification": "The article is about the acquisition of the Tabor project by Big Gold Inc. The source URL is provided at the end of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/161447\""
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol in the context of a Canadian company (Big Gold Inc.) listed on the Canadian Securities Exchange (CSE) acquiring a project in Ontario, Canada. The text states: \"...pay the Vendor $6,500...\""
+    },
+    "cash_payments_raw": {
+      "value": 6500,
+      "justification": "The acquisition terms include a cash payment: \"Under the terms of the Acquisition, Big Gold will ... pay the Vendor $6,500 for a 100% interest in the Tabor Property...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, but does not provide an explicit monetary value for this share component of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, and no combined total value is provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 1400000,
+      "justification": "The acquisition terms specify the number of shares to be issued: \"Under the terms of the Acquisition, Big Gold will issue 1,400,000 common shares of the Company...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants as part of the acquisition terms was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options as part of the acquisition terms was found in the text."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a '100,000 metre drill program' but this is for the adjacent Moss Gold Project, not an exploration commitment for the Tabor project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment for the Tabor project is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition is subject to a Net Smelter Royalty retained by the vendor: \"...for a 100% interest in the Tabor Property, subject to a 2% NSR ('net smelter royalty').\""
+    },
+    "coverage_area_raw": {
+      "value": 3120,
+      "justification": "The text specifies the size of the project area: \"Gold mineralization on the Project of roughly 3,120 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is provided in the text: \"Gold mineralization on the Project of roughly 3,120 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill intercepts and bulk sample results (e.g., 'a grade of 1.38 ounces of gold per ton across an average width of 4.1 feet'), but does not contain a formal, quantified Mineral Resource estimate for the Tabor project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BG",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Big Gold Inc. (CSE: BG) (the 'Company' or 'Big Gold')...\""
+    }
+  }
+}

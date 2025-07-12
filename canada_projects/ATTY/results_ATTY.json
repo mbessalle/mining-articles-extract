@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/ATTY/25199.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "ATTY",
+      "justification": "The article describes a transaction to expand the ATTY property: 'Finlay Minerals completes Acquisition of the ATG Property expanding the ATTY Property'."
+    },
+    "company_name": {
+      "value": "Finlay Minerals Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Finlay Minerals Ltd.(TSXV: FYL) (OTCQB: FYMNF) (\"Finlay \" or the \"Company \") is pleased to announce that, further to its news release issued on July 11, 2022, the Company has today closed its acquisition of the ATG Property from Electrum Resource Corporation...'"
+    },
+    "ceo_buyer": {
+      "value": "Robert F. Brown",
+      "justification": "The CEO of the buyer, Finlay Minerals Ltd., is named at the end of the press release: 'On behalf of the Board of Directors, Robert F. Brown, P. Eng. President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Finlay acquired the ATG Property, but does not specify a percentage interest."
+    },
+    "primary_commodity": {
+      "value": "Copper, Gold",
+      "justification": "The text describes targets on the property and neighboring deposits as containing these metals: '...Centerra Gold Inc.'s Kemess Underground and Kemess East copper (Cu) – gold (Au) porphyry deposits...' and '...compelling targets at ATTY including the drill-ready KEM target, which represents potential Kemess East-style porphyry mineralization, and the drill-ready Attycelley epithermal Au, Cu, silver, lead, and zinc target.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Finlay Minerals Ltd., is listed on the TSXV, a Canadian exchange, and financial values are denoted with a '$' symbol, implying Canadian Dollars. 'Finlay is a TSXV company focused on exploration for base and precious metal deposits in northern British Columbia.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration was paid in shares, not cash, as per the financial data extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are detailed with a number of shares and a price per share, which falls under Priority 2 of the financial extraction hierarchy, not a single raw share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are detailed with a number of shares and a price per share, which falls under Priority 2 of the financial extraction hierarchy, not a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1750000,
+      "justification": "The consideration for the acquisition was a specific number of shares: '...for consideration consisting of 1,750,000 fully paid common shares of Finlay...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The shares issued had a specific deemed value per share: '...1,750,000 fully paid common shares of Finlay with a deemed value of $0.08 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, a pre-existing 3% NSR held by the seller (Electrum) was extended to cover the newly combined property: 'The ATTY Property was subject to a 3% net smelter return royalty held by Electrum (the \"NSR Royalty\")... As a result of the Transaction, the NSR Royalty applies over the Combined Property...'"
+    },
+    "coverage_area_raw": {
+      "value": 1105,
+      "justification": "The area acquired in the transaction is specified: 'Pursuant to the Purchase Agreement, Finlay acquired the ATG Property, which comprises three mineral tenures totaling approximately 1,105 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is specified as hectares: '...three mineral tenures totaling approximately 1,105 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No quantified mineral resource estimate (e.g., tonnes, ounces) is mentioned in the provided text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FYL",
+      "justification": "The buyer's name is immediately followed by its ticker and exchange in the text: 'Finlay Minerals Ltd.(TSXV: FYL)'."
+    }
+  }
+}

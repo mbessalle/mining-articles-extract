@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Murmac/41472.txt",
+    "canada_projects/Murmac/49193.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murmac",
+      "justification": "The primary project of interest is named Murmac, as stated in the title 'FORTUNE BAY EXPANDS THE MURMAC URANIUM PROJECT' and throughout the text."
+    },
+    "company_name": {
+      "value": "Fortune Bay Corp.",
+      "justification": "The text identifies the project owner: 'Fortune Bay Corp. (TSXV: FOR) (FWB: 5QN) (OTCQX: FTBYF) (\"Fortune Bay\" or the \"Company\") is pleased to announce a significant expansion of its 100% owned Murmac Uranium Project'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Aero Energy Limited. The CEO of the buyer is not mentioned in the text. Dale Verran is the CEO of Fortune Bay Corp., the seller."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "An option agreement was granted to a private company, later acquired by Aero Energy, for the right to acquire a majority stake: 'granted the right to acquire up to a 70% interest in the wholly-owned Murmac and Strike Uranium Projects'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is consistently referred to as a uranium project, for example: 'Fortune Bay's dominant land position of high-grade uranium target areas' and 'Murmac Uranium Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The financial terms of the option agreement are specified in Canadian dollars, indicated by 'C$': 'funding C$6 million in exploration expenditures, making cash payments totalling C$1.35 million, and issuing C$2.15 million in common shares'."
+    },
+    "cash_payments_raw": {
+      "value": 1350000,
+      "justification": "The option agreement includes total cash payments of C$1.35 million: 'making cash payments totalling C$1.35 million'."
+    },
+    "share_payments_raw": {
+      "value": 2150000,
+      "justification": "The option agreement includes total share payments valued at C$2.15 million: 'issuing C$2.15 million in common shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "While an initial issuance of 1,333,333 shares is mentioned, the total number of shares for the full C$2.15 million consideration is not specified."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Although a price of $0.15 is mentioned for an initial tranche of shares, the primary financial terms are given as total raw values for cash and shares, making this field not applicable under the extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The value is C$3,000,000, calculated as half of the total C$6 million commitment which is shared between the Murmac and Strike projects. The text states the option requires 'funding C$6 million in exploration expenditures' for the 'wholly-owned Murmac and Strike Uranium Projects'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 10363,
+      "justification": "The total area of the project after expansion is stated as: 'The Project area now totals 10,363 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned: 'The Project area now totals 10,363 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a current mineral resource estimate. It refers to historical production ('95,000 tons of shallow ore grading 0.19% U3O8 was milled') and exploration results, but not a formal, current resource statement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AERO",
+      "justification": "The buyer is identified as Aero Energy Limited, which acquired the original optionee. Its ticker is provided in the text: 'On February 8, 2024, Aero Energy Limited (TSXV: AERO) (OTC Pink: AAUGF) (FSE: 13L0) (\"Aero\") completed the acquisition of 1443904 B.C. Ltd.'."
+    }
+  }
+}

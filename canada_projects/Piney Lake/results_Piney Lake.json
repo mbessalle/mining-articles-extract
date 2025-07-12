@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Piney Lake/51885.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Piney Lake",
+      "justification": "The article is titled 'Lancaster Resources Acquires Piney Lake Gold Property'."
+    },
+    "company_name": {
+      "value": "Lancaster Resources Inc.",
+      "justification": "The press release is from 'Lancaster Resources Inc. (CSE:LCR | OTCQB:LANRF | FRA:6UF0)(“Lancaster” or the “Company” )' which is announcing the acquisition."
+    },
+    "ceo_buyer": {
+      "value": "Penny White",
+      "justification": "\"'The acquisition of the Piney Lake Gold Property is an exciting project to add to our growing exploration portfolio,’ says Penny White, President and Chief Executive Officer of Lancaster."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the property was acquired by staking claims, but does not specify the percentage of interest acquired. Staking typically implies 100% interest, but this is not explicitly stated for the Piney Lake project."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the 'Piney Lake Gold Property' and the text mentions 'high-grade gold potential'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The property was acquired by staking, and no financial transaction values or currency were mentioned in the acquisition terms."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired by staking claims directly, not through a cash purchase from another party. The text states: 'The Company acquired the property by staking claims directly in Saskatchewan, Canada.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired by staking claims directly, not through a share-based payment. The text states: 'The Company acquired the property by staking claims directly in Saskatchewan, Canada.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired by staking claims directly, not through a combined cash and share payment. The text states: 'The Company acquired the property by staking claims directly in Saskatchewan, Canada.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, which was conducted by staking claims."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2267.8,
+      "justification": "The Piney Lake Gold Property, covering an area of 2,267.8 hectares, is nestled approximately 65 kilometres east of La Ronge Provincial Park..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Piney Lake Gold Property, covering an area of 2,267.8 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical geochemical samplings and grades (e.g., '7.55g/T Au'), but does not provide a mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LCR",
+      "justification": "The acquiring company is identified as 'Lancaster Resources Inc. (CSE:LCR | OTCQB:LANRF | FRA:6UF0)'."
+    }
+  }
+}

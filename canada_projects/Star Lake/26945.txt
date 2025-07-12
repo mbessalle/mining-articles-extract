@@ -1,0 +1,82 @@
+--- Article Metadata ---
+Project Name: Star Lake
+Company Name: TomaGold Corporation
+Exchange: TSXV
+Ticker: LOT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+10.21.2022, 6:55:00 PM
+
+# TomaGold acquires highly prospective Star Lake rare earth elements property in James Bay
+
+MONTREAL, Oct. 21, 2022 (GLOBE NEWSWIRE) -- **TOMAGOLD CORPORATION (TSXV:  LOT) (OTCQB: TOGOF)** (“**TomaGold** ” or the “**Corporation** ”) is pleased to announce the acquisition of 96 map-designated claims covering an area of 4,962.6 ha (or 50 km²), located 120 km southeast of Radisson and approximately 15 km south of the recently acquired claims in James Bay. The property will be known as Star Lake and has been the subject of geophysical surveys that have identified six rare earth element showings.  
+
+
+“The last two claim acquisitions allow TomaGold to diversify its assets in the critical metals sector at low cost,” said David Grondin, President and CEO of TomaGold. “The lithium and rare earth element markets are growing rapidly due to the scarcity of these metals and the acquisition of these properties represents opportunities that could not be passed up. This will only strengthen our portfolio of eight properties, including our flagship Obalski project, with results pending from the latest drill program.”
+
+The Corporation has completed a recompilation of the available data and has updated the set of surface samples that were discovered in 2008. The Corporation is excited to present some of the best results that will be the subject of future exploration work.
+
+**Table 1: Best results from the main rare earth element showings¹**
+
+ 
+
+**Samples**| **Type**| **TREE  
+(%)**| **La  
+(ppm)**| **Nd  
+(ppm)**| **Pr  
+****(ppm)**| **Dy  
+(ppm)**| **NdPr/TREE**  
+---|---|---|---|---|---|---|---  
+52871| Pegmatite| 0.43| 1730| 1225| 370| 32.5| 0.37  
+52820| Pegmatite| 0.35| 1060| 867| 250| 36.8| 0.36  
+52827| Granite| 0.24| 483| 432| 114.5| 54.7| 0.26  
+  
+(Source: MERN SIGEOM site, 2008)
+
+¹ The results contained in the table are historical. A TomaGold qualified person has not performed sufficient work to validate these results as defined by NI 43-101. Although the historical results may not be reliable, the Corporation nevertheless believes that they provide an indication of the property’s potential and are relevant for any future exploration program.
+
+Mr. Grondin added, “When we look at the table numbers, it is the NdPr/TREE ratios that catch our attention the most, as they are above 0.24. For reference purposes, a ratio greater than 0.20 is considered good, while a ratio greater than 0.24 is considered excellent by rare earth element producers. The Star Lake property appears to have interesting exploration potential and remains highly underexplored. We will soon begin a prospecting program, which will allow us to validate the historical results and better understand the geological potential of the property.”
+
+As part of the sampling work done in 2008, a total of 14 samples returned zirconium (Zr) values that met the maximum detection limit of 500 ppm and were not further tested to determine the true values. The Corporation will also perform additional work to properly evaluate those previous results.
+
+The technical content of this press release has been reviewed and approved by André Jean, P.Eng., the Corporation’s Director of Exploration and a qualified person under National Instrument 43-101.
+
+**About TomaGold**  
+TomaGold Corporation (TSXV: LOT) (OTCQB: TOGOF) is a Canadian mineral exploration company engaged in the acquisition, assessment, exploration and development of gold, lithium and rare earth element projects. TomaGold holds interests in five gold properties near the Chibougamau mining camp in northern Quebec: Obalski, Monster Lake East, Monster Lake West, Hazeur and Doda Lake, as well as a 24.5% interest through a joint venture with Evolution Mining Ltd. and New Gold Inc. in the Baird property, located near the Red Lake mining camp in Ontario. In addition, it owns a 100% interest in a lithium property and in the Star Lake rare earth elements property, located in the James Bay region of Quebec.
+
+**_Contact:_**  
+David Grondin   
+President and Chief Executive Officer  
+(514) 583-3490  
+[www.tomagoldcorp.com](http://www.tomagoldcorp.com "www.tomagoldcorp.com")
+
+_Neither the TSX Venture Exchange nor its regulation services provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release. Some of the statements contained in this press release are forward-looking statements within the meaning of applicable securities laws. Forward-looking statements can be identified by the use of words such as “expects”, “intends”, “is expected”, “potential”, “suggests” or variations of such words and phrases or statements that certain actions, events or results “may”, “could”, “should”, “might” or “will” be taken, occur or be achieved. Forward-looking statements are not historical facts and are subject to a number of risks and uncertainties beyond the Corporation’s control. Readers are cautioned that such statements are not guarantees of future performance and that actual results and developments are likely to differ, and may differ materially, from those expressed or implied by the forward-looking statements contained in this press release. Accordingly, readers should not place undue reliance on forward-looking statements. The Corporation undertakes no obligation to publicly update or revise any forward-looking statements, except as required by law._
+
+A photo accompanying this announcement is available at 
+
+  
+
+
+### Project Name
+
+[Star Lake Project](/?gid=3666)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02          Open: 0.02
+High: 0.02          Bid: 0.015
+Bid Size: 1377000      Beta: 1.08942
+Year High: 0.04     Market Cap: 4.80m
+PB Ratio: -5.57      Average Volume (30 Day): 153.56k
+Volume: 191.00k        Prev. Close: 0.02
+Low: 0.02           Ask: 0.02
+Ask Size: 1000      VWAP: 0.02
+Year Low: 0.015      Total Shares: 239.75m
+Shares Out: 239.75m    Float: 200.48m
+Exchange: TSXV

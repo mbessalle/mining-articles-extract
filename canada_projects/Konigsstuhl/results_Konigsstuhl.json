@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Konigsstuhl/83729.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Konigsstuhl",
+      "justification": "The authoritative metadata identifies the project as 'Konigsstuhl'. The text confirms this: '...pleased to announce the acquisition of the Königsstuhl Project...'"
+    },
+    "company_name": {
+      "value": "Mustang Energy Corp.",
+      "justification": "The acquiring company is identified in the headline and body of the text: 'Mustang Energy Acquires Additional Land Holdings...' and 'Mustang Energy Corp. (CSE: MEC, OTC:MECPF, FRA:92T) (the “Company” or “Mustang”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Nick Luksha",
+      "justification": "The CEO of the acquiring company is named in the text: '“We are pleased to add the Königsstuhl Project to our growing portfolio of uranium assets in the Athabasca Basin,” said Nick Luksha, CEO of Mustang Energy Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest through staking: 'Secured through cost-effective staking, the Königsstuhl Project adds five 100% owned mineral claims to Mustang’s expanding portfolio...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as a uranium asset: '...adds five 100% owned mineral claims to Mustang’s expanding portfolio of promising uranium assets...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no specific article URL is present in the source material to verify."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through 'cost-effective staking', not a monetary transaction, so no currency is applicable to the deal terms."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a cash purchase. The text states it was 'Secured through cost-effective staking'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not through a share issuance. The text states it was 'Secured through cost-effective staking'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The text states it was 'Secured through cost-effective staking'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition; it was conducted via staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5228,
+      "justification": "The text specifies the size of the property: '...the acquisition of the Königsstuhl Project, a 5,228 hectare property...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified in the text: '...the acquisition of the Königsstuhl Project, a 5,228 hectare property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Königsstuhl Project itself. It refers to the property as 'underexplored' and provides an 'Adjacent Property Disclaimer' stating that mineralization on nearby properties 'are not necessarily indicative of the mineralization of, or located on the Königsstuhl Project'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE: MEC",
+      "justification": "The company's primary stock exchange and ticker are provided in the text: 'Mustang Energy Corp. (CSE: MEC, OTC:MECPF, FRA:92T)'."
+    }
+  }
+}

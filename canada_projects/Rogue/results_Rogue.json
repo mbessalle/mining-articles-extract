@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Rogue/36049.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rogue",
+      "justification": "The article is titled 'Snowline Gold Purchases Mineral Property Portfolio with Historical Drill Results Of 2.1 Grams Per Tonne Gold Over 96.0 Metres on Intrusive Target Near Rogue Project’s Valley Discovery' and refers to the acquisition of claims 'within and adjacent to its Rogue Project'."
+    },
+    "company_name": {
+      "value": "Snowline Gold Corp.",
+      "justification": "The buyer is identified as 'SNOWLINE GOLD CORP. (TSX-V:SGD)(OTCQB:SNWGF)(the \"Company\" or \"Snowline\")'."
+    },
+    "ceo_buyer": {
+      "value": "Scott Berdahl",
+      "justification": "The article is signed 'ON BEHALF OF THE BOARD Scott Berdahl CEO & Director'. He is also quoted: 'said Scott Berdahl, CEO & Director of Snowline.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is a purchase of the claims, not a farm-in. The text states: 'the Company has acquired 92 mineral claims', implying a 100% interest in those claims."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The entire article discusses gold, for example: '...newly discovered, bulk tonnage style, reduced intrusion-related gold system (RIRGS)...' and '...historical drill results of 2.1 grams per tonne gold...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/758554/Snowline-Gold-Purchases-Mineral-Property-Portfolio-with-Historical-Drill-Results-Of-21-Grams-Per-Tonne-Gold-Over-960-Metres-on-Intrusive-Target-Near-Rogue-Projects-Valley-Discovery",
+      "justification": "The provided text contains this URL and the content of the article is directly related to the Rogue project acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquisition terms mention payments in '$', as in 'payment of $1,000,000 in cash'. The currency is inferred to be Canadian Dollars (CAD) because the acquiring company, Snowline Gold Corp., is listed on the TSX-V and is based in Vancouver, BC, Canada."
+    },
+    "cash_payments_raw": {
+      "value": 1500000,
+      "justification": "The value is calculated as half of the total cash consideration, which is for a portfolio covering two distinct project areas (Rogue and WEAS). The total consideration is '$1,000,000 in cash' plus 'up to two bonus payments of $1M each', for a total of $3,000,000. The Rogue project's share is $3,000,000 / 2 = $1,500,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not include any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment is explicitly stated, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The consideration involved warrants, not a direct issuance of shares. The text states the issuance of '200,000 warrants'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes 'the issuance of 200,000 warrants', but no raw monetary value is assigned to this warrant package in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The acquisition terms do not include an exploration commitment in meters. A future drill program is mentioned but it is not a commitment of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The acquisition terms do not include a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction terms, 'The Vendors will retain a 1.0% NSR on the claims'. This royalty applies to the claims acquired for the Rogue project."
+    },
+    "coverage_area_raw": {
+      "value": 1293,
+      "justification": "The value is calculated by subtracting the area of the separate WEAS property from the total acquired area. The total acquisition is 'roughly 1,920 ha' and the separate WEAS property is '30-claim (627 ha)'. Therefore, the area for the Rogue project is 1920 - 627 = 1293 ha."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'Snowline purchases 92 long-held mineral claims (roughly 1,920 ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource estimate exists for the project: 'Valley is an early-stage exploration project without a resource estimate...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGD",
+      "justification": "The company is identified as 'SNOWLINE GOLD CORP. (TSX-V:SGD)...'. The detailed quote section also lists the exchange as 'TSXV'."
+    }
+  }
+}

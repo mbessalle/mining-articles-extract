@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Spanish Mountain/74730.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Spanish Mountain",
+      "justification": "The article discusses an addition to the Spanish Mountain West property. The authoritative name provided is 'Spanish Mountain'. The text states: 'The Spanish Mountain West land addition is a mineral claim located in the central Quesnel Belt...'"
+    },
+    "company_name": {
+      "value": "West Mining Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'West Mining Corp. (\"West\" or the \"Company\") ... is pleased to announce that it has entered into an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Nader Vatanchi",
+      "justification": "The CEO of the buyer, West Mining Corp., is named in the article: 'Nader Vatanchi, West Mining's Chief Executive Officer, said...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows West Mining Corp. to acquire a full interest in the claims: 'West has the option to earn a 100% interest in two mineral claims (the \"Claims\")...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company is actively exploring for gold on the property: 'West has commenced exploration of the Junkers and Spanish Mountain properties... to identify high potential gold, copper and silver targets...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/931311/west-mining-corp-enters-option-agreement-for-mineral-claims-located-in-northern-british-columbia",
+      "justification": "The article is about West Mining Corp. entering an option agreement for claims that 'augment West's Spanish Mountain West and Junkers properties', which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, West Mining Corp., is listed on the Canadian Securities Exchange (CSE:WEST) and financial figures like the royalty buy-back are denoted with '$', implying Canadian Dollars. 'West will have the right to buy back one half (1/2) of the royalty... for $500,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option agreement is entirely in shares. No cash payment is mentioned as part of the acquisition terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a number of shares and a deemed price per share, which falls under the Priority 2 extraction rule, populating `amount_of_shares_issued` and `issued_share_price` instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a number of shares and a deemed price per share, which falls under the Priority 2 extraction rule, populating `amount_of_shares_issued` and `issued_share_price` instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "The project's share is 3,500,000 shares, calculated as half of the 'aggregate of 7,000,000 West common shares' which are consideration for two separate properties (Spanish Mountain West and Junkers)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.19,
+      "justification": "The price per share is explicitly stated in the terms of the agreement: '...issuing an aggregate of 7,000,000 West common shares (each, a \"Share\") to ESN and its affiliates as follows: 4,750,000 Shares at a deemed price of $0.19 per Share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that exploration has commenced but does not specify a required monetary commitment as part of the option agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the deal, a royalty is granted to the seller: 'On exercise of the option under the Option Agreement, West will grant to ESN a 1.0% net royalty interest on the Claims.'"
+    },
+    "coverage_area_raw": {
+      "value": 412.93,
+      "justification": "The area specific to the Spanish Mountain property is stated: 'The Spanish Mountain West land addition is a mineral claim... The new claim covers 412.93 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "'The new claim covers 412.93 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a resource estimate for the Kena Project ('561,900 oz Au indicated... and 2,773,100 oz Au inferred...'), but not for the Spanish Mountain project, which is the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WEST",
+      "justification": "The buyer's ticker and exchange are provided in the article's header: 'West Mining Corp. (\"West\" or the \"Company\") (CSE:WEST)...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sandspit/89719.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sandspit",
+      "justification": "The text states that Ranchero Gold Corp. has entered into an option agreement to earn a 100% interest in the 'Sandspit Gold Project (the “Sandspit Project”)'."
+    },
+    "company_name": {
+      "value": "Ranchero Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'VANCOUVER, British Columbia, Feb. 28, 2025 (GLOBE NEWSWIRE) -- Ranchero Gold Corp. (“Ranchero ” or the “Company ”) (TSX.V:RNCH) is pleased to announce that it has entered into an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Jesus Noriega",
+      "justification": "The CEO of the buyer, Ranchero Gold Corp., is listed at the end of the press release: 'On behalf of the Board of Directors of the Company: Jesus Noriega Interim Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows Ranchero to 'earn a 100% interest in the Sandspit Gold Project'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the 'Sandspit Gold Project' and 'Sandspit Gold Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies the currency for the transaction terms: 'All figures are in Canadian dollars.'"
+    },
+    "cash_payments_raw": {
+      "value": 112000,
+      "justification": "The total cash payment is the sum of all required payments: '$6,000 on signing, an additional $6,000 by the first anniversary date of the Agreement and a remaining $100,000 on the second anniversary date of the Agreement.' ($6,000 + $6,000 + $100,000 = $112,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the text only mention cash payments and do not include any share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are explicitly broken down into cash payments, so a combined value is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares as payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The agreement states that 'The Sandspit Project will be subject to a 3% net smelter returns royalty to be granted to Homegold following the exercise of the option...'"
+    },
+    "coverage_area_raw": {
+      "value": 398.66,
+      "justification": "The project is described as 'consisting of five mineral claims totaling 398.66 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project is described as 'consisting of five mineral claims totaling 398.66 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical exploration work but does not provide a quantified mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RNCH",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Ranchero Gold Corp. (“Ranchero ” or the “Company ”) (TSX.V:RNCH)'."
+    }
+  }
+}

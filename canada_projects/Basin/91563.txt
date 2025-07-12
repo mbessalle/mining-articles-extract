@@ -1,0 +1,96 @@
+--- Article Metadata ---
+Project Name: Basin
+Company Name: Searchlight Resources Inc.
+Exchange: TSXV
+Ticker: SCLT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.17.2025, 8:56:00 PM
+
+# Searchlight Resources Stakes in the Athabasca Basin
+
+  * **New Staking in Eastern Athabasca Basin**
+  * **2 new claims covering 3,902.8 hectares (39.0 sq km)**
+  * **Within 2 km of anomalous uranium and REE drill holes**
+  * **Close to road and electrical infrastructure**
+
+
+
+Vancouver, British Columbia--(Newsfile Corp. - March 17, 2025) - Searchlight Resources Inc. (TSXV: SCLT) (OTC Pink: SCLTF) ("Searchlight" or the "Company") is pleased to announce the staking of two mineral claims in the Eastern Athabasca Basin in Northern Saskatchewan, located approximately 45 kilometres north of the Cigar Lake Uranium Mine, and 5 kilometres west of Highway 905.
+
+During a recent Saskatchewan claim reopening, Searchlight staked claims MC00019721 and MC00019725, covering 3,902.8 hectares within the Athabasca Basin which hosts the highest-grade operating Uranium mines in the world. The claims are less than 5 km west of Highway 905, and the Northern Saskatchewan hydro electrical line to Stony Rapids runs through the claims. 
+
+The new claims are bordered on the north, west and east by Denison Mines Corp. and several historical diamond drill holes with anomalous uranium and rare earth values are located on claims to the north (Map 1). Searchlight will soon begin detailed geological evaluation of these new claims, and planning for future exploration.
+
+"These claims align with Searchlight's exploration strategy of generating new critical element projects by staking", stated Stephen Wallace, P. Geo, President and CEO of Searchlight. 
+
+These claims are now part of the Searchlight's uranium project portfolio, which includes the Duddridge Lake Uranium Deposit with a historic 43-101 inferred resource estimate of 227,880 tonnes, and a grade of 2.14 lbs/tonne U3O8 (Fission Energy Corp, 2007). Additionally, assays of 9.8% U3O8, 1.6% Cu, 0.2% V, 0.2 oz/ton Au and 7.0 oz/ton Ag have been reported in historic boulder samples (SMDI 0700a). The Duddridge project is accessible by an all-season gravel road, Highway 910, within 10 km of the deposit, and direct access by winter road and ATV trail in summer. 
+
+[](https://images.newsfilecorp.com/files/9828/244836_e01d3b0d44fadb27_002full.jpg)  
+  
+**Map 1. Searchlight Claims MC00019721 and MC00019725**
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/9828/244836_e01d3b0d44fadb27_002full.jpg>
+
+_**Director Resignation**_
+
+Bruce Fair has resigned as a director of the Company. The Company wishes Mr. Fair well in his future endeavours.
+
+_**Data Source**_
+
+The 43-101 technical report completed by Fission Energy Corp, titled "Report on the Duddridge Lake Uranium Property, Northern Saskatchewan, NTS 73O/9", was submitted by Stuart C. Fraser, P. Geol. on June 15, 2007.
+
+The Duddridge Lake Uranium deposit technical report was not commissioned or completed by Searchlight and therefore is being treated as a historical resource estimate under 43-101 disclosure. The historical resource estimate used "inferred mineral resource", which is a category of NI 43-101. As a result, Searchlight considers the historical resource estimate as reliable as well as relevant as it represents a key target for work to be done by Searchlight. Searchlight has not undertaken any independent investigation of the resource estimates, nor has it independently analyzed the results of the previous exploration work in order to verify the resources, and the Company is not treating the historical estimate as a current resource.
+
+_**Qualified Person**_
+
+Stephen Wallace, P.Geo., is Searchlight's Qualified Person within the meaning of National Instrument 43-101 and has reviewed and approved the technical information contained in this news release.
+
+**About Searchlight Resources - Where the Critical Elements Supply Chain Begins**
+
+Searchlight Resources Inc. (TSXV: SCLT) (OTC Pink: SCLTF) is a Canadian mineral exploration and development company focused on Saskatchewan, Canada, which has been ranked as the top location for mining investment in Canada by the Fraser Institute. The Company's exploration model of Project Generation coupled with Targeted Exploration, focuses on battery minerals and gold throughout the province. 
+
+On behalf of the Board of Directors, 
+
+_"Stephen Wallace"_  
+Stephen Wallace, President, CEO and Director 
+
+**SEARCHLIGHT RESOURCES INC.**
+
+For further information, visit the Company's website at [www.searchlightresources.com](https://api.newsfilecorp.com/redirect/zErnntVePb) or contact: 
+
+Searchlight Resources Inc.   
+Alf Stewart, VP Corporate Development   
+(604) 331-9326  
+[info@searchlightresources.com](mailto:info@searchlightresources.com)
+
+**Forward-Looking Statements**
+
+Information set forth in this news release contains forward-looking statements that are based on assumptions as of the date of this news release. These statements reflect management's current estimates, beliefs, intentions and expectations. They are not guarantees of future performance. The Company cautions that all forward-looking statements are inherently uncertain, and that actual performance may be affected by a number of material factors, many of which are beyond the Company's control. Such factors include, among other things: risks and uncertainties relating to the Company's limited operating history and the need to comply with environmental and governmental regulations. Accordingly, actual and future events, conditions and results may differ materially from the estimates, beliefs, intentions and expectations expressed or implied in the forward-looking information. Except as required under applicable securities legislation, the Company undertakes no obligation to publicly update or revise forward-looking information. 
+
+**NEITHER TSX VENTURE EXCHANGE NOR ITS REGULATION SERVICES PROVIDER (AS THAT TERM IS DEFINED IN THE POLICIES OF THE TSX VENTURE EXCHANGE) ACCEPTS RESPONSIBILITY FOR THE ADEQUACY OR ACCURACY OF THIS RELEASE.**
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/244836](https://api.newsfilecorp.com/redirect/4QJmmSbBEL)
+
+### Project Name
+
+[Basin Project](/?gid=9710)  
+Saskatchewan, Canada
+
+--- Detailed Quote ---
+
+Last: 0.01            Bid: 0.01
+Bid Size: 590000        Beta: -0.8722
+Year High: 0.015       Market Cap: 1.47m
+PB Ratio: 3.04        Average Volume (30 Day): 143.58k
+Volume: 150.00k          Prev. Close: 0.01
+Ask: 0.015             Ask Size: 511000
+VWAP: 0.01            Year Low: 0.005
+Total Shares: 146.55m    Shares Out: 146.55m
+Float: 142.87m           Exchange: TSXV

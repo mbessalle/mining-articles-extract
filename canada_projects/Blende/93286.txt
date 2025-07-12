@@ -1,0 +1,31 @@
+--- Article Metadata ---
+Project Name: Blende
+Company Name: Blende Silver Corp.
+Exchange: TSXV
+Ticker: BAG
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.6.2020, 3:00:00 PM
+
+# BLIND CREEK - RESIGNATION OF PRESIDENT
+
+### Project Name
+
+[Blende Project](/?gid=726)  
+Yukon, Canada
+
+--- Detailed Quote ---
+
+Last: 0.04            Bid: 0.035
+Bid Size: 251000        Beta: 1.96372
+Year High: 0.04       Market Cap: 2.84m
+PB Ratio: 1.16        Average Volume (30 Day): 84.60k
+Prev. Close: 0.04     Ask: 0.04
+Ask Size: 41000        Year Low: 0.015
+Total Shares: 70.95m    Shares Out: 70.95m
+Float: 49.67m           Exchange: TSXV

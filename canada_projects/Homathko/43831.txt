@@ -1,0 +1,56 @@
+--- Article Metadata ---
+Project Name: Homathko
+Company Name: Aurum Lake Mining Corporation
+Exchange: TSXV
+Ticker: ARL
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.8.2023, 11:55:00 PM
+
+# AURUM LAKE MINING RECEIVES CONDITIONAL APPROVAL REGARDING QUALIFYING TRANSACTION
+
+_/NOT FOR DISTRIBUTION TO UNITED STATES WIRE SERVICES OR DISSEMINATION IN THE UNITED STATES. THIS NEWS RELEASE DOES NOT CONSTITUTE AN OFFER TO SELL OR A SOLICITATION OF AN OFFER TO BUY ANY OF THE SECURITIES IN THE UNITED STATES. THE SECURITIES HAVE NOT BEEN AND WILL NOT BE REGISTERED UNDER THE UNITED STATES SECURITIES ACT OF 1933, AS AMENDED (THE "U.S. SECURITIES ACT") OR ANY STATE SECURITIES LAWS AND MAY NOT BE OFFERED OR SOLD WITHIN THE UNITED STATES OR TO U.S. PERSONS UNLESS REGISTERED UNDER THE U.S. SECURITIES ACT AND APPLICABLE STATE SECURITIES LAWS OR AN EXEMPTION FROM SUCH REGISTRATION IS AVAILABLE. THIS NEWS RELEASE DOES NOT CONSTITUTE AN OFFER OR SALE OF SECURITIES IN THE UNITED STATES./_
+
+TSXV: ARL.P
+
+TORONTO, Nov. 8, 2023 /CNW/ - **Aurum Lake Mining Corporation  **("**Aurum** " or the "**Company** ") is pleased to announce that further to its news release of December 21, 2022, it has received conditional approval from the TSX Venture Exchange (the "**Exchange** ") to complete Aurum's option (the "**Option** ") to acquire a 100% interest of certain mineral claims known as the Homathko Gold Project, located in the Province of British Columbia (the "**Homathko Property** ") pursuant to an option agreement with Transition Metals Corp. (the "**Option Agreement** "). The Option Agreement will constitute its "Qualifying Transaction" (the "**Transaction** ") in accordance with Exchange Policy 2.4 - Capital Pool Companies ("**Policy 2.4** ").
+
+In connection with the Transaction, Aurum plans to complete a non-brokered private placement (the "**Concurrent Financing** ") of 5,000,000 common shares (the "**Common Shares** ") in the capital of Aurum at a price of $0.40 per Common Share to raise aggregate proceeds of up to $2,000,000. Aurum intends to use the proceeds from the Concurrent Financing to fund the exercise of the Option, the exploration of the Homathko Property, and to satisfy the general working capital of the resulting issuer following the Transaction.
+
+In connection with the Concurrent Financing, Aurum will pay a finder's fee consisting of (i) a cash commission in the amount of 6% of the gross proceeds raised in the Concurrent Financing from persons introduced to Aurum by the finder (the "**Cash Fee** ") and (ii) compensation warrants ("**Finder's Warrants** ") equal to 6% of the aggregate Common Shares subscribed for by persons introduced to Aurum by the finder. The payment of the Cash Fee and the issuance of the Finder's Warrant will occur upon on completion of the Transaction. Each Finder's Warrant entitles the holder thereof to purchase one Common Share at an exercise price of $0.40 per Common Share for a period of twenty-four (24) months from the date of issuance of the respective Finder's Warrant. Assuming a Concurrent Financing of $2,000,000, the Company will issue up to 300,000 Finder's Warrants pursuant to the Concurrent Financing.
+
+Completion of the Transaction is subject to the satisfaction of the conditions of the Exchange including completion of the Concurrent Financing.
+
+_Completion of the Transaction is subject to a number of conditions, including, but not limited to, Exchange acceptance and, if applicable pursuant to Exchange requirements, majority of the minority shareholder approval. Where applicable, the Transaction cannot close until the required shareholder approval is obtained. There can be no assurance that the Transaction will be completed as proposed or at all._
+
+_Investors are cautioned that, except as disclosed in the management information circular or filing statement to be prepared in connection with the Transaction, any information released or received with respect to the Transaction may not be accurate or complete and should not be relied upon. Trading in the securities of a capital pool company should be considered highly speculative._
+
+_Neither  TSX Venture Exchange nor its Regulations Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release._
+
+**Forward-Looking Statements**
+
+ _This press release may contain certain "forward-looking statements." Forward-looking statements involve known and unknown risks, uncertainties, assumptions and other factors that may cause the actual results, performance or achievements of the Company to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. These forward-looking statements or information may relate to the Transaction, the Concurrent Financing, and various approvals required in connection with the Transaction and the Concurrent Financing, the reliability of third-party information and other factors or information Any forward-looking statement speaks only as of the date of this news release and, except as may be required by applicable securities laws, the Company disclaims any intent or obligation to update any forward-looking statement, whether as a result of new information, future events or results or otherwise._
+
+SOURCE Aurum Lake Mining Corporation
+
+### Project Name
+
+[Homathko Project](/?gid=4700)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.085                       Bid: 0.075
+Bid Size: 50000                   Beta: -0.4101
+Year High: 0.16                  Market Cap: 1.93m
+PB Ratio: 1.98                   EPS: -0.05
+Average Volume (30 Day): 1,151    Prev. Close: 0.085
+Ask: 0.10                        Ask Size: 68000
+Year Low: 0.07                   Total Shares: 22.68m
+Shares Out: 22.38m                 Escrow Shares: 13.00m
+Float: 16.97m                      Exchange: TSXV

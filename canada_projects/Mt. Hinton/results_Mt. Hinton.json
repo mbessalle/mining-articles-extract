@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Mt. Hinton/49944.txt",
+    "canada_projects/Mt. Hinton/64538.txt",
+    "canada_projects/Mt. Hinton/64544.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mt. Hinton",
+      "justification": "The text states: \"Trifecta Gold is optioning the advanced Mt Hinton gold-silver project...\" and \"Trifecta Gold Ltd. ... has entered into a binding agreement to acquire up to 100% of Mt. Hinton and 10 other highly prospective, intrusion-related gold projects...\""
+    },
+    "company_name": {
+      "value": "Trifecta Gold Ltd.",
+      "justification": "The buyer is identified in the text: \"Trifecta Gold Ltd. (TSXV:TG)(OTCQB:TRRFF) (\"Trifecta\" or the \"Company\") is pleased to announce that it has entered into a binding agreement to acquire up to 100% of Mt. Hinton...\""
+    },
+    "ceo_buyer": {
+      "value": "Richard Drechsler",
+      "justification": "The press releases from the buyer, Trifecta Gold Ltd., are signed: '\"Richard Drechsler\" President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for the acquisition of the full interest in two stages: \"Under a two stage earn-in agreement with Strategic Metals Ltd. ('Strategic'), Trifecta can acquire up to a 100% interest in all 11 properties.\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as a \"Mt Hinton gold-silver project\" within the \"Tombstone Gold Belt\" and is one of eleven \"intrusion-related gold projects\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/838568/trifecta-gold-resets-focus-with-tombstone-gold-belt-option-and-share-consolidation",
+      "justification": "The article, titled \"Trifecta Gold Resets Focus with Tombstone Gold Belt Option and Share Consolidation\", details the transaction for Trifecta Gold to acquire the Mt. Hinton project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Trifecta Gold Ltd., is listed on the TSX Venture Exchange (TSXV:TG), a Canadian exchange, and the exploration commitment is denoted with a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option consists of exploration expenditures and share issuances, with no direct cash payments to the seller mentioned in the option terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead, as the number of shares to be issued is specified in the agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated as more specific information is available."
+    },
+    "amount_of_shares_issued": {
+      "value": 305000,
+      "justification": "The updated terms announced on July 9, 2024 state that Trifecta can acquire the initial interest by \"issuing 305,000 shares to Strategic.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention any payments in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": 0.29,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the July 9th announcement: 'Last: 0.29'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 545455,
+      "justification": "The project's share is $545,455, calculated as 1/11th of the total $6,000,000 commitment shared across 11 properties. The text states Trifecta must incur \"aggregate exploration expenditures of $6 million\" for \"all 11 properties\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Strategic Metals, retains a total of 2% NSR in two stages. \"Following the exercise of the First Option, Strategic will retain a one percent (1%) net smelter return royalty interest in the properties.\" and \"Following the exercise of the Second Option, Strategic will retain an additional one percent (1%) net smelter return royalty interest.\""
+    },
+    "coverage_area_raw": {
+      "value": 2727,
+      "justification": "The project's share of the area is 2,727 hectares, calculated as 1/11th of the total portfolio area. The text states: \"The optioned portfolio covers approximately 30,000 hectares... across 11 properties\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The optioned portfolio covers approximately 30,000 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade surface grab and chip samples (e.g., \"2340 G/T Gold in a Rock Sample\") but does not provide a formal mineral resource estimate with tonnage and grade."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TG",
+      "justification": "The buyer is identified in the text as \"Trifecta Gold Ltd. (TSXV:TG)(OTCQB:TRRFF) ('Trifecta' or the 'Company').\""
+    }
+  }
+}

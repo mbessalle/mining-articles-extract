@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/JD/43929.txt",
+    "canada_projects/JD/46912.txt",
+    "canada_projects/JD/48005.txt",
+    "canada_projects/JD/48343.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "JD",
+      "justification": "The primary project of interest is explicitly named JD. The text confirms this: \"Sun Summit Options the JD Project in the Toodoggone Gold-Copper District of North-Central British Columbia\"."
+    },
+    "company_name": {
+      "value": "Sun Summit Minerals Corp.",
+      "justification": "The acquiring company is identified in the text: \"Sun Summit Minerals Corp. (TSXV: SMN) (OTCQB: SMREF) is pleased to announce that it has signed a Letter of Intent dated November 8, 2023 to option the JD Project...\"."
+    },
+    "ceo_buyer": {
+      "value": "Sharyn Alexander",
+      "justification": "Sharyn Alexander is identified as the President of the acquiring company: \"Sharyn Alexander, Sun Summit's President, stated: 'The acquisition of the JD Project represents an outstanding opportunity for Sun Summit and its shareholders.'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the project: \"...to acquire a 100% interest in the JD Project in the Toodoggone gold-copper district in north-central British Columbia.\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as being in a gold-copper district with multiple mineralization types, with gold being prominent: \"The JD Project is located in the Toodoggone gold-copper mineral district in British Columbia... The JD project provides a unique opportunity to explore two mineralization types, epithermal-related gold-silver and porphyry-related copper-gold.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/186821",
+      "justification": "The article is titled \"Sun Summit Options the JD Project in the Toodoggone Gold-Copper District of North-Central British Columbia\" and details the option agreement by Sun Summit Minerals Corp. for the JD Project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Sun Summit Minerals Corp., is listed on the TSX Venture Exchange (TSXV: SMN), and payments are denoted with '$', which implies Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 1175000,
+      "justification": "The option terms specify total cash payments: \"To exercise the option, Sun Summit must make payments... Payments of $1,175,000, consisting of $175,000 in installments in the first year, and $200,000 on each of the first through fifth anniversaries of signing of the formal agreement;\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves issuing shares, but a total monetary value for these shares is not provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The option terms specify the number of shares to be issued: \"Issuing 8,000,000 (post 3:1 consolidation) shares to the optionors...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of stock options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 22500000,
+      "justification": "The option terms include a significant exploration expenditure commitment: \"Incurring $22,500,000 in exploration expenditures...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the agreement, the buyer will grant a royalty to the sellers: \"Upon exercise of the option, Sun Summit will grant Net Smelter Return (NSR) royalties on the Property to the optionors as follows: a 2.0% NSR royalty on the JD claims...\""
+    },
+    "coverage_area_raw": {
+      "value": 15000,
+      "justification": "The size of the project area is stated in the text: \"The project covers over 15,000 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified: \"The project covers over 15,000 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill intercepts but does not contain a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). A news release states, 'Neither the Company nor a qualified person has verified this data and therefore investors should not rely on such data.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SMN",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: \"Sun Summit Minerals Corp. (TSXV: SMN) (OTCQB: SMREF) is pleased to announce that it has signed a Letter of Intent...\""
+    }
+  }
+}

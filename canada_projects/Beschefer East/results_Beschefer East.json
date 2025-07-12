@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Beschefer East/36615.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beschefer East",
+      "justification": "The text is titled 'Melkior Enters Definitive Agreement for the Beschefer East Project' and states 'Melkior Resources Inc. (“Melkior” or the “Company”) ... is pleased to announce that it has signed a Definitive Agreement to acquire 100% of the Beschefer East Project (“Beschefer East” or the “Project”)'."
+    },
+    "company_name": {
+      "value": "Melkior Resources Inc.",
+      "justification": "The acquiring company is identified as 'Melkior Resources Inc. (“Melkior” or the “Company”)' in the first paragraph of the press release."
+    },
+    "ceo_buyer": {
+      "value": "Jonathon Deluce",
+      "justification": "The text states: 'Jonathon Deluce, CEO of Melkior, stated, “We are excited to announce signing the Definitive Agreement with SOQUEM at the Beschefer East Project...\"'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states Melkior has signed a 'Definitive Agreement to acquire 100% of the Beschefer East Project' and 'Melkior has the right to earn a 100% interest in the Project through an option'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as having 'significant gold and polymetallic potential'. The text highlights nearby gold deposits and historical gold intercepts on the property, such as 'historical drilling has identified 55.63 g/t gold over 5.57 metres' on the adjacent project and '2.03 g/t Au over 6.1 metres' on Beschefer East itself."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Melkior Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for the transaction is Canadian Dollars (CAD). The payments are denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "Under the 'Terms of the Definitive Agreement', the text specifies that 'Melkior must make total cash payments of $50,000'."
+    },
+    "share_payments_raw": {
+      "value": 500000,
+      "justification": "Under the 'Terms of the Definitive Agreement', the text specifies that Melkior must 'issue $500,000 worth of common shares in the capital of Melkior to SOQUEM'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share payments are listed separately, so this combined field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not fixed; it is based on a total value ($500,000) and a variable price per share. Therefore, a specific number of shares is not stated."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The 'Terms of the Definitive Agreement' do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 'Terms of the Definitive Agreement' do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is variable, defined as 'the higher of 0.20 per share or the weighted average price of the common shares for the 10 trading days immediately preceding the Effective Date', not a single fixed price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "The 'Terms of the Definitive Agreement' state that Melkior must 'incur Work Expenditures of $1,500,000 in total'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The agreement is 'subject to a net smelter return royalty of up to 2.5% on certain claims made up of a historical NSR of 1.5% and 1% granted to SOQUEM'."
+    },
+    "coverage_area_raw": {
+      "value": 2906,
+      "justification": "Under the 'Project Summary' section, the text states: 'The Project comprises 55 claims covering 2,906 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Under the 'Project Summary' section, the text states: 'The Project comprises 55 claims covering 2,906 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions resource estimates for nearby properties (Fenelon Gold Deposit and B26 deposit) but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Beschefer East project itself. It only refers to historical drill intercepts."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MKR",
+      "justification": "The text identifies the company as 'Melkior Resources Inc. (“Melkior” or the “Company”) ([TSXV:MKR])'."
+    }
+  }
+}

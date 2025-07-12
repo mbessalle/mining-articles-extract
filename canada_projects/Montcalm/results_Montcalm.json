@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Montcalm/46215.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Montcalm",
+      "justification": "The article is titled 'Mink Ventures Completes Payments to Earn 80% Interest in Montcalm'."
+    },
+    "company_name": {
+      "value": "Mink Ventures Corporation",
+      "justification": "The acquiring company is identified as 'Mink Ventures Corporation (TSXV: MINK) (\"Mink\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Natasha Dixon",
+      "justification": "The contact for Mink Ventures Corporation is listed as 'Natasha Dixon, President & CEO, T: 250-882-5620 E: [ndixon@minkventures.com]'."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The text states Mink Ventures will 'earn its 80% interest in the Montcalm Ni Cu Co Project'."
+    },
+    "primary_commodity": {
+      "value": "Nickel, Copper, Cobalt",
+      "justification": "The project is referred to as the 'Montcalm Ni Cu Co Project' and the company is 'exploring for critical minerals (nickel, copper, cobalt)'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/191596",
+      "justification": "The article is about the Montcalm project, as stated in the title: 'Mink Ventures Completes Payments to Earn 80% Interest in Montcalm'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Mink Ventures Corporation, is listed on the TSX Venture Exchange (TSXV), and payments are denoted with a '$' symbol, implying Canadian Dollars. 'Mink Ventures Corporation (TSXV: MINK)... made the second and final $25,000 cash payment'."
+    },
+    "cash_payments_raw": {
+      "value": 25000,
+      "justification": "The text states that Mink 'made the second and final $25,000 cash payment required under the option agreement'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No specific dollar value is assigned to the share issuance in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a single combined value for the cash and share payments."
+    },
+    "amount_of_shares_issued": {
+      "value": 800000,
+      "justification": "The text states that Mink 'issued the second and final tranche of 800,000 shares to Voltage Metals Corp.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued (800,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 600000,
+      "justification": "The text states, 'In addition, Mink has expended the required $600,000 in exploration expenditures on the project'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 40,
+      "justification": "The text states, 'The Montcalm Project, covers 40 km2 adjacent to Glencore's former Montcalm Mine'."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the text: 'The Montcalm Project, covers 40 km2'."
+    },
+    "resource_size": {
+      "value": "3.93 million tonnes of ore grading 1.25% Ni, 0.67% Cu and 0.051% Co",
+      "justification": "The text refers to a historical resource on the adjacent property: 'Glencore's former Montcalm Mine which had historical production of 3.93 million tonnes of ore grading 1.25% Ni, 0.67% Cu and 0.051% Co (Ontario Geological Survey, Atkinson, 2010)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MINK",
+      "justification": "The buyer is identified in the text as 'Mink Ventures Corporation (TSXV: MINK)'."
+    }
+  }
+}

@@ -1,0 +1,73 @@
+--- Article Metadata ---
+Project Name: JD
+Company Name: Sun Summit Minerals Corp.
+Exchange: TSXV
+Ticker: SMN
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.29.2024, 7:00:00 PM
+
+# Sun Summit Obtains Conditional TSX Venture Exchange Approval for Option to Acquire JD Project
+
+Vancouver, British Columbia--(Newsfile Corp. - January 29, 2024) - Sun Summit Minerals Corp. (TSXV: SMN) (OTCQB: SMREF) (the "**Company** " or "**Sun Summit** ") is pleased to announce, further to the Company's news releases dated [November 9, 2023](https://api.newsfilecorp.com/redirect/EyzagHmQQj), and [January 9, 2024](https://api.newsfilecorp.com/redirect/x3yqNheWWV), that it has obtained conditional TSX Venture Exchange (the "**Exchange** ") approval for the Company's option agreement (the "**Option Agreement** ") with Victor F. Erickson, V.F. Erickson Consultants Limited and T. Cameron Scott, arm's length parties to the Company, to acquire a 100% interest in the JD Project in the Toodoggone gold-copper district in north-central British Columbia. For further details regarding the Option Agreement, see the Company's press release dated January 9, 2024. Further to the Company's press release dated January 9, 2024, the Company has determined that there will be no finder's fee payable pertaining to efforts in arranging the Company's option to acquire a 100% interest in the JD Project. The Option Agreement is subject to the final approval of the Exchange.
+
+In connection with the Option Agreement, Sun Summit intends to consolidate its outstanding common shares on the basis of one post-consolidation common share for every three pre-consolidation common shares, as described in the Company's news release dated November 9, 2023 (the "**Consolidation** "). The new CUSIP for the Company's common shares will be 86687V704 and the new ISIN will be CA86687V7043. The Company is not changing its name or stock symbol. The Company will announce the effective date of the Consolidation by way of a future news release. The Consolidation is subject to the approval of the Exchange, but is not subject to the approval by the Company's shareholders.
+
+Shareholders with physical certificates will receive a letter of transmittal from Computershare Trust Company of Canada, the Company's transfer agent, in connection with the Consolidation. All registered shareholders will be required to send their certificate(s) representing pre-Consolidation shares, along with a properly executed letter of transmittal, to the Company's transfer agent, in accordance with the instructions provided in the letter of transmittal. Shareholders who hold their shares through a broker, investment dealer, bank or trust company should contact that nominee or intermediary on the procedures for processing the Consolidation of their shares, and for determining their post-Consolidation positions.
+
+**About Sun Summit**
+
+Sun Summit Minerals (TSXV: SMN) (OTCQB: SMREF) is a mineral exploration company focused on expansion and discovery of district scale gold and copper assets in British Columbia. The Company's diverse portfolio includes the Buck Project in central B.C, and the JD Project in the Toodoggone region of north-central B.C.
+
+Sun Summit is committed to environmental and social responsibility, with a focus on accountable development and building respectful and beneficial relationships with Indigenous and local communities. 
+
+Further details are available at [www.sunsummitminerals.com](https://api.newsfilecorp.com/redirect/7WV2jUXooe).
+
+**On behalf of the board of directors**
+
+Brian Lock
+
+**For further information, contact:**
+
+Sharyn Alexander  
+President  
+[info@sunsummitminerals.com](mailto:info@sunsummitminerals.com)
+
+Matthew Benedetto  
+Simone Capital  
+[mbenedetto@simonecapital.ca](mailto:mbenedetto@simonecapital.ca)
+
+**Tel. 416-817-1226**
+
+**Forward-Looking Information**
+
+Statements contained in this news release that are not historical facts may be forward-looking statements, which involve risks, uncertainties and other factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements. In addition, the forward-looking statements require management to make assumptions and are subject to inherent risks and uncertainties. There is significant risk that the forward-looking statements will not prove to be accurate, that the management's assumptions may not be correct and that actual results may differ materially from such forward-looking statements. Accordingly, readers should not place undue reliance on the forward-looking statements. Generally forward-looking statements can be identified by the use of terminology such as "anticipate", "will", "expect", "may", "continue", "could", "estimate", "forecast", "plan", "potential" and similar expressions. Forward-looking statements contained in this press release may include, but are not limited to, obtaining regulatory approval for the Consolidation and the acquisition of the option for the JD project, and completing the Consolidation and the acquisition of the option for the JD Project under the Option Agreement. These forward-looking statements are based on a number of assumptions which may prove to be incorrect which, without limiting the generality of the following, include: risks related to regulatory approval; risks inherent in exploration activities; the impact of exploration competition; unexpected geological or hydrological conditions; changes in government regulations and policies, including trade laws and policies; failure to obtain necessary permits and approvals from government authorities; volatility and sensitivity to market prices; volatility and sensitivity to capital market fluctuations; the ability to raise funds through private or public equity financings; environmental and safety risks including increased regulatory burdens; weather and other natural phenomena; and other exploration, development, operating, financial market and regulatory risks. The forward-looking statements contained in this press release are made as of the date hereof or the dates specifically referenced in this press release, where applicable. Except as required by applicable securities laws and regulation, Sun Summit disclaims any intention or obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise, except as required by applicable securities laws. All forward-looking statements contained in this press release are expressly qualified by this cautionary statement.
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/196000](https://api.newsfilecorp.com/redirect/eLp7zT2PPn)
+
+### Project Name
+
+[JD Project](/?gid=623)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.08            $  Chg: 0.005
+Open: 0.075            High: 0.08
+Bid: 0.075             Bid Size: 67000
+Beta: 0.51149            Year High: 0.34
+Market Cap: 7.21m      PB Ratio: 1.77
+EPS: -0.07             Average Volume (30 Day): 272.81k
+Volume: 79.20k          % Chg: 6.67%
+Prev. Close: 0.075     Low: 0.075
+Ask: 0.085             Ask Size: 27000
+VWAP: 0.07873            Year Low: 0.065
+Total Shares: 90.09m    Shares Out: 189.43m
+Float: 88.60m           Exchange: TSXV

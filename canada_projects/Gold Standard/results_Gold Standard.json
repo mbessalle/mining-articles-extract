@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gold Standard/53680.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Standard",
+      "justification": "The article is titled 'Storm Exploration Completes Option Payment on Gold Standard Project'."
+    },
+    "company_name": {
+      "value": "Storm Exploration Inc.",
+      "justification": "The press release is from 'Storm Exploration Inc. (TSX-V:STRM) (the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Bruce Counts",
+      "justification": "The technical contents of this news release have been reviewed and approved by Bruce Counts, P. Geo., President and CEO of Storm Exploration Inc. and Qualified Person under National Instrument 43-101."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has now completed its payment obligations under the Option Agreement and has acquired a 100% interest in the Gold Standard Project."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The Gold Standard property is located within the Manitou-Stormy Lake greenstone belt and is prospective for gold and base metals. The property hosts three historical small-scale gold mining operations that date from 1901 to 1903."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/862378/storm-exploration-completes-option-payment-on-gold-standard-project",
+      "justification": "The article is about the Gold Standard project as stated in the title. The original press release link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is specified in '$' and the acquiring company, Storm Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 25000,
+      "justification": "The payment consisted of $25,000 cash and the issuance of 59,524 common shares at a deemed price of $0.42 per share to the property vendors."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated as a single monetary figure; instead, the number of shares and price per share are given."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 59524,
+      "justification": "The payment consisted of $25,000 cash and the issuance of 59,524 common shares at a deemed price of $0.42 per share to the property vendors."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The payment is for an option agreement, but the payment itself does not consist of options."
+    },
+    "issued_share_price": {
+      "value": 0.42,
+      "justification": "The payment consisted of $25,000 cash and the issuance of 59,524 common shares at a deemed price of $0.42 per share to the property vendors."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for a 'scout drill program' but does not specify a committed drilling meterage as part of the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration work but does not specify a monetary exploration commitment as part of the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The property vendors are entitled to receive a 2.0% Net Smelter Returns Royalty on minerals produced from the property which the Company can reduce at any time to 1.0% by paying the property vendors $750,000."
+    },
+    "coverage_area_raw": {
+      "value": 6016,
+      "justification": "The road-accessible Gold Standard Project comprises 284 mineral claims covering 6,016 ha and is located 65 km north of the community of Fort Frances."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The road-accessible Gold Standard Project comprises 284 mineral claims covering 6,016 ha and is located 65 km north of the community of of Fort Frances."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade grab samples and historical workings but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces). It states, 'These gold showings have seen little modern exploration and have never been tested with drilling,' implying no formal resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STRM",
+      "justification": "The company is identified as 'Storm Exploration Inc. (TSX-V:STRM)' in the first paragraph."
+    }
+  }
+}

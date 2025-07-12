@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Root Lake South/55278.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Root Lake South",
+      "justification": "The authoritative project name is Root Lake South. The text refers to the project as the 'Root South property': '...Xplore will expand its land position along the Root Lake lithium trend with its option to the Root South property...'"
+    },
+    "company_name": {
+      "value": "Xplore Resources Corp.",
+      "justification": "The buyer is identified in the text: 'Xplore Resources Corp. (TSXV: XPLR)(\"Xplore\" or the \"Company\") is pleased to announce it has entered into an assignment agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Dominic Verdejo",
+      "justification": "The CEO of the buyer, Xplore Resources Corp., is listed at the end of the press release: 'ON BEHALF OF THE BOARD OF DIRECTORS, Dominic Verdejo, CEO Xplore Resources Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Xplore is acquiring the option to obtain a 100% interest in the property. 'Pursuant to the Option Agreement, the Optionors granted to LONE the exclusive right and option (the \"Option\") to acquire 100% of the rights, title and interest of the Optionors in and to certain mineral claims...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is described as being in a lithium district: 'Xplore Resources is a North American lithium exploration company... The company has a prospective land package in the emerging Root Bay lithium district...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/212019",
+      "justification": "The article is titled 'Xplore Resources Expands Land Position at Surge Lithium Project' and details the option agreement for the Root South Property, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denominated in '$' and the acquiring company, Xplore Resources Corp., is listed on the TSX Venture Exchange (TSXV), which implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 267500,
+      "justification": "The total cash payment is $267,500, comprising an aggregate payment of $67,500 to the Optionors ($29,000 + $38,500) and an assignment fee of $200,000 to LONE. Text: 'pay to the Optionors an aggregate of $29,000...pay an additional $38,500 in cash to the Optionors...pay an assignment fee of $200,000 to LONE in cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit monetary value for the share payment is provided in the text; the consideration is described as a number of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 790000,
+      "justification": "The total shares to be issued is 790,000, comprising an initial 260,000 shares and an additional 530,000 shares to the Optionors. Text: 'issue to the Optionors an aggregate of 260,000 common shares of the Company...on or prior to January 11, 2025, the Company will issue an additional 530,000 Xplore Shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Root South Property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the transaction payments for the Root South Property."
+    },
+    "issued_share_price": {
+      "value": 0.015,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.015'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Root South Property."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned for the Root South Property."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction is subject to a 2% net smelter returns royalty retained by the Optionors. Text: 'subject to a net smelter returns royalty of 2% to the Optionors (payable on commencement of commercial production)'."
+    },
+    "coverage_area_raw": {
+      "value": 3570,
+      "justification": "The Root South Property is comprised of 175 claims over 3,570 ha."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The Root South Property is comprised of 175 claims over 3,570 ha."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource of '10 Mt at 1.29% Li2O', but this resource belongs to the adjacent 'Green Technology Metals Ltd.'s Root Bay Project', not the Root South Property which is the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XPLR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Xplore Resources Corp. (TSXV: XPLR)'."
+    }
+  }
+}

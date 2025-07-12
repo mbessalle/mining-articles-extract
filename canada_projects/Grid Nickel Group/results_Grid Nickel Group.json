@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Grid Nickel Group/91576.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Grid Nickel Group",
+      "justification": "The project name is confirmed by the authoritative metadata and a metadata tag in the document: 'Grid Nickel Group Project'."
+    },
+    "company_name": {
+      "value": "Grid Battery Metals Inc.",
+      "justification": "The text identifies the acquiring company: 'The Company entered into a Purchase and Sale Agreement dated August 26, 2024 (the “Agreement”), with Grid Battery Metals Inc. (“Grid”), whereby Grid has acquired a 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not provide the name of the CEO for the buyer, Grid Battery Metals Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Grid has acquired a 100% interest in 17 mineral claims comprising 27,525.24 hectares located in North Central British Columbia from the Company."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The title of the article describes the asset being sold as a copper property: 'AC/DC Battery Closes Disposition of Copper Property to Grid Battery Metals Inc.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed in dollars ($), and the seller is listed on the TSX Venture Exchange (TSXV), which is Canadian, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 48172.15,
+      "justification": "Pursuant to the terms of the Agreement Grid has... paid $48,172.15 in staking costs."
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The share payment value is $250,000, calculated from the terms: 'Grid has issued 5,000,000 shares at a deemed value of $0.05 per share to the Company'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction value was broken down into separate cash and share components, which were populated into `cash_payments_raw` and `share_payments_raw`."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null based on the financial data extraction hierarchy. As the transaction included a cash component, Priority 1 applies, populating `cash_payments_raw` and `share_payments_raw`. The number of shares (5,000,000) was used to calculate the value for `share_payments_raw`."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null based on the financial data extraction hierarchy. As the transaction included a cash component, Priority 1 applies, populating `cash_payments_raw` and `share_payments_raw`. The share price ($0.05) was used to calculate the value for `share_payments_raw`."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 27525.24,
+      "justification": "Grid has acquired a 100% interest in 17 mineral claims comprising 27,525.24 hectares located in North Central British Columbia from the Company."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Grid has acquired a 100% interest in 17 mineral claims comprising 27,525.24 hectares located in North Central British Columbia from the Company."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the acquired property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The text provides the ticker for the seller, AC/DC Battery Metals Inc. (TSXV: ACDC), but does not provide a ticker or exchange for the buyer, Grid Battery Metals Inc."
+    }
+  }
+}

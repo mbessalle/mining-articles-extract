@@ -1,0 +1,158 @@
+{
+  "article": {
+    "id": 50190,
+    "link": "https://www.newsfilecorp.com/release/200607/Pacific-Bay-Minerals-Stakes-Sphinx-Lake-REE-Property",
+    "title": "Pacific Bay Minerals Stakes Sphinx Lake REE Property",
+    "description": "<img src=\"https://api.newsfilecorp.com/newsinfo/200607/367\" id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" /><p>Vancouver, British Columbia--(Newsfile Corp. - March 6, 2024) - <b>Pacific Bay Minerals Ltd</b> (<b>TSXV: PBM</b>) (\"<b>Pacific Bay</b>\" or the \"<b>Company</b>\"), a mineral exploration company, is pleased to announce the staking of the Sphinx Mountain Rare Earth Elements Project, situated in Northern British Columbia, approximately 50km North East of Dease Lake. </p><p>Previously owned by Pacific Bay, a 2011 work program designed to follow up on anomalously high British Columbia Geology Survey (BCGS) data involving stream sediment samples identified, confirmed and expanded with resulting concentrations as high as <b>1.19% TREE*</b> and <b>0.83% TREE* </b>in stream sediment samples. Additional samples in the area returned exceptionally high values (0.48% TREE and 0.42% TREE) over 3.5km away with limited to no cover/exploration in between samples. </p><p>A future program this summer will aim to cover the area with mapping, prospecting and geophysics all to gain a comprehensive understanding of the region and define drill targets. </p><p>Reagan Glazier, CEO and President stated, \"We're excited at the opportunity to explore for these critical minerals, expanding on the noteworthy discovery with low-impact and cost-efficient processes.\"</p><p>For more Information please contact:</p><p>Reagan Glazier, CEO, President and Director<br />E-mail: <a href=\"mailto:reagan@pacificbayminerals.com\">reagan@pacificbayminerals.com</a><br />Telephone: +1 403-815-6663</p><p><u><b>About Pacific Bay Minerals Ltd.</b></u></p><p>Pacific Bay currently has a portfolio of properties in British Columbia, including the Haskins Reed, 30km East of the Cassiar townsite, Wheaton Creek, and Weaver Lake projects along with the newly added Sphinx Mountain Project. Short term focus will be spent on exploring the projects and identifying new targets within the highly prospective regions for both precious and transitional metals. </p><p>*<i>TREE is expressed as the summation of Ce + La + Pr + Nd+ Sm + Eu + Gd+ Tb</i> <i>+ Dy</i> <i>+ Ho</i> <i>+ Er + Tm</i> <i>+ Yb+ Lu + Y.</i></p><p><u><b>Qualified Person</b></u></p><p>The scientific and technical information contained in this news release has been reviewed and approved by Mr. David Bridge, P.Geo., a consultant of the Company, who is a \"Qualified Person\" as defined in NI 43-101.</p><p><u><b>Forward-Looking Statements</b></u></p><p>This press release may contain forward-looking statements within the meaning of applicable securities laws. Forward-looking statements are based on certain expectations and assumptions, including future plans and objectives of Pacific Bay Minerals Ltd. Forward-looking statements are subject to various risks and uncertainties that could cause actual results to differ materially from those anticipated in such statements. The Company undertakes no obligation to update or revise forward-looking information, whether as a result of new information, future events, or otherwise, except as required by law.</p><p style=\"text-align: center;\"><a rel=\"nofollow\" href=\"https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_001full.jpg\"><img src=\"https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_001.jpg\" style=\"border-width: 0px;\" alt=\"Cannot view this image? Visit: https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_001.jpg\" /></a><br /><br />Map figure showing claim boundary and approximate location of stream-sediment samples.<br /><br />To view an enhanced version of this graphic, please visit:<br /><a rel=\"nofollow\" href=\"https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_001full.jpg\">https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_001full.jpg</a></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/3362/200607_8c03d1a784e6c9cd_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/55eV0TZAjM\">https://www.newsfilecorp.com/release/200607</a></p>",
+    "search_terms": "Sphinx Lake,Pacific Bay Minerals Ltd.,PBM",
+    "master_gid": 6494,
+    "date": "2024-03-06T13:00:00.000Z",
+    "tags": "Canada|||Rare Earth Elements|Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 306,
+    "provider": null,
+    "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - March 6, 2024) -Pacific Bay Minerals Ltd(TSXV: PBM) (\"Pacific Bay\" or the \"Company\"), a mineral exploration company, is pleased to announce the staking of the Sphinx Mountain Rare Earth Elements Project, situated in Northern British Columbia, approximately 50km North East of Dease Lake.Previously owned by",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "Pacific Bay Minerals Ltd.",
+    "exchange": "TSXV",
+    "root_ticker": "PBM",
+    "project_name": "Sphinx Mountain",
+    "gid": 6494,
+    "location": null,
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 6494,
+    "project_name": "Sphinx Mountain",
+    "location": null
+  },
+  "articleExchange": "TSXV",
+  "articleCompanyId": 306,
+  "articleTicker": "PBM",
+  "articleCompanyName": "Pacific Bay Minerals Ltd.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 306,
+      "gid": 454,
+      "project_name": "Weaver Lake",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 306,
+      "gid": 455,
+      "project_name": "Wheaton Creek",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 306,
+      "gid": 6494,
+      "project_name": "Sphinx Mountain",
+      "location": null
+    },
+    {
+      "company_id": 306,
+      "gid": 66,
+      "project_name": "Atlin Goldfields",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 306,
+      "gid": 452,
+      "project_name": "Haskins Reed",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 306,
+      "gid": 10272,
+      "project_name": "Pereira-Velho ",
+      "location": "Alagoas, Brazil"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 110109,
+      "company_id": 306,
+      "title": "Pacific Bay Minerals Ltd. Announces $2 Million Private Placement to Advance Pereira-Velho Gold Project in Brazil",
+      "link": null,
+      "date": "2025-07-02T12:30:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106253,
+      "company_id": 306,
+      "title": "Pacific Bay Minerals Ltd Files Technical Report and Signs Extension on Letter of Intent to Acquire Pereira-Velho Gold Property in Alagoas State, Brazil",
+      "link": null,
+      "date": "2025-05-29T12:30:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -191296,
+      "company_id": 306,
+      "title": "Canadian Investment Regulatory Organization Trade Resumption - PBM",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250417C5318",
+      "date": "2025-04-17T20:28:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 100045,
+      "company_id": 306,
+      "title": "Pacific Bay Brazil Gold Property Update, Trading Resumption",
+      "link": null,
+      "date": "2025-04-16T16:05:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -168618,
+      "company_id": 306,
+      "title": "Pacific Bay Announces New CFO",
+      "link": "https://www.newsfilecorp.com/release/240325/Pacific-Bay-Announces-New-CFO",
+      "date": "2025-02-10T20:58:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -163501,
+      "company_id": 306,
+      "title": "Pacific Bay Minerals Ltd Signs Letter of Intent to Acquire 14,596 Hectare Gold Property in Alagoas State, Brazil",
+      "link": "https://www.newsfilecorp.com/release/236277/Pacific-Bay-Minerals-Ltd-Signs-Letter-of-Intent-to-Acquire-14596-Hectare-Gold-Property-in-Alagoas-State-Brazil",
+      "date": "2025-01-07T14:13:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -163350,
+      "company_id": 306,
+      "title": "Canadian Investment Regulatory Organization Trading Halt - PBM",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250106C2949",
+      "date": "2025-01-06T14:14:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 79582,
+      "company_id": 306,
+      "title": "Pacific Bay Completes Sphinx Mountain Rare Earth Field Program, Assays Pending",
+      "link": "https://www.newsfilecorp.com/release/230804/Pacific-Bay-Completes-Sphinx-Mountain-Rare-Earth-Field-Program-Assays-Pending",
+      "date": "2024-11-21T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 68475,
+      "company_id": 306,
+      "title": "Pacific Bay Appoints Elton Pereira as VP Exploration",
+      "link": "https://www.newsfilecorp.com/release/220011/Pacific-Bay-Appoints-Elton-Pereira-as-VP-Exploration",
+      "date": "2024-08-15T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 56027,
+      "company_id": 306,
+      "title": "Pacific Bay Private Placement Update",
+      "link": "https://www.newsfilecorp.com/release/213553/Pacific-Bay-Private-Placement-Update",
+      "date": "2024-06-19T12:30:00.000Z",
+      "hidden": false
+    }
+  ]
+}

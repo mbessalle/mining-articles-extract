@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Kegashka/35700.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kegashka",
+      "justification": "The authoritative metadata and the article title confirm the project name: 'Fjordland Acquires Kegashka Lithium Project on the North Shore of Quebec'."
+    },
+    "company_name": {
+      "value": "Fjordland Exploration Inc.",
+      "justification": "The buyer is identified in the first sentence: 'Fjordland Exploration Inc. (TSXV: FEX) (the \"Company\") is pleased to announce that it has acquired by staking the 233 square kilometer Kegashka Lithium Project...'"
+    },
+    "ceo_buyer": {
+      "value": "James Tuer",
+      "justification": "The CEO of the buyer is identified at the end of the press release: 'ON BEHALF OF THE BOARD OF DIRECTORS \"James Tuer\" James Tuer, CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The project was acquired by staking, which implies 100% ownership as no other partners are mentioned in the acquisition. The text states: 'Fjordland Exploration Inc. ... has acquired by staking the 233 square kilometer Kegashka Lithium Project...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named for its commodity: 'Fjordland Acquires Kegashka Lithium Project on the North Shore of Quebec'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/167420",
+      "justification": "The article is entirely about the Kegashka project acquisition by Fjordland Exploration Inc. The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made by staking, not a monetary transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not for cash consideration. The text states: '...acquired by staking the 233 square kilometer Kegashka Lithium Project...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not for share consideration. The text states: '...acquired by staking the 233 square kilometer Kegashka Lithium Project...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not for a combined cash and share consideration. The text states: '...acquired by staking the 233 square kilometer Kegashka Lithium Project...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, as the project was acquired by staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future work but does not specify a monetary exploration commitment: 'Our initial reconnaissance for the project will start the third week of June.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 233,
+      "justification": "The size of the project is stated in the first paragraph: '...acquired by staking the 233 square kilometer Kegashka Lithium Project (\"KLP\")...'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometer",
+      "justification": "The unit for the coverage area is specified in the first paragraph: '...acquired by staking the 233 square kilometer Kegashka Lithium Project (\"KLP\")...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate. It refers to geological potential based on historical maps and geochemical data."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FEX",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the announcement: 'Fjordland Exploration Inc. (TSXV: FEX)...'"
+    }
+  }
+}

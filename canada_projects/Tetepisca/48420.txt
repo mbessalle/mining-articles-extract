@@ -1,0 +1,61 @@
+--- Article Metadata ---
+Project Name: Tetepisca
+Company Name: Volt Carbon Technologies Inc.
+Exchange: TSXV
+Ticker: VCT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.6.2024, 4:20:00 AM
+
+# Volt Carbon Technologies Announces Correction to its News Release Dated February 5, 2024 (Before Market Open)
+
+Calgary, Alberta--(Newsfile Corp. - February 5, 2024) - Volt Carbon Technologies Inc. (TSXV: VCT) (OTCQB: TORVF) ("Volt Carbon" or the "Company") issues this updated release to rectify a typographical error regarding the "issuance of 6,800,000 shares of EPR to Volt." The correction now indicates the "issuance of 6,600,000 shares of EPR to Volt." All other details in the press release issued before the market opened on February 5, 2024, remain accurate.
+
+[](https://images.newsfilecorp.com/files/9904/196906_a4a3a052d4fff9dc_logo.jpg)
+
+**About Volt Carbon Technologies**  
+Volt Carbon is a publicly traded carbon science company, with specific interests in energy storage and green energy creation, with holdings in mining claims in the provinces of Ontario, Quebec and British Columbia in Canada. For the latest information on Volt Carbon's properties and news please refer to the website [www.voltcarbontech.com](https://api.newsfilecorp.com/redirect/EyzBMimkQR).
+
+On behalf of the Board of Directors,
+
+**Volt Carbon Technologies Inc.**  
+V-Bond Lee, P. Eng.  
+CEO, President, Chairman of the Board and Directors
+
+**Information Contact** :  
+Email: [info@voltcarbontech.com](mailto:info@voltcarbontech.com)  
+Tel: (647-546-7049)
+
+_FORWARD LOOKING STATEMENTS: This press release contains forward-looking statements, within the meaning of applicable securities legislation, concerning Volt Carbon's business and affairs. In certain cases, forward-looking statements can be identified by the use of words such as "plans", "expects" or "does not expect", "intends" "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates" or variations of such words and phrases or state that certain actions, events or results "may", "could", "would", "might" or "will be taken", "occur" or "be achieved"._
+
+_Statements of past performance should not be construed as an indication of future performance. Forward-looking statements involve significant risks and uncertainties, should not be read as guarantees of future performance or results, and will not necessarily be accurate indications of whether or not such results will be achieved. A number of factors, including those discussed above, could cause actual results to differ materially from the results discussed in the forward-looking statements. Any such forward-looking statements are expressly qualified in their entirety by this cautionary statement._
+
+_All of the forward-looking statements made in this press release are qualified by these cautionary statements. Readers are cautioned not to place undue reliance on such forward-looking statements. Forward-looking information is provided as of the date of this press release, and Volt Carbon assumes no obligation to update or revise them to reflect new events or circumstances, except as may be required under applicable securities legislation._
+
+**Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/196906](https://api.newsfilecorp.com/redirect/x3yrzfeOWL)
+
+### Project Name
+
+[Tetepisca Project](/?gid=4929)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02                       Open: 0.02
+High: 0.02                       Bid: 0.015
+Bid Size: 1755000                   Beta: 1.36785
+Year High: 0.045                  Market Cap: 4.77m
+PB Ratio: 1.77                   EPS: -0.01
+Average Volume (30 Day): 134.68k    Volume: 66.00k
+Prev. Close: 0.02                Low: 0.02
+Ask: 0.02                        Ask Size: 115000
+VWAP: 0.02                       Year Low: 0.01
+Total Shares: 238.57m               Shares Out: 244.07m
+Float: 216.74m                      Exchange: TSXV

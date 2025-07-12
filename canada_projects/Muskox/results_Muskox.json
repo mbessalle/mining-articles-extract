@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Muskox/29828.txt",
+    "canada_projects/Muskox/30115.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Muskox Lithium Property",
+      "justification": "The article is titled \"Gama Announces Acquisition of Spodumene-Bearing Muskox Pegmatite Lithium Project in Northwest Territories\" and refers to the asset as the \"Muskox Lithium Property\"."
+    },
+    "company_name": {
+      "value": "Gama Explorations Inc.",
+      "justification": "The buyer is identified as Gama Explorations Inc. in the article. This contradicts the authoritative metadata which lists Blackbird Critical Metals Corp. The article text is prioritized as it provides a clear and direct statement about the transaction parties: 'Gama Explorations Inc. (CSE:GAMA)... is pleased to announce that it has entered into a binding letter of intent... for an option to acquire a 100% interest in the Muskox Lithium Property'."
+    },
+    "ceo_buyer": {
+      "value": "Mick Carew",
+      "justification": "ON BEHALF OF THE BOARD, Dr. Mick Carew, PhD | CEO and Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Gama Explorations Inc. ... is pleased to announce that it has entered into a binding letter of intent ... for an option to acquire a 100% interest in the Muskox Lithium Property (the \"Property\")"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as the \"Muskox Pegmatite Lithium Project\" and the \"Muskox Lithium Property\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/735326/Gama-Announces-Acquisition-of-Spodumene-Bearing-Muskox-Pegmatite-Lithium-Project-in-Northwest-Territories",
+      "justification": "The article at this URL is titled \"Gama Announces Acquisition of Spodumene-Bearing Muskox Pegmatite Lithium Project in Northwest Territories\" and directly concerns the acquisition of the Muskox project by Gama Explorations Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$' and the acquiring company, Gama Explorations Inc., is listed on the Canadian Securities Exchange (CSE: GAMA) and the project is located in Canada, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 400000,
+      "justification": "The total cash payment is the sum of two tranches: \"$150,000 cash upon signing; and $250,000 cash six months from the signing date.\""
+    },
+    "share_payments_raw": {
+      "value": 1000000,
+      "justification": "In addition, Gama will be required to pay $1,000,000 in cash or common shares of Gama..."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate cash and potential share payment values were identified, which falls under the Priority 1 extraction rule."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because the financial terms of the acquisition fall under the Priority 1 extraction rule (explicit cash and share values), which requires other financial fields to be null. While the text mentions 'Gama will issue 200,000 common shares as a finder's fee', this information is excluded from the output to adhere to the mutually exclusive financial data hierarchy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The private placement includes warrants, but this is for general financing and exploration funding, not a direct payment to the seller for the property. The text states: \"The Company intends to use the proceeds of the Offering to commence detailed geological mapping and prospecting work at the Property... and for general working capital.\""
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an option, but no separate payment for the option itself is specified; the consideration is broken down into cash and potential shares."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No specific price is assigned to any share issuance as part of the acquisition terms. The optional share payment price is variable based on a future 10-day VWAP."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "Further, Gama will be required to incur $1,500,000 in exploration expenditures on the Property on or prior to the fourth anniversary of the signing date..."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "This represents the NSR retained by the seller (optionor): \"Finally, Gama will grant the optionor a 2.5% net smelter return, subject to a 1.5% buy back at a price of $2,000,000.\""
+    },
+    "coverage_area_raw": {
+      "value": 50,
+      "justification": "The project covers a 50 km2 area within the centre of the Yellowknife Pegmatite Province (YPP)..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The project covers a 50 km2 area within the centre of the Yellowknife Pegmatite Province (YPP)..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions channel sample grades (e.g., \"1.34% Li2O over 5 m\") but does not provide a mineral resource estimate in units of mass or volume (e.g., tonnes, ounces). It also states the project has \"never been drilled\", suggesting a formal resource is not yet defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GAMA",
+      "justification": "The buyer is Gama Explorations Inc. and its ticker is explicitly stated as '(CSE:GAMA)'. This contradicts the authoritative metadata ticker (BBRD), which belongs to Blackbird Critical Metals Corp., a company not party to this specific transaction. The ticker from the article text is used: 'Gama Explorations Inc. (CSE:GAMA)(FSE:N79)'."
+    }
+  }
+}

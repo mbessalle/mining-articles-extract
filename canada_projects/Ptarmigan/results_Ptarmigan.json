@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Ptarmigan/38763.txt",
+    "canada_projects/Ptarmigan/77752.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ptarmigan",
+      "justification": "The first document refers to NevGold's 'high-grade Ptarmigan silver-copper-lead-zinc project in southeastern BC'. The second document refers to a different project with the same name owned by Silicon Metals Corp., which is ignored as per the authoritative company metadata."
+    },
+    "company_name": {
+      "value": "NevGold Corp.",
+      "justification": "The relevant announcement is from 'NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50)'."
+    },
+    "ceo_buyer": {
+      "value": "Brandon Bonifacio",
+      "justification": "NevGold CEO, Brandon Bonifacio, comments: 'Completing the formation of our BC Sub Co and the closing of the Option Agreement with Eagle Plains is the first of many positive steps.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is an internal transfer where NevGold, which already owns the project, transfers it to a newly formed, wholly-owned subsidiary. No new interest is being acquired from an external party. The text states: 'NevGold transferred its Ptarmigan property to SubCo in consideration for 25,000,000 SubCo common shares, representing 100% of the outstanding share capital...'"
+    },
+    "primary_commodity": {
+      "value": "silver",
+      "justification": "The text describes the project as a 'high-grade Ptarmigan silver-copper-lead-zinc project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text contains two articles. The first is about NevGold Corp.'s Ptarmigan project. The second article is about a different project, the 'Ptarmigan Silica Project', owned by a different company, 'SILICON METALS CORP.'. As part of the provided text is not about the correct project, a single verified link cannot be confirmed."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A Canadian dollar figure is mentioned in the context of the overall transaction: 'a buy-down option for SubCo of a 1% NSR royalty for C$1,000,000'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were made for the Ptarmigan project itself. The transaction was an internal transfer to a subsidiary."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share issuances mentioned are either for the internal transfer of the Ptarmigan asset to a subsidiary ('in consideration for 25,000,000 SubCo common shares') or are payments to Eagle Plains Resources for the 'Option Projects', not for Ptarmigan."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment for the Ptarmigan project is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 25,000,000 SubCo shares were part of an internal transfer from NevGold to its subsidiary, not an acquisition payment to an external party. The other share issuances (5,000,000 and 5,000,000) were consideration for the 'Option Projects' acquired from Eagle Plains Resources, not for the Ptarmigan project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned for the Ptarmigan project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issue price for the shares is mentioned in the transaction details."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration expenditures mentioned ($500,000 by Dec 2023 and $500,000 by Dec 2024) are explicitly for a different set of projects. The text states these are 'minimum expenditures on the Option Projects'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The NSR royalty mentioned is explicitly related to other projects, not Ptarmigan. The text states: 'Upon the exercise of the Option, SubCo has agreed to grant EPL a 2% NSR royalty on certain Option Projects'."
+    },
+    "coverage_area_raw": {
+      "value": 10048,
+      "justification": "A table in the first document lists the area for the Ptarmigan project: 'Ptarmigan | SE BC | Ag, Au, Zn, Pb, Cu | CRD, Porphyry Cu | 10,048'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The header for the area column in the project table is 'Area (Ha)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Ptarmigan project in the relevant NevGold Corp. article."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NAU",
+      "justification": "The buyer, NevGold Corp., is identified with the ticker and exchange: 'NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU)'."
+    }
+  }
+}

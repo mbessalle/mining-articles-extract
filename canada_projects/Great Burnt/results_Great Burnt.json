@@ -1,0 +1,96 @@
+{
+  "source_files": [
+    "canada_projects/Great Burnt/39556.txt",
+    "canada_projects/Great Burnt/40123.txt",
+    "canada_projects/Great Burnt/43243.txt",
+    "canada_projects/Great Burnt/43385.txt",
+    "canada_projects/Great Burnt/53138.txt",
+    "canada_projects/Great Burnt/68939.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Great Burnt",
+      "justification": "The primary project is consistently named Great Burnt across multiple documents. For example: 'Benton Options Great Burnt Copper-Gold Deposits from Spruce Ridge Resources in Newfoundland' and 'Benton Receives Conditional Regulatory Approval for Great Burnt Copper-Gold Option...'"
+    },
+    "company_name": {
+      "value": "Benton Resources Inc.",
+      "justification": "The acquiring company is identified in the headline and body of the text: 'Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\") is pleased to announce that on August 15, 2023, it entered into a binding letter of intent (LOI) with Spruce Ridge Resources Ltd.(TSXV: SHL)(\"Spruce\"), whereby Benton can earn an undivided 70% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Stephen Stares",
+      "justification": "The CEO of the buyer, Benton Resources Inc., is identified in the text: 'On behalf of the Board of Directors of Benton Resources Inc., \"Stephen Stares\" Stephen Stares, President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement allows Benton to acquire a 70% interest in the project: 'Under the terms of the Option Agreement, Benton can earn an undivided 70% interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is referred to as the 'Great Burnt Copper-Gold Project' and the primary resource is defined in terms of copper: 'The Great Burnt Main Zone has an NI 43-101 compliant resource... of 667,000 Tonnes (47.2 Mlb) Cu at 3.21% (indicated) and 482,000 Tonnes (25.0 Mlb) Cu at 2.35% (inferred)'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/177565",
+      "justification": "The article at this link directly discusses the option agreement between Benton Resources and Spruce Ridge for the Great Burnt project, which is the subject of this extraction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Benton Resources Inc., is listed on the TSX Venture Exchange (TSXV: BEX) and the cash payment is denoted with a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The option agreement includes a cash payment component: 'Making a $40,000 cash payment to Spruce upon receipt of Exchange approval'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares and a share price is available, so per the extraction hierarchy (Priority 2), this field is null and `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 15000000,
+      "justification": "The agreement specifies the number of shares to be issued to the seller: 'Issuing to Spruce 15 million common shares in the capital of Benton (\"Benton Shares\")...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of the transaction terms in any of the provided documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being issued as payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.065,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.065'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2500000,
+      "justification": "The option agreement includes a significant exploration expenditure commitment: 'Completing $2.5 million in exploration expenditures on the Property within 36 months of the date of the LOI...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text discloses pre-existing NSRs on the property held by third parties like Glencore and Pavey Ark, but no NSR is being acquired or retained as part of the consideration in the transaction between Benton and Spruce Ridge. The disclosure is a condition of the deal, not a term of it: 'The Company has received conditional approval by the TSX Venture Exchange (the \"Exchange\") for the Option, pending this disclosure of the Net Smelter Return (\"NSR\") from previous operators/owners of the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The documents do not specify a total area in hectares or km2 for the main property package being optioned from Spruce Ridge Resources. While subsequent, separate acquisitions mention claim units, the primary transaction lacks this detail."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not specified, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": "667,000 Tonnes (47.2 Mlb) Cu at 3.21% (indicated) and 482,000 Tonnes (25.0 Mlb) Cu at 2.35% (inferred)",
+      "justification": "A resource estimate is provided for the project: 'The Great Burnt Main Zone has an NI 43-101 compliant resource prepared in 2022 for Spruce by P&E Mining Consultants Inc. of 667,000 Tonnes (47.2 Mlb) Cu at 3.21% (indicated) and 482,000 Tonnes (25.0 Mlb) Cu at 2.35% (inferred) contained within mining lease 211(10210M).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BEX",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph of the main announcement: 'Benton Resources Inc. (TSXV: BEX) (\"Benton\" or the \"Company\")...'"
+    }
+  }
+}

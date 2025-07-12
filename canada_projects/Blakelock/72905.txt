@@ -1,0 +1,59 @@
+--- Article Metadata ---
+Project Name: Blakelock
+Company Name: Primary Hydrogen Corp.
+Exchange: TSXV
+Ticker: HDRO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+9.12.2024, 8:00:00 PM
+
+# Millbank Announces Acquisition of Ontario Mining Claims
+
+Vancouver, British Columbia--(Newsfile Corp. - September 12, 2024) - Millbank Mining Corp. (TSXV: MILL) (the "**Company** " or "**Millbank** ") announces the acquisition of the Blakelock hydrogen project (the "**Blakelock Project** ") in northern Ontario (the "**Proposed Acquisition** "). The Blakelock Project is comprised of 109 mineral claims covering an area of 2,207 hectares.
+
+"We believe that hydrogen holds significant potential to disrupt the energy market and drive the future of clean energy. Although the industry is still in its early stages, the prospect of low-cost, natural hydrogen replacing conventional fuels could lead to a substantial reduction in carbon emissions," stated Benjamin Asuncion, CEO of Millbank Mining. 
+
+**Transaction Terms**
+
+Under the terms of the Mining Claims Purchase Agreement (the "**Acquisition Agreement** "), the Company is acquiring a 100% interest in the Blakelock Project for consideration of C$46,000 and 200,000 common shares. The Vendors have been granted a 1.5% net smelter returns royalty (NSR) of which 0.5% can be repurchased by the Company for C$500,000. The Proposed Transaction remains subject to customary conditions of closing, including the approval of the TSX Venture Exchange. The common shares issued under the Acquisition Agreement will be subject to a four-month statutory hold period in accordance with applicable securities laws. 
+
+**About Millbank Mining Corp.:** Millbank Mining Corp. is a mineral exploration company currently focused on its wholly owned and royalty free Arthur Lake property in British Columbia. 
+
+For further information, please contact:
+
+Ben Asuncion  
+Chief Executive Officer  
+Millbank Mining Corp.  
+Tel: 604-377-1597  
+ _Email:_[ben@piholdings.ca](mailto:ben@piholdings.ca)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+_This news release includes certain statements and information that may constitute "forward-looking information" within the meaning of applicable Canadian securities laws. Generally, forward-looking statements and information can be identified by the use of forward-looking terminology such as "intends" or "anticipates", or variations of such words and phrases or statements that certain actions, events or results "may", "could", "should", "would" or "occur". All statements in this news release, other than statements of historical facts, including statements regarding future estimates, plans, objectives, timing, assumptions or expectations of future performance are forward-looking statements and contain forward-looking information, including, but not limited to, the completion of the Proposed Transaction and the ability of hydrogen to replace conventional fuel sources and its use could reduce carbon emissions. Forward-looking statements are based on certain material assumptions and analysis made by the Company and the opinions and estimates of management as of the date of this news release, including, but not limited to the assumption that all conditions to completion of the Proposed Transaction will be satisfied, including TSX Venture Exchange approval, and that hydrogen has the ability to become a future, low cost viable energy source. These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking statements or forward-looking information, including, but not limited to: the risk that the TSX Venture Exchange will not approve the Proposed Transaction, risks associated with exploration of Blakelock Project including, without limitation, risks associated with the evolving legal landscape on the exploration and extraction of hydrogen in the Province of Ontario, including the risk that the Province of Ontario may determine that the exploration and exploitation of hydrogen is not properly characterized as the exploration of and exploitation of a mineral, as well the inherent risks associated with the mining industry and the results of exploration activities and development of mineral properties, stock market volatility and capital market fluctuations, general market and industry conditions, as well as those risk factors discussed in the Company's most recently filed management's discussion & analysis._
+
+_Although management of the Company has attempted to identify important factors that could cause actual results to differ materially from those contained in forward-looking statements or forward-looking information, there may be other factors that cause results not to be as anticipated, estimated or intended. There can be no assurance that such statements will prove to be accurate, as actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements and forward-looking information. Readers are cautioned that reliance on such information may not be appropriate for other purposes. The Company does not undertake to update any forward-looking statement or forward-looking information contained herein, except in accordance with applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/223069](https://api.newsfilecorp.com/redirect/PLVWmFL3DW)
+
+### Project Name
+
+[Blakelock Project](/?gid=8680)
+
+--- Detailed Quote ---
+
+Last: 0.42             $  Chg: 0.005
+Open: 0.415             High: 0.43
+Beta: 1.10478             Year High: 0.66
+Market Cap: 16.44m       PB Ratio: 4.80
+EPS: -0.08              Average Volume (30 Day): 205.66k
+Volume: 469.41k           % Chg: 1.20%
+Prev. Close: 0.415      Low: 0.415
+VWAP: 0.41754             Year Low: 0.06
+Total Shares: 39.14m     Shares Out: 42.45m
+Escrow Shares: 241.95k    Float: 29.83m
+Exchange: TSXV

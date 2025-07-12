@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Warren Northeast/52479.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Warren Northeast",
+      "justification": "Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") today announced that it has acquired a 100% interest in six (6) mining claims located adjacent to its Warren North claim boundary (see Figures 1 and 2) from STLLR Gold Inc. (TSX: STLR) referred to as the \"Warren Northeast\" or \"WNE\" claims."
+    },
+    "company_name": {
+      "value": "Mink Ventures Corporation",
+      "justification": "Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") today announced that it has acquired a 100% interest in six (6) mining claims located adjacent to its Warren North claim boundary..."
+    },
+    "ceo_buyer": {
+      "value": "Natasha Dixon",
+      "justification": "For further information about Mink Ventures Corporation please contact: Natasha Dixon, President & CEO, T: 250-882-5620 E: [ndixon@minkventures.com]"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "...acquired a 100% interest in six (6) mining claims..."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "Mink Ventures Acquires Copper Project Adjacent to Warren North Claims"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/206370",
+      "justification": "The article is titled 'Mink Ventures Acquires Copper Project Adjacent to Warren North Claims' and describes the acquisition of the 'Warren Northeast' claims, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "...with Mink retaining the right to a buy-back of 1% NSR for one million dollars (CAD$1,000,000)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was a 2% NSR, not cash. The text states: 'Total consideration made for the six claims is a 2% net smelter return royalty (NSR) on those six claims...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was a 2% NSR, not shares. The text states: 'Total consideration made for the six claims is a 2% net smelter return royalty (NSR) on those six claims...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was a 2% NSR, not a combined cash and share payment. The text states: 'Total consideration made for the six claims is a 2% net smelter return royalty (NSR) on those six claims...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration. The text states: 'Total consideration made for the six claims is a 2% net smelter return royalty (NSR) on those six claims...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The consideration involved granting a 2% NSR to the seller. 'Total consideration made for the six claims is a 2% net smelter return royalty (NSR) on those six claims, granted in favour of STLLR Gold Inc.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides the total area for the combined Warren property (1,130 hectares) but does not specify the area of the six acquired Warren Northeast claims."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The area for the acquired claims was not specified."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical drill intercepts (e.g., '0.174% Cu over 13 m'), but does not provide a formal mineral resource estimate with mass or volume units like tonnes or ounces, as required by the extraction rules."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MINK",
+      "justification": "Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") today announced that it has acquired a 100% interest..."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Longworth/78195.txt",
+    "canada_projects/Longworth/78901.txt",
+    "canada_projects/Longworth/83797.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Longworth",
+      "justification": "The primary project of interest is identified as the 'Longworth Silica Project' in the documents."
+    },
+    "company_name": {
+      "value": "Silicon Metals Corp.",
+      "justification": "The acquiring company is identified as 'SILICON METALS CORP. (CSE: SI) (\"Silicon Metals\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Morgan Good",
+      "justification": "The press releases are signed off by 'Morgan Good Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The final announcement states the company 'has obtained an undivided 100% right, title, and interest in the Longworth Silica Project'."
+    },
+    "primary_commodity": {
+      "value": "Silica",
+      "justification": "The project is consistently referred to as the 'Longworth Silica Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236925",
+      "justification": "The article titled 'Silicon Metals Corp. Announces 100% Acquisition of the Longworth Silica Project' directly pertains to the transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Silicon Metals Corp., is listed on the Canadian Securities Exchange (CSE: SI) and cash payments are denoted with a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 35000,
+      "justification": "The final deal terms state: 'to exercise the Option and acquire the Property, the Company (i) paid to the Optionor $35,000 in pre-paid exploration expenses'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, the transaction is defined by the number of shares and a deemed price per share. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are detailed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 3300000,
+      "justification": "The final deal terms state the company 'issued an aggregate of 3.3 million common shares to the Optionor'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being issued as a form of payment; the transaction itself was the exercise of an option agreement."
+    },
+    "issued_share_price": {
+      "value": 0.075,
+      "justification": "A previous press release detailing the share issuance for the Longworth option states the company 'has issued 3,300,000 Shares to the Optionor... at a deemed price of $0.075 per Share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a specific exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions '$35,000 in pre-paid exploration expenses', but this is listed as part of the acquisition payment to the Optionor, not as a future exploration spending commitment on the property."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal, Silicon Metals 'granted the Optionor a 2.0% net smelter returns royalty (the \"NSR Royalty\") with respect to the Property.' This NSR was retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 3863.06,
+      "justification": "The text describes 'The 3,863.06 Ha Longworth Silica property'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The text describes 'The 3,863.06 Ha Longworth Silica property'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states: 'A qualified person has not done sufficient work to classify the historical estimate of Silver Standard as current mineral resources or mineral reserves, and the Company is not treating the historical estimate as current mineral resources or mineral reserves.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SI",
+      "justification": "The buyer is identified in the news release header as 'SILICON METALS CORP. (CSE: SI)'."
+    }
+  }
+}

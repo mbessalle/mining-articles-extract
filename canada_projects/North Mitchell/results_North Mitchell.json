@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/North Mitchell/92702.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "North Mitchell",
+      "justification": "Decade Resources Ltd (TSXV: DEC) (\"Decade\") reports that it entered into an option agreement to acquire the North Mitchell Property located 70 km north of Stewart BC."
+    },
+    "company_name": {
+      "value": "Decade Resources Ltd.",
+      "justification": "Decade Resources Ltd (TSXV: DEC) (\"Decade\") reports that it entered into an option agreement to acquire the North Mitchell Property..."
+    },
+    "ceo_buyer": {
+      "value": "Ed Kruchkowski",
+      "justification": "ON BEHALF OF THE BOARD OF DECADE RESOURCES LTD. \"Ed Kruchkowski\" Ed Kruchkowski, President"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Decade has the right to earn a 70% undivided interest in the property by making the following payments to the Optionor..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The North Mitchell Property is situated amongst several of the world's most significant Cu-Au deposits... The North Mitchell Property contains the rocks and geology necessary to host porphyry copper-gold and epithermal gold mineralization."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/246297",
+      "justification": "The article is titled 'Decade Aqcuires Property in Golden Triangle...' and the body states 'Decade Resources Ltd (TSXV: DEC) ('Decade') reports that it entered into an option agreement to acquire the North Mitchell Property...'. This matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Half of the Optionor's interest in the New NSR (being a 0.5% net smelter returns royalty) may be purchased by Decade upon payment of $3,000,000... The buyer, Decade Resources Ltd., is listed on the TSXV, a Canadian exchange, implying the currency is CAD."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration consists entirely of share payments, as detailed in the option agreement table. No cash payments are mentioned as part of the acquisition terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as an issuance of a specific number of shares at various anniversaries. The total value is not explicitly stated, but can be calculated from the number of shares and the share price, so `amount_of_shares_issued` and `issued_share_price` will be populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into share issuances, allowing for a more detailed calculation under Priority 2 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 14688565,
+      "justification": "The option agreement requires five separate share issuances of 2,937,713 shares each: \"Upon Effective Date... 2,937,713... On or before 1st anniversary... 2,937,713... On or before 2nd anniversary... 2,937,713... On or before 3rd anniversary... 2,937,713... On or before 4th anniversary... 2,937,713\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text refers to the share issuances as \"Option Payments\", but there is no separate monetary value assigned to options. The consideration is fully captured by the share issuance fields."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.03'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify any monetary exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "Upon the completion of all the above share payments Decade and Optionor will enter into an agreement granting a 1% net smelter returns royalty (the \"NSR\") in favour of the Optionor."
+    },
+    "coverage_area_raw": {
+      "value": 963.45,
+      "justification": "The property consists of 963.45 ha (9.63 square km) surrounded by Cu-Au deposits on three sides."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The property consists of 963.45 ha (9.63 square km) surrounded by Cu-Au deposits on three sides."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article explicitly states that the resource information provided is for surrounding properties and not the North Mitchell property itself: 'Disclaimer: The above information has been obtained from available public sources and is being used for reference purposes only. There is no guarantee that the North Mitchell property hosts any mineralization similar to the above deposits.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DEC",
+      "justification": "The buyer is identified in the text as 'Decade Resources Ltd (TSXV: DEC)'."
+    }
+  }
+}

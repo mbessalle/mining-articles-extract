@@ -1,0 +1,52 @@
+--- Article Metadata ---
+Project Name: Baldwin
+Company Name: EV Minerals Corporation
+Exchange: CSE
+Ticker: EVM
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.2.2024, 5:15:00 AM
+
+# EV Minerals Closes Acquisition of Nickel Projects in Sudbury, Ontario
+
+Toronto, Ontario--(Newsfile Corp. - March 1, 2024) - [**EV Minerals Corporation**](https://api.newsfilecorp.com/redirect/q8NexFVoR8) **(CSE: EVM) (FSE: RLC)  **(the "**Company** " or "**EV Minerals** ") is pleased to announce that, further to its press releases of [February 23, 2024](https://api.newsfilecorp.com/redirect/nV2eqH8PeO) and [February 29, 2024](https://api.newsfilecorp.com/redirect/K8p4QF0XKb), the Company has acquired (the "**Acquisition** ") the Baldwin and Lunge Projects (the "**Sudbury Projects** "). The Acquisition was carried out pursuant to a purchase agreement (the "**Agreement** ") with Graycliff Exploration Limited (the "**Vendor** ").
+
+As partial consideration for the Sudbury Projects, the Company issued the Vendor an aggregate of 2,000,000 common shares (the "**Common Shares** ") in the capital of the Company, at a deemed issuance price of $0.05 per Common Share. In addition, as partial consideration for the Sudbury Projects, the Company made a one-time cash payment of $25,000 to the Vendor on February 6, 2024, upon signing of the letter of intent dated February 6, 2024, between the Company and the Vendor. 
+
+The Company acknowledges that there is an existing 2% net smelter return royalty ("**NSR** ") on the Sudbury Projects and upon closing of the Acquisition, the Company assumed the Vendor's obligations of the NSR and will have the right to buy back 1% of the NSR for $1 million (reducing such NSR to 1%).
+
+All Common Shares issued are subject to a statutory hold period of four months plus a day from the date of issuance in accordance with applicable securities legislation.
+
+**About EV Minerals Corporation**
+
+EV Minerals Corporation is a Canadian exploration company focused on mineral exploration and development. The current focus is the EV Nickel Project, host of the nickel-copper-cobalt McNickel deposit. The Project is comprised of 32 mineral claims covering approximately 1,792 hectares located in the Saguenay area, the Province of Quebec. This deposit is reputed containing a historical resource of 5.585 million tonnes with grades of 0.21% Ni, 0.11% Cu and 0.03% Co (NI 43-101 non-compliant resource), which is to be re-evaluated with the consideration of using either bioleaching or acid leaching and electrowinning for nickel, cobalt and copper recovery. 
+
+For more information, please contact: 
+
+Nicholas Konkin  
+President and CEO, Director  
+[nick@evmineralscorp.ca](mailto:nick@evmineralscorp.ca)  
+416-642-1807 Ext 305 
+
+_This news release contains certain "forward-looking information" within the meaning of applicable securities law. Forward-looking information is frequently characterized by words such as "plan", "expect", "project", "intend", "believe", "anticipate", "estimate", "may", "will", "would", "potential", "proposed" and other similar words, or statements that certain events or conditions "may" or "will" occur. These statements are only predictions. Forward-looking information is based on the opinions and estimates of management at the date the information is provided and is subject to a variety of risks and uncertainties and other factors that could cause actual events or results to differ materially from those projected in the forward-looking information. For a description of the risks and uncertainties facing the Company and its business and affairs, readers should refer to the Company's Management's Discussion and Analysis. The Company undertakes no obligation to update forward-looking information if circumstances or management's estimates or opinions should change, unless required by law. The reader is cautioned not to place undue reliance on forward-looking information._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/200125](https://api.newsfilecorp.com/redirect/Ey2NzuxWYD)
+
+### Project Name
+
+[Baldwin Project](/?gid=3473)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.015           Beta: 4.13173
+Year High: 0.02      Market Cap: 1.69m
+Prev. Close: 0.015    VWAP: 0.015
+Year Low: 0.01       Total Shares: 112.80m
+Shares Out: 112.80m     Float: 103.42m
+Exchange: CSE

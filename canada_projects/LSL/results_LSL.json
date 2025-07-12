@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/LSL/37519.txt",
+    "canada_projects/LSL/46128.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "LSL",
+      "justification": "The text refers to the acquired property as the 'LSL project': '...is pleased to announce the acquisition of exploration property (the \"Property\" or \"LSL project\") ...'"
+    },
+    "company_name": {
+      "value": "First Lithium Minerals Corp.",
+      "justification": "The acquiring company is identified as 'First Lithium Minerals Corp. (CSE: FLM) (OTC Pink: PGPXF) (FSE: X28) (\"First Lithium Minerals\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Rob Saltsman",
+      "justification": "The CEO is identified in the text: 'Rob Saltsman, CEO and Director of First Lithium Minerals commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the acquired claims are 'wholly-owned' and later refers to the '100% owned LSL project'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company name is First Lithium Minerals and the text states the project has 'potential for lithium and rare earth metals' and that the company is 'exploring for lithium and critical metals'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/172348",
+      "justification": "The article titled 'First Lithium Minerals Acquires Highly Prospective Exploration Project in Northwestern Ontario' directly concerns the acquisition of the LSL project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, First Lithium Minerals Corp., is based in Toronto, Ontario, and is listed on the Canadian Securities Exchange (CSE), implying the currency for the transaction denoted by '$' is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "The total cash payment is $75,000. This is the sum of '$50,000' from the initial acquisition of the LSL project and $25,000, which is half of the '$50,000' cash payment from the second transaction that was shared between the LSL project expansion and the Lidstone property."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured with a number of shares and a share price was not provided in the deal terms, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal consideration was broken down into cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 6300000,
+      "justification": "The total shares issued is 6,300,000. This is the sum of '4,300,000 common shares' from the initial LSL project acquisition and 2,000,000 shares, which is half of the '4,000,000 common shares' issued for the subsequent acquisition that was shared between the LSL project expansion and the Lidstone property."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a grant of stock options to 'management, directors, and consultants', which is a general corporate action and not part of the consideration for the project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states the company is 'planning to conduct reconnaissance exploration', but does not specify a monetary commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1900,
+      "justification": "The initial LSL project acquisition was for '1,900 ha'. A subsequent transaction expanded the LSL project and added the Lidstone property, covering a combined 3,573 ha. As the area for the LSL expansion alone is not specified, only the initial, confirmed area for the LSL project is included."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The area is specified in hectares: 'comprised of 93 mining claims totalling 1,900 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical drilling intercepts like '98.4 ft of granite-pegmatite', but this is a length measurement, not a mineral resource estimate of mass or volume. No formal resource estimate is provided."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FLM",
+      "justification": "The company is identified in the text as 'First Lithium Minerals Corp. (CSE: FLM)'."
+    }
+  }
+}

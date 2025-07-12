@@ -1,0 +1,82 @@
+--- Article Metadata ---
+Project Name: Northshore
+Company Name: Newpath Resources Inc.
+Exchange: CSE
+Ticker: PATH
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.27.2025, 6:00:00 PM
+
+# Newpath Enters LOI to Sell Northshore Gold Project
+
+Vancouver, British Columbia--(Newsfile Corp. - January 27, 2025) - Newpath Resources Inc. (CSE: PATH) (FSE: 0MZ) (OTC Pink: RDYFF) ("Newpath" or the "Company") is pleased to announce that Great Eagle Gold Corp. ("Great Eagle") has completed its due diligence on the Company's Northshore Gold Project ("Northshore" or the "Project"). The Company has entered into an LOI with Great Eagle and intends to proceed towards a definitive agreement ("Transaction Agreement").
+
+Great Eagle intends to acquire the project to tokenize the gold resource, providing a means to integrate the underlying value of the gold with NatGold Digital Ltd.'s digital asset platform. 
+
+Alexander McAulay, CEO of Newpath, commented: "This is an incredible opportunity to transition this project into the digital asset ecosystem. It breathes new life into the property while allowing Newpath to address its convertible debt over the next 12 months. Newpath now moves forward to focus efforts on evaluating lithium and other mineralization potential with our Alpha/Bravo project."
+
+**Key Terms of the Agreement:**
+
+  * **Option Structure:** Great Eagle has the option to acquire a 100% interest in the patented claims of the Northshore Gold Property from Newpath. The transaction can be completed at any time within the first year of the agreement.
+
+  * **Consideration:** The total purchase price is set at CDN$1,000,000, payable as follows:
+
+    * $10,000 was paid within two business days of the execution of the LOI for due diligence costs.
+
+    * $90,000 to be paid upon execution of the definitive Transaction Agreement.
+
+    * The remaining $900,000 is payable on or before the first anniversary of the Transaction Agreement.
+
+  * **Purchase Price Adjustment:** The Purchase Price is subject to adjustment based on changes in the price of gold between the date of the LOI and the final payment date. If the price of gold increases, the Purchase Price will increase proportionally. No downward adjustment will be made if the price of gold decreases.
+
+
+
+
+The Northshore Gold Project's patented claims cover approximately 210 hectares in Priske Township, approximately 4 km south of the town of Schreiber, Ontario, on the northern shore of Lake Superior.
+
+**Proceeds Allocation**  
+The Company intends to use proceeds from the sale to negotiate the repayment of the principal balance of its convertible debentures. A default on the debt could be triggered at any time as the conditions of default for the convertible have been met. This strategic allocation of funds will help strengthen Newpath's financial position and support its ongoing operations. The Company will initiate discussions with debt holders in the coming weeks, starting with formal outreach and proposals to renegotiate terms by mid-February. 
+
+**Net Smelter Return (NSR) Royalty:** In the event Great Eagle modifies its plans for the project, a 1.5% NSR royalty on the patented Claims will be granted to Newpath.
+
+**About Newpath Resources Inc.**  
+Newpath Resources Inc. is a Canadian exploration company listed on the CSE under the symbol PATH. 
+
+**On Behalf of the Board of Directors,**
+
+**NEWPATH RESOURCES INC.**
+
+_"Alexander McAulay"_  
+Chief Executive Officer  
+Email: [amcaulay@newpathresource.com](mailto:amcaulay@newpathresource.com)  
+CEO Direct Line: +1 (604) 365-0425  
+[www.newpathresource.com](https://api.newsfilecorp.com/redirect/zE48DSVz3e)
+
+**Forward-Looking Statements**  
+This news release may contain certain "forward-looking information." Forward-Looking information includes statements regarding future plans, objectives, or economic performance, or the assumptions underlying any of the foregoing. Forward-Looking statements are subject to a variety of risks and uncertainties that could cause actual events or results to differ materially from those reflected in the forward-looking statements, including but not limited to: the risk that Great Eagle may not have sufficient capital or, for other reasons, may be unable to complete the transaction; the risk that the transaction remains subject to approval by the Canadian Securities Exchange (CSE), and the exchange may not grant approval; the Company's ability to successfully negotiate with debt holders and restructure the terms of its outstanding convertible debentures.
+
+Neither the Canadian Securities Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/238504](https://api.newsfilecorp.com/redirect/4Q4qVSbOpv)
+
+### Project Name
+
+[Northshore Project](/?gid=1643)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.045                       Bid: 0.04
+Bid Size: 2000                   Beta: 2.03075
+Year High: 0.08                  Market Cap: 963.28k
+PB Ratio: -0.45                   EPS: -0.05
+Average Volume (30 Day): 3,675    Prev. Close: 0.045
+Ask: 0.05                        Ask Size: 28000
+Year Low: 0.025                   Total Shares: 21.41m
+Shares Out: 21.41m                 Float: 16.32m
+Exchange: CSE

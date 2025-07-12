@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Komo/32140.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Komo",
+      "justification": "The text explicitly names the project: 'New strong lithium lake bottom sediment anomaly identified on the Komo project, located 20 km west of the James Bay lithium deposit (Allkem);'"
+    },
+    "company_name": {
+      "value": "Midland Exploration Inc.",
+      "justification": "The press release is from 'Midland Exploration Inc. (“Midland” or the “Corporation”) (TSX-V: MD)' and it states that 'New targets were identified on several currently 100% owned Midland projects'."
+    },
+    "ceo_buyer": {
+      "value": "Gino Roger",
+      "justification": "The contact person for Midland Exploration Inc. is listed as 'Gino Roger, President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that 'New targets were identified on several currently 100% owned Midland projects that were deemed highly prospective for lithium potential', and Komo is listed as one of these projects."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the article is 'Midland Generates New Exploration Targets on Several of Its James Bay Projects and Expands Its Portfolio of Lithium Projects'. The highlight for the project is a 'New strong lithium lake bottom sediment anomaly identified on the Komo project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Komo project, but no URL is available in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Midland Exploration Inc., is listed on the TSX Venture Exchange (TSXV), which is a Canadian exchange. The detailed quote section also lists 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not describe a transaction involving cash payments for the Komo project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not describe a transaction involving share payments for the Komo project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document is an exploration update and does not describe a transaction involving combined cash and share payments for the Komo project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document does not mention any issuance of shares related to the Komo project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any share warrants related to the Komo project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any options related to the Komo project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document does not mention any issuance of shares, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not mention any exploration commitment in meters for the Komo project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document does not mention any exploration spending commitment for the Komo project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty (NSR) related to the Komo project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides an aggregate land position for all of Midland's projects in the region ('Midland has 4,166 claims totalling 2,163 square kilometres of land positions in Eeyou Istchee James Bay'), but does not specify the area for the Komo project individually."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the specific project is not mentioned."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions grab sample grades for the Komo project ('0.04% Li2O, 159 ppm Ta, 396 ppm Be'), but does not provide a mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:MD",
+      "justification": "The press release identifies the company as 'Midland Exploration Inc. (“Midland” or the “Corporation”) (TSX-V: MD)'."
+    }
+  }
+}

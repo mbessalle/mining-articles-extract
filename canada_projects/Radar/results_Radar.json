@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Radar/92391.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Radar",
+      "justification": "The text refers to the project as the 'Radar Project' and the 'Radar Ti-V project'. For example: 'SAGA Metals Extends Claims at the Radar Project by 26% to Cover 20km Inferred Oxide Zone'."
+    },
+    "company_name": {
+      "value": "SAGA Metals Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'VANCOUVER, British Columbia, March 25, 2025 (GLOBE NEWSWIRE) -- SAGA Metals Corp. (\"SAGA\" or the \"Company\") (TSXV: SAGA)...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not name the CEO of SAGA Metals Corp. It mentions 'Michael Garagan, CGO & Director of SAGA' and a qualified person from another company, but not the CEO of the buyer."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is a claim staking event, not an acquisition of interest from another party. The company is adding new claims to its existing project: 'announces the addition of 180 claims spanning 4,500-hectares'."
+    },
+    "primary_commodity": {
+      "value": "Titanium-Vanadium",
+      "justification": "The project is explicitly named the 'Radar Titanium-Vanadium (Ti-V) project' in the text."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Radar, but no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSXV, a Canadian exchange, and the detailed quote section uses a '$' symbol. 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes a claim staking event, not an acquisition involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes a claim staking event, not an acquisition involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes a claim staking event, not an acquisition involving a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this claim staking event."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes a recently completed/expanded drill program ('expanded to 2,200 meters'), not a future exploration commitment required as part of a transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of a transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned in the text."
+    },
+    "coverage_area_raw": {
+      "value": 21750,
+      "justification": "The text states the new total size of the project after the claim extension: 'increasing the total size of the Radar Titanium-Vanadium (Ti-V) project from 17,250-hecatres to 21,750-hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text: 'increasing the total size of the Radar Titanium-Vanadium (Ti-V) project from 17,250-hecatres to 21,750-hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource statement with mass or volume (e.g., tonnes, ounces). It describes an 'inferred oxide zone' and a 'maiden drill program' with assay results pending."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SAGA",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'SAGA Metals Corp. (\"SAGA\" or the \"Company\") (TSXV: SAGA)'."
+    }
+  }
+}

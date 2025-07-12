@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/White Willow/32973.txt",
+    "canada_projects/White Willow/33281.txt",
+    "canada_projects/White Willow/50985.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "White Willow",
+      "justification": "The company has executed an option... for the right to purchase an undivided 100% interest in 712 unpatented mining claims located in the Thunder Bay Mining Division of Ontario (the \"White Willow Property\" or the \"Property\")."
+    },
+    "company_name": {
+      "value": "Usha Resources Ltd.",
+      "justification": "Usha Resources Ltd. (\"USHA\" or the \"Company\") (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0) , a North American mineral acquisition and exploration company focused on the development of drill-ready battery and precious metal projects, is pleased to announce that... the Company has executed an option..."
+    },
+    "ceo_buyer": {
+      "value": "Deepak Varshney",
+      "justification": "\"The rising global demand for lithium, driven by the green energy revolution and the exponential growth of electric vehicles, makes the acquisition of the White Willow Lithium-Tantalum Property an attractive investment,\" said Deepak Varshney, CEO of Usha Resources."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreements state the company may acquire a 100% interest in the properties. For the main property: \"the Company may acquire a 100% interest in the Property by paying a total of $220,000 and issuing an aggregate of 3,600,000 common shares\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the primary announcement is \"Usha Resources Enters Hard-Rock Lithium Space with Acquisition of Significant Ontario Land Package with Highly Evolved LCT-Pegmatites\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/746123/Usha-Resources-Enters-Hard-Rock-Lithium-Space-with-Acquisition-of-Significant-Ontario-Land-Package-with-Highly-Evolved-LCT-Pegmatites",
+      "justification": "This article is the primary announcement of the acquisition of the White Willow project by Usha Resources Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Usha Resources Ltd., is based in Vancouver, BC, Canada, is listed on the TSX Venture Exchange (TSXV), and the project is in Ontario. The payments are denoted with '$', which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 320000,
+      "justification": "The total cash payment is $320,000, comprised of $220,000 for the main White Willow property ('paying a total of $220,000') and $100,000 for the contiguous Nym Property ('paying a total of $100,000')."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payments is not explicitly stated as a raw monetary figure. The agreements specify the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A single combined cash and share value for the entire transaction is not provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 19200000,
+      "justification": "The total shares to be issued is 19,200,000, comprised of 3,600,000 for the main White Willow property, 600,000 for the Nym property, and a total of 15,000,000 (12,000,000 for Option #1 and 3,000,000 for Option #2) for the 107 adjacent claims."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreements are styled as 'option agreements', there are no payments for financial stock options mentioned. The consideration is in cash and shares."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not a fixed price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned \"maiden program of 4,000 metres\", but this is a future plan and not a binding commitment as part of the acquisition agreements."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The company granted a total 3% Net Smelter Royalty on the main property, which was retained by the sellers. \"The Company has granted to each of the Vendor and Assignor a 1.5% net-smelter returns royalty (the \"NSR\").\" A separate 2% NSR applies to the smaller Nym property."
+    },
+    "coverage_area_raw": {
+      "value": 15680,
+      "justification": "The total area is 15,680 hectares, comprised of the initial 15,510 hectares from the main White Willow acquisition ('Spanning 15,510 hectares') and an additional 170 hectares from the Nym property acquisition ('adding 170 hectares to the 15,510 hectares')."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Spanning 15,510 hectares, the property is situated 170 kilometres west of Thunder Bay..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource exists for the company's properties: 'Furthermore, the Company currently has no reserves on any of its properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:USHA",
+      "justification": "The company's ticker and exchange are listed in the first paragraph: \"Usha Resources Ltd. ('USHA' or the 'Company') (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0)\"."
+    }
+  }
+}

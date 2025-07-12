@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Jarnet/54094.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Jarnet",
+      "justification": "The text identifies the project of interest: \"The primary focus of the Company at this time remains the planned Phase 2 exploration program at its wholly owned Jarnet Lithium Project...\""
+    },
+    "company_name": {
+      "value": "Arbor Metals Corp.",
+      "justification": "The text states that Arbor Metals Corp. is the owner of the project: \"...its wholly owned Jarnet Lithium Project...\""
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Jarnet project. The transaction mentioned is for the Kemlee Lake Lithium Project. Therefore, there is no buyer for the Jarnet project in this text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Jarnet project. It states Arbor Metals already has full ownership: \"...its wholly owned Jarnet Lithium Project...\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text identifies the project as a lithium project: \"The Jarnet, Corvette Lake and St. Pierre lithium projects...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about the Jarnet project. It describes the acquisition of the Kemlee Lake Lithium Project by Arbor Metals Corp., as stated in the headline: 'Arbor Metals to Acquire Kemlee Lake Lithium Project in Northern Ontario'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company involved, Arbor Metals Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying CAD. \"Arbor Metals Corp. (“Arbor” or the “Company”) (TSXV: ABR, FWB: 432)\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Jarnet project. The financial terms mentioned are for the acquisition of the Kemlee Lake project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Jarnet project. The financial terms mentioned are for the acquisition of the Kemlee Lake project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Jarnet project. The financial terms mentioned are for the acquisition of the Kemlee Lake project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Jarnet project. The issuance of 1,500,000 shares is consideration for the Kemlee Lake project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Jarnet project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Jarnet project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Jarnet project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned in relation to the Jarnet project."
+    },
+    "coverage_area_raw": {
+      "value": 1868.67,
+      "justification": "The project's share of the area is 1868.67 hectares, calculated by dividing the total area of 5,606 hectares by the three projects it is shared with (Jarnet, Corvette Lake, and St. Pierre). The text states: 'The Jarnet, Corvette Lake and St. Pierre lithium projects... covering an area of approximately 5,606 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the total area: \"...covering an area of approximately 5,606 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions exploration programs but does not provide a quantified mineral resource estimate for the Jarnet project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Jarnet project. The transaction mentioned is for the Kemlee Lake Lithium Project. Therefore, there is no buyer for the Jarnet project in this text."
+    }
+  }
+}

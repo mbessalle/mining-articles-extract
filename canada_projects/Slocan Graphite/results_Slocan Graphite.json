@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Slocan Graphite/81447.txt",
+    "canada_projects/Slocan Graphite/81613.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Slocan Graphite",
+      "justification": "The article is titled 'Eagle Plains Announces the Sale of the Slocan Graphite Project, British Columbia'."
+    },
+    "company_name": {
+      "value": "Weaver Energy Corp.",
+      "justification": "The text states that Eagle Plains Resources entered into an agreement with 'Weaver Energy Corp. (\"Weaver\"), a private company registered in Ontario, pursuant to which Weaver will acquire Eagle Plains' 100% owned Slocan Graphite Project.'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer, Weaver Energy Corp., is identified as a private company and no CEO is named for it in the text. The CEOs mentioned, C.C. (Chuck) Downie and Tim J. Termuende, are for the seller (Eagle Plains) and a related royalty company (Eagle Royalties), respectively."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that 'Weaver will acquire Eagle Plains' 100% owned Slocan Graphite Project.'"
+    },
+    "primary_commodity": {
+      "value": "Graphite",
+      "justification": "The project is explicitly named the 'Slocan Graphite Project' and the text discusses 'graphite mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/952324/eagle-plains-announces-the-sale-ofthe-slocan-graphite-project-british-columbia",
+      "justification": "The article is titled 'Eagle Plains Announces the Sale of the Slocan Graphite Project, British Columbia' and details the transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The second article mentions a royalty buy-back option for 'CDN$1,000,000'. The seller, Eagle Plains, is a Canadian company listed on the TSX-V, further implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The text states, 'The aggregate purchase price payable by Weaver to Eagle Plains consists of (a) $150,000 cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment is explicitly stated as a separate component of the deal, so this field is not applicable per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not include an exploration commitment measured in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 0.5,
+      "justification": "As part of the purchase price, the agreement includes '(b) the granting of a net production royalty of 0.5% (the \"NPR Royalty\") to Eagle Plains on the Slocan Graphite claims.' This royalty was retained by the seller, Eagle Plains."
+    },
+    "coverage_area_raw": {
+      "value": 2888,
+      "justification": "The text states, 'The Slocan Graphite Project is located 28 km north of Castlegar, BC and consists of 14 mineral claims covering 2888 ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states, 'The Slocan Graphite Project is located 28 km north of Castlegar, BC and consists of 14 mineral claims covering 2888 ha.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly cautions that 'a Qualified Person has not done sufficient work to evaluate the potential of the property to contain an economic deposit and that there is no certainty that the property contains a graphite deposit.' It also notes, 'The horizon has never been tested by diamond drilling,' confirming the absence of a formal resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is 'Weaver Energy Corp.', which is explicitly identified as a 'private company registered in Ontario' and therefore does not have a stock ticker or exchange listing. The authoritative ticker provided (TSXV:EPL) belongs to the seller, Eagle Plains Resources."
+    }
+  }
+}

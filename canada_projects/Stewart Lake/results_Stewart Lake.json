@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Stewart Lake/31529.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stewart Lake",
+      "justification": "The project is explicitly named in the text: \"Key Features of the Stewart Lake Project (‘SLP”)\" and \"Solstice Acquires New 187 km² Lithium and Rare Element Exploration Project ... located in the Stewart Lake area\"."
+    },
+    "company_name": {
+      "value": "Solstice Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"Solstice Gold Corp. (TSXV: SGC) (“Solstice”, “we”, “our” or the “Company”) is pleased to announce that it has established a 187 km2 strategic land position...\""
+    },
+    "ceo_buyer": {
+      "value": "Mike Timmins",
+      "justification": "The CEO of the buyer is named in the text: \"Mike Timmins, Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction involves an option to acquire a full interest in a portion of the claims, supplementing claims acquired by staking to form the full project. The option agreement states: \"option (the “Option”) to acquire the Optionors 100% interest in certain mining claims forming part of the SLP (the “Claims”).\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the article states the project's purpose: \"Solstice Acquires New 187 km² Lithium and Rare Element Exploration Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Solstice Gold Corp., is listed on the TSXV (TSX Venture Exchange), which is a Canadian exchange, implying Canadian dollars for payments denoted with '$'. The text states: '...Solstice must pay $15,000 in cash to the Optionor...'"
+    },
+    "cash_payments_raw": {
+      "value": 90000,
+      "justification": "The total cash payment is an aggregate of the initial payment of $15,000 and the final payment of $75,000. The text states: 'Solstice must pay $15,000 in cash to the Optionor' and 'Upon exercise of the Option, the Company must make a final payment of $75,000 in cash to the Optionor'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value for the share payment is provided in the transaction terms. The payment is described by the number of shares issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components of the transaction are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 750000,
+      "justification": "The option agreement specifies the number of shares to be issued: \"In consideration for the grant of the Option... Solstice must... issue 750,000 common shares to FM.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement, but there are no payments made in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 150000,
+      "justification": "The total exploration commitment is the sum of three required spending amounts: 'a minimum of $25,000 in exploration spending by the first anniversary... a minimum of $50,000 in exploration spending by the second anniversary; and (iii) a minimum of $75,000 in exploration spending by the third anniversary'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller retains a royalty as part of the deal terms: \"Upon exercise of the Option, the Company must make a final payment of $75,000 in cash to the Optionor and will grant FM a 1% net smelter returns royalty on the Claims.\""
+    },
+    "coverage_area_raw": {
+      "value": 187,
+      "justification": "The total area of the project is stated in the first paragraph: \"Solstice Gold Corp. ... is pleased to announce that it has established a 187 km2 strategic land position...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the project area is provided in the first paragraph: \"...established a 187 km2 strategic land position...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no defined mineral resource exists and that historical work was not assayed for the target commodity: \"The logs indicate that the pegmatites were not assayed for lithium or other rare elements.\" and \"The lack of exploration activity completed in the area... limits our understanding of the mineral potential of the ERS.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGC",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: \"Solstice Gold Corp. (TSXV: SGC)\"."
+    }
+  }
+}

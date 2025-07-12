@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sphinx Mountain/50190.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sphinx Mountain",
+      "justification": "The authoritative project name is Sphinx Mountain, and the text confirms this: \"Pacific Bay Minerals Ltd... is pleased to announce the staking of the Sphinx Mountain Rare Earth Elements Project...\""
+    },
+    "company_name": {
+      "value": "Pacific Bay Minerals Ltd.",
+      "justification": "The text identifies the company as: \"Pacific Bay Minerals Ltd (TSXV: PBM) ('Pacific Bay' or the 'Company')...\""
+    },
+    "ceo_buyer": {
+      "value": "Reagan Glazier",
+      "justification": "The buyer is Pacific Bay Minerals Ltd. and the text states: \"Reagan Glazier, CEO and President stated, 'We're excited at the opportunity to explore for these critical minerals...'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is a staking, which means the company is claiming the mineral rights from the government, implying a 100% interest. The text states: \"Pacific Bay Minerals Ltd... is pleased to announce the staking of the Sphinx Mountain Rare Earth Elements Project...\""
+    },
+    "primary_commodity": {
+      "value": "Rare Earth Elements",
+      "justification": "The text describes the project as the \"Sphinx Mountain Rare Earth Elements Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/200607",
+      "justification": "The article is titled \"Pacific Bay Minerals Stakes Sphinx Lake REE Property\" and the body discusses \"the staking of the Sphinx Mountain Rare Earth Elements Project\", which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSXV, a Canadian exchange, and the detailed quote uses a \"$\" symbol, implying Canadian Dollars. The quote section states: \"Exchange: TSXV\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a \"staking\" of the property, not a purchase from another entity. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a \"staking\" of the property, not a purchase from another entity. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a \"staking\" of the property, not a purchase from another entity. No combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a \"staking\" of the property, not a purchase from another entity. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments is available in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments is available in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a \"future program\" but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not provide a specific area for the staked claims."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not provide a specific area for the staked claims."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade stream sediment samples (e.g., \"1.19% TREE\") but does not state a mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PBM",
+      "justification": "The text explicitly states the ticker and exchange for the buyer, Pacific Bay Minerals Ltd.: \"Pacific Bay Minerals Ltd (TSXV: PBM) ('Pacific Bay' or the 'Company')...\""
+    }
+  }
+}

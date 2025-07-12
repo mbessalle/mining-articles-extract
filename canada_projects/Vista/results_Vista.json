@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Vista/54554.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Vista",
+      "justification": "The Option Agreement grants Riverboat an exclusive option (the “Option”) to acquire an undivided 70% interest in ATHA’s Vista property (the “Vista Property”)..."
+    },
+    "company_name": {
+      "value": "ATHA Energy Corp.",
+      "justification": "ATHA Energy Corp.(TSX.V: SASK) (“ATHA” or the “Company”), holder of the largest uranium exploration portfolio in two of the highest-grade uranium districts in the world, is pleased to announce it has entered into a definitive option agreement..."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Riverboat Energy Corporation, is not mentioned in the text. The text only mentions Troy Boisjoli, who is the CEO of the seller, ATHA Energy Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Option Agreement provides Riverboat Energy Corp. an opportunity to acquire a 70% interest in ATHA’s early-stage Vista Property..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "ATHA is a Canadian mineral company engaged in the acquisition, exploration, and development of uranium assets in the pursuit of a clean energy future."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a direct, stable link to the article itself."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$' and the companies involved are Canadian. The seller, ATHA Energy Corp., is listed on the TSX Venture Exchange (TSX.V), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 600000,
+      "justification": "Terms of Option Agreement exercise include Riverboat making aggregate cash payments equal to $600,000 to ATHA..."
+    },
+    "share_payments_raw": {
+      "value": 800000,
+      "justification": "Terms of Option Agreement exercise include Riverboat issuing common shares in Riverboat to ATHA having an aggregate value of $800,000..."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments are provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not a fixed amount but is defined by a formula based on a future financing price: 'such number of common shares (each, an “Option Share”) in the capital of Riverboat equal to the quotient obtained by dividing $800,000 by the Price per Share'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments involving share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement for a property, but no stock options are issued as a form of payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not fixed and is dependent on a future financing event: '“Price per Share” means the issue price per share (or unit) in connection with an arm’s length common share (or unit) equity financing completed by Riverboat prior to the issuance of the Option Shares.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 9300000,
+      "justification": "Incurring and funding aggregate expenditures in the amount of $9,300,000 on the Vista Property over a three-year period..."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states the interest is 'subject to underlying 2.0% NSR royalties on the Vista Property', indicating a pre-existing condition, not a royalty being acquired or retained as part of this transaction's consideration."
+    },
+    "coverage_area_raw": {
+      "value": 30265,
+      "justification": "Option Agreement provides Riverboat Energy Corp. an opportunity to acquire a 70% interest in ATHA’s early-stage Vista Property (30,265 Ha)..."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "Option Agreement provides Riverboat Energy Corp. an opportunity to acquire a 70% interest in ATHA’s early-stage Vista Property (30,265 Ha)..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the Vista project as 'early-stage' and does not provide a mineral resource estimate for it. The historical resource estimates mentioned in the text are explicitly for other projects (Angilak, Moran Lake, Anna Lake)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Riverboat Energy Corporation, is explicitly described as a 'privately held Canadian exploration company' and therefore does not have a stock ticker or exchange listing."
+    }
+  }
+}

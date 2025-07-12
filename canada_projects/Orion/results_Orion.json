@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Orion/42003.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Orion",
+      "justification": "The article is titled 'Cosa Resources Announces Expansion of its 100% Owned Orion Uranium Property in the Athabasca Basin, Saskatchewan'."
+    },
+    "company_name": {
+      "value": "Cosa Resources Corp.",
+      "justification": "The press release is from 'Cosa Resources Corp. (CSE: COSA) (OTCQB: COSAF) (FSE: SSKU) (\"Cosa \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "A quote in the article is attributed to 'Keith Bodnarchuk, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "This is not an acquisition from another party, but an expansion of an existing property. The text states: 'Cosa Resources Announces Expansion of its 100% Owned Orion Uranium Property in the Athabasca Basin, Saskatchewan'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text refers to the project as the 'Orion Uranium Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/183034",
+      "justification": "The article is titled 'Cosa Resources Announces Expansion of its 100% Owned Orion Uranium Property in the Athabasca Basin, Saskatchewan', which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a market-making agreement with a fee of 'C$7500', indicating Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property expansion was achieved through 'low-cost staking', not a purchase transaction involving cash payments to a seller."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property expansion was achieved through 'low-cost staking', not a purchase transaction involving share payments to a seller."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property expansion was achieved through 'low-cost staking', not a purchase transaction with a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the property expansion, which was done via staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the property expansion."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the property expansion."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the property expansion, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions 'Future work at Orion is expected to include additional MobileMT™ surveying' but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future work but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the property expansion."
+    },
+    "coverage_area_raw": {
+      "value": 9000,
+      "justification": "A highlight in the article states: 'Orion expanded to 9000 hectares with two new claims totalling 5119 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "A highlight in the article states: 'Orion expanded to 9000 hectares with two new claims totalling 5119 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the ground as 'highly underexplored' and mentions a historical drill intercept, but does not provide a mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:COSA",
+      "justification": "The authoritative metadata provided in the prompt is 'TSX-V' and 'COSA'. While the article text mentions 'CSE: COSA', the 'Detailed Quote' section at the end lists 'Exchange: TSXV'. Given the conflicting information within the source text, the authoritative metadata is prioritized."
+    }
+  }
+}

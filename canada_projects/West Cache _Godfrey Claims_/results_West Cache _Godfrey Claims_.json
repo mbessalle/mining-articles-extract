@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/West Cache _Godfrey Claims_/90780.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "West Cache Godfrey Claims",
+      "justification": "The acquisition is for claims in Godfrey township contiguous to the West Cache Gold Project. The article states: 'Galleon Gold...is pleased to announce it has entered into an agreement (the \"Agreement\") to acquire 66 mineral claims totaling 1,409 hectares (the \"Mineral Claims\") in Godfrey and Bristol Townships that are contiguous to the Company's West Cache Gold Project in Timmins, Ontario.'"
+    },
+    "company_name": {
+      "value": "Galleon Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Toronto, Ontario--(Newsfile Corp. - March 12, 2025) - Galleon Gold Corp. (TSXV: GGO) (FSE: 3H90) (the \"Company\" or \"Galleon Gold\") is pleased to announce it has entered into an agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "R. David Russell",
+      "justification": "The CEO is identified in the 'Comments from the CEO' section and the contact information: 'R. David Russell, President and CEO of Galleon Gold, commented...' and 'R. David Russell Chairman and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company will acquire a full interest in the claims as stated in the terms: 'the Company will issue PrivateCo 100,000 common shares of Galleon Gold (the \"Galleon Shares\") to obtain a 100% interest in the Mineral Claims.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The acquired claims are contiguous to the company's main project, the West Cache Gold Project. 'Galleon Gold Expands Timmins Land Position' and 'contiguous to the Company's West Cache Gold Project in Timmins, Ontario.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/244426",
+      "justification": "The article is about Galleon Gold acquiring claims in Godfrey Township, which are contiguous to its West Cache project. This matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Galleon Gold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The detailed quote section also uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as a share issuance, with no cash component mentioned in the terms of the agreement."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share can be determined, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share can be determined, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 100000,
+      "justification": "The terms of the agreement specify the number of shares to be issued: 'the Company will issue PrivateCo 100,000 common shares of Galleon Gold (the \"Galleon Shares\") to obtain a 100% interest in the Mineral Claims.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.355,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.355'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1409,
+      "justification": "The press release specifies the total area of the acquired claims: 'acquire 66 mineral claims totaling 1,409 hectares (the \"Mineral Claims\") in Godfrey and Bristol Townships'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'acquire 66 mineral claims totaling 1,409 hectares (the \"Mineral Claims\") in Godfrey and Bristol Townships'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions a mineral resource on Galleon Gold's existing property ('the West Cache Mineral Resource on Galleon Gold's existing property'), but does not state a quantified mineral resource for the newly acquired claims themselves."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GGO",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'Galleon Gold Corp. (TSXV: GGO)'."
+    }
+  }
+}

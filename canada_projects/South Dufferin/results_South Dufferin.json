@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/South Dufferin/34364.txt",
+    "canada_projects/South Dufferin/35941.txt",
+    "canada_projects/South Dufferin/73694.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "South Dufferin",
+      "justification": "The primary project is identified in the headlines of the provided articles: 'Skyharbour to Acquire 100% of South Dufferin Uranium Project from Denison Mines in the Athabasca Basin, Saskatchewan' and 'Skyharbour Announces the Closing of its Acquisition of 100% of the South Dufferin Uranium Project...'"
+    },
+    "company_name": {
+      "value": "Skyharbour Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Skyharbour Resources Ltd.' in the text: 'Vancouver, BC, April 27, 2023 (GLOBE NEWSWIRE) -- Skyharbour Resources Ltd.(TSX-V: SYH)'."
+    },
+    "ceo_buyer": {
+      "value": "Jordan Trimble",
+      "justification": "The CEO of the acquiring company, Skyharbour Resources, is identified as Jordan Trimble. 'Jordan Trimble, President and CEO of Skyharbour Resources, states: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Skyharbour acquired a 100% interest in the project from Denison Mines. 'Skyharbour to Acquire 100% of South Dufferin Uranium Project from Denison Mines...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project in the headline: 'Skyharbour to Acquire 100% of South Dufferin Uranium Project...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text consists of press releases about the correct project, but does not contain a full, verifiable URL for a single article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency for the cash payment is specified as Canadian Dollars. '...a cash payment totaling CAD $125,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 125000,
+      "justification": "The terms of the acquisition include a cash payment of $125,000. '...and a cash payment totaling CAD $125,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the consideration is broken down into the number of shares issued and a price per share."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share components are provided separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "The acquisition agreement included the issuance of 6,000,000 shares to Denison Mines. 'Under the terms of the Purchase Agreement... Skyharbour may acquire a 100% interest in the South Dufferin project in consideration for the issuance of 6,000,000 shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes 1,000,000 share purchase warrants, but no raw monetary value is assigned to them in the text. The terms are 'Each Warrant will entitle Denison to purchase one common share of Skyharbour for a period of two years at a price of $0.60 per share.'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were part of the acquisition consideration between Skyharbour and Denison."
+    },
+    "issued_share_price": {
+      "value": 0.32,
+      "justification": "The transaction terms mention the issuance of 6,000,000 shares but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.32'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned as part of the acquisition agreement between Skyharbour and Denison."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned as part of the acquisition agreement between Skyharbour and Denison. The exploration commitments mentioned in the text are part of a subsequent option agreement where Skyharbour is the seller."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions an existing '2% NSR on one of the claims', but this was not acquired or retained as part of the transaction's consideration."
+    },
+    "coverage_area_raw": {
+      "value": 13204,
+      "justification": "The most recent and complete area for the project is stated as 13,204 hectares, which includes the main property and an adjacent claim. 'The South Dufferin project totals 13,204 hectares in ten claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is specified as hectares. 'The South Dufferin project totals 13,204 hectares in ten claims...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the South Dufferin project. It mentions exploration potential and historical drill results for nearby properties, but no defined resource for the project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SYH",
+      "justification": "The buyer's ticker and exchange are provided in the press release header: 'Skyharbour Resources Ltd.(TSX-V: SYH)'."
+    }
+  }
+}

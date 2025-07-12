@@ -1,0 +1,64 @@
+--- Article Metadata ---
+Project Name: Abcourt-Barvue
+Company Name: Abcourt Mines Inc.
+Exchange: TSXV
+Ticker: ABI
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+7.9.2024, 4:00:00 AM
+
+# Abcourt Announces Full Exercise of Option Granted on an area in its Courville and Abcourt Barvue Properties
+
+ROUYN-NORANDA, Quebec, July 08, 2024 (GLOBE NEWSWIRE) -- **Abcourt Mines Inc. (“Abcourt” or the “Corporation”)****(TSX Venture  : ABI)** **(OTCQB: ABMBF)** is pleased to announce that LaFleur Minerals Inc. (formerly, Québec Pegmatite Holdings Corp.) (“**LaFleur** ”) has fully exercised its option to acquire 141 mineral claims covering 5,579 hectares located in the Province of Québec, Canada (the “**Property** ”).  
+
+
+As announced on June 17, 2024, Abcourt entered into an arm’s length Option Agreement (the “**Agreement** ”) with LaFleur pursuant to which Abcourt granted an option (the “**Option** ”) to acquire 100% of title and interest in the Property. In accordance with the terms and conditions of the Option Agreement, LaFleur:
+
+(A) paid Abcourt the initial cash payment of $500,000 on June 20, 2024, after which it acquired a 25% interest in the Property; and
+
+(B) elected to accelerate the completion of the outstanding payments totalling $1,500,000 and complete such payment through the issuance of common shares in the capital of LaFleur (the “**Shares** ”) to acquire the remaining 75% interest in the Property. As such, LaFleur issued 4,299,211 Shares to Abcourt with a deemed price of $0.3489 per Share.
+
+Following LaFleur’s exercise of the Option, Abcourt retains a 2% NSR royalty applicable to certain mining claims comprising the Property, and LaFleur assumes Abcourt's obligations regarding certain royalties currently in force on the Property.
+
+**_About Abcourt Mines Inc._**
+
+Mines Abcourt Inc. is a Canadian gold exploration company with properties strategically located in northwestern Quebec, Canada. Abcourt owns the 100%-owned Sleeping Giant factory and mine, where it concentrates its activities. The Sleeping Giant mine has a mining lease as well as environmental certificates of authorization to extract up to 750 tonnes per day from its underground mine.
+
+For more information about Abcourt Mines Inc., please visit our website and view our filings under Abcourt's profile on [www.sedarplus.ca](https://www.globenewswire.com/Tracker?data=6aTrSiFyRgCgdFhTkwXSGAgl8CeF4Bpq72oYDe-v6hBS3x41cx_XFo87STrUAP_kfW6J0cEHa9Zyx1iSTmrVlA== "www.sedarplus.ca")
+
+**Pascal Hamelin**| **Dany Cenac Robert, Investor Relations**  
+---|---  
+**President and CEO**| **Reseau ProMarket Inc.,**  
+T : (819) 768-2857| T : (514) 722-2276, ext. : 456  
+Email : [phamelin@abcourt.com](mailto:phamelin@abcourt.com "phamelin@abcourt.com")| Email : [_dany.cenac-robert@reseaupromarket.com_](mailto:dany.cenac-robert@reseaupromarket.com)  
+  
+_  
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+  
+
+
+### Project Name
+
+[Abcourt-Barvue Project](/?gid=6304)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.05            $  Chg: 0.005
+Open: 0.05            High: 0.05
+Bid: 0.045             Bid Size: 1653000
+Beta: 1.06869            Year High: 0.07
+Market Cap: 49.53m      PB Ratio: -12.93
+EPS: -0.02             Average Volume (30 Day): 260.64k
+Volume: 627.32k          % Chg: 11.11%
+Prev. Close: 0.045     Low: 0.045
+Ask: 0.05             Ask Size: 1087000
+VWAP: 0.04988            Year Low: 0.035
+Total Shares: 990.56m    Shares Out: 990.56m
+Float: 693.39m           Exchange: TSXV

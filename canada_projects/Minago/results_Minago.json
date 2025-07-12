@@ -1,0 +1,97 @@
+{
+  "source_files": [
+    "canada_projects/Minago/65707.txt",
+    "canada_projects/Minago/68968.txt",
+    "canada_projects/Minago/71764.txt",
+    "canada_projects/Minago/71821.txt",
+    "canada_projects/Minago/75522.txt",
+    "canada_projects/Minago/76273.txt",
+    "canada_projects/Minago/76945.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Minago",
+      "justification": "The documents consistently refer to the project being sold as the Minago Nickel project, for example: \"Flying Nickel Mining Corp. (TSXV: FLYN) (OTCQB: FLYNF) (\"Flying Nickel\") and Norway House Cree Nation (\"NHCN\") are pleased to announce that they have entered into a binding letter of intent dated July 21, 2024 (the \"Agreement\") pursuant to which Flying Nickel proposes to sell its Minago Nickel project...\""
+    },
+    "company_name": {
+      "value": "CleanTech Vanadium Mining Corp.",
+      "justification": "This is the new name for the seller, Flying Nickel Mining Corp., as stated in the authoritative metadata and confirmed in the text: \"...the proposed name change of the Company to 'CleanTech Vanadium Mining Corp.' (the \"Name Change\").\" The buyer is Norway House Cree Nation."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Norway House Cree Nation. No CEO or equivalent leader for this entity is mentioned in the provided documents. The CEO of the seller, Flying Nickel, is John Lee."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Flying Nickel is selling the entire project, which it fully owns. \"The Company owns a 100% interest in the Minago nickel project in the Thompson nickel belt in Manitoba, Canada.\" and \"...Flying Nickel proposes to sell its Minago Nickel project and its related assets...\""
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is consistently referred to as the \"Minago Nickel project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/228376",
+      "justification": "This article, dated October 30, 2024, announces the final closing of the sale of the Minago project to Norway House Cree Nation, which is the subject of this data extraction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The documents specify the currency: \"References to $ herein refer to the lawful currency of Canada.\""
+    },
+    "cash_payments_raw": {
+      "value": 8000000,
+      "justification": "The final deal terms state a cash consideration of $8,000,000: \"...NHCN has acquired, through the Purchaser, the Company's Minago Nickel Project located in Manitoba, Canada in consideration for $8,000,000 in cash...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The non-cash portion of the consideration was the surrender of 17,561,862 shares. However, the transaction documents do not assign a raw dollar value to this component. A closing price is mentioned separately but is not part of the consideration definition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment amount was provided, so this field is not applicable according to the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No new shares were issued by the buyer. The transaction involved the buyer surrendering shares of the seller that it already owned: \"...the surrender 17,561,862 common shares in the capital of the Company (\"Shares\") held by NHCN...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share warrant payments was found in the documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions \"the assumption of an existing option agreement by the Purchaser and NHCN\" but does not provide any monetary value for this component."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No new shares were issued as part of the transaction consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information regarding an exploration commitment in meters was found in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information regarding a monetary exploration commitment was found in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states there was an \"assumption of certain royalties by the Purchaser and NHCN\", but it does not specify the type or percentage of the royalty."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area was found in the documents."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area was found in the documents."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention \"mineral reserve and resource estimates\" in forward-looking statements but do not provide any quantified resource size (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Norway House Cree Nation, which is a First Nation community and not a publicly traded company, therefore it does not have a stock ticker or exchange listing."
+    }
+  }
+}

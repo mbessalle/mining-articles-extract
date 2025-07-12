@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Baldwin/49444.txt",
+    "canada_projects/Baldwin/49940.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Baldwin",
+      "justification": "The text states that EV Minerals will acquire the 'Baldwin and Lunge Projects'. The authoritative metadata confirms 'Baldwin' is the project of interest."
+    },
+    "company_name": {
+      "value": "EV Minerals Corporation",
+      "justification": "The buyer is identified as 'EV Minerals Corporation (CSE: EVM) (FSE: RLC) (the \"Company\" or \"EV Minerals\")'."
+    },
+    "ceo_buyer": {
+      "value": "Nicholas Konkin",
+      "justification": "The contact person for EV Minerals Corporation is listed as 'Nicholas Konkin President and CEO, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "the Company will acquire (the \"Acquisition\") 100% of the Baldwin and Lunge Projects (the \"Sudbury Projects\") from the Vendor."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The title of the press release is 'EV Minerals Enters into Definitive Agreement for Previously Announced Acquisition of Nickel Projects in Sudbury, Ontario'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/199108",
+      "justification": "The article, sourced from newsfilecorp.com, is titled 'EV Minerals Enters into Definitive Agreement for Previously Announced Acquisition of Nickel Projects in Sudbury, Ontario' and details the acquisition of the Baldwin project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration includes a payment in dollars ('$25,000') and the acquiring company, EV Minerals Corporation, is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 12500,
+      "justification": "The project's share is $12,500, calculated as half of the total $25,000 cash payment which was for two projects (Baldwin and Lunge). The text states: 'the Company made a one-time cash payment of $25,000 to the Vendor'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the number of shares and the price per share are explicitly provided and populated in their respective fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share payment details are available."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The project's share is 1,000,000 shares, calculated as half of the total 2,000,000 shares issued for two projects (Baldwin and Lunge). The text states: 'the Company shall issue the Vendor an aggregate of 2,000,000 common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information regarding option payments was found in the text."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "As partial consideration for the Sudbury Projects, the Company shall issue the Vendor an aggregate of 2,000,000 common shares (the \"Common Shares\") in the capital of the Company, at a deemed issuance price of $0.05 per Common Share."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information regarding an exploration commitment in meters was found in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information regarding a monetary exploration commitment was found in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The company assumed the obligations for an existing royalty on the projects acquired. 'The Company acknowledges that there is an existing 2% net smelter return royalty (\"NSR\") on the Sudbury Projects. Upon closing of the Acquisition, the Company will assume the Vendor's obligations of the NSR...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area was found in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area unit was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The resource mentioned in the text ('a historical resource of 5.585 million tonnes with grades of 0.21% Ni, 0.11% Cu and 0.03% Co') is explicitly stated to be for the 'EV Nickel Project', not the Baldwin project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:EVM",
+      "justification": "The buyer is identified in the text as 'EV Minerals Corporation (CSE: EVM) (FSE: RLC)'."
+    }
+  }
+}

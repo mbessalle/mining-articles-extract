@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Beaufor/49989.txt",
+    "canada_projects/Beaufor/51462.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beaufor",
+      "justification": "The article is titled 'Probe Gold Announces Acquisition of the Beaufor and McKenzie Break Properties in Val-d’Or, Quebec' and the project of interest is specified as Beaufor."
+    },
+    "company_name": {
+      "value": "Probe Gold Inc.",
+      "justification": "The buyer is identified in the text: 'PROBE GOLD INC. (TSX: PRB) (OTCQB: PROBF) (“Probe” or the “Company”) is pleased to announce that it has entered into a definitive purchase agreement (the “Agreement”) with Monarch Mining Corporation (“Monarch”), pursuant to which Probe has agreed to acquire a 100% interest in the McKenzie Break and Beaufor properties...'"
+    },
+    "ceo_buyer": {
+      "value": "David Palmer",
+      "justification": "The press release is signed 'On behalf of Probe Gold Inc., Dr. David Palmer, President & Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that 'Probe has agreed to acquire a 100% interest in the McKenzie Break and Beaufor properties'."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The text describes the asset as having a 'high-grade, measured and indicated gold resource'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Beaufor project acquisition, but a specific article URL is not available in the document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Probe Gold Inc., is listed on the Toronto Stock Exchange (TSX: PRB), and the consideration is denoted with a '$' symbol, implying Canadian Dollars (CAD). The detailed quote section also lists the exchange as TSX."
+    },
+    "cash_payments_raw": {
+      "value": 1550000,
+      "justification": "The project's share is $1,550,000, calculated as half of the total $3.1 million cash payment for the acquisition of both the Beaufor and McKenzie Break properties, as stated in the text: 'a cash payment of $3.1 million'."
+    },
+    "share_payments_raw": {
+      "value": 2700000,
+      "justification": "The project's share is $2,700,000, calculated as half of the total $5.4 million share consideration for the acquisition of both the Beaufor and McKenzie Break properties, as stated in the text: 'Probe issued 3,580,902 common shares (the “Consideration Shares”) for a total value of $5.4 million'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were provided, so this combined field is not applicable as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were provided and populated in their respective fields."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments were mentioned in the transaction details."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the transaction details."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were provided and populated in their respective fields."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states, 'We plan to commence exploration on both properties immediately after closing the acquisition,' but does not specify a monetary commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 6.9,
+      "justification": "The text states: 'The Beaufor property is immediately adjacent to the Company’s Novador project and consists of 23 claims covering 6.9 square kilometres.'"
+    },
+    "coverage_area_unit": {
+      "value": "square kilometres",
+      "justification": "The text states: 'The Beaufor property is immediately adjacent to the Company’s Novador project and consists of 23 claims covering 6.9 square kilometres.'"
+    },
+    "resource_size": {
+      "value": "219,200 ounces of gold at 5.3 g/t and inferred mineral resource of 122,500 ounces of gold at 4.7 g/t",
+      "justification": "The text states: 'The Beaufor property...currently hosts a high-grade, measured and indicated gold resource of 219,200 ounces of gold at 5.3 g/t and inferred mineral resource of 122,500 ounces of gold at 4.7 g/t.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:PRB",
+      "justification": "The buyer is identified in the text as 'PROBE GOLD INC. (TSX: PRB) (OTCQB: PROBF)'."
+    }
+  }
+}

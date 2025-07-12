@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Santana /98298.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Santana",
+      "justification": "The text announces an agreement to acquire mineral claim number 1097236, encompassing the area known as the former Santana mine (the \"Claim\" or \"Santana\")."
+    },
+    "company_name": {
+      "value": "Sasquatch Resources Corp.",
+      "justification": "The acquiring company is identified as: \"SASQUATCH RESOURCES CORP. (CSE: SASQ) (\"Sasquatch\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Peter Smith",
+      "justification": "The CEO is identified at the end of the press release: \"On Behalf of the Board of Directors Peter Smith Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The company is acquiring the mineral claim itself, which implies 100% interest in the claim, but no specific percentage is stated in the text. The text says the company will \"acquire mineral claim number 1097236\"."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text states, \"The Santana mine was previously mined for copper, silver and gold...\" and multiple photographs and descriptions mention copper, such as \"Close up of waste rock at Santana, copper oxidization evident.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/246853",
+      "justification": "The article is about Sasquatch Resources Corp. acquiring the Santana project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The share price is denoted with a '$' symbol and the acquiring company, Sasquatch Resources Corp., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with shares only. No cash payment is mentioned as part of the consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null because the number of shares and the price per share are explicitly provided, which are populated in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null because the payment is broken down into the number of shares and a price per share."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "Under the Agreement, to acquire the Claim the Company is obligated to issue an aggregate of 500,000 common shares of the Company (each, a \"Share\") to the Vendors."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The Shares will be issued a price of $0.05 per Share, representing a purchase price of $25,000."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration expenditure commitment is mentioned for the Santana project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of this transaction for the Santana project. An NSR is mentioned for a different project, Mount Sicker."
+    },
+    "coverage_area_raw": {
+      "value": 517.19,
+      "justification": "The agreement is to acquire mineral claim number 1097236... covering 517.19 hectares located on Quadra Island, British Columbia."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The agreement is to acquire mineral claim number 1097236... covering 517.19 hectares located on Quadra Island, British Columbia."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a current mineral resource estimate, stating that \"More details about Santana will be released once a Qualified Person under NI 43-101 has fully reviewed all of the available historical and more recent data respecting the Claim area.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SASQ",
+      "justification": "The company is identified in the first paragraph as \"SASQUATCH RESOURCES CORP. (CSE: SASQ)\"."
+    }
+  }
+}

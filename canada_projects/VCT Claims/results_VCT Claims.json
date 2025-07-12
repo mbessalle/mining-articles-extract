@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/VCT Claims/37230.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "VCT Claims",
+      "justification": "The article refers to the acquisition as the 'VCT options' and 'VCT claims'. The text states: 'The latest mineral property acquisitions named VCT options will be added to the Pontax 2 project' and a figure is captioned 'Newly acquired VCT claims – Pontax 2 property'."
+    },
+    "company_name": {
+      "value": "Stria Lithium Inc.",
+      "justification": "The buyer is identified in the first paragraph: 'Stria Lithium Inc. (“Stria” or the “Company”) (TSXV:SRA)... is pleased to announce it has successfully entered a definitive option agreement to acquire 100% ownership of mineral properties...'"
+    },
+    "ceo_buyer": {
+      "value": "Dean Hanisch",
+      "justification": "The CEO of the acquiring company is named in the text: 'Dean Hanisch, CEO of Stria Lithium, said today...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article states that Stria has an option to acquire full ownership: '...definitive option agreement to acquire 100% ownership of mineral properties...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The acquiring company's focus is explicitly stated: 'Stria Lithium Inc. ... an emerging resource exploration company developing Canadian lithium reserves...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency for the transaction is specified in the 'Transaction Details' section: 'Stria has purchased 24 adjacent claims as follows ($CAD):'"
+    },
+    "cash_payments_raw": {
+      "value": 65000,
+      "justification": "The total cash payment is the sum of two phases: 'Phase I: ... Payment of $25,000 ... On or before 18 months, at Stria’s option to proceed… Phase II: Payment of $40,000'. The sum is $25,000 + $40,000 = $65,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves issuing shares, but no explicit dollar value for these shares is provided in the deal terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article details cash and share components separately but does not provide a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 350000,
+      "justification": "The total number of shares to be issued is the sum of two tranches: 'Phase I: ... 100,000 common shares of Stria Inc. on closing ... Phase II: ... 250,000 common shares of Stria'. The sum is 100,000 + 250,000 = 350,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any share warrants as part of the payment."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', the payment consideration does not include stock options."
+    },
+    "issued_share_price": {
+      "value": 0.185,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.185'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not specify any exploration commitment in terms of meters of drilling for the VCT claims acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions an exploration commitment by Cygnus Metals for the 'Pontax Central Property', but not for the VCT claims acquisition by Stria."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "A royalty is retained by the seller as part of the transaction terms: 'Royalty of 1% with an option to buy back 50% for 200K'."
+    },
+    "coverage_area_raw": {
+      "value": 1276.5,
+      "justification": "The area of the acquired claims is specified in the text: 'The 24 claims, for 1276.5 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: 'The 24 claims, for 1276.5 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions a resource estimate for the nearby 'Allkem James Bay Lithium project' but does not provide any resource estimate for the acquired VCT claims."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SRA",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Stria Lithium Inc. (“Stria” or the “Company”) (TSXV:SRA)...'"
+    }
+  }
+}

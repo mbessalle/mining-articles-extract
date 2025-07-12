@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Plateau/52619.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Plateau",
+      "justification": "The text announces option agreements for two properties: \"the “Plateau Property” and “Ledge Property”\"."
+    },
+    "company_name": {
+      "value": "Inspiration Energy Corp.",
+      "justification": "The acquiring company is identified as: \"Inspiration Energy Corp. (the \"Company\" or \"Inspiration\") (CSE: ISP)\"."
+    },
+    "ceo_buyer": {
+      "value": "Charles Desjardins",
+      "justification": "The CEO of the buyer is identified as: \"Charles Desjardins. President and CEO of Inspiration\" and also at the bottom of the release: \"Charles Desjardins Chief Executive Officer, President, and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The company entered into an agreement \"to acquire a 70% undivided interest in two Uranium properties (the “Plateau Property” and “Ledge Property”)\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The announcement is for an option on \"two Uranium properties\" and highlights include \"Targeting basement-hosted and unconformity-associated Uranium mineralization.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the Plateau project, but a specific, stable URL for the article itself is not provided within the document body."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Inspiration Energy Corp., is listed on the Canadian Stock Exchange (CSE) and is based in Vancouver, British Columbia. The exploration commitments are denoted with a '$' symbol, which is inferred to be Canadian Dollars (CAD) based on the company's location and exchange."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The terms of the agreement involve the issuance of common shares and exploration expenditures. No cash payments are mentioned as part of the consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a specific number of shares and an exploration commitment, not a raw share value. This falls under Priority 2 of the financial extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a specific number of shares and an exploration commitment, not a combined cash and share value. This falls under Priority 2 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 2165114,
+      "justification": "For the Plateau Property specifically, the terms state: \"Issuing an aggregate of 2,165,114 Consideration Shares to Atha\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'Option Agreement', there are no cash payments for the options themselves mentioned in the terms. The consideration is shares and exploration expenditures."
+    },
+    "issued_share_price": {
+      "value": 0.205,
+      "justification": "The transaction terms state shares will be issued 'at the market price', but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.205'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3800000,
+      "justification": "The exploration expenditures for the Plateau Property are listed as: \"(i) $400,000 by September 1, 2024; (ii) an additional $400,000 by September 1, 2025; (iii) an additional $3,000,000 by September 1, 2028\". The sum is $3,800,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states the company can earn a 70% interest \"(subject to underlying 2.0% NSR royalties on each property agreed to by the parties)\". This indicates a 2.0% NSR is retained by the seller on the Plateau property."
+    },
+    "coverage_area_raw": {
+      "value": 27252,
+      "justification": "The text states: \"The Plateau Property, located in the southeast Athabasca Basin, consists of 9 mineral dispositions totalling 27,252ha\"."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: \"The Plateau Property, located in the southeast Athabasca Basin, consists of 9 mineral dispositions totalling 27,252ha\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions mineral occurrences and sample results (e.g., \"3% U outcrop samples\") but does not provide a formal mineral resource estimate with tonnage or volume for the Plateau project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ISP",
+      "justification": "The buyer is identified in the first paragraph as \"Inspiration Energy Corp. (the \"Company\" or \"Inspiration\") (CSE: ISP)\"."
+    }
+  }
+}

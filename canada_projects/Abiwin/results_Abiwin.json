@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Abiwin/52208.txt",
+    "canada_projects/Abiwin/53359.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Abiwin",
+      "justification": "The press release is titled 'Usha Resources Expands Strike of the White Willow Project to 44 Kilometres, Acquires Abiwin Pegmatite Group' and refers to 'the Abiwin lithium pegmatite property (the \"Property\")'."
+    },
+    "company_name": {
+      "value": "Usha Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Usha Resources Ltd. (\"USHA\" or the \"Company\") (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0)'."
+    },
+    "ceo_buyer": {
+      "value": "Deepak Varshney",
+      "justification": "The text includes a quote from 'Deepak Varshney, CEO of Usha Resources'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has executed an option (the \"Option Agreement\") for the right to purchase an undivided 100% interest in the Abiwin lithium pegmatite property (the \"Property\")."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is referred to as the 'Abiwin lithium pegmatite property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/853884/usha-resources-expands-strike-of-the-white-willow-project-to-44-kilometres-acquires-abiwin-pegmatite-group",
+      "justification": "The article is a press release from Usha Resources Ltd. detailing the acquisition of the Abiwin property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the acquiring company, Usha Resources Ltd., trades on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "Pursuant to the Option Agreement, the Company may acquire a 100% interest in the Property by paying the Vendors a total of $100,000... The payment table confirms the total cash consideration: 'Total $100,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement is structured with a number of shares and a cash component, not a specified value for the shares. The text states shares are 'to be issued at a deemed value based on the Discounted Market Price at the time of issuance', which is not a fixed value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "A clarification in the second document states: 'The Company also wishes to clarify that an aggregate of 1,000,000 Shares will be payable by the Company to the Vendors in accordance with the terms of the Option Agreement.' This corrects the payment table in the first document which also sums to 1,000,000 shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement to acquire the property, but there are no payments in the form of stock options mentioned in the terms."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms do not specify a fixed price per share, stating they are 'to be issued at a deemed value based on the Discounted Market Price at the time of issuance'. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not specify any monetary exploration commitment for the Abiwin property."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The text states: 'The Company has granted a 2% net-smelter returns royalty (the \"NSR\") to the Vendor.' This represents an NSR retained by the seller as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the property comprises '38 mineral claims' but does not provide a total area in hectares or square kilometers. The mention of 'almost 22,000 hectares' refers to the entire district controlled by Usha, not specifically the Abiwin acquisition."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states: 'The Company is presently an exploration stage company. ... Furthermore, the Company currently has no reserves on any of its properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:USHA",
+      "justification": "The company is identified as 'Usha Resources Ltd. (\"USHA\" or the \"Company\") (TSXV:USHA)...'. The detailed quote section also confirms 'Exchange: TSXV'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/N2/84305.txt",
+    "canada_projects/N2/84314.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "N2",
+      "justification": "Wallbridge Announces Option Agreement to Sell 100% Interest of Non-Core N2 Property to Formation Metals"
+    },
+    "company_name": {
+      "value": "Wallbridge Mining Company Ltd",
+      "justification": "Wallbridge Mining Company Limited (TSX:WM, OTCQB:WLBMF) (“Wallbridge” or the “Company”) is pleased to announce that it has entered into an option agreement (the “Option Agreement”) with Formation Metals Inc. (CSE:FOMO) (“Formation”)"
+    },
+    "ceo_buyer": {
+      "value": "Deepak Varshney",
+      "justification": "stated CEO Deepak Varshney."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "granting Formation an option to acquire a one hundred percent (100%) ownership interest in and to the Company’s N2 property (the “Property”)"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The N2 property hosts two historical non 43-101 compliant resources: 18.2 Mt grading 1.48 g/t Au (~810,000 oz Au) across four zones (A, East, RJ-East, and Central) and 243 Kt grading 7.82 g/t Au (~65,000 oz Au) across the RJ zone"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Pursuant to the Option Agreement, and subject to the approval of the Canadian Securities Exchange, Formation may acquire a 100% interest in the Property by making payments totaling $550,000 in cash... The companies involved are listed on Canadian exchanges (TSX, CSE) and the project is in Quebec, implying the currency is CAD."
+    },
+    "cash_payments_raw": {
+      "value": 550000,
+      "justification": "Formation may acquire a 100% interest in the Property by making payments totaling $550,000 in cash..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into cash payments, share issuances, and work commitments. A dollar value for the share component is not provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately, not as a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "issuing an aggregate of 4,000,000 common shares in the capital of the Formation to Wallbridge"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option agreement, there are no payments for options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": 0.39,
+      "justification": "The transaction terms mention the number of shares issued (4,000,000), but not the price. Using the last traded price for the buyer (Formation Metals Inc.) as a fallback, as seen in the detailed quote: 'Last: 0.39'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "completing $5,000,000 of work expenditures as indicated in the table below"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 4400,
+      "justification": "The N2 property comprises 87 claims that cover ~4,400 ha of land within the Abitibi subprovince of Northwestern Quebec."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The N2 property comprises 87 claims that cover ~4,400 ha of land within the Abitibi subprovince of Northwestern Quebec."
+    },
+    "resource_size": {
+      "value": "18.2 Mt grading 1.48 g/t Au (~810,000 oz Au) across four zones (A, East, RJ-East, and Central) and 243 Kt grading 7.82 g/t Au (~65,000 oz Au) across the RJ zone",
+      "justification": "The N2 property hosts two historical non 43-101 compliant resources: 18.2 Mt grading 1.48 g/t Au (~810,000 oz Au) across four zones (A, East, RJ-East, and Central) and 243 Kt grading 7.82 g/t Au (~65,000 oz Au) across the RJ zone[1]."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FOMO",
+      "justification": "Wallbridge Mining Company Limited (TSX:WM, OTCQB:WLBMF) (“Wallbridge” or the “Company”) is pleased to announce that it has entered into an option agreement (the “Option Agreement”) with Formation Metals Inc. (CSE:FOMO) (“Formation”)"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Strathy/54977.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Strathy Gold Project",
+      "justification": "The text is titled: 'Solstice Announces Acquisition of the Strathy Gold Project in the Abitibi Subprovince, Northeast Ontario'. It is also referred to as 'The Strathy Gold Project (“the Project”, or ”SGP”)'."
+    },
+    "company_name": {
+      "value": "Solstice Gold Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'VANCOUVER, British Columbia, June 03, 2024 (GLOBE NEWSWIRE) -- Solstice Gold Corp. (TSXV: SGC) (“Solstice”, “we”, “our” or the “Company”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Pablo McDonald",
+      "justification": "The text states: 'Pablo McDonald, Solstice CEO stated, “Over the course of the last several months our technical team’s diligent work led us to acquire this highly prospective land package in the Abitibi Subprovince.”'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company entered into an option agreement 'to purchase the Option to acquire the Optionors’ 100% interest in the Strathy Gold Project.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Strathy Gold Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denominated in '$' and the acquiring company, Solstice Gold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 105000,
+      "justification": "The total cash payment is the sum of an initial $20,000 payment, a $25,000 payment on the first anniversary, a $25,000 payment on the second anniversary, and a $35,000 payment on the third anniversary. 'Solstice must pay $20,000 in cash... a payment of $25,000 cash by the first anniversary... a payment of $25,000 cash by the second anniversary... a payment of $35,000 cash by the third anniversary.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into cash and a number of shares. Per the extraction hierarchy, since the number of shares and a price per share can be determined, this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 750000,
+      "justification": "The option agreement terms state that Solstice must 'issue 750,000 common shares and as soon as practicable after TSX Venture Exchange (“TSXV”) approval, to the Optionors.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the consideration for the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions stock options, but they are related to a CFO's compensation from a prior announcement and are not part of the consideration for the Strathy Gold Project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the issuance of 750,000 shares but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines plans for future exploration but does not specify a required exploration expenditure as part of the option agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the sellers retain a royalty. 'The Optionors will retain a 2% NSR on the remaining claims, of which 1% is buyable for $1,000,000.' A separate 1% NSR is retained on six specific claims."
+    },
+    "coverage_area_raw": {
+      "value": 41,
+      "justification": "The article states: 'The Strathy Gold Project (“the Project”, or ”SGP”) consists of 45 claims (~41 km2)...'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The article states: 'The Strathy Gold Project (“the Project”, or ”SGP”) consists of 45 claims (~41 km2)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate (e.g., tonnes, ounces). It mentions historical drill intercepts and surface samples, and states the project 'has not been systemically explored in the past,' implying no formal resource has been calculated."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGC",
+      "justification": "The buyer is identified as 'Solstice Gold Corp. (TSXV: SGC)' in the first paragraph of the press release."
+    }
+  }
+}

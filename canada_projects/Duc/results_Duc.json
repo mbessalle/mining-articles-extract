@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Duc/96866.txt",
+    "canada_projects/Duc/96871.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Duc",
+      "justification": "The project is identified in the text as the 'Duc Project'. This is consistent with the authoritative name."
+    },
+    "company_name": {
+      "value": "Riverside Resources Inc.",
+      "justification": "The article title \"Riverside Resources Outlines Corporate Outlook for 2020\" and the authoritative metadata identify the company as Riverside Resources Inc."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "No CEO is mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The provided text does not mention any acquisition of interest or a transaction."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "A headline mentions a \"Copper Discovery\" in the context of an agreement with BHP, but it is not explicitly linked to the Duc Project. Therefore, the primary commodity cannot be confirmed."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No URL was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction details are provided in the text, so no currency can be identified."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment details are provided in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment details are provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment details are provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No share issuance details are provided in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrant payment details are provided in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payment details are provided in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price related to a transaction is mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an \"Exploration Funding Agreement\" but does not provide any specific monetary value for the commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned in the text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the project in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area unit is mentioned for the project in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RRI",
+      "justification": "The authoritative metadata identifies the company as Riverside Resources Inc. (RRI) and the exchange as TSXV. The text confirms the exchange in the detailed quote section: 'Exchange: TSXV'."
+    }
+  }
+}

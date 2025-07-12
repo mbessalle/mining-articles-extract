@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Radis/28755.txt",
+    "canada_projects/Radis/30021.txt",
+    "canada_projects/Radis/32211.txt",
+    "canada_projects/Radis/32790.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Radis",
+      "justification": "The primary project is identified in multiple articles, for example: \"Ophir Gold Corp. is pleased to announce it has entered into an Option (the \"Agreement\") with Eastmain Resources Inc. ... to acquire a 100% interest in the Radis Property (the \"Property\")\"."
+    },
+    "company_name": {
+      "value": "Ophir Metals Corp.",
+      "justification": "The acquiring company is identified as \"Ophir Gold Corp. (TSXV: OPHR)\". A news headline indicates a name change: \"Ophir Gold Corp. Name Change to Ophir Metals Corp.\" The authoritative metadata confirms \"Ophir Metals Corp.\"."
+    },
+    "ceo_buyer": {
+      "value": "Shawn Westcott",
+      "justification": "The CEO is listed at the end of the press releases: \"Shawn Westcott, CEO Phone 1 (604) 365 6681\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is acquiring a 100% interest through two agreements. The first is to \"acquire a 100% interest in the Radis Property\". The second is to \"acquire a 100% interest in the Claims\" which are contiguous to the Radis property."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The announcement is titled \"Ophir Gold Corp. Acquires Lithium Property with Historically Mapped Lithium Pegmatite, James Bay Region, Quebec\" and later refers to the \"Radis Lithium Property\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/147493",
+      "justification": "The article at this link is titled \"Ophir Gold Corp. Acquires Lithium Property with Historically Mapped Lithium Pegmatite, James Bay Region, Quebec\" and details the option agreement for the Radis Property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration table in the first agreement specifies the currency: \"Cash Consideration (CDN$)\"."
+    },
+    "cash_payments_raw": {
+      "value": 375000,
+      "justification": "The total cash consideration for the main property option is listed in a table: \"TOTAL | $375,000\". A second transaction for contiguous claims involved only shares."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, `amount_of_shares_issued` is populated, so this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, cash and share components are listed separately, so this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 5225000,
+      "justification": "This is the sum of two transactions for the Radis project. The first is for 5,000,000 shares (\"TOTAL... 5,000,000\") and the second is for 225,000 shares for contiguous claims (\"in consideration for the issuance of 225,000 common shares of the Company to the Vendor\")."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the company granted stock options to directors, these were not part of the property acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.055,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.055'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction agreements."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the transaction agreements."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Both transactions involve the seller retaining a 2% NSR. For the main property: \"The Optionor shall retain a 2% Net Smelter Royalty (\"NSR\") on the property\". For the contiguous claims: \"the Vendor shall retain a 2% Net Smelter Royalty (\"NSR\") on the Claims\"."
+    },
+    "coverage_area_raw": {
+      "value": 7850.3,
+      "justification": "The first article states: \"The Property consists of 152 claims totaling 7,850.3 ha\". The area for the additional three claims acquired later was not specified."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The first article states: \"The Property consists of 152 claims totaling 7,850.3 ha\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Radis property. It mentions occurrences on an adjacent property but cautions that these \"may not necessarily be indicative to the presence of mineralization on the Company's properties (i.e. Radis).\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:OPHR",
+      "justification": "The buyer's ticker and exchange are listed in the first line of the press releases: \"Ophir Gold Corp. (TSXV: OPHR)\"."
+    }
+  }
+}

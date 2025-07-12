@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Shatford Lake/46171.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Shatford Lake",
+      "justification": "The text identifies the components of the overall acquisition, stating: \"The project (the \"Shatford Lithium Project\") consists of the following mineral claims: Shatford Lake: 21 claims totalling 8,883 acres (3,595 hectares)\"."
+    },
+    "company_name": {
+      "value": "Snow Lake Resources Ltd.",
+      "justification": "The buyer is identified in the first sentence: \"Snow Lake Resources Ltd., d/b/a Snow Lake Lithium™ (NASDAQ: LITM) ('Snow Lake' or the 'Company') is pleased to announce that it has entered into a binding letter of intent ('LOI') with ACME Lithium Ltd. ('ACME Lithium') to acquire a 90% undivided interest...\""
+    },
+    "ceo_buyer": {
+      "value": "Frank Wheatley",
+      "justification": "\"...commented Frank Wheatley, CEO of Snow Lake.\""
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "The agreement outlines a multi-stage option to acquire a total of 90%: \"ACME Lithium will grant Snow Lake the option (the 'Option') to earn up to a 90% undivided interest in the Shatford Lithium Project...\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the article is \"Snow Lake Expands Its Lithium Portfolio with Mineral Claims Next to the Tanco Mine\". The project is also referred to as the \"Shatford Lithium Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/191728",
+      "justification": "The source URL is provided at the end of the article: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/191728\""
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "All financial figures in the agreement terms are explicitly denoted in Canadian dollars, for example: \"payment of CAD$20,000 upon signing the LOI\"."
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The total cash consideration is CAD$500,000, derived from summing all cash payments mentioned in the agreement terms: CAD$20,000 (LOI signing), CAD$130,000 (Option Agreement signing), CAD$150,000 (first anniversary), and CAD$200,000 (second anniversary)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the document do not mention any payment in the form of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payments are itemized separately, and there are no share payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not involve the issuance of any shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option agreement, there are no payments specified as being for options themselves, only cash payments and exploration commitments to earn the interest."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 600000,
+      "justification": "The project's share is CAD$600,000, calculated as one-third of the total CAD$1,800,000 (CAD$600,000 + CAD$1,200,000) exploration commitment for the entire Shatford Lithium Project, which comprises three sub-projects (Shatford Lake, Birse Lake, Cat-Euclid). The text states: 'incurring exploration expenditures of a minimum of CAD$600,000 on the Shatford Lithium Project' and 'incurring additional exploration expenditures of a minimum of CAD$1,200,000 on the Shatford Lithium Project'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The property being acquired is subject to a pre-existing royalty: \"The Euclid-Cat Lake and Shatford Lake mineral claims are subject to a 2% gross overriding royalty on lithium or other metals in favour of Lithium Royalty Corporation.\""
+    },
+    "coverage_area_raw": {
+      "value": 3595,
+      "justification": "The text provides a specific area for the Shatford Lake claims: \"Shatford Lake: 21 claims totalling 8,883 acres (3,595 hectares)\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the project description: \"Shatford Lake: 21 claims totalling 8,883 acres (3,595 hectares)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource of '8.2 million metric tonnes measured, indicated and inferred resource', but this is explicitly for the separate 'Snow Lake Lithium™ Project', not the Shatford Lake project being acquired in this transaction."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:LITM",
+      "justification": "The buyer's ticker and exchange are stated in the first paragraph: \"Snow Lake Resources Ltd., d/b/a Snow Lake Lithium™ (NASDAQ: LITM)...\""
+    }
+  }
+}

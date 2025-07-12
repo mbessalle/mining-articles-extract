@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/WEAS/53586.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "WEAS",
+      "justification": "The article is titled 'Onyx Gold Announces Acquisition of Strategic WEAS Property in the Yukon'."
+    },
+    "company_name": {
+      "value": "Onyx Gold Corp.",
+      "justification": "The acquiring company is identified as 'Onyx Gold Corp. (TSXV: ONYX) ('Onyx Gold' or the 'Company')'."
+    },
+    "ceo_buyer": {
+      "value": "Brock Colterjohn",
+      "justification": "The article quotes Brock Colterjohn and identifies him as 'President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the Agreement, the Company can acquire 100% of the WEAS Property..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the property as a 'prospective reduced intrusion-related gold target' and mentions historical results including '1.0 grams per tonne ('g/t') gold ('Au')'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/208544",
+      "justification": "The article is titled 'Onyx Gold Announces Acquisition of Strategic WEAS Property in the Yukon' and details the acquisition of the WEAS project by Onyx Gold Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company is based in Vancouver, British Columbia, and the transaction is subject to approval by the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The bonus payment is denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "A conditional cash payment is part of the overall obligations: 'The Property is subject to an underlying obligation to a third party consisting of a 1.0% NSR and bonus payment of $1,000,000 (the 'Bonus Payment'), payable by the Optionee if a measured or indicated mineral resource of greater than 1 million ounces of gold is disclosed...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is primarily in shares, but no explicit dollar value is provided for the share component. The payment terms are defined by the number of shares and a price per share can be inferred, thus `amount_of_shares_issued` and `issued_share_price` are populated instead, per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into share and conditional cash components, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "Under the terms of the Agreement, the Company can acquire 100% of the WEAS Property by providing the Optionor a total of 3,000,000 common shares of Onyx..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', there are no cash payments for the options themselves; the consideration is in shares."
+    },
+    "issued_share_price": {
+      "value": 2.17,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 2.17'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned work program but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a planned 'early summer work program' but does not state a specific monetary exploration commitment for the WEAS property."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The transaction terms include granting a royalty to the seller: 'upon the exercise of the Option, the Optionee will enter into an agreement granting a 1% NSR royalty on the Property to the Optionor.'"
+    },
+    "coverage_area_raw": {
+      "value": 627,
+      "justification": "The text states, 'The 627-hectare ('ha') land package comprising the Property is located within the King Tut Property'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states, 'The 627-hectare ('ha') land package comprising the Property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No current mineral resource is stated. A bonus payment is conditional upon a future resource being defined: 'payable by the Optionee if a measured or indicated mineral resource of greater than 1 million ounces of gold is disclosed', implying no such resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ONYX",
+      "justification": "The buyer is identified in the text as 'Onyx Gold Corp. (TSXV: ONYX)'."
+    }
+  }
+}

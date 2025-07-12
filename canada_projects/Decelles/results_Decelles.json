@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Decelles/39830.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Decelles",
+      "justification": "The text announces an agreement for Power Metals Corp. to acquire a 100% interest in 'Winsome's Decelles and Mazerac projects located in Quebec.'"
+    },
+    "company_name": {
+      "value": "Power Metals Corp.",
+      "justification": "The buyer is identified in the first sentence: 'Power Metals Corp. (\"Power Metals\" or the \"Company\") (TSX VENTURE: PWM) (FRANKFURT: OAA1) (OTCQB: PWRMF) is pleased to announce that it has entered into an agreement with Winsome Resources Limited (\"Winsome\")(ASX:WR1) to acquire...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article does not name a CEO for the buyer, Power Metals Corp. The person quoted and signing the release is 'Johnathan More, Chairman & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Power Metals will acquire a 100% interest in Winsome's Decelles and Mazerac projects located in Quebec...'"
+    },
+    "primary_commodity": {
+      "value": "lithium",
+      "justification": "The properties are described as 'prolific lithium properties in Quebec'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No URL for the article was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Power Metals Corp., is listed on the TSX Venture Exchange (TSXV:PWM), and the detailed quote section lists the exchange as TSXV, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms state the consideration is entirely in shares, with no mention of a cash component."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, this field is null because the consideration is broken down into the number of shares and a price per share in the fields `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, this field is null because the consideration is broken down into the number of shares and a price per share."
+    },
+    "amount_of_shares_issued": {
+      "value": 8825000,
+      "justification": "The consideration for the Decelles project is 8,825,000 shares, calculated as half of the total 17,650,000 shares issued for the acquisition of both the Decelles and Mazerac projects. The text states: 'Power Metals will acquire a 100% interest in Winsome's Decelles and Mazerac projects located in Quebec in consideration for the issuance of 17,650,000 common shares to Winsome.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.83,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.83'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While the text mentions that 'The terms will ensure ongoing exploration on the Decelles and Mazérac licences in the shorter term', it does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 38404,
+      "justification": "The text provides a specific area for the project: 'The Decelles project area covers 38,404 ha...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text provides the unit for the project area: 'The Decelles project area covers 38,404 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text does not contain a quantified mineral resource estimate for the Decelles project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PWM",
+      "justification": "The buyer is identified as 'Power Metals Corp. (\"Power Metals\" or the \"Company\") (TSX VENTURE: PWM)'."
+    }
+  }
+}

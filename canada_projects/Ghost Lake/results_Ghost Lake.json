@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Ghost Lake/75230.txt",
+    "canada_projects/Ghost Lake/78802.txt",
+    "canada_projects/Ghost Lake/92253.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ghost Lake",
+      "justification": "it has entered into a definitive option agreement (the \"Option Agreement\") dated November 14, 2024 with Cronin Exploration Inc. (\"Cronin\") for the acquisition of up to 100% of Cronin's right, title and interest in and to certain mineral claims commonly know as the Ghost Lake claims located in the Province of Newfoundland and Labrador (the \"Ghost Lake Property\" or \"Property\")."
+    },
+    "company_name": {
+      "value": "Dark Star Minerals Inc.",
+      "justification": "DARK STAR MINERALS INC. (CSE: BATT) (the \"Company\" or \"Dark Star\") is pleased to announce that, further to the Company's news release dated July 3, 2024, it has renegotiated the terms of its previously announced transaction with Cronin Exploration Inc."
+    },
+    "ceo_buyer": {
+      "value": "Marc Branson",
+      "justification": "Marc Branson, President, Chief Executive Officer and a director of Dark Star state:..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "the Company has been granted to option (the \"Option\") to acquire up to 100% of Cronin's right, title and interest in and to the mineral claims comprising the Ghost Lake Property."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Dark Star Announces Renegotiated Terms for Acquisition of Uranium Assets Located in the Central Mineral Belt of Newfoundland and Labrador"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/245855",
+      "justification": "The latest article, dated March 25, 2025, confirms the amended terms of the acquisition of the Ghost Lake project by Dark Star Minerals Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the acquiring company is listed on the Canadian Securities Exchange, implying Canadian Dollars. 'All proposed securities issuances of Dark Star are subject to prior approval of the Canadian Securities Exchange (\"CSE\").' and 'aggregate cash payments of $275,000'."
+    },
+    "cash_payments_raw": {
+      "value": 275000,
+      "justification": "Pursuant to the Amendment, the option (the \"Option\") to acquire the Ghost Lake Property can be exercised by Dark Star on or prior to the fourth anniversary the non-binding letter of intent (the \"LOI\") dated October 16, 2024 by making: aggregate cash payments of $275,000"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with separate cash payments and share issuances, not a value of shares. Therefore, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash payments and share issuances are provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 10150000,
+      "justification": "The latest amendment states the terms include: 'issuing an aggregate of 10,150,000 common shares (each, a \"Share\")'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the payment consideration."
+    },
+    "issued_share_price": {
+      "value": 0.055,
+      "justification": "The transaction terms mention the number of shares issued (10,150,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.055'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2900000,
+      "justification": "The latest amendment states the terms include: 'incurring an aggregate of $2,900,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "Concurrently with the exercise of the Option, the LOI contemplates that Dark Star will grant to Cronin a 2.5% net smelter return royalty (the \"Royalty\") with respect to production of all metals from the Property..."
+    },
+    "coverage_area_raw": {
+      "value": 28575,
+      "justification": "Located in the prolific Central Mineral Belt (\"CMB\") of Labrador, the Ghost Lake Property consists of 28,575 ha of contiguous claim blocks."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "Located in the prolific Central Mineral Belt (\"CMB\") of Labrador, the Ghost Lake Property consists of 28,575 ha of contiguous claim blocks."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes radiometric anomalies and deposits on adjacent properties but provides no quantified mineral resource for the Ghost Lake Property itself. It explicitly states: 'Investors are cautioned that mineral deposits on adjacent properties are not indicative of mineral deposits on the Ghost Lake Property.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:BATT",
+      "justification": "DARK STAR MINERALS INC. (CSE: BATT) (the \"Company\" or \"Dark Star\")"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Bonanza/35855.txt",
+    "canada_projects/Bonanza/36226.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bonanza",
+      "justification": "The Property encompasses the historical Bonanza Pit copper, gold, silver, zinc and magnetite skarn prospect, which has been subject to intermittent exploration over the years since its discovery in 1959. The three properties are the same claims that formed HAWKEYE’s original Bonanza property."
+    },
+    "company_name": {
+      "value": "HAWKEYE Gold & Diamond Inc.",
+      "justification": "HAWKEYE Gold & Diamond Inc. (the “Company” or \"HAWKEYE\") (TSX.V-HAWK) (Frankfurt:HGT) (WKN:A12A61) (ISIN: CA42016R4017): announc[]()es that is has received TSX Venture Exchange (TSX.V) acceptance for a Sale and Purchase Agreement..."
+    },
+    "ceo_buyer": {
+      "value": "Greg Neeld",
+      "justification": "HAWKEYE GOLD & DIAMOND INC. Per: “Greg Neeld” President & CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Upon purchase of the Property under the terms as described directly hereunder the Company will own a 100% interest in the Property..."
+    },
+    "primary_commodity": {
+      "value": "copper, gold, silver, zinc and magnetite",
+      "justification": "The Property encompasses the historical Bonanza Pit copper, gold, silver, zinc and magnetite skarn prospect..."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the detailed quote uses a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was paid for with shares, not cash, as per the financial data extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 150000,
+      "justification": "HAWKEYE may purchase the Property by issuing the arm’s length vendor a total of 150,000 shares in the capital of the Company upon the Property being transferred to the Company."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The source text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction does not involve acquiring or retaining a royalty; the text states 'no net smelter return royalty will be retained by the vendor.'"
+    },
+    "coverage_area_raw": {
+      "value": 227.02,
+      "justification": "The 227.02-hectare Property is located approximately 110 kilometres northwest of Campbell River and 69 kilometres southeast of Port Hardy."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The 227.02-hectare Property is located approximately 110 kilometres northwest of Campbell River and 69 kilometres southeast of Port Hardy."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the property as a 'prospect' and does not provide a quantified mineral resource statement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HAWK",
+      "justification": "HAWKEYE Gold & Diamond Inc. (the “Company” or \"HAWKEYE\") (TSX.V-HAWK)"
+    }
+  }
+}

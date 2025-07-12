@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Northman/33762.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Northman",
+      "justification": "The text states: 'The Northman Lithium project is the Company’s third property acquisition of 2023.' and 'KEY HIGHLIGHTS OF THE NORTHMAN LITHIUM PROJECT'."
+    },
+    "company_name": {
+      "value": "New Age Metals Inc.",
+      "justification": "The acquiring company is identified as 'New Age Metals Inc. (TSXV:NAM); (OTC:NMTLF); (FSE:P7J2) (“NAM” or “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Harry G. Barr",
+      "justification": "The document is signed off by '“Harry Barr” Harry G. Barr Chairman and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states 'All the claims are held by Lithium Canada Development, a 100% owned Lithium Division of New Age Metals.' and refers to it as one of 'three recent 100% owned project acquisitions'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named 'The Northman Lithium project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.thenewswire.com/news-releases/new-age-metals-lithium-division-expands-land-holdings-to-74-448-hectares-with-the-addition-of-a-new-project-at-red-cross-lake-manitoba-1j2g24g24",
+      "justification": "The article is titled 'New Age Metal's Lithium Division Expands Land Holdings... with the Addition of a New Project at Red Cross Lake, Manitoba' and the body confirms 'The Northman Lithium project is the Company’s third property acquisition of 2023.' The provided link in the text is a redirect; a direct link to the article has been used for verification."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, New Age Metals Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying Canadian Dollars (CAD). The detailed quote section uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes a 'procurement' of mineral exploration licenses, not a purchase from another company. No cash consideration is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any payment in shares for the procurement of the project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment for the procurement of the project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions a budget for the entire Manitoba Lithium Division ('The 2023/24 budget for our Manitoba Lithium Division has been submitted to MRL...'), but does not specify a commitment for the Northman project alone."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 30668,
+      "justification": "The text states, 'New Age Metals Inc. ... is pleased to announce the procurement of 30, 668 hectares of mineral exploration license (MEL) area around Red Cross Lake, Manitoba. The Northman Lithium project is the Company’s third property acquisition of 2023.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit as hectares: '...procurement of 30, 668 hectares of mineral exploration license (MEL) area...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical assays such as 'up to 1.25% Li2O' and 'up to 2.97% LiO', but these are from grab samples and do not constitute a formal mineral resource estimate with tonnage or volume."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NAM",
+      "justification": "The text identifies the company as 'New Age Metals Inc. (TSXV:NAM); (OTC:NMTLF); (FSE:P7J2) (“NAM” or “Company”)'."
+    }
+  }
+}

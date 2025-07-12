@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Corvette North/30439.txt",
+    "canada_projects/Corvette North/34097.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Corvette North",
+      "justification": "The authoritative project name is 'Corvette North'. The article confirms the acquisition of the property, referring to it as 'Corvette Lake North': 'MAX Power has purchased a 100% interest in two under-explored large claim blocks (Corvette Lake North and Corvette Lake South)...'"
+    },
+    "company_name": {
+      "value": "Max Power Mining Corp.",
+      "justification": "The buyer is identified in the first sentence of the article: 'MAX Power Mining Corp. (CSE: MAXX) (“MAX Power” or the “Company”) has launched a North American-focused lithium strategy...'"
+    },
+    "ceo_buyer": {
+      "value": "Rav Mlait",
+      "justification": "The CEO of the buyer, Max Power, is identified in the article: 'Mr. Rav Mlait, MAX Power CEO, commented: \"This important acquisition on favorable terms is a first major step for MAX Power...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The article states that Max Power acquired a 100% interest in the properties: 'MAX Power has purchased a 100% interest in two under-explored large claim blocks (Corvette Lake North and Corvette Lake South)...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the article clearly states the commodity of interest: 'MAX Power Acquires Lithium Properties in James Bay District Corvette Camp'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text contains two articles. The first, dated Jan. 26, 2023, correctly describes the acquisition of the Corvette North and South properties. The second, dated April 21, 2023, describes the acquisition of a different project, the 'Spark' property. No verifiable URL is provided in the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred as CAD from the buyer's listing on the Canadian Securities Exchange (CSE) and the use of the '$' symbol for the warrant exercise price: 'The Consideration Warrants will be exercisable at $0.85...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The deal terms for the Corvette North acquisition do not mention any cash payments. The consideration was in shares and warrants only."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The deal terms are structured as a number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal terms are structured as a number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "The deal terms state the number of shares issued as consideration: 'The Company entered into a purchase and sale agreement (“Agreement”) for 100% of 189 mineral claims from Canadian Li Inc. (the “Vendor”) for consideration of 3,500,000 common shares (the “Consideration Shares”) of the Company...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": 1000000,
+      "justification": "The deal terms include the issuance of warrants: '...and issue 1,000,000 warrants (“Consideration Warrants”).'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The second article mentions a stock option grant, but this is for directors and officers related to a different timeframe and is not part of the acquisition consideration for the Corvette North project."
+    },
+    "issued_share_price": {
+      "value": 0.21,
+      "justification": "The transaction terms mention 3,500,000 shares being issued but do not state a price. Using the last traded price from the 'Detailed Quote' section as a fallback, as per the rules: 'Last: 0.21'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the deal terms for the Corvette North acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the deal terms for the Corvette North acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "An NSR is mentioned in the second article, but it is in relation to the 'Spark' property acquisition, not the Corvette North acquisition."
+    },
+    "coverage_area_raw": {
+      "value": 4854.5,
+      "justification": "The value is calculated as half of the total area acquired, as the area is for two properties (Corvette Lake North and Corvette Lake South). The total area is stated as: 'A large prospective area spanning 9,709 hectares'. Calculation: 9709 / 2 = 4854.5."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned: 'A large prospective area spanning 9,709 hectares over 189 mineral claims;'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The property is described as 'under-explored' and the text only mentions 'pegmatite occurrences', not a quantified mineral resource. Therefore, no resource size can be extracted."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MAXX",
+      "justification": "The buyer's name is followed by its ticker and exchange in the first sentence of the article: 'MAX Power Mining Corp. (CSE: MAXX)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Love Lake/92688.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Love Lake",
+      "justification": "The Company has signed a binding Term Sheet with Grindstone Resources Inc. (\"Grindstone\") (the \"Term Sheet\") giving the Company the option to acquire an 80% interest in the Love Lake Property (the \"Property\")"
+    },
+    "company_name": {
+      "value": "SLAM Exploration Ltd.",
+      "justification": "SLAM Exploration Ltd. (TSXV:SXL) (\"SLAM \" or the \"Company \") is pleased to announce it has signed an agreement to acquire mineral rights for the 2640 hectare Love Lake gold claim..."
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "Mike Taylor P. Geo, President and CEO of SLAM Exploration Ltd., is a qualified person as defined by National Instrument 43-101, and has approved the contents of this news release."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The Company has signed a binding Term Sheet with Grindstone Resources Inc. (\"Grindstone\") (the \"Term Sheet\") giving the Company the option to acquire an 80% interest in the Love Lake Property (the \"Property\")"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "SLAM Exploration Ltd. (TSXV:SXL) (\"SLAM \" or the \"Company \") is pleased to announce it has signed an agreement to acquire mineral rights for the 2640 hectare Love Lake gold claim where previous workers reported quartz float grading up to 302.5 grams per tonne (\"g/t) gold."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/slam-acquires-gold-claim-with-float-up-to-3025-gt-gold-1005991",
+      "justification": "The article is titled 'SLAM Acquires Gold Claim With Float Up To 302.5 g/t Gold' and details the acquisition of the Love Lake property by SLAM Exploration Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are listed with a '$' symbol. The acquiring company, SLAM Exploration Ltd., is listed on the Canadian TSXV exchange and the project is located in New Brunswick, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The total cash payments are listed in a table summing to $350,000.00, comprising payments of $15,000, $25,000, $60,000, $100,000, and $150,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms for the Love Lake project do not include any share payments. Other projects mentioned, like the Wedge project, involve share payments, but these are not related to the Love Lake acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash payments are detailed, so this field is null according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement terms for the Love Lake project do not include the issuance of any shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Love Lake project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms for the Love Lake project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": 3500,
+      "justification": "The agreement includes a commitment for a 1,500 meter drilling program in the third year and a 2,000 meter drilling program in the fourth year, for a total of 3,500 meters. \"*Third year expenditures to include a 1,500 meter drilling program. **Fourth year expenditures to include a 2,000 meter drilling program.\""
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1675000,
+      "justification": "The table of terms shows a total expenditure commitment of $1,675,000.00 to acquire the 80% interest."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text describes a future conditional clause where a party's interest converts to a 2% NSR if it falls below 10%. This is not an NSR acquired or retained as part of the initial transaction terms. 'If either party's interest falls below 10%, the interest will convert to a 2% NSR...'"
+    },
+    "coverage_area_raw": {
+      "value": 2640,
+      "justification": "...SLAM Exploration Ltd. (TSXV:SXL) (\"SLAM \" or the \"Company \") is pleased to announce it has signed an agreement to acquire mineral rights for the 2640 hectare Love Lake gold claim..."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "...SLAM Exploration Ltd. (TSXV:SXL) (\"SLAM \" or the \"Company \") is pleased to announce it has signed an agreement to acquire mineral rights for the 2640 hectare Love Lake gold claim..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the nearby Clarence Stream Deposit, but explicitly states this may not apply to the Love Lake project: 'It should be noted that the presence of gold in this deposit nearby may not apply to the Love Lake or the Jake Lee claims.' No resource is provided for the Love Lake project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SXL",
+      "justification": "The buyer is identified as 'SLAM Exploration Ltd. (TSXV:SXL)' in the first paragraph of the article."
+    }
+  }
+}

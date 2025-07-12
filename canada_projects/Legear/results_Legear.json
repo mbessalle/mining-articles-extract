@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Legear/43643.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Legear",
+      "justification": "The article title is 'Huntsman Exploration Acquires Legear Lithium Property'."
+    },
+    "company_name": {
+      "value": "Huntsman Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Huntsman Exploration Inc. (TSXV:HMAN)(OTC Pink:BBBMF) ( the\"Company\" or\"Huntsman\")'."
+    },
+    "ceo_buyer": {
+      "value": "Carl Ginn",
+      "justification": "The article is signed 'On Behalf of the Board of Huntsman Exploration Inc. Carl Ginn President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the Agreement, the Company will acquire a 100% interest in the Property from an arm's length private company..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article is titled 'Huntsman Exploration Acquires Legear Lithium Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/799648/huntsman-exploration-acquires-legear-lithium-property",
+      "justification": "The article content is entirely about the acquisition of the Legear Lithium Property by Huntsman Exploration Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A cash payment is listed as '$20,000'. The company's primary exchange is the TSX Venture Exchange (TSXV), which is Canadian, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The agreement terms include a payment of '$20,000 on or before the first anniversary of Exchange Acceptance.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The financial data extraction hierarchy gives priority to populating `amount_of_shares_issued` and `issued_share_price` when the number of shares is provided, as is the case here."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The financial data extraction hierarchy gives priority to populating `amount_of_shares_issued` and `issued_share_price` when the number of shares is provided, as is the case here."
+    },
+    "amount_of_shares_issued": {
+      "value": 1250000,
+      "justification": "The total number of shares is the sum of three tranches: '250,000 common shares upon acceptance', '500,000 common shares on or before the date that is on or before six months after Exchange Acceptance', and '500,000 common shares... on or before the first anniversary of Exchange Acceptance'. (250,000 + 500,000 + 500,000 = 1,250,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any exploration commitment in monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states: 'The Property will be subject to a 2% net smelter returns royalty in favor of the Vendor...'"
+    },
+    "coverage_area_raw": {
+      "value": 1900,
+      "justification": "The text states: 'The Property consists of 106 unpatented mining claims totalling 1,900 ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The Property consists of 106 unpatented mining claims totalling 1,900 ha.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified mineral resource estimate. It only describes the geology: 'The Property is underlain by peraluminous S-type fertile granite and metasediments'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HMAN",
+      "justification": "The company is identified in the first paragraph as 'Huntsman Exploration Inc. (TSXV:HMAN)'."
+    }
+  }
+}

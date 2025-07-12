@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Ear Falls - Karas - Camping Lake/41157.txt",
+    "canada_projects/Ear Falls - Karas - Camping Lake/41548.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ear Falls - Karas - Camping Lake",
+      "justification": "The project is identified in the document's metadata section as 'Ear Falls - Karas - Camping Lake Project' and the article title is 'Starmet Ventures Inc. Acquires Mining Claims Located Near Ear Falls Camping Lake, Ontario'."
+    },
+    "company_name": {
+      "value": "Starmet Ventures Inc.",
+      "justification": "The acquiring company is identified as 'Starmet Ventures Inc. (CSE:STAR) (the “Company” or “STARMET”)'."
+    },
+    "ceo_buyer": {
+      "value": "Ohad David",
+      "justification": "The CEO of the buyer is identified in the text: 'Ohad David, CEO of Starmet commented...' and in the signature block '“Ohad David” CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that the company is acquiring 302 mineral claims, but does not specify the percentage of interest being acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The acquisition is motivated by lithium potential, as stated: 'We had been following the recent success of many lithium exploration companies in Ontario for quite some time. We are pleased to have secured a meaningful land position adjacent to the recent spodumene bearing pegmatite discovery...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of news releases and does not contain a verifiable URL to a specific article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the acquiring company, Starmet Ventures Inc., is listed on the Canadian Securities Exchange (CSE:STAR), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The total cash payment is the sum of two transactions: one for '$35,000' and a second for '$5,000 cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, but does not provide a total dollar value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text breaks down the consideration into separate cash and share components, and does not provide a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 6100000,
+      "justification": "The total number of shares is the sum of two transactions: '6 million common shares of the Company' and '100,000 common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a plan to 'commence an initial exploration phase' but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan to 'commence an initial exploration phase' but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A royalty is being granted to the sellers as part of the transaction: 'A 2.0% net smelter return royalty (the “Royalty”) will be granted by the Company to the vendors...'"
+    },
+    "coverage_area_raw": {
+      "value": 6040,
+      "justification": "The text states: 'The Claims cover approximately 6,040 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Claims cover approximately 6,040 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the acquired claims. The text only refers to mineralization on an adjacent property and states 'The results from the adjacent Beyond Lithium property are not necessarily indicative of the mineralization on Starmet’s properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:STAR",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'Starmet Ventures Inc. (CSE:STAR)'."
+    }
+  }
+}

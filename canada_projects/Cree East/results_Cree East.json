@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Cree East/47778.txt",
+    "canada_projects/Cree East/50694.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cree East",
+      "justification": "The text repeatedly refers to the project as the 'Cree East project', for example: 'Nexus Announces Option to Acquire Cree East Project in Athabasca Basin'."
+    },
+    "company_name": {
+      "value": "Nexus Uranium Corp.",
+      "justification": "The buyer is identified in the first sentence: 'Nexus Uranium Corp. (CSE: NEXU) (OTCQB: GIDMF) (FSE: 3H1) (the \"Company\" or \"Nexus\") is pleased to announce it has entered into a letter of intent...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Poirier",
+      "justification": "The CEO of the buyer, Nexus Uranium Corp., is identified in a quote: '\"The Cree East project represents the last, large-scale exploration project...\" commented Jeremy Poirier, CEO of Nexus Uranium Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement allows for the acquisition of a total of 75% interest through staged commitments. 'Nexus will acquire up to a 75%-interest in the Cree East uranium project'."
+    },
+    "primary_commodity": {
+      "value": "uranium",
+      "justification": "The text identifies the project's primary commodity: '...Nexus will acquire up to a 75%-interest in the Cree East uranium project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/202227",
+      "justification": "The article titled 'Nexus Signs Definitive Option to Acquire Cree East Project in Athabasca Basin' is directly about the specified project and transaction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) as the acquiring company (Nexus Uranium Corp.) is listed on the Canadian Securities Exchange (CSE), the selling company (CanAlaska Uranium Ltd.) is listed on the TSX Venture Exchange, the project is in Saskatchewan, Canada, and payments are denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 3000000,
+      "justification": "The total cash payment is the sum of three staged payments: $750,000 for the first 40%, $1,000,000 for the next 20%, and $1,250,000 for the final 15%. 'pay to CanAlaska $750,000 in cash... pay to CanAlaska $1,000,000 in cash... pay to CanAlaska $1,250,000 in cash'."
+    },
+    "share_payments_raw": {
+      "value": 10000000,
+      "justification": "The total share payment is the sum of three staged issuances valued at $3,000,000, $3,000,000, and $4,000,000. 'issue to CanAlaska that number of Common shares of Nexus (\"Common Shares\") as will be equal in value to an aggregate of $3,000,000... issue to CanAlaska that number of Common Shares as will be equal in value to an aggregate of $3,000,000... issue to CanAlaska that number of Common Shares as will be equal in value to an aggregate of $4,000,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because separate values for cash and share payments were available and populated in their respective fields, as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued to the seller, CanAlaska, is not specified; only their total value is given. The text mentions 1,500,000 shares for a finder's fee to a third party, which is not part of the consideration to the seller."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the transaction is structured as an option agreement, there are no specific payments labeled as 'option payments'. The consideration is in the form of cash, shares, and exploration commitments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not specified in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 19000000,
+      "justification": "The total exploration commitment is the sum of three staged expenditures: $5,500,000, $6,500,000, and $7,000,000. 'incur $5,500,000 in exploration expenditures... incur $6,500,000 in exploration expenditures... incur $7,000,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 57752,
+      "justification": "The project's area is explicitly stated: 'The Cree East project is comprised of 17 contiguous mineral claims covering an area of 57,752 ha'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is provided in the same sentence: '...covering an area of 57,752 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Cree East project. It mentions 'multiple zones of uranium mineralization' and historical exploration, but no specific tonnage, grade, or contained metal is stated."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NEXU",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Nexus Uranium Corp. (CSE: NEXU)'."
+    }
+  }
+}

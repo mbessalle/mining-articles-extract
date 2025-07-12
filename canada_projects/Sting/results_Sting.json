@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Sting/30995.txt",
+    "canada_projects/Sting/97615.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sting Copper Project",
+      "justification": "The text repeatedly refers to the project by this name, for example in the headline: 'Vital Battery Metals Increases Land Position to 123 km² at the Sting Copper Project in Western Newfoundland'."
+    },
+    "company_name": {
+      "value": "Vital Battery Metals Inc.",
+      "justification": "The acquiring company is identified as 'Vital Battery Metals Inc. (“Vital” or the “Company”)'. This contradicts the provided authoritative metadata, but the press release is issued by and about Vital Battery Metals Inc."
+    },
+    "ceo_buyer": {
+      "value": "Adrian Lamoureux",
+      "justification": "The text states: 'Adrian Lamoureux Chief Executive Officer, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has the right 'to acquire a 100% interest in additional mineral tenure at the Sting Copper Project'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is named the 'Sting Copper Project' and the text highlights results such as 'multiple assay results of grab samples at its Sting Copper Project including up to 17.0% Cu'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with '$' and the acquiring company, Vital Battery Metals Inc., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars. 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "Under the terms of the Agreement, the Company has the right to acquire a 100% interest in the New Tenure by paying the optionors... a cash payment of $40,000..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment in shares is described by the number of shares to be issued, not a total monetary value. Therefore, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "The company will issue 'a total of 2,500,000 common shares in the capital of the Company (the “Shares”)' which consists of '1,250,000 Shares upon execution' and '1,250,000 Shares on the one-year anniversary'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any option payments as part of the consideration, although the agreement itself is an option agreement."
+    },
+    "issued_share_price": {
+      "value": 0.33,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.33'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 100000,
+      "justification": "The agreement states: 'In addition, the Company must incur $100,000 of exploration expenditures on the New Tenure on or before the one-year anniversary of the Execution Date.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the agreement, 'the Optionors will retain a 2% net smelter returns royalty on the New Tenure'."
+    },
+    "coverage_area_raw": {
+      "value": 87,
+      "justification": "The acquisition is for a specific part of the project: 'The additional acquired mineral tenure (the “New Tenure”) consists of three mineral licences that cumulatively encompass a land area of approximately 87 km².'"
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The unit for the acquired area is specified in the text: 'a land area of approximately 87 km².'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical sampling results and grades (e.g., '17.0% Cu'), but does not provide a quantified mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:VBAM",
+      "justification": "The text explicitly identifies the buyer's ticker and exchange: 'Vital Battery Metals Inc. (“Vital” or the “Company”) (CSE: VBAM)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Beaver-Lynx/47597.txt",
+    "canada_projects/Beaver-Lynx/77666.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beaver-Lynx",
+      "justification": "The primary project is identified in the headline: 'Inomin Signs Non-Binding Term Sheet for Earn-In and Joint Venture Agreement with Sumitomo Metal Mining Canada on Beaver-Lynx'."
+    },
+    "company_name": {
+      "value": "Inomin Mines Inc.",
+      "justification": "This is the authoritative company name provided in the prompt. The text confirms Inomin is the project owner: 'Inomin Mines Inc. (TSXV: MINE)... is pleased to announce that it has entered into a non-binding term sheet... on the Company's Beaver-Lynx project...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Sumitomo Metal Mining Canada Ltd. The CEO of the buyer is not mentioned in the text. The CEO mentioned, John Gomez, is the President and CEO of Inomin Mines Inc., which is the seller."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement allows for a total potential interest of 80%. 'The non-binding Term Sheet provides Sumitomo the right to earn up to an 80% interest in the Project's mineral claims by incurring a minimum of $8,000,000 in exploration expenditures.'"
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The text highlights nickel as a key mineral. 'Exploration including drilling has demonstrated the Project hosts large volumes of nickel.' and 'the Beaver-Lynx project has the potential to be a major nickel source.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/228700",
+      "justification": "This article directly details the earn-in and joint venture agreement for the Beaver-Lynx project between Inomin Mines and Sumitomo Metal Mining Canada."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The exploration commitment is denominated in '$'. The project is in British Columbia, Canada, and the primary company, Inomin Mines Inc., trades on the TSX Venture Exchange (TSXV), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an earn-in agreement based on exploration expenditures, not direct cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an earn-in agreement based on exploration expenditures, not share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is in the form of exploration expenditures, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the earn-in agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a specific number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 8000000,
+      "justification": "The total exploration commitment to earn the full 80% interest is $8,000,000. 'The non-binding Term Sheet provides Sumitomo the right to earn up to an 80% interest in the Project's mineral claims by incurring a minimum of $8,000,000 in exploration expenditures.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states that there are no royalties on the project: 'The Company owns a 100% interest in the Project with no royalties.'"
+    },
+    "coverage_area_raw": {
+      "value": 25350,
+      "justification": "The most recent article provides the total area of the project: 'The Beaver-Lynx property comprises 25,350 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text: 'The Beaver-Lynx property comprises 25,350 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces). It mentions 'large volumes of nickel' but provides no specific numbers."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Sumitomo Metal Mining Canada Ltd. The text does not provide a stock ticker or exchange for this entity. The ticker mentioned (TSXV: MINE) belongs to Inomin Mines Inc., the seller."
+    }
+  }
+}

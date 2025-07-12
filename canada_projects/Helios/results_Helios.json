@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Helios/33452.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Helios",
+      "justification": "The primary project of interest is named Helios, as stated in the headline: 'Cosa Resources Acquires Helios Uranium Property in Athabasca Basin, Saskatchewan'."
+    },
+    "company_name": {
+      "value": "Cosa Resources Corp.",
+      "justification": "The acquiring company is identified as 'Cosa Resources Corp.' in the first paragraph: 'Vancouver, British Columbia - TheNewswire - April 6, 2023 – Cosa Resources Corp. (CSE: COSA) (“Cosa Resources” or the “Company”) is pleased to announce it has acquired the Helios property...'"
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "The President and CEO of the acquiring company is named in the text: 'Keith Bodnarchuk, President & CEO, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the project through staking: 'The property was acquired by staking and is 100% owned by Cosa Resources with no encumbrances.'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The primary commodity is identified in the headline: 'Cosa Resources Acquires Helios Uranium Property in Athabasca Basin, Saskatchewan'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article link was not provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquisition cost is mentioned with a dollar symbol, and the company is Canadian, listed on a Canadian exchange, implying Canadian Dollars (CAD). 'The acquisition cost for Helios was only ~$8,000.'"
+    },
+    "cash_payments_raw": {
+      "value": 8000,
+      "justification": "The project was acquired via staking for a specified cash cost: 'The acquisition cost for Helios was only ~$8,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not through a share-based transaction. The text states: 'The property was acquired by staking and is 100% owned by Cosa Resources with no encumbrances.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was found, so this combined field is not applicable according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition; the property was acquired by staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction details."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction details."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any drilling commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify any monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The property was acquired with no royalties or other encumbrances mentioned: 'The property was acquired by staking and is 100% owned by Cosa Resources with no encumbrances.'"
+    },
+    "coverage_area_raw": {
+      "value": 12835,
+      "justification": "The size of the property is stated in the first paragraph: '...acquired the Helios property covering 12,835 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified alongside the value: '...acquired the Helios property covering 12,835 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as an 'early-stage asset' and does not contain a mineral resource estimate. It states: 'As only two historical drill holes have been completed within the property, exploration potential is excellent and we look forward to advancing this early-stage asset.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:COSA",
+      "justification": "The authoritative metadata provided lists the buyer's ticker as COSA and the exchange as TSX-V. While the article body from April 2023 mentions '(CSE: COSA)', the authoritative data is prioritized as per the rules. The detailed quote section also lists 'Exchange: TSXV'."
+    }
+  }
+}

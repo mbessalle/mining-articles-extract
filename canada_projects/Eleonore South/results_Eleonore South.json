@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Eleonore South/49879.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Eleonore South",
+      "justification": "The authoritative project name is Eleonore South. The article confirms this: 'Fury Completes Consolidation of Interests at Éléonore South Gold Project'."
+    },
+    "company_name": {
+      "value": "Fury Gold Mines Limited",
+      "justification": "The acquiring company is identified in the first sentence: 'Fury Gold Mines Limited (TSX:FURY)(NYSE American:FURY) (\"Fury\" or the \"Company\") is pleased to announce the completion of the previously announced agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Tim Clark",
+      "justification": "The CEO of the buyer, Fury Gold Mines, is identified in a quote: '\"The consolidation of our interest at Éléonore South is an exciting next step for Fury since the project represents significant potential for new discovery and upside for investors,\" commented Tim Clark, CEO of Fury.'"
+    },
+    "interest_acquired_percent": {
+      "value": 49.978,
+      "justification": "The text states the percentage of interest acquired by Fury: '...whereby Fury has purchased Newmont Corporation's (\"Newmont\") 49.978% interest in the Éléonore South gold project in Quebec...'"
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The project is explicitly referred to as a gold project: '...interest in the Éléonore South gold project in Quebec...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/838034/fury-completes-consolidation-of-interests-at-lonore-south-gold-project",
+      "justification": "The article is about the specified project, Eleonore South, and the company, Fury Gold Mines Limited. The original press release link is found at the bottom of the text: 'View the original press release on accesswire.com'"
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Fury Gold Mines Limited, is listed on the TSX. The detailed quote section also specifies the exchange as TSX, which uses the Canadian Dollar. 'Exchange: TSX'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article announces the completion of a previously announced agreement but does not specify the cash consideration involved in the transaction. It refers to a prior news release for details which is not included in the text: '[see news release dated February 26, 2024]'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any payment in the form of Fury Gold Mines shares for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not provide a combined cash and share value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not state that Fury Gold Mines issued any of its own shares as part of the consideration for the project interest."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not state that any shares were issued as part of the transaction, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions future exploration plans ('We are looking forward to further exploration at our Quebec properties this year and will be announcing our program in the coming months.') but does not state a specific monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the size or area of the Eleonore South project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the size or area of the Eleonore South project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions 'significant potential for new discovery' and a 'multi-million-ounce gold platform' but does not provide a specific, quantified mineral resource estimate for the Eleonore South project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:FURY",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'Fury Gold Mines Limited (TSX:FURY)(NYSE American:FURY) (\"Fury\" or the \"Company\")'."
+    }
+  }
+}

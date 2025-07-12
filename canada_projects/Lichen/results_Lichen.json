@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Lichen/52756.txt",
+    "canada_projects/Lichen/55502.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lichen",
+      "justification": "The title of the press release is 'Mosaic Signs Letter of Intent to Sell Up to 100% Interest in the Lichen Project'."
+    },
+    "company_name": {
+      "value": "Mosaic Minerals Corporation",
+      "justification": "The press release is issued by 'Mosaic Minerals Corporation (CSE: MOC) (“Mosaic” or “The Company”)'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text identifies M. Jonathan Hamel as the President & CEO of Mosaic Minerals Corporation, the seller, not the buyer (Castlebar Capital Corp)."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction allows for the acquisition of up to 100% interest through two options: 'Castlebar may acquire up to a 50% undivided interest (the “First Option”)... exercise an additional option (“Additional Option”) to acquire an additional 50% interest in the Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described in the context of significant gold projects: 'The volcanic belt is parallel to two known gold bearing volcanic belt, the Bachelor Lake gold area to the west and the Osisko-Windfall gold area to the south. The Nelligan Gold project and The Monster Lake Gold project are located at the eastern extremity of the volcanic belt.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves two Canadian companies (Mosaic Minerals Corp. listed on CSE and Castlebar Capital Corp. on TSX-V) and uses the '$' symbol for payments, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 355000,
+      "justification": "The total cash payment is the sum of the First Option's '$205,000' and the Additional Option's '$150,000'. Text states: 'make aggregate cash payments of $205,000 to Mosaic' and 'exercise an additional option (“Additional Option”) to acquire an additional 50% interest in the Property by making a $150,000 cash payment'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no equivalent cash value for these shares is provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed as separate components, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2850000,
+      "justification": "The total number of shares is the sum of 1,350,000 from the First Option and 1,500,000 from the Additional Option. Text states: 'by issuing an aggregate of 1,350,000 shares to Mosaic' and 'issuing 1,500,000 shares to Mosaic within the forty-five (45) day period'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any stock option payments as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued by the buyer (Castlebar Capital Corp) but does not state a price per share for the transaction. The detailed quote provided is for the seller (Mosaic Minerals), not the buyer."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 750000,
+      "justification": "The terms require 'by incurring at least $750,000 in qualifying expenditures on the Property'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal for Castlebar to earn 100%, Mosaic will retain a royalty: '...except for a 2% net smelter royalty to be retained by Mosaic.'"
+    },
+    "coverage_area_raw": {
+      "value": 15622,
+      "justification": "The Lichen Project consists of 282 claims covering a total area of 15,622 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Lichen Project consists of 282 claims covering a total area of 15,622 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the regional geology and mentions 'Numerous gold and copper showings' but does not provide a quantified mineral resource estimate for the Lichen project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:CBAR.P",
+      "justification": "The text identifies the acquiring company as 'Castlebar Capital Corp (TSX-V: CBAR.P) (“Castlebar”)'."
+    }
+  }
+}

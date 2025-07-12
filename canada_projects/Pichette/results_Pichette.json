@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Pichette/38390.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pichette",
+      "justification": "The authoritative project name is Pichette, which is confirmed in the article title: 'Riverside Makes Strategic Acquisition of High Grade Gold at the Pichette Gold Project, NW Ontario'."
+    },
+    "company_name": {
+      "value": "Riverside Resources Inc.",
+      "justification": "The buyer is identified in the first sentence: 'Riverside Resources Inc. (TSXV: RRI) (OTCQB: RVSDF) (FSE: 5YY) (\"Riverside\" or the \"Company\"), is pleased to announce it has acquired part of P.A.T. Gold Mine inside of the larger Pichette Project...'"
+    },
+    "ceo_buyer": {
+      "value": "John-Mark Staude",
+      "justification": "The CEO of the buyer, Riverside Resources, is identified in the text: '...states Riverside's President and CEO, John-Mark Staude...' and in the signature block 'Dr. John-Mark Staude, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "A highlight in the article states: '100% Riverside owned, no underlying royalty.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article title clearly states the primary commodity: 'Riverside Makes Strategic Acquisition of High Grade Gold at the Pichette Gold Project, NW Ontario'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/174605",
+      "justification": "The article is titled 'Riverside Makes Strategic Acquisition of High Grade Gold at the Pichette Gold Project, NW Ontario', which directly relates to the project of interest. The source URL is found at the bottom of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Riverside Resources Inc., is listed on the TSX Venture Exchange (TSXV: RRI), a Canadian exchange. The detailed quote section uses a '$' symbol, which is inferred to be Canadian Dollars (CAD) due to the Canadian listing."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article states the acquisition was made through staking, not a cash purchase: 'Riverside acquired through staking as the Company had surrounded strategic area with mineral claims.' No cash consideration is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any payment in shares for the acquisition. The acquisition was made via staking."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment for the acquisition. The acquisition was made via staking."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the acquisition transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the acquisition transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article explicitly states there is no royalty involved in the transaction: '100% Riverside owned, no underlying royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the land area of the Pichette project in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the land area of the Pichette project, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article provides historical drill intercepts (e.g., '16.65 g/t Au over 3.81m') but does not state a formal mineral resource estimate for the Pichette project. It notes that the historical work 'should not be relied upon' as it was pre-NI 43-101."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RRI",
+      "justification": "The buyer is Riverside Resources Inc., and the text explicitly provides its ticker and exchange: 'Riverside Resources Inc. (TSXV: RRI)'."
+    }
+  }
+}

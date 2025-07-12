@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Clearwater West/33490.txt",
+    "canada_projects/Clearwater West/47003.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Clearwater West",
+      "justification": "The text refers to the project as the \"Clearwater West Project\". For example: \"SKRR Exploration Inc. Announces Letter of Intent with F3 Uranium Corp. for the Clearwater West Project, Saskatchewan\"."
+    },
+    "company_name": {
+      "value": "SKRR Exploration Inc.",
+      "justification": "The acquiring company is identified as SKRR Exploration Inc. in the text: \"SKRR Exploration Inc. (TSXV: SKRR) (FSE: B04Q) (\"SKRR\" or the \"Company\") is pleased to announce it has entered into a letter of intent (\"LOI\") with F3 Uranium Corp.\""
+    },
+    "ceo_buyer": {
+      "value": "Sherman Dahl",
+      "justification": "The CEO of the buyer, SKRR Exploration Inc., is listed at the end of the press release: \"Sherman Dahl President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "SKRR has the option to acquire a 70% interest in the project: \"...will provide SKRR with an option to acquire up to a 70% interest in F3's right, title and interest in and to the mineral claims compromising the mineral exploration project known as the 'Clearwater West Project'...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project's location in a major uranium district: \"The Clearwater West Project is located ~20km outside the edge and in the south-west area of the Athabasca Basin, which is poised to become the next area for the development of major uranium mines in Saskatchewan.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, SKRR Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and payments are denoted with a '$' symbol, implying Canadian Dollars. \"Cash payable: ... $25,000 on or before December 31, 2023;\" and \"Exchange: TSXV\"."
+    },
+    "cash_payments_raw": {
+      "value": 139500,
+      "justification": "The total cash payment is the sum of staged payments from the original agreement ($25,000 + $25,000 + $50,000 = $100,000) and a conditional cash payment from the amendment agreement ($39,500). Original terms: \"$25,000 on or before December 31, 2023; an additional $25,000 on or before December 31, 2024; and an additional $50,000 ($100,000 total) on or before December 31, 2025.\" Amendment terms: \"SKRR shall pay $39,500 in cash to F3 in lieu thereof on or before June 5, 2024.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares and a price per share are provided, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are detailed separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "The total number of shares is the sum from the original agreement (5,000,000) and the amendment agreement (605,000 + 395,000 = 1,000,000). Original: \"1,000,000 common shares...an additional 1,000,000...an additional 1,000,000...and an additional 2,000,000 (5,000,000 total) common shares\". Amendment: \"issue 605,000 common shares of SKRR to F3...and an additional 395,000 common shares of SKRR to F3\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any stock option payments as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.225,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.225'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 6000000,
+      "justification": "The total exploration commitment is $6,000,000 over three years. \"Property expenditures: ... $1,000,000 within one year of Exchange Approval; an additional $2,000,000 within two years of Exchange Approval; and an additional $3,000,000 ($6,000,000 total) within three years of Exchange Approval.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the agreement, F3 will retain a 2% NSR Royalty, which is part of the transaction terms. \"2% NSR Royalty to F3 with SKRR's option to repurchase 1% (one-half) of the NSR Royalty for $1,000,000.\""
+    },
+    "coverage_area_raw": {
+      "value": 11786,
+      "justification": "The total area of the project is stated in the text: \"The Clearwater West property is comprised of 3 contiguous mineral claims totaling 11,786 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: \"The Clearwater West property is comprised of 3 contiguous mineral claims totaling 11,786 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Clearwater West Project in the text. The text only refers to deposits on nearby properties."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SKRR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"SKRR Exploration Inc. (TSXV: SKRR)\"."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Sully/48739.txt",
+    "canada_projects/Sully/55938.txt",
+    "canada_projects/Sully/68330.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sully",
+      "justification": "Coast Copper Corp. (\"Coast Copper\" or the \"Company\")  (TSXV: COCO) is pleased to announce that it has staked the Sully mineral claims (\"Sully \" or the \"Property\")"
+    },
+    "company_name": {
+      "value": "Coast Copper Corp.",
+      "justification": "Coast Copper Corp. (\"Coast Copper\" or the \"Company\") (TSXV: COCO) is pleased to announce that it has staked the Sully mineral claims..."
+    },
+    "ceo_buyer": {
+      "value": "Adam Travis",
+      "justification": "Adam Travis, Chief Executive Officer and Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text describes the acquisition of a \"100% owned Sully property\" and an option agreement where \"Coast Copper can acquire a 100% interest in the property\"."
+    },
+    "primary_commodity": {
+      "value": "Zinc",
+      "justification": "The property is adjacent to \"recent massive sulphide zinc, lead and silver discoveries\" and where PJX Resources \"recently discovered significant zinc and lead mineralization\"."
+    },
+    "verified_article_link": {
+      "value": "https://coastcoppercorp.com/news-releases/coast-copper-acquires-ground-adjacent-to-pjx-resources-new-sullivan-style-mineralization-discovery/",
+      "justification": "The provided documents are about Coast Copper Corp. acquiring and expanding the Sully project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves a payment in \"$\" ($5,700) and the acquiring company, Coast Copper Corp., is listed on the Canadian TSX Venture Exchange (TSXV: COCO), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 5700,
+      "justification": "Under the terms of the Option Agreement, Coast Copper can acquire a 100% interest in the property by making a cash payment of $5,700..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No raw monetary value for the share payment is provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed as separate components of the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "...and issuing a total of 500,000 common shares of the Company in three tranches over a 2-year period..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Option payments are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.06'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There are no property expenditure requirements in relation to the Option Agreement other than to keep the claims in good standing."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The Optionor will retain a 1% net smelter return royalty on the optioned property."
+    },
+    "coverage_area_raw": {
+      "value": 14112,
+      "justification": "This ground when combined with the Sully property totals 14,112 hectares, covering prospective ground in the historical Sullivan camp."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "This ground when combined with the Sully property totals 14,112 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate, only exploration results and descriptions of mineralization potential."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:COCO",
+      "justification": "Coast Copper Corp. (\"Coast Copper\" or the \"Company\"); (TSXV: COCO)"
+    }
+  }
+}

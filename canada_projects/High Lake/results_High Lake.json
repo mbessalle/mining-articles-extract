@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/High Lake/49495.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "High Lake",
+      "justification": "The article is titled 'McFarlane Adds Strategic Gold Claims Contiguous To Its High Lake Property'."
+    },
+    "company_name": {
+      "value": "McFarlane Lake Mining Limited",
+      "justification": "The press release is from 'McFarlane Lake Mining Limited (\"McFarlane\" or the \"Company\") (CBOE (formerly NEO):MLM)(OTCQB:MLMLF)'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text does not mention the name of the CEO. It mentions a Chief Operating Officer, Roger Emdin."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions the 'addition of four additional claims' but does not specify a percentage interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article is about the addition of 'Strategic Gold Claims' and mentions 'known gold zones'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/836445/mcfarlane-adds-strategic-gold-claims-contiguous-to-its-high-lake-property",
+      "justification": "The article content, titled 'McFarlane Adds Strategic Gold Claims Contiguous To Its High Lake Property', is directly about the specified project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial consideration for the acquisition of the claims, so no currency can be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payment as consideration for the acquisition of the claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payment as consideration for the acquisition of the claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payment as consideration for the acquisition of the claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as consideration for the acquisition of the claims."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as consideration for the acquisition of the claims."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as consideration for the acquisition of the claims."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a '10,000-metre drill program at the Purdex Zone', but this is described as a current, ongoing activity, not a commitment made as part of the transaction to acquire the new claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment as part of the transaction to acquire the new claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the total area increased 'from 584.82 to 626.00 hectares' but does not provide a single raw number for the area of the newly added claims. Per the rules, calculation of the difference is not permitted."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text states the total area increased 'from 584.82 to 626.00 hectares' but does not provide a single raw number for the area of the newly added claims. Per the rules, calculation of the difference is not permitted."
+    },
+    "resource_size": {
+      "value": "96,200 Inferred ounces and 45,800 Indicated ounces of gold at a grade of 10.43 grams per tonne of gold and 9.38 grams per tonne of gold, respectively",
+      "justification": "The text states that a technical report for the property 'identified 96,200 Inferred ounces and 45,800 Indicated ounces of gold at a grade of 10.43 grams per tonne of gold and 9.38 grams per tonne of gold, respectively.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MLM",
+      "justification": "The detailed quote section lists the exchange as 'CSE' and the text identifies the company's ticker as MLM: 'McFarlane Lake Mining Limited... (CBOE (formerly NEO):MLM)'."
+    }
+  }
+}

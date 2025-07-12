@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Senneville/54182.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Senneville",
+      "justification": "Troubadour Resources Inc. ... has executed an option ... with Xander Resources Inc. ... for the right to purchase an undivided 100% interest in 173 mineral claims comprising Xander's Senneville Project (the \"Project)..."
+    },
+    "company_name": {
+      "value": "Troubadour Resources Inc.",
+      "justification": "Troubadour Resources Inc. (TSXV: TR) (OTC PINK: TROUF) (\"TR\" or the \"Company\"), a North American mineral acquisition and exploration company..."
+    },
+    "ceo_buyer": {
+      "value": "Blake Morgan",
+      "justification": "\"The rising global demand for copper... makes the acquisition of the Senneville Gold-Copper Property an attractive investment,\" said Blake Morgan, CEO of Troubadour Resources."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pursuant to the Option Agreement (the \"Agreement\"), the Company may acquire a 100% interest in the Property..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "Troubadour Resources Options Significant Quebec Land Package with Highly Prospective Gold and Copper Targets"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/209939",
+      "justification": "The article is about Troubadour Resources Inc. optioning the Senneville Project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Troubadour Resources Inc., trades on the TSX Venture Exchange (TSXV: TR) and the work commitment is listed in dollars ('$2,000,000 in work expenditures'), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The terms of the agreement do not mention any cash payments, only share issuances and work commitments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the number of shares and a price per share are available to populate `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the payment components are broken down into shares and work commitments."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "...the Company may acquire a 100% interest in the Property by issuing an aggregate of 5,000,000 common shares in the capital of the Company..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option agreement, there are no payments specified as 'option payments' in the terms."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the number of shares issued but not a specific price ('Shares of the Company are to be issued at a deemed value based on the Discounted Market Price at the time of issuance'). Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement specifies a monetary work commitment, not a commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "...the Company may acquire a 100% interest in the Property by issuing an aggregate of 5,000,000 common shares in the capital of the Company and complete $2,000,000 in work expenditures..."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The buyer will assume existing royalties on the property: 'The Project has the following net-smelter returns royalties (the \"NSR\") which will be assumed by the Company: 2% NSR to North American Exploration Ltd. for 72 claims...'"
+    },
+    "coverage_area_raw": {
+      "value": 100,
+      "justification": "The Project covers over 100 km2..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Project covers over 100 km2..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource exists: 'the Company currently has no reserves on any of its properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TR",
+      "justification": "Troubadour Resources Inc. (TSXV: TR) (OTC PINK: TROUF) (\"TR\" or the \"Company\")"
+    }
+  }
+}

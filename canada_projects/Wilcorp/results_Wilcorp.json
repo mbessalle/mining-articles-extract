@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Wilcorp/79117.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wilcorp",
+      "justification": "The project is explicitly named in the text: 'Work was carried out on the Wilcorp, Burchell, and Traxxin properties during the first half of November.'"
+    },
+    "company_name": {
+      "value": "Bold Ventures Inc.",
+      "justification": "The company is identified at the beginning of the press release: 'Bold Ventures Inc. (TSXV: BOL) (the \"Company\" or \"Bold\") announces that it has staked 26 claims near Joutel, Québec...'"
+    },
+    "ceo_buyer": {
+      "value": "David Graham",
+      "justification": "The CEO of Bold Ventures Inc., the company conducting work on the project, is listed at the end of the document: '\"David B Graham\" David Graham CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention an acquisition of interest in the Wilcorp project."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text mentions gold assays from the property: '...resulted in assays up to 16.3 g/t Au at Bold's Wilcorp property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/230372",
+      "justification": "The article is verified as it provides an update on exploration activities at the specified project: 'Work was carried out on the Wilcorp, Burchell, and Traxxin properties during the first half of November.'"
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Bold Ventures Inc., is listed on the TSX Venture Exchange (TSXV) and is based in Toronto, Ontario, which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not describe a transaction involving cash payments for the Wilcorp project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not describe a transaction involving share payments for the Wilcorp project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not describe a transaction for the Wilcorp project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention any shares being issued as part of a transaction for the Wilcorp project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention an issued share price for a transaction related to the Wilcorp project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future 'trenching and drilling targets' but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes exploration work being carried out but does not state a specific monetary exploration commitment for the Wilcorp project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) related to the Wilcorp project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Wilcorp project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Wilcorp project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions assay results but does not provide a quantified mineral resource estimate (e.g., tonnes or ounces) for the Wilcorp project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BOL",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Bold Ventures Inc. (TSXV: BOL)'."
+    }
+  }
+}

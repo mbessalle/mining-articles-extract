@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/SOQUEM JV/47712.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "SOQUEM JV",
+      "justification": "The text states the acquisition is for 'certain claims subject to a joint venture with SOQUEM (the \"SOQUEM JV Property\")'."
+    },
+    "company_name": {
+      "value": "Dore Copper Mining Corp.",
+      "justification": "The acquiring company is identified as 'Doré Copper Mining Corp. (the \"Company\" or \"Doré Copper\")'."
+    },
+    "ceo_buyer": {
+      "value": "Ernest Mast",
+      "justification": "The text identifies the CEO of the buyer: 'Ernest Mast, President and CEO of Doré Copper, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 65,
+      "justification": "The announcement states that Doré Copper 'has exercised its right to acquire a 65% interest in certain claims subject to a joint venture with SOQUEM'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The acquired property surrounds the 'former high-grade Joe Mann gold mine' and the text details numerous 'gold occurrences' and 'gold mineralization' on the property."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, SOQUEM JV. No URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed in '$' and the acquiring company is listed on the TSX Venture Exchange (TSXV) and is subject to 'applicable Canadian securities laws', implying the Canadian Dollar (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The terms of the acquisition are 'for $300,000 in cash and 3,333,333 common shares of the Company'."
+    },
+    "share_payments_raw": {
+      "value": 400000,
+      "justification": "The terms include shares 'representing $400,000 in common shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 1 applies as separate cash and share values are provided. This field is therefore null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 1 applies as explicit cash ($300,000) and share ($400,000) values are provided in the text. Therefore, this field must be null despite the number of shares also being mentioned."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 1 applies as explicit cash ($300,000) and share ($400,000) values are provided in the text. Therefore, this field must be null despite the deemed share price also being mentioned."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 3029.6,
+      "justification": "The text states the SOQUEM JV Property comprises '69 claims totaling 3,029.6 ha'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states the SOQUEM JV Property comprises '69 claims totaling 3,029.6 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The only compliant resource mentioned ('inferred mineral resource of 680,000 tonnes...') is for the adjacent Joe Mann property, which is 100% owned by the company and not part of the acquired SOQUEM JV property. A resource on the acquired property is mentioned but is described as 'historical near-surface resource (not compliant with NI 43-101)' and is not quantified."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DCMC",
+      "justification": "The company is identified in the text as 'Doré Copper Mining Corp. (the \"Company\" or \"Doré Copper\") (TSXV: DCMC; OTCQX: DRCMF; FRA: DCM)'."
+    }
+  }
+}

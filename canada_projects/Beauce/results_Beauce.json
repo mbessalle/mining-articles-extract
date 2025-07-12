@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Beauce/34707.txt",
+    "canada_projects/Beauce/44325.txt",
+    "canada_projects/Beauce/54310.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beauce",
+      "justification": "The acquisition described in the relevant press release expands the 'Beauce Gold property'. The company's flagship project is also described as being in the 'Beauce region'."
+    },
+    "company_name": {
+      "value": "Beauce Gold Fields Inc.",
+      "justification": "The text identifies the company as 'Beauce Gold Fields (Champs D’Or en Beauce) (TSX Venture: \"BGF\")'. The full legal name is provided by the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": "Patrick Levasseur",
+      "justification": "Patrick Levasseur, President and CEO of Beauce Gold Fields, states, \"We will be expanding our exploration efforts...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition was made through 'map staking'. This method of acquisition from the government confers 100% ownership. This is supported by similar staking acquisitions mentioned in the text for other properties which are explicitly described as '100% owned'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company is described as 'Beauce Gold Fields is a gold exploration company focused on placer to hard rock exploration in the Beauce region of Southern Quebec.' The expansion of the Beauce property is to explore for 'lode gold discoveries'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text combines three press releases. Two releases (May 4, 2023 and Nov 16, 2023) concern the acquisition of a portfolio of phosphate properties 'throughout Quebec', which is a separate project from the primary project of interest, the Beauce Gold project. The third release (May 22, 2024) is about the Beauce project. As the text block contains information about other projects, a single verified link cannot be provided."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and financial figures like private placements are priced in dollars ($), implying Canadian dollars. Example: 'non-brokered private placement of 2,500,000 Flow-Through units at $0.04 per unit'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was via 'map staking', which does not involve a cash payment to a seller. The private placements mentioned are for financing future exploration and general corporate purposes, not for acquisition consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was via 'map staking', which does not involve share payments to a seller. The private placements mentioned are for financing future exploration and general corporate purposes, not for acquisition consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was via 'map staking', not a purchase from a third party, so there was no combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the map staking. The shares mentioned are part of private placements for financing purposes, not acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued as consideration for the map staking."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as consideration for the map staking."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the map staking."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned as a term of the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned as a term of the acquisition. The proceeds from private placements are for general exploration, not a specific commitment tied to the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition was via map staking, and no royalty was mentioned as part of the transaction. Other properties acquired by staking in the text were noted as 'royalty-free'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states that 21 claims were acquired for the Beauce Gold property, but does not specify the area in hectares or km2. The areas mentioned in the text (e.g., '27,224 hectares') explicitly relate to the separate Quebec Phosphate project portfolio and were therefore ignored."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area value was found for the Beauce project acquisition."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the Beauce project. It mentions historical nugget sizes ('50oz to 71oz') and exploration target dimensions ('stretching more than 300 meters in length'), but not a formal resource. For other properties, the text explicitly states: 'A qualified person has not completed sufficient work to validate historical data nor to classify mineral resources as defined by National Instrument (NI) 43-101'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BGF",
+      "justification": "The text states: 'Beauce Gold Fields (Champs D’Or en Beauce) (TSX Venture: \"BGF\")'."
+    }
+  }
+}

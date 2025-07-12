@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Mountain Lake/78747.txt",
+    "canada_projects/Mountain Lake/78795.txt",
+    "canada_projects/Mountain Lake/86659.txt",
+    "canada_projects/Mountain Lake/88113.txt",
+    "canada_projects/Mountain Lake/88115.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mountain Lake",
+      "justification": "The documents consistently refer to the project as the Mountain Lake Property or Mountain Lake Project, for example: \"IsoEnergy Announces Strategic Sale of its Mountain Lake Property in Nunavut\" and \"Future Fuels to Acquire Mountain Lake Property in Nunavut\"."
+    },
+    "company_name": {
+      "value": "Isoenergy Ltd.",
+      "justification": "The primary company associated with the project as the seller is IsoEnergy Ltd. The text states: \"IsoEnergy Ltd. (\"IsoEnergy\" or the \"Company\") (TSX: ISO) (OTCQX: ISENF) is pleased to announce that it has entered into an asset purchase agreement ... to sell ... the Mountain Lake property\"."
+    },
+    "ceo_buyer": {
+      "value": "Rob Leckie",
+      "justification": "The buyer is Future Fuels Inc. Its CEO is identified in the text: \"Rob Leckie, CEO and director of Future Fuels, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer, Future Fuels, acquired the full interest in the project: \"Future Fuels acquired a 100% interest in IsoEnergy's Mountain Lake Project\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as a uranium opportunity: \"Establishes a District-Scale Uranium Opportunity by Consolidating the Mountain Lake Property and Hornby Project in the Hornby Basin... one of Canada's key uranium basins\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/isoenergy-announces-strategic-sale-of-its-mountain-lake-property-in-nunavut-302305073.html",
+      "justification": "This article, titled \"IsoEnergy Announces Strategic Sale of its Mountain Lake Property in Nunavut\", directly concerns the transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a portfolio value in Canadian dollars: \"Further Strengthens Equity Portfolio, Now Estimated at C$32.2 Million\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition did not include cash payments, but rather shares and a royalty. The text states the consideration is \"in exchange for common shares of Future Fuels ... and the grant of the Net Smelter Royalties\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, since the number of shares and a price per share (via fallback) can be determined, the `amount_of_shares_issued` and `issued_share_price` fields are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, since the number of shares and a price per share (via fallback) can be determined, the `amount_of_shares_issued` and `issued_share_price` fields are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 15000000,
+      "justification": "The total consideration includes 12,500,000 upfront shares and 2,500,000 deferred shares. \"the issuance to IsoEnergy of 12,500,000 Common Shares (the 'Upfront Shares') ... the future issuance to IsoEnergy of 2,500,000 Common Shares (the 'Deferred Shares')\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants were part of the separate \"Concurrent Financing\" undertaken by the buyer, Future Fuels, and not part of the direct consideration for the Mountain Lake property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.59,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price for the buyer (Future Fuels Inc.) as a fallback, as seen in the detailed quote: 'Last: 0.59'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction details do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction details do not include a specific exploration spending commitment. The proceeds from a separate \"Concurrent Financing\" are noted to be for advancing the property, but this is not a commitment value within the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller (IsoEnergy) was granted a royalty by the buyer (Future Fuels): \"the grant by Future Fuels to IsoEnergy of (a) a 2% net smelter returns royalty, payable on all production from the Mountain Lake Property\"."
+    },
+    "coverage_area_raw": {
+      "value": 5625,
+      "justification": "The text specifies the area of the mineral claims: \"Future Fuels acquired a 100% interest in IsoEnergy's Mountain Lake Project, comprised of mineral claims covering 5,625 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: \"...comprised of mineral claims covering 5,625 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text refers to \"historic resources\" and a \"historical estimate\" but does not provide any specific quantities (e.g., tonnes, ounces). It explicitly states, \"A Qualified Person has not done sufficient work to classify the historical estimate as current mineral resources and neither IsoEnergy nor Future Fuels is treating the historical estimate as current mineral resources.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FTUR",
+      "justification": "The buyer is identified as Future Fuels Inc., and its ticker and exchange are provided in the text: \"Future Fuels Inc. (TSXV:FTUR)\"."
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/California Lake/41149.txt",
+    "canada_projects/California Lake/52715.txt",
+    "canada_projects/California Lake/53210.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "California Lake",
+      "justification": "The articles are titled 'Nine Mile Metals to Acquire an Additional 5.06 Sq Kms of Strategic Claims Adjacent to Its California Lake VMS Project' and 'Nine Mile Metals Exercises Option Early to Acquire 100% of California Lake...'"
+    },
+    "company_name": {
+      "value": "Nine Mile Metals Ltd.",
+      "justification": "The buyer is identified as 'NINE MILE METALS LTD.(CSE: NINE, OTCQB: VMSXF, FSE: KQ9) (the “Company” or “Nine Mile”).'"
+    },
+    "ceo_buyer": {
+      "value": "Patrick J. Cruickshank",
+      "justification": "The documents are signed '“Patrick J. Cruickshank, MBA” CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company announced it 'has exercised its option early to Purchase 100% of California Lake, Canoe Landing Lake East and Nine Mile Brook East mineral projects'."
+    },
+    "primary_commodity": {
+      "value": "Cu, Pb, Zn, Ag, Au",
+      "justification": "The company is 'focused on VMS (Cu, Pb, Zn, Ag and Au) exploration in the renowned Bathurst Mining Camp (BMC)'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/206883",
+      "justification": "The article at this URL is titled 'Nine Mile Metals Exercises Option Early to Acquire 100% of California Lake, Canoe Landing Lake East and Nine Mile Brook East Properties' and directly concerns the acquisition of the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) and the text refers to 'Canadian securities legislation', implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "A cash payment was converted to shares, resulting in no cash being paid. 'The Optionors and the Company have also agreed to convert the final $30,000 cash payment owing under the Option for 333,334 common shares...'"
+    },
+    "share_payments_raw": {
+      "value": 21083.32,
+      "justification": "Calculated by summing the project's share of two transactions. Txn 1: 550,000 shares for 2 projects at a fallback price of $0.01 ('Last: 0.01'), giving a project share of $2,750. Txn 2: A total share value of $54,999.96 (from '333,332 common shares at a deemed price of $0.075' and '333,334 common shares at a deemed price $0.09') for 3 projects, giving a project share of $18,333.32. Total is $2,750 + $18,333.32 = $21,083.32."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Share payments could be calculated separately."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The total value of share payments is provided in `share_payments_raw` as per the financial data hierarchy, because multiple share prices ($0.075 and $0.09) were used in one transaction, preventing the use of a single `issued_share_price`."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Null because multiple share prices ($0.075 and $0.09) were used in the main transaction, and the financial data has been aggregated into `share_payments_raw`."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transactions were subject to royalties. One states 'there is a 2.0% net smelter royalty (“NSR”) on the New Claims' and the other was 'subject to a 2% Net Smelter Royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 22,
+      "justification": "Calculated as the sum of the project's share of two acquisitions. Transaction 1: Half of '5.06 square kms' (shared with the Nine Mile Brook project) is 2.53 km2. Transaction 2: The project's share (6 of 12 claims) of the 'totalling 38.94 km2' area is 19.47 km2. The total area for the California Lake project is 2.53 + 19.47 = 22 km2."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text specifies areas in 'square kms' and 'km2'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for a different project, the 'Canoe Landing Lake Deposit... consists of 22.8 million tons', but does not state a mineral resource for the California Lake project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NINE",
+      "justification": "The acquiring company is identified in the text as 'NINE MILE METALS LTD.(CSE: NINE, OTCQB: VMSXF, FSE: KQ9)'."
+    }
+  }
+}

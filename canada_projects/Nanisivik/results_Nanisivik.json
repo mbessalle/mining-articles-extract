@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nanisivik/75397.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nanisivik",
+      "justification": "The user provided 'NANISIVIK' as the project of interest, and the article confirms this: 'Honey Badger Silver Grows Nanisivik Project'."
+    },
+    "company_name": {
+      "value": "Honey Badger Silver Inc.",
+      "justification": "The user provided 'Honey Badger Silver Inc.' as the company of interest, and the article confirms this: 'Honey Badger Silver Inc. (TSXV: TUF) (OTCQB: HBEIF) (\"Honey Badger\" or the \"Company\") is pleased to announce that it has added strategic claims through staking at its 100%-owned Nanisivik project...'"
+    },
+    "ceo_buyer": {
+      "value": "Dorian L. (Dusty) Nicol",
+      "justification": "The CEO of the buyer, Honey Badger Silver Inc., is identified at the end of the press release: 'ON BEHALF OF THE BOARD Dorian L. (Dusty) Nicol, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves staking new claims to expand a project the company already owns, not acquiring a percentage interest from another party. The text states the project is '100%-owned'."
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The company is named 'Honey Badger Silver' and the text repeatedly refers to silver potential: 'The Nanisivik Mine (near Arctic Bay, Nunavut) produced over 20 million ounces of silver between 1976 and 2002...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/227244",
+      "justification": "The article is about the Nanisivik project as specified. The source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/227244'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), which is a Canadian exchange, implying the currency is Canadian Dollars (CAD). The detailed quote section also lists 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is for staking new claims, which was done at a 'very low cost', but no specific cash amount is mentioned for the Nanisivik project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were made for the Nanisivik project staking. The text mentions a share payment for a different project: 'The Company announced on October 2, 2024, that it has agreed to purchase the Yava property for 4,250,000 shares...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned for the Nanisivik project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text mentions a share issuance, but it is for the acquisition of the separate Yava property, not the Nanisivik project: 'The Company announced on October 2, 2024, that it has agreed to purchase the Yava property for 4,250,000 shares from Blue Moon Metals Inc.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price is associated with the Nanisivik transaction as no shares were issued for it."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a royalty, but it is related to the separate Yava property, not the Nanisivik project: 'The property is subject to a 10% NPI royalty, which the Company can repurchase for $1.5 million.'"
+    },
+    "coverage_area_raw": {
+      "value": 7650.4,
+      "justification": "The transaction described is the staking of new claims. The area of these new claims is specified: 'The company has staked an additional 10 claims totaling 7650.4 ha at and around the Nanisivik area.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is hectares, as stated in the text: 'The company has staked an additional 10 claims totaling 7650.4 ha at and around the Nanisivik area.'"
+    },
+    "resource_size": {
+      "value": "100 million tonnes, containing locally anomalous base metal and silver values",
+      "justification": "The text describes a historical estimate for the project area: '...previous exploration identified massive sulphide bodies (principally pyrite) still in place, totaling about 100 million tonnes (1,2), containing locally anomalous base metal and silver values.' A disclaimer notes: 'A qualified person has not done sufficient work to classify this historic tonnage estimate as a current mineral resource and the Company is not treating the estimate as a current mineral resource.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TUF",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Honey Badger Silver Inc. (TSXV: TUF)'."
+    }
+  }
+}

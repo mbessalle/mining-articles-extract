@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Tabor Lake-Santa Maria/42969.txt",
+    "canada_projects/Tabor Lake-Santa Maria/63081.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tabor Lake-Santa Maria",
+      "justification": "The transaction concerns the Sakoose claims, which are being added to the company's portfolio that includes the Tabor Lake and Santa Maria projects, as stated in the 'About Ashley Gold' section: 'Ashley has acquired, 100% of the Tabor Lake Lease subject to a 1.5% royalty, 100% of the Santa Maria Project subject to a 1.75% royalty... and an option to earn 100% of the Sakoose claims subject to a 1.5% NSR.'"
+    },
+    "company_name": {
+      "value": "Ashley Gold Corp.",
+      "justification": "The acquiring company is identified as 'Ashley Gold Corp. (CSE:ASHL) (“Ashley” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Darcy Christian",
+      "justification": "The release identifies 'Mr. Darcy Christian, President and CEO' as the responsible party and provides his comments as CEO."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company entered into an 'option agreement to earn 100% of contiguous claims directly east of the Tabor property including the past producing Sakoose Mine'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project's commodity is identified through historical production figures and assay results, such as 'Historical production at Sakoose reported as 8,828 tons at 11.9 g/t Au*'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denominated in '$' and the acquiring company, Ashley Gold Corp., is listed on the Canadian Securities Exchange (CSE:ASHL), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 69250,
+      "justification": "The total cash consideration is an aggregate of payments from the original agreement and a later amendment: '$8,000 cash payment', '1stAnniversary – $12,000 cash payment', '2nd Anniversary - $18,000 cash payment', '3rd Anniversary - $30,000 cash payment', and 'A cash consideration of $1,250 was paid to the optionors to add to amendment'."
+    },
+    "share_payments_raw": {
+      "value": 20000,
+      "justification": "This is a contingent payment from the 3rd anniversary term: '...$14,000 cash payment and $20,000 payable in shares based on previous 20-day Volume Weighted Average Price (VWAP)'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment components are detailed in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": 200000,
+      "justification": "The initial payment terms include '$8,000 cash payment and 200,000 shares on execution of agreement'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the payment terms. The transaction itself is an option to acquire property, not a payment with stock options."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the issuance of 200,000 shares but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not specify an exploration commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The agreement is 'subject to a 1.5% Net Smelter Royalty (NSR)', which is retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a 'total combined property at over 4,000 hectares', but this is an aggregated figure for both the existing Tabor property and the newly optioned Sakoose claims. The specific area for the Sakoose claims alone is not provided."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the specific transaction is not provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text refers to 'Historical production' and notes that historical values are 'non-compliant with respect to NI 43-101 standards'. No current mineral resource estimate is provided."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ASHL",
+      "justification": "The buyer is identified in the first sentence as 'Ashley Gold Corp. (CSE:ASHL)'."
+    }
+  }
+}

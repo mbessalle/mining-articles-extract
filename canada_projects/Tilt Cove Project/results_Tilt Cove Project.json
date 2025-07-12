@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Tilt Cove Project/77554.txt",
+    "canada_projects/Tilt Cove Project/77621.txt",
+    "canada_projects/Tilt Cove Project/77806.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tilt Cove Project",
+      "justification": "The text repeatedly identifies the project of interest, for example in the headline: 'Signal Gold Announces the Sale of the Tilt Cove Project to FireFly Metals for $4.0 Million in Total Compensation'."
+    },
+    "company_name": {
+      "value": "FireFly Metals Ltd.",
+      "justification": "FireFly Metals Ltd. is identified as the acquirer (buyer) of the project. 'Signal Gold Inc. (\"Signal Gold\" or the \"Company\") (TSX:SGNL)(OTCQB:SGNLF) is pleased to announce that it has executed a share purchase agreement (\"SPA\") with FireFly Metals Ltd. (\"FireFly\") for the sale of the Company's Tilt Cove Project in Newfoundland.'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, FireFly Metals Ltd., is not mentioned in the text. Kevin Bullock is the President and CEO of the seller, Signal Gold Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "FireFly is acquiring 100% of the subsidiary that holds the project. 'Under the SPA, FireFly will acquire 100% of the common shares of Tilt Cove Gold Corp. (\"Tilt Cove\"), a wholly owned subsidiary of Signal Gold, which holds all exploration licences, rights and obligations related to Tilt Cove.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as a 'gold-copper project' and the milestone payment is based on gold equivalent ounces, indicating gold is a primary commodity. '...this prospective exploration-stage gold-copper project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/938509/signal-gold-announces-the-sale-of-the-tilt-cove-project-to-firefly-metals-for-40-million-in-total-compensation",
+      "justification": "The article is directly about the sale of the Tilt Cove Project by Signal Gold to FireFly Metals."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text explicitly states the currency: 'All dollar amounts are in Canadian dollars unless otherwise noted.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, a combined value is used as the milestone payment can be cash or shares. Therefore, this field is null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, a combined value is used as the milestone payment can be cash or shares. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 4000000,
+      "justification": "The headline states the total compensation is $4.0 million. 'Signal Gold Announces the Sale of the Tilt Cove Project to FireFly Metals for $4.0 Million in Total Compensation'. This is comprised of upfront cash and shares ($570,000 + $2,500,000) and a future milestone payment ($1,000,000)."
+    },
+    "amount_of_shares_issued": {
+      "value": 2317869,
+      "justification": "The number of shares issued as part of the transaction is explicitly stated: 'On closing of the transaction... the Company will receive $570,000 in cash and 2,317,869 common shares of FireFly...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text provides a total value for the shares based on a 10-day VWAP, but does not state the price per share itself. No calculation is permitted, and the fallback 'Last' price from the detailed quote belongs to the seller (Signal Gold), not the buyer (FireFly Metals)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 15000,
+      "justification": "The text states the size of the mineral lands associated with the project: '...approximately 15,000 hectares of prospective mineral lands...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: '...approximately 15,000 hectares of prospective mineral lands...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No current mineral resource is stated. The project is described as 'exploration-stage' and a resource is mentioned only as a future, conditional milestone: 'Signal Gold will also receive a milestone payment of $1,000,000... if FireFly announces a mineral resource estimate, in any category, of at least 500,000 ounces of gold equivalent ounces...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as FireFly Metals Ltd. whose shares trade on the 'Australian Stock Exchange', but a specific ticker symbol is not provided in the text. The authoritative ticker provided (TSX:SGNL) belongs to the seller, Signal Gold Inc."
+    }
+  }
+}

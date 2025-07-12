@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/HSP/26078.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "HSP",
+      "justification": "The text refers to the project as '...the maiden drilling program at the HSP nickel and copper sulfide project (the \"HSP\").'"
+    },
+    "company_name": {
+      "value": "Go Metals Corp.",
+      "justification": "The acquiring company is identified as 'Go Metals Corp. (CSE: GOCO) (\"Go Metals\" and/or the \"Company\").'"
+    },
+    "ceo_buyer": {
+      "value": "Scott Sheldon",
+      "justification": "The contact person for the company is listed as 'Scott Sheldon, President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The 'About Go Metals' section states: 'The 100% owned company flagship is a nickel-copper sulphide project 130 kilometres north of Havre-Saint Pierre, Quebec.' This flagship project is the HSP."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is described as a 'nickel and copper sulfide project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/138419",
+      "justification": "The article is a press release from Go Metals Corp. regarding its land holdings related to the HSP project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no financial consideration or currency was mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition of new land was through staking, not a purchase, so no cash payment was mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition of new land was through staking, not a purchase, so no share payment was mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition of new land was through staking, not a purchase, so no combined payment was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the land acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no associated price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides the area for two new properties (98 Property: 71 sq km; Clyde Property: 171 sq km) and a new total regional land position (396 sq km), but does not explicitly state the area for the HSP project itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The `coverage_area_raw` is null as no specific area for the HSP project was provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources for the HSP project. It states the company is 'awaiting laboratory assay results' from its maiden drill program, implying no resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GOCO",
+      "justification": "The text identifies the company and its ticker as 'Go Metals Corp. (CSE: GOCO)'."
+    }
+  }
+}

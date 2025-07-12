@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Chabinoche and Poncheville/35223.txt",
+    "canada_projects/Chabinoche and Poncheville/53088.txt",
+    "canada_projects/Chabinoche and Poncheville/90453.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Chabinoche and Poncheville",
+      "justification": "The project is referred to as the 'Chabinoche Project' which is comprised of two main targets, the 'Chabinoche Target' and the 'Poncheville Target'. The authoritative name provided is 'Chabinoche and Poncheville'."
+    },
+    "company_name": {
+      "value": "CDN Maverick Capital Corp",
+      "justification": "The acquiring company is identified as: 'CDN Maverick Capital Corp. (\"Maverick\" or the \"Company\") (CSE: CDN) (OTCPINK: AXVEF) (Frankfurt: A117RU)'."
+    },
+    "ceo_buyer": {
+      "value": "Adam Cegielski",
+      "justification": "At the time of the initial acquisition announcement on May 15, 2023, the text states: 'Adam Cegielski, CEO of Maverick, stated that...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the company 'proposes to acquire a 100% interest in a highly prospective lithium district situated approximately 60 kilometers north of Matagami in Quebec, Canada known as the Chabinoche Project'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The press release is titled 'MAVERICK TO ACQUIRE A 100% INTEREST IN PROLIFIC JAMES BAY LITHIUM DISTRICT' and refers to the project as a 'highly prospective lithium district'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/207740",
+      "justification": "The source URL is provided at the end of the second document: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/207740'. The article discusses the expansion of the Chabinoche and Poncheville project area."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A subsequent agreement for the same project area specifies the currency: 'for an acquisition cost of $160,000 CAD'. The company is also based in Vancouver, Canada."
+    },
+    "cash_payments_raw": {
+      "value": 285000,
+      "justification": "The total cash payment is aggregated from two separate agreements. The first is for 'a one-time cash payment of $125,000 to Shawn Ryan'. The second is an 'additional purchase agreement... for an acquisition cost of $160,000 CAD'. The total is $125,000 + $160,000 = $285,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves issuing shares, but no equivalent cash value for the shares is provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components are mentioned, so this field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "Pursuant to the terms of the Purchase Agreement, in consideration for the acquisition of the Project, the Company proposes to issue 1,500,000 common shares to the Vendors."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.3,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote section of the first article: 'Last: 0.30'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller retained a royalty as part of the deal: 'Upon completion of the acquisition, the Company will also grant to Shawn Ryan a one-percent royalty on net smelter returns from commercial production from the Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 154990,
+      "justification": "The total area is aggregated from three announcements: an initial acquisition of 'approximately 40,000 hectares', a subsequent addition of '110,000 hectares', and a final staking of 'approx. 4990 hectares'. Total = 40,000 + 110,000 + 4990 = 154,990."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The initial project size is described as '711 claims, totaling approximately 40,000 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention 'lithium lake sediment anomalies' and 'pegmatite dykes' but do not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CDN",
+      "justification": "The company name is followed by its ticker and exchange in the text: 'CDN Maverick Capital Corp. (\"Maverick\" or the \"Company\") (CSE: CDN)'."
+    }
+  }
+}

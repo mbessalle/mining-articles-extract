@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hector/82914.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hector Silver-Cobalt Project",
+      "justification": "The Arrangement included a transfer of Cruz's ownership and rights in and to the Hector Silver-Cobalt Project (the \"Hector Property\")..."
+    },
+    "company_name": {
+      "value": "Makenita Resources Inc.",
+      "justification": "Makenita now holds all rights, title and interests in and to the Hector Property."
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "Makenita Resources Inc. \"Jason Gigliotti\" Jason Gigliotti President, Chief Executive Officer and Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Makenita now holds all rights, title and interests in and to the Hector Property."
+    },
+    "primary_commodity": {
+      "value": "Silver-Cobalt",
+      "justification": "The Arrangement included a transfer of Cruz's ownership and rights in and to the Hector Silver-Cobalt Project (the \"Hector Property\")..."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/235033",
+      "justification": "The article details the spin-off of the Hector project into Makenita Resources. The source URL is at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/235033'"
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Makenita Resources Inc., has received conditional approval for listing on the Canadian Securities Exchange (CSE), and the detailed quote section for the related company uses a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was completed in consideration of shares, with no cash payment mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "While the number of shares issued is known (16,787,996), their value is not stated, and Makenita is an unlisted company, so a total share payment value cannot be calculated."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 16787996,
+      "justification": "The Arrangement included a transfer of Cruz's ownership and rights in and to the Hector Silver-Cobalt Project (the \"Hector Property\"), ... to Makenita in consideration of 16,787,996 Makenita Shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text states that 16,787,996 Makenita shares were issued as consideration, but no price per share is provided for these shares. Makenita is described as an 'unlisted' company, so no market price is available."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2243,
+      "justification": "...the Hector Silver-Cobalt Project (the \"Hector Property\"), consisting of 126 contiguous unpatented mineral claims totaling 2,243 hectares (5,542-acres)..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "...the Hector Silver-Cobalt Project (the \"Hector Property\"), consisting of 126 contiguous unpatented mineral claims totaling 2,243 hectares (5,542-acres)..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document describes the project's location and size (2,243 hectares) but does not contain any statement of a quantified mineral resource (e.g., tonnes, ounces, pounds)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:KENY",
+      "justification": "The buyer is Makenita Resources Inc. The text states: 'Upon listing on the CSE, it is expected that the Makenita Shares will trade under the ticker symbol \"KENY\"'."
+    }
+  }
+}

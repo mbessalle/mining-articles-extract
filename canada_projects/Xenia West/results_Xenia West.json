@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Xenia West/82221.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Xenia West",
+      "justification": "The primary project of interest was specified as Xenia West. The article confirms the acquisition of the 'Xenia West and East lithium projects'."
+    },
+    "company_name": {
+      "value": "American Salars Lithium Inc.",
+      "justification": "The acquiring company is identified in the headline and first paragraph: 'AMERICAN SALARS LITHIUM INC. (\"AMERICAN SALARS\" OR THE \"COMPANY\") (CSE: USLI, OTC: USLIF, FWB: Z3P, WKN: A3E2NY) announces that is has entered into an arm's length mineral claim purchase agreement to acquire the Xenia West and East lithium projects...'"
+    },
+    "ceo_buyer": {
+      "value": "R. Nick Horsley",
+      "justification": "The CEO of the buyer, American Salars, is identified in a quote and at the end of the press release: 'American Salars CEO & Director R. Nick Horsley states...' and '“R. Nick Horsley” R. Nick Horsley, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the company is acquiring the full interest in the project: 'American Salars is acquiring a 100-per-cent interest in the Xenia West & East project...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly identified as a lithium project: 'American Salars Acquires Xenia West & East Lithium Projects In Quebec'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, American Salars Lithium Inc., is listed on the Canadian Securities Exchange (CSE), as stated in the text '(CSE: USLI...)' and in the detailed quote section 'Exchange: CSE'. The dollar sign '$' in the detailed quote is therefore inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration was shares only, not cash. The text states the acquisition was made by 'issuing to the vendor 50,000 common shares'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw dollar value for the share payment is not provided. The payment is defined by the number of shares and their price, which are populated in other fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration was not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": 25000,
+      "justification": "The value is 25,000, calculated as half of the total 50,000 common shares issued for the two projects (Xenia West & East) as stated in the transaction terms: '...whereby American Salars is acquiring a 100-per-cent interest in the Xenia West & East project by issuing to the vendor 50,000 common shares.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment for the Xenia West project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 2691,
+      "justification": "The value is 2691, calculated as half of the total 5,382 hectares for the two projects (Xenia West & East) as stated: 'These highly prospective lithium Projects consist of 92 mining claims covering approximately 5,382 hectares or 54 square km.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text: '...covering approximately 5,382 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No resource is stated for the Xenia West project. The resources mentioned in the text, such as '457,000 tonnes Lithium Carbonate Equivalent (“LCE”) at the Candela 2 Lithium Brine Project' and '760,000 tonnes of Lithium Carbonate Equivalent (“LCE”) on the combined Pocitos 1 ... and neighbouring Pocitos 2 block', belong to other projects in the company's portfolio."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:USLI",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'AMERICAN SALARS LITHIUM INC. (\"AMERICAN SALARS\" OR THE \"COMPANY\") (CSE: USLI, OTC: USLIF, FWB: Z3P, WKN: A3E2NY)...'"
+    }
+  }
+}

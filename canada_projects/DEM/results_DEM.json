@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/DEM/38826.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "DEM",
+      "justification": "The text states Evergold has entered into an option agreement for the \"...exclusive right and option to acquire a 100% interest in the drill-ready, highly prospective DEM gold-silver property (the “DEM Property)...\""
+    },
+    "company_name": {
+      "value": "Evergold Corp.",
+      "justification": "The buyer is identified in the first sentence: \"Evergold Corp. (TSX-V: EVER, OTC: EVGUF, WKN: A2PTHZ) (“Evergold” or the “Company”) is pleased to announce that it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Kevin Keough",
+      "justification": "A quote in the article identifies the CEO: \"...said Kevin Keough, President & CEO.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for \"...the exclusive right and option to acquire a 100% interest in the drill-ready, highly prospective DEM gold-silver property...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described as the \"DEM gold-silver property\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release and does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Evergold Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and payments are denoted with a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 980000,
+      "justification": "The terms of the agreement state: \"The Company has the right to earn a 100% ownership interest in the DEM Property in exchange for staged cash payments to the Optionors over four years cumulatively totaling $980,000...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text explicitly states: \"The Option Agreement does not require the issuance of any shares of the Company.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction involves only cash payments and work commitments, with no shares issued. Therefore, this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text explicitly states: \"The Option Agreement does not require the issuance of any shares of the Company.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an option agreement, but the consideration is in the form of cash payments and work commitments, not payments of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5000000,
+      "justification": "The agreement includes \"...escalating work commitments totaling $5,000,000 over the same time frame...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction terms, \"the Optionors retain a 2% Net Smelter Returns royalty (the “Royalty”)...\""
+    },
+    "coverage_area_raw": {
+      "value": 10451,
+      "justification": "The text states: \"The 10,451 hectare DEM Property is advantageously located in moderate terrain...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text states: \"The 10,451 hectare DEM Property is advantageously located in moderate terrain...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the property as \"untested\" and \"never drilled\", and notes that a \"NI 43-101 compliant technical report is being prepared\", indicating no current mineral resource estimate exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EVER",
+      "justification": "The company is identified as \"Evergold Corp. (TSX-V: EVER...)\". The Detailed Quote section also lists \"Exchange: TSXV\"."
+    }
+  }
+}

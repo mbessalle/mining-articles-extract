@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Victory 21/37375.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Victory 21",
+      "justification": "The article states that Golden Goliath has staked three prospects, one of which is the project of interest: 'Golden Goliath has now staked 3 other prospects; Victory 21, Bedard, and Citadelle...'"
+    },
+    "company_name": {
+      "value": "Golden Goliath Resources Ltd.",
+      "justification": "The company that staked the project is identified as 'Golden Goliath Resources Ltd. (TSXV: GNG ) (OTC Pink: GGTHD) (FSE: GGZ)'."
+    },
+    "ceo_buyer": {
+      "value": "Paul Sorbara",
+      "justification": "The CEO of the acquiring company, Golden Goliath Resources Ltd., is identified as 'Paul Sorbara, MSc, PGeo CEO, Golden Goliath Resources Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text refers to the three newly staked properties, which includes Victory 21, as being 100% owned: 'Three more 100% owned REE properties in addition to the option to earn 100% in the Ernest property puts the Company in an excellent position.'"
+    },
+    "primary_commodity": {
+      "value": "Rare Earth Elements",
+      "justification": "The article describes the project as a Rare Earth Element prospect: 'Golden Goliath has now staked 3 other prospects; Victory 21, Bedard, and Citadelle all with promising geology and anomalous Rare Earth Element values...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168782",
+      "justification": "The article is about Golden Goliath staking three prospects, one of which is the project of interest, Victory 21. 'Golden Goliath has now staked 3 other prospects; Victory 21, Bedard, and Citadelle...'"
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired by staking, and no financial transaction or currency is mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not purchase, so no cash payment was made."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not purchase, so no share payment was made."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not purchase, so no combined payment was made."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired by staking, not purchase, so no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the staking transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the staking transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the staking transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment was mentioned for the Victory 21 project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the area or size of the Victory 21 prospect."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the area or size of the Victory 21 prospect."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'anomalous Rare Earth Element values' but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GNG",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Golden Goliath Resources Ltd. (TSXV: GNG )'."
+    }
+  }
+}

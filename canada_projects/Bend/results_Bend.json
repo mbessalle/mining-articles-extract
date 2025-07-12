@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bend/49619.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bend",
+      "justification": "The project is listed under the 'List of New Properties': 'Bend Project – two mineral claims covering 9,114 hectares'."
+    },
+    "company_name": {
+      "value": "Skyharbour Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Vancouver, BC, Feb. 27, 2024 (GLOBE NEWSWIRE) -- Skyharbour Resources Ltd.(TSX-V:SYH) (OTCQX:SYHBF)(Frankfurt:SC1P)(the “Company”) is pleased to announce that it has acquired by low-cost staking new prospective uranium exploration claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Jordan Trimble",
+      "justification": "The CEO is identified at the end of the press release: 'SKYHARBOUR RESOURCES LTD. “Jordan Trimble” Jordan Trimble President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The press release states that the newly staked claims, which include the Bend project, are 100% owned: 'These 100% owned claims add an additional 64,267 ha to Skyharbour’s existing holdings...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The headline of the press release clearly states the commodity of interest: 'Skyharbour Announces Additional Uranium Property Staking Increasing Total Property Portfolio to over 1.45 Million Acres in the Athabasca Basin, Saskatchewan'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a direct URL to the article itself."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSX-V), which is a Canadian exchange, implying the currency is Canadian Dollars (CAD). The detailed quote section also lists the exchange as 'TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no cash payment amount is specified. The text describes it as 'low-cost staking'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no share payment is mentioned in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The acquisition was made through staking, and no shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Bend project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned for the Bend project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the acquisition terms."
+    },
+    "coverage_area_raw": {
+      "value": 9114,
+      "justification": "The text explicitly states the area for the Bend Project: 'Bend Project – two mineral claims covering 9,114 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text explicitly states the unit for the Bend Project's area: 'Bend Project – two mineral claims covering 9,114 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as 'prospective' but does not provide any quantified mineral resource estimate for the Bend project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SYH",
+      "justification": "The press release identifies the company and its ticker: 'Skyharbour Resources Ltd.(TSX-V:SYH)'. The detailed quote section also confirms the exchange: 'Exchange: TSXV'."
+    }
+  }
+}

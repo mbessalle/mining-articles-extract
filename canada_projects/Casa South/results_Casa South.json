@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Casa South/43120.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Casa South",
+      "justification": "The article discusses the staking of claims on the company's 'Casa South Property in Quebec'."
+    },
+    "company_name": {
+      "value": "Emergent Metals Corp.",
+      "justification": "The announcement is made by 'Emergent Metals Corp. (\"Emergent\" or the \"Company\") (TSXV:EMR)'."
+    },
+    "ceo_buyer": {
+      "value": "David G. Watkinson",
+      "justification": "The press release is signed 'On behalf of the Board of Directors David G. Watkinson, P.Eng. President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of claims, which implies 100% ownership, but no specific percentage of interest acquired is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Graphite",
+      "justification": "The title of the article is 'Emergent Metals Stakes Graphite Claims in Quebec' and the text discusses the potential for graphite exploration."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/796615/emergent-metals-stakes-graphite-claims-in-quebec",
+      "justification": "The article is a press release from Emergent Metals Corp. about staking claims on its Casa South Property, which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no financial consideration (cash or shares) is mentioned in the text."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, and no issuance of shares is mentioned as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions NSRs held by the company on other properties, but no NSR was acquired or retained as part of this specific staking transaction at Casa South."
+    },
+    "coverage_area_raw": {
+      "value": 1790,
+      "justification": "The article states that the company 'has staked 32 mineral claims, totalling 1,790 ha'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The article states that the company 'has staked 32 mineral claims, totalling 1,790 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drill logs with graphitic zones but explicitly states 'no assays were done for graphite analysis' and 'Emergent's geologists have not verified this data.' This does not constitute a quantified mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EMR",
+      "justification": "The company is identified as 'Emergent Metals Corp. (\"Emergent\" or the \"Company\") (TSXV:EMR)'."
+    }
+  }
+}

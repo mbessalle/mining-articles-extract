@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Rayfield/64684.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rayfield",
+      "justification": "The article title is 'Golden Sky Identifies New Geophysical Targets and Expands the Rayfield Copper-Gold Property to ~50,800-hectares, South-Central British Columbia'."
+    },
+    "company_name": {
+      "value": "Golden Sky Minerals Corp.",
+      "justification": "The text states: 'Golden Sky Minerals Corp. (AUEN.V) (“Golden Sky” or “The Company”) is pleased to announce the results of a geophysical analysis conducted on the Rayfield target.'"
+    },
+    "ceo_buyer": {
+      "value": "John Newell",
+      "justification": "The text states: 'John Newell, President and CEO of Golden Sky Minerals, states: “ The staking activities by Boliden and Fortescue, along with our strategic expansion of additional claims, validate our belief in the substantial value of this project.' and 'ON BEHALF OF THE BOARD John Newell, President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the company expanding its own mineral claims ('expanded its mineral claims by approximately 20%'), not acquiring a specific interest percentage from another party in an M&A transaction."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is referred to as the 'Rayfield Copper-Gold Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's ticker is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The 'Detailed Quote' section confirms 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes a property expansion through staking of claims, not an acquisition involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes a property expansion through staking of claims, not an acquisition involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes a property expansion through staking of claims, not an acquisition with a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article describes a property expansion through staking of claims, not an acquisition involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article describes a property expansion through staking of claims, not an acquisition involving a share issuance at a specific price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of a transaction in the text."
+    },
+    "coverage_area_raw": {
+      "value": 50800,
+      "justification": "The text states: 'Consequently, the Company expanded its mineral claims by approximately 20%, now encompassing about 50,800 hectares (ha)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: '...now encompassing about 50,800 hectares (ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration targets and sample grades but does not provide a quantified mineral resource estimate. The company's mandate is described as developing properties 'to the mineral resource stage', implying one does not yet exist."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AUEN",
+      "justification": "The company is identified as 'Golden Sky Minerals Corp. (AUEN.V)'. The '.V' suffix and the 'Detailed Quote' section ('Exchange: TSXV') confirm the exchange is the TSX Venture Exchange."
+    }
+  }
+}

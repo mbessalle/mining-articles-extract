@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Howie Lake/45428.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Howie Lake",
+      "justification": "The text states Ashley Gold's portfolio includes: '100% interest in the Howie Lake Project subject to a 0.5% royalty'."
+    },
+    "company_name": {
+      "value": "Ashley Gold Corp.",
+      "justification": "The press release is from 'Ashley Gold Corp. (CSE:ASHL) (“Ashley” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Darcy Christian",
+      "justification": "The text identifies the person responsible for the release as 'Mr. Darcy Christian, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Ashley Gold already owns '100% interest in the Howie Lake Project', but it does not describe the transaction through which this interest was acquired. The acquisition terms detailed in the article are for the Burnthut Property."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company's general focus is described as: 'Ashley Gold is focused on creating substantive, long-term value for its shareholders through the discovery and development of world class gold deposits.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article's primary focus is the acquisition of the Burnthut Property and a separate financing round, not an M&A transaction for the Howie Lake project. The terms described ('$10,000 cash payment over four months and 600,000 shares') are for the Burnthut acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The financing mentioned in the article is for 'gross proceeds of CDN$77,751', and the company is listed on the Canadian Securities Exchange (CSE), indicating Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The '$10,000 cash payment' mentioned is part of the consideration for the Burnthut acquisition, not the Howie Lake project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment value for a Howie Lake transaction is mentioned in the text. The shares mentioned are for the Burnthut acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment value for a Howie Lake transaction is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The '600,000 shares' mentioned are for the Burnthut acquisition, and the '1,036,680 flow-through units' are for a separate financing. Neither relates to an acquisition of the Howie Lake project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The warrants mentioned are part of a financing round, not consideration for the Howie Lake project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments for the Howie Lake project are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price of '$0.075' is for the flow-through units in a private placement, not for shares issued as part of an acquisition of the Howie Lake project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Howie Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that proceeds from a financing will be used for 'an IP geophysical survey over Howie', but it does not specify a dollar amount committed to this survey as part of a transaction for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article states that the Howie Lake Project is 'subject to a 0.5% royalty', but this appears to be a pre-existing condition of ownership, not a royalty being acquired or retained as part of a new transaction described in the text. The new NSR mentioned (1.5%) is for the Burnthut Property."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Howie Lake project. The '63 unpatented mining cells' are for the Burnthut Property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Howie Lake project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Howie Lake project in the text. The resource mentioned ('over 2 million ounces of gold') belongs to the nearby Treasury Metals project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ASHL",
+      "justification": "The text identifies the company as 'Ashley Gold Corp. (CSE:ASHL)'."
+    }
+  }
+}

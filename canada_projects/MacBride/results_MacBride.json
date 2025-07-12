@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/MacBride/81373.txt",
+    "canada_projects/MacBride/81373_pdf.txt",
+    "canada_projects/MacBride/81376.txt",
+    "canada_projects/MacBride/81376_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "MacBride",
+      "justification": "The text refers to the project as the 'MacBride Base and Precious Metals Project' and the 'MacBride Zinc-Copper Deposit'."
+    },
+    "company_name": {
+      "value": "Corazon Mining Limited",
+      "justification": "Corazon Mining Limited (ASX: CZN) (Corazon or Company) is pleased to announce it has entered into an agreement for the acquisition of three drill-defined zinc-copper-gold deposits..."
+    },
+    "ceo_buyer": {
+      "value": "Brett Smith",
+      "justification": "This announcement has been authorised on behalf of Corazon Mining Limited by Managing Director, Mr. Brett Smith."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Corazon, via wholly owned Canadian subsidiary 5918139 Manitoba Inc, will acquire 100% of the mineral tenure (listed in Table 1 and shown in Figures 1 and 4) for C$153,600."
+    },
+    "primary_commodity": {
+      "value": "Zinc",
+      "justification": "The announcement is titled 'High Grade Zinc Acquisition' and the text describes the acquisition of 'three zinc-copper-gold deposits', with the 'high-grade MacBride Deposit' being the 'headline acquisition' with representative drill holes including '10.7m @ 9.98% Zn'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": null
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Corazon, via wholly owned Canadian subsidiary 5918139 Manitoba Inc, will acquire 100% of the mineral tenure (listed in Table 1 and shown in Figures 1 and 4) for C$153,600."
+    },
+    "cash_payments_raw": {
+      "value": 51200,
+      "justification": "The project's share is C$51,200, calculated as one-third of the total C$153,600 acquisition cost for three deposits (MacBride, Wellmet, and Barrington). The text states the total payment is 'C$153,600' for the 'acquisition of three drill-defined zinc-copper-gold deposits'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash only."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was explicitly for cash, so this field is null per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration commitment value was mentioned as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The vendor, Mr PC Dunlop, will retain a 2% Net Smelter Royalty (NSR) over the ground, with the Company retaining a right to purchase up to 1% of the NSR for C$500k per 0.5%."
+    },
+    "coverage_area_raw": {
+      "value": 26,
+      "justification": "The text states that a subsequent staking action 'increases the MacBride project area from ~26km2 to ~56km2', indicating the project area after the acquisition and before the staking was approximately 26 km2."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Company has physically staked and made applications for new Mining Claims that increases the MacBride project area from ~26km2 to ~56km2..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states the project does not have a current resource: 'The mineral endowment defined by this drilling has been extensively published within historical reports and in recent Canadian company reports as an “historical estimate” under NI 43-101, and is not a current mineral resource under the Canadian code or Australia’s JORC.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:CZN",
+      "justification": "Corazon Mining Limited (ASX: CZN) (Corazon or Company) is pleased to announce the strategic expansion of its MacBride Base and Precious Metals Project..."
+    }
+  }
+}

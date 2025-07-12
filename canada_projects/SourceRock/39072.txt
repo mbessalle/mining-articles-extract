@@ -1,0 +1,78 @@
+--- Article Metadata ---
+Project Name: SourceRock
+Company Name: Metal Energy Corp.
+Exchange: TSXV
+Ticker: MERG
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+8.9.2023, 5:00:00 PM
+
+# Metal Energy Announces Closing of Additional Land at SourceRock
+
+Toronto, Ontario--(Newsfile Corp. - August 9, 2023) - Metal Energy Corp. (TSXV: MERG) (OTCQB: MEEEF) (the "**Company** " or "**Metal Energy** ") is pleased to announce the closing of its previously announced claims acquisition directly adjacent to the SourceRock Project ("**SourceRock** " or the "**Project** ") prospective for lithium ("**Li** ") brines in the Thunder Bay-Nipigon area of northwestern Ontario.
+
+These mining claims were drilled in 2006 and intersected significant saline water flow from 184.7 to 202.39 metres as well as halite cubes, sedimentary cements, and beds, including halite precipitating from waters as the core dries from 528.52 to 582.5 metres. Halite precipitating as described in the core logs suggests the saline fluids are supersaturated with high concentrations of total dissolved solids ("**TDS** "). High TDS concentrations typically correlate with high lithium concentrations.
+
+**SourceRock Purchase Agreement  
+** On July 8, 2023, Metal Energy entered into a Purchase Agreement with an arms length vendor (the "**Vendor** ") to acquire an undivided 100% interest in 9 mining claims (189 hectares) adjacent to SourceRock.
+
+Under the remaining terms of the agreement, the Company has issued to the Vendor;
+
+  1. 1,800,000 common shares of Metal Energy; and
+  2. $10,000 in cash. 
+
+
+
+All of the issued common shares will be subject to such hold periods that are prescribed by applicable securities laws.
+
+Metal Energy will be the operator of the 9 mining claims and as such will have the rights and responsibility to execute all work programs on the Project.
+
+Further to the consideration listed above, the Vendor retains a 2% Gross Value Royalty ("**GVR** ") on the claims. The Company has the right to purchase 1% of the GVR from the Vendor for $1,000,000 at any time. 
+
+**About the SourceRock Li Brine Project  
+** SourceRock encompasses 91,288 hectares within the Proterozoic Sibley sedimentary basin, Thunder Bay-Nipigon area, Ontario. The Project has excellent access to infrastructure and capacity that has supported previous exploration programs and mine development, including year-round highway, railroad, and seaport access, with power and natural gas lines crossing the Project.
+
+**About Metal Energy Corp.  
+** Metal Energy is a nickel and battery metal exploration company focused on two projects in politically stable Canadian jurisdictions; Manibridge (Ni-Cu-Co-PGE) in Manitoba, and SourceRock (Li-Na-K) in Ontario. The Manibridge Project is 85% owned by Metal Energy and 15% owned by Mistango River Resources Inc. (CSE: MIS). SourceRock is subject to earn-in agreements where the Company can acquire 100% exploration rights to the project.
+
+For further information, please contact:
+
+Metal Energy Corp.  
+MERG on the TSXV  
+[info@metalenergy.ca](mailto:info@metalenergy.ca)  
+[www.metalenergy.ca](https://api.newsfilecorp.com/redirect/Bp5zaFL4Em)
+
+James Sykes, CEO  
+[jsykes@oregroup.ca](mailto:jsykes@oregroup.ca)  
+306-221-8717
+
+**Reader Advisory**
+
+ _Certain information set forth in this news release contains forward-looking statements or information ("**forward-looking ‎statements** "), including details about the business of the Company. By their nature, forward-looking statements are subject to numerous risks ‎and uncertainties, some of which are beyond the Company's control, including the impact of general economic conditions, ‎industry conditions, volatility of commodity prices, currency fluctuations, environmental risks, operational risks, competition from ‎other industry participants, stock market volatility. Although the ‎Company believes that the expectations in its forward-looking statements are reasonable, its forward-looking statements have ‎been based on factors and assumptions concerning future events which may prove to be inaccurate. Those factors and ‎assumptions are based upon currently available information. Such statements are subject to known and unknown risks, ‎uncertainties and other factors that could influence actual results or events and cause actual results or events to differ materially ‎from those stated, anticipated or implied in the forward-looking statements. Accordingly, readers are cautioned not to place undue ‎reliance on the forward-looking statements, as no assurance can be provided as to future results, levels of activity or achievements. ‎Risks, uncertainties, material assumptions and other factors that could affect actual results are discussed in our public disclosure ‎documents available at _[www.sedarplus.ca](https://api.newsfilecorp.com/redirect/55WPxHvPqa) _including the Filing Statement dated November 15, 2021. Furthermore, the forward-looking statements contained in this document are made as of ‎the date of this document and, except as required by applicable law, the Company does not undertake any obligation to publicly ‎update or to revise any of the included forward-looking statements, whether as a result of new information, future events or ‎otherwise. The forward-looking statements contained in this document are expressly qualified by this cautionary statement.‎_
+
+ _Neither the TSX Venture Exchange Inc. nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release_
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/176507](https://api.newsfilecorp.com/redirect/LGq31cKOgy)
+
+### Project Name
+
+[SourceRock Project](/?gid=4998)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02                       Bid: 0.02
+Bid Size: 449000                   Beta: 1.85585
+Year High: 0.045                  Market Cap: 2.83m
+PB Ratio: -0.82                   EPS: 0.01
+Average Volume (30 Day): 50.94k    Volume: 964
+Prev. Close: 0.02                Ask: 0.025
+Ask Size: 238000                   Year Low: 0.01
+Total Shares: 141.35m               Shares Out: 141.35m
+Escrow Shares: 6.42m              Float: 119.34m
+Exchange: TSXV

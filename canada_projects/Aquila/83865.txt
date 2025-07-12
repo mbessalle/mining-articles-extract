@@ -1,0 +1,132 @@
+--- Article Metadata ---
+Project Name: Aquila
+Company Name: Go Metals Corp.
+Exchange: CSE
+Ticker: GOCO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.13.2025, 9:00:00 PM
+
+# Go Metals Stakes Natural Hydrogen Targets
+
+Vancouver, British Columbia--(Newsfile Corp. - January 13, 2025) - **Go Metals Corp.** (**CSE: GOCO**) ("**Go Metals** " and/or the "**Company** ") is pleased to report the acquisition of five new projects in Ontario and Quebec through staking by its newly established wholly owned subsidiary, Deep Hydrogen Corp.
+
+**Highlights**
+
+  * 5 new road accessible claim blocks in the Canadian Shield, totalling 5,641 hectares.
+  * Analysis of prospective geological units and the underlying fault and fracture networks.
+  * Detailed catalogue of surficial hydrogen indicators across Ontario and Quebec.
+  * Identification and prioritization of clusters through pattern recognition techniques.
+
+
+
+[](https://images.newsfilecorp.com/files/5946/236737_917f5e1e94936879_001full.jpg)  
+  
+_Figure 1: Example of a forest ring from the Hydra project_  
+  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/5946/236737_917f5e1e94936879_001full.jpg>
+
+Scott Sheldon, CEO of Go Metals, states, "The Canadian Shield offers an ideal proving ground for geologic hydrogen exploration. Our company brings extensive experience in nickel exploration and the study of mafic and ultramafic geology. This expertise gives us a deep understanding of serpentinization, a process critical to nickel deportment in certain deposits and a driver for hydrogen production. Leveraging this knowledge, and with the support of Enki GeoSolutions (see press release dated October 17, 2024), we have devised a strategic approach to uncover a significant source of geologic hydrogen."
+
+**New Projects**
+
+The Company has developed a detailed catalogue of surficial hydrogen indicators across Ontario and Quebec, using a combination of AI and traditional prospecting techniques in regions suitable for the potential formation of natural hydrogen. The following projects were highlighted as priority areas and subsequently staked: 
+
+_Hydra  – 1,987 Hectares_
+
+The Hydra project (see Figure 1) is located near favourable ultramafic and mafic lithologies, large regional faults, and has a high density of circular forest anomalies. The project is also close to roads, power and rail lines. Road access is available via Ontario Highway 634 and forestry/powerline roads. The anomalies trace out lines and shapes that may be related to subsurface structures and gas pathways. 
+
+_Fornax  – 1,049 Hectares_
+
+The Fornax project is centered on an underexplored ultramafic intrusion, located approximately a 1.5-hour drive north of Cochrane, Ontario. The site features multiple prospective rock types conducive to serpentinization and a high density of circular forest anomalies, making it a promising area for exploration. 
+
+_Ursa  – 812 Hectares_
+
+The Ursa project is situated 23 km northwest of Timmins, Ontario and is accessible via forestry and resource roads, just a 45 minute from Timmins. The site was selected for its structural complexity, the presence of regional fault systems, and prevalent ultramafic rocks in the region. Additionally, the project exhibits interesting circular forest and lake anomalies, further enhancing its exploration potential.
+
+_Aquila  – 626 Hectares_
+
+The Aquila project targets a set of deep faults and mafic/ultramafic dikes associated with the Mid-Continent Rift event. An ultramafic dyke on the site runs parallel to and within the rift zone. Minor forest anomalies are present along strike of the ultramafic dike, indicating potential subsurface activity. The project is conveniently located just a one-hour drive from Thunder Bay Airport, making it easily accessible for exploration activities. 
+
+_Cygnus  – 1,167 Hectares_
+
+The Cygnus project is located near the Montviel carbonatite complex, a mantle derived intrusive complex associated with ultramafic units such as pyroxenites and peridotites. A cluster of forest rings, located southeast of the complex, trends northeast over a span of 6km. The project is located approximately 2 hours by road from Chibougamau, providing accessible exploration opportunities.
+
+Detailed outlines of each project can be found on the [Deep Hydrogen website](https://api.newsfilecorp.com/redirect/Ey7PLs8aQB).
+
+**Spring Work Programs**
+
+The upcoming programs will focus on testing gas accumulation at the surface in features selected based on their geological merits and accessibility, as identified through multispectral satellite data, aerial photography and LIDAR. The work will involve soil gas sampling and analysis, complemented by long-term monitoring in the most promising areas to confirm the presence of natural hydrogen.
+
+**Hydrogen Potential in the Canadian Shield**
+
+The Canadian Shield consists primarily of Precambrian crystalline basement rocks, many of which are rich in ultramafic and mafic minerals. Ultramafic rocks contain iron-rich silicates (e.g., olivine and pyroxene) which react with water at depth in a process called serpentinization. This chemical reaction produces natural hydrogen as a byproduct. Faults and fractures can act as conduits for meteoric water to penetrate deep into the crust, facilitating long-term hydrogen production. These same fractures may also create pathways for the migration and accumulation of hydrogen gas upwards into shallow reservoirs. 
+
+**Forest Rings as a Pathfinder for Natural Hydrogen**
+
+Forest rings are a well-documented phenomenon in the boreal forests of Quebec and Ontario. These rings appear as thin circular patterns of stressed vegetation (Figure 1), and they can range in size from just a few tens of meters to over 1km in diameter. The phenomenon may be associated with changing redox conditions and the accumulation of gasses in the subsoil _(Hamilton and Hattori, 2008)_. Malvoisin and Brunet (2023) were the first to suggest that forest rings can be associated with hydrogen at depth, and this was also considered later in Séjourné et al. (2024). Demonstrating that relationship with field measurements would open new areas to hydrogen exploration.
+
+**Circular Vegetation Anomalies**
+
+In areas with forestry activity and heavy anthropogenic modification, forest rings can be obscured. These areas nevertheless can contain circular regions of stressed vegetation that may be an expression of the same process that form forest rings under different conditions. The Company plans to test target areas with favourable geology and circular anomalies to determine if a link between these features and natural hydrogen exists.
+
+**Hydrogen Project Regulations**
+
+Hydrogen exploration is an emerging pursuit in Canada, and the regulatory framework governing these activities varies by province and may not yet be fully defined. There is no assurance that existing claims will be recognized or that future regulatory developments will support the Company's exploration plans. The Company is proactively engaging with provincial authorities to better understand and comply with, the evolving regulatory requirements for hydrogen exploration and development.
+
+**Qualified Person**
+
+Stephan Séjourné, P.Geo., is the qualified person ("QP") for the Company as defined in National Instrument 43-101 and has reviewed and approved the technical information presented within this news release.
+
+**About Go Metals** **and Deep Hydrogen**
+
+Go Metals is a critical mineral exploration company focused on helping create a sustainable future.
+
+The Company uses a proprietary suite of Artificial Intelligence exploration tools under the GeoDL banner. The Company's recently formed wholly owned subsidiary, Deep Hydrogen Corp. has a mandate to explore for natural hydrogen (alternatively, geologic hydrogen, white hydrogen, or gold hydrogen) in the Canadian Shield. 
+
+For further information, please contact:
+
+Scott Sheldon, President  
+604.725.1857  
+[Scott@GoMetals.ca](mailto:Scott@GoMetals.ca)
+
+**Forward-Looking Information:**
+
+_This press release may include "forward-looking information" (as that term is defined by Canadian securities legislation), concerning the Company's business. Forward-looking information is based on certain key expectations and assumptions made by the Company's management, including future plans for the exploration and development of its mineral properties, future production, reserve potential, and events or developments that the Company expects. Although the Company believes that such expectations and assumptions are reasonable, investors should not rely unduly on such forward-looking information as the Company can give no assurance, they will prove to be correct. Forward-looking statements in this press release are made as of the date of this press release. The Company disclaims any intent or obligation to publicly update any forward-looking information (whether because of new information, future events or results, or otherwise) other than as required by applicable securities laws. There are several risk factors that could cause future results to differ materially from those described herein. Information identifying risks and uncertainties is contained in the Company's filings with the Canadian securities regulators, which filings are available at[SedarPlus.ca](https://api.newsfilecorp.com/redirect/x35BAfmzWX)._
+
+_The Canadian Securities Exchange (operated by CNSX Markets Inc.) has neither approved nor disapproved of the contents of this news release._
+
+_**References:**_
+
+_Hamilton, S. and Hattori, K., 2008. Spontaneous potential and redox responses over a forest ring. Geophysics,. v. 73, p. B67-B75._[_https://doi.org/10.1190/1.2890287_](https://api.newsfilecorp.com/redirect/7WOzDtA0o1) _._
+
+_Malvoisin, B. and Brunet, F., 2023. Barren ground depressions, natural H2 and orogenic gold deposits: Spatial link and geochemical model. Science of the Total Environment, v. 856, no 158969._[_http://dx.doi.org/10.1016/j.scitotenv.2022.158969_](https://api.newsfilecorp.com/redirect/eLax2HGDP4)
+
+ _Séjourné, S., Comeau, F.A., Moreira dos Santos, M.L., Bordeleau, G., Claprood, M., Mouge, P., Mulliez, V., Malo, M., Giroux, B., Gloaguen, E. and Raymond, J., 2024. Potential for Natural Hydrogen in Quebec (Canada): A First Review. Frontiers in Geochemistry, v. 2, no 1351631._[_https://doi.org/10.3389/fgeoc.2024.1351631_](https://api.newsfilecorp.com/redirect/85P4ri3arG)
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/236737](https://api.newsfilecorp.com/redirect/yELRgiGp2W)
+
+### Project Name
+
+[Aquila Project](/?gid=9592)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.04          Open: 0.035
+High: 0.04          Bid: 0.035
+Bid Size: 134000      Beta: -5.86027
+Year High: 0.085     Market Cap: 1.07m
+PB Ratio: 1.70      Average Volume (30 Day): 32.95k
+Volume: 8,000        Prev. Close: 0.04
+Low: 0.035           Ask: 0.035
+Ask Size: 60000      VWAP: 0.03688
+Year Low: 0.025      Total Shares: 26.66m
+Shares Out: 706.29k    PE Ratio: 4.00
+Float: 24.41m         Exchange: CSE

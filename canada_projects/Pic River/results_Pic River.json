@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Pic River/50776.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pic River",
+      "justification": "The text refers to the project as the 'Pic River PGM-Copper Project' and 'The Pic River Platinum Group Metals (PGM) Project'."
+    },
+    "company_name": {
+      "value": "Plato Gold Corp.",
+      "justification": "The acquiring company is identified in the first paragraph: 'Plato Gold Corp. (TSX-V: PGC) ... is pleased to announce it has completed terms for the 100% acquisition of the Pic River PGM-Copper Property...'"
+    },
+    "ceo_buyer": {
+      "value": "Anthony Cohen",
+      "justification": "The contact information at the end of the article lists 'Anthony Cohen President and CEO Plato Gold Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states that Plato Gold Corp. 'has completed terms for the 100% acquisition of the Pic River PGM-Copper Property'."
+    },
+    "primary_commodity": {
+      "value": "PGM",
+      "justification": "The project is repeatedly referred to by its commodity type, for example: 'The Pic River Platinum Group Metals (PGM) Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Pic River, but no URL is provided in the source text to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions payments in '$' (e.g., '$125,000'). The acquiring company, Plato Gold Corp., is listed on the TSX Venture Exchange ('Exchange: TSXV'), so the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 125000,
+      "justification": "The agreement terms include a cash component: 'Plato has made a total cash payment of $125,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text provides the number of shares issued but does not state a total monetary value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1650000,
+      "justification": "As part of the agreement, Plato 'issued 1,650,000 Plato Common Shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.03'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment defined by drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 160000,
+      "justification": "The company 'has fulfilled the minimum exploration expenditure requirement of $160,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty is mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2247,
+      "justification": "The project's size is stated in the company description: 'The Pic River Platinum Group Metals (PGM) Project consists of 2,247 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the same sentence: 'The Pic River Platinum Group Metals (PGM) Project consists of 2,247 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a resource estimate for the Pic River project itself. It describes the project as 'underexplored' and notes that 'anomalies that remain untested'. The only resource estimate mentioned is for the adjacent 'Marathon Deposit'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PGC",
+      "justification": "The buyer is identified as 'Plato Gold Corp. (TSX-V: PGC)'. The exchange is also confirmed in the detailed quote section: 'Exchange: TSXV'."
+    }
+  }
+}

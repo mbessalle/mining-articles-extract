@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hook/48949.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hook",
+      "justification": "The new property package, named The Hook property, is located 60 km south-southwest of the Voisey's Bay mine owned and operated by VALE..."
+    },
+    "company_name": {
+      "value": "Wolverine Resources Corp.",
+      "justification": "The press release is from 'Wolverine (OTC PINK : WOLV)' and the 'About Wolverine' section states 'Wolverine is focused on the identification, acquisition, and exploration of mineral properties in Labrador...'. The full name is taken from the authoritative metadata."
+    },
+    "ceo_buyer": {
+      "value": "Bruce Costerd",
+      "justification": "On Behalf of the Board\n\n**Bruce Costerd**  \n**CEO**"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the property was acquired 'in partnership with Rich Resources Inc', but does not specify the ownership percentage for Wolverine."
+    },
+    "primary_commodity": {
+      "value": "Rare Earth Elements",
+      "justification": "Wolverine (OTC PINK : WOLV), in partnership with Rich Resources Inc, has acquired 9,587 hectares through staking of 3 licenses (384 claims) to expand its critical minerals rare earth element (REE) presence in Labrador."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/197898",
+      "justification": "The article is titled 'Wolverine Expands Frog Property Package in Labrador' and the body states 'The new property package, named The Hook property...'. This confirms the article is about the correct project."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The company trades on the US-based OTC PINK market under the symbol WOLV, and the detailed quote uses a '$' symbol, implying USD."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired 'through staking', not a purchase, and no cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired 'through staking', not a purchase, and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired 'through staking', not a purchase, and no combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The property was acquired 'through staking', not a purchase, and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the text as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future 'prospecting and drill testing' but does not quantify this commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions 'aggressive exploration programs' are planned for both the Frog and Hook properties, but does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 9587,
+      "justification": "Wolverine (OTC PINK : WOLV), in partnership with Rich Resources Inc, has acquired 9,587 hectares through staking of 3 licenses (384 claims)..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Wolverine (OTC PINK : WOLV), in partnership with Rich Resources Inc, has acquired 9,587 hectares through staking..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states 'The Hook property is an early stage project that historically has never had work done on it,' which implies no mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "OTC PINK:WOLV",
+      "justification": "The text explicitly states 'Wolverine (OTC PINK : WOLV)' and 'Wolverine trades on the OTC PINK under the symbol WOLV.'"
+    }
+  }
+}

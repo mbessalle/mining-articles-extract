@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Muskrat Dam/48580.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Muskrat Dam",
+      "justification": "The text announces an option agreement for Snow Lake to acquire an interest in the 'Muskrat Dam Project'."
+    },
+    "company_name": {
+      "value": "Snow Lake Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Snow Lake Resources Ltd., d/b/a Snow Lake Lithium™ (NASDAQ: LITM) (\"Snow Lake\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Frank Wheatley",
+      "justification": "A quote in the article is attributed to 'Frank Wheatley, CEO of Snow Lake'."
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "Snow Lake has entered into an 'option agreement... to acquire a 90% undivided interest in a group of mineral claims...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The press release is from 'Snow Lake Lithium™' and discusses the project's 'potential to host lithium mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/197209",
+      "justification": "The source link is provided at the end of the article: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/197209'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "While the initial cash payment is in CAD, the majority of the transaction's financial components, including work commitments (US$3,000,000), potential milestone payments (US$3,000,000), and warrant pricing (US$1.50), are denominated in USD. The company is also listed on a US exchange (Nasdaq)."
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The agreement requires 'paying to Manco on the Effective Date an aggregate of CAD$50,000 cash'. This is the only firm, upfront cash payment specified. Future potential cash payments are optional."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued, but does not provide a total monetary value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction components are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "The terms include 'allotting and issuing to Manco on the Effective Date, as fully paid and non-assessable common shares, an aggregate of 500,000 common shares (the \"Shares\") of Snow Lake'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement includes the issuance of 2,000,000 warrants, but no monetary value for this grant is provided in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the entire agreement is an option, there is no single payment defined as an 'option payment' separate from the cash, share, and warrant considerations."
+    },
+    "issued_share_price": {
+      "value": 3.86,
+      "justification": "The transaction terms mention the number of shares issued (500,000) but not a specific price ('deemed price equal to the 30-Day volume-weighted average trading price'). Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 3.86'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The agreement requires Snow Lake to incur a 'Work Commitment' totaling US$3,000,000, composed of three annual commitments: 'US$1,000,000 on or before the 1st anniversary... US$1,000,000 on or before the 2nd anniversary... and US$1,000,000 on or before the 3rd anniversary'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Manco, retains a royalty interest as part of the deal: 'Upon the exercise the Option, Snow Lake will grant Manco a 2% net smelter return royalty over the Muskrat Dam Project'."
+    },
+    "coverage_area_raw": {
+      "value": 6000,
+      "justification": "The project consists of '302 single cell, unpatented mineral claims totaling over 6,000 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project consists of '302 single cell, unpatented mineral claims totaling over 6,000 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource of '8.2 million metric tonnes' but explicitly states this belongs to 'The wholly owned Snow Lake Lithium™ Project', not the Muskrat Dam Project. No current mineral resource is stated for the Muskrat Dam Project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:LITM",
+      "justification": "The acquiring company is identified in the first paragraph as 'Snow Lake Resources Ltd., d/b/a Snow Lake Lithium™ (NASDAQ: LITM)'."
+    }
+  }
+}

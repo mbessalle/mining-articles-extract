@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Beauchamp/82377.txt",
+    "canada_projects/Beauchamp/88472.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beauchamp",
+      "justification": "The primary project of interest is confirmed in the document titles: 'Record Resources Updates Status of Beauchamp Hydrogen Property Acquisition' and 'Record Resources Receives Approval for the Acquisition of the Beauchamp Natural Hydrogen Property'."
+    },
+    "company_name": {
+      "value": "Record Resources Inc.",
+      "justification": "The acquiring company is identified in the first sentence of both articles: 'Record Resources Inc. (TSXV: REC) announces...'"
+    },
+    "ceo_buyer": {
+      "value": "Michael C. Judson",
+      "justification": "The contact information identifies the CEO of the buyer: 'For more information please contact: Michael C. Judson, Chairman & CEO Record Resources Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement terms state the percentage of ownership to be acquired: 'The proposed terms provide Record with 100% ownership of the hydrogen claims...'"
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The project is repeatedly described as a hydrogen property: 'Record Resources Receives Approval for the Acquisition of the Beauchamp Natural Hydrogen Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/234302",
+      "justification": "The article titled 'Record Resources Updates Status of Beauchamp Hydrogen Property Acquisition' is directly about the specified project and company."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration includes amounts in '$' and the acquiring company, Record Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 39000,
+      "justification": "The transaction terms explicitly state a cash component: '...and a cash consideration of $39,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment is described by the number of shares and a price per share, not as a single raw monetary value. This information is captured in the `amount_of_shares_issued` and `issued_share_price` fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately in the text, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 12500000,
+      "justification": "The transaction terms specify the number of shares to be issued: '...in exchange for 12,500,000 shares issued at a price of $0.03 per share...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the articles do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the articles do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The transaction terms specify the price per share: '...in exchange for 12,500,000 shares issued at a price of $0.03 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration activities but does not specify a commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that 'Exploration activities are expected to commence this year' but does not mention a specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms state that the seller will retain a royalty, which is part of the deal consideration: 'The vendor will retain a 2% gross revenue royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 300,
+      "justification": "The property size is defined by the number of claims: 'The Beauchamp Property consists of 300 claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "claims",
+      "justification": "The unit for the coverage area is specified in the text: 'The Beauchamp Property consists of 300 claims...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Beauchamp property. It explicitly states, 'The geo-scientific disclosure contained herein is not necessarily indicative of the mineralization on the property.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:REC",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the articles: 'Record Resources Inc. (TSXV: REC) announces...'"
+    }
+  }
+}

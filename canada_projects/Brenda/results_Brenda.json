@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Brenda/87433.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Brenda",
+      "justification": "The article announces an option agreement for Amarc to acquire the Brenda Property: \"Amarc Builds on AuRORA Cu-Au-Ag Discovery with Option to Acquire 100% Interest in Adjacent Brenda Property\"."
+    },
+    "company_name": {
+      "value": "Amarc Resources Ltd.",
+      "justification": "The acquiring company is identified in the first paragraph: \"Amarc Resources Ltd. (TSXV:AHR)(OTCQB:AXREF) (Amarc or the \"Company\"), is pleased to announce it has signed a mineral property option agreement with Canasil Resources Inc. (\"Canasil\") pursuant to which Amarc can acquire 100% interest...\""
+    },
+    "ceo_buyer": {
+      "value": "Diane Nicolson",
+      "justification": "The press release is signed by the President and CEO of the buyer, Amarc Resources Ltd.: \"Dr. Diane Nicolson President and CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement gives Amarc the option to acquire the full interest in the property: \"Amarc can acquire 100% interest in 22 mineral claims...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text describes the mineralization on the property being acquired: \"Historical exploration of the Brenda Property has identified both epithermal and porphyry related rock alteration assemblages hosting Cu, Au and Ag mineralization...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/amarc-builds-on-aurora-cu-au-ag-discovery-with-option-to-acquire-100-interest-in-a-982872",
+      "justification": "The article is about Amarc Resources Ltd.'s option agreement to acquire the Brenda Property, which is the project of interest. The link is found at the bottom of the article: 'View the original press release on ACCESS Newswire'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with a '$' symbol. The acquiring company, Amarc Resources Ltd., is listed on the Canadian TSX Venture Exchange (TSXV:AHR), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement with a complex, conditional payment structure, not a single cash payment. It involves 'annual payments of $400,000' and a variable 'option to purchase exercise price starting at $8 million if exercised in the first year, and increasing on an annual basis to $12 million in year five'. This cannot be aggregated into a single raw value."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments as part of the consideration for the Brenda property option agreement. The mention of stock options is for technical staff, not the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is mentioned for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the Brenda property option agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were issued as part of the consideration for the Brenda property option agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction itself is an option agreement paid in cash, not a payment made with stock options or warrants."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific drilling commitment in meters for the Brenda property."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration expenditure commitment for the Brenda property. Funding mentioned by Freeport is for the broader JOY District."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "Amarc has the option to acquire a portion of the existing royalty: \"The claims are subject to a 2% net smelter returns royalty of which 1% (or one-half) can be acquired for $5 million...\""
+    },
+    "coverage_area_raw": {
+      "value": 44.5,
+      "justification": "The size of the property is stated in the text: \"The adjoining 44.5 km2 Brenda Property optioned from Canasil...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is provided alongside the value: \"The adjoining 44.5 km2 Brenda Property...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Brenda property. It only mentions a historical drill intersection: 'an intersection of 78 m grading 0.61 g/t Au and 0.10% Cu'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AHR",
+      "justification": "The buyer is identified as Amarc Resources Ltd., and the text explicitly states its ticker and exchange as '(TSXV:AHR)'."
+    }
+  }
+}

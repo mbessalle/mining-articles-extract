@@ -1,0 +1,99 @@
+{
+  "source_files": [
+    "canada_projects/Skyline /23950.txt",
+    "canada_projects/Skyline /55255.txt",
+    "canada_projects/Skyline /63187.txt",
+    "canada_projects/Skyline /63188.txt",
+    "canada_projects/Skyline /63189.txt",
+    "canada_projects/Skyline /72542.txt",
+    "canada_projects/Skyline /72547.txt",
+    "canada_projects/Skyline /72547_pdf.txt",
+    "canada_projects/Skyline /74543.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Skyline",
+      "justification": "The authoritative project name is Skyline, which is confirmed by the metadata header 'Project Name: Skyline Project' in the provided documents."
+    },
+    "company_name": {
+      "value": "Firetail Resources Limited",
+      "justification": "The buyer/acquirer in the transaction is Firetail Resources Limited. As the schema requests buyer-specific information (ceo_buyer, buyer_ticker_and_exchange), the buyer's name is used. The text states: 'YORK HARBOUR METALS INC. (TSXV: YORK)... entered into an option agreement... with Australian-listed Firetail Resources Limited (ASX: FTL)'."
+    },
+    "ceo_buyer": {
+      "value": "Glenn Poole",
+      "justification": "The Firetail Resources announcement from 25 September 2024 is signed by 'Managing Director and CEO, Glenn Poole, commented:'."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement allows Firetail to 'earn up to an 80% interest in York Harbour Metals’ (“YHM”) Newfoundland Copper Zinc-Silver Project.' and 'York Harbour has granted an option (the \"Option\") to Firetail to earn a 80% undivided interest in the Company's York Harbour Copper-Zinc-Silver Project'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as the 'York Harbour Copper-Zinc-Silver Project' and a 'highly prospective York Harbour Copper asset'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/211882",
+      "justification": "The articles describe an option agreement for the 'York Harbour Copper-Zinc-Silver Project', which is identified as the 'Skyline Project' in the document metadata, matching the project of interest. The selected link announces the transaction."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The cash consideration is specified in Australian dollars: 'Firetail can exercise the Option over a three-year period for total consideration of $500,000 AUD...'"
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The total cash consideration is listed as '$500,000 AUD in cash payments.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A number of shares (175,000,000) is specified, but no monetary value for the share component of the transaction is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into cash, shares, and a drilling commitment, but a single combined monetary value is not provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 175000000,
+      "justification": "The total share consideration is '175,000,000 ordinary shares in Firetail Resources.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued is stated, but a price per share for the transaction is not provided in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": 10000,
+      "justification": "The agreement requires the 'Completion of 10 kilometres of drilling on the York Harbour Project.' 10 kilometres is equal to 10,000 meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is defined in drilling meters (10 km), not a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal, an NSR is granted to the seller: 'Upon completion of the first milestone, Firetail granted a 2% net smelter returns royalty to York Harbour over the York Harbour Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 4725,
+      "justification": "The project is described as 'spanning 4,725 hectares in Newfoundland'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project is described as 'spanning 4,725 hectares in Newfoundland'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'historic production of 100,000 tonnes mined at 3-12% Cu, 7% Zn and 1-3oz/t Ag' but does not provide a current mineral resource estimate. The focus of the work described is on exploration and delineation."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:FTL",
+      "justification": "The buyer is identified as 'Firetail Resources Limited (Firetail or the Company) (ASX: FTL)'."
+    }
+  }
+}

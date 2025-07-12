@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Hatchet Lake/87440.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hatchet Lake",
+      "justification": "The project is referred to as the 'Hatchet Lake Project' in a hyperlink within the document's project summary section."
+    },
+    "company_name": {
+      "value": "ValOre Metals Corp.",
+      "justification": "The press release is issued by ValOre Metals Corp. and details agreements for its subsidiary, Hatchet Uranium Corp. The text states: 'ValOre Metals Corp. (“ValOre”; TSX‐V: VO; OTCQB: KVLQF; Frankfurt: KEQ0) today provided an update on developments concerning Hatchet Uranium Corp. (“Hatchet”), in which ValOre currently holds an approximate 51.5% partially diluted ownership interest.'"
+    },
+    "ceo_buyer": {
+      "value": "James R. Paterson",
+      "justification": "The document is signed 'On behalf of the Board of Directors, “Jim Paterson” James R. Paterson, Chairman and CEO ValOre Metals Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "A single interest percentage cannot be determined as the transaction involves two separate agreements with different terms for different properties. Hatchet may acquire an 80% interest in the Highway property ('whereby Hatchet may acquire an 80% interest in Skyharbour’s 17,606 ha Highway Uranium Property') and a 100% interest in the Purchased Properties ('Hatchet acquired a 100% interest in the Purchased Properties')."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The acquired properties are consistently referred to as uranium projects, for example: 'ValOre Announces Closing of Agreements with Skyharbour for Uranium Projects Located in Saskatchewan' and 'Highway Uranium Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the Hatchet Lake project, but no verifiable URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies Canadian dollars for the transaction components: '...combined cash, share issuance and exploration expenditure commitments of CAD $3.345 million.'"
+    },
+    "cash_payments_raw": {
+      "value": 330000,
+      "justification": "The total cash payment is the sum of payments from two agreements plus a conditional fee: $245,000 for the Highway property ('aggregate cash payments of CAD $245,000'), $25,000 for the Purchased Properties ('paying Skyharbour $25,000'), and a conditional $60,000 listing fee ('pay Skyharbour a monthly fee of $10,000 until such conditions are satisfied or an aggregate of $60,000 has been paid')."
+    },
+    "share_payments_raw": {
+      "value": 1050000,
+      "justification": "The agreement for the Highway property includes shares valued at CAD $1,050,000. The payment for the Purchased Properties was a percentage of equity (9.9%) and not a raw dollar value, so it is excluded. 'issuing common shares in the capital of Hatchet (“Shares”) having an aggregate value of CAD $1,050,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not fixed. For the Highway property, it depends on a future 'Deemed Price', and for the Purchased Properties, it is a percentage of the company ('equal to 9.9% of the issued and outstanding Shares')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share purchase warrants are part of the consideration for the Purchased Properties, but no raw value is assigned to them in the text. 'Each Hatchet Unit shall be comprised of one Share and one share purchase warrant...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not fixed and will be based on a future 'twenty (20) day volume weighted average price'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2050000,
+      "justification": "The agreement for the Highway property requires Hatchet to incur CAD $2,050,000 in exploration expenditures. 'incurring an aggregate of CAD $2,050,000 in exploration expenditures on Highway over a three-year period'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Skyharbour, retained a 2% NSR on both sets of properties. 'Skyharbour shall retain a 2% net smelter returns royalty from minerals mined and removed from Highway' and 'Skyharbour shall also retain a 2% net smelter returns royalty from minerals mined and removed from the Purchased Properties'."
+    },
+    "coverage_area_raw": {
+      "value": 97674,
+      "justification": "The text provides a total land position for the new entity created for the project: 'Hatchet Uranium Corp. was incorporated by ValOre on February 7, 2024 and now holds a commanding land position, comprising 97,674 hectares, in the Eastern Athabasca Region of Saskatchewan.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "'Hatchet Uranium Corp. ... now holds a commanding land position, comprising 97,674 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration potential and historical showings (e.g., '0.31% U3O8 in mineralized pegmatite') but does not provide a formal mineral resource estimate with tonnage and grade for any of the acquired properties."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:VO",
+      "justification": "The buyer, ValOre Metals Corp., is identified with its ticker and exchange in the first paragraph: 'ValOre Metals Corp. (“ValOre”; TSX‐V: VO; OTCQB: KVLQF; Frankfurt: KEQ0)'."
+    }
+  }
+}

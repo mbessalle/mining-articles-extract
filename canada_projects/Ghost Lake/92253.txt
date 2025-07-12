@@ -1,0 +1,71 @@
+--- Article Metadata ---
+Project Name: Ghost Lake
+Company Name: Dark Star Minerals Inc.
+Exchange: CSE
+Ticker: BATT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.25.2025, 1:00:00 AM
+
+# Dark Star Moving Forward with Option Agreement for Uranium Assets Located in the Central Mineral Belt of Newfoundland and Labrador
+
+Vancouver, British Columbia--(Newsfile Corp. - March 24, 2025) - **DARK STAR MINERALS INC.** (CSE: BATT) (the "**Company** " or "**Dark Star** ") announces that, further to the Company's news releases dated July 3, 2024, October 18, 2024 and November 14, 2024, it has amended (the "**Amendment** ") the terms of its previously announced option agreement (the "**Option Agreement** ") dated November 14, 2024, with Cronin Exploration Inc. ("**Cronin** ") for the acquisition of up to 100% of Cronin's right, title and interest in and to certain mineral claims commonly know as the Ghost Lake claims located in the Province of Newfoundland and Labrador (the "**Ghost Lake Property** " or "**Property** ").
+
+Marc Branson, President, Chief Executive Officer and a director of Dark Star states: "_With the Amendment of the Option Agreement to acquire a 100% interest in the Ghost Lake Property now complete, the Company is eager to move forward with its commitments under the agreement and is looking forward to exploring the potential of the Ghost Lake Property."_
+
+**Amendment Terms**
+
+Pursuant to the Amendment, the option (the "**Option** ") to acquire the Ghost Lake Property can be exercised by Dark Star on or prior to the fourth anniversary the non-binding letter of intent (the "**LOI** ") dated October 16, 2024 by making:
+
+  * aggregate cash payments of $275,000 as to: $100,000 on or before second anniversary of the execution date of the LOI (the "**LOI Execution Date** "); $75,000 on or before third anniversary of the LOI Execution Date; and $100,000 on or before fourth anniversary of the LOI Execution Date;
+
+  * issuing an aggregate of 10,150,000 common shares (each, a "**Share** ") as to: 750,000 Shares within 5 days of the LOI Execution Date (Issued); and 9,400,000 Shares on the date that is five (5) days following receipt by Dark Star of Canadian Securities Exchange ("**CSE** ") approval for the Share issuances pursuant to the Option Agreement; and
+
+  * incurring an aggregate of $2,900,000 in exploration expenditures as to: $150,000 on ore before April 7, 2025; $500,000 on or before second anniversary of the LOI Execution Date; $750,000 on or before third anniversary of the LOI Execution Date; and $1,500,000 on or before fourth anniversary of the LOI Execution Date.
+
+
+
+
+All other terms to the Option Agreement remain the same as previously disclosed.
+
+All proposed securities issuances of Dark Star are subject to prior approval of the CSE and shall subject to a hold period the greater of: (A) 4 months and a day; and (B) the date that is 10 days following the filing by Dark Star of a National Instrument 43-101 - _Standards of Disclosure for Mineral Projects_ compliant technical report with respect to the Property.
+
+For more information on the Option Agreement and the Ghost Lake Property, see the Company's November 14, 2024 news release filed under its profile on [SEDAR+](https://api.newsfilecorp.com/redirect/K87gWc4mAn).
+
+**About Dark Star Minerals Inc.**
+
+Dark Star Minerals Inc. is a mineral exploration company focused on the acquisition and development of critical mineral resources, specifically the rare earth complex.
+
+**For further information please contact:**
+
+Marc Branson - President, Chief Executive Officer and Director  
+E‐mail: [investors@darkstarminerals.com](mailto:investors@darkstarminerals.com)  
+Telephone: 604‐816‐2555
+
+ _**Neither the CSE nor its Regulation Services Provider (as that term is defined in the policies of the CSE) accepts responsibility for the adequacy or accuracy of this release.**_
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/245855](https://api.newsfilecorp.com/redirect/EyWJwU8QnB)
+
+### Project Name
+
+[Ghost Lake Project](/?gid=8798)
+
+--- Detailed Quote ---
+
+Last: 0.055                       $  Chg: 0.005
+Open: 0.055                       High: 0.055
+Bid: 0.05                        Bid Size: 1000
+Beta: 3.70254                       Year High: 0.12
+Market Cap: 2.79m                 PB Ratio: -12.26
+Average Volume (30 Day): 326.15k    Volume: 2,320
+% Chg: 10.00%                      Prev. Close: 0.05
+Low: 0.055                        Ask: 0.055
+Ask Size: 32000                   VWAP: 0.055
+Year Low: 0.025                   Total Shares: 50.77m
+Shares Out: 50.77m                 Float: 46.91m
+Exchange: CSE

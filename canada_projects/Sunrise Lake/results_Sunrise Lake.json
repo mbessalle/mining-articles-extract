@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sunrise Lake/42643.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sunrise Lake",
+      "justification": "The article is titled \"Honey Badger Silver Substantially Adds to Silver Projects Inventory with Sunrise Lake Acquisition\" and states the company will \"acquire 100% of SSR's Sunrise Lake Silver Project (\"Sunrise Lake\").\""
+    },
+    "company_name": {
+      "value": "Honey Badger Silver Inc.",
+      "justification": "The acquiring company is identified as \"Honey Badger Silver Inc. (TSXV: TUF) (\"Honey Badger\" or the \"Company\").\""
+    },
+    "ceo_buyer": {
+      "value": "Dorian L. (Dusty) Nicol",
+      "justification": "The article identifies the CEO of the buyer: \"The Company's CEO, Dorian L. (Dusty) Nicol, commented...\" and is signed \"ON BEHALF OF THE BOARD Dorian L. (Dusty) Nicol, President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Honey Badger Silver Inc. signed a Purchase Agreement with SSR Mining Inc. (\"SSR\") to acquire 100% of SSR's Sunrise Lake Silver Project (\"Sunrise Lake\")."
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The project is named the \"Sunrise Lake Silver Project\" and the article states it \"contains a historic silver resource of approximately 12.8 million ounces in the Indicated category plus 13.9 million ounces Inferred.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/184307",
+      "justification": "The article content is about the acquisition of the Sunrise Lake project by Honey Badger Silver Inc., which matches the primary project of interest."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for a potential future transaction related to the project is specified in US dollars: \"Half (2%) of this NSR can be purchased by Honey Badger at any time prior to commencement of construction at the project for US$ 10 million...\""
+    },
+    "cash_payments_raw": {
+      "value": 0,
+      "justification": "Terms of the acquisition are that the Company is acquiring Sunrise Lake for zero cash consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The financial data extraction hierarchy prioritizes explicit cash and share values. An explicit cash value of zero is provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions historical drilling of \"over 20,000 meters of diamond drilling\" but does not state any new exploration commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 4,
+      "justification": "As part of the transaction terms, the seller, SSR Mining, retained a royalty: \"SSR will retain a 4% net smelter royalty (NSR) on any future production from the project.\""
+    },
+    "coverage_area_raw": {
+      "value": 1621,
+      "justification": "The project comprises six contiguous mining leases totaling 1,621 hectares, with annual lease payments of about $8,000 and no minimum work commitments."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project comprises six contiguous mining leases totaling 1,621 hectares..."
+    },
+    "resource_size": {
+      "value": "12.8 million ounces Indicated and 13.9 million ounces Inferred",
+      "justification": "The text provides a summary of the historical resource: \"This represents contained silver of approximately 12.8 million ounces Indicated and 13.9 million ounces Inferred.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TUF",
+      "justification": "The buyer is identified in the first paragraph as \"Honey Badger Silver Inc. (TSXV: TUF).\""
+    }
+  }
+}

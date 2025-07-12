@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Greenfield Lithium/28107.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Greenfield Lithium",
+      "justification": "The article title is 'Canada Silver Cobalt has Expanded its Greenfield Lithium Property in Northern Ontario to Nearly 23,000 Hectares'."
+    },
+    "company_name": {
+      "value": "Nord Precious Metals Mining Inc.",
+      "justification": "The buyer is identified in the text as 'Canada Silver Cobalt Works Inc.'. The authoritative metadata and recent news in the document indicate the company's current name is Nord Precious Metals Mining Inc."
+    },
+    "ceo_buyer": {
+      "value": "Frank J. Basa",
+      "justification": "The document is signed by '“Frank J. Basa” Frank J. Basa, P. Eng. Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows the company to 'earn an undivided 100% interest in the Property' through a series of payments and exploration expenditures."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the 'Greenfield Lithium Property' and is described as being contiguous to 'Power Metals’ Case Lake Lithium property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No URL for the primary article was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the acquiring company, Canada Silver Cobalt Works Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 45000,
+      "justification": "The total cash payment is the sum of two tranches: 'Cash payment of $15,000' and 'Cash payment of $30,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the transaction details are provided as a number of shares and a cash component, not a total share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share issuance components are provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 450000,
+      "justification": "The total shares issued is the sum of two tranches: 'issuance of 150,000 shares of the Company' and 'issuance of 300,000 shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.14,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.14'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 90000,
+      "justification": "The total exploration commitment is the sum of two stages: 'The Company incurs exploration expenditures on the Property in the amount $30,000' and 'The Company incurs exploration expenditures in the amount $60,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the agreement, 'the Company grants to the Optionor a 2% NSR on the Property'. This represents an NSR retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 23000,
+      "justification": "The article title states: 'Canada Silver Cobalt has Expanded its Greenfield Lithium Property in Northern Ontario to Nearly 23,000 Hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "Hectares",
+      "justification": "The article title states: 'Canada Silver Cobalt has Expanded its Greenfield Lithium Property in Northern Ontario to Nearly 23,000 Hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as 'greenfield exploration ground' and notes that 'very limited historical work has been done on these claims', indicating no mineral resource has been defined for this specific project. A resource mentioned for 'Castle East' is a different project owned by the company."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CCW",
+      "justification": "The text identifies the acquiring company as 'Canada Silver Cobalt Works Inc. (TSXV: CCW)'."
+    }
+  }
+}

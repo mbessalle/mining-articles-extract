@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Codroy/39708.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Codroy",
+      "justification": "The article is titled 'C2C Gold Acquires Codroy Uranium Project' and refers to the project as the 'Codroy Uranium Project'."
+    },
+    "company_name": {
+      "value": "C2C Gold Corp.",
+      "justification": "The acquiring company is identified as 'C2C Gold Corp. (CSE:CTOC) (the “Company” or “C2C”)'."
+    },
+    "ceo_buyer": {
+      "value": "Chris Huggins",
+      "justification": "The text states: 'Chris Huggins, Chief Executive Officer of C2C Gold, stated: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is described as 'staking of two new uranium bearing mineral licences', which implies 100% interest, but no specific percentage is stated in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the 'Codroy Uranium Project' and the text discusses 'uranium bearing mineral licences' and 'documented uranium occurrences'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer's stock exchange is listed as 'CSE' (Canadian Securities Exchange) in the detailed quote section, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, and no shares were issued as part of the consideration, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty is mentioned as being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2825,
+      "justification": "The text states: 'The licences, covering an area of 2,825 ha, were selected due to presence of seven documented uranium occurrences...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The licences, covering an area of 2,825 ha, were selected due to presence of seven documented uranium occurrences...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project has not been fully evaluated and lacks a formal resource estimate, stating: 'Anomalous uranium has been identified during previous exploration programs but has never been properly evaluated.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CTOC",
+      "justification": "The acquiring company is identified as C2C Gold Corp., and its ticker and exchange are provided in the text as: 'C2C Gold Corp. (CSE:CTOC)'."
+    }
+  }
+}

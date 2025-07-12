@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Stella/82315.txt",
+    "canada_projects/Stella/82355.txt",
+    "canada_projects/Stella/83353.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stella",
+      "justification": "The primary project of interest is named Stella, as confirmed by the article title: 'Probe Gold to Acquire the Stella Property in Val-d’Or, Quebec'."
+    },
+    "company_name": {
+      "value": "Probe Gold Inc.",
+      "justification": "The acquiring company is identified as 'PROBE GOLD INC. (TSX: PRB) (OTCQB: PROBF) (“Probe” or the “Company”)' which 'has entered into a definitive purchase agreement ... to acquire a 100% interest in the Stella Property'."
+    },
+    "ceo_buyer": {
+      "value": "David Palmer",
+      "justification": "The press release is signed 'On behalf of Probe Gold Inc., Dr. David Palmer, President & Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Probe Gold Inc. will 'acquire a 100% interest in the Stella Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described as having potential for gold: 'The Stella Property hosts the high-grade Lacoma gold zone discovered in 1925' and 'has strong potential to host additional high-grade gold mineralization'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The announcement from the seller, Leopard Lake Gold Corp., specifies the currency: 'The sale price of the property is CAD $250,000 in exchange for shares of Probe Gold Inc.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration consists entirely of shares; no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, this field is null because more specific information (number of shares and price per share) is available and populated in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, this field is null because more specific information (number of shares and price per share) is available and populated in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "amount_of_shares_issued": {
+      "value": 149066,
+      "justification": "The transaction details state: 'Probe will acquire a 100% interest in the Property... for consideration of 149,066 common shares of the Company (the “Shares”)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 1.677,
+      "justification": "The completion announcement specifies the price: 'Probe acquired a 100% interest in the Property for consideration of 149,066 common shares of the Company (the “Shares”), at a deemed price per Share of $1.677'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The property was acquired subject to a retained royalty: 'Probe will acquire a 100% interest in the Property, subject to a 3% net smelter returns royalty'."
+    },
+    "coverage_area_raw": {
+      "value": 2987,
+      "justification": "The property size is specified as: 'It spans 52 contiguous claims covering a total of 2,987 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is given in the same sentence: '...covering a total of 2,987 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Stella property. The resources mentioned, such as 'Croinor (323,600 ounces in measured & indicated...)' and 'McKenzie Break gold resource (1.45Moz in inferred category)', are explicitly for other properties owned by Probe Gold."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:PRB",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'PROBE GOLD INC. (TSX: PRB) (OTCQB: PROBF)'."
+    }
+  }
+}

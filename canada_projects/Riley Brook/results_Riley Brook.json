@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Riley Brook/64382.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Riley Brook",
+      "justification": "The text announces the \"...acquisition by claim staking of 1,404 claim units in New Brunswick, the Riley Brook property...\""
+    },
+    "company_name": {
+      "value": "Fancamp Exploration Ltd.",
+      "justification": "The acquiring company is identified as \"Fancamp Exploration Ltd. (“Fancamp” or the “Corporation”) (TSX Venture Exchange: FNC)\"."
+    },
+    "ceo_buyer": {
+      "value": "Rajesh Sharma",
+      "justification": "The contact information section lists \"Rajesh Sharma, President & Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition was done via 'claim staking', which typically implies 100% interest, but the text does not explicitly state the percentage acquired."
+    },
+    "primary_commodity": {
+      "value": "Copper-Gold",
+      "justification": "The headline of the article is \"Fancamp Announces Strategic Acquisition of Riley Brook Claims in New Brunswick Prospective Copper-Gold Region\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Riley Brook, but no URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a grant received in Canadian dollars: \"Fancamp is also pleased to announce that it has received the New Brunswick Junior Mining Assistance Program Grant of CAD $50,000 for 2024.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made \"by claim staking\", not through a purchase agreement involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made \"by claim staking\", not through a purchase agreement involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made \"by claim staking\", not through a purchase agreement involving a combined payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made \"by claim staking\", not through a purchase agreement involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a $50,000 grant will be applied to exploration and that Fancamp will initiate a program, but it does not state a specific exploration commitment value as a term of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 309,
+      "justification": "The text states: \"The Riley Brook property is located in a recognized mining-friendly jurisdiction with a sizeable land package of approximately 309 km²...\""
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The text states: \"The Riley Brook property is located in a recognized mining-friendly jurisdiction with a sizeable land package of approximately 309 km²...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as having 'underexplored potential' and having 'seen little modern exploration', but does not provide a quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FNC",
+      "justification": "The text identifies the company as \"Fancamp Exploration Ltd. (“Fancamp” or the “Corporation”) (TSX Venture Exchange: FNC)\"."
+    }
+  }
+}

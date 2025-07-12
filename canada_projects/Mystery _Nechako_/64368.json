@@ -1,0 +1,156 @@
+{
+  "article": {
+    "id": 64368,
+    "link": "https://contentapi.cision.com/api/v1.0/releases/20240708C0608",
+    "title": "ROKMASTER RECEIVES APPROVAL ON NECHAKO PROJECT",
+    "description": "\n\n<p><span class=\"legendSpanClass\"><span class=\"xn-location\">VANCOUVER, BC</span></span>, <span class=\"legendSpanClass\"><span class=\"xn-chron\">July 8, 2024</span></span> /CNW/ - Rokmaster Resources Corp. (TSXV: RKR) (OTCQB: RKMSF) (FSE: 1RR1) (\"Rokmaster\" or the \"Company\") is pleased to announce receipt of regulatory approval with respect to the Company's option to acquire an interest in the Fox-Coconut and Mystery Properties (collectively, the \"Nechako Project\"), located south of Highway 16 between <span class=\"xn-location\">Prince George</span> and <span class=\"xn-location\">Smithers</span> in west-central British Columbia.  The terms of the option are outlined in the Company's news release dated <span class=\"xn-chron\">June 13, 2024</span>.</p>\n\n    <div class=\"PRN_ImbeddedAssetReference\" id=\"DivAssetPlaceHolder1\">\n                <p>\n                        <a href=\"https://mma.prnewswire.com/media/2455514/Rokmaster_Resources_Corp__ROKMASTER_RECEIVES_APPROVAL_ON_NECHAKO.html\" rel=\"nofollow\" target=\"_blank\">\n                    <img alt=\"Rokmaster Resources Corp. logo (CNW Group/Rokmaster Resources Corp.)\" src=\"https://mma.prnewswire.com/media/2455514/Rokmaster_Resources_Corp__ROKMASTER_RECEIVES_APPROVAL_ON_NECHAKO.jpg\" title=\"Rokmaster Resources Corp. logo (CNW Group/Rokmaster Resources Corp.)\"></img>\n                        </a>\n                </p>\n\n    </div>\n<p>The Company also announces that it intends to extend the exercise period by one year for 5,000,000 share purchase warrants (\"Warrants\") issued in connection with a non-brokered private placement financing on <span class=\"xn-chron\">July 14</span>, 2023.  The Warrants have an original expiry date of <span class=\"xn-chron\">July 14, 2024</span>. All other terms and conditions of the Warrants remain unchanged including its exercise price of <span class=\"xn-money\">$0.09</span>. The Warrant extension is subject to acceptance by the TSX Venture Exchange.  </p>\n<p>On Behalf of the Board of Directors of</p>\n<p><b>Rokmaster Resources Corp.</b></p>\n<p><span class=\"xn-person\">John Mirko</span><br></br>President &amp; Chief Executive Officer.</p>\n<p class=\"prntac\"><i>Neither TSX Venture Exchange nor its Regulation Services Provider (as that term in defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this press release.</i></p>\n<p>CAUTIONARY NOTE REGARDING FORWARD LOOKING STATEMENTS: This news release may contain forward-looking information within the meaning of applicable securities laws (\"forward-looking statements\"). Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words \"expects,\" \"plans,\" \"anticipates,\" \"believes,\" \"intends,\" \"estimates,\" 'projects,\" \"potential\" and similar expressions, or that events or conditions \"will,\" \"would,\" \"may,\" \"could\" or \"should\" occur. These forward-looking statements are subject to a variety of risks and uncertainties which could cause actual events or results to differ materially from those reflected in the forward-looking statements, including, without limitation: receipt of regulatory approvals; risks related to fluctuations in metal prices; uncertainties related to raising sufficient financing, for working capital and to fund the planned work, in a timely manner and on acceptable terms; changes in planned work resulting from weather, logistical, technical or other factors; the possibility that results of work will not fulfill expectations and realize the perceived potential of the Company's properties; risk of accidents, equipment breakdowns and labour disputes or other unanticipated difficulties or interruptions; the possibility of cost overruns or unanticipated expenses in the work program; the risk of environmental contamination or damage resulting from Rokmaster's operations and other risks and uncertainties as disclosed in the information circular mailed to Shareholders in connection with the Meeting to approve the Arrangement. Any forward-looking statement speaks only as of the date it is made and, except as may be required by applicable securities laws, the Company disclaims any intent or obligation to update any forward-looking statement, whether as a result of new information, future events or results or otherwise.</p>\n<p> </p>\n<p>SOURCE  Rokmaster Resources Corp.</p>\n<img alt=\"\" src=\"https://rt.newswire.ca/rt.gif?NewsItemId=C0608&amp;Transmission_Id=202407080600CANADANWCANADAPR_C0608&amp;DateId=20240708\" style=\"border:0px; width:1px; height:1px;\"></img>\n\n",
+    "search_terms": "Nechako (Fox-Coconut and Mystery),Rokmaster Resources Corp.,RKR",
+    "master_gid": 6919,
+    "date": "2024-07-08T10:00:00.000Z",
+    "tags": "Canada||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 420,
+    "provider": "cision",
+    "excerpt": "VANCOUVER, BC,July 8, 2024/CNW/ - Rokmaster Resources Corp. (TSXV: RKR) (OTCQB: RKMSF) (FSE: 1RR1) (\"Rokmaster\" or the \"Company\") is pleased to announce receipt of regulatory approval with respect to the Company's option to acquire an interest in the Fox-Coconut and Mystery Properties (collectively, the \"Nechako Project\"), located south of Highway 16",
+    "is_regulatory": false,
+    "refined_tags": null,
+    "ftp_filename": null,
+    "company_name": "Rokmaster Resources Corp.",
+    "exchange": "TSXV",
+    "root_ticker": "RKR",
+    "project_name": "Mystery (Nechako)",
+    "gid": 6919,
+    "location": null,
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 6919,
+    "project_name": "Mystery (Nechako)",
+    "location": null
+  },
+  "articleExchange": "TSXV",
+  "articleCompanyId": 420,
+  "articleTicker": "RKR",
+  "articleCompanyName": "Rokmaster Resources Corp.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 420,
+      "gid": 8214,
+      "project_name": "Fox-Coconut (Nechako)",
+      "location": null
+    },
+    {
+      "company_id": 420,
+      "gid": 491,
+      "project_name": "Duncan Lake",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 420,
+      "gid": 10022,
+      "project_name": "Big Copper",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 420,
+      "gid": 492,
+      "project_name": "Revel Ridge",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 420,
+      "gid": 6763,
+      "project_name": "Selkirk",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 420,
+      "gid": 10153,
+      "project_name": "Hanson",
+      "location": "British Columbia, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 107490,
+      "company_id": 420,
+      "title": "Rokmaster Closes $450,000 Financing",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250610C5724",
+      "date": "2025-06-10T10:30:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 105157,
+      "company_id": 420,
+      "title": "Rokmaster Signs Definitive Agreement on the Hanson Property",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250520C6618",
+      "date": "2025-05-20T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 103446,
+      "company_id": 420,
+      "title": "Rokmaster Provides Update on the Nechako Project",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250505C3609",
+      "date": "2025-05-05T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 101571,
+      "company_id": 420,
+      "title": "Rokmaster Receives Approval for Two Exploration Permits on the Gold-Silver-Copper-Zinc Selkirk Project",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250425C1987",
+      "date": "2025-04-25T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 98715,
+      "company_id": 420,
+      "title": "Rokmaster Announces Up to $550,000 Financing",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250404C6114",
+      "date": "2025-04-04T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 93054,
+      "company_id": 420,
+      "title": "Rokmaster Adds to the Nechako Project with Hanson Porphyry Property",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250331C9523",
+      "date": "2025-03-31T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 88133,
+      "company_id": 420,
+      "title": "Rokmaster receives approval for Exploration Permit on the Fox-Coconut Property",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20250218C0710",
+      "date": "2025-02-18T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 77738,
+      "company_id": 420,
+      "title": "Rokmaster Samples 657.0 g/t Ag and 11.46% Zn on the Selkirk Project",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20241105C8133",
+      "date": "2024-11-05T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 73395,
+      "company_id": 420,
+      "title": "Rokmaster Resources Samples 16.50 g/t AuEq Over 1.0 m on Its Nechako Project",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20241001C6268",
+      "date": "2024-10-01T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 71913,
+      "company_id": 420,
+      "title": "Rokmaster Resources announces addition of 4,098 hectares to the Mystery Property",
+      "link": "https://contentapi.cision.com/api/v1.0/releases/20240919C4811",
+      "date": "2024-09-19T10:00:00.000Z",
+      "hidden": false
+    }
+  ]
+}

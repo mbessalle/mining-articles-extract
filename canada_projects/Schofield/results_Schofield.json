@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Schofield/32218.txt",
+    "canada_projects/Schofield/97617.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Schofield",
+      "justification": "The authoritative project name is Schofield, which is confirmed in the text: \"Vital Battery Metals Solidifies its Battery Metals Portfolio with the Acquisition of its Schofield Lithium Project\"."
+    },
+    "company_name": {
+      "value": "Vital Battery Metals Inc.",
+      "justification": "The text clearly identifies the acquiring company as Vital Battery Metals Inc., which is a direct contradiction to the provided authoritative company name. The text states: \"Vital Battery Metals Inc. (“Vital” or the “Company”) (CSE: VBAM |OTC: VBAMF | FRA: C0O), is pleased to announce it has entered the Lithium market by acquiring... the Schofield Lithium Project\"."
+    },
+    "ceo_buyer": {
+      "value": "Adrian Lamoureux",
+      "justification": "The CEO of the buyer, Vital Battery Metals Inc., is identified as Adrian Lamoureux. \"Adrian Lamoureux, Chief Executive Officer and President of Vital, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that the company is \"acquiring... the Schofield Lithium Project\" but does not specify the exact percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the Schofield Lithium Project. \"Vital Battery Metals Solidifies its Battery Metals Portfolio with the Acquisition of its Schofield Lithium Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Vital Battery Metals Inc., is listed on the Canadian Securities Exchange (CSE) and the project is in Ontario, Canada, which implies the currency is Canadian Dollars. The detailed quote section confirms the exchange: \"Exchange: CSE\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made \"for the cost of staking\", but the specific monetary value of this cost is not provided in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments as part of the acquisition consideration; the project was acquired for the cost of staking."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value was provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not state that any shares were issued as part of the acquisition consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "A second document mentions extending the expiry date on warrants, but this is not part of the acquisition consideration for the Schofield project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition consideration, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 8824,
+      "justification": "The text states: \"The Project consists of 416 single-cell mining claims covering approximately 8,824 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Project consists of 416 single-cell mining claims covering approximately 8,824 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource has been confirmed on the project: \"the company has yet to confirm the dimensions, extent, or any mineralization that may be present on the Project.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:VBAM",
+      "justification": "The text identifies the acquiring company and its ticker/exchange: \"Vital Battery Metals Inc. (“Vital” or the “Company”) (CSE: VBAM |OTC: VBAMF | FRA: C0O)\". This contradicts the authoritative ticker provided, so the text value is used."
+    }
+  }
+}

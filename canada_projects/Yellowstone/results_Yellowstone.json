@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Yellowstone/74495.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yellowstone",
+      "justification": "The text explicitly names the project in multiple places, including: \"The newly acquired properties include the Yellowstone Project (21,820 hectares – see Figure 2)...\" and under a specific heading \"Acquisition of the Yellowstone Project\"."
+    },
+    "company_name": {
+      "value": "Mustang Energy Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"VANCOUVER, British Columbia, Oct. 10, 2024 (GLOBE NEWSWIRE) -- Mustang Energy Corp. (CSE: MEC)(the “Company ” or “Mustang ”) is pleased to announce the acquisition of 45,585 hectares...\""
+    },
+    "ceo_buyer": {
+      "value": "Nick Luksha",
+      "justification": "The CEO of the buyer, Mustang Energy, is named in a quote: \"“This is another significant land acquisition that marks a major milestone for Mustang Energy Corp as we continue to strengthen our asset base in the world's premier uranium-producing region,” stated Nick Luksha, CEO of Mustang Energy.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the 'Acquisition Highlights' for the Yellowstone Project, the text states: \"100% owned by Mustang Energy, the Yellowstone Project consists of seven adjoining claims totaling 21,820 hectares.\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text repeatedly refers to uranium in the context of the acquisition and region: \"These claims are located in uranium-rich areas, offering excellent exploration potential, and we believe they will enhance long-term value for our shareholders.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Yellowstone. No URL was provided in the prompt to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction details mention a price per share of \"$0.255\". The company is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the Yellowstone project was entirely in shares. No cash payment is mentioned for this specific transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share, which falls under Priority 2 of the extraction hierarchy, making this field null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share, which falls under Priority 2 of the extraction hierarchy, making this field null."
+    },
+    "amount_of_shares_issued": {
+      "value": 12000000,
+      "justification": "The consideration for the Yellowstone project is detailed as: \"...in exchange for the issuance of 12,000,000 common shares (each, a “Share ”) in the capital of Mustang...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the Yellowstone project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the Yellowstone project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.255,
+      "justification": "The text specifies the deemed price per share for the transaction: \"...in exchange for the issuance of 12,000,000 common shares (each, a “Share ”) in the capital of Mustang to three nominees (the “Nominees ”) of the Vendors at a deemed price per Share of $0.255.\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters for the Yellowstone project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any monetary exploration commitment for the Yellowstone project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty was mentioned as being acquired or retained as part of the Yellowstone project transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 21820,
+      "justification": "The text specifies the area of the Yellowstone project: \"The newly acquired properties include the Yellowstone Project (21,820 hectares – see Figure 2)...\" and confirms it in the highlights: \"the Yellowstone Project consists of seven adjoining claims totaling 21,820 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the same sentence: \"The newly acquired properties include the Yellowstone Project (21,820 hectares – see Figure 2)...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Yellowstone project. It only mentions that \"One historic drill hole (SYL-1) encountered strong alteration but missed the intended conductive target,\" which does not constitute a resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MEC",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the announcement: \"Mustang Energy Corp. (CSE: MEC)\"."
+    }
+  }
+}

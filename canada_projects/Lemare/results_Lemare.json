@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lemare/81799.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lemare",
+      "justification": "The article is titled \"ArcWest Announces Option to Acquire Lemare Copper-Gold Project\" and refers to the project throughout as Lemare."
+    },
+    "company_name": {
+      "value": "ArcWest Exploration Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"ArcWest Exploration Inc. (TSXV: AWX) (\"ArcWest\") is pleased to announce the signing of an option agreement to acquire a 100% interest in the Lemare Copper-Gold (Cu-Au) Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Tyler Ruks",
+      "justification": "The CEO of the buyer, ArcWest, is identified in the text: \"Tyler Ruks, President and CEO of ArcWest commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for the acquisition of a full interest: \"ArcWest has signed an agreement... with respect to an option to acquire a 100% interest in the Lemare Property...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as a copper-gold project, as seen in the title: \"ArcWest Announces Option to Acquire Lemare Copper-Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/233487",
+      "justification": "The article is about the Lemare project acquisition by ArcWest Exploration Inc., which matches the project of interest. The source URL is provided at the end of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/233487\""
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, ArcWest Exploration Inc., is listed on the TSXV, a Canadian exchange, and the financial figures are denoted with a '$' symbol. This implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a combined value that can be paid in cash or shares, so the `cash_and_share_payments_combined_raw` field is populated instead, as per the extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a combined value that can be paid in cash or shares, so the `cash_and_share_payments_combined_raw` field is populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 195000,
+      "justification": "The total consideration is stated as: \"ArcWest can earn a 100% interest in the Property by making staged payments to the Vendor totaling $195,000 over a five year period.\" The text also notes that part of this can be paid in shares."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the agreement details."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the transaction payment terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No specific share price for the transaction is mentioned in the agreement terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 100000,
+      "justification": "A minimum expenditure is required in the first year: \"In addition, ArcWest is required to fund minimum expenditures totaling at least $100,000 in the first year.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement includes a retained royalty for the seller: \"The Vendor will retain a 2% net smelter return royalty...\""
+    },
+    "coverage_area_raw": {
+      "value": 3274,
+      "justification": "The size of the project is stated multiple times: \"The 3274 hectare Lemare Project...\" and \"Lemare is a large (3274 hectare) land package...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the project area is specified as hectares: \"The 3274 hectare Lemare Project...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the project as \"early stage\" and mentions historical sampling and limited drilling, but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Lemare project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AWX",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: \"ArcWest Exploration Inc. (TSXV: AWX) (\"ArcWest\") is pleased to announce...\""
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/EMP Project/71937.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "EMP Project",
+      "justification": "The authoritative project name is 'EMP Project'. The text refers to the assets as 'Saskatchewan lithium properties' and 'HCL's lithium-focused mineral projects in Saskatchewan'."
+    },
+    "company_name": {
+      "value": "EMP Metals Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'EMP Metals Corp.(CSE: EMPS) (OTCQB: EMPPF)(\"EMP Metals\" or the \"Company\" ) is pleased to announce the completion of its previously announced acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Karl Kottmeier",
+      "justification": "The Company is also pleased to announce that it has appointed Mr. Karl Kottmeier as the new Chief Executive Officer of the Company."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that EMP Metals acquired '25 common shares... of Hub City Lithium Corp.' from ROK Resources, resulting in EMP Metals owning '100% of the issued and outstanding shares of HCL'. However, the percentage of interest acquired in this specific transaction is not explicitly stated."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text describes the assets as 'Saskatchewan lithium properties' and states 'EMP Metals is a Canadian-based lithium exploration and development company...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The purchase price is explicitly stated in Canadian dollars: '...aggregate purchase price of C$5,125,500...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was paid for via the issuance of shares, not cash."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction details are provided as a number of shares and a price per share, which are populated in the `amount_of_shares_issued` and `issued_share_price` fields as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details are provided as a number of shares and a price per share, which are populated in the `amount_of_shares_issued` and `issued_share_price` fields as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 18925000,
+      "justification": "The total number of shares issued is the sum of 17,085,000 Consideration Shares and 1,840,000 Management Shares. '...the Company acquired the HCL Shares for... the issuance of 17,085,000 Common Shares...' and '...the Company issued an aggregate of 1,840,000 Common Shares (the 'Management Shares')... to ROK...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.3,
+      "justification": "The shares were issued at a deemed price of $0.30. '...payable by the issuance of 17,085,000 Common Shares (the 'Consideration Share') of the Company at a deemed price of $0.30 per Consideration Share.' and '...1,840,000 Common Shares (the 'Management Shares') at a deemed price of $0.30 per Management Share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration spending commitment as part of the acquisition agreement with ROK Resources."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 79300,
+      "justification": "EMP Metals currently holds 196,000 net (79,300 hectares) acres of Subsurface Dispositions and strategic wellbores in Southern Saskatchewan."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "EMP Metals currently holds 196,000 net (79,300 hectares) acres of Subsurface Dispositions and strategic wellbores in Southern Saskatchewan."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:EMPS",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first paragraph: 'EMP Metals Corp.(CSE: EMPS)'."
+    }
+  }
+}

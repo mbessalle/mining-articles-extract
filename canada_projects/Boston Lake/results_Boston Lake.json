@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Boston Lake/35693.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Boston Lake",
+      "justification": "The article announces an option agreement for the 'Boston Lake Claims': \"Rock Tech Enters into an Option Agreement for a 100% Acquisition of the 'Boston Lake Claims' in the Thunder Bay Mining District, Ontario\"."
+    },
+    "company_name": {
+      "value": "Rock Tech Lithium Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Rock Tech Lithium Inc. ( TSXV: RCK) ... (the 'Company' or 'Rock Tech') is pleased to announce that it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Dirk Harbecke",
+      "justification": "The CEO of the buyer, Rock Tech, is listed at the end of the announcement: \"On behalf of the Board of Directors, Dirk Harbecke Chairman & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a complete acquisition: \"...acquire a 100% undivided interest in a total of 6,150 hectares in the Thunder Bay Mining District of Ontario (the 'Boston Lake Claims').\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The press release is from a lithium company and the claims are for lithium exploration: \"...these claims will expand Rock Tech's footprint in the District, as well as provide additional lithium exploration potential...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/rock-tech-options-additional-property-in-thunder-bay-mining-district-and-appoints-strategic-advisor-for-georgia-lake-project-301834535.html",
+      "justification": "The article content directly relates to the acquisition of the Boston Lake project by Rock Tech Lithium Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified for both cash and share payments: \"...additional annual cash payments totaling CAD 175,000...\" and \"...the Company will additionally issue in total CAD 175,000 in shares.\""
+    },
+    "cash_payments_raw": {
+      "value": 175000,
+      "justification": "The total cash consideration is specified: \"Pursuant to the terms of the Agreement, Rock Tech has made an initial deposit and will make additional annual cash payments totaling CAD 175,000 until the third anniversary of this agreement.\""
+    },
+    "share_payments_raw": {
+      "value": 175000,
+      "justification": "The total value of share consideration is specified: \"Concurrent with the cash payments, the Company will additionally issue in total CAD 175,000 in shares.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments are provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the total value of shares to be issued (CAD 175,000), but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any payments in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not specify a price per share for the shares to be issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention a specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention a specific exploration expenditure commitment for the Boston Lake Claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms described in the article do not mention any Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 6150,
+      "justification": "The area of the claims is specified in the agreement details: \"...acquire a 100% undivided interest in a total of 6,150 hectares in the Thunder Bay Mining District of Ontario (the 'Boston Lake Claims').\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the same sentence: \"...acquire a 100% undivided interest in a total of 6,150 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the Boston Lake Claims. It only mentions a resource for a different project, the Georgia Lake Project: \"The Georgia Lake Project contains over 50% of the published Mineral Resources in the Thunder Bay District...\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RCK",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Rock Tech Lithium Inc. ( TSXV: RCK)\"."
+    }
+  }
+}

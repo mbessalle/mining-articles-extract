@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lake George/71635.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lake George",
+      "justification": "The press release is titled \"Hertz Energy Acquires Lake George Antimony Property in New Brunswick\" and the first paragraph states the company is pleased to announce the acquisition of the Lake George Antimony Property (\"Lake George\" or the \"Property\")."
+    },
+    "company_name": {
+      "value": "Hertz Energy Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Hertz Energy Inc. (CSE: HZ) (OTCQB: HZLIF) (FSE: QX1) (\"Hertz\" or the \"Company\") is pleased to announce the acquisition of the Lake George Antimony Property...\""
+    },
+    "ceo_buyer": {
+      "value": "Kal Malhi",
+      "justification": "The document is signed 'On Behalf of the Board of Directors Kal Malhi Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: \"The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims\"."
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The project is explicitly named the \"Lake George Antimony Property\" in the headline and body of the text. It is also referred to as an \"exploration-stage Antimony-Gold (Sb-Au) prospect\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/223522",
+      "justification": "The article is about the Lake George project acquisition by Hertz Energy Inc. The source link is provided at the bottom of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/223522\"."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Hertz Energy Inc., is listed on the Canadian Securities Exchange (CSE: HZ), which implies the currency is Canadian Dollars (CAD). The text also refers to a cash position using a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired through staking, not a purchase from another entity. The text states: 'The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims.' Therefore, there were no cash payments as part of a transaction consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired through staking, not a purchase from another entity. The text states: 'The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims.' Therefore, there were no share payments as part of a transaction consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired through staking, not a purchase from another entity. The text states: 'The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims.' Therefore, there were no combined payments as part of a transaction consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The property was acquired through staking, not a purchase from another entity. The text states: 'The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims.' Therefore, no shares were issued as part of a transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments was found in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The property was acquired through staking, not a purchase from another entity. The text states: 'The Company acquired a 100% interest in the mining claims though staking and there are no underlying agreements or royalties attached to these claims.' Therefore, no shares were issued and no share price was set for a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information about a drilling commitment in meters was found in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 400000,
+      "justification": "The project's share is $400,000, calculated as half of the $800,000 commitment shared between the Lake George and Harriman projects. The text states the company will use its 'current flow-thru cash position of approximately $800,000 to aggressively explore our Antimony Projects portfolio', which the text confirms includes both the Lake George and Harriman properties."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states 'there are no underlying agreements or royalties attached to these claims.'"
+    },
+    "coverage_area_raw": {
+      "value": 2104.5,
+      "justification": "The text states: \"The Property is comprised of 93 mineral claims within two claim blocks recently staked by the Company for a total area of approximately 2,104.5 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Property is comprised of 93 mineral claims within two claim blocks recently staked by the Company for a total area of approximately 2,104.5 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical production information for the adjacent Lake George Mine, but explicitly states this property is owned by the Province of New Brunswick and not part of Hertz's acquisition. A cautionary statement clarifies: 'Readers are cautioned that information regarding the geology, mineralization, mineral resources, and historical production on adjacent properties is not necessarily indicative of the mineralization potential on the Company's properties.' No resource is stated for the actual property acquired by Hertz."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HZ",
+      "justification": "The buyer is identified as Hertz Energy Inc., and the ticker and exchange are provided in the first paragraph: \"Hertz Energy Inc. (CSE: HZ)\"."
+    }
+  }
+}

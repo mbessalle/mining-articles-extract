@@ -1,0 +1,91 @@
+--- Article Metadata ---
+Project Name: South Thompson
+Company Name: Kenorland Minerals Ltd.
+Exchange: TSXV
+Ticker: KLD
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+7.30.2024, 6:30:00 PM
+
+# Kenorland Enters Definitive Agreement to Sell the South Thompson Project to Evolution Nickel
+
+Vancouver, British Columbia--(Newsfile Corp. - July 30, 2024) - **Kenorland Minerals Ltd.**(TSXV: KLD) (OTCQX: KLDCF) (FSE: 3WQ0) ("**Kenorland** " or the "**Company** ") is pleased to announce it has entered into a definitive purchase and sale agreement (the "**Agreement** ") with Evolution Nickel Corporation ("**Evolution** ") pursuant to which Evolution will acquire 100% of the South Thompson Nickel Project (the "**Project** "). Pursuant to the terms of the Agreement, Evolution has agreed to issue Kenorland 26,000,000 common shares of Evolution (for a 50% equity ownership interest prior to the closing of the Financing (as defined below)) and grant Kenorland a 2% net smelter return royalty (the "**Royalty** ") over the entirety of the South Thompson Project at closing of the transaction ("**Closing** ").
+
+At Closing, Kenorland and Evolution will enter into: (i) a definitive agreement in respect of the Royalty; (ii) an investor rights agreement giving Kenorland the right to appoint a director to Evolution's board of directors and a pre-emptive right to maintain Kenorland's pro-rata ownership interest; and (iii) an operator services agreement providing for Kenorland's continued operation of the Project post-Closing. Closing is expected to occur prior to December 31, 2024.
+
+In addition to customary conditions precedent for a transaction of this nature, including the prior approval of the TSX Venture Exchange, Closing is conditional upon Evolution completing an equity financing for gross proceeds of not less than C$4,000,000 (the "**Financing** ").
+
+**About the South Thompson Project**
+
+The South Thompson Project covers 307,753 hectares of land located approximately 200km south of the town of Thompson, Manitoba, and 80km west of the town The Pas, Manitoba. The licences cover the southern extension of the Thompson Nickel Belt, which is predominately covered by Phanerozoic cover sequences. 
+
+Compilation and digitization of historical exploration data, including 337 drillholes, have been completed along with re-processing of historical airborne magnetics and electromagnetic surveys. The Project is adjacent to the Minago and Williams Lake nickel sulphide projects and the regional wide spaced drilling has indicated anomalous Ni assays and sulphide mineralisation in ultramafics within the Project area. 
+
+The Project has seen no meaningful project-scale exploration in the last 20 years and the combination of large gaps in drilling and lack of modern geophysical techniques over the project area represent significant opportunity for a nickel sulfide discovery. Kenorland has conducted a project scale 12,084 line-km Versatile Time Domain Electromagnetic (VTEM) survey at the South Thompson Project in Q1 of 2024 and is currently generating targets for follow-up. 
+
+[](https://images.newsfilecorp.com/files/6489/218178_63be5d02942fca1e_001full.jpg)
+
+_Figure 1. South Thompson Regional Geology and Occurrences_
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/6489/218178_63be5d02942fca1e_001full.jpg>
+
+**Qualified Person**
+
+Mr. Janek Wozniewski, B.Sc., P.Geo. (EGBC #172781, APEGS #77522, EGMB #48045, PGO #3824), "Qualified Person" under National Instrument 43-101, has reviewed and approved the scientific and technical information in this press release.
+
+**About Kenorland Minerals**
+
+Kenorland Minerals Ltd. (TSXV: KLD) is a well-financed mineral exploration company focused on project generation and early-stage exploration in North America. Kenorland's exploration strategy is to advance greenfields projects through systematic, property-wide, phased exploration surveys financed primarily through exploration partnerships including option to joint venture agreements. Kenorland holds a 4% net smelter return royalty on the Frotet Project in Quebec which is owned by Sumitomo Metal Mining Canada Ltd. The Frotet Project hosts the Regnault gold system, a greenfields discovery made by Kenorland and Sumitomo Metal Mining Canada Ltd. in 2020. Kenorland is based in Vancouver, British Columbia, Canada.
+
+**About Evolution Nickel Corporation**
+
+Evolution Nickel Corporation is a newly formed exploration company with a mandate to explore for and discover clean, high-grade nickel sulphide deposits.
+
+Further information can be found on the Company's website [www.kenorlandminerals.com](https://api.newsfilecorp.com/redirect/m3kgXuApv1)
+
+On behalf of the Board of Directors,
+
+**Zach Flood**
+
+President, CEO & Director
+
+For further information, please contact:
+
+**Alex Muir, CFA**  
+Investor Relations Manager  
+Tel +1 604 568 6005  
+[info@kenorlandminerals.com](mailto:info@kenorlandminerals.com)
+
+**Cautionary Statement Regarding Forward Looking Statements**
+
+ _This news release contains forward-looking statements and forward-looking information (together, "forward-looking statements") within the meaning of applicable securities laws. All statements, other than statements of historical facts, are forward-looking statements. Generally, forward-looking statements can be identified by the use of terminology such as "plans", "expects', "estimates", "intends", "anticipates", "believes" or variations of such words, or statements that certain actions, events or results "may", "could", "would", "might", "will be taken", "occur" or "be achieved". Forward looking statements involve risks, uncertainties and other factors disclosed under the heading "Risk Factors" and elsewhere in the Company's filings with Canadian securities regulators, that could cause actual results, performance, prospects and opportunities to differ materially from those expressed or implied by such forward-looking statements. Although the Company believes that the assumptions and factors used in preparing these forward-looking statements are reasonable based upon the information currently available to management as of the date hereof, actual results and developments may differ materially from those contemplated by these statements. Readers are therefore cautioned not to place undue reliance on these statements, which only apply as of the date of this news release, and no assurance can be given that such events will occur in the disclosed times frames or at all. Except where required by applicable law, the Company disclaims any intention or obligation to update or revise any forward-looking statement, whether as a result of new information, future events or otherwise._
+
+_**Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**_
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/218178](https://api.newsfilecorp.com/redirect/kOQPRH0L4O)
+
+### Project Name
+
+[South Thompson Project](/?gid=6281)  
+Manitoba, Canada
+
+--- Detailed Quote ---
+
+Last: 2.00            $  Chg: 0.04
+Open: 1.97            High: 2.00
+Bid: 1.98             Bid Size: 6000
+Beta: 0.68837            Year High: 2.05
+Market Cap: 155.52m      PB Ratio: 2.97
+EPS: -0.05             Average Volume (30 Day): 60.85k
+Volume: 108.57k          % Chg: 2.04%
+Prev. Close: 1.96     Low: 1.93
+Ask: 2.02             Ask Size: 9900
+VWAP: 1.97043            Year Low: 0.91
+Total Shares: 77.76m    Shares Out: 77.92m
+Float: 59.41m           Exchange: TSXV

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Hickman/87016.txt",
+    "canada_projects/Hickman/88752.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hickman",
+      "justification": "The press release is titled 'Kingfisher Signs Definitive Agreement to Acquire the Hickman Project'."
+    },
+    "company_name": {
+      "value": "Kingfisher Metals Corp.",
+      "justification": "The buyer is identified as 'Kingfisher Metals Corp. (TSXV:KFR)(FSE:970)(OTCQB:KGFMF) (\"Kingfisher\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Dustin Perry",
+      "justification": "The CEO of the buyer, Kingfisher Metals, is listed as 'Dustin Perry, P.Geo. CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states Kingfisher entered an agreement to 'acquire the Hickman project' and later 'closed the acquisition of the Hickman project'. Acquiring a project implies a 100% interest transfer unless a smaller percentage is specified."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text states 'The Hickman Project is highly prospective for Cu-Au porphyry systems'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/kingfisher-signs-definitive-agreement-to-acquire-the-hickman-project-980589",
+      "justification": "The article is titled 'Kingfisher Signs Definitive Agreement to Acquire the Hickman Project', which directly relates to the specified project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms mention values in Canadian dollars, for example 'aggregate value of C$50,000' and 'priced at C$0.195 per share'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, the transaction is structured as a share issuance with a specified number of shares and price per share, so this field is null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, the transaction is structured as a share issuance with a specified number of shares and price per share, so this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, the transaction is structured as a share issuance with a specified number of shares and price per share, so this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 256410,
+      "justification": "The closing announcement states: 'the Company issued 256,410 common shares in the capital of Kingfisher to Golden Ridge'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": 0.195,
+      "justification": "The initial agreement states: 'the Company will issue common shares to Golden Ridge with an aggregate value of C$50,000 priced at C$0.195 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, 'the Company will grant a 2% net smelter return royalty (the \"NSR\") to Golden Ridge.' This NSR was granted to the seller."
+    },
+    "coverage_area_raw": {
+      "value": 3008,
+      "justification": "The text states: 'The Hickman Project is comprised of two claims totalling 3,008 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Hickman Project is comprised of two claims totalling 3,008 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as hosting an 'undrilled copper-gold geochemical anomaly', which implies no formal mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KFR",
+      "justification": "The buyer is identified in the text as 'Kingfisher Metals Corp. (TSXV:KFR)'."
+    }
+  }
+}

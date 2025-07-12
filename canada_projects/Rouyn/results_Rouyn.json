@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Rouyn/73551.txt",
+    "canada_projects/Rouyn/82099.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rouyn",
+      "justification": "The text announces an agreement for Yorbeau to sell its 'Rouyn property'. The first article is titled 'Yorbeau Signs Agreement to Sell the Rouyn Property to Australian Investors'."
+    },
+    "company_name": {
+      "value": "Lac Gold (Rouyn) Inc.",
+      "justification": "The text clearly identifies the buyer: '...a definitive asset purchase agreement...whereby Lac Gold (Rouyn) Inc. (“Lac Gold”), a Canadian based subsidiary of Lac Gold Pty Ltd (Au)...would, subject to certain conditions, acquire a 100% interest in Yorbeau’s Rouyn property'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text mentions 'Matthew Keegan, Chairman of Lac Gold' but does not name a CEO for the buyer, Lac Gold. The CEO mentioned, Terry Kocisko, is the CEO of the seller, Yorbeau."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement states that Lac Gold would 'acquire a 100% interest in Yorbeau’s Rouyn property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The buyer's parent company's purpose is described as: 'Lac Gold Pty Ltd is an Australian private company established to acquire and develop precious metal resources.' The plans for the project include 'expanding the gold resources'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The purchase price is explicitly stated in Canadian dollars: 'Lac Gold must pay a purchase price of C$25,000,000 to the Company'."
+    },
+    "cash_payments_raw": {
+      "value": 25000000,
+      "justification": "The total consideration is a cash payment of C$25,000,000, detailed as an initial C$2,000,000, C$3,000,000 at closing, and a C$20,000,000 balance paid in installments. 'The asset purchase agreement provides that, in consideration of a 100% interest in the Property, Lac Gold must pay a purchase price of C$25,000,000 to the Company'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is entirely in cash; no share payments are mentioned as part of the purchase price."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is explicitly defined as cash payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a cash sale; no shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a cash sale; no shares were issued as consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not include an exploration commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not include a monetary exploration commitment for the Rouyn property. The text states the seller, Yorbeau, 'intends to use the proceeds from the sale of the Property to fund exploration programs... on its other properties'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller (Yorbeau) retained a royalty: 'In addition to the purchase price payable by Lac Gold, upon closing of the Transaction, Lac Gold will issue and grant to the Company a 2% net smelter royalty (“NSR”) on any minerals produced from the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Rouyn property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Rouyn property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a 'considerable mineral endowment' but does not provide a quantified mineral resource estimate with mass or volume units for the Rouyn project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer's parent company, Lac Gold Pty Ltd, is identified as 'an Australian private company' and therefore does not have a stock ticker or exchange listing. The ticker provided in the authoritative metadata (TSX:YRB) belongs to the seller, Yorbeau Resources Inc."
+    }
+  }
+}

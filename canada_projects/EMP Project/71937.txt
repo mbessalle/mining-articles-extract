@@ -1,0 +1,66 @@
+--- Article Metadata ---
+Project Name: EMP Project
+Company Name: EMP Metals Corp. 
+Exchange: CSE
+Ticker: EMPS
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+9.19.2024, 7:30:00 PM
+
+# EMP METALS COMPLETES ACQUISITION OF ROK RESOURCES' INTEREST IN SASKATCHEWAN LITHIUM ASSETS
+
+**APPOINTS KOTTMEIER AS CEO**
+
+VANCOUVER, BC, Sept. 19, 2024 /CNW/ - **EMP Metals Corp.**(CSE: EMPS) (OTCQB: EMPPF)**("EMP Metals" or the "Company** ") is pleased to announce the completion of its previously announced acquisition (the "**Acquisition** ") of 25 common shares (the "**HCL Shares** ") of Hub City Lithium Corp. ("**HCL** ") from ROK Resources Inc. ("**ROK** "). As a result of the Acquisition, EMP Metals owns 100% of the issued and outstanding shares of HCL, which wholly owns the Saskatchewan lithium properties.
+
+Pursuant to the investor rights agreement dated October 31, 2023 between EMP Metals and Tembo Capital Holdings UK Ltd. ("**Tembo** ") and in order to maintain Tembo's partially diluted interest in EMP of 19.98% immediately prior to the closing of the Acquisition, Tembo has exercised its right to purchase, pursuant to a non-brokered private placement (the "**Offering** "), 4,266,680 common shares (each, a "**Common Share** ", and each Common Share so issued being an "**Offering Share** ") at a price of $0.30 per Offering Share for aggregate gross proceeds of $1,280,004.
+
+The net proceeds of the Offering will be used by the Company for development costs of the Saskatchewan lithium properties and for general corporate and working capital purposes. The Offering Shares will be subject to a hold period expiring four months and one day from the date of issuance. The Offering is expected to close on or by September 25, 2024.
+
+The Company is also pleased to announce that it has appointed Mr. Karl Kottmeier as the new Chief Executive Officer of the Company. Mr. Gamley will remain as the President and a director of the Company. Mr. Kottmeier has served as a director of the Company since November 2023.
+
+**Transaction Details**
+
+Pursuant to the share exchange agreement dated August 1, 2024 between the Company and ROK, the Company acquired the HCL Shares for an aggregate purchase price of C$5,125,500, payable by the issuance of 17,085,000 Common Shares (the "**Consideration Share** ") of the Company at a deemed price of $0.30 per Consideration Share.
+
+In connection with the Acquisition and pursuant to the management agreement dated August 1, 2024 among the Company, ROK and HCL, the Company issued an aggregate of 1,840,000 Common Shares (the "**Management Shares** ") at a deemed price of $0.30 per Management Share to ROK for ROK's management and facilitation of the exploration, development and operation of HCL's lithium-focused mineral projects in Saskatchewan on behalf of HCL over a one-year term.
+
+The Consideration Shares and Management Shares (collectively, the "**Issued Shares** ") are subject to the following escrow provisions: (i) 9,462,500 Issued Shares will be restricted for a period of 24 months following the closing of the Acquisition ("**Closing** ") and (ii) 9,462,500 Issued Shares will be restricted for a period of 36 months following Closing. The Management Shares are also subject to a hold period of four (4) months following Closing in accordance with the policies of the Canadian Securities Exchange.
+
+Immediately following the issuance of the Issued Shares, ROK owns an aggregate of 18,925,000 Common Shares, representing 17.11% of the issued and outstanding Common Shares.
+
+Subsequent to Closing, EMP Metals will nominate Mr. Bryden Wright, the President and Chief Operating Officer of ROK, or such individual as ROK and EMP Metals agree upon, for appointment as a director of EMP Metals.
+
+**About EMP Metals**
+
+EMP Metals is a Canadian-based lithium exploration and development company focused on large-scale resources using direct lithium extraction (DLE).  EMP Metals currently holds 196,000 net (79,300 hectares) acres of Subsurface Dispositions and strategic wellbores in Southern Saskatchewan.  For more information, please go to the Company's website at [www.empmetals.com](https://c212.net/c/link/?t=0&l=en&o=4258511-1&h=2435908310&u=http%3A%2F%2Fwww.empmetals.com%2F&a=www.empmetals.com)
+
+**Forward-Looking Statements**
+
+Information set forth in this news release contains forward-looking statements that are based on assumptions as of the date of this news release. These statements reflect management's current estimates, beliefs, intentions and expectations. They are not guarantees of future performance. EMP Metals cautions that all forward-looking statements are inherently uncertain, and that actual performance may be affected by a number of material factors, many of which are beyond EMP Metals' control. Such factors include, among other things: risks and uncertainties relating to EMP Metals' limited operating history, ability to obtain sufficient financing to carry out its exploration and development objectives on its mineral properties, obtaining the necessary permits to carry out its activities and the need to comply with environmental and governmental regulations.  Accordingly, actual and future events, conditions and results may differ materially from the estimates, beliefs, intentions and expectations expressed or implied in the forward-looking information. Except as required under applicable securities legislation, EMP Metals undertakes no obligation to publicly update or revise forward-looking information.
+
+_The Canadian Securities Exchange has neither approved nor disapproved the information contained herein and does not accept responsibility for the adequacy or accuracy of this news release._
+
+SOURCE EMP Metals Corp.
+
+### Project Name
+
+[EMP Project Project](/?gid=5591)  
+Saskatchewan, Canada
+
+--- Detailed Quote ---
+
+Last: 0.23                       Open: 0.23
+High: 0.23                       Beta: -1.87131
+Year High: 0.58                  Market Cap: 26.43m
+PB Ratio: 0.78                   EPS: -0.04
+Average Volume (30 Day): 47.92k    Volume: 24.50k
+Prev. Close: 0.23                Low: 0.23
+VWAP: 0.23                       Year Low: 0.205
+Total Shares: 114.91m               Shares Out: 114.91m
+Float: 66.61m                      Exchange: CSE

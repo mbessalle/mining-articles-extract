@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Amy/48438.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Amy",
+      "justification": "The article is titled 'CMC Metals Ltd. Acquires 100% Ownership of the Amy and Silverknife Properties...' and the text refers to the Amy property throughout."
+    },
+    "company_name": {
+      "value": "CMC Metals Ltd.",
+      "justification": "The acquiring company is identified as 'CMC Metals Ltd. (TSX-V:CMB)(Frankfurt:ZM5P)(CMCXF:OTCQB) (\"CMC\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Kevin Brewer",
+      "justification": "The text identifies the President and CEO: 'Mr. Kevin Brewer, P.Geo. and President and CEO of the Company...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The press release states: 'CMC Metals Ltd. Acquires 100% Ownership of the Amy and Silverknife Properties...' and 'As a result, CMC is now a 100% owner of the aforementioned Properties...'"
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The project is described as a 'high-grade silver-lead-zinc CRD target'. Silver is the first commodity listed."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/831105/cmc-metals-ltd-acquires-100-ownership-of-the-amy-and-silverknife-properties-and-an-additional-mineral-tenure-in-the-emerging-rancheria-silver-district-northern-bc",
+      "justification": "The article is explicitly about the acquisition of the Amy project by CMC Metals Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, CMC Metals Ltd., is listed on the TSX Venture Exchange (TSX-V), a Canadian exchange. The detailed quote section uses a '$' symbol and lists the exchange as 'TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The final payment was made entirely in shares, with no cash component mentioned: 'a payment of 2,000,000 common shares... was provided to Mr. Scott as the final payment.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "While a share payment was made, no specific monetary value was assigned to it in the text. The number of shares and a price are provided, so those fields are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a combined cash and share value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The final payment consisted of 'a payment of 2,000,000 common shares, subject to a four month hold period from the effective date, was provided to Mr. Scott as the final payment.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.13,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.13'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retained a royalty as part of the deal: 'Mr. Scott retains a 2% Conventional Royalty on the properties which is subject to a $1,000,000 buyout for a 1% interest of the Royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 1038.51,
+      "justification": "The text specifies the total area for the Amy project after the acquisition: 'The new tenure now results in total hectares at Amy of 1,038.51 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the area is explicitly stated: 'The new tenure now results in total hectares at Amy of 1,038.51 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource but immediately invalidates it for reporting purposes: 'The property has a small non-compliant NI 43-101 high grade resource, which cannot be relied to any degree...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:CMB",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'CMC Metals Ltd. (TSX-V:CMB)...'"
+    }
+  }
+}

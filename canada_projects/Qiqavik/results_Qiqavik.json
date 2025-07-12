@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Qiqavik/38361.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Qiqavik",
+      "justification": "The project is identified in the 'About' section of the press release: \"Orford's principal assets are the Qiqavik, West Raglan and lithium exploration projects...\""
+    },
+    "company_name": {
+      "value": "Orford Mining Corporation",
+      "justification": "The company is identified at the beginning of the press release: \"TORONTO, July 24, 2023 /CNW/ - Orford Mining Corporation (Orford) (TSXV: ORM)...\""
+    },
+    "ceo_buyer": {
+      "value": "David Christie",
+      "justification": "The article is not an M&A announcement, but the CEO of the company of interest, Orford Mining, is identified: \"David Christie, President and CEO of Orford commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition or transaction for the Qiqavik project. The news is about Orford staking new claims for its separate Nunavik Lithium properties."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The primary commodity for the project is stated in the 'About' section: \"The Qiqavik Project hosts several new high-grade gold discoveries...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about the Qiqavik project. It details the expansion of Orford's separate 'Nunavik Lithium' properties. The Qiqavik project is only mentioned in the 'About' section as one of the company's assets."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction for the Qiqavik project is mentioned in the article."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No M&A transaction for the Qiqavik project is mentioned in the article."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment for the Qiqavik project is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment for the Qiqavik project is mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No NSR acquisition or retention for the Qiqavik project is mentioned in the article."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides a total land package size for multiple projects (\"a land package totaling over 111,000 hectares\") and an area for the separate lithium projects (\"508 km2\"), but no specific area for the Qiqavik project is mentioned."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is specified for the Qiqavik project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'high-grade gold discoveries' for the Qiqavik project but does not provide a quantified mineral resource estimate in terms of mass or volume."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ORM",
+      "justification": "The company's ticker and exchange are stated in the text: \"Orford's common shares trade on the TSX Venture Exchange under the symbol ORM.\""
+    }
+  }
+}

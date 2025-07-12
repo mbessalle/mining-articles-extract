@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Eleonore/79809.txt",
+    "canada_projects/Eleonore/79915.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Eleonore",
+      "justification": "The authoritative project name is Eleonore, and the text confirms the sale of the 'Éléonore operation'. The headline is 'Newmont Announces Agreement for Sale of Éléonore for $795 Million in Cash'."
+    },
+    "company_name": {
+      "value": "Newmont Corporation",
+      "justification": "The authoritative company name provided is 'Newmont Corporation'. The text identifies this company as the seller of the project: 'Newmont Corporation (NYSE: NEM, TSX: NGT, ASX: NEM, PNGX: NEM) (“Newmont” or the “Company”) announced today that it has agreed to sell its Éléonore operation...'"
+    },
+    "ceo_buyer": {
+      "value": "Alexander Ramlie",
+      "justification": "The buyer is Dhilmar Ltd. The text states: 'The company is led by its CEO and Managing Director, Alexander Ramlie...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states Newmont agreed to 'sell its Éléonore operation', which implies a 100% interest. This is supported by the fact that other transactions mentioned in the same announcement specify partial interests (e.g., '70% interest in the Havieron project'), so the absence of a percentage for Éléonore indicates a complete sale."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The seller, Newmont, is described as 'the world’s leading gold company'. The sale is part of a portfolio optimization strategy related to its primary business. The buyer, Dhilmar, is noted to have 'a wealth of experience in gold and copper mining'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link or URL was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction value is given in '$'. Newmont is a US-headquartered company (Denver) listed on the NYSE and reports its financials in USD. The aggregate divestiture program value is also quoted in '$', implying a consistent currency across its announcements, which is most likely USD."
+    },
+    "cash_payments_raw": {
+      "value": 795000000,
+      "justification": "The text states Newmont 'has agreed to sell its Éléonore operation in Northern Quebec, Canada, to Dhilmar Ltd (“Dhilmar”) for $795 million in cash consideration.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was for cash consideration only."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction value was explicitly defined as cash, so this field is not applicable per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction was for cash consideration only, no shares were issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction was for cash consideration only, no shares were issued."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction is a sale, not a farm-in, and no exploration commitment in meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction is a sale, not a farm-in, and no exploration commitment value was mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area for the project was mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area for the project was mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate for the Eleonore project was provided in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Dhilmar Ltd, is explicitly described in the text as a 'private mining company' and therefore does not have a stock ticker or exchange listing."
+    }
+  }
+}

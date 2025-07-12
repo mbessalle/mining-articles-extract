@@ -1,0 +1,136 @@
+--- Article Metadata ---
+Project Name: Bousquet
+Company Name: Bullion Gold Resources Corp.
+Exchange: TSXV
+Ticker: BGD
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+4.4.2025, 7:15:00 PM
+
+# Bullion Gold Completes Transaction on Bousquet Property with Olympio Metals and Closes Financing
+
+Montreal, Quebec--(Newsfile Corp. - April 4, 2025) - **Bullion Gold Resources Corp. (TSXV: BGD) ("Bullion Gold" or "the Company")** announces that the option agreement on the Bousquet property with Olympio Metals Limited ([see press release dated March 18, 2025](https://api.newsfilecorp.com/redirect/W0LPJIQr5g)) has been accepted by the TSX Venture Exchange.
+
+**Option Agreement Details**
+
+To obtain up to an 80% interest in the Bousquet project, Olympio Metals will:
+
+  * Invest $2 million in exploration work.
+  * Pay a total of $1.25 million in cash and shares.
+  * Manage the exploration work.
+  * Ultimately, Bullion Gold will retain a 20% undivided interest.
+
+
+
+**Term of the agreement for 51% interest**
+
+Olympio will pay Bullion Gold:
+
+  * Upon approval by the authorities:
+    * $100,000 in cash
+    * $50,000 in OLY shares
+
+
+  * Deferred payments:
+    * Year 2: $100,000 in cash + $50,000 in OLY shares
+    * Year 3: $150,000 in cash + $50,000 in OLY shares
+
+
+
+**Conditions for an additional 29%**
+
+  * Years 4 to 6: $50,000/year in cash + $25,000/year in OLY shares
+  * Year 7: $150,000 in cash + $75,000 in OLY shares
+  * Year 8: $200,000 in cash + $100,000 in OLY shares
+
+
+
+All issued shares will be subject to a four-month voluntary escrow.
+
+**Formation of a Joint Venture (JVA)**
+
+If OLY decides to exit the project once it has acquired 51% of the project, a joint venture will be formed and:
+
+  * Bullion will become the operator and will automatically obtain 51% in the project.
+  * Olympio's interest will be reduced to 49%.
+  * The project will continue to be developed on a pro rata basis with standard dilution factors.
+
+
+
+**Performance Bonuses (43-101)**
+
+Olympio will pay the following bonuses based on indicated gold resources or Eq:
+
+  * $1.50/ounce up to 250,000 ounces (max. $375,000)
+  * $1.00/ounce from 250,001 to 500,000 ounces (max. $625,000 including above)
+  * $0.50/ounce beyond 500,000 ounces (no maximum)
+
+
+
+**Exercise of the Option**
+
+Olympio may exercise the option at any time for 8 years, subject to:
+
+  * A progressive exploration investment (at a rate of $2 million over 8 years).
+  * Payment of the defined consideration.
+  * Satisfaction of conditions precedent (due diligence, regulatory approvals, etc.).
+
+
+
+**Bullion Gold Residual Rights**
+
+  * Olympio will provide financing for the project until initial production.
+  * Bullion will retain a right of first refusal on the sale of its interest.
+  * If Olympio purchases the remaining 20%, Bullion will receive a 2% net smelter royalty (1% can be bought back for $1 million).
+
+
+
+**Financing**
+
+The Company is pleased to announce that it has closed a private placement (the "Offering"), pursuant to which it issued 3,333,333 flow-through shares of the Company at a price of $0.06 per flow-through share for gross proceeds of $199,999.98.
+
+All securities issued pursuant to the Offering will be subject to a hold period of four (4) months and one day ending on July 25, 2025. The Offering is subject to final approval by the TSX Venture Exchange.
+
+**About Bullion Gold Resources**
+
+Bullion Gold is involved in the identification, exploration and development of viable mineral properties in the province of Quebec. The Company is developing the 100% Bodo SM project. For more information, visit [www.bulliongold.ca](https://api.newsfilecorp.com/redirect/K8VjRI4ov1).
+
+**For further information, please contact:**
+
+Guy Morissette  
+President and CEO  
+[gmorissette@bulliongold.ca](mailto:gmorissette@bulliongold.ca)
+
+**Other Information**
+
+The TSX Venture Exchange and its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts no responsibility for the veracity or accuracy of its content.
+
+**Forward-Looking Statements:**_This press release contains forward-looking statements. Forward-looking statements are frequently characterized by words such as "plan", "expect", "project", "intend", "believe", "anticipate", "estimate", "may", "will", "would", "potential", "proposed" and other similar words, or statements that certain events or conditions "may" or "will" occur. The forward-looking statements are based on certain key expectations and assumptions made by the Corporation. Although Bullion Gold believes that the expectations and assumptions on which the forward-looking statements are based are reasonable, undue reliance should not be placed on the forward-looking statements because Bullion Gold can give no assurance that they will prove to be correct. Since forward-looking statements address future events and conditions, by their very nature they involve inherent risks and uncertainties. Actual results could differ materially from those currently anticipated due to several factors and risks. In addition to other risks that may affect the forward-looking statements in this press release are those set out in the Corporation's management discussion and analysis of the financial condition and results of operations for the year ended December 31, 2023 and the third quarter ended September 30, 2024, which are available on the Corporation's profile at_[www.sedarplus.ca](https://api.newsfilecorp.com/redirect/q8rmYInGXE) _. The forward-looking statements contained in this press release are made as of the date hereof and Bullion Gold undertakes no obligation to update publicly or revise any forward-looking statements or information, whether as a result of new information, future events or otherwise, unless so required by applicable securities laws._
+
+NOT FOR DISSEMINATION IN THE UNITED STATES OR FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES AND DOES NOT CONSTITUTE AN OFFER OF THE SECURITIES DESCRIBED HEREIN.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/247332](https://api.newsfilecorp.com/redirect/nVNJ8SABbx)
+
+### Project Name
+
+[Bousquet Project](/?gid=2643)  
+Quebec
+
+--- Detailed Quote ---
+
+Last: 0.045           $  Chg: 0.005
+Bid: 0.04            Bid Size: 188000
+Beta: 1.93376           Year High: 0.06
+Market Cap: 3.16m     PB Ratio: 1.29
+EPS: -1.00            Average Volume (30 Day): 19.58k
+Volume: 111.00k         % Chg: 12.50%
+Prev. Close: 0.04    Ask: 0.05
+Ask Size: 139000       VWAP: 0.04113
+Year Low: 0.02       Total Shares: 70.25m
+Shares Out: 76.25m     Escrow Shares: 21.14k
+Float: 65.93m          Exchange: TSXV

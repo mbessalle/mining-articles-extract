@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Cable Lake/89234.txt",
+    "canada_projects/Cable Lake/90362.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cable Lake",
+      "justification": "The text consistently refers to the project being acquired as the 'Cable Lake Uranium Project'. For example: 'Bedford Metals to Acquire Cable Lake Uranium Project' and 'NLE is the holder of the Cable Lake Uranium Project'."
+    },
+    "company_name": {
+      "value": "Bedford Metals Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Bedford Metals Corp. (TSX-V: BFM, FWB: O8D), (ISIN: CA0762301012) (the “Company” or “Bedford”) is pleased to announce that it has entered into an agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Peter Born",
+      "justification": "The text identifies the President of the acquiring company: 'Peter Born, President of Bedford, commented...' and is signed '“Peter Born” President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Bedford Metals is acquiring the entire company that holds the project: 'the Company proposes to acquire (the “Acquisition”) all of the outstanding share capital of NLE. NLE is the holder of the Cable Lake Uranium Project'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the 'Cable Lake Uranium Project' and the text discusses signatures 'commonly associated with uranium deposits in the Athabasca Basin'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a copy from a newswire service and does not contain a direct, stable link to a specific article that can be verified."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Bedford Metals Corp., is listed on the TSX Venture Exchange (TSX-V), a Canadian exchange, implying the currency is Canadian Dollars (CAD). The detailed quote also lists the exchange as TSXV."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is described entirely in terms of shares, with no mention of a cash payment component. The transaction follows Priority 2 of the financial extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the shares is not explicitly stated in dollar terms. The transaction follows Priority 2 of the financial extraction hierarchy, where the number of shares and price per share are extracted instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into number of shares issued, not a single combined value. The transaction follows Priority 2 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The terms of the acquisition state: 'the Company proposes to acquire all of the outstanding share capital of NLE in consideration for the issuance of 1,000,000 common shares of the Company to the Vendor.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": 1,
+      "justification": "A contingent payment is described as a right to acquire shares for a nominal fee: 'In addition, the Vendor will receive the right to acquire 2,500,000 common shares, for total consideration of $1.00...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The contingent right to acquire shares is classified as a warrant payment, so this field is null."
+    },
+    "issued_share_price": {
+      "value": 0.345,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.345'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions updating an exploration plan but does not specify a commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions updating an exploration plan but does not specify a monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 8056,
+      "justification": "The text specifies the area for the project being acquired: 'The Cable Lake property, covering an area of 8,056 hectares, adjoins the Company’s Sheppard and Ubiquity Lake claims to the north.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Cable Lake property, covering an area of 8,056 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes geophysical signatures and anomalies but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BFM",
+      "justification": "The buyer's ticker and exchange are provided in the text: '(TSX-V: BFM, FWB: O8D)'. The primary listing is on the TSX Venture Exchange."
+    }
+  }
+}

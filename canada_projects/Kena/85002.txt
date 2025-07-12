@@ -1,0 +1,77 @@
+--- Article Metadata ---
+Project Name: Kena
+Company Name: West Mining Corp.
+Exchange: CSE
+Ticker: WEST
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.23.2025, 8:00:00 AM
+
+# West Mining Options Kena Property to Upside Gold Corp
+
+**VANCOUVER, BC /**[**ACCESS Newswire**](https://www.accessnewswire.com/)**/ January 22, 2025 / West Mining Corp.**("West Mining" or the "Company") (**CSE:WEST)(OTC PINK:WESMF)** is pleased to announce it has executed an option agreement (the "Option Agreement") with Upside Gold Corp. (the "Optionee") dated as of January 20, 2025, pursuant to which West has granted the Optionee an option to acquire a 100% interest in and to the Company's Kena Property.
+
+Nader Vatanchi, CEO of West Mining, said "This option to Upside Gold gives West Mining the flexibility we need as we advance our Spanish Mountain and Junker projects. Additionally, with the work commitments Upside Gold has planned, we believe that both companies will benefit from this transaction."
+
+Under the Option Agreement, the Optionee has the option to acquire a 100% interest in and to the Company's Kena Property by:
+
+  1. making aggregate cash payments of $2,000,000 to West Mining ($250,000 on or before March 6, 2025; an additional $250,000 on or before July 20, 2025; an additional $250,000 on or before January 20, 2026; an additional $500,000 on or before January 20, 2027; and an additional $750,000 on or before January 20, 2028);
+
+  2. issing an aggregate of $3,000,000 worth of common shares of the Optionee to West Mining ($1,000,000 worth of shares on or before July 20, 2025; an additional $500,000 worth of shares on or before January 20, 2026; an additional $500,000 worth of shares on or before January 20, 2027; and an additional $1,000,000 worth of shares on or before January 20, 2028); and
+
+  3. making $3,500,000 in exploration expenditures on the Kena Property on or before January 20, 2028.
+
+
+
+
+The Optionee is private corporation incorporated in Alberta and is arm's length to West Mining. Any Optionee shares issued to West Mining under the Option Agreement will have a deemed value of $0.20 per share, provided however that: if the shares have been listed on a stock exchange for at least 30 days prior to any issuance of such shares, then the deemed value of the shares issued under the Option Agreement will be based on the 30 day volume weighted average price of the shares on such exchange prior to the issuance of such shares; and if the shares have not been listed on a stock exchange for at least 30 days prior to the issuance of such shares, but the Optionee has conducted an equity financing under which the Optionee's shares are issued at a price other than $0.20 per share, then the deemed value of the shares issued under the Option Agreement will be equal to the price per share under the equity financing. Any Optionee shares issued by the Optionee to West Mining will be subject to any hold periods or escrow conditions imposed by applicable securities laws or the policies of any stock exchange on which such shares are listed.
+
+**About West Mining Corp.**
+
+West Mining Corp. is a mineral exploration company currently exploring for copper, gold and silver on its 100% owned Junkers Property in north-central British Columbia and its 100% owned Spanish Mountain West Property in central British Columbia. West Mining also holds a 100% interest in the Kena Property, which it has optioned to Upside Gold Corp.
+
+For additional information, please refer to the Company's public disclosure record available on SEDAR+ at [www.sedarplus.com](https://pr.report/3ib4).
+
+**Contact Information**
+
+Nader Vatanchi  
+CEO  
+[nadervatanchi@hotmail.com](mailto:nadervatanchi@hotmail.com)  
+778-881-4631
+
+###
+
+_**The Canadian Securities Exchange accepts no responsibility for the adequacy or accuracy of this release**._
+
+_Certain statements contained in this press release constitute "forward-looking information" as such term is defined in applicable Canadian securities legislation. The words "may", "would", "could", "should", "potential", "will", "seek", "intend", "plan", "anticipate", "believe", "estimate", "expect" and similar expressions as they relate to the Company, are intended to identify forward-looking information. All statements other than statements of historical fact may be forward-looking information. Such statements reflect the Company's current views and intentions with respect to future events, and current information available to them, and are subject to certain risks, uncertainties and assumptions, including, without limitation: the potential of the Company's mineral properties; the estimation of capital requirements; the estimation of operating costs; the timing and amount of future business expenditures; and the availability of necessary financing. Many factors could cause the actual results, performance or achievements that may be expressed or implied by such forward-looking information to vary from those described herein should one or more of these risks or uncertainties materialize. Such factors include but are not limited to: changes in economic conditions or financial markets; increases in costs; litigation; legislative, environmental and other judicial, regulatory, political and competitive developments; and exploration or operational difficulties. This list is not exhaustive of the factors that may affect forward-looking information. These and other factors should be considered carefully, and readers should not place undue reliance on such forward-looking information. Should any factor affect the Company in an unexpected manner, or should assumptions underlying the forward-looking information prove incorrect, the actual results or events may differ materially from the results or events predicted. Any such forward- looking information is expressly qualified in its entirety by this cautionary statement. Moreover, the Company does not assume responsibility for the accuracy or completeness of such forward-looking information. The forward-looking information included in this press release is made as of the date of this press release and the Company undertakes no obligation to publicly update or revise any forward-looking information, other than as required by applicable law._
+
+**SOURCE:** West Mining Corp
+
+  
+  
+View the original [press release](https://www.accessnewswire.com/newsroom/en/metals-and-mining/west-mining-options-kena-property-to-upside-gold-corp-972492) on ACCESS Newswire  
+  
+
+
+### Project Name
+
+[Kena Project](/?gid=2552)  
+British Columbia
+
+--- Detailed Quote ---
+
+Last: 0.025                       Bid: 0.025
+Bid Size: 6000                   Beta: -0.21523
+Year High: 0.405                  Market Cap: 564.22k
+PB Ratio: 0.09                   EPS: -0.42
+Average Volume (30 Day): 45.54k    Prev. Close: 0.025
+Ask: 0.03                        Ask Size: 105000
+VWAP: 0.025                       Year Low: 0.025
+Total Shares: 22.57m               Shares Out: 22.57m
+Escrow Shares: 20.00k              Float: 22.51m
+Exchange: CSE

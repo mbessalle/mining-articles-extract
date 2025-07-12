@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/kWatt/31224.txt",
+    "canada_projects/kWatt/42522.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "kWatt",
+      "justification": "The project is explicitly named in the text: 'Assay results from the recently completed exploration program on these properties (Figure 1) confirmed the occurrence of LCT bearing pegmatites, specifically on the Cathode, kWatt and Flare properties...'"
+    },
+    "company_name": {
+      "value": "Orford Mining Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'TORONTO, Feb. 15, 2023 /CNW/ - On February 6th, 2023, Orford Mining Corporation (\"Orford\") (TSXV: ORM) announced it had completed an extensive review...'"
+    },
+    "ceo_buyer": {
+      "value": "David Christie",
+      "justification": "The CEO of the acquiring company, Orford Mining, is named in the text: 'David Christie, President and CEO of Orford, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the properties, which include kWatt, are wholly owned: 'The Nunavik Lithium Properties are 100% owned by Orford and have never been explored before for any economic minerals, including lithium.'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The press release headlines and content clearly state the commodity of interest: 'ORFORD EXPANDS NUNAVIK LITHIUM PROPERTIES AROUND LITHIUM BEARING PEGMATITE DISCOVERIES' and '...confirmed the occurrence of LCT bearing pegmatites, specifically on the Cathode, kWatt and Flare properties...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was through staking, not a financial transaction, so no currency is mentioned in the deal terms."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired via staking, not a cash purchase. No cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired via staking, not a share-based purchase. No share payment is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired via staking, not a purchase. No combined payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The property was acquired via staking, not through the issuance of shares. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 13,
+      "justification": "The project's share is 13 km2, calculated by dividing the 39 km2 expansion by the three properties it covers (Cathode, kWatt, and Flare). The text states: 'Orford Mining Corporation (“Orford”) (TSXV: ORM) is pleased to announce that it has increased its Nunavik Lithium land package by 39 km2 or 8%, expanding properties that are confirmed to host Lithium-Cesium-Tantalum (“LCT”) pegmatites... These three properties [Cathode, kWatt and Flare] were expanded as a result of these discoveries...'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is specified in the text describing the land package expansion: '...increased its Nunavik Lithium land package by 39 km2...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states the properties 'have never been explored before for any economic minerals, including lithium,' which implies no mineral resource has been defined. No quantified resource estimate is provided in the documents."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ORM",
+      "justification": "The company's ticker and exchange are explicitly mentioned in the text: 'Orford Mining Corporation (\"Orford\") (TSXV: ORM)' and 'Orford's common shares trade on the TSX Venture Exchange under the symbol ORM.'"
+    }
+  }
+}

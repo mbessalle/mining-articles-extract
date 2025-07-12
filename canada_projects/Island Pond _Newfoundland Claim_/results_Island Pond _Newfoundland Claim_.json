@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Island Pond _Newfoundland Claim_/36007.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Island Pond Newfoundland Claim",
+      "justification": "The authoritative project name is 'Island Pond Newfoundland Claim', which is supported by the text referring to the project as 'Island Pond (Newfoundland Claim) Project'."
+    },
+    "company_name": {
+      "value": "Noble Mineral Exploration Inc.",
+      "justification": "The buyer is identified as 'Noble Mineral Exploration Inc. (“Noble” or the “Company”) (TSXV:NOB)... announces that it has entered into an agreement... to acquire one mining claim'."
+    },
+    "ceo_buyer": {
+      "value": "H. Vance White",
+      "justification": "The contacts section lists the President of the acquiring company: 'H. Vance White, President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Noble will 'acquire one mining claim', which implies the acquisition of 100% of the interest in that claim."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text does not specify the primary commodity associated with the acquired claim."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable URL for the specific article is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies payments in Canadian dollars: 'payment of $5,000 []()Canadian dollars in cash' and 'buy back 1% NSR for $500,000 Canadian dollars'."
+    },
+    "cash_payments_raw": {
+      "value": 5000,
+      "justification": "The transaction includes a cash component: 'payment of $5,000 []()Canadian dollars in cash.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a cash payment, not an explicit dollar value for the shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 25000,
+      "justification": "The transaction terms state 'the issuance of 25,000 common shares of Noble'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, 'the Vendor will retain a 2% net smelter royalty (“NSR”)'."
+    },
+    "coverage_area_raw": {
+      "value": 175,
+      "justification": "The agreement is to 'acquire one mining claim (the “Claim”) in Newfoundland covering an area of approximately 175 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the coverage area: 'approximately 175 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the acquired claim in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NOB",
+      "justification": "The text explicitly states the buyer's ticker and exchange: 'Noble Mineral Exploration Inc. (“Noble” or the “Company”) (TSXV:NOB)'."
+    }
+  }
+}

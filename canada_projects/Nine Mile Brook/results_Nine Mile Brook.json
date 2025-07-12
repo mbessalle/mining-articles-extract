@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nine Mile Brook/40512.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nine Mile Brook",
+      "justification": "The authoritative project name is Nine Mile Brook. The article announces the acquisition of 'New Claims' which are described as being 'adjacent to its California Lake and Nine Mile Brook VMS Projects'."
+    },
+    "company_name": {
+      "value": "Nine Mile Metals Ltd.",
+      "justification": "NINE MILE METALS LTD. (CSE: NINE, OTCQB: VMSXF, FSE: KQ9) (the “Company” or “Nine Mile”) is pleased to announce the Company entered into an agreement dated August 31, 2023, with Prospect Or Corp..."
+    },
+    "ceo_buyer": {
+      "value": "Patrick J. Cruickshank",
+      "justification": "ON BEHALF OF NINE MILE METALS LTD. 'Patrick J. Cruickshank, MBA' CEO and Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The CEO states: 'we now own 100% allowing us to address the entire geophysical trend.'"
+    },
+    "primary_commodity": {
+      "value": "Cu, Pb, Zn, Ag, Au",
+      "justification": "Nine Mile Metals Ltd. is a Canadian public mineral exploration company focused on Critical Minerals Exploration (CME) VMS (Cu, Pb, Zn, Ag and Au) exploration in the world-famous Bathurst Mining Camp, New Brunswick, Canada."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article link is not provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a payment in dollars ('$1,000,000'). The company is Canadian ('Bathurst Mining Camp, New Brunswick, Canada') and is listed on the Canadian Securities Exchange ('CSE: NINE'), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is in shares, not cash."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a price per share, which takes precedence over a single raw share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is detailed as a specific number of shares, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "Pursuant to the Agreement, the Company intends to acquire the New Claims for 300,000 common shares of the Company, which will have a four month hold legend."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention the number of shares issued ('300,000 common shares'), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is retained by the vendor as part of the transaction terms: 'In addition, there is a 2.0% net smelter royalty (“NSR”) on the New Claims derived from metallic mineral production.'"
+    },
+    "coverage_area_raw": {
+      "value": 10.78,
+      "justification": "The acquisition is for 'an additional 10.78 square kms, 49 claim units (the “New Claims”)'."
+    },
+    "coverage_area_unit": {
+      "value": "square kms",
+      "justification": "The acquisition is for 'an additional 10.78 square kms, 49 claim units (the “New Claims”)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources in terms of mass or volume. It only mentions drilling widths ('10m to 14m widths'), which are lengths and not a resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NINE",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: 'NINE MILE METALS LTD. (CSE: NINE, OTCQB: VMSXF, FSE: KQ9)'."
+    }
+  }
+}

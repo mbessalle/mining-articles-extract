@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Amanda/39574.txt",
+    "canada_projects/Amanda/66189.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Amanda",
+      "justification": "The project is consistently referred to as the Amanda project throughout both documents. For example: 'Mosaic Options Amanda Project for Its Lithium and Gold Potential' and 'Mosaic Acquires 100% of the Amanda Project'."
+    },
+    "company_name": {
+      "value": "Mosaic Minerals Corporation",
+      "justification": "The acquiring company is identified in the first line of both press releases: 'Mosaic Minerals Corporation (CSE: MOC) (“Mosaic” or “the Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Jonathan Hamel",
+      "justification": "Jonathan Hamel is quoted and identified as the President and CEO of the buyer, Mosaic Minerals Corporation: '“...Our technical team should be on this project as soon as possible this season,” specified Jonathan Hamel, President, and CEO of Mosaic.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The most recent agreement from July 25, 2024, states that Mosaic will acquire a full 100% interest, superseding the previous option agreement: 'Mosaic acquires a 100% interest in the Amanda property'."
+    },
+    "primary_commodity": {
+      "value": "Lithium, Gold",
+      "justification": "The project is described as having potential for both commodities. The first article is titled 'Mosaic Options Amanda Project for Its Lithium and Gold Potential'. The second article focuses on gold but also mentions other potential: 'The Amanda project offers various possibilities by the presence of gold but also for base metals and lithium'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Mosaic Minerals Corporation, is listed on the Canadian Securities Exchange (CSE) and the project is in Quebec, Canada. Financial figures are denoted with '$', which implies Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "A conditional cash payment of $250,000 is to be made to IAMGOLD if a specific resource is defined, as stated in the July 25, 2024 agreement: 'If Mosaic files a NI 43-101 report with a resource of at least 300,000 indicated ounces of gold (with or without associated minerals), Mosaic will pay $250,000 cash to IAMGOLD within 90 days'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, since the number of shares and a price per share can be determined, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, more specific payment fields (`cash_payments_raw`, `amount_of_shares_issued`, `issued_share_price`) were populated."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The terms of the agreement with IAMGOLD state: 'Mosaic will issue 3 million shares to IAMGOLD'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the issuance of 3 million shares but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote section of both articles: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "The agreement requires Mosaic to complete a work commitment from a prior agreement: 'Mosaic must fulfill its original commitments ($250,000 of work on Amanda by October 31, 2024) or pay the difference in cash to IAMGOLD'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Mosaic granted a 2% royalty to the seller, IAMGOLD, as part of the transaction terms: 'Mosaic will grant a 2% royalty to IAMGOLD'."
+    },
+    "coverage_area_raw": {
+      "value": 7677,
+      "justification": "Both articles specify the area of the project: 'The Amanda project, consisting of 145 cells with an area of ​​approximately 7,677 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: '...an area of ​​approximately 7,677 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a statement of a current mineral resource. Instead, it refers to the potential for a future resource, with a conditional payment tied to its definition: 'If Mosaic files a NI 43-101 report with a resource of at least 300,000 indicated ounces of gold...'. This implies no such resource currently exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MOC",
+      "justification": "The buyer's name is followed by its ticker and exchange in the first line of both press releases: 'Mosaic Minerals Corporation (CSE: MOC)'."
+    }
+  }
+}

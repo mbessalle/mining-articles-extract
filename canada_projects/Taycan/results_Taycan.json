@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Taycan/30960.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Taycan",
+      "justification": "The text identifies the project of interest as an existing asset of the company: '...40 km northeast of LONE's Taycan Lithium property...'"
+    },
+    "company_name": {
+      "value": "Lithium One Metals Inc.",
+      "justification": "The company that owns the Taycan project is identified in the text: 'Lithium One Metals Inc. (TSXV: LONE)...' and is later linked to the project: '...LONE's Taycan Lithium property...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Taycan project. The CEO mentioned, Dominic Verdejo, is the CEO of Lithium One Metals Inc., which is the current owner of the Taycan project, not a buyer."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of or investment in the Taycan project. The transaction detailed is for the Ferrari Lithium property."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly referred to as the 'Taycan Lithium property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction for the Taycan project. Its primary subject is the acquisition of the 'Ferrari Lithium property' by Lithium One Metals Inc. The Taycan project is only mentioned for locational context as a pre-existing asset."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The financial terms detailed in the 'Terms of Option Agreement' section relate to the acquisition of the Ferrari Lithium property, not the Taycan project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments totaling $210,000 are part of the option agreement to acquire the Ferrari Lithium property, not the Taycan project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments mentioned are for the acquisition of the Ferrari Lithium property, not the Taycan project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned for the Taycan project. The payments listed are for the Ferrari Lithium property."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 6,000,000 common shares to be issued are consideration for the option on the Ferrari Lithium property, not the Taycan project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for any project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price is mentioned in relation to a transaction for the Taycan project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Taycan project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states a 'Phase One exploration campaign' is planned for the 'Ferrari, Bugatti and Taycan Lithium properties', but no specific monetary value for this commitment is provided."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 3% net smelter returns royalty mentioned is specifically for the Ferrari Lithium property, not the Taycan project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not provide a specific area for the Taycan project. The 5,200 ha area mentioned is for the Ferrari Lithium property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found for the Taycan project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Taycan project in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of the Taycan project, therefore there is no buyer. The ticker mentioned, TSXV:LONE, belongs to the current owner, Lithium One Metals Inc."
+    }
+  }
+}

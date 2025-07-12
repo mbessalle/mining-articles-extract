@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Silver Kings/33042.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Silver Kings",
+      "justification": "The article states the acquisition is to expand the Silver Kings Project: 'Kuya Silver expands Silver Kings Project by consolidating Silver Centre area'."
+    },
+    "company_name": {
+      "value": "Kuya Silver Corporation",
+      "justification": "The acquiring company is identified as 'Kuya Silver Corporation (CSE: KUYA) (OTCQB: KUYAF) (FSE: 6MR1) (the \"Company\" or \"Kuya Silver\")'."
+    },
+    "ceo_buyer": {
+      "value": "David Stein",
+      "justification": "The text identifies the buyer's CEO: 'David Stein, Kuya Silver's President and CEO remarked: \"This acquisition is highly strategic to the overall Silver Kings project...\"'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is for the acquisition of a 'package of properties', not a percentage interest in a project. No percentage is mentioned."
+    },
+    "primary_commodity": {
+      "value": "silver",
+      "justification": "The project is named 'Silver Kings', the acquiring company is 'Kuya Silver', and the text highlights historical production: 'historic Keeley and Frontier mines that produced almost 20 million ounces of silver'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/160210",
+      "justification": "The article content is directly about the acquisition of properties for the Silver Kings project by Kuya Silver Corporation."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Kuya Silver, is listed on the Canadian Securities Exchange (CSE), and the consideration is calculated in dollars, implying Canadian Dollars. '...price of $0.27 per share based on a 20-day volume weighted average price of shares trading on the Canadian Securities Exchange (\"CSE\")...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is entirely in shares; no cash payment is mentioned in the agreement terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, this field is null because the number of shares and the price per share are explicitly provided, which are populated in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, this field is null because the payment details are broken down into shares and share price."
+    },
+    "amount_of_shares_issued": {
+      "value": 1666667,
+      "justification": "The agreement terms state: 'Kuya Silver will issue to CSH 1,666,667 common shares of Kuya Silver'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.27,
+      "justification": "The value of the shares was calculated based on a specific price: '...calculated at $450,000 at a price of $0.27 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not include any exploration commitment specified in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not include any monetary commitment for future exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retained a royalty as part of the deal: 'CSH will retain a 2% royalty on net smelter returns payable from any future commercial production from these properties.'"
+    },
+    "coverage_area_raw": {
+      "value": 1746,
+      "justification": "The text specifies the total area of the acquired properties: '...acquisition of a package of properties totaling 1746 hectares by Kuya Silver...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: '...acquisition of a package of properties totaling 1746 hectares by Kuya Silver...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production figures ('produced almost 20 million ounces of silver and 3.3 million pounds of cobalt') but does not provide a current mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:KUYA",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: 'Kuya Silver Corporation (CSE: KUYA)'."
+    }
+  }
+}

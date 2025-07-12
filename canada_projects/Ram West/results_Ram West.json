@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ram West/89020.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ram West",
+      "justification": "The text announces an agreement to \"acquire 18 mineral claims known of the RAM WEST near Port Cartier, Quebec\"."
+    },
+    "company_name": {
+      "value": "Steadright Critical Minerals Inc.",
+      "justification": "The acquiring company is identified as \"Steadright Critical Minerals Inc. (CSE: SCM) (“Steadright” or the “Company”)\"."
+    },
+    "ceo_buyer": {
+      "value": "John Theobald",
+      "justification": "The contact person for Steadright Critical Minerals Inc. is listed as \"John Theobald Chairman & Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is to \"acquire 18 mineral claims known of the RAM WEST\". The acquisition of the claims implies a 100% interest."
+    },
+    "primary_commodity": {
+      "value": "copper, cobalt, nickel",
+      "justification": "The text states, \"The Ram West claim group has exploration potential for copper-cobalt-nickel below these claims...\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a direct URL to the source article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Steadright Critical Minerals Inc., is listed on the Canadian Securities Exchange (CSE), and the project is in Quebec, Canada, implying the currency is Canadian Dollars. \"Neither the Canadian Securities Exchange (the “CSE”) nor its Regulation Services Provider...\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is specified as shares only, with no mention of cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share, which falls under Priority 2 of the extraction hierarchy. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share, which falls under Priority 2 of the extraction hierarchy. Therefore, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 3500000,
+      "justification": "The consideration for the acquisition is stated as \"3,500,000 common shares of Steadright Critical Minerals.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.1,
+      "justification": "The transaction terms mention the number of shares issued, but not a specific price for the transaction. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.10'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the acquisition of \"18 mineral claims\" but does not specify a total area in hectares or square kilometers. The mention of \"over 13,000 acres\" refers to the separate 'RAM property', not the 'RAM WEST' project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states the project has \"exploration potential\" but does not provide any quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SCM",
+      "justification": "The buyer is explicitly identified in the text as \"Steadright Critical Minerals Inc. (CSE: SCM)\"."
+    }
+  }
+}

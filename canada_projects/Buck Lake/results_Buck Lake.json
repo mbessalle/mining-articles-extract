@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Buck Lake/64871.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Buck Lake",
+      "justification": "The press release is titled 'Advanced Gold Exploration Inc. Acquires Additional Copper Exploration Claims at its Buck Lake Property'."
+    },
+    "company_name": {
+      "value": "Advanced Gold Exploration Inc.",
+      "justification": "The press release is from 'Advanced Gold Exploration Inc. (CSE: AUEX) (\"AUEX \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "James Atkinson",
+      "justification": "The CEO is identified in the text: 'Mr. Jim Atkinson, CEO of AUEX commented...' and in the contact information: 'James Atkinson, M.Sc., P. Geo., CEO Advanced Gold Exploration Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves the acquisition of 81 new claims by staking, not the acquisition of a percentage interest in the project from a partner. The text states the company 'quickly staked the areas indicated as having potential'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The press release headline is 'Acquires Additional Copper Exploration Claims at its Buck Lake Property' and the text refers to it as 'our very exciting copper project - Buck Lake Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/216274",
+      "justification": "The article is about the Buck Lake project, as stated in the headline and throughout the text. The source link is provided at the bottom of the article: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/216274'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial consideration or currency for the acquisition of the claims."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the acquisition as staking new claims ('we quickly staked the areas') and does not mention any cash payments as consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as consideration for the new claims."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments for the new claims."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The company states it 'will expand our upcoming exploration program to include these new claims' but does not provide a specific commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The company states it 'will expand our upcoming exploration program' but does not provide a specific monetary value for the commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 6150,
+      "justification": "The text states the total area of the property after the acquisition: 'The Property now consists of a total of 260 single-cell mining claims that covers 6,150 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the same sentence: 'The Property now consists of a total of 260 single-cell mining claims that covers 6,150 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical drill results and a 43-101 report that indicates 'high merit', but it does not contain a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:AUEX",
+      "justification": "The company is identified as 'Advanced Gold Exploration Inc. (CSE: AUEX)' in the first paragraph."
+    }
+  }
+}

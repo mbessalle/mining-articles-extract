@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Charlot-Neely Lake/48127.txt",
+    "canada_projects/Charlot-Neely Lake/51488.txt",
+    "canada_projects/Charlot-Neely Lake/64132.txt",
+    "canada_projects/Charlot-Neely Lake/66177.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Charlot-Neely Lake",
+      "justification": "The project is identified as 'Charlot-Neely' in the body of the text, as part of a portfolio: 'Fulcrum’s Charlot-Neely, Fontaine Lake, Snowbird and South Pendleton uranium projects'. The metadata header also confirms the name as 'Charlot-Neely Lake Project'."
+    },
+    "company_name": {
+      "value": "Global Energy Metals Corporation",
+      "justification": "The acquiring company is identified as 'Global Energy Metals Corporation TSXV:GEMC | OTCQB:GBLEF | FSE:5GE1 (“Global Energy Metals”, the “Company” and/or “GEMC”)'."
+    },
+    "ceo_buyer": {
+      "value": "Mitchell Smith",
+      "justification": "The CEO of the buyer is identified in the text: 'Mitchell Smith, CEO & Director comments:'."
+    },
+    "interest_acquired_percent": {
+      "value": 19.9,
+      "justification": "Global Energy Metals was granted an option to acquire a percentage interest in the project portfolio: 'GEMC will also be granted an option to acquire a 19.9% interest in the Projects'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The press release headline states: 'Global Energy Metals Invests In Uranium Sector; Enters Agreement To Acquire Royalty And Option On Saskatchewan-Based Uranium Portfolio'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified in the share payment terms: '...five million shares at a deemed price of CAD $0.06 per share to Fulcrum.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the initial agreement was in shares, not cash, fitting Priority 2 of the financial extraction hierarchy."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described with the number of shares and a price per share, which corresponds to Priority 2 of the financial extraction hierarchy, populating `amount_of_shares_issued` and `issued_share_price` instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was not a single combined value; it was specified as a number of shares at a set price, fitting Priority 2 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1250000,
+      "justification": "The project's share is 1,250,000 shares, calculated as one-fourth of the total 5,000,000 shares issued for the portfolio of four projects (Charlot-Neely, Fontaine Lake, Snowbird and South Pendleton). The total is stated as: 'GEMC will issue, subject to Exchange approval, five million shares at a deemed price of CAD $0.06 per share to Fulcrum.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The price per share is explicitly stated in the agreement terms: '...five million shares at a deemed price of CAD $0.06 per share to Fulcrum.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific monetary exploration commitment for Global Energy Metals was outlined in the transaction terms. The text only notes that 'Future exploration requires the undertaking of a modern systematic geologic evaluation to determine the resource potential.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 0.5,
+      "justification": "Global Energy Metals acquired a royalty on the project portfolio: 'Pursuant to the Agreement, Global Energy Metals will acquire an immediate 0.5% royalty on net smelter returns (the “NSR”) in Fulcrum’s Charlot-Neely, Fontaine Lake, Snowbird and South Pendleton uranium projects'."
+    },
+    "coverage_area_raw": {
+      "value": 16372,
+      "justification": "The area specific to the Charlot-Neely project is stated as: 'Charlot-Neely ... Totalling 16,372 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is given in the description: 'Charlot-Neely ... Totalling 16,372 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no formal mineral resource estimate exists, stating that 'Future exploration requires the undertaking of a modern systematic geologic evaluation to determine the resource potential' and mentioning a 'Post Resource' phase, implying no current resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GEMC",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the press release: 'Global Energy Metals Corporation TSXV:GEMC'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Turgeon/63997.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Turgeon",
+      "justification": "The text describes a transaction involving the 'sale and transfer to Raptor of the Chester and Turgeon Projects'."
+    },
+    "company_name": {
+      "value": "Puma Exploration Inc.",
+      "justification": "The article is an update from 'Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF) (the “Company” or “Puma”)' regarding its sale agreement for the Turgeon project."
+    },
+    "ceo_buyer": {
+      "value": "Brett Wallace",
+      "justification": "The buyer is Raptor Resources Ltd. The text quotes 'Brett Wallace, Managing Director/CEO of Raptor.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a 'sale and transfer' which implies 100%, but does not state an explicit percentage for the interest being acquired."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text does not specify the primary commodity for the Turgeon Project. It discusses gold in relation to Puma's other project, Williams Brook."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a full, verifiable URL for the article."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The transaction consideration is specified in Australian Dollars: 'total possible consideration of AUD$2,000,000 in cash and shares'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is provided, not a separate cash payment amount for the total consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is provided, not a separate share payment amount for the total consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 1000000,
+      "justification": "The project's share is calculated as half of the total consideration. The text states the deal is for the 'sale and transfer to Raptor of the Chester and Turgeon Projects... for a total possible consideration of AUD$2,000,000 in cash and shares'. As the value is for two projects and no specific breakdown is provided, the total is divided by two."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrant payments in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of option payments in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price of shares to be issued as part of the transaction is not specified."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a drilling or meter-based exploration commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions Raptor will 'commence exploration activities on the Turgeon Project' but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Turgeon project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area unit for the Turgeon project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of mineral resources for the Turgeon project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Raptor Resources Ltd., is not yet a public company and does not have a ticker. The text states it is preparing for an 'initial public offering' and to 'list Raptor on the ASX'."
+    }
+  }
+}

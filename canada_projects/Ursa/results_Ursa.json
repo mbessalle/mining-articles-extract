@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ursa/40813.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ursa",
+      "justification": "The press release is titled: \"Cosa Resources Announces Expansion of Ursa Property, Acquisition of Polaris and Eclipse Uranium Exploration Properties in the Athabasca Basin Region, Saskatchewan\"."
+    },
+    "company_name": {
+      "value": "Cosa Resources Corp.",
+      "justification": "The first sentence of the article identifies the company: \"Cosa Resources Corp. (CSE: COSA) (OTCQB: COSAF) (FSE: SSKU) (\"Cosa Resources\" or the \"Company\") is pleased to announce the expansion of its Ursa Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "The text states: \"Keith Bodnarchuk, President & CEO, commented: ...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction was an expansion via staking new ground, not an acquisition from another party. The text states, \"Two claims totaling 3530 hectares were added to the Ursa Property,\" implying 100% ownership of the newly staked claims."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the company's focus: \"Cosa Resources is a Canadian mineral exploration company... focused on the exploration of its uranium properties in northern Saskatchewan.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180286",
+      "justification": "The article is directly about the Ursa project expansion as stated in the title: \"Cosa Resources Announces Expansion of Ursa Property...\" The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is Canadian and listed on the TSXV exchange. The detailed quote section uses a '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text states the claims were acquired via \"low-cost staking\" but does not specify any cash payment amount."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text states the claims were acquired via \"low-cost staking\" and does not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text states the claims were acquired via \"low-cost staking\" and does not provide a combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the property expansion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information regarding share warrant payments is mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information regarding option payments is mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future plans for \"winter 2024 diamond drilling\" but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not state a specific monetary commitment for the Ursa project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 60599,
+      "justification": "The text states the new total area of the project after the expansion: \"Ursa expanded to 60,599 hectares with two new claims totalling 3530 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit in the following quote: \"Ursa expanded to 60,599 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes Ursa as an exploration property and does not contain a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:COSA",
+      "justification": "The company's ticker is identified as COSA in the press release header \"(CSE: COSA)\". The \"Detailed Quote\" section at the end of the document explicitly states \"Exchange: TSXV\"."
+    }
+  }
+}

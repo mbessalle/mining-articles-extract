@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/La Blanche/51119.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "La Blanche",
+      "justification": "The authoritative project name is 'La Blanche'. The article discusses an option agreement for the 'La Blache Lake Extension Property', which is described as being combined with the existing 'La Blache project'."
+    },
+    "company_name": {
+      "value": "Temas Resources Corp.",
+      "justification": "The acquiring company is identified as 'Temas Resources Corp.' in the first sentence: 'Temas Resources Corp. (\"Temas\" or the \"Company\") (CSE:TMAS)(OTCQB:TMASF) is pleased to report that it has entered into an option agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Tim Fernback",
+      "justification": "The CEO is identified at the end of the press release: 'On behalf of the Board of Directors, Tim Fernback, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a full acquisition: '...entered into an option agreement (the \"Option Agreement\") to acquire a 100% interest in the La Blache Lake Extension Property (the \"Property\").'"
+    },
+    "primary_commodity": {
+      "value": "Iron-Titanium-Vanadium",
+      "justification": "The company's focus is described as: 'Temas Resources Corp. (CSE:TMAS)(OTCQB:TMASF) is focused on the advanced La Blache and Lac Brule Iron-Titanium-Vanadium projects in Quebec.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/847239/temas-announces-option-agreement-to-acquire-the-la-blache-lake-extension-property",
+      "justification": "The article directly reports on the option agreement for the 'La Blache Lake Extension Property', which is an extension of the 'La Blache' project, matching the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is explicitly stated in the payment terms: '...issue an aggregate of $275,000 (CAD) in common shares and pay an aggregate of $350,000 (CAD) in cash...'"
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The total cash consideration is specified: '...Temas must issue an aggregate of $275,000 (CAD) in common shares and pay an aggregate of $350,000 (CAD) in cash over a 48th month period...'"
+    },
+    "share_payments_raw": {
+      "value": 275000,
+      "justification": "The total share consideration is specified: '...Temas must issue an aggregate of $275,000 (CAD) in common shares and pay an aggregate of $350,000 (CAD) in cash over a 48th month period...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this field is null according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of common shares to be issued was not specified in the article, only their total monetary value."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the shares issued in the transaction was not specified in the article."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is retained by the seller as part of the transaction terms: 'The claims will carry with them a 2% net smelter return royalty (the \"NSR\"), of which NSR. 50% NSR can be purchased for $1,500,000 CAD at the election of Temas.'"
+    },
+    "coverage_area_raw": {
+      "value": 2432.25,
+      "justification": "The area of the acquired property is specified: 'The Property adds 44 claims / 2,432.25 Ha to the main claim block of the La Blache project.'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the coverage area is specified as Ha: 'The Property adds 44 claims / 2,432.25 Ha to the main claim block of the La Blache project.'"
+    },
+    "resource_size": {
+      "value": "Hervieux-Est: 12,801,000 M&I tonnes & 9,883,000 Inferred tonnes; Hervieux-Ouest: 19,470,000 M&I tonnes & 4,700,000 Inferred tonnes.",
+      "justification": "The article provides a table of historical resource estimates for the property. For Hervieux-Est, it lists 'M & I' tonnes as 12,801,000 and 'Inferred' tonnes as 9,883,000. For Hervieux-Ouest, it lists 'M & I' tonnes as 19,470,000 and 'Inferred' tonnes as 4,700,000."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TMAS",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Temas Resources Corp. (\"Temas\" or the \"Company\") (CSE:TMAS)(OTCQB:TMASF)'."
+    }
+  }
+}

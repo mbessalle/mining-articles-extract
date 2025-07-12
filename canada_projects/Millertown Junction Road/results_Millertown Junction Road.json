@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Millertown Junction Road/82233.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Millertown Junction Road",
+      "justification": "The authoritative project name is 'Millertown Junction Road'. The text confirms this: 'Great Atlantic Stakes Millertown Junction Gold Property' and '...staked a mineral licence (Millertown Junction Road Property)...'"
+    },
+    "company_name": {
+      "value": "Great Atlantic Resources Corp.",
+      "justification": "The text identifies the company making the announcement as 'GREAT ATLANTIC RESOURCES CORP. (TSXV: GR) (the \"Company\" or \"Great Atlantic\") is pleased to announce its wholly owned subsidiary, Golden Promise Mines Inc., has staked a mineral licence (Millertown Junction Road Property)...'"
+    },
+    "ceo_buyer": {
+      "value": "Christopher R. Anderson",
+      "justification": "The press release is signed 'On Behalf of the board of directors \"Christopher R. Anderson\" Mr. Christopher R. Anderson President CEO Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Great Atlantic's 'wholly owned subsidiary, Golden Promise Mines Inc., has staked a mineral licence (Millertown Junction Road Property)'. Staking a new license from the government implies a 100% interest."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The headline of the article is 'Great Atlantic Stakes Millertown Junction Gold Property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/234046",
+      "justification": "The article is about the staking of the Millertown Junction Road Property, which matches the project of interest. The source URL is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/234046'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction details involving cash or shares are mentioned, as the acquisition was a staking of a mineral license."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of a mineral license, not a purchase from another company. No cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of a mineral license. No payment in shares is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of a mineral license. No combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of a mineral license. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is a 'staking' of a mineral license. No shares were issued, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan for future work but does not specify a monetary value for an exploration commitment: 'Golden Promise Mines Inc. is planning a program of prospecting and rock geochemical sampling during the 2025 field season...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 425,
+      "justification": "The text states: 'The Millertown Junction Road Property (Mineral Licence 038598M) is located immediately west of the Golden Promise Property. It covers an area of 425 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'It covers an area of 425 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical gold grades from float boulder samples ('5.37 grams / tonne (g/t) gold and 5.0 g/t gold') but does not provide a mineral resource estimate with a mass or volume component (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GR",
+      "justification": "The buyer is Great Atlantic Resources Corp., and the text explicitly states: 'GREAT ATLANTIC RESOURCES CORP. (TSXV: GR)'."
+    }
+  }
+}

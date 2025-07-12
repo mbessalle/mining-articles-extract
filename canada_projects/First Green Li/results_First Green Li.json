@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/First Green Li/30649.txt",
+    "canada_projects/First Green Li/47799.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "First Green Lithium Project",
+      "justification": "Madoro Enters into Option Agreement to Acquire 100% of the First Green Lithium Project in Quebec"
+    },
+    "company_name": {
+      "value": "Madoro Metals Corp.",
+      "justification": "Madoro Metals Corp. (“Madoro” or the “Company”) (TSXV:MDM) (OTC:MSTXF) (WKN:A2QQ1X) is pleased to announce that it has entered into an option agreement (the “Agreement”) to acquire a 100% interest in the 213 claim, 12,325 hectare First Green Lithium Project..."
+    },
+    "ceo_buyer": {
+      "value": "Dušan Berka",
+      "justification": "ON BEHALF OF THE BOARD OF DIRECTORS “DUŠAN BERKA” Dušan Berka, P. Eng., President & CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pursuant to the Agreement, the Company may acquire a 100% interest in the Property..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "Madoro Enters into Option Agreement to Acquire 100% of the First Green Lithium Project in Quebec"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text contains news releases about the correct project, but does not include a full, verifiable URL, only relative links (e.g., /article/madoro-metals-corp/ca-mdm/-/madoro-enters-into-option-agreement-to-acquire-100-of-the-first-green-lithium-project-in-quebec-30649)."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred as CAD because the acquiring company is listed on the TSX Venture Exchange and the project is in Quebec, Canada. Quote: 'The Agreement remains subject to the approval of the TSX Venture Exchange.'"
+    },
+    "cash_payments_raw": {
+      "value": 1682500,
+      "justification": "The total cash payment is $1,682,500, which is the sum of the aggregate cash payments ($165,000), milestone payments ($500,000 and $1,000,000), and a finder's fee ($17,500). Quotes: 'aggregate cash payments of $165,000', 'milestone payments of $500,000 and $1,000,000 upon the filing of a feasibility study and upon the start of commercial production, respectively', and 'A finder’s fee of $17,500 is payable to an arm’s length party in connection with the Agreement.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead of `share_payments_raw` because the number of shares is provided, allowing for a calculable value using the fallback share price."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the financial data extraction hierarchy, separate cash and share components are available and have been populated."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "The total is 6,000,000 shares, which is the sum of the initial 5,400,000 shares from the original agreement and the additional 600,000 shares from the amendment. Quotes: 'issuing an aggregate of 5,400,000 common shares of the Company' and 'In consideration of the Optionors agreeing to the amendments, the Company shall issue the Optionors 600,000 common shares of the Company.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "In addition, the Company must incur an aggregate of $1,000,000 in exploration expenditures on or before the third anniversary date of the Agreement. The amendment confirms this total: 'The $1,000,000 staged work expenditure is now as follows...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The vendors retain a 2% NSR as part of the transaction terms. 'The arm’s length vendors will retain a 2.0% net smelter royalty, 0.5% of which may be purchased by the Company for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 12325,
+      "justification": "Madoro... has entered into an option agreement (the “Agreement”) to acquire a 100% interest in the 213 claim, 12,325 hectare First Green Lithium Project..."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "Madoro... has entered into an option agreement (the “Agreement”) to acquire a 100% interest in the 213 claim, 12,325 hectare First Green Lithium Project..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states there has been no previous exploration, which implies no resource has been defined. 'there is no record of previous mineral exploration on the Property or of any LCT analysis.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MDM",
+      "justification": "Madoro Metals Corp. (“Madoro” or the “Company”) (TSXV:MDM) (OTC:MSTXF) (WKN:A2QQ1X) is pleased to announce that it has entered into an option agreement..."
+    }
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "article": {
+    "id": 85933,
+    "link": "https://www.newsfilecorp.com/release/238923/Magna-Mining-Provides-Update-on-Acquisition-of-Properties-from-KGHM-International-Ltd.",
+    "title": "Magna Mining Provides Update on Acquisition of Properties from KGHM International Ltd.",
+    "description": "<img src=\"https://api.newsfilecorp.com/newsinfo/238923/367\" id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" /><p>Sudbury, Ontario--(Newsfile Corp. - January 30, 2025) - Magna Mining Inc. (TSXV: NICU) (OTCQB: MGMNF) (FSE: 8YD) (\"<b>Magna</b>\" or the \"<b>Company</b>\") is pleased to provide an update regarding its previously announced agreement to acquire a portfolio of base metals assets located in the Sudbury Basin (the \"<b>Acquisition Transaction</b>\") from an affiliate of KGHM, as previously announced in the Company's news release dated September 12, 2024 and updated on January 9, 2025.</p><p>Since entering into the definitive share purchase agreement on September 11, 2024 (the \"<b>SPA</b>\"), the Company, KGHM and their respective advisors have been working diligently towards the satisfaction of all conditions precedent under the SPA including obtaining all required regulatory and third-party consents, approvals and waivers. The Company is pleased with the progress made to date and is now targeting to close the Transaction before the end of February 2025. </p><p><b>About Magna Mining Inc.</b></p><p>Magna Mining is an exploration and development company focused on nickel, copper and PGM projects in the Sudbury Region of Ontario, Canada. The Company's flagship assets are the past producing Shakespeare and Crean Hill Mines. The Shakespeare Mine is a feasibility stage project which has major permits for the construction of a 4,500 tonne per day open pit mine, processing plant and tailings storage facility and is surrounded by a contiguous 180km<sup>2</sup> prospective land package. Crean Hill is a past producing nickel, copper and PGM mine with a technical report dated July 2023. Additional information about the Company is available on SEDAR (<a href=\"https://api.newsfilecorp.com/redirect/0VDgpcbeRv\">www.sedar.com</a>) and on the Company's website (<a href=\"https://api.newsfilecorp.com/redirect/R7ZJYHqm34\">www.magnamining.com</a>).</p><div id=\"contactInfo\"><p>For further information, please contact: </p><p>Jason Jessup<br />Chief Executive Officer</p><p>or</p><p>Paul Fowler, CFA<br />Senior Vice President<br />705-482-9667<br />Email: <a href=\"mailto:info@magnamining.com\">info@magnamining.com</a></p></div><p><b>Cautionary Note Regarding Forward-Looking Information</b></p><p>This news release contains \"forward-looking information\" within the meaning of the applicable Canadian securities legislation that is based on expectations, estimates, projections, and interpretations as at the date of this news release. Any statement that involves discussions with respect to predictions, expectations, interpretations, beliefs, plans, projections, objectives, assumptions, future events or performance including in respect of the timing and ability of the Company to  complete the Transaction within the proposed timeline,; (often but not always using phrases such as \"expects\", or \"does not expect\", \"is expected\", \"interpreted\", \"management's view\", \"anticipates\" or \"does not anticipate\", \"plans\", \"budget\", \"scheduled\", \"forecasts\", \"estimates\", \"believes\" or \"intends\" or variations of such words and phrases or stating that certain actions, events or results \"may\" or \"could\", \"would\", \"might\" or \"will\" be taken to occur or be achieved) are not statements of historical fact and may be forward-looking information and are intended to identify forward-looking information. This forward-looking information is based on reasonable assumptions and estimates of management of the Company, at the time it was made, involves known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of the companies to be materially different from any future results, performance or achievements expressed or implied by such forward-looking information. Although the forward-looking information contained in this news release is based upon what management believes, or believed at the time, to be reasonable assumptions, the parties cannot assure shareholders and prospective purchasers of securities that actual results will be consistent with such forward-looking information, as there may be other factors that cause results not to be as anticipated, estimated or intended, and neither the Company nor any other person assumes responsibility for the accuracy and completeness of any such forward-looking information. The Company does not undertake, and assumes no obligation, to update or revise any such forward-looking statements or forward-looking information contained herein to reflect new events or circumstances, except as may be required by law.</p><p><b>Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this news release. No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein.</b></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/8002/238923_1ef227d354d7fb11_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/W0ZBACQNZp\">https://www.newsfilecorp.com/release/238923</a></p>",
+    "search_terms": "McCreedy West Mine,Magna Mining Inc.,NICU",
+    "master_gid": 8565,
+    "date": "2025-01-30T12:00:00.000Z",
+    "tags": "||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 932,
+    "provider": "newsfilecorp",
+    "excerpt": "Sudbury, Ontario--(Newsfile Corp. - January 30, 2025) - Magna Mining Inc. (TSXV: NICU) (OTCQB: MGMNF) (FSE: 8YD) (\"Magna\" or the \"Company\") is pleased to provide an update regarding its previously announced agreement to acquire a portfolio of base metals assets located in the Sudbury Basin (the \"Acquisition Transaction\") from an",
+    "is_regulatory": false,
+    "refined_tags": null,
+    "ftp_filename": null,
+    "company_name": "Magna Mining Inc.",
+    "exchange": "TSXV",
+    "root_ticker": "NICU",
+    "project_name": "McCreedy West Mine",
+    "gid": 8565,
+    "location": null,
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 8565,
+    "project_name": "McCreedy West Mine",
+    "location": null
+  },
+  "articleExchange": "TSXV",
+  "articleCompanyId": 932,
+  "articleTicker": "NICU",
+  "articleCompanyName": "Magna Mining Inc.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 932,
+      "gid": 3322,
+      "project_name": "Denison (Crean Hill Mine)",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 932,
+      "gid": 8565,
+      "project_name": "McCreedy West Mine",
+      "location": null
+    },
+    {
+      "company_id": 932,
+      "gid": 8564,
+      "project_name": "Falconbridge Footwall",
+      "location": null
+    },
+    {
+      "company_id": 932,
+      "gid": 2347,
+      "project_name": "Shakespeare",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 932,
+      "gid": 8566,
+      "project_name": "Levack",
+      "location": null
+    },
+    {
+      "company_id": 932,
+      "gid": 8563,
+      "project_name": "Kirkwood",
+      "location": null
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 109657,
+      "company_id": 932,
+      "title": "Magna Mining Announces Results of Annual & Special Meeting of Shareholders",
+      "link": null,
+      "date": "2025-06-27T20:05:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 108911,
+      "company_id": 932,
+      "title": "Magna Mining Announces Funding Award from the Critical Minerals Innovation Fund (CMIF)",
+      "link": null,
+      "date": "2025-06-23T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 107498,
+      "company_id": 932,
+      "title": "Magna Mining Announces New Drill Results from McCreedy West and Recognition from the Government of Ontario",
+      "link": null,
+      "date": "2025-06-10T11:15:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106304,
+      "company_id": 932,
+      "title": "Magna Mining Reports First Quarter 2025 Operating and Financial Results",
+      "link": null,
+      "date": "2025-05-29T22:29:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106033,
+      "company_id": 932,
+      "title": "Magna Mining Announces Upgrade to OTCQX and Quarterly Results Conference Call & Webcast",
+      "link": null,
+      "date": "2025-05-28T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 102492,
+      "company_id": 932,
+      "title": "Magna Mining Intersects 24.0% Cu, 1.2% Ni & 6.7 g/t Pt + Pd + Au over 2.0 Metres at Levack Mine",
+      "link": null,
+      "date": "2025-04-30T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 99621,
+      "company_id": 932,
+      "title": "Magna Mining Announces Corporate Updates and Grant of Stock Options and RSUs",
+      "link": null,
+      "date": "2025-04-14T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 93029,
+      "company_id": 932,
+      "title": "Magna Mining Announces Assay Results and Provides an Update on the McCreedy West Mine",
+      "link": null,
+      "date": "2025-03-31T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 90221,
+      "company_id": 932,
+      "title": "Magna Mining Announces Closing of $33.5 Million Private Placement",
+      "link": "https://www.newsfilecorp.com/release/243455/Magna-Mining-Announces-Closing-of-33.5-Million-Private-Placement",
+      "date": "2025-03-05T18:57:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 89809,
+      "company_id": 932,
+      "title": "Magna Mining Initiates Diamond Drilling at the Levack Mine and Reports 2024 Drilling Results at the McCreedy West Mine",
+      "link": "https://www.newsfilecorp.com/release/243044/Magna-Mining-Initiates-Diamond-Drilling-at-the-Levack-Mine-and-Reports-2024-Drilling-Results-at-the-McCreedy-West-Mine",
+      "date": "2025-03-03T12:15:00.000Z",
+      "hidden": false
+    }
+  ]
+}

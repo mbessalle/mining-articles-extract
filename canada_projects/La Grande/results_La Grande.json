@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/La Grande/37039.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "La Grande",
+      "justification": "The property is called ‘La Grande’ and is located within the La Grande lithium exploration district."
+    },
+    "company_name": {
+      "value": "Opus One Gold Corporation",
+      "justification": "Opus One Gold Corp (TSX-V: OOR) (the “Company” or “Opus One”) is pleased to announce that on May 23, 2023, it has reached an agreement for the acquisition of a 100% interest in its first property with strong lithium potential..."
+    },
+    "ceo_buyer": {
+      "value": "Louis Morin",
+      "justification": "Louis Morin CEO of Opus One commented: “ We established a first partnership with seasoned and dedicated prospectors."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "...it has reached an agreement for the acquisition of a 100% interest in its first property with strong lithium potential..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "Opus One Gold Corp Acquires First Property With Strong Lithium Potential"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The terms of the option agreement between Opus One and the owners consists of a cash payment of 40,000.00$CDN..."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The terms of the option agreement between Opus One and the owners consists of a cash payment of 40,000.00$CDN..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The financial terms are captured under Priority 2 of the extraction hierarchy (amount of shares and price per share), so this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The financial terms are captured as separate cash and share components, so this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 4250000,
+      "justification": "The terms of the option agreement between Opus One and the owners consists of... 4,250,000 Opus One shares..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions '1,000,000 warrants exercisable at 0.10$ for a period of 18 months', but does not provide a raw monetary value for this component of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as an 'option agreement', but no specific monetary value is assigned to the option itself; consideration is broken down into cash, shares, and warrants."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The terms of the option agreement include '4,250,000 Opus One shares, valued at 0.05$ per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions 'The field program is fully funded' but does not specify a monetary exploration commitment value as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or other royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1541,
+      "justification": "The property ... consists of 3 claim blocks covering an area of 1,541 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The property ... consists of 3 claim blocks covering an area of 1,541 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources for the La Grande project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:OOR",
+      "justification": "The buyer is identified in the text as 'Opus One Gold Corp (TSX-V: OOR)'."
+    }
+  }
+}

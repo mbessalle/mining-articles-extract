@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Dufferin/49596.txt",
+    "canada_projects/Dufferin/73920.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dufferin",
+      "justification": "Refined Metals Corp. and Eagle Plains Resources Enter into an Option Agreement for the Dufferin Project in the Athabasca Basin"
+    },
+    "company_name": {
+      "value": "Refined Energy Corp.",
+      "justification": "The buyer is identified as \"Refined Metals Corp.(CSE: RMC...)\" in the first article and as \"Refined Energy Corp (RUU)...\" in the second. The authoritative metadata specifies \"Refined Energy Corp.\", which is used here."
+    },
+    "ceo_buyer": {
+      "value": "Mark Fields",
+      "justification": "Mark Fields, Chief Executive Officer of the Company stated, “We are excited to add the Dufferin Project to our project portfolio...\" (The \"Company\" is defined as Refined Metals Corp.)."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The option allows for acquisition of 60% in the first phase and an additional 15% in the second phase. \"...the Company may acquire an additional 15% interest in the Project (for a 75% total interest)...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "...the Company has been granted the right, at its option, to acquire up to a 75% interest in the Dufferin Project (the “Option ”), a prospective uranium property located in the Athabasca Basin, Northern Saskatchewan, Canada (the “Project ”)."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments and exploration expenditures are specified in Canadian dollars, for example: \"...paying an aggregate of CA$275,000 to the Vendor...\""
+    },
+    "cash_payments_raw": {
+      "value": 775000,
+      "justification": "The total cash payment is the sum of the two option phases: CA$275,000 for the first phase and an additional CA$500,000 for the second phase. \"...paying an aggregate of CA$275,000 to the Vendor...\" and \"...paying an additional CA$500,000 to the Vendor...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into cash payments and number of shares issued, not a raw value for the shares. Following the extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into separate cash and share components. Following the extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The total shares issued is the sum of the two option phases: 1,000,000 shares for the first phase and an additional 500,000 shares for the second phase. \"...issuing an aggregate of 1,000,000 common shares...\" and \"...issuing an additional 500,000 Shares...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": 0.305,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for the buyer: 'Last: 0.305'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5600000,
+      "justification": "The total exploration commitment is the sum of the two option phases: CA$2,600,000 for the first phase and an additional CA$3,000,000 for the second phase. \"...funding an aggregate of CA$2,600,000 in exploration expenditures on the Project...\" and \"...funding an additional CA$3,000,000 in exploration expenditures on the Project...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "An NSR is granted to the vendor as part of the deal terms. \"If the First Option or the Second Option is exercised, a 2% smelter returns royalty (the “NSR Royalty ”) will be granted to the Vendor...\""
+    },
+    "coverage_area_raw": {
+      "value": 10140,
+      "justification": "The initial project size was 6,424 hectares, but was later expanded. \"In addition to the above work, Refined and Eagle Plains have acquired a further 2,837 hectares at Dufferin West, further expanding the Dufferin Project to 10,140 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "...further expanding the Dufferin Project to 10,140 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Dufferin Project itself. It only refers to a nearby deposit and states this information is 'not necessarily indicative of the mineralization (if any) present at the Project'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RUU",
+      "justification": "The authoritative metadata provides the ticker RUU and exchange CSE. The second article confirms the buyer is 'Refined Energy Corp (RUU)(RFMCF)(CWA0)'. The first article's detailed quote section for the buyer also lists 'Exchange: CSE'."
+    }
+  }
+}

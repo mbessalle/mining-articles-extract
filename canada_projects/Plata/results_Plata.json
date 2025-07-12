@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Plata/50116.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Plata",
+      "justification": "The article is titled 'Honey Badger Strategically Adds to Land Position at Plata, Yukon' and refers to the company's 'wholly owned Plata Project'."
+    },
+    "company_name": {
+      "value": "Honey Badger Silver Inc.",
+      "justification": "The press release is issued by 'Honey Badger Silver Inc. (TSXV: TUF) (\"Honey Badger \" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Dorian L. (Dusty) Nicol",
+      "justification": "The article quotes 'Honey Badger's CEO, Dorian L. (Dusty) Nicol' and lists him as CEO at the end of the release."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction involved a full transfer of the new claims. 'ECEE has transferred ownership of the claims to Honey Badger at no cost...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "While the project has historical silver mineralization, this specific acquisition is targeting gold. The new interpretation is of a 'Reduced Intrusion Related Gold System' or RIRGS, and the retained royalty is specific to gold: 'subject to a 2% net smelter royalty (\"NSR\") on future commercial gold production. The NSR applies only to gold.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/200425",
+      "justification": "The article is about the Plata project, as stated in the headline: 'Honey Badger Strategically Adds to Land Position at Plata, Yukon'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Honey Badger Silver Inc., is listed on the TSX Venture Exchange, a Canadian exchange, as shown in the text '(TSXV: TUF)' and the detailed quote 'Exchange: TSXV'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was completed without a cash component: 'ECEE has transferred ownership of the claims to Honey Badger at no cost...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was completed without a share component: 'ECEE has transferred ownership of the claims to Honey Badger at no cost...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was completed without a financial consideration: 'ECEE has transferred ownership of the claims to Honey Badger at no cost...'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, which was 'at no cost'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retained a 2% NSR on future gold production as part of the transaction terms. 'ECEE has transferred ownership of the claims to Honey Badger at no cost, subject to a 2% net smelter royalty (\"NSR\") on future commercial gold production.'"
+    },
+    "coverage_area_raw": {
+      "value": 1430,
+      "justification": "The acquired claims cover a specific area: 'The new claims are adjacent to the Plata Project, comprise 69 individual claims covering 1,430 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired area is specified as hectares: '...covering 1,430 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical resources for other projects owned by the company (Sunrise Lake, Clear Lake) but does not provide any mineral resource estimate for the Plata project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TUF",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: 'Honey Badger Silver Inc. (TSXV: TUF)'."
+    }
+  }
+}

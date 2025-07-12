@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Pipestone Bay/48197.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pipestone Bay",
+      "justification": "The authoritative project name is Pipestone Bay. The article refers to the project as the Pipestone North Property: 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL) announces the signing of an option agreement to earn a 100% interest in the \"Pipestone North Property\" (\"PN Property\")'."
+    },
+    "company_name": {
+      "value": "Rockland Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL)' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Michael England",
+      "justification": "The CEO of the buyer, Rockland Resources, is identified in the signature block: 'Michael England, CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has an option to acquire a full interest: '...option agreement to earn a 100% interest in the \"Pipestone North Property\"...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is located in a known gold district and has gold showings: '...located in the western portion of the prolific Red Lake gold district of northwestern Ontario.' and 'Redstar reported visible gold in several veins with grab samples yielding 22.27 grams per tonne (g/t) Au.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/829649/rockland-resources-expands-red-lake-district-portfolio-with-the-acquisition-of-the-pipestone-north-property",
+      "justification": "The article directly discusses the acquisition of the Pipestone North Property by Rockland Resources, which aligns with the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Rockland Resources Ltd., is listed on the Canadian Stock Exchange (CSE:RKL), implying the currency for the transaction, denoted by '$', is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 60010,
+      "justification": "The transaction terms include a cash payment: 'To acquire a 100% interest in the Pipestone North property Rockland will pay a cumulative $60,010 cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated as a monetary figure. The number of shares and a fallback price are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The transaction terms include the issuance of shares: 'To acquire a 100% interest in the Pipestone North property Rockland will ... issue 1,000,000 shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued (1,000,000), but not an explicit price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "The transaction terms include a commitment for exploration expenditure: 'To acquire a 100% interest in the Pipestone North property Rockland will ... spend $1,000,000 over a 4 year period.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1015,
+      "justification": "The size of the property is stated in the article: '...the 1,015-hectare Pipestone North Property...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified: '...the 1,015-hectare Pipestone North Property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical estimates but explicitly states they 'do not meet current standards as defined by NI 43-101 and therefore should not be relied upon.' No current mineral resource estimate is provided."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RKL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Rockland Resources Ltd. (the \"Company\" or \"Rockland\") (CSE:RKL)'."
+    }
+  }
+}

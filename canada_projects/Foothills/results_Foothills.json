@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Foothills/48092.txt",
+    "canada_projects/Foothills/48534.txt",
+    "canada_projects/Foothills/49231.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Foothills",
+      "justification": "The authoritative project name is 'Foothills'. The article confirms this: 'Neotech Metals Stakes Strategic Foothills REE Prospect in Central British Columbia'."
+    },
+    "company_name": {
+      "value": "Neotech Metals Corp.",
+      "justification": "The authoritative company name is 'Neotech Metals Corp.'. The article confirms this: 'Neotech Metals Corp. (CSE: NTMC) ... is pleased to announce the staking of the Foothills REE prospect...'"
+    },
+    "ceo_buyer": {
+      "value": "Reagan Glazier",
+      "justification": "For more Information please contact: Reagan Glazier, Chief Executive Officer"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of claims, which is an acquisition from the government, not a purchase from another party. The percentage of interest acquired is not explicitly stated."
+    },
+    "primary_commodity": {
+      "value": "REE",
+      "justification": "Neotech Metals Stakes Strategic Foothills REE Prospect in Central British Columbia"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/196079",
+      "justification": "The source text contains three articles. The first, with the source link https://www.newsfilecorp.com/release/196079, is about the correct project: 'Neotech Metals Stakes Strategic Foothills REE Prospect in Central British Columbia'. The other two articles concern a different 'Foothills Project' in Quebec being acquired by NioBay Metals Inc., and are therefore disregarded."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims and does not involve a financial transaction, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving cash payments. The cash payments mentioned in the source text belong to a different 'Foothills Project' transaction involving NioBay Metals."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving share payments. The share payments mentioned in the source text belong to a different 'Foothills Project' transaction involving NioBay Metals."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims and does not involve financial consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving the issuance of shares. The share issuance mentioned in the source text belongs to a different 'Foothills Project' transaction involving NioBay Metals."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the context of the staking of the Foothills project by Neotech Metals Corp."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an option agreement. The option agreement detailed in the source text is for a different 'Foothills Project' involving NioBay Metals."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the staking transaction for the Neotech Metals project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention a specific exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention a specific exploration commitment value. The work expenditures mentioned in the source text belong to a different 'Foothills Project' transaction involving NioBay Metals."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) as part of the staking. The NSR mentioned in the source text belongs to a different 'Foothills Project' transaction involving NioBay Metals."
+    },
+    "coverage_area_raw": {
+      "value": 16517,
+      "justification": "The nine claims total 16,517 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The nine claims total 16,517 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions geochemical results and concentrations but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NTMC",
+      "justification": "The article states: 'Neotech Metals Corp. (CSE: NTMC) ... is pleased to announce the staking of the Foothills REE prospect...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Harriman/70571.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Harriman",
+      "justification": "The article is titled \"Hertz Energy Enters Option to Acquire Harriman Antimony Property in Quebec\" and refers to the property as the \"Harriman Antimony Property\" or \"Harriman Property\" throughout."
+    },
+    "company_name": {
+      "value": "Hertz Energy Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Hertz Energy Inc. (CSE: HZ) (OTCQB: HZLIF) (FSE: QE2) (\"Hertz \" or the \"Company\") is pleased to announce the acquisition of the Harriman Antimony Property...\""
+    },
+    "ceo_buyer": {
+      "value": "Kal Malhi",
+      "justification": "The CEO of the acquiring company is identified in the text: \"Kal Malhi, CEO of Hertz Energy, commented...\" and also at the end of the press release \"Kal Malhi Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the section \"OPTION AGREEMENT TERMS\", the text states: \"The Company can exercise the Option and earn a 100% interest in the Property...\""
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The project is explicitly named the \"Harriman Antimony Property\" in the title and throughout the document."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/222359",
+      "justification": "The article is about the acquisition of the Harriman project by Hertz Energy Inc., which matches the project of interest. The source URL is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The NSR buyout clause specifies Canadian dollars: \"...by paying to Griesbach C$1,500,000.\" The company is also listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The option agreement terms state the company can exercise the option \"by making a cash payment of $20,000 within seven business days of execution of the Agreement\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued, but does not assign a total dollar value to them."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, and no combined value is provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "The option agreement terms state the company can exercise the option by \"issuing an aggregate of 4,000,000 common shares to Griesbach.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are mentioned as payment to investor relations consultants (INN and OTBC), but not as part of the consideration for the property acquisition itself."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states Hertz \"intends to aggressively explore the Harriman Antimony Project\" using its \"current flow-thru cash position of approximately $7500,000\", but this is a statement of intent and available capital, not a contractual exploration commitment required by the option agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The seller retains a royalty as part of the transaction terms: \"Upon the commencement of commercial production from the Property, the Company will pay a royalty (the \"NSR Royalty\") to Griesbach being equal to 2.5% of Net Smelter Returns.\""
+    },
+    "coverage_area_raw": {
+      "value": 2500,
+      "justification": "The property is described as being \"comprised of 49 mineral claims (approximately 2,500 hectares)\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The property is described as being \"comprised of 49 mineral claims (approximately 2,500 hectares)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that no resource has been defined: \"No mineral resources or reserves have been defined on the Property.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HZ",
+      "justification": "The buyer is identified as \"Hertz Energy Inc. (CSE: HZ)\" in the first paragraph of the news release."
+    }
+  }
+}

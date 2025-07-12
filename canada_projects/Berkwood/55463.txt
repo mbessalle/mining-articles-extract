@@ -1,0 +1,68 @@
+--- Article Metadata ---
+Project Name: Berkwood
+Company Name: Volt Carbon Technologies Inc.
+Exchange: TSXV
+Ticker: VCT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+6.11.2024, 4:30:00 PM
+
+# Volt Carbon Technologies Enters into Arm's Length Option Agreement with Green Battery Minerals for the Berkwood Graphite Project
+
+Calgary, Alberta--(Newsfile Corp. - June 11, 2024) - Volt Carbon Technologies Inc. (TSXV: VCT) (OTCQB: TORVF) (BERLIN: WNF) is pleased to announce that it has entered into an arm's length option agreement with Green Battery Minerals Inc. ("GEM") (TSXV: GEM) (the "Agreement") for Volt to acquire an interest in GEM's Berkwood Graphite Project, located in Northern Quebec (collectively, the "Property"), subject to approval by the TSX Venture Exchange ("TSX-V"). GEM
+
+[](https://images.newsfilecorp.com/files/9904/212417_)
+
+Under the terms of the Agreement (signed on today's date June11, 2024) , GEM has agreed to: (i) grant Volt an option to acquire an undivided five percent (5%) interest in the Property that is exercisable until December 31, 2025 (the "Property Option"); and (ii) issue 4,000,000 shares of GEM to Volt (the "Shares"). As consideration for the Property Option and the Shares, Volt has agreed to expend $150,000 on the Property (the "Exploration Expenditures") prior to December 31, 2024. Should Volt choose to exercise the Property Option, in addition to the Exploration Expenditures, Volt will be required to make a cash payment of $1,500,000 to GEM.
+
+If, after Volt exercises the Property Option, an arm's length third party presents a bona fide offer to purchase all or substantially all of the assets of GEM, to merge with GEM or complete another form of business combination with GEM (a "GEM Takeover Transaction"), then GEM has the option to buy-back the Property Option (the "GEM Option"). Should GEM exercise the GEM Option, GEM shall pay Volt the greater of: (i) $1,800,000; or (ii) 5% of the consideration paid to GEM pursuant to the GEM Takeover Transaction, in cash.
+
+"Securing this option agreement with Green Battery Minerals for the Berkwood Graphite Project aligns with Volt's strategy to expand access to high-grade graphite deposits thoroughly vetted for compatibility within our proprietary dry separation process. The success of our methods on the Berkwood rock samples, as detailed in our July 2023 press release, alongside the subsequent conversion to battery anode and positive battery test results published in December 2023, solidify this as a strategic North American resource. Furthermore, this collaboration significantly enhances our geographical presence and emphasizes our commitment to sustainable solutions in transforming graphite-bearing rock into lithium-ion battery materials." - V-Bond Lee, CEO of Volt Carbon Technologies
+
+**About Volt Carbon Technologies**
+
+Volt Carbon is a publicly traded carbon science company, with specific interests in energy storage and green energy creation, with holdings in mining claims in the provinces of Ontario, Quebec and British Columbia in Canada. For the latest information on Volt Carbon's properties and news please refer to the website [www.voltcarbontech.com](https://api.newsfilecorp.com/redirect/QODWyFWLkm).
+
+On behalf of the Board of Directors,
+
+**Volt Carbon Technologies Inc.  
+** V-Bond Lee, P. Eng.  
+CEO, President, Chairman of the Board and Director
+
+**Information Contact** :  
+Email: [info@voltcarbontech.com](mailto:info@voltcarbontech.com)  
+Tel: (647-546-7049)
+
+**Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+_FORWARD-LOOKING STATEMENTS: This press release contains forward-looking statements, within the meaning of applicable securities legislation, concerning Volt Carbon's business and affairs. In certain cases, forward-looking statements can be identified by the use of words such as "plans", "expects" or "does not expect", "intends" "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates" or variations of such words and phrases or state that certain actions, events or results "may", "could", "would", "might" or "will be taken", "occur" or "be achieved". Such forward-looking statements include those with respect to: (i) receipt of the approval of the TSX-V for the Agreement; (ii) Volt's intention to make the Exploration Expenditures prior to December 31, 2024; (iii) the ability of Volt to make the $1,500,000 cash payment to GEM should Volt choose to exercise the Property Option; (iv)_ _Volt's objective to expand access to high-grade graphite deposits that are compatible with its proprietary dry separation process; (v) management's belief that the Property Option will solidify Volt's access to high-grade graphite deposits in North America; (vi) Volt's objective to scale up and capitalize on its exclusive dry processing methods for the sustainable purification of graphite, specifically tailored for battery anode applications; and (vii) Volt's ability to transform graphite-bearing rock into lithium-ion battery materials._
+
+_Statements of past performance should not be construed as an indication of future performance. Forward-looking statements involve significant risks and uncertainties, should not be read as guarantees of future performance or results, and will not necessarily be accurate indications of whether or not such results will be achieved. A number of factors, including those discussed above, could cause actual results to differ materially from the results discussed in the forward-looking statements. Any such forward-looking statements are expressly qualified in their entirety by this cautionary statement._
+
+_All of the forward-looking statements made in this press release are qualified by these cautionary statements. Readers are cautioned not to place undue reliance on such forward-looking statements. Forward-looking information is provided as of the date of this press release, and Volt Carbon assumes no obligation to update or revise them to reflect new events or circumstances, except as may be required under applicable securities legislation._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/212417](https://api.newsfilecorp.com/redirect/m3JMyTr5jj)
+
+### Project Name
+
+[Berkwood Project](/?gid=2819)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02                       Open: 0.02
+High: 0.02                       Bid: 0.015
+Bid Size: 1755000                   Beta: 1.36785
+Year High: 0.045                  Market Cap: 4.77m
+PB Ratio: 1.77                   EPS: -0.01
+Average Volume (30 Day): 134.68k    Volume: 66.00k
+Prev. Close: 0.02                Low: 0.02
+Ask: 0.02                        Ask Size: 115000
+VWAP: 0.02                       Year Low: 0.01
+Total Shares: 238.57m               Shares Out: 244.07m
+Float: 216.74m                      Exchange: TSXV

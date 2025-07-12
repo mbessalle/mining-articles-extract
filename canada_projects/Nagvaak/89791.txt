@@ -1,0 +1,177 @@
+--- Article Metadata ---
+Project Name: Nagvaak
+Company Name: StrategX Elements Corp.
+Exchange: CSE
+Ticker: STGX
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.3.2025, 7:00:00 PM
+
+# StrategX Discovers Extensive High-Grade Graphite at Nagvaak and Expands Mineral Claims to 79,781 Hectares on the Melville Peninsula, Nunavut, Canada
+
+Vancouver, British Columbia--(Newsfile Corp. - March 3, 2025) - StrategX Elements Corp. (CSE: STGX) ("StrategX" or the "Company") is pleased to announce the discovery of a wide zone of high-grade graphite mineralization at its Nagvaak property on the Melville Peninsula, Nunavut. A 32-metre drill core interval from historical drill hole NAG96-17 returned an average grade of 15% graphitic carbon (Cg), with a 17-metre section grading 22% Cg. These results reinforce the potential for a significant graphite deposit within the emerging Melville Critical Metals Belt.
+
+Building on this success, StrategX has expanded its mineral claim property position to 79,781 hectares, securing control over a highly prospective critical minerals district. The Company is advancing exploration efforts in the region, positioning itself at the forefront of critical mineral discoveries in Canada. 
+
+**Key Highlights:**
+
+  * Significant Graphite Discovery: Assay results from NAG96-17 confirm high-grade graphite, with 19 samples exceeding 20% Cg, including a peak grade of 34.9% Cg. Thin section analysis reveals large (>500 micron) crystalline graphite aggregates, indicating potential for high-quality flake graphite.
+  * Polymetallic Potential: The same drill hole also returned encouraging concentrations of nickel, copper, zinc, molybdenum, vanadium pentoxide, and silver, further supporting the potential for a multi-metal mineral system (See Table 1).
+  * Regional Scale Opportunity: The Melville Critical Metals Belt, spanning 200 km by 100 km, contains multiple geophysical anomalies, suggesting an untapped and district-scale mineral system in the same sedimentary belt.
+  * Exploration Advancement: StrategX has established a base camp and positioned a drill rig at Nagvaak, setting the stage for its 2025 drilling campaign to further define high-grade graphite zones and explore additional targets.
+
+
+
+**High-Grade Graphite Discovery at Nagvaak**
+
+Following encouraging initial results from 20 core samples previously reported [here](https://api.newsfilecorp.com/redirect/W0w12sQZog), the Company analyzed the remaining core from NAG96-17, totaling 56 samples. The results confirmed a 32-metre interval averaging 15% Cg from 14.4 m to 47.0 m, with multiple high-grade intercepts including 23% Cg from 58.8 m to 62.8 m, reinforcing the potential for large-scale graphite mineralization.
+
+Given that graphitic schist units have been mapped along a 6 km corridor at Nagvaak-and similar units have been documented throughout the Melville Critical Metals Belt by the Geological Survey of Canada-this discovery signals significant regional potential for additional wide zones of high-grade graphite (Figure 1).
+
+[](https://images.newsfilecorp.com/files/8512/243029_05765eb8d49b29c2_006full.jpg)
+
+**Figure 1** : StrategX's property position & regional potential - Melville Critical Metals Belt
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/8512/243029_05765eb8d49b29c2_006full.jpg>
+
+**Table 1 - NAG96-17 Assay results** * Indicates newly analyzed values. All other values have been previously released.  
+---  
+**Sample #**| **From**| **To**| **C Graphitic**| **Mo**| **Zn**| **Ag**| **Ni**| **Cu**| **Au + PGE**| **V2O5**  
+**%**| **%**| **%**| **g/t**| **%**| **%**| **g/t**| **%**  
+NC-245*| 2.4| 3.4| **28.00**|  0.04| 0.10| 9.12| 0.13| 0.19| 0.25| 0.34  
+NC-246*| 3.4| 4.4| **28.20**|  0.04| 0.28| 6.79| 0.17| 0.09| 0.05| 0.33  
+NC-247*| 4.4| 5.4| **8.89**|  0.04| 0.09| 9.68| 0.14| 0.15| 0.07| 0.53  
+NC-248*| 5.4| 6.4| **7.01**|  0.04| 0.03| 9.66| 0.13| 0.16| 0.06| 0.55  
+NC-249*| 6.4| 7.4| **12.60**|  0.03| 0.06| 6.46| 0.27| 0.16| 0.21| 0.41  
+NC-249B*| 7.4| 8.4| **2.03**|  0.04| 0.08| 14.20| 0.20| 0.29| 0.07| 0.44  
+NC-250*| 8.4| 9.4| **0.10**|  0.01| 0.14| 8.28| 0.26| 0.15| 0.10| 0.32  
+NC-251*| 9.4| 10.4| **0.09**|  0.01| 0.13| 4.38| 0.15| 0.07| 0.13| 0.14  
+NC-252*| 10.4| 11.4| **0.02**|  0.00| 0.02| 10.60| 0.21| 0.19| 0.10| 0.21  
+NC-253*| 11.4| 12.4| **0.06**|  0.03| 0.03| 5.32| 0.10| 0.10| 0.05| 0.27  
+NC-254*| 12.4| 13.4| **0.05**|  0.02| 0.02| 1.90| 0.03| 0.02| 0.02| 0.18  
+NC-255*| 13.4| 14.4| **0.12**|  0.00| 0.06| 2.86| 0.06| 0.04| 0.04| 0.18  
+NC-256*|  **14.4**| **15.4**| **2.51**|  0.03| 0.05| 3.62| 0.08| 0.06| 0.03| 0.29  
+NC-257| **15.4**| **16.4**| **11.85**|  0.05| 0.04| 4.92| 0.14| 0.11| 0.05| 0.26  
+NC-258| **16.4**| **17.4**| **10.15**|  0.02| 0.08| 5.23| 0.39| 0.10| 0.05| 0.29  
+NC-259| **17.4**| **18.4**| **31.00**|  0.04| 0.64| 8.28| 0.21| 0.11| 0.05| 0.42  
+NC-260| **18.4**| **19.4**| **14.95**|  0.03| 0.61| 7.97| 0.29| 0.14| 0.19| 0.47  
+NC-261| **19.4**| **20.4**| **23.90**|  0.04| 3.55| 6.33| 0.25| 0.12| 0.07| 0.30  
+NC-262| **20.4**| **21.4**| **25.30**|  0.04| 0.64| 7.20| 0.12| 0.10| 0.06| 0.42  
+NC-263| **21.4**| **22.4**| **20.10**|  0.03| 0.30| 7.46| 0.30| 0.08| 0.07| 0.41  
+NC-264| **22.4**| **23.4**| **23.60**|  0.04| 0.87| 7.30| 0.19| 0.08| 0.07| 0.35  
+NC-265| **23.4**| **24.4**| **25.20**|  0.02| 2.42| 9.51| 0.21| 0.16| 0.18| 0.36  
+NC-266*|  **24.4**| **25.4**| **26.90**|  0.03| 0.60| 7.59| 0.19| 0.07| 0.07| 0.34  
+NC-267*|  **25.4**| **26.4**| **22.90**|  0.03| 0.07| 10.80| 0.11| 0.23| 0.03| 0.41  
+NC-268*|  **26.4**| **27.4**| **23.00**|  0.02| 0.80| 6.98| 0.24| 0.13| 0.10| 0.41  
+NC-269*|  **27.4**| **28.4**| **25.50**|  0.03| 0.02| 9.45| 0.24| 0.19| 0.11| 0.33  
+NC-270| 28.4| 29.4| na| 0.04| 0.08| 12.90| 0.24| 0.31| 0.11| 0.38  
+NC-271| **29.4**| **30.4**| **22.80**|  0.04| 0.13| 8.75| 0.33| 0.18| 0.14| 0.43  
+NC-272| **31.4**| **32.4**| **18.10**|  0.05| 0.09| 6.80| 0.24| 0.12| 0.11| 0.48  
+NC-273| **32.4**| **33.4**| **15.05**|  0.05| 0.17| 7.52| 0.19| 0.14| 0.07| 0.50  
+NC-274| **33.4**| **34.4**| **25.30**|  0.04| 1.11| 12.10| 0.24| 0.23| 0.14| 0.44  
+NC-275| **34.4**| **35.1**| **29.60**|  0.04| 1.01| 10.15| 0.26| 0.08| 0.09| 0.44  
+NO SAMPLE| 35.1| 36.0| na| na| na| na| na| na| na| na  
+NC-276| **36.0**| **37.0**| **34.90**|  0.04| 0.65| 9.19| 0.29| 0.08| 0.12| 0.30  
+NC-277| **37.0**| **38.0**| **18.25**|  0.04| 2.02| 12.65| 0.31| 0.22| 0.16| 0.44  
+NC-278| **38.0**| **39.0**| **11.15**|  0.04| 0.46| 13.65| 0.36| 0.22| 0.08| 0.40  
+NC-279| **39.0**| **40.0**| **10.90**|  0.03| 3.65| 14.20| 0.54| 0.24| 0.27| 0.36  
+NC-280| **40.0**| **41.0**| **11.15**|  0.03| 2.46| 12.70| 0.40| 0.18| 0.16| 0.32  
+NC-281*|  **41.0**| **42.0**| **9.36**|  0.03| 0.88| 7.73| 0.31| 0.17| 0.11| 0.49  
+NC-282*|  **42.0**| **43.0**| **4.26**|  0.04| 0.52| 5.13| 0.27| 0.11| 0.08| 0.58  
+NC-283*|  **43.0**| **44.0**| **1.72**|  0.04| 0.13| 5.56| 0.14| 0.08| 0.06| 0.60  
+NC-284*|  **44.0**| **45.0**| **5.78**|  0.05| 0.47| 7.43| 0.49| 0.15| 0.12| 0.51  
+NC-285*|  **45.0**| **46.0**| **3.14**|  0.04| 1.06| 7.44| 0.49| 0.14| 0.08| 0.48  
+NC-286*|  **46.0**| **47.0**| **2.21**|  0.03| 0.57| 6.30| 0.37| 0.11| 0.10| 0.49  
+NC-287*| 47.0| 48.0| **0.20**|  0.02| 0.13| 3.96| 0.09| 0.06| 0.06| 0.51  
+NC-288*| 48.0| 49.0| **0.10**|  0.04| 0.16| 2.79| 0.08| 0.05| 0.08| 0.45  
+NO SAMPLE| 49.0| 54.8| na| na| na| Na| na| na| na| na  
+NC-289*| 54.8| 55.8| **2.80**|  0.01| 0.07| 0.78| 0.06| 0.03| 0.03| 0.15  
+NC-290*| 55.8| 56.8| **1.36**|  0.01| 0.03| 0.54| 0.03| 0.02| 0.02| 0.08  
+NC-291*| 56.8| 57.8| **2.19**|  0.01| 0.11| 0.56| 0.04| 0.03| 0.01| 0.06  
+NC-292*| 57.8| 58.8| **2.51**|  0.02| 0.40| 1.12| 0.09| 0.06| 0.06| 0.26  
+NC-293*|  **58.8**| **59.8**| **23.80**|  0.04| 0.49| 1.40| 0.29| 0.10| 0.10| 0.43  
+NC-294*|  **59.8**| **60.8**| **26.20**|  0.04| 1.01| 1.08| 0.28| 0.05| 0.06| 0.37  
+NC-295*|  **60.8**| **61.8**| **18.90**|  0.05| 1.17| 1.87| 0.19| 0.14| 0.11| 0.49  
+NC-296*|  **61.8**| **62.8**| **23.20**|  0.02| 0.05| 2.65| 0.37| 0.17| 0.09| 0.35  
+NC-297*| 62.8| 63.8| **2.19**|  0.00| 0.01| 0.17| 0.01| 0.01| 0.00| 0.03  
+NC-298*| 63.8| 64.4| **0.60**|  0.00| 0.01| 0.11| 0.01| 0.00| 0.00| 0.01  
+  
+ 
+
+**Regional Potential of the Melville Critical Metals Belt**
+
+Exploration on the Melville Peninsula has historically been limited to zinc exploration (1970s & 1990s) and isolated gold exploration. The Company's work is revealing a much larger, overlooked critical metals system associated with the Penrhyn Basin's geological evolution. This suggests the region holds potential for large-scale critical metals deposits, positioning StrategX as a pioneer in unlocking its value.
+
+**Next Steps**
+
+  * Drilling high priority targets at Nagvaak to define high-grade graphite mineralization at depth and along strike.
+  * Comparative studies of world-class graphite deposits to assess economic potential.
+  * Field evaluation of geophysical and geochemical anomalies across the Melville Critical Metals Belt to identify additional graphite and critical metal targets.
+  * Follow-up exploration, including ground geophysics, detailed sampling, and mapping, to prioritize drill targets.
+  * Additional petrographic & metallurgical studies to confirm the high quality and value of the graphite. 
+
+
+
+**Graphite: A Critical Material for the Energy Transition**
+
+Graphite is a critical material in the shift toward sustainable energy solutions. It is a key component in lithium-ion batteries, which power electric vehicles (EVs) and store renewable energy from sources like solar and wind. Additionally, its high conductivity, thermal stability, and durability make it essential for fuel cells and other advanced energy technologies. As global demand for clean energy grows, graphite's role in improving energy storage, efficiency, and sustainability becomes increasingly important. Benchmark Minerals Intelligence estimates that approximately 97 new natural graphite mines need to come online by 2035. Graphite represents the largest component of the batteries, and there is no current replacement for graphite in the anode. In addition to the grade and size of deposits, graphite quality is important. Specifically, flake size, shape and purity are key determinants for value per tonne and ease of processing. 
+
+As of February 2025, the graphite market is experiencing significant shifts in supply and demand dynamics, influenced by geopolitical events, production challenges, and the accelerating transition to green energy.
+
+**Qualified Person**
+
+The geological and technical data contained in this press release were reviewed and approved by the Vice President - Exploration for the Company, Gary Wong, P.Eng., a qualified person as defined by National Instrument 43-101 Standards of Disclosure for Mineral Projects.
+
+**Analytical Methods & QA/QC**
+
+The analytical work reported herein was performed by ALS Global ("ALS"), Vancouver, Canada. ALS is an ISO-IEC 17025:2017 and ISO 9001:2015 accredited geo analytical laboratory and is independent of the Company and the QP. 
+
+All core samples were of historically sawn half-core and no verification of the original sawing and sampling techniques, or core recovery calculations were possible. The samples taken were of pre-existing half-core and submitted to ALS Geochemistry for analysis. Samples were crushed entirely to 70% passing - 2mm, 250g split off and pulverized to better than 85% passing 75 microns. Multi-Element Ultra Trace uses a four-acid digestion performed on a 0.25g sample to quantitatively dissolve most geological materials culminating in analytical analysis performed with a combination of ICP-AES and ICP-MS (method ME-MS61). From there, either PGM-ICP23 or Au-ICP21 was used, depending on whether platinum group metals were suspected. Both methods use a 30g lead fire assay with ICP-AES finish. Graphitic C is determined by digesting a sample in 50% HCl to evolve carbonate as CO2. The residue is filtered, washed, dried, and then roasted at 425C. The roasted residue is analyzed for carbon by oxidation, induction furnace and infrared spectroscopy. No field QA/QC samples (blanks, duplicates, and standards) were inserted because appropriate QA/QC samples are still being sourced.
+
+**About StrategX**
+
+StrategX is an exploration company focused on discovering critical metals in northern Canada. With projects on the East Arm of the Great Slave Lake (Northwest Territories) and the Melville Peninsula (Nunavut), the Company is pioneering new district-scale discoveries in these underexplored regions. By integrating historical data with modern exploration techniques, StrategX provides investors with a unique opportunity to participate in the discovery of essential metals crucial to electrification, global green energy, and supply chain security. 
+
+**On Behalf of the Board of Directors**
+
+Darren G. Bahrey  
+CEO, President & Director
+
+**For further information, please contact:**
+
+StrategX Elements Corp.  
+[info@strategXcorp.com](mailto:info@strategXcorp.com)  
+Phone: 604.379.5515
+
+For further information about the Company, please visit our website at [www.strategXcorp.com](https://api.newsfilecorp.com/redirect/q8JnAHnrvE)
+
+ _Neither the Canadian Securities Exchange nor its regulation services accept responsibility for the adequacy or accuracy of this release._
+
+_**Disclaimer for Forward-Looking Information**_
+
+ _All statements included in this press release that address activities, events, or developments that the Company expects, believes, or anticipates will or may occur in the future are forward-looking statements. These forward-looking statements involve numerous assumptions made by the Company based on its experience, perception of historical trends, current conditions, expected future developments and other factors it believes are appropriate in the circumstances. In addition, these statements involve substantial known and unknown risks and uncertainties that contribute to the possibility that the predictions, forecasts, projections, and other forward-looking statements will prove inaccurate, certain of which are beyond the Company's control. Readers should not place undue reliance on forward-looking statements. Except as required by law, the Company does not intend to revise or update these forward-looking statements after the date hereof or revise them to reflect the occurrence of future unanticipated events._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/243029](https://api.newsfilecorp.com/redirect/nV4nAFANDx)
+
+### Project Name
+
+[Nagvaak Project](/?gid=3805)  
+Nunavut, Canada
+
+--- Detailed Quote ---
+
+Last: 0.085           Bid: 0.08
+Bid Size: 4000       Beta: -0.11814
+Year High: 0.29      Market Cap: 4.47m
+PB Ratio: 1.10       Average Volume (30 Day): 15.39k
+Prev. Close: 0.085    Ask: 0.125
+Ask Size: 5000       VWAP: 0.08081
+Year Low: 0.065       Total Shares: 52.59m
+Shares Out: 52.59m     PE Ratio: 8.50
+Float: 45.73m          Exchange: CSE

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Pilipas/45601.txt",
+    "canada_projects/Pilipas/46555.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pilipas",
+      "justification": "The text states that Ophir Gold Corp. has entered into an agreement with Azimut Exploration Inc. to acquire an interest in the 'Pilipas Lithium Property'. The authoritative project name is Pilipas."
+    },
+    "company_name": {
+      "value": "Ophir Metals Corp.",
+      "justification": "The acquiring company is identified as 'Ophir Gold Corp. (TSXV: OPHR) (OTCQB: OPHRF) (FSE: 80M)(\"Ophir\" or the \"Company\")'. The authoritative company name is Ophir Metals Corp."
+    },
+    "ceo_buyer": {
+      "value": "Shawn Westcott",
+      "justification": "The press release is signed on behalf of the board by '\"Shawn Westcott\" Ophir Gold Corp.' and he is also quoted: 'comments Ophir CEO Shawn Westcott.'"
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement provides the option to 'acquire up to an undivided 70% interest in the Pilipas Lithium Property'. The payment table confirms the final interest earned is 70%."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the 'Pilipas Lithium Property' and the text discusses its 'Lithium Potential' and prospectivity for 'LCT pegmatites'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/190482",
+      "justification": "The article is titled 'Ophir Gold Corp. Options Highly Prospective Lithium Project in the James Bay Region, Quebec' and details the option agreement for the Pilipas Lithium Property, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment table in the agreement summary is explicitly labeled with 'Cash (CDN$)' and 'Exploration or Other Work Commitments (CDN$)'."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The 'Acquisition Agreement' table shows a total cash payment of $100,000 over three years. 'Total | $100,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into cash and a number of shares. As per the financial data extraction hierarchy, since the number of shares and a price per share can be determined, `amount_of_shares_issued` and `issued_share_price` are populated instead of `share_payments_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into separate cash and share components, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 6000000,
+      "justification": "The 'Acquisition Agreement' table shows a total issuance of 6,000,000 shares over three years. 'Total | ... | 6,000,000 Shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an 'Option Agreement', but the payments do not include stock options as a form of consideration."
+    },
+    "issued_share_price": {
+      "value": 0.055,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.055'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 4000000,
+      "justification": "The 'Acquisition Agreement' table shows a total commitment for 'Exploration or Other Work Commitments (CDN$)' of $4,000,000. 'Total | ... | $4,000,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2% NSR is a conditional term that applies if a future joint venture partner's interest is diluted below 10%, not a royalty acquired or retained as part of the initial transaction. 'If after formation of the joint venture either party's interest is diluted below 10%, it shall be converted into a 2% Net Smelter Royalty (NSR) on the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 7100,
+      "justification": "The text states: 'The Pilipas Property consists of 135 claims totaling 7,100 ha'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The Pilipas Property consists of 135 claims totaling 7,100 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the Pilipas property. It states, 'An Ophir Gold Corp. qualified person has not performed sufficient work or data verification to validate these results in accordance with National Instrument 43-101,' indicating no current, verified resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:OPHR",
+      "justification": "The buyer is identified as 'Ophir Gold Corp. (TSXV: OPHR)' in the first paragraph of the press release."
+    }
+  }
+}

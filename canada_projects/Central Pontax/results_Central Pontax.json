@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Central Pontax/24865.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Central Pontax",
+      "justification": "The project name is listed at the bottom of the document: 'Project Name Central Pontax Project'."
+    },
+    "company_name": {
+      "value": "Stria Lithium Inc.",
+      "justification": "The company is identified in the first sentence: 'Stria Lithium Inc. (TSXV:SRA) (\"Stria \" or the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Dean Hanisch",
+      "justification": "The contact information section lists 'Dean Hanisch CEO, Stria Lithium Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe an acquisition of interest for the Central Pontax project. It mentions a pre-existing '100% interest in the Pontax spodumene lithium project', but this is not part of a new transaction being announced."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text states that Stria Lithium has an interest in the 'Pontax spodumene lithium project'. It also says 'Lithium is a critical metal...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about the Central Pontax project. The title is 'Stria Lithium Announces Closing of Romer Property Purchase' and the body of the text details the acquisition of the Romer Property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction mentioned in the article uses the '$' symbol. As the company, Stria Lithium Inc., is listed on the Canadian TSX Venture Exchange (TSXV), the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a cash payment of $125,000, but this was consideration for the 'Romer Property', not the Central Pontax project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a share payment component (750,000 shares at $0.50/share), but this was for the purchase of the 'Romer Property', not the Central Pontax project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment value is mentioned for the Central Pontax project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text states that '750,000 common shares of Stria' were issued, but this was for the purchase of the 'Romer Property', not the Central Pontax project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text mentions a 'deemed price of $0.50 per share', but this applies to the shares issued for the 'Romer Property' purchase, not the Central Pontax project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a 'net smelter royalty of 1% (\"NSR\")', but this was part of the consideration for the 'Romer Property', not the Central Pontax project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a 'total surface area: 2,592.1 ha', but this is for the 'Romer Property', not the Central Pontax project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The 'ha' unit corresponds to the area of the 'Romer Property', not the Central Pontax project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided in the text for the Central Pontax project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SRA",
+      "justification": "The company is identified as 'Stria Lithium Inc. (TSXV:SRA)' in the first paragraph of the press release."
+    }
+  }
+}

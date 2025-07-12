@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/New Afton/53746.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "New Afton",
+      "justification": "The text announces an agreement related to the New Afton Mine. Quote: '...pleased to announce that it has entered into an agreement relating to its strategic partnership with Ontario Teachers’ Pension Plan (“Ontario Teachers’”) at the New Afton Mine (“New Afton”)...'"
+    },
+    "company_name": {
+      "value": "New Gold Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release. Quote: 'New Gold Inc. (“New Gold” or the “Company”) (TSX and NYSE American: NGD) is pleased to announce that it has entered into an agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Patrick Godin",
+      "justification": "A quote in the article identifies the President and CEO of the acquiring company. Quote: '...stated Patrick Godin, President and CEO.'"
+    },
+    "interest_acquired_percent": {
+      "value": 80.1,
+      "justification": "The transaction increases New Gold's interest to a final holding of 80.1%. Quote: 'New Gold will increase its effective free cash flow interest in New Afton to 80.1% (the “Transaction”).'"
+    },
+    "primary_commodity": {
+      "value": "copper/gold",
+      "justification": "The project is described as a copper and gold asset. Quote: 'This is an excellent transaction where we are able to increase our free cash flow exposure in a copper and gold asset which we already own and operate.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The document specifies the currency at the beginning. Quote: '(All dollar figures are in US dollars unless otherwise indicated)'"
+    },
+    "cash_payments_raw": {
+      "value": 275000000,
+      "justification": "The total cash payment is $275 million, comprising an upfront payment of $255 million and a conditional one-time payment of $20 million. Quotes: '...in exchange for an upfront cash payment of $255 million from New Gold.' and 'In addition, following a change of control within 20 months following completion of the Transaction, Ontario Teachers’ would also receive a one-time cash payment of $20 million.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration was an upfront cash payment. The mention of shares relates to a bought deal equity financing to fund the cash payment, not a direct payment of shares to the seller."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms were explicitly defined as cash payments, so this field is not applicable per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 87,300,000 shares mentioned are part of a bought deal financing to raise capital for the cash payment, not a direct payment of shares to the seller. Quote: 'New Gold has entered into an agreement with a syndicate of underwriters... to purchase, on a bought deal basis, 87,300,000 Common Shares... The Company intends to use the net proceeds of the Offering to fund a portion of the cash payment to complete the Transaction.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The $1.72 price per share is for the bought deal financing to raise capital, not a price for shares issued as consideration to the seller. Quote: '...purchase, on a bought deal basis, 87,300,000 Common Shares at a price of $1.72 per Common Share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves an amended 'free cash flow royalty agreement', which is not specified as a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the rules. Quote: 'At closing, the parties will enter into an amended free cash flow royalty agreement...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not mention the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not mention the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions the C-Zone and potential to extend mine life but does not provide a quantified statement of mineral resources with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:NGD, NYSE American:NGD",
+      "justification": "The buyer's name is followed by its stock exchanges and ticker symbol in parentheses. Quote: 'New Gold Inc. (“New Gold” or the “Company”) (TSX and NYSE American: NGD)'"
+    }
+  }
+}

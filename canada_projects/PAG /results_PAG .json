@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/PAG /33830.txt",
+    "canada_projects/PAG /36626.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pag North Lithium Project",
+      "justification": "The primary project is consistently referred to as the Pag North Lithium Project. For example: \"Rock Edge is pleased to announce the Company has increased its land claim holdings in the Pag North Lithium Project located east of LongLac, northwestern Ontario.\""
+    },
+    "company_name": {
+      "value": "Rock Edge Resources Ltd.",
+      "justification": "The acquiring company is identified as Rock Edge Resources Ltd. in the text, which contradicts the authoritative metadata. The text states: \"Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG) is pleased to announce...\""
+    },
+    "ceo_buyer": {
+      "value": "Charles Desjardins",
+      "justification": "The CEO of the acquiring company, Rock Edge, is named in the press release. \"Charles Desjardins, CEO of Rock Edge, states...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the property. \"Rock Edge signed the second Pag North Lithium option agreement to acquire a 100% undivided interest in the property from two third parties...\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named as a lithium project. \"Rock Edge Expands on Pag North Lithium Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/749440/Rock-Edge-Expands-on-Pag-North-Lithium-Project",
+      "justification": "The article at this link directly discusses the expansion and acquisition details of the Pag North Lithium Project by Rock Edge Resources Ltd., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with a '$' symbol and the acquiring company, Rock Edge Resources Ltd., is listed on the Canadian Securities Exchange (CSE:REDG), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 22200,
+      "justification": "This value is the sum of two separate cash payments for the project mentioned in the documents: an initial $10,000 and a subsequent $12,200 for additional claims. First payment: \"...the payment of $10,000...\". Second payment: \"Rock Edge acquired an additional 12 claims... for an aggregate cash payment of $12,200.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved the issuance of shares, but a specific monetary value for these shares was not provided, only the quantity."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were broken down into separate cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 400000,
+      "justification": "The initial option agreement included the issuance of 400,000 shares. \"...and the issuance of 400,000 common shares of the Company will be made...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were issued as part of the property acquisition agreement. The warrants mentioned in the text are part of separate private placement financings, not consideration for the property."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as part of the property acquisition agreement."
+    },
+    "issued_share_price": {
+      "value": 0.205,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the April 17, 2023 article: 'Last: 0.205'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The transaction terms do not mention any exploration commitment defined by drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include a specific exploration spending commitment. While proceeds from a financing are mentioned for exploration, this is not a commitment to the vendors as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the sellers retained a 1.5% NSR. The rule states to capture retained royalties. \"The Optionors will retain a 1.5% net smelter royalty (\"NSR\") on the property...\""
+    },
+    "coverage_area_raw": {
+      "value": 6345,
+      "justification": "The first article states the total area of the project after the initial expansion. \"With the recent addition of approximately 2,413 hectares, Rock Edge now holds 6,345 hectares in the Pag North Lithium Project.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "\"With the recent addition of approximately 2,413 hectares, Rock Edge now holds 6,345 hectares in the Pag North Lithium Project.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate. It describes the project as being in the exploration phase, stating \"Analytical results will be needed to confirm rare-element levels,\" which implies no formal resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:REDG",
+      "justification": "The acquiring company's ticker and exchange are explicitly stated in the text: \"Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG)\"."
+    }
+  }
+}

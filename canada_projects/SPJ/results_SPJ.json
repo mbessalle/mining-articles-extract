@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/SPJ/80898.txt",
+    "canada_projects/SPJ/80899.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "SPJ",
+      "justification": "The text identifies the project name in the 'About MacDonald Mines Exploration Ltd.' section: \"...on its 100%-owned, 19,720 ha (197.2 km2) SPJ Project.\""
+    },
+    "company_name": {
+      "value": "Macdonald Mines Exploration Ltd.",
+      "justification": "The company being acquired, which owns the project, is identified as MacDonald Mines Exploration Ltd. in the first sentence: \"MacDonald Mines Exploration Ltd. (TSXV:BMK)(OTC PINK:MCDMF) (\"MacDonald Mines\" or the \"Company\") is pleased to announce that it has signed a non-binding letter of intent (the \"LOI\") with Canuc Resources Corporation...\""
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO for the buyer, Canuc Resources Corporation, is not mentioned in the text. The CEO mentioned, Mike England, is the Interim CEO & Director for the seller, MacDonald Mines Exploration Ltd."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Canuc Resources Corporation is acquiring 100% of MacDonald Mines, which owns 100% of the project. The text states: \"Canuc will acquire all of the issued and outstanding shares of MacDonald Mines.\" and \"MacDonald Mines is a Canadian exploration company focused on exploring... on its 100%-owned... SPJ Project.\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text mentions multiple commodities but highlights gold specifically: \"The Company's primary exploration focus are the polymetallic and iron-poor to possibly iron-rich Ag-Au-Cu-Co showings and prospects... and the iron-rich to iron-poor Glade Au trend recognized to host Au mineralization...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/949717/correction-from-source-macdonald-mines-announces-letter-of-intent-with-canuc-resources-corporation",
+      "justification": "The article is a correction notice about the letter of intent for Canuc Resources Corporation to acquire MacDonald Mines Exploration Ltd., the owner of the SPJ project. This is the most up-to-date version of the announcement."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed in dollars (\"$5,040,000\") and the involved companies (MacDonald Mines and Canuc) are listed on the Canadian TSX Venture Exchange (TSX-V), which implies the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is entirely in shares; no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": 5040000,
+      "justification": "The corrected press release states the aggregate value of the shares to be issued: \"Under the terms of the LOI, Canuc will issue 72,000,000 common shares (\"Canuc Shares\") to the shareholders of MacDonald Mines as consideration, representing approximately $5,040,000 in aggregate value.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is structured as a share payment with a stated value, not a combined cash and share payment. Per the financial data extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, when `share_payments_raw` is populated (Priority 1), other financial fields must be null. Although the text mentions 72,000,000 shares, this field is set to null to adhere to the mutually exclusive rule."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "An explicit price per share for the transaction is not provided in the text. According to the financial data extraction hierarchy, when `share_payments_raw` is populated (Priority 1), other financial fields must be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 19720,
+      "justification": "The text states the project size is 19,720 ha: \"...on its 100%-owned, 19,720 ha (197.2 km2) SPJ Project.\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified in the text: \"...on its 100%-owned, 19,720 ha (197.2 km2) SPJ Project.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions \"showings and prospects\" and \"potential for\" mineralization, but does not provide a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:CDA",
+      "justification": "The buyer is identified as Canuc Resources Corporation, and its ticker is provided in the text as '(“Canuc”; TSX-V: CDA, OTCQB: CNUCF)'. The primary Canadian exchange ticker is used."
+    }
+  }
+}

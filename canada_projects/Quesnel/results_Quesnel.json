@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Quesnel/80458.txt",
+    "canada_projects/Quesnel/81934.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Quesnel Gold Project",
+      "justification": "The text announces that Carlyle has acquired the 'Quesnel Gold Project'. The title of the press release is 'Carlyle Issues Quesnel Property Option Shares and Acquires Quesnel Gold Property'."
+    },
+    "company_name": {
+      "value": "Carlyle Commodities Corp.",
+      "justification": "The acquiring company is identified at the start of the press release: 'CARLYLE COMMODITIES CORP. (CSE: CCC) (FSE: BJ4) (OTC Pink: CCCFF) (\"Carlyle\" or the \"Company\") announces that...'"
+    },
+    "ceo_buyer": {
+      "value": "Morgan Good",
+      "justification": "The press release is signed off by 'Morgan Good Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'The Company, having satisfied the terms of the Option, has acquired an undivided 100% right, title and interest in the Quesnel Gold Project.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the 'Quesnel Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/231998",
+      "justification": "The article at this link is titled 'Carlyle Issues Quesnel Property Option Shares and Acquires Quesnel Gold Property', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Carlyle Commodities Corp., is listed on the Canadian Securities Exchange (CSE), and the transaction values are denoted with a '$' symbol, implying Canadian Dollars. 'CARLYLE COMMODITIES CORP. (CSE: CCC)... at a deemed price of $0.05 per Share...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was completed via the issuance of shares. A $1,000,000 cash payment is mentioned, but it is for a future, optional purchase of 1% of the royalty, not for the initial acquisition: 'Carlyle may, at any time, purchase 1% of the royalty on the Quesnel Gold Project from the Optionor for a cash payment in the aggregate amount of $1,000,000.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms were provided as a number of shares and a price per share, which falls under the 'Calculable Share Value' priority. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No single combined cash and share value was provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The text states that Carlyle 'has issued 2,000,000 common shares (each, a \"Share\") at a deemed price of $0.05 per Share to Divitiae Resources Ltd.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were mentioned as part of the Quesnel project acquisition. The warrants mentioned in the text relate to the separate acquisition of Miramis Mining Corp."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were issued as payment for the Quesnel project acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The text states the shares were issued 'at a deemed price of $0.05 per Share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment for the Quesnel project."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition is subject to a royalty retained by the seller: 'subject to a 2% net smelter return royalty to be retained by the Optionor.'"
+    },
+    "coverage_area_raw": {
+      "value": 1607.34,
+      "justification": "The text states the project is 'covering 1,607.34 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the project is 'covering 1,607.34 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions the project is 'on trend with the historic \"G-South\" historical gold resource' but does not provide a quantified mineral resource estimate for the Quesnel project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CCC",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the press release: 'CARLYLE COMMODITIES CORP. (CSE: CCC)'."
+    }
+  }
+}

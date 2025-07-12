@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Destiny/72356.txt",
+    "canada_projects/Destiny/77503.txt",
+    "canada_projects/Destiny/80877.txt",
+    "canada_projects/Destiny/80951.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Destiny",
+      "justification": "Big Ridge Gold Corp. (TSXV: BRAU) (OTCQB: ALVLF) (\"Big Ridge\" or the \"Company\") is pleased to announce it has entered into a non-binding Letter of Intent (the \"LOI\") with Caprock Mining Corp. (CSE: CAPR) (\"Caprock\") for the option of its 100% owned Destiny gold property, located in Despinassay Township, 75km Northeast of Val d'Or, Quebec."
+    },
+    "company_name": {
+      "value": "Caprock Mining Corp.",
+      "justification": "The transaction is an option agreement where Caprock Mining Corp. is the optionee (acquirer). \"Big Ridge Gold Corp. ... has entered into a binding Option Agreement with Caprock Mining Corp. (CSC-CAPR) (\"Caprock\") for the option of its 100% owned Destiny gold property...\""
+    },
+    "ceo_buyer": {
+      "value": "Vishal Gupta",
+      "justification": "The buyer is Caprock Mining Corp. and its CEO is identified in the contact information: \"Please contact: Vishal Gupta President & CEO Tel.: (647) 466-0506 E-Mail: vgupta@caprockmining.com\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Subject to a definitive option agreement, Caprock must make the following cash payments and share issuances to Big Ridge to earn a 100% interest in the Destiny gold property:"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the \"Destiny gold property\" or \"Destiny Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/224342",
+      "justification": "The article titled \"Big Ridge Gold Announces Non-Binding Letter of Intent for the Option of the Destiny Gold Project to Caprock Mining Corp.\" is directly about the transaction for the Destiny project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves two Canadian companies (Big Ridge Gold Corp. and Caprock Mining Corp.) for a project in Quebec, Canada. The payments are listed with a '$' symbol, which is inferred to be Canadian Dollars (CAD) in this context. For example: \"Pay $100,000 in cash and issue $250,000 in shares...\""
+    },
+    "cash_payments_raw": {
+      "value": 750000,
+      "justification": "The total cash payment is the sum of three tranches: \"Pay $100,000 in cash... on or before the first anniversary\"; \"Pay $250,000 in cash... on or before the second anniversary\"; \"Pay $400,000 in cash... on or before the third anniversary\". Total = $100,000 + $250,000 + $400,000 = $750,000."
+    },
+    "share_payments_raw": {
+      "value": 1700000,
+      "justification": "The total value of share payments is the sum of the initial issuance and subsequent anniversary payments. The initial issuance has a \"total deemed value of $400,000\". Subsequent payments are \"$250,000 in common shares\", \"$350,000 in common shares\", and \"$700,000 in common shares\". The total is $400,000 + $250,000 + $350,000 + $700,000 = $1,700,000."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were available, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Populated `cash_payments_raw` and `share_payments_raw` based on the transaction terms, which take precedence over calculating value from share numbers and price per the extraction hierarchy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Populated `cash_payments_raw` and `share_payments_raw` based on the transaction terms, which take precedence over calculating value from share numbers and price per the extraction hierarchy."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2450000,
+      "justification": "The total commitment is stated as: \"Incurring qualified expenditures on the Property totaling $2,450,000\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller, Big Ridge, retains a royalty as part of the deal: \"Upon Caprock's satisfaction of the exploration expenditure and share-based payment obligations described above, it will assume Big Ridge's existing 100% interest in the Destiny gold property. Big Ridge will retain a 1% net smelter return royalty on the property...\""
+    },
+    "coverage_area_raw": {
+      "value": 5013,
+      "justification": "Destiny comprises 127 mineral claims that collectively span an area of 5,013 hectares located less than two hours' drive from Val D'Or."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Destiny comprises 127 mineral claims that collectively span an area of 5,013 hectares located less than two hours' drive from Val D'Or."
+    },
+    "resource_size": {
+      "value": "10.8 million tonnes averaging 1.05 g/t Au and containing 364,000 ounces Au in the Indicated category; and 8.3 million tonnes averaging 0.92 g/t Au and containing 247,000 ounces Au in the Inferred category.",
+      "justification": "One of the several gold deposits discovered on the Property is the DAC Deposit which has a near-surface, National Instrument 43-101 (\"NI 43-101\") compliant mineral resource estimate (\"MRE\") comprising the following gold inventory: 10.8 million tonnes averaging 1.05 g/t Au and containing 364,000 ounces Au in the Indicated category; and 8.3 million tonnes averaging 0.92 g/t Au and containing 247,000 ounces Au in the Inferred category."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CAPR",
+      "justification": "The buyer is Caprock Mining Corp., and its ticker and exchange are explicitly stated: \"Caprock Mining Corp. (CSE: CAPR) (\"Caprock\" or the \"Company\") is pleased to announce that... it has entered into a binding option agreement...\""
+    }
+  }
+}

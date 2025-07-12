@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Thelon/32425.txt",
+    "canada_projects/Thelon/36852.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thelon",
+      "justification": "The authoritative project name is Thelon. The text refers to the project as the Angilak Property, which Labrador Uranium Inc. is acquiring from ValOre Metals Corp. The document's metadata section explicitly lists 'Thelon Project'. The text states: 'LUR will acquire ValOre’s Angilak Property located in Nunavut Territory, Canada (the “Angilak Property”)'."
+    },
+    "company_name": {
+      "value": "Latitude Uranium Inc.",
+      "justification": "The buyer is Labrador Uranium Inc. which intends to change its name to Latitude Uranium Inc. upon completion of the arrangement. 'In addition, at the LUR AGM, LUR will also seek approval from LUR shareholders to authorize LUR to change its name to “Latitude Uranium Inc.” (the “Name Change”), conditional upon completion of the Arrangement.'"
+    },
+    "ceo_buyer": {
+      "value": "John Jentz",
+      "justification": "The second article confirms the appointment: 'John Jentz, CEO of Labrador Uranium stated, “We are pleased to announce the completion of the Angilak acquisition...'' The first article announced the intention: 'LUR is also pleased to announce that Mr. John Jentz is expected to join LUR as Chief Executive Officer and Director of the Company...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer acquired all shares of the subsidiary that holds the property. 'LUR will acquire from ValOre all of the issued and outstanding common shares of VO Subco'. VO Subco was formed to hold the Angilak Property."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The press release headline describes the transaction as creating a 'Premier Canadian Uranium Company' and the text highlights the project's attributes: 'Assets like Angilak are few and far between, boasting both high uranium grades...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is specified in Canadian dollars in the second article: '...in consideration for C$3 million in cash and 100,000,000 common shares of LUR...'"
+    },
+    "cash_payments_raw": {
+      "value": 3000000,
+      "justification": "The transaction summary states: 'ValOre will receive $3,000,000 in cash (the “Cash Consideration”)...'. The second article confirms 'C$3 million in cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration was defined by the number of shares and a deemed price, not a total share value. Populating `amount_of_shares_issued` and `issued_share_price` instead, as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately in the transaction summary."
+    },
+    "amount_of_shares_issued": {
+      "value": 100000000,
+      "justification": "The transaction summary states the consideration includes '100,000,000 common shares of LUR at a deemed price of $0.40 per share (the “Consideration Shares”)...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No warrants were mentioned as part of the consideration for the acquisition. Warrants were part of a separate concurrent private placement for financing purposes."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.4,
+      "justification": "The transaction summary states the consideration includes '100,000,000 common shares of LUR at a deemed price of $0.40 per share (the “Consideration Shares”)...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an option, not a firm commitment, for LUR to acquire an additional 10% interest by funding up to $3.5 million in exploration. The text states: 'ValOre has granted LUR the option (the “Option”) to acquire up to a 10% interest in the Angilak Property by funding mineral exploration expenditures in the aggregate amount of up to $3.5 million'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 68552,
+      "justification": "The text states: 'The 68,552-hectare Angilak Property is situated in the mining- and exploration-friendly Nunavut Territory, Canada...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text states: 'The 68,552-hectare Angilak Property is situated in the mining- and exploration-friendly Nunavut Territory, Canada...'"
+    },
+    "resource_size": {
+      "value": "2,831,000 tonnes at an average grade of 0.69% U3O8 and 0.17% molybdenum containing 43.3 million pounds of U3O8 and 10.4 million pounds of molybdenum",
+      "justification": "The text provides a historical mineral resource estimate: 'Inferred mineral resources of 2,831,000 tonnes at an average grade of 0.69% U3O8 and 0.17% molybdenum containing 43.3 million pounds of U3O8 and 10.4 million pounds of molybdenum.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LUR",
+      "justification": "The buyer is identified in the text as 'Labrador Uranium Inc. (“Labrador Uranium”, “LUR” or the “Company”) (CSE: LUR, OTCQB: LURAF, FRA: EI1)'."
+    }
+  }
+}

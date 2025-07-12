@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Tahlo Lake/52752.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tahlo Lake",
+      "justification": "The article is titled 'Victory Sells Tahlo Lake Property in British Columbia' and refers to the sale of the 'Tahlo Lake, British Columbia property'."
+    },
+    "company_name": {
+      "value": "Trimera Metals Corp.",
+      "justification": "The text states the property was sold to 'a private company, Trimera Metals Corp., of Vancouver, British Columbia.' This is a direct contradiction of the authoritative company name provided, so the text value is used."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Trimera Metals Corp., is not mentioned. Mark Ireton is the CEO of the seller, Victory Battery Metals Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The sale was for a '100% interest in the property'."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The primary commodity for the Tahlo Lake project is not mentioned in the text. Uranium and thorium are mentioned, but in relation to the Kachiwiss Uranium Project."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/856916/victory-sells-tahlo-lake-property-in-british-columbia",
+      "justification": "The original press release link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is explicitly stated in Canadian dollars: 'cash consideration of $90,000 CAD'."
+    },
+    "cash_payments_raw": {
+      "value": 90000,
+      "justification": "The sale price included 'cash consideration of $90,000 CAD for 100% interest in the property'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were mentioned as part of the consideration for the Tahlo Lake property sale. The shares mentioned are for a different transaction involving the Kachiwiss Uranium Project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value is provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article mentions an issuance of 1,250,000 shares, but this is part of the payment for Victory's acquisition of the Kachiwiss Uranium Project, not the sale of Tahlo Lake."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction for the Tahlo Lake property."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Tahlo Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned for the Tahlo Lake project."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Victory, retained a royalty as part of the deal: 'Victory will retain a 2% Gross Metal Royalty (\"GMR\")'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The coverage area for the Tahlo Lake project is not mentioned. The dimensions provided ('975 metres long by 610 metres to 760 metres wide') are for the Kachiwiss Uranium Project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the Tahlo Lake project is not mentioned."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions a resource of '16,598,000 tonnes grading 0.016% U3O8', however this is explicitly for the Kachiwiss Uranium Project, not the Tahlo Lake project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as 'a private company, Trimera Metals Corp.', which does not have a public ticker. The seller's ticker is (CSE:VR)."
+    }
+  }
+}

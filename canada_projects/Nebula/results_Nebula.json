@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nebula/47698.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nebula",
+      "justification": "CanAlaska is pleased to announce it has signed a Property Swap Agreement (the \"Agreement\") with F3 Uranium Corp. (\"F3 Uranium\") dated January 16, 2024 for the acquisition of the Nebula Project (the \"Nebula Project\") in the Athabasca Basin, Saskatchewan"
+    },
+    "company_name": {
+      "value": "Canalaska Uranium Ltd.",
+      "justification": "CanAlaska Uranium Ltd. (TSXV: CVV) (OTCQX: CVVUF) (FSE: DH7)(\"CanAlaska\" or the \"Company\") is pleased to announce it has signed a Property Swap Agreement (the \"Agreement\") with F3 Uranium Corp. (\"F3 Uranium\") dated January 16, 2024 for the acquisition of the Nebula Project"
+    },
+    "ceo_buyer": {
+      "value": "Cory Belyk",
+      "justification": "On behalf of the Board of Directors\n \"Cory Belyk\"\nCory Belyk, P.Geo., FGC\nCEO, President and Director\nCanAlaska Uranium Ltd."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the same agreement, F3 Uranium agreed to sell its 100% ownership in the 37 mineral claims comprising the Nebula Project to CanAlaska in consideration for the Patterson West Property..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The Nebula Project deal provides CanAlaska with 100% ownership in an area with historical exploration which has already identified several significant uranium occurrences including the large Karpinka Lake Uranium Boulder train."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/195010",
+      "justification": "The article is a press release from CanAlaska Uranium Ltd. announcing the acquisition of the Nebula Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, CanAlaska Uranium Ltd., is listed on the TSX Venture Exchange (TSXV: CVV), a Canadian exchange, implying CAD. The only monetary value mentioned is for a potential NSR buy-back: '...permitting CanAlaska to purchase 40% of the NSR royalty (being a 1% NSR royalty) for $3,000,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'Property Swap Agreement' where CanAlaska exchanged its Patterson West Property for the Nebula Project. No cash consideration was part of the primary transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'Property Swap Agreement'. No shares were issued as part of the consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a 'Property Swap Agreement'. No combined cash and share value was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a 'Property Swap Agreement'. No shares were issued as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration expenditure commitment was mentioned as part of the agreement. The text only states: 'Initial work by CanAlaska is expected to include property wide compilation of all historical data to generate further target areas for immediate exploration and drilling follow-up.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The seller, F3 Uranium, retained a royalty as part of the transaction: 'F3 Uranium agreed to sell its 100% ownership in the 37 mineral claims comprising the Nebula Project to CanAlaska in consideration for the Patterson West Property and a 2.5% NSR royalty over the Nebula Project...'"
+    },
+    "coverage_area_raw": {
+      "value": 14854,
+      "justification": "The Nebula Project, formerly known as F3 Uranium's Hobo Lake Property, is located in the southeastern Athabasca Basin and covers 14,854 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Nebula Project, formerly known as F3 Uranium's Hobo Lake Property, is located in the southeastern Athabasca Basin and covers 14,854 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a mineral resource estimate for the Nebula project. It mentions historical exploration results such as '111 radioactive boulders, 81 of which returned grab sample results containing up to 0.39% U3O8' and a '40 metre wide strongly graphitic, chlorite and clay altered fault zone', but these are not resource statements of mass or volume."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CVV",
+      "justification": "The buyer is identified in the text as 'CanAlaska Uranium Ltd. (TSXV: CVV) (OTCQX: CVVUF) (FSE: DH7)'."
+    }
+  }
+}

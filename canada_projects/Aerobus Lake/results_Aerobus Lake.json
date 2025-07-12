@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Aerobus Lake/80638.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Aerobus Lake",
+      "justification": "The text announces that the acquisition of Lyra Mining Corp. will now \"also include the Aerobus Lake Project (the 'Aerobus Lake Project')\"."
+    },
+    "company_name": {
+      "value": "Metalite Resources Inc.",
+      "justification": "The press release is from \"Metalite Resources Inc. (CSE:METL) (OTC:JNCCF) (Frankfurt:D68) ('Metalite' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "Christopher Hazelton",
+      "justification": "A quote in the article is attributed to \"Christopher Hazelton, CEO of Metalite\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Metalite is acquiring a \"100% interest in Lyra Mining Corp. ('Lyra')\", and the \"Aerobus Lake Project... will be vended into Lyra as part of the acquisition\", therefore Metalite is acquiring a 100% interest in the project."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The headline states \"Metalite Expands Uranium Portfolio\" and the text mentions \"sustainable uranium resource development\" and historical exploration for \"uranium discoveries\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a direct URL to a published article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Metalite Resources Inc., is based in Toronto, ON, and is listed on the Canadian Securities Exchange (CSE), which implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The financial terms are not included in the provided text. It states: \"The terms of the acquisition of Lyra by Metalite... as announced in the Metalite press release dated November 27, 2024, remain unchanged\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The financial terms are not included in the provided text. It states: \"The terms of the acquisition of Lyra by Metalite... as announced in the Metalite press release dated November 27, 2024, remain unchanged\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The financial terms are not included in the provided text. It states: \"The terms of the acquisition of Lyra by Metalite... as announced in the Metalite press release dated November 27, 2024, remain unchanged\"."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The financial terms are not included in the provided text. It states: \"The terms of the acquisition of Lyra by Metalite... as announced in the Metalite press release dated November 27, 2024, remain unchanged\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The financial terms are not included in the provided text. It states: \"The terms of the acquisition of Lyra by Metalite... as announced in the Metalite press release dated November 27, 2024, remain unchanged\"."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2576,
+      "justification": "The text states: \"The property spans 166 unpatented mining claims covering approximately 2,576 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The property spans 166 unpatented mining claims covering approximately 2,576 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides surface sample assay results but does not contain a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:METL",
+      "justification": "The buyer is identified as \"Metalite Resources Inc. (CSE:METL)\"."
+    }
+  }
+}

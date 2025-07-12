@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Bald Hill/70712.txt",
+    "canada_projects/Bald Hill/70903.txt",
+    "canada_projects/Bald Hill/84895.txt",
+    "canada_projects/Bald Hill/84930.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bald Hill",
+      "justification": "The authoritative metadata and the article title confirm the project name: \"Superior Mining International Corp. to Acquire Bald Hill Antimony Property\"."
+    },
+    "company_name": {
+      "value": "Superior Mining International Corporation",
+      "justification": "The buyer is identified in the first sentence: \"Superior Mining International Corp. ('Superior Mining' or the 'Company') (TSXV: SUI) is pleased to announce that it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Brent Butler",
+      "justification": "The CEO of the buyer, Superior Mining, is identified at the end of the first press release: \"ON BEHALF OF THE BOARD \\\"_Brent Butler_\\\"_ __________________________ Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for the acquisition of the full interest in the project: \"Superior has the option to earn a 100% interest in the Bald Hill Antimony Property (the 'Bald Hill Property')\"."
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The project is explicitly named for its primary commodity: \"Superior Mining International Corp. to Acquire Bald Hill Antimony Property\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of multiple press releases and does not contain a single, verifiable URL for the primary announcement."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Superior Mining International Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and payments are denoted with '$'. Therefore, the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 680000,
+      "justification": "The total cash consideration is explicitly stated in the terms of the agreement with Superior Mining: \"in order to acquire the 100% interest in the Bald Hill Property, Superior must pay an aggregate of $680,000 in cash\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a share price, not a total raw share value. Following the data extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components are provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The total number of shares to be issued is specified in the terms of the agreement with Superior Mining: \"issue an aggregate of 2,000,000 common shares\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms for the Superior Mining deal."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of stock options as payment in the transaction terms for the Superior Mining deal."
+    },
+    "issued_share_price": {
+      "value": 0.12,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for Superior Mining: 'Last: 0.12'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 4600000,
+      "justification": "The total exploration expenditure commitment is outlined in the terms of the agreement with Superior Mining: \"incur an aggregate of $4,600,000 in expenditures\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 3.5,
+      "justification": "The seller, Globex, will retain a royalty as part of the deal: \"Superior has agreed to grant to Globex a 3.5% gross metal royalty (the 'Royalty') on all metals, minerals, elements or compounds produced from the Bald Hill Property.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The property size is described in terms of claims ('26 claims'), but no area in hectares or square kilometers is provided in the documents."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The property size is described in terms of claims ('26 claims'), but no area in hectares or square kilometers is provided in the documents."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that a mineral resource has not been defined, describing the estimates as conceptual: \"The potential quantity and grade is conceptual in nature as there has been insufficient exploration to define a mineral resource and it is uncertain if further exploration will result in the target being delineated as a mineral resource.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SUI",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the announcement: \"Superior Mining International Corp. ('Superior Mining' or the 'Company') (TSXV: SUI)\"."
+    }
+  }
+}

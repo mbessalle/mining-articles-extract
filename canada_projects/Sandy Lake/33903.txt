@@ -1,0 +1,79 @@
+--- Article Metadata ---
+Project Name: Sandy Lake
+Company Name: S2 Minerals Inc.
+Exchange: CSE
+Ticker: STWO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+4.18.2023, 4:05:00 AM
+
+# S2 Announces Acquisition of Mining Claims
+
+Toronto, Ontario--(Newsfile Corp. - April 17, 2023) - **S2 Minerals Inc.  **(CSE: STWO) ("**S2** " or the "**Company** ") announces that it has acquired 880 mining claims (the "**Property** ") in the Veekay Lake, Gifford Lake, Opikeigan Lake, Frond Lake, Rich Lake and Reserve Lake areas in Ontario.
+
+The Property was acquired from an insider of the Company pursuant to an assignment agreement dated as of April 14, 2023. The insider had acquired the Property from an arm's length third party for a cash payment of $300,000 and a 2% net smelter returns royalty (the "**Royalty** ") and agreed that if the Property was assigned to a public company before March 2024, such public company would issue $50,000 of common shares (the "**Shares** "). The Company assumed the obligations under the Royalty, paid $300,000 to the insider and issued 526,315 Shares with a deemed price of $0.095 per Share.
+
+The assignment of the Property and assumption of the Royalty may be a "related party transaction" and therefore subject to Multilateral Instrument 61-101 – _Protection of Minority Security Holders in Special Transactions_ ("**MI 61-101** ") because the Company has acquired the Property from, assumed the obligations of a related party under the Royalty. However, Section 5.4(1) of MI 61-101 provides that such assignment and assumption does not require a formal valuation and Section 5.7(1)(a) of MI 61-101 provides that the Company is exempt from the requirement to obtain minority shareholder approval because the fair market value of any consideration received by the related party in connection with such assignment and assumption is less than 25% of the Company's market capitalization.
+
+_**About S2 Minerals Inc.**_
+
+S2 Minerals Inc. is a Canadian mineral exploration company and holds the Sandy Lake project in Ontario. The Sandy Lake project comprises approximately 167,000 acres of contiguous mineral claims in the Sandy Lake Archean Greenstone Belt, located approximately 140 miles north of Red Lake, Ontario. S2 beneficially holds a 100% interest in the mineral rights to approximately 137,000 acres, and holds a 50.1% interest in the approximately 15,000 acres of the "Weebigee Joint Venture" claims and a 50% interest in a further 15,000 acres of the Southern Block claims in joint ventures with Goldeye Explorations Limited, now part of Treasury Metals Inc. It is expected that over time, S2 may add new Canadian-focused exploration stage projects to its portfolio.
+
+For further information please contact: 
+
+Dan Noone   
+CEO   
++1.416.628.5904   
+Email: [info@s2minerals.com](mailto:info@s2minerals.com)
+
+ _Forward-Looking Statements_
+
+ _This news release contains certain forward-looking statements, including, but not limited to, statements about the addition of projects to its portfolio. Wherever possible, words such as "may", "will", "should", "could", "expect", "plan", "intend", "anticipate", "believe", "estimate", "predict" or "potential" or the negative or other variations of these words, or similar words or phrases, have been used to identify these forward-looking statements. These statements reflect management's current beliefs and are based on information currently available to management as at the date hereof._
+
+_Forward-looking statements involve significant risk, uncertainties and assumptions. Many factors could cause actual results, performance or achievements to differ materially from the results discussed or implied in the forward-looking statements. These factors should be considered carefully and readers should not place undue reliance on the forward-looking statements. Although the forward-looking statements contained in this news release are based upon what management believes to be reasonable assumptions, the Company cannot assure readers that actual results will be consistent with these forward-looking statements. The Company assumes no obligation to update or revise them to reflect new events or circumstances, except as required by law._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/162757](https://api.newsfilecorp.com/redirect/mopjoHbpDO)
+
+### Project Name
+
+[Sandy Lake Project](/?gid=4491)  
+Ontario, Canada
+
+[Project Summary](https://app.mininghub.com?gid=4491&modal=project_summary)[Company Profile](https://app.mininghub.com/company/s2-minerals-inc/1695)[All Projects](https://app.mininghub.com/company/s2-minerals-inc/1695)
+
+### Other Company News
+
+6/12/2025 [S2 Announces Closing of Private Placement Financing](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-closing-of-private-placement-financing-107713)
+
+6/4/2025 [S2 Announces Private Placement Financing](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-private-placement-financing-106937)
+
+12/5/2024 [S2 Minerals Announces Completion of Share Consolidation](/article/s2-minerals-inc/cnx-stwo/-/s2-minerals-announces-completion-of-share-consolidation-81109)
+
+11/28/2024 [S2 Minerals Inc. Announces Share Consolidation](/article/s2-minerals-inc/cnx-stwo/-/s2-minerals-inc-announces-share-consolidation-80276)
+
+4/18/2023 [S2 Announces Acquisition of Mining Claims](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-acquisition-of-mining-claims-33903)
+
+12/17/2022 [S2 Announces Assignment of Option Agreement and First Anniversary Payment](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-assignment-of-option-agreement-and-first-anniversary-payment--51925)
+
+2/10/2022 [S2 Minerals Announces Resignation of Director](/article/s2-minerals-inc/cnx-stwo/-/s2-minerals-announces-resignation-of-director--3821)
+
+2/9/2022 [S2 Announces Directorship of Harvey L. A. Yesno](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-directorship-of-harvey-l-a-yesno--3815)
+
+1/29/2022 [S2 Announces Closing of Private Placement Financing](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-closing-of-private-placement-financing--3662)
+
+12/15/2021 [S2 Announces Private Placement Financing](/article/s2-minerals-inc/cnx-stwo/-/s2-announces-private-placement-financing--3167)
+
+--- Detailed Quote ---
+
+Last: 0.16                       Beta: 1.4584
+Year High: 0.30                  Market Cap: 3.04m
+PB Ratio: 13.29                   EPS: -0.01
+Average Volume (30 Day): 1,168    Prev. Close: 0.16
+Year Low: 0.12                   Total Shares: 18.97m
+Shares Out: 18.97m                 Float: 11.18m
+Exchange: CSE

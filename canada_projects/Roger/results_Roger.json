@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Roger/75404.txt",
+    "canada_projects/Roger/83037.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Roger",
+      "justification": "The text refers to the project as the 'Roger Gold-Copper Project (\"Roger\" or the \"Project\")'."
+    },
+    "company_name": {
+      "value": "XXIX Metal Corp.",
+      "justification": "The second article identifies the buyer: 'XXIX Metal Corp. (TSXV: XXIX) (\"XXIX\" or the \"Company\") is pleased to announce that it has closed its arm's length acquisition of the remaining 50% ownership interest in the Roger Gold-Copper Project'."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Stewart",
+      "justification": "The contact information for the buyer in both articles lists 'Stephen Stewart, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The company is acquiring the interest it does not already own: 'QC Copper to acquire the remaining 50% ownership interest from SOQUEM'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the 'Roger Gold-Copper Project' and the resource is measured in 'gold equivalent', with the headline stating 'Acquires 100% Ownership of Roger Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/235458",
+      "justification": "The article is titled 'XXIX Closes Acquisition of 100% Ownership of Roger Gold Project in Chibougamau, Quebec', which directly relates to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction payments are denoted with a '$' symbol. The acquiring company, XXIX Metal Corp., is listed on the Canadian TSX Venture Exchange (TSXV), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "The terms of the agreement include an initial cash payment: 'Pursuant to the Agreement, XXIX has paid initial compensation to SOQUEM of $75,000.'"
+    },
+    "share_payments_raw": {
+      "value": 1600000,
+      "justification": "The agreement outlines four future share payments totaling $1,600,000: '$450,000 in common shares...$425,000 in Common Shares...$375,000 in Common Shares...and $350,000 in Common Shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The exact number of shares is not fixed and depends on future stock prices: 'The number of Common Shares to be issued to SOQUEM will be calculated on the basis of the higher of: (i) an issue price per Common Share equal to the volume-weighted average price for the 10 days preceding the issue date... or; (ii) $0.05 per Common Share.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments in the form of share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments in the form of options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price for the transaction is not a fixed value but is calculated based on a future volume-weighted average price or a floor price of $0.05."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters for the Roger project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a '$1,500,000 in work obligations' but this is explicitly for the 'Cooke-Robitaille property', not the Roger project. No exploration commitment value is mentioned for the Roger project."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, a royalty was granted to the seller: 'In connection with the Agreement, the Company has also granted SOQUEM a 2.0% net smelter royalty in respect of the Project (the \"NSR\").'"
+    },
+    "coverage_area_raw": {
+      "value": 987,
+      "justification": "The text specifies the size of the project area: 'The Roger Project spans 987-hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the project area: 'The Roger Project spans 987-hectares'."
+    },
+    "resource_size": {
+      "value": "535,000 ounces gold equivalent @ 0.95 g/t AuEq",
+      "justification": "A summary of the project's resource is provided in the highlights: 'Roger has a 43-101 resource estimate showing 535,000 ounces gold equivalent @ 0.95 g/t AuEq.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XXIX",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the second news release: 'XXIX Metal Corp. (TSXV: XXIX)'."
+    }
+  }
+}

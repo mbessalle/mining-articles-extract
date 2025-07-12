@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Peace River/86782.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Peace River",
+      "justification": "The text refers to the project as 'NeoLithica’s Peace River Lithium Project (the “Project”)'."
+    },
+    "company_name": {
+      "value": "Global Energy Metals Corporation",
+      "justification": "The acquiring company is identified in the headline and body of the text: 'Global Energy Metals Corporation (TSXV:GEMC | OTCQB:GBLEF | FSE:5GE1) (“Global Energy Metals”, the “Company” and/or “GEMC”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Mitchell Smith",
+      "justification": "A quote in the article identifies the CEO of the buyer, Global Energy Metals: 'Mitchell Smith, CEO & Director comments:'"
+    },
+    "interest_acquired_percent": {
+      "value": 19.9,
+      "justification": "The agreement is for an option to acquire a 19.9% interest: '...to acquire an eighteen month option to acquire a 19.9% interest...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly identified as a lithium project: '...acquire Royalty and Option on Alberta-Based Lithium Brine Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Peace River. The value is null because no article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified multiple times in the transaction terms, for example: '...deemed price of CAD $0.05 per share...' and '...cash payment of CAD $10,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 260000,
+      "justification": "This is the sum of the definite cash components of the deal: the immediate CAD $10,000 payment for the option and the CAD $250,000 cash payment required to exercise the option. As stated: '...immediate non-refundable cash payment of CAD $10,000...' and '...additional consideration of CAD $250,000 cash payment...'. A further CAD $1,250,000, payable in cash and/or shares, is not included in this definite cash total."
+    },
+    "share_payments_raw": {
+      "value": 100000,
+      "justification": "This is the value of the initial share issuance for the option, as stated in the text: '...issuing CAD $100,000 of common shares in the capital of GEMC...'. A further CAD $1,250,000, payable in cash and/or shares to exercise the option, is not included in this definite share value total."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Null because the transaction details were captured under Priority 1 of the financial data extraction hierarchy (separate cash and share values), which is mutually exclusive with Priority 3 (a single combined value)."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Null because financial data was extracted under Priority 1 (explicit cash and share values), which is mutually exclusive with Priority 2 (number of shares and price). The text mentions an initial issuance of 2,000,000 shares, but this is part of a mixed consideration deal captured under Priority 1."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is for an option on the project, not a payment made in stock options. Therefore, this field is not applicable."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Null because financial data was extracted under Priority 1 (explicit cash and share values), which is mutually exclusive with Priority 2 (number of shares and price). The text mentions a deemed price of $0.05 for the initial shares, but this is part of a mixed consideration deal captured under Priority 1."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a specific exploration spending commitment. The initial cash payment is noted as being 'for testing of brine' but it is part of the acquisition consideration, not a separate commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The agreement includes an option to acquire a 1% Net Smelter Return royalty: '...option to acquire a 19.9% interest and a 1% Net Smelter Return (“NSR”) royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 377508,
+      "justification": "The total area of the project is stated as: '...currently the Project is comprised of a total area of 377,508 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: '...currently the Project is comprised of a total area of 377,508 hectares...'"
+    },
+    "resource_size": {
+      "value": "10 million tonnes of lithium carbonate equivalent (LCE), at an average grade of 70.0 mg/L",
+      "justification": "The text provides a resource estimate: '...which includes an inferred mineral resource estimate of 10 million tonnes of lithium carbonate equivalent (LCE), at an average grade of 70.0 mg/L.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GEMC",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: 'Global Energy Metals Corporation (TSXV:GEMC | OTCQB:GBLEF | FSE:5GE1)'."
+    }
+  }
+}

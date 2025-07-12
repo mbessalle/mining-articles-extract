@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Mystery _Nechako_/53876.txt",
+    "canada_projects/Mystery _Nechako_/55620.txt",
+    "canada_projects/Mystery _Nechako_/64368.txt",
+    "canada_projects/Mystery _Nechako_/71913.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "MYSTERY NECHAKO",
+      "justification": "The project is referred to as the Nechako Project, which consists of two properties: \"...the road accessible Fox-Coconut and Mystery Properties, which are both located south of Highway 16 between Prince George and Smithers in west-central British Columbia (the \"Nechako Project\")\"."
+    },
+    "company_name": {
+      "value": "Rokmaster Resources Corp.",
+      "justification": "Rokmaster Resources Corp. is identified as the acquiring party in the letter of intent: \"Rokmaster Resources Corp. (TSXV: RKR) ... and Kootenay Resources Inc. (TSXV: KTRI) ... are pleased to announce the finalization of a letter of intent (\"LOI\") between the Companies...\"."
+    },
+    "ceo_buyer": {
+      "value": "John Mirko",
+      "justification": "John Mirko is listed as the President & Chief Executive Officer for the buyer, Rokmaster Resources Corp. in the press release signature block: \"On Behalf of the Board of Directors of Rokmaster Resources Corp. John Mirko, President & Chief Executive Officer.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Rokmaster has the option to acquire 100% of the project in two stages. First, an initial 60% interest, followed by an option for the remaining 40%. \"For RKR to be granted the option to acquire a 60% interest in the Properties...\" and \"Once Rokmaster has acquired the initial 60% interest... KTR would grant RKR an exclusive option (the \"Second Option\") to acquire the remaining 40% interest in the Properties...\"."
+    },
+    "primary_commodity": {
+      "value": "copper, gold",
+      "justification": "The project is described as a copper-gold property package in the headline of the announcement: \"Rokmaster Resources signs LOI with Kootenay Resources for option to acquire the Nechako Project, a large copper-gold property package in central BC\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction includes an exploration commitment denominated in dollars, and the acquiring company, Rokmaster Resources Corp., is listed on the TSX Venture Exchange (TSXV), implying Canadian Dollars (CAD). The text states: \"Incurring $142,000 of exploration work on the Properties...\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not include any direct cash payments as consideration. Payments are in the form of shares and exploration commitments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares is specified, but not their value. Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is provided in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": 7000000,
+      "justification": "The total shares are 7,000,000, comprising 2,000,000 shares for the initial 60% interest ('issuing to KTR 500,000 common shares of RKR each year on or before each of the first, second, third and fourth anniversary dates') and 5,000,000 shares for the remaining 40% interest ('issuing an additional 5,000,000 common shares of RKR to KTR')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The warrants mentioned in the text are related to a separate 2023 private placement and are not part of the consideration for this property option agreement: 'The Company also announces that it intends to extend the exercise period by one year for 5,000,000 share purchase warrants (\"Warrants\") issued in connection with a non-brokered private placement financing on July 14, 2023.'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the payment consideration for the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.035,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.035'."
+    },
+    "exploration_commitment_meters": {
+      "value": 10000,
+      "justification": "A condition to earn the initial interest is to complete 10,000 meters of drilling: \"On or prior to the fourth anniversary date of the Option Agreement, RKR having completed a total of 10,000 metres of diamond drilling on any or all of the Properties.\""
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "A monetary commitment of $142,000 was also mentioned, but the rules state `exploration_commitment_meters` and `exploration_commitment_value_raw` are mutually exclusive. The 10,000m drilling commitment was selected as the primary exploration term. Text for rejected value: 'Incurring $142,000 of exploration work on the Properties prior to September 18, 2024;'"
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, upon acquiring 100% interest, Rokmaster will grant a 1.5% NSR to Kootenay Resources on a portion of the project. \"Upon RKR acquiring the Second Interest, RKR would grant KTR a 1.5% net smelter returns royalty (the \"Royalty\") in respect of the Mystery and Coconut group of mining claims.\""
+    },
+    "coverage_area_raw": {
+      "value": 17181,
+      "justification": "The total area of the Nechako Project under the option agreement is 17,181 hectares, calculated as the sum of the '4,988 hectare Fox-Coconut Property' and the '12,193 hectare Mystery Property'."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the property sizes is specified as hectares: \"The 4,988 hectare Fox-Coconut Property... The 12,193 hectare Mystery Property\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes resources on multiple nearby properties but includes the disclaimer 'The Qualified Person has been unable to verify the information and the information is not necessarily indicative to the mineralization on the property that is the subject of this news release.' No resource estimate is provided for the Nechako Project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RKR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: \"Rokmaster Resources Corp. (TSXV: RKR) (OTCQB: RKMSF) (FSE: 1RR1) (\"Rokmaster\" or \"RKR\")...\"."
+    }
+  }
+}

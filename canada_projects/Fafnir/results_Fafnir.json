@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Fafnir/78949.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Fafnir",
+      "justification": "The article is titled 'Nio Strategic Metals Expands Its Fafnir Project' and refers to it as 'the Company's Fafnir Project (the \"Fafnir Project\")'."
+    },
+    "company_name": {
+      "value": "Nio Strategic Metals Inc.",
+      "justification": "The acquiring company is identified as 'Nio Strategic Metals Inc. (TSXV: NIO) (OTC Pink: NIOCF) (\"Nio\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Hubert Marleau",
+      "justification": "The text identifies the CEO in the contact information: 'Hubert Marleau Chairman, President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The acquisition was 'through staking', which is claiming new ground from the government, not acquiring a percentage interest from another entity. The text does not specify a percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Niobium",
+      "justification": "The text states, 'The Fafnir Project presents a highly prospective opportunity for niobium mineralization based upon historical reports...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/229961",
+      "justification": "The article is titled 'Nio Strategic Metals Expands Its Fafnir Project' and the source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/229961'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange ('Exchange: TSXV'), which is a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking', not a purchase from another company. No cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking', not a purchase from another company. No share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was 'through staking'. No combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was 'through staking'. The text does not mention any issuance of shares for this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states an 'intention is to perform explorations works' but does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of this staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1274,
+      "justification": "The text states that the company 'has acquired, through staking, an additional 1,274 hectares over 22 claims adjacent to the Company's Fafnir Project'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states that the company 'has acquired, through staking, an additional 1,274 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'large high-grade niobium and Uranium deposits and discoveries' but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Fafnir project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NIO",
+      "justification": "The company is identified as 'Nio Strategic Metals Inc. (TSXV: NIO)' in the first paragraph."
+    }
+  }
+}

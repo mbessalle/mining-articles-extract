@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Northshore/85235.txt",
+    "canada_projects/Northshore/85246.txt",
+    "canada_projects/Northshore/86852.txt",
+    "canada_projects/Northshore/87588.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Northshore",
+      "justification": "The documents consistently refer to the project as the Northshore Gold Project. For example: \"Newpath Enters LOI to Sell Northshore Gold Project\" and \"Great Eagle Gold Corp. Announces LOI to Acquire Patented Mineral Rights Titles Containing NI 43-101 Certified Gold Resources... part of a larger claims package collectively known as the 'Northshore Gold Property.'\""
+    },
+    "company_name": {
+      "value": "Great Eagle Gold Corp.",
+      "justification": "Great Eagle Gold Corp. is identified as the acquirer. \"Newpath Resources Inc. (CSE: PATH) ... is pleased to announce that Great Eagle Gold Corp. (\"Great Eagle\") has completed its due diligence on the Company's Northshore Gold Project.\""
+    },
+    "ceo_buyer": {
+      "value": "Andrew Fletcher",
+      "justification": "Andrew Fletcher is identified as the CEO of the acquiring company, Great Eagle Gold Corp. \"On behalf of the board, Andrew Fletcher, CEO & Director Great Eagle Gold Corp.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the property. \"Great Eagle has the option to acquire a 100% interest in the patented claims of the Northshore Gold Property from Newpath.\" and confirmed in a later release: \"it has entered into a definitive agreement with New Path Resources Inc. ... to acquire a 100% interest in a mineral rights package\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly identified as a gold project. \"Newpath Enters LOI to Sell Northshore Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/238504",
+      "justification": "The article titled 'Newpath Enters LOI to Sell Northshore Gold Project' directly discusses the transaction for the Northshore project between Newpath Resources Inc. and Great Eagle Gold Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars. \"The total purchase price is set at CDN$1,000,000...\""
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "The total purchase price is the sum of all cash payments. \"The total purchase price is set at CDN$1,000,000, payable as follows: $10,000 was paid within two business days of the execution of the LOI for due diligence costs. $90,000 to be paid upon execution of the definitive Transaction Agreement. The remaining $900,000 is payable on or before the first anniversary of the Transaction Agreement.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is entirely in cash; no share payments are mentioned as part of the acquisition terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is explicitly broken down into cash payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the acquisition consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as an option to purchase, but the consideration is cash, not stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the seller (Newpath) will be granted a 1.5% NSR royalty. \"In the event Great Eagle modifies its plans for the project, a 1.5% NSR royalty on the patented Claims will be granted to Newpath.\""
+    },
+    "coverage_area_raw": {
+      "value": 940,
+      "justification": "The total area of the property package being acquired is stated as 940 hectares. \"the Northshore Gold Property includes 3 patented claims and 38 unpatented claims covering a total area of approximately 940 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares. \"the Northshore Gold Property includes 3 patented claims and 38 unpatented claims covering a total area of approximately 940 hectares.\""
+    },
+    "resource_size": {
+      "value": "6,511,000 Tonnes | 1.15 Grade (g/t Au) | 0.40 Cut Off Grade (g/t Au) | 240,100 Total Ounces | Inferred",
+      "justification": "A clarification news release provides a detailed table of the NI 43-101 compliant gold resource: \"Northshore Inferred Mineral Resource Estimate Tonnes | Grade (g/t Au) | Cut Off Grade (g/t Au) | Total Ounces | Category 6,511,000 | 1.15 | 0.40 | 240,100 | Inferred*****\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GEGC",
+      "justification": "The buyer, Great Eagle Gold Corp., is listed on the Canadian Securities Exchange (CSE) with the ticker GEGC. \"Great Eagle Gold Corp. (CSE: GEGC) (OTC Pink: GEGCF) (FSE: GI8) (\"Great Eagle\" or the \"Company\")\""
+    }
+  }
+}

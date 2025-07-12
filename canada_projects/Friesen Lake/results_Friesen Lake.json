@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Friesen Lake/63545.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Friesen Lake",
+      "justification": "The press release is titled \"Fathom Announces Staking of New Ground Southwest of the Albert Lake Property\" and states, \"Fathom Nickel Inc. ... is pleased to announce the addition of the Friesen Lake property to the Company's growing property portfolio.\""
+    },
+    "company_name": {
+      "value": "Fathom Nickel Inc.",
+      "justification": "The press release identifies the company as \"Fathom Nickel Inc. (CSE: FNI) (FSE: 6Q5) (OTCQB: FNICF) (the \"Company\" or \"Fathom\").\""
+    },
+    "ceo_buyer": {
+      "value": "Ian Fraser",
+      "justification": "The text identifies the CEO: \"Ian Fraser, P.Geo., CEO, VP Exploration and a Director of the Company...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The project was acquired via staking, and while this typically implies 100% interest, the text does not explicitly state the percentage acquired."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The text describes the project as the \"Friesen Lake Ni-Cu-Pt showing\" and the company's focus: \"Fathom is an exploration company that is targeting magmatic nickel sulphide discoveries...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/214435",
+      "justification": "The article is titled \"Fathom Announces Staking of New Ground...\" and the content confirms \"the addition of the Friesen Lake property to the Company's growing property portfolio,\" which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction was an acquisition via staking, not a purchase, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking directly from the government, not through a purchase involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking directly from the government, not through a purchase involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, and no financial consideration was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the staking of the property."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the staking transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment for this project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the transaction details."
+    },
+    "coverage_area_raw": {
+      "value": 10133,
+      "justification": "The text states: \"Fathom recently staked 3 mineral dispositions (MC00019009, MC00019008, MC00019007), totaling 10,133 ha...\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: \"Fathom recently staked 3 mineral dispositions (MC00019009, MC00019008, MC00019007), totaling 10,133 ha...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical showings and drill results but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Friesen Lake project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FNI",
+      "justification": "The acquiring company is identified in the text as \"Fathom Nickel Inc. (CSE: FNI)...\""
+    }
+  }
+}

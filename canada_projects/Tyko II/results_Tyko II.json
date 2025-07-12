@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Tyko II/40618.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tyko II",
+      "justification": "The text refers to the acquired property as Tyko II: \"The new property (\"Tyko II\") is located 10 kilometers north of the main Tyko (now referred to as Tyko I) property and has been acquired through a combination of staking and two claim group purchases.\""
+    },
+    "company_name": {
+      "value": "Palladium One Mining Inc.",
+      "justification": "The acquiring company is identified as Palladium One Mining Inc. The text states: \"Palladium One Mining Inc. (TSXV: PDM) (OTCQB: NKORF) (FSE: 7N11)(the \"Company\" or \"Palladium One\") is pleased to announce the expansion of the Tyko Nickel - Copper District, with the acquisition of the highly prospective \"Tyko II Copper - Nickel - PGE\" property...\""
+    },
+    "ceo_buyer": {
+      "value": "Derrick Weyrauch",
+      "justification": "The press release is signed off by the President & CEO: \"ON BEHALF OF THE BOARD 'Derrick Weyrauch' President & CEO, Director\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text describes the acquisition of property claims but does not specify a percentage interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is described as part of a Nickel-Copper district in the headline: \"Palladium One Expands Its Tyko Nickel - Copper District by 8,620 Hectares, Ontario, Canada\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180135",
+      "justification": "The article is a press release from Palladium One Mining Inc. announcing the acquisition of the Tyko II property. The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Palladium One Mining Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the cash consideration is listed with a '$' symbol, implying Canadian Dollars. \"Palladium One Mining Inc. (TSXV: PDM)\" and \"$100,000 cash\"."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The transaction details specify a cash payment of $100,000: \"The claim purchases include aggregate consideration of: $100,000 cash\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares issued but does not provide an equivalent cash value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed as separate components of the consideration, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2300000,
+      "justification": "The transaction details state the total number of shares to be issued: \"2.3 million common shares of the Company\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction details do not mention any options."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a specific monetary commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a Net Smelter Return Royalty but does not specify the percentage: \"A Net Smelter Return Royalty (\"NSR\") in respect of 137 claims\""
+    },
+    "coverage_area_raw": {
+      "value": 8620,
+      "justification": "The highlights section states the total area of the property expansion: \"Property position expanded by 8,620 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The highlights section states the unit for the area: \"Property position expanded by 8,620 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical grab sample results and the production history of the nearby Geco Mine, but it does not provide a NI 43-101 compliant mineral resource estimate for the Tyko II project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PDM",
+      "justification": "The buyer is identified with its ticker and exchange in the first paragraph: \"Palladium One Mining Inc. (TSXV: PDM)\""
+    }
+  }
+}

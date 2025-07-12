@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Pluton SM/30708.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pluton SM",
+      "justification": "The text identifies the project with the following phrase: 'these 110 claims constituting the Pluton SM project'."
+    },
+    "company_name": {
+      "value": "Mosaic Minerals Corporation",
+      "justification": "The acquiring company is identified as 'Mosaic Minerals Corporation (CSE: MOC) (“Mosaic ” or “The Company ”)'."
+    },
+    "ceo_buyer": {
+      "value": "Jonathan Hamel",
+      "justification": "The CEO of the buyer is identified as 'Jonathan Hamel, President, and CEO of Mosaic Minerals.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired the claims outright through a combination of acquisition from prospectors and staking, implying 100% ownership. 'The Pluton SM project was acquired partly from 2 independent prospectors (39 claims) and by staking (71 claims).'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text states the project is favorable for lithium exploration: 'This new project is located in a favorable and conducive environment for the exploration of lithium and strategic minerals.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Mosaic Minerals Corporation, is listed on the Canadian Securities Exchange (CSE) and is based in Montreal, Quebec, which implies the currency is Canadian Dollars (CAD). The text mentions a '$1 million' buyback option."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the payment hierarchy rules, the consideration is shares-based. The text states the company will 'issue them respectively 450,000 and 1,000,000 shares'. No cash payment for the acquisition is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Using Priority 2 extraction, as both the number of shares and a price per share are available. The value is captured in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the payment hierarchy rules, Priority 2 (amount of shares and price) is used, so this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 1450000,
+      "justification": "The company will issue a total of 1,450,000 shares, calculated from the sum of payments to two prospectors: 'the company will issue them respectively 450,000 and 1,000,000 shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan for an exploration program but does not specify a monetary commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves granting two separate NSRs (0.5% and 2%) to two different parties on a subset of the project's claims (39 of 110). A single value for the entire project cannot be accurately determined from the text: 'grant them 0.50% NSR for one and 2% NSR for the other'."
+    },
+    "coverage_area_raw": {
+      "value": 5650,
+      "justification": "The text states the project size is 5,650 hectares: 'Covering an area of 5,650 hectares, these 110 claims constituting the Pluton SM project'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit as hectares: 'Covering an area of 5,650 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a defined mineral resource for the Pluton SM project, instead referring to it as an early-stage exploration target: 'The presence of possible pegmatites on this project is to be verified'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MOC",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the text: 'Mosaic Minerals Corporation (CSE: MOC)'."
+    }
+  }
+}

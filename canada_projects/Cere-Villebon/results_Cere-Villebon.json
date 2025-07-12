@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cere-Villebon/85288.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cere-Villebon",
+      "justification": "The text refers to the project as 'Cere Villebon Copper, Nickel, Cobalt, Platinum Group Property' and 'the wholly owned Cere Villebon Property'."
+    },
+    "company_name": {
+      "value": "Noble Mineral Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Noble Mineral Exploration Inc. (“Noble” or the “Company”) (TSX-V:NOB, FRANKFURT: NB7, OTCQB:NLPXF)'."
+    },
+    "ceo_buyer": {
+      "value": "H. Vance White",
+      "justification": "The contacts section lists 'H. Vance White, President'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is an 'acquisition of additional claims' on a 'wholly owned' property via 'map staking'. No percentage of interest acquired is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is described as the 'Cere Villebon Copper, Nickel, Cobalt, Platinum Group Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Cere-Villebon, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The detailed quote section lists a dividend amount in CAD: 'Dividend Amount: 0.03847 CAD'. The company also trades on the Canadian TSX Venture Exchange."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The claims were acquired by 'map staking', and no cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The claims were acquired by 'map staking', and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The claims were acquired by 'map staking', and no combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The claims were acquired by 'map staking', and no issuance of shares is mentioned as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes a past drill program but does not mention any future exploration commitment in meters as part of the new claim acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any future exploration spending commitment as part of the new claim acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the transaction details."
+    },
+    "coverage_area_raw": {
+      "value": 1573,
+      "justification": "The text states 'the new property area is now approximately 1,573 Hectares' and that the company holds '~1,573 hectares in the Cere-Villebon Nickel, Copper, PGM property'."
+    },
+    "coverage_area_unit": {
+      "value": "Hectares",
+      "justification": "The text states 'the new property area is now approximately 1,573 Hectares'."
+    },
+    "resource_size": {
+      "value": "421,840 tonnes grading 0.52% copper, 0.72 % nickel and 1.08 g/t combined platinum-palladium",
+      "justification": "The text provides a historical resource estimate: 'Historic drilling and resource estimates done by the Groupe La Fosse Platinum Inc on the North Zone (1987) calculated a historical resource of 421,840 tonnes grading 0.52% copper, 0.72 % nickel and 1.08 g/t combined platinum-palladium'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NOB",
+      "justification": "The text states 'Noble Mineral Exploration Inc. (“Noble” or the “Company”) (TSX-V:NOB...)' and 'Noble’s common shares trade on the TSX Venture Exchange under the symbol “NOB”'."
+    }
+  }
+}

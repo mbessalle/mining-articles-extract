@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Stars/73883.txt",
+    "canada_projects/Stars/73937.txt",
+    "canada_projects/Stars/75187.txt",
+    "canada_projects/Stars/83574.txt",
+    "canada_projects/Stars/83607.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stars",
+      "justification": "The primary project is consistently referred to as the Stars Property or Stars Project throughout the documents, for example in the headline: 'Interra Enters Purchase Agreement for the Stars Copper Project'."
+    },
+    "company_name": {
+      "value": "Copper Quest Exploration Inc.",
+      "justification": "The buyer is Interra Copper Corp., which was later renamed. This is confirmed in the text: 'INTERRA COPPER CORP. ANNOUNCES NAME CHANGE TO COPPER QUEST EXPLORATION INC. AND CHANGE OF TRADING SYMBOL'. The authoritative metadata provided in the prompt is 'Copper Quest Exploration Inc.'."
+    },
+    "ceo_buyer": {
+      "value": "Brian Thurston",
+      "justification": "Brian Thurston is identified as the CEO of the acquiring company, Interra Copper Corp. (now Copper Quest Exploration Inc.): 'On behalf of the Board of Interra Copper Corp. Brian Thurston, P.Geo. Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a full acquisition of the property: 'it would acquire a 100% right, title, and interest in the Stars Property (the “Property”)'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as a copper project: 'Interra Enters Purchase Agreement for the Stars Copper Project' and 'an early-stage porphyry copper-molybdenum discovery'."
+    },
+    "verified_article_link": {
+      "value": "https://app.mininghub.com/article/copper-quest-exploration-inc/cnx-cqx/-/interra-enters-purchase-agreement-for-the-stars-copper-project-73883",
+      "justification": "All provided documents are relevant to the acquisition of the Stars project by Interra Copper Corp. from Aurwest Resources Corporation. The link is derived from the list of company news articles provided in the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in Canadian dollars: 'Under the terms of the Purchase Agreement, the Company will earn its undivided 100% right and interest in the Property upon paying to Aurwest cash payments of C$250,000...'"
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The total cash consideration is C$250,000. 'Under the terms of the Purchase Agreement, the Company will earn its undivided 100% right and interest in the Property upon paying to Aurwest cash payments of C$250,000...'. This is further confirmed in a later release: 'Interra has also made a $100,000 cash payment as part of the consideration for the Transaction plus a cash deferral payment of approximately $150,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and an issue price, which falls under Priority 2 of the extraction hierarchy. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 10000000,
+      "justification": "The purchase agreement specifies the number of shares to be issued: '...and issuing 10,000,000 common shares of the Company (the “Shares”)...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions '2,500,000 common share purchase warrants' are part of the deal, but does not assign a raw dollar value to them as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions stock options being granted to a director, but this is a separate corporate action and not part of the consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.085,
+      "justification": "A press release from the seller, Aurwest, specifies the share price used to value the transaction: 'Total consideration is calculated using Interra Copper closing share price of $0.085 as of October 4, 2024.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A 2% NSR is part of the transaction terms, granted to third parties: 'There is also a grant to underlying third parties of a 2% net smelter return royalty (the “NSR”) on all minerals produced from the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 3761,
+      "justification": "The initial acquisition agreement covers a specific area. The subsequent staking of additional land is a separate event and not part of the M&A transaction terms. '...acquire a 100% right, title, and interest in the Stars Property (the “Property”), an early-stage porphyry copper-molybdenum discovery, covering 3,761 hectares (“ha”)...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: '...covering 3,761 hectares (“ha”) in central British Columbia...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates that a formal resource has not yet been defined, stating that Interra is 'a junior with a discovery that is looking to define a resource.' No quantified mineral resource estimate with mass or volume is provided."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CQX",
+      "justification": "The authoritative ticker provided is CQX. The text confirms the company's name change and new symbol: 'Copper Quest Completes Change of Name with New Symbol \"CQX\"'. The exchange is identified in the press release disclaimers: 'The Canadian Securities Exchange has not reviewed, approved or disapproved the contents of this press release...'"
+    }
+  }
+}

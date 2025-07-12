@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Munro-Croesus/48138.txt",
+    "canada_projects/Munro-Croesus/52313.txt",
+    "canada_projects/Munro-Croesus/70812.txt",
+    "canada_projects/Munro-Croesus/72468.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Munro-Croesus",
+      "justification": "The documents describe multiple acquisitions to expand the Munro-Croesus Property. For example: \"The Lalonde Property acquisition expands the Munro-Croesus Property ('Munro-Croesus' or the 'Project') to 9,235 ha...\""
+    },
+    "company_name": {
+      "value": "Onyx Gold Corp.",
+      "justification": "The buyer is consistently identified across all documents: \"Onyx Gold Corp. (TSXV: ONYX) (OTCQX: ONXGF) ('Onyx' or the 'Company') is pleased to announce that it has completed a purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Brock Colterjohn",
+      "justification": "Mentioned consistently as the President & CEO in the press releases: \"said Brock Colterjohn, President & CEO.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisitions were for full ownership of the properties. For example: \"The Acquisition cost for 100% ownership was 400,000 shares and C$20,000...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as being within a major gold camp: \"...highly prospective section of the Timmins Gold Camp.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/196152",
+      "justification": "All provided documents are relevant to the Munro-Croesus project. The first article is titled \"Onyx Gold Bolsters Munro-Croesus Land Package with the Strategic Acquisition of the Lalonde Property\"."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "One of the transactions explicitly uses Canadian dollars: \"Acquisition cost of 400,000 shares and C$20,000\". The other transactions use '$' and given the company is Canadian (TSXV) and the project is in Ontario, CAD is inferred for all payments."
+    },
+    "cash_payments_raw": {
+      "value": 1190000,
+      "justification": "This is the sum of cash considerations from three separate acquisitions: C$20,000 for the Lalonde property, $150,000 cash plus a $1,000,000 milestone payment for the Matheson portfolio, and $20,000 for the final claims. Quotes: \"Acquisition cost of... C$20,000\", \"The consideration to be paid by the Company to the Vendor for the Property is $150,000 cash...\", \"...if a cumulative mineral resource exceeding 1,000,000 ounces of gold... is defined on the Property the Company shall make a one-time bonus payment of $1,000,000 to the Vendors.\", \"Under the terms of the agreement, the Company will pay a cash consideration $20,000...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares issued is provided, but not an explicit cash value for the share component of the transactions."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into cash and share components; no single combined value is provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 1270000,
+      "justification": "This is the sum of shares from three separate acquisitions: 400,000 for the Lalonde property, 750,000 for the Matheson portfolio, and 120,000 for the final claims. Quotes: \"Acquisition cost of 400,000 shares...\", \"The consideration to be paid by the Company to the Vendor for the Property is... 750,000 common shares of Onyx.\", \"...and will issue 120,000 of its common shares to the vendor...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition considerations in the documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition considerations in the documents."
+    },
+    "issued_share_price": {
+      "value": 2.17,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 2.17'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the acquisition terms in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The vendor of the Matheson portfolio retained a 2% NSR as part of the transaction terms. \"The Vendor will also retain a 2.0% NSR royalty on the Property...\""
+    },
+    "coverage_area_raw": {
+      "value": 3562,
+      "justification": "This is the sum of the acquired areas from three transactions: 2,235 ha for the Lalonde property, 1,150 ha for the Matheson portfolio, and 177 ha for the final claims (calculated as the new total 10,588 ha minus the previous total 10,411 ha). Quotes: \"Large (2,235 ha) land package\", \"A large (1,150 ha) portfolio of properties\", \"The Property is contiguous with the Company's Munro-Croesus Property... which will total 10,588 ha... following the acquisition.\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit 'ha' (hectares) is used consistently across the documents to describe the land package size. \"The Lalonde Property acquisition expands the Munro-Croesus Property ('Munro-Croesus' or the 'Project') to 9,235 ha...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not contain a current, quantified mineral resource estimate for the Munro-Croesus project or the acquired properties. The text notes that historical information could not be verified: \"The QP has been unable to verify any of the historical technical information in this release...\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ONYX",
+      "justification": "The company's ticker and exchange are stated in the press releases: \"Onyx Gold Corp. (TSXV: ONYX) (OTCQX: ONXGF)\""
+    }
+  }
+}

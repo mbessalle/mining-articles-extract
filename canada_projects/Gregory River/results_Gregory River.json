@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gregory River/64828.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gregory River",
+      "justification": "The text announces an expansion of the company's \"100%-owned Gregory River Copper-Gold property\"."
+    },
+    "company_name": {
+      "value": "Golden Spike Resources Corp.",
+      "justification": "The press release is from \"Golden Spike Resources Corp. (CSE: GLDS) (OTCQB: GSPRF) (FSE: L5Y) ('Golden Spike' or the 'Company')\"."
+    },
+    "ceo_buyer": {
+      "value": "Keith Anderson",
+      "justification": "The text includes a quote from \"Golden Spike's President and CEO, Keith Anderson\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves staking new claims to expand a 100%-owned property, not acquiring a percentage interest from another party."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is referred to as the \"Gregory River Copper-Gold property\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/216149",
+      "justification": "The article is about the Gregory River project, as confirmed by the content. The source link is provided at the end of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is staking of claims, and no financial consideration or currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is staking of claims, and no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is staking of claims, and no share payment is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is staking of claims, and no combined payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is staking of claims, and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "An exploration program is mentioned, but no specific drilling meterage commitment is provided."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "An exploration program is mentioned, but no specific monetary commitment is provided."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1625,
+      "justification": "The company \"staked an additional mineral licence covering 1,625 hectares ('ha')\"."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The company \"staked an additional mineral licence covering 1,625 hectares ('ha')\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate (e.g., tonnes, ounces). It mentions the area is underexplored and provides only historical sample grades."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GLDS",
+      "justification": "The company is identified as \"Golden Spike Resources Corp. (CSE: GLDS)\"."
+    }
+  }
+}

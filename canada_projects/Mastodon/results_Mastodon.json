@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Mastodon/32157.txt",
+    "canada_projects/Mastodon/33323.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mastodon",
+      "justification": "The text states the agreement is to \"acquire a 100% interest in the Mastodon Nickel Project (\"Mastodon\")\"."
+    },
+    "company_name": {
+      "value": "KAPA Gold Inc.",
+      "justification": "The press release is from \"KAPA GOLD INC. (TSXV: KAPA) (\"Kapa\" or the \"Company\")\" who is acquiring the project."
+    },
+    "ceo_buyer": {
+      "value": "David K. Paxton",
+      "justification": "The document is signed \"On behalf of the Board of Directors KAPA GOLD INC. 'David K. Paxton' CEO and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Kapa Gold Inc. signed an option agreement \"to acquire a 100% interest in the Mastodon Nickel Project\"."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is repeatedly referred to as the \"Mastodon Nickel Project\" and a \"large, historic nickel project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/157325",
+      "justification": "The article is a press release from Kapa Gold Inc. detailing the option agreement for the Mastodon project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Kapa Gold Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for transactions denoted with '$' is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 1025000,
+      "justification": "The total cash consideration includes an initial deposit of $25,000 and property payments capped at $1 million. The text states: \"payment of an initial deposit of $25,000\" and \"cash payments equal to 10% of all exploration expenditures, capped at a maximum of $1 million.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a number of shares and a price per share is not explicitly stated for the transaction, so per the hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal terms provide separate values for cash and share components, so this field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1200000,
+      "justification": "The total shares issued are an initial 50,000, a further 150,000 at year one, and five annual issuances of 200,000 (1,000,000 total). The text states: \"the issuance of 50,000 common shares\", \"a further 150,000 common shares are due\", and \"five further annual share issuances of 200,000 shares per year\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The option agreement terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The option agreement terms do not mention any stock option payments as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": 0.195,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.195'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement specifies a monetary exploration commitment, not a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 150000,
+      "justification": "The agreement requires \"exploration expenditures of $150,000 in the first year.\""
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The agreement includes a Net Smelter Royalty retained by the sellers. \"The Option Agreement grants a 3% NSR, with 1.5% payable to Delorme and 1.5% payable to Carlium Developments Inc (\"Carlium\") upon commencement of commercial production.\""
+    },
+    "coverage_area_raw": {
+      "value": 2118,
+      "justification": "The text states: \"The Mastodon project covers 2,118 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Mastodon project covers 2,118 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that historical estimates are not being treated as current resources: \"A Qualifed Person has not done sufficient work to classify any of the historical etimates as current resources and the Company is not treating any historical estimates as current mineral resources.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KAPA",
+      "justification": "The buyer is identified in the text as \"KAPA GOLD INC. (TSXV: KAPA)\"."
+    }
+  }
+}

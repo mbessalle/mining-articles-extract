@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Copperview/38133.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copperview",
+      "justification": "The text announces the acquisition of the 'Copperview project': '...it has completed the acquisition (the \"Acquisition\") of a 100% interest in the 37,466 hectare Copperview project (the \"Copperview Project\") ...'"
+    },
+    "company_name": {
+      "value": "Vizsla Copper Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'VANCOUVER, BC, July 18, 2023 /CNW/ - Vizsla Copper Corp. (TSXV: VCU) (OTCQB: VCUFF) (FRANKFURT: 97E0) (\"Vizsla Copper\" or the \"Company\") is pleased to announce that... it has completed the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Vizsla Copper Corp., is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the project: '...it has completed the acquisition (the \"Acquisition\") of a 100% interest in the 37,466 hectare Copperview project...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The company is described as copper-focused and Copperview is listed as one of its copper properties: 'Vizsla Copper is a Cu-Au-Mo focused mineral exploration and development company... It has four additional copper exploration properties: Copperview, Redgold, Blueberry and Carruthers Pass...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation and does not contain a verifiable article link."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Related company news mentioned in the text uses 'C$' to denote Canadian Dollars: 'VIZSLA COPPER CLOSES NON-BROKERED PRIVATE PLACEMENT FOR GROSS PROCEEDS OF C$5.6 MILLION...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, Priority 2 (Calculable Share Value) is used as the number of shares is provided. This rule requires other financial fields, including cash payments, to be null. The text mentions a cash payment of '$5,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No raw value for the shares is provided in the text. The payment was defined by the number of shares issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A single combined value for the cash and share payments is not provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 600000,
+      "justification": "The number of shares issued as part of the consideration is explicitly stated: 'Pursuant to the terms of the Copperview Purchase Agreement, the Company issued 600,000 common shares of the Company (the \"Consideration Shares\") to the Vendor.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retained a royalty as part of the transaction terms, with the primary royalty being 2%: '...granted the Vendor: (i) a 2% net smelter return royalty over 37 of the 40 claims comprising the Copperview Project (the \"2% NSR\")...'"
+    },
+    "coverage_area_raw": {
+      "value": 37466,
+      "justification": "The size of the project is given in the acquisition announcement: '...completed the acquisition (the \"Acquisition\") of a 100% interest in the 37,466 hectare Copperview project...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified alongside the value: '...37,466 hectare Copperview project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that there are no known resources for the company's projects: 'no known mineral reserves or resources'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:VCU",
+      "justification": "The buyer's name is followed by its ticker and exchange in the standard format: 'Vizsla Copper Corp. (TSXV: VCU)'."
+    }
+  }
+}

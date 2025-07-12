@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Rottenstone SW/52167.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rottenstone SW",
+      "justification": "The article is titled 'Ramp Metals Completes Drill Program and Acquires 100% Ownership in Rottenstone SW and PLD Properties'."
+    },
+    "company_name": {
+      "value": "Ramp Metals Inc.",
+      "justification": "Ramp Metals Inc. (TSXV: RAMP) (\"Ramp Metals \" or the \"Company\") is pleased to announce that the Company has successfully completed a 2024 drill program at its Rottenstone SW project..."
+    },
+    "ceo_buyer": {
+      "value": "Jordan Black",
+      "justification": "\"We are pleased to share that our recent drill program has concluded successfully, with assays currently pending,\" commented Jordan Black, CEO of Ramp Metals."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Ramp Metals Inc. ... acquired a 100% interest in both the Rottenstone SW and PLD property pursuant to the Company's option agreement with Rottenstone Resources Ltd. dated March 16, 2022."
+    },
+    "primary_commodity": {
+      "value": "Nickel, Copper, PGE, Gold",
+      "justification": "The Rottenstone SW property is located along a regional NE-SW structure from the historic Rottenstone Mine, which produced 40,000 tons of high grade nickel-copper-platinum group elements plus gold (Ni-Cu-PGE + Au) ore..."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/205634",
+      "justification": "The article is titled 'Ramp Metals Completes Drill Program and Acquires 100% Ownership in Rottenstone SW and PLD Properties', which directly relates to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV: RAMP) and a future payment is denominated in '$', implying Canadian Dollars. 'The Company has the ability to purchase 1/2 of the royalty (1%) at any time for $1,000,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article announces the completion of a prior option agreement but does not state the cash consideration paid to complete the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article announces the completion of a prior option agreement but does not state any share consideration paid to complete the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article announces the completion of a prior option agreement but does not state the combined value of the consideration paid to complete the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of the acquisition completion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions a completed drill program of 1180m, but this is a past action, not a future commitment required by the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not state any future exploration spending commitment as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition is 'subject only to a 2% net smelter royalty.' This royalty was retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 17285,
+      "justification": "The Rottenstone SW property... consists of 12 mineral deposit claims covering approximately 17,285 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Rottenstone SW property... consists of 12 mineral deposit claims covering approximately 17,285 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a mineral resource estimate for the Rottenstone SW project. It mentions historical production from a nearby mine and sample grades, but not a compliant resource statement."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RAMP",
+      "justification": "Ramp Metals Inc. (TSXV: RAMP) (\"Ramp Metals \" or the \"Company\")"
+    }
+  }
+}

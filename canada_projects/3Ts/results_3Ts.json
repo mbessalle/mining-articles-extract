@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/3Ts/31984.txt",
+    "canada_projects/3Ts/47704.txt",
+    "canada_projects/3Ts/93022.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "3Ts",
+      "justification": "The text consistently refers to the project as the '3Ts Project', for example: 'Independence Gold Samples 17.00 Metres of 2.68 g/t Gold and 39.12 g/t Silver in Surface Trenching and Acquires an Additional 36.40 km2 of Land at the 3Ts Project, BC'."
+    },
+    "company_name": {
+      "value": "Independence Gold Corp.",
+      "justification": "The company is identified in all press releases, for example: 'Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF)(the \"Company\") is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "Randy Turner",
+      "justification": "The press releases are signed off with: 'ON BEHALF OF THE BOARD OF INDEPENDENCE GOLD CORP. \"Randy Turner\" Randy Turner, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The articles describe the expansion of an already '100% owned 3Ts gold and silver project' through staking and claim acquisition, not the acquisition of a percentage interest from another entity."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold and silver project, with gold listed first: 'its 100% owned 3Ts gold and silver project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/156854",
+      "justification": "The article, titled 'Independence Gold Acquires Laidman Project, British Columbia and Provides an Update on the 3Ts Project', contains relevant updates and information about the 3Ts project, which is the primary project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction with a specified currency is described for the 3Ts project. A budget of '$50,000' is mentioned, but it is for the separate Laidman Project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The articles describe land acquisition through 'staking' and 'acquisition of... mineral claims', with no cash consideration mentioned for the 3Ts project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payment in shares for the acquisition of claims for the 3Ts project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "There is no mention of a combined cash and share payment for any transaction related to the 3Ts project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not state that any shares were issued as part of the claim acquisitions for the 3Ts project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of any transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being part of any transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so no issue price is mentioned."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions planned drilling (e.g., 'a 4,000 m drill program'), but these are operational plans for a 100%-owned project, not a formal commitment as part of a transactional agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "An exploration budget is mentioned ('initial budget of $50,000 for the year'), but this was explicitly for the 'Laidman Project', not the 3Ts project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in any transaction described in the text."
+    },
+    "coverage_area_raw": {
+      "value": 35486,
+      "justification": "The most recent article provides the latest total area for the project: 'The 3Ts Project ... is now comprised of thirty-one mineral claims covering approximately 35,486 ha in the Nechako Plateau region of central British Columbia.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit is provided with the area measurement: '...covering approximately 35,486 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions drilling results and references a resource estimate (e.g., 'as per the resource estimate for \"in-pit\" grades') but does not provide a quantified statement of the mineral resource with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:IGO",
+      "justification": "The company is identified in the press releases as 'Independence Gold Corp. (TSXV: IGO)'."
+    }
+  }
+}

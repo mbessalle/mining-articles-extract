@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Legacy/64146.txt",
+    "canada_projects/Legacy/74752.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Legacy",
+      "justification": "The text refers to the project as the 'Legacy Lithium Project'. For example: 'Saga Metals Corp. ... is pleased to announce the execution of an option to joint venture agreement ... with Rio Tinto Exploration Canada Inc. (“RTEC”) for its Legacy Lithium Project...'"
+    },
+    "company_name": {
+      "value": "Saga Metals Corp.",
+      "justification": "The primary company associated with the project is identified as 'Saga Metals Corp. (the “Company” or “Saga”)'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Rio Tinto Exploration Canada Inc. (“RTEC”). The text mentions Mike Stier as the CEO of Saga Metals Corp. (the seller), but does not name the CEO of the buyer, RTEC or its parent company Rio Tinto Group."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement includes a two-stage option. The final potential ownership is 75%. 'After earning the right to acquire an initial 51% interest, RTEC will have the option to increase its interest in the Legacy Lithium Project to 75%...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text explicitly identifies the project as a lithium asset: '...for its Legacy Lithium Project in the renowned James Bay Lithium District.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The financial figures are denoted with 'C$', indicating Canadian Dollars. For example: 'Cash payments totaling C$410,190...'"
+    },
+    "cash_payments_raw": {
+      "value": 908650,
+      "justification": "The total cash payment is the sum of three components mentioned for the First Option: C$410,190 + C$273,460 + C$225,000 = C$908,650. The text states: 'Cash payments totaling C$410,190...', 'C$273,460 in cash payments to Saga...', and 'additional payments of C$225,000 in aggregate...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms for the Legacy Project between Saga and RTEC do not include any share payments. The share payments mentioned in the text are for the separate acquisition of the Amirault Property by Saga."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash payments were identified, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms for the Legacy Project between Saga and RTEC do not include any issuance of shares. The share issuance mentioned in the text is for the separate acquisition of the Amirault Property by Saga."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Legacy Project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options are mentioned as part of the transaction terms for the Legacy Project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction for the Legacy Project, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 43753600,
+      "justification": "The total exploration commitment is the sum of the First Option (C$9,571,100) and the Second Option (C$34,182,500). The text states RTEC must make 'Exploration expenditures totaling C$9,571,100' for the first option and incur 'exploration expenditures totaling an additional C$34,182,500' for the second option."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms for the Legacy Project do not mention any Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR). The royalty mentioned in the text is related to the separate acquisition of the Amirault Property."
+    },
+    "coverage_area_raw": {
+      "value": 34243,
+      "justification": "The text specifies the area for the Legacy Project individually: 'The Legacy Lithium Project, optioned by RTEC, contains 663 claims spanning 34,243 hectares'. The larger figure of 65,849 hectares is a combined total including the separate Amirault property."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: '...spanning 34,243 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Legacy Lithium Project. It mentions resources for neighboring projects for context, but not for the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "LSE: RIO, ASX: RIO, NYSE: RIO",
+      "justification": "The buyer is Rio Tinto Exploration Canada Inc. (“RTEC”), which is a subsidiary of Rio Tinto Group. The text provides the tickers for the parent company: 'RTEC is a Canadian subsidiary of the Rio Tinto Group (LSE: RIO, ASX: RIO, NYSE: RIO)'."
+    }
+  }
+}

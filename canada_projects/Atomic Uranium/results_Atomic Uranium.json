@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Atomic Uranium/50251.txt",
+    "canada_projects/Atomic Uranium/50295.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atomic Uranium Project",
+      "justification": "The text announces the acquisition of the \"Atomic Uranium Project\": \"Sienna Acquires the District Scale 50,440 Acre \"Atomic Uranium Project\" in the Athabasca Basin of Saskatchewan.\""
+    },
+    "company_name": {
+      "value": "Sienna Resources Inc.",
+      "justification": "The acquiring company is identified as Sienna Resources Inc. in the first line: \"Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0) (\"Sienna\" or the \"Company\") wishes to announce the acquisition...\""
+    },
+    "ceo_buyer": {
+      "value": "Jason Gigliotti",
+      "justification": "The President and Director of the buyer, Sienna Resources Inc., is identified at the end of the press release: \"\"Jason Gigliotti\" President, Director Sienna Resources Inc.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the project was acquired via staking, which typically implies 100% interest, but no specific percentage is mentioned in the document."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project: \"This new \"Atomic Uranium Project\" is a district size project in the top uranium address on earth, the Athabasca Basin.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/200910",
+      "justification": "The article is titled \"Sienna Acquires the District Scale 50,440 Acre \"Atomic Uranium Project\" in the Athabasca Basin of Saskatchewan\", which directly corresponds to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Sienna Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. The detailed quote section also lists the exchange as TSXV, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction did not involve cash payments as the project was acquired through a direct claim: \"This project was acquired via staking.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction did not involve share payments as the project was acquired through a direct claim: \"This project was acquired via staking.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment is mentioned because the project was acquired via staking, not a purchase from another party."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as consideration for the project, as it was acquired via staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future plans but does not state a specific monetary value for an exploration commitment: \"Management is currently formulating plans to commence operations on these new uranium projects.\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 50440,
+      "justification": "The main body of the press release specifies the size of the project: \"The \"Atomic Uranium Project\" consists of 50,440 contiguous acres\". This value is prioritized over the conflicting \"55,440 acre\" figure mentioned in the boilerplate 'About Sienna Resources Inc.' section."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The unit for the coverage area is explicitly stated: \"The \"Atomic Uranium Project\" consists of 50,440 contiguous acres\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not provide a mineral resource estimate for the Atomic Uranium Project. It only cautions that \"past results or discoveries on properties in proximity to Sienna may not necessarily be indicative of the presence of mineralization on the company's properties.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SIE",
+      "justification": "The buyer's ticker and exchange are provided in the text: \"Sienna Resources Inc. (TSXV: SIE) (OTC Pink: SNNAF) (FSE: A1XCQ0)\"."
+    }
+  }
+}

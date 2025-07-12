@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mount Cameron/73935.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mount Cameron",
+      "justification": "The text states: 'The newly acquired claims are completely surrounded by the Mount Cameron Property (“Mount Cameron” or the “Property”), also 100% held by Guardian.'"
+    },
+    "company_name": {
+      "value": "Guardian Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Guardian Exploration Inc. (TSX-V: GX) (OTCQB: GXUSF) (Frankfurt: R6B) (“Guardian” or the “Corporation”)'."
+    },
+    "ceo_buyer": {
+      "value": "Graydon Kowal",
+      "justification": "The contact information at the end of the article lists 'Graydon Kowal President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction was an acquisition 'by claim staking', which confers 100% ownership of the staked claims. The text also confirms the surrounding property is '100% held by Guardian'."
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The text describes the prospect as the 'Clark Silver-Lead-Zinc Prospect' and notes it is in the 'prolific Keno Hill silver district'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV) and is based in Calgary, Alberta, which implies Canadian Dollars. 'Guardian Exploration Inc. (TSX-V: GX) ... Calgary, Alberta'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition 'by claim staking', not a purchase from another entity. No cash consideration is mentioned in the article."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition 'by claim staking'. No share consideration is mentioned in the article."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was an acquisition 'by claim staking'. No combined cash and share payment is mentioned in the article."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned as a term of the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned as a term of the acquisition. Future exploration is planned but not as a committed term."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2970.4,
+      "justification": "The text states the total area of the property after the acquisition: 'The Property now comprises 154 Yukon quartz mining claims covering 2,970.4 hectares (7,336.9 acres)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the area: '...covering 2,970.4 hectares...'"
+    },
+    "resource_size": {
+      "value": "360,861 tonnes grading 5.64% Pb, 4.60% Zn and 255 g/t Ag",
+      "justification": "A historical resource is mentioned for the Clark prospect: 'A combination of “Drill Indicated” and “Drill Inferred” resource categories provided an estimate of 360,861 tonnes grading 5.64% Pb, 4.60% Zn and 255 g/t Ag (Knox, 2020).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GX",
+      "justification": "The company is identified in the text as 'Guardian Exploration Inc. (TSX-V: GX)'."
+    }
+  }
+}

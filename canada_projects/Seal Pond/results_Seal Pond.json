@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Seal Pond/91670.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Seal Pond",
+      "justification": "The article is titled 'Canterra Minerals Expands Newfoundland Exploration Portfolio with Strategic Staking of Seal Pond Massive Sulfide Prospect'."
+    },
+    "company_name": {
+      "value": "Canterra Minerals Corporation",
+      "justification": "The acquiring company is identified as 'Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF) (FSE: DXZB)'."
+    },
+    "ceo_buyer": {
+      "value": "Chris Pennimpede",
+      "justification": "The press release is signed 'ON BEHALF OF THE BOARD OF CANTERRA MINERALS CORPORATION Chris Pennimpede President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is described as a 'strategic staking of 19 mineral claims', not an acquisition of a specific percentage interest from another party. No percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Zinc, Copper",
+      "justification": "The prospect is described as a 'Volcanogenic Massive Sulfide (VMS) prospect' and 'Drill highlights include intervals grading 2.84% Zn and 1.22% Cu...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/245031",
+      "justification": "The article is about the Seal Pond project as specified in the prompt. The source URL is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/245031'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims, and no purchase price, cash, or share payments are mentioned for the acquisition of the Seal Pond project itself."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims, and no cash payment is mentioned for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims, and no share payment is mentioned for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims, and no combined cash and share payment is mentioned for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims. No shares were issued for the acquisition of the project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims, and no warrants were issued for the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims. No options were issued for the acquisition of the project. The stock options mentioned are for a marketing agreement with Spark Newswire, not for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims. No shares were issued for the acquisition of the project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for a 'comprehensive review of historical exploration data' and subsequent field work to 'identify drill targets', but does not specify a required exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not state a specific monetary exploration commitment for the Seal Pond project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a 'strategic staking' of claims and no Net Smelter Royalty (NSR) is mentioned as being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 5,
+      "justification": "...strategic staking of 19 mineral claims (5km2) covering the Seal Pond Volcanogenic Massive Sulfide (VMS) prospect..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "...strategic staking of 19 mineral claims (5km2) covering the Seal Pond Volcanogenic Massive Sulfide (VMS) prospect..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill highlights for the Seal Pond prospect (e.g., '2.84% Zn and 1.22% Cu') but does not state a quantified mineral resource estimate for this specific project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CTM",
+      "justification": "The company is identified as 'Canterra Minerals Corporation (TSXV: CTM)' in the first paragraph of the press release."
+    }
+  }
+}

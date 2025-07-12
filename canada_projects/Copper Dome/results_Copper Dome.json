@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Copper Dome/42185.txt",
+    "canada_projects/Copper Dome/43069.txt",
+    "canada_projects/Copper Dome/45666.txt",
+    "canada_projects/Copper Dome/92763.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Dome",
+      "justification": "The project is consistently referred to as the 'Copper Dome Project' across multiple documents. For example: 'Canada One Acquires Property Package and Increases Prospective Ground at the Copper Dome Project, Princeton, British Columbia'."
+    },
+    "company_name": {
+      "value": "Canada One Mining Corp.",
+      "justification": "The acquiring company is consistently identified as 'Canada One Mining Corp.' in all provided documents."
+    },
+    "ceo_buyer": {
+      "value": "Peter Berdusco",
+      "justification": "Peter Berdusco is named as the President and CEO in all press releases. For example: 'On behalf of the Board of Directors of CANADA ONE MINING CORP. Peter Berdusco President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "All transactions described are for a 100% interest in the respective properties being acquired or staked to expand the Copper Dome project, including an 'option to acquire 100% interest in the CM1 Copper Property'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is named the 'Copper Dome Project', is contiguous to the 'Copper Mountain Mine', and includes acquisitions of the 'CM1 Copper Property'. The text also mentions exploration for 'porphyry copper and molybdenum mineralization'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "One transaction explicitly states the currency as Canadian dollars ('total cash consideration of $2,500CDN'). The company is listed on the TSXV, implying CAD for other '$' figures."
+    },
+    "cash_payments_raw": {
+      "value": 227500,
+      "justification": "Consolidated value from multiple transactions. The total includes $225,000 from the CM1 Property option agreement ('a series of cash payments totaling $225,000') and $2,500 for two claim groups ('total cash consideration of $2,500CDN')."
+    },
+    "share_payments_raw": {
+      "value": 135000,
+      "justification": "Consolidated value from multiple transactions. The total includes an explicitly stated $85,000 for two properties ('total consideration of $85,000 based on a deemed price of $0.085 per common share') and an estimated $50,000 for the CM1 property. The CM1 value is calculated from 'a total of 2,000,000 common shares' at the fallback last traded price of $0.025 from the associated article's detailed quote ('Last: 0.025')."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were identified and populated in their respective fields."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Null because the financial extraction hierarchy prioritizes populating `share_payments_raw` when a monetary value for shares can be determined. The total number of shares issued across transactions is 3,000,000 (1,000,000 + 2,000,000), but this field is left null to adhere to the hierarchy."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments were mentioned in the documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the documents."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Null because the financial extraction hierarchy prioritizes `share_payments_raw`. Multiple share issuances occurred at different or unstated prices ($0.085 and an unstated price for another batch), making a single value inappropriate."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 225000,
+      "justification": "From the CM1 Property option agreement, which requires the company 'incurring expenditures on the Property of $225,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "From the CM1 Property transaction, which is subject to a royalty retained by the sellers: 'it will remain subject to a two percent (2.0%) net smelter return royalty in favor of the Vendors'."
+    },
+    "coverage_area_raw": {
+      "value": 3414,
+      "justification": "Consolidated area from multiple land package additions. The total includes 1,054 hectares from the CM1 property ('Approximately 1,054 hectares in size'), 632 hectares from two claim groups ('two claim groups totalling 632 hectares'), and 1,728 hectares from staking ('new claim group, consisting of 1,728 hectares')."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for all acquired land packages is specified as hectares. For example: 'two claim groups totalling 632 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate for the Copper Dome project is provided in the text. A resource for the nearby Copper Mountain Mine is mentioned but explicitly disclaimed as being for geological context only ('this is not necessarily indicative that the land position hosts similar grades or tonnages of mineralization')."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CONE",
+      "justification": "The ticker and exchange are consistently mentioned in the documents, for example: 'Canada One Mining Corp. (“Canada One” or the “Company”) (TSXV:CONE)'."
+    }
+  }
+}

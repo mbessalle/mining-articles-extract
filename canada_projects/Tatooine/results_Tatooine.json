@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Tatooine/45895.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tatooine Silica Project",
+      "justification": "The article is titled 'Homerun Resources Inc. Completes the Purchase of the Tatooine Silica Project'."
+    },
+    "company_name": {
+      "value": "Homerun Resources Inc.",
+      "justification": "The acquiring company is identified as 'Homerun Resources Inc. (TSXV: HMR) (OTCQB: HMRFF) (\"Homerun\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Brian Leeners",
+      "justification": "The press release is signed on behalf of the board by 'Brian Leeners, CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has elected to 'complete the option to purchase a 100% interest in the Tatooine Silica Project'."
+    },
+    "primary_commodity": {
+      "value": "Silica",
+      "justification": "The project is named the 'Tatooine Silica Project' and the text mentions 'high-purity quartz silica resource'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/191028",
+      "justification": "The article is about the Tatooine project, which is the project of interest. The source URL is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Homerun Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the detailed quote shows a '$' symbol, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text only mentions payment in shares: 'The Company will issue the remaining 1,200,000 common shares to the vendor to complete the purchase option...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares issued but does not provide an explicit total dollar value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into the number of shares issued, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 1200000,
+      "justification": "The Company will issue the remaining 1,200,000 common shares to the vendor to complete the purchase option, as per the terms of the Option Agreement dated September 08, 2022."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction payment. The deal is the completion of a purchase option, not a payment with options."
+    },
+    "issued_share_price": {
+      "value": 1.01,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 1.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No drilling commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text outlines planned work programs but does not specify a monetary exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5100,
+      "justification": "The Tatooine Silica Project covers an area of approximately 5,100 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Tatooine Silica Project covers an area of approximately 5,100 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'the excellent potential for the discovery of a high-purity quartz silica resource' but does not provide a quantified mineral resource estimate with mass or volume units."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HMR",
+      "justification": "The buyer is identified in the text as 'Homerun Resources Inc. (TSXV: HMR)'."
+    }
+  }
+}

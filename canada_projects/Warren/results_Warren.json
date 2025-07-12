@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Warren/36556.txt",
+    "canada_projects/Warren/40531.txt",
+    "canada_projects/Warren/88248.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Warren",
+      "justification": "The text refers to the project as the 'Warren Project' multiple times, for example: 'Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") announces that it has entered into an agreement to acquire a 100% interest, subject to a 1.5% NSR, in the Warren copper nickel project (the \"Warren Project\") from US Copper Corp.'"
+    },
+    "company_name": {
+      "value": "Mink Ventures Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") announces that it has entered into an agreement to acquire a 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Natasha Dixon",
+      "justification": "The contact information identifies the President and CEO: 'For further information about Mink Ventures Corporation please contact: Natasha Dixon, President & CEO, T: 250-882-5620'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The final press release confirms the completion of the acquisition: 'Mink Ventures Corporation (TSXV:MINK) (“Mink” or the \"Company\") today announced that it has completed all share issuances and incurred all expenditures required to earn a 100% interest in the Warren Ni, Cu, Co Patents under Mink’s option with US Copper Corp.'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as a copper-nickel project in the headline: 'Mink Ventures Enters into Option to Acquire Copper Nickel Project, Timmins, Ontario'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/169738",
+      "justification": "The article, titled 'Mink Ventures Enters into Option to Acquire Copper Nickel Project, Timmins, Ontario', directly concerns the acquisition of the Warren Project by Mink Ventures Corporation."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The exploration commitment is stated in dollars ('$300,000 in exploration expenditures') and the acquiring company, Mink Ventures Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments are mentioned as part of the consideration for the acquisition. The deal consists of share issuances, warrants, and an exploration commitment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw monetary value for the share payments is not provided. The consideration is described in terms of the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A combined cash and share value is not provided. The consideration is broken down into its components (shares, warrants, exploration commitment)."
+    },
+    "amount_of_shares_issued": {
+      "value": 1275000,
+      "justification": "This is the sum of shares from two separate agreements. The first agreement with US Copper Corp required 1,050,000 shares (250,000 initial shares plus 'an additional 800,000 MINK common shares'). The second agreement with Mr. Douglas Lalonde required 225,000 shares ('Total consideration for the 0.5% NSR and the eight claims is 225,000 common shares of the Company.'). The total is 1,050,000 + 225,000 = 1,275,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement includes '250,000 MINK three-year common share purchase warrants exercisable at a price of $0.25 on closing', but a total monetary value for these warrants is not provided."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No payments specifically defined as 'option payments' in monetary terms are mentioned. The consideration is in shares, warrants, and exploration commitments."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote section of the first article: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 300000,
+      "justification": "The initial agreement states: '...to maintain and ultimately exercise the option MINK must incur $300,000 in exploration expenditures...'. A later article confirms completion: 'Mink has expended the required $300,000 in exploration expenditures...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 0.5,
+      "justification": "Mink acquired a 0.5% NSR in a separate transaction: 'Mink Ventures Corporation (TSXV: MINK) (\"MINK \" or the \"Company\") today announced that it has acquired... a 0.5% net smelter returns royalty (\"NSR\") on the Warren patents from Mr. Douglas Lalonde...'"
+    },
+    "coverage_area_raw": {
+      "value": 1010,
+      "justification": "After acquiring additional claims, the total area is stated as: 'The combined Warren property now covers 1,010 hectares of land...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the same sentence as the area: 'The combined Warren property now covers 1,010 hectares of land...'"
+    },
+    "resource_size": {
+      "value": "385,000 tons of 1% Cu + Ni on the B Zone",
+      "justification": "The text mentions a historical resource: 'A resource* calculation of 385,000 tons of 1% Cu + Ni on the B Zone was outlined by Jade Oil & Gas.' Although noted as historical and not NI43-101 compliant, it is a quantified statement of mineral resources."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MINK",
+      "justification": "The buyer's name is followed by its ticker and exchange in parentheses: 'Mink Ventures Corporation (TSXV: MINK)'."
+    }
+  }
+}

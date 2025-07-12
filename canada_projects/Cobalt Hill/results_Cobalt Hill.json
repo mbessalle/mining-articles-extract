@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cobalt Hill/53443.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cobalt Hill",
+      "justification": "The text explicitly names the project: 'MegaWatt holds a 100% undivided interest (subject to a 1.5% NSR) on all base, rare earth elements and precious metals, in the Cobalt Hill Property...'"
+    },
+    "company_name": {
+      "value": "MegaWatt Lithium and Battery Metals Corp.",
+      "justification": "The company is identified at the beginning of the press release: 'Vancouver, British Columbia, May 08, 2024 (GLOBE NEWSWIRE) -- MegaWatt Lithium and Battery Metals Corp. (CSE:MEGA) (FSE: WR20) (OTCQB: WALRF) (the \"Company\", \"MegaWatt Metals\" or “MegaWatt”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Casey Forward",
+      "justification": "The CEO is named at the end of the press release: 'On Behalf of the Board of Directors, MegaWatt Lithium and Battery Metals Corp. Casey Forward, CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the company's ownership interest in the property: 'MegaWatt holds a 100% undivided interest... in the Cobalt Hill Property...'"
+    },
+    "primary_commodity": {
+      "value": "base, rare earth elements and precious metals",
+      "justification": "The text describes the commodities associated with the property: 'MegaWatt holds a 100% undivided interest (subject to a 1.5% NSR) on all base, rare earth elements and precious metals, in the Cobalt Hill Property...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a corporate update that mentions the Cobalt Hill project, making it relevant. However, no specific article URL was included in the source material to extract."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) and financial figures like the private placement are denoted with '$', implying Canadian Dollars. 'MegaWatt Lithium and Battery Metals Corp. (CSE:MEGA)...' and '...at $0.10 per share for combined gross proceeds of $559,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Cobalt Hill project. It mentions a private placement for general purposes and an acquisition of a different project (Benedict Mountains Uranium Property)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Cobalt Hill project. It mentions a private placement for general purposes and an acquisition of a different project (Benedict Mountains Uranium Property)."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Cobalt Hill project. It mentions a private placement for general purposes and an acquisition of a different project (Benedict Mountains Uranium Property)."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Cobalt Hill project. It mentions a private placement for general purposes and an acquisition of a different project (Benedict Mountains Uranium Property)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments related to the Cobalt Hill project are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments related to the Cobalt Hill project are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not describe a transaction for the Cobalt Hill project. It mentions a private placement for general purposes and an acquisition of a different project (Benedict Mountains Uranium Property)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters for the Cobalt Hill project is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value for the Cobalt Hill project is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not describe a new transaction for the Cobalt Hill project. It only states that the property is subject to a pre-existing 1.5% NSR: 'MegaWatt holds a 100% undivided interest (subject to a 1.5% NSR)... in the Cobalt Hill Property...'"
+    },
+    "coverage_area_raw": {
+      "value": 1727.43,
+      "justification": "The text specifies the area of the Cobalt Hill Property: '...the Cobalt Hill Property, consisting of 8 mineral claims covering an area of approximately 1,727.43 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the area of the Cobalt Hill Property: '...the Cobalt Hill Property, consisting of 8 mineral claims covering an area of approximately 1,727.43 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of mineral resources for the Cobalt Hill project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MEGA",
+      "justification": "The company's primary ticker and exchange are listed in the introduction: 'MegaWatt Lithium and Battery Metals Corp. (CSE:MEGA) (FSE: WR20) (OTCQB: WALRF)...'"
+    }
+  }
+}

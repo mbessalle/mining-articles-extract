@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Theory/83830.txt",
+    "canada_projects/Theory/91509.txt",
+    "canada_projects/Theory/91511.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Theory",
+      "justification": "The primary project of interest is stated in the prompt and confirmed in the headlines: 'Sun Summit Signs Letter of Intent to Acquire the Theory Project' and 'Eagle Plains and Sun Summit Minerals Execute Option Agreement for the Theory Copper-Gold Project, British Columbia'."
+    },
+    "company_name": {
+      "value": "Sun Summit Minerals Corp.",
+      "justification": "The acquiring company is identified in the headline: 'Sun Summit Signs Letter of Intent to Acquire the Theory Project'. The full name is 'Sun Summit Minerals Corp. (TSXV: SMN) (OTCQB: SMREF) (\"Sun Summit\")'."
+    },
+    "ceo_buyer": {
+      "value": "Niel Marotta",
+      "justification": "Niel Marotta, CEO of Sun Summit, commented: \"We are pleased to finalize the Theory Option Agreement.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Sun Summit has the option to acquire up to a 100% interest in the project through two stages. 'Sun Summit has been granted the exclusive right to acquire up to a 100% interest in the Eagle Plains' wholly-owned Theory copper-gold project' and 'the Company may acquire an additional 25% interest in the Project (for a 100% total interest)'."
+    },
+    "primary_commodity": {
+      "value": "copper-gold",
+      "justification": "The project is repeatedly referred to as a copper-gold project, for example: '...whereby Sun Summit and Eagle Plains will negotiate and settle the terms of a definitive option agreement (the \"Option Agreement\") for Sun Summit to acquire up to a 100% interest in Eagle Plains' wholly-owned Theory copper-gold project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/236874",
+      "justification": "The article is titled 'Sun Summit Signs Letter of Intent to Acquire the Theory Project in the Toodoggone Mining District, B.C.' and discusses the acquisition of the Theory project by Sun Summit Minerals Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies Canadian dollars for payments: 'exploration expenditures of CDN $3,000,000, cash payments of CDN $250,000' and 'paying CA$255,000'."
+    },
+    "cash_payments_raw": {
+      "value": 1250000,
+      "justification": "The total cash payment is the sum of two components: CDN $250,000 for the first option and a CDN $1,000,000 payment for the second option. 'paying to Eagle Plains a total cash consideration of $250,000' and 'make an additional one-time payment of $1,000,000 cash to Eagle Plains'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment is defined by the number of shares to be issued, not a raw dollar value. Therefore, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are specified separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 750000,
+      "justification": "The agreement includes the issuance of a specific number of shares: 'Sun Summit will agree to issue to Eagle Plains 750,000 voting-class common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions finder warrants in relation to a private placement, not as part of the consideration for the Theory project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the transaction is an option agreement, there are no payments specified as 'option payments' separate from the cash and share considerations."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued (750,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the initial announcement article: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": 2500,
+      "justification": "The exploration commitment includes minimum drilling requirements over two periods: 'including a minimum of 1,000 metres of drilling' and 'including a minimum of 1,500 metres of drilling', for a total of 2,500 meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The agreement requires total exploration expenditures of $3,000,000 to earn the first 75% interest: 'Sun Summit has the option to acquire a 75% interest in the Theory Project... in exchange for... incurring total exploration expenditures on the Theory Project of $3,000,000.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller, Eagle Plains, retains a royalty. 'Upon completion and notice of exercise of Option 1, Eagle Plains will retain a total 2.0% NSR on all areas underlain by the project...'"
+    },
+    "coverage_area_raw": {
+      "value": 9676,
+      "justification": "The text provides a specific area for the project: 'The Theory Project comprises 23 mineral claims covering 9,676 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Theory Project comprises 23 mineral claims covering 9,676 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Theory project in the text. The documents describe it as an early-stage project with historical grab samples and exploration targets, not a defined resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SMN",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the articles: 'Sun Summit Minerals Corp. (TSXV: SMN)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mink Narrows/73543.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mink Narrows",
+      "justification": "The article is titled 'Voyageur Mineral Explorers Corp. Options Mink Narrows Project' and refers to 'the Company’s Mink Narrows project'."
+    },
+    "company_name": {
+      "value": "Voyageur Mineral Explorers Corp.",
+      "justification": "The press release is issued by 'Voyageur Mineral Explorers Corp. (\"Voyageur\" or the \"Company\")' and discusses an option on 'the Company’s Mink Narrows project'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO mentioned, Fraser Laschinger, is the President and CEO of the seller, Voyageur Mineral Explorers Corp. The CEO of the buyer, Althea Copper Corp., is not mentioned in the text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Althea Copper Corp. ('ACC') 'may acquire a 100% interest in the Company’s Mink Narrows project'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text states: 'We wish Althea Copper success in their search for copper and other critical minerals at Mink Narrows...'"
+    },
+    "verified_article_link": {
+      "value": "Mink Narrows Project",
+      "justification": "The article content is directly about the option agreement for the Mink Narrows Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$' and the seller, Voyageur Mineral Explorers Corp., is listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "A combined value for cash and share payments was extracted under Priority 3 of the financial data extraction hierarchy, which requires other financial fields to be null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A combined value for cash and share payments was extracted under Priority 3 of the financial data extraction hierarchy, which requires other financial fields to be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 250000,
+      "justification": "Calculated from the sum of the initial share issuance valued at $100,000 and the second anniversary payment of $150,000 (which is payable in cash or shares). From the text: 'Issue 1,000,000 common shares in ACC, valued at $100,000' and 'Issue $150,000 in common shares in ACC, or paying $150,000 in cash'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because a combined value for cash and share payments was extracted under Priority 3 of the financial data extraction hierarchy, which requires other financial fields to be null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments, aside from the main transaction terms, are mentioned."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because a combined value for cash and share payments was extracted under Priority 3 of the financial data extraction hierarchy, which requires other financial fields to be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 300000,
+      "justification": "One of the conditions to exercise the option is to 'Complete exploration expenditures aggregating $300,000 on or before the first anniversary of the Effective Date'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Voyageur, retains a 2% NSR. The text states the buyer must 'Grant Voyageur a 2% net smelter return (“NSR”) royalty upon the exercise of the Option'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information on the project's area or size was found in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information on the project's area or size was found in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Althea Copper Corp. (“ACC”). No ticker or exchange is provided for the buyer. The ticker mentioned, (CSE: VOY), belongs to the seller, Voyageur Mineral Explorers Corp."
+    }
+  }
+}

@@ -1,0 +1,66 @@
+--- Article Metadata ---
+Project Name: Radis
+Company Name: Ophir Metals Corp.
+Exchange: TSXV
+Ticker: OPHR
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.23.2023, 7:00:00 PM
+
+# Ophir Gold Corp. Closes the Acquisition of the Troilus Gold Corporation's Claims in James Bay, Quebec
+
+Vancouver, British Columbia--(Newsfile Corp. - March 23, 2023) - **Ophir Gold Corp.  ****(TSXV: OPHR) (OTCQB: KPZIF) (FSE: 80M)  ****(the "Company" or "Ophir")**  is pleased to announce that further to its news releases of March 7th, 2023, it has closed the acquisition of three (3) mining claims located in James Bay, Quebec (the "**Claims** ") from Troilus Gold Corporation (the "**Vendor** "). The three (3) claims are contiguous to the Company's Radis Lithium Property.
+
+The Claims were acquired pursuant to a purchase and sale agreement (the "Agreement") between the Company and the Vendor. The Company acquired a 100% interest in the Claims in consideration for the issuance of 225,000 common shares of the Company to the Vendor. In addition, the Vendor shall retain a 2% Net Smelter Royalty ("**NSR** ") on the Claims, while the Company shall have the option to purchase back three-quarters of the NSR, thereby reducing it to 0.5%, for $1,500,000. The Vendor is arm's length to the Company. 
+
+**About the Company**
+
+Ophir Gold Corp. is a gold exploration company focused on the exploration and development of its flagship property, the past producing Breccia Gold Property located in Lemhi County, Idaho, as well as new Radis Property in James Bay, Quebec. 
+
+The Company has an option to earn a 100% interest in the Breccia Gold Property over a three-year period from Canagold Resources Ltd. (formerly Canarc Resource Corp.) and DG Resource Management Ltd.
+
+The Company also has an option to earn a 100% interest in the Radis Lithium Property over a three-year period from Eastmain Resources Inc., a wholly owned subsidiary of Fury Gold Mines Limited.
+
+**On behalf of the Board of Directors**
+
+ _"Shawn Westcott"  
+_ Ophir Gold Corp.
+
+For further information, please contact:
+
+**Shawn Westcott, CEO  
+****Phone 1 (604) 365 6681  
+****[swestcott@ophirgoldcorp.com](mailto:swestcott@ophirgoldcorp.com)**
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+**Cautionary Note**
+
+The information contained herein contains "forward-looking statements" within the meaning of applicable securities legislation. Forward-looking statements relate to information that is based on assumptions of management, forecasts of future results, and estimates of amounts not yet determinable and include statements in this press release related to the exploration potential of the Company's properties. Any statements that express predictions, expectations, beliefs, plans, projections, objectives, assumptions or future events or performance are not statements of historical fact and may be "forward-looking statements." Forward-looking statements are subject to a variety of risks and uncertainties which could cause actual events or results to differ from those reflected in the forward-looking statements, including, without limitation: risk related to the failure to obtain adequate financing on a timely basis and on acceptable terms; risks related to the outcome of legal proceedings; political and regulatory risks associated with mining and exploration; risks related to the maintenance of stock exchange listings; risks related to environmental regulation and liability; the potential for delays in exploration or development activities or the completion of feasibility studies; the uncertainty of profitability; risks and uncertainties relating to the interpretation of drill results, the geology, grade and continuity of mineral deposits; risks related to the inherent uncertainty of production and cost estimates and the potential for unexpected costs and expenses; results of prefeasibility and feasibility studies, and the possibility that future exploration, development or mining results will not be consistent with the Company's expectations; risks related to commodity price fluctuations; and other risks and uncertainties related to the Company's prospects, properties and business detailed elsewhere in the Company's disclosure record. Should one or more of these risks and uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those described in forward-looking statements. Investors are cautioned against attributing undue certainty to forward-looking statements. These forward-looking statements are made as of the date hereof and the Company does not assume any obligation to update or revise them to reflect new events or circumstances, except in accordance with applicable securities laws. Actual events or results could differ materially from the Company's expectations or projections.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/159493](https://api.newsfilecorp.com/redirect/1z4OPiLAbP)
+
+### Project Name
+
+[Radis Project](/?gid=3814)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.055            $  Chg: 0.005
+Open: 0.055            High: 0.055
+Bid: 0.05             Bid Size: 17000
+Beta: 0.46006            Year High: 0.14
+Market Cap: 5.44m      PB Ratio: 1.11
+EPS: -0.06             Average Volume (30 Day): 99.50k
+Volume: 10.45k          % Chg: 10.00%
+Prev. Close: 0.05     Low: 0.055
+Ask: 0.055             Ask Size: 47000
+VWAP: 0.055            Year Low: 0.035
+Total Shares: 98.89m    Shares Out: 98.89m
+Float: 96.62m           Exchange: TSXV

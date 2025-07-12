@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Mirage/44809.txt",
+    "canada_projects/Mirage/51003.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mirage",
+      "justification": "The headline of the first article is 'Brunswick Exploration Announces the Exercise of the Mirage Project Option From Globex Mining Enterprise'."
+    },
+    "company_name": {
+      "value": "Brunswick Exploration Inc.",
+      "justification": "The buyer is identified in the text: 'Brunswick Exploration Inc.(TSX-V: BRW, OTCQB: BRWXF; “BRW” or the “Company”) is pleased to announce that it has met all payment and work expenditures requirements to acquire a 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Killian Charles",
+      "justification": "The text states: 'Mr. Killian Charles, President and CEO of BRW, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Brunswick Exploration will 'acquire a 100% interest on the claims held by Globex Mining Enterprise (TSX: GMX) at the Mirage Project'."
+    },
+    "primary_commodity": {
+      "value": "lithium",
+      "justification": "The text describes the project as 'an exciting lithium discovery' and states the company is focused on 'grassroots exploration for lithium in Canada'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a verifiable URL for the articles."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX-V and is Montreal-based. A separate news item mentions a private placement for 'Gross Proceeds of C$3.5 Million', confirming the use of Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text states that the company 'has met all payment and work expenditures requirements' but does not specify the cash amount of these payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments as part of exercising the option agreement."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a combined value for the payments made to exercise the option."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not state that any shares were issued to exercise the option agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were mentioned as being issued for this transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": 15000,
+      "justification": "The text announces a future drilling campaign at the project: 'BRW has completed construction of an exploration camp in support of an extensive winter 2024 drilling campaign at Mirage where we expect to drill a minimum of 15,000 meters during the first quarter.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that 'work expenditures requirements' have been met, but does not provide a monetary value for these or any future commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the area of the Mirage Project itself. It mentions a newly acquired area of 26,642 hectares, but this is explicitly described as being 'northeast of the Mirage Project', not part of it."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the Mirage project is not mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes Mirage as a 'discovery' and a 'grassroot' project and does not contain a formal mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V: BRW",
+      "justification": "The text explicitly identifies the company and its ticker: 'Brunswick Exploration Inc.(TSX-V: BRW, OTCQB: BRWXF; “BRW” or the “Company”)'."
+    }
+  }
+}

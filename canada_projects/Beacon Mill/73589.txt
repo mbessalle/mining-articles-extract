@@ -1,0 +1,111 @@
+--- Article Metadata ---
+Project Name: Beacon Mill
+Company Name: LaFleur Minerals Inc.
+Exchange: CSE
+Ticker: LFLR
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+10.2.2024, 11:00:00 PM
+
+# LaFleur Minerals Receives Court Approval for Beacon Mill and Property Acquisition and Provides Exploration Update for Swanson Gold Project
+
+Vancouver, British Columbia--(Newsfile Corp. - October 2, 2024) - **LaFleur Minerals Inc. (CSE: LFLR) (OTC Pink: WPNNF)** ("**LaFleur Minerals** " or the "**Company** ") is pleased to announce that further to its [news release dated September 20, 2024](https://api.newsfilecorp.com/redirect/7WkD7IGb2K), the Superior Court of Québec approved the acquisition terms for the Beacon Mill and Beacon Property (the "**Acquisition** ") on September 27, 2024 and authorized PricewaterhouseCoopers Inc. ("**PwC** "), the court appointed Monitor, to proceed with the closing of the Acquisition. The final terms of the Acquisition are disclosed below with closing expected by October 30, 2024. The Company has also commenced exploration work on its district-scale Swanson Gold Project ("**Swanson** ") located within the Abitibi Gold Belt, approximately 50 km north of Val-d'Or, Québec. Exploration work includes a high resolution airborne geophysical survey over Swanson, an orientation soil geochemistry survey, and prospecting/geological mapping program over select gold and critical minerals occurrences on Swanson. 
+
+**Beacon Mill and Property Acquisition Terms**
+
+The Beacon Mill is being acquired from a subsidiary of Monarch Mining Corporation ("**Monarch** ") as part of a sale process being conducted by PWC, as court-appointed Monitor, pursuant to the _Companies' Creditors Arrangement Act_ (Canada). The Beacon Mill is fully permitted to process up to 1.8 million tonnes of tailings with additional capacity, if required. Monarch acquired the mill on December 2, 2017, after purchasing all of the mining assets in Québec belonging to Richmont Mines, which included the Beaufor Mine and Beacon Mill. Monarch invested approximately $20M to refurbish the Beacon Mill as recently as 2022. On September 27, 2022, Monarch suspended its operations at the Beaufor Mine and at the Beacon Mill and placed the mine and the mill under care and maintenance.
+
+The Beacon Property hosts the past-producing Beacon Mine that produced gold from 1984 to 1988 and again in 2005 and consists of a mining lease, a mining concession, and 11 mining claims. Underground mining infrastructure includes underground installations, two (2) ramps, a 500 m shaft, hoist, headframe and several surface buildings including administrative, warehouse and mechanical shops. LaFleur Minerals is exploring options to utilize the Beacon Mill to potentially process future mineralized material from the Swanson deposit, and potentially for custom milling purposes for nearby gold projects in the Abitibi-Témiscamingue region in western Québec.
+
+Under the terms of the binding Asset Purchase Agreement dated September 13, 2024 among Beacon Gold Mill Inc. (the "**Vendor** "), Monarch, 9511-2090 Quebec Inc. (a subsidiary of the Company), and LaFleur Minerals, the consideration payable by LaFleur Minerals to the Vendor shall be an aggregate value $1,100,000 (the "**Purchase Price** "), of which LaFleur Minerals shall pay $250,000 in cash ($110,000 already paid as a deposit) and issue $850,000 of common shares in the capital of LaFleur Minerals (the "**Consideration Shares** ") based on a price per Consideration Share equal to the five consecutive trading day volume weighted trading price of the common shares of LaFleur Minerals on the Canadian Securities Exchange (CSE) ending a day prior to the closing date. The Acquisition is expected to close by October 30, 2024.
+
+**Swanson NI 43-101 Phase 1 Exploration Program and Internal Review of Agnico Eagle 2009 Scoping Study**
+
+The Swanson Gold Project is an approximately 15,000-hectare district-scale property located in the heart of the Abitibi Gold Belt in western Québec. On September 17, 2024, Lafleur Minerals filed a NI 43-101 Technical Report titled "_NI 43-101 Technical Report and Mineral Resource Estimate for the Swanson Property, Québec, Canada_ " (the "**Technical Report** ") for Swanson on its SEDAR+ profile that reported a combined open-pit and underground Indicated Mineral Resource Estimate of 2,113,000 t with an average grade of 1.8 g/t gold for 123,400 oz of contained gold and an Inferred Mineral Resource Estimate of 872,000 t with an average grade of 2.3 g/t gold for 64,500 oz of contained gold (for further details on the MRE: [NI 43-101 Technical Report and Mineral Resource Estimate for the Swanson Property, Québec, Canada, effective date of September 17, 2024](https://api.newsfilecorp.com/redirect/eLr21SoqY0)). The Technical Report completed by InnovExplo Inc. ("**InnovExplo** ") also discusses other drill-ready targets with historical estimates at Swanson including the Bartec and Jolin gold deposits.
+
+The Company has commenced the recommended Phase 1 work program from the Technical Report and contracted Novatem Inc. ("**Novatem** ") of Mont-Saint-Hilaire, Québec to complete a very high-resolution heliborne geophysical survey at Swanson. The geophysical survey includes very high-resolution magnetic and very low frequency electromagnetic (VLF-EM) measurements taken at 50-metre line spacings for an estimated total of 3,562-line km including tie-lines. The geophysical survey commenced this past week and is expected to take approximately 7-10 days to complete. Once the geophysical data has been collected by Novatem it will be processed and interpreted prior to delivery to LaFleur Minerals. The geophysical survey is designed to aid the Company's geological team in the delineation of major faults and structural breaks that could host gold and critical minerals mineralization within the project area and for drill hole planning.
+
+The Company has also contracted IOS Services Géoscientifiques Inc. ("**IOS** ") of Chicoutimi, Québec to complete an orientation soil survey program, and prospecting and geological mapping over select gold and critical minerals occurrences at Swanson. IOS and LaFleur Minerals have chosen this particular approach for the purpose of detecting the hydromorphic (cationic) dispersion that develop where sulphides oxidize with the aim of detecting significant geochemical anomalies in soil and till. The proposed sampling lines are oriented approximately perpendicular to any known geophysical anomalies (mag-EM and IP) and geological units. The profiles transecting close to known mineralized occurrences are proposed to test the selective method's effectiveness using Ionic Leach or equivalent partial leach technology before extending the soil survey to the entire Swanson project area. The IOS soil sampling survey will initially target the Swanson, Jolin, and Bartec deposits and other gold occurrences at Swanson at approximately 200 m line spacing with 25 m sampling intervals along each line. The soil sampling and prospecting program has already commenced and is expected to take approximately 21 days to complete with final results expected in late fall. The soil geochemistry and prospecting results will be combined with the airborne geophysics data to help design the upcoming drilling plan at Swanson and may lead to additional gold discoveries requiring follow-up field work. 
+
+The Company has also commenced a high-level internal review of a historical scoping study completed by Agnico Eagle in 2009 for the Swanson deposit and to evaluate potential mining scenarios on the existing Swanson mining lease based on the current mineral resource estimate and potential options using the Beacon Mill. This high-level internal study is the first step prior to the Company proceeding with a Preliminary Economic Study (PEA) for the Swanson Gold Project.
+
+Lafleur Minerals will provide further updates once the final results from these exploration programs are obtained and interpreted by the Company's geological team.
+
+Paul Ténière, CEO of LaFleur Minerals stated, "_We are pleased to have received Court approval for the Beacon Mill acquisition and expect to close the transaction very soon. We are also excited to have commenced high level mining and economic studies, and several exploration programs at Swanson targeting multiple gold targets within our 150 km_ _2_ _claim package and we look forward to receiving the results, which will help us plan our upcoming drilling programs and guide our future development of the project. Having a high-grade, potentially open-pittable gold resource at our Swanson Gold Property and soon the fully-permitted and refurbished Beacon Mill located approximately 40 km from Swanson provides us with an amazing project to advance in the current high priced gold market._ "
+
+**Qualified Person Statement**
+
+All scientific and technical information contained in this news release has been reviewed and approved by Louis Martin, P.Geo., Technical Advisor to the Company, and a "Qualified Person" for the purposes of National Instrument 43-101 - Standards of Disclosure for Mineral Projects (NI 43-101).
+
+**About LaFleur Minerals Inc.**
+
+LaFleur Minerals Inc. (CSE: LFLR) (OTC Pink: WPNNF) is focused on the acquisition and development of district-scale gold projects in the Abitibi Gold Belt near Val-d'Or, Québec. Our mission is to advance mining projects with a laser focus on our resource-stage Swanson Gold Project, which has significant potential to deliver long-term value. The Swanson Gold Project is over 15,000 hectares (150 km2) in size and includes several prospects rich in gold and critical metals previously held by Monarch Mining, Abcourt Mines, and Globex Mining. LaFleur has recently consolidated a large land package along a major structural break that hosts the Swanson, Bartec, and Jolin gold deposits and several others. The Swanson Gold Project is easily accessible by road with a rail line running through the property allowing direct access to several nearby gold mills, further enhancing its development potential. 
+
+LaFleur is currently acquiring high-resolution airborne geophysics (mag VLF-EM) to help identify mineralized structures at Swanson and completing detailed soil surveys and prospecting/geological mapping for the purpose of drill hole targeting with the goal to commence diamond drilling on several targets within the next several months. Lafleur Minerals is also actively exploring its Mazerac Lithium Property adjacent to [Power Metals' Mazerac Lithium Property](https://api.newsfilecorp.com/redirect/85BretxqRR).
+
+**ON BEHALF OF LAFLEUR MINERALS INC.**
+
+Paul Ténière, P.Geo.  
+Chief Executive Officer   
+E: [info@lafleurminerals.com](mailto:info@lafleurminerals.com)
+
+LaFleur Minerals Inc.  
+1500-1055 West Georgia Street  
+Vancouver, BC V6E 4N7
+
+ _**Neither the Canadian Securities Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this news release.**_
+
+**Cautionary Statement Regarding "Forward-Looking" Information**
+
+ _This news release includes certain statements that may be deemed "forward-looking statements." All statements in this new release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words "expects", "plans", "anticipates", "believes", "intends", "estimates", "projects", "potential" and similar expressions, or that events or conditions "will", "would", "may", "could" or "should" occur. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward-looking statements. Factors that could cause the actual results to differ materially from those in forward-looking statements include market prices, continued availability of capital and financing, and general economic, market or business conditions. Investors are cautioned that any such statements are not guarantees of future performance and actual results or developments may differ materially from those projected in the forward-looking statements. Forward-looking statements are based on the beliefs, estimates and opinions of the Company's management on the date the statements are made. Except as required by applicable securities laws, the Company undertakes no obligation to update these forward-looking statements in the event that management's beliefs, estimates or opinions, or other factors, should change._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/225366](https://api.newsfilecorp.com/redirect/yEYgBS53zK)
+
+### Project Name
+
+[Beacon Mill Project](/?gid=6423)  
+Québec, Canada
+
+[Project Summary](https://app.mininghub.com?gid=6423&modal=project_summary)[Company Profile](https://app.mininghub.com/company/lafleur-minerals-inc/2446)[All Projects](https://app.mininghub.com/company/lafleur-minerals-inc/2446)
+
+### Other Company News
+
+6/26/2025 [LaFleur Minerals Inc. (CSE:LFLR) (OTCQB:LFLRF) Location, Mill Creates Strategic Advantage in Ongoing Gold Rally](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-inc-cse-lflr-otcqb-lflrf-location-mill-creates-strategic-advantage-in-ongoing-gold-rally-109462)
+
+6/24/2025 [LaFleur Minerals Inc. (CSE:LFLR) (OTCQB:LFLRF) Stands Out in Prolific Canadian Gold-Producing Region](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-inc-cse-lflr-otcqb-lflrf-stands-out-in-prolific-canadian-gold-producing-region-109107)
+
+6/23/2025 [LaFleur Minerals Advancing Restart of Beacon Gold Mill and Bulk Sample for Swanson Gold Project](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-advancing-restart-of-beacon-gold-mill-and-bulk-sample-for-swanson-gold-project-108947)
+
+6/4/2025 [LaFleur Minerals Provides Swanson Gold Deposit and Beacon Mill Restart Update to Produce Gold and Announces Investor Call on June 5](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-provides-swanson-gold-deposit-and-beacon-mill-restart-update-to-produce-gold-and-announces-investor-call-on-june-5-106932)
+
+5/1/2025 [LaFleur Minerals Begins Permitting Process for a Bulk Sample from the Swanson Deposit to be Processed at its Beacon Gold Mill](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-begins-permitting-process-for-a-bulk-sample-from-the-swanson-deposit-to-be-processed-at-its-beacon-gold-mill-103089)
+
+3/27/2025 [LaFleur Minerals Announces Memorandum of Understanding with Granada Gold on Milling Assessment for the Granada Gold Project Using the Beacon Gold Mill](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-announces-memorandum-of-understanding-with-granada-gold-on-milling-assessment-for-the-granada-gold-project-using-the-beacon-gold-mill-92700)
+
+3/21/2025 [LaFleur Minerals Provides Update on Beacon Mill Restart, Results of Annual General and Special Meeting, and Swanson Gold Deposit Exploration and Drilling Updates](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-provides-update-on-beacon-mill-restart-results-of-annual-general-and-special-meeting-and-swanson-gold-deposit-exploration-and-drilling-updates-92087)
+
+3/3/2025 [RETRANSMISSION: LaFleur Minerals to Restart Gold Milling at Beacon Gold Mill in Val-d'Or, Québec](/article/lafleur-minerals-inc/cnx-lflr/-/retransmission-lafleur-minerals-to-restart-gold-milling-at-beacon-gold-mill-in-val-dor-quebec-89886)
+
+3/1/2025 [LaFleur Minerals to Restart Gold Milling at Beacon Gold Mill in Val-d'Or, Québec](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-to-restart-gold-milling-at-beacon-gold-mill-in-val-dor-quebec-89693)
+
+2/28/2025 [LaFleur Minerals Provides Supplemental Disclosure Related to BullRun Option Agreement ](/article/lafleur-minerals-inc/cnx-lflr/-/lafleur-minerals-provides-supplemental-disclosure-related-to-bullrun-option-agreement-89620)
+
+--- Detailed Quote ---
+
+Last: 0.475            $  Chg: 0.02
+Open: 0.47            High: 0.48
+Bid: 0.43             Bid Size: 500
+Beta: -0.64682            Year High: 0.52
+Market Cap: 30.16m      PB Ratio: 5.77
+EPS: -0.26             Average Volume (30 Day): 241.60k
+Volume: 73.27k          % Chg: 4.40%
+Prev. Close: 0.455     Low: 0.45
+Ask: 0.50             Ask Size: 2500
+VWAP: 0.47027            Year Low: 0.115
+Total Shares: 63.50m    Shares Out: 63.50m
+Float: 32.85m           Exchange: CSE

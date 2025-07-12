@@ -1,0 +1,67 @@
+--- Article Metadata ---
+Project Name: Arlington
+Company Name: Origen Resources Inc.
+Exchange: CSE
+Ticker: ORGN
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.13.2024, 5:57:00 AM
+
+# Origen Options Arlington Project to Equity Metals
+
+Vancouver, British Columbia--(Newsfile Corp. - November 12, 2024) - **Origen Resources Inc.  (CSE: ORGN) (FSE: 4VXA) (the "Company" or "Origen")** is pleased to announce that it signed a letter agreement **("Agreement")** with **Equity Metals Corporation (TSXV: EQTY) ("Equity")** to earn a 100% interest in the Arlington Property ("Arlington"), located within the Boundary District of south-central British Columbia.
+
+The Arlington Agreement provides that Equity may earn a 100% interest in the Arlington Property by meeting the following obligations to Origen, all by the first anniversary of Regulatory Approval:
+
+  * Making cash payments totaling $130,000 ($30,000 of which is reimbursement for the Bond posted in regards to the current drill permit to be assigned to Equity);
+
+  * Incurring exploration expenditures of $250,000; and
+
+  * Issuing shares valued at $200,000 within 7 days of Regulatory Approval; and issuing additional shares valued at $200,000, or 2 million shares, whichever is greater, by the first anniversary of Regulatory Approval.
+
+
+
+
+As a part of the agreement, Origen will also retain a 2% net smelter royalty of which Equity may purchase 1% of such royalty at any time for $1,000,000.
+
+**Termination of Option Agreement**
+
+Origen and Nickelex Resource Corporation (TSXV: NICK) mutually agreed to terminate the Arlington Property option agreement that was originally entered into on April 19th 2024\. 
+
+Thomas Hawkins, P.Geo. (#39892), a Qualified Person as that term is defined in NI 43-101 has prepared, supervised the preparation or approved the scientific and technical disclosure in the news release.
+
+On behalf of Origen,   
+Thomas Hawkins  
+Managing Director
+
+For further information, please contact Gary Schellenberg, Chief Executive Officer, at 604-681-0221.
+
+_**Neither the Canadian Securities Exchange nor its Regulation Services Provider (as that term is defined in the policies of the Canadian Securities Exchange) accepts responsibility for the adequacy or accuracy of this press release.**_
+
+_Certain of the statements made and information contained herein may constitute "forward-looking information." In particular references to the exercise of the option to acquire a 100% interest in the Arlington Property, Exchange acceptance of the Arlington Agreement, and future exploration plans and expenditures on the Arlington Project. Forward-looking statements address future events and conditions and therefore involve inherent risks and uncertainties. Actual results may differ materially from those currently anticipated in such statements. Factors that could cause actual results to differ materially from those in forward-looking statements include the timing and receipt of government and regulatory approvals, and continued availability of capital and financing and general economic, market or business conditions. Accordingly, readers are advised not to place undue reliance on forward-looking information. Except as required under applicable securities legislation, the Company undertakes no obligation to publicly update or revise forward-looking information, whether as a result of new information, future events or otherwise._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/229719](https://api.newsfilecorp.com/redirect/R70mQixMLm)
+
+### Project Name
+
+[Arlington Project](/?gid=420)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.065                       Open: 0.065
+High: 0.065                       Bid: 0.065
+Bid Size: 2000                   Beta: 0.98112
+Year High: 0.08                  Market Cap: 2.95m
+PB Ratio: 0.79                   EPS: -0.07
+Average Volume (30 Day): 36.44k    Volume: 8,055
+Prev. Close: 0.065                Low: 0.065
+Ask: 0.07                        Ask Size: 5000
+VWAP: 0.065                       Year Low: 0.04
+Total Shares: 45.45m               Shares Out: 45.45m
+Float: 34.16m                      Exchange: CSE

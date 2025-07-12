@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Milner Lake/48095.txt",
+    "canada_projects/Milner Lake/67766.txt",
+    "canada_projects/Milner Lake/67767.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Milner Lake",
+      "justification": "The project is identified in the headlines and body of the text, for example: 'Searchlight Resources Stakes Milner Lake Uranium Project in Saskatchewan' and 'Option of Milner claim to Refined Energy...'"
+    },
+    "company_name": {
+      "value": "Refined Energy Corp.",
+      "justification": "Refined Energy Corp. is identified as the acquiring party (the 'Company') in the option agreement: 'Refined Energy Corp.(CSE: RUU; OTC: RFMCF; FRA: CWA0) (the “Company”) is pleased to announce that it has entered into option agreements... pursuant to which the Company has been granted the right, at its option, to acquire up to a 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Mark Fields",
+      "justification": "The text identifies the CEO of the acquiring company, Refined Energy Corp.: 'Mark Fields, Chief Executive Officer of the Company stated, “We are excited to add the Basin and Milner properties to our project portfolio.”'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement grants Refined Energy the option to acquire 'up to a 100% interest in each of the Basin and Milner Properties'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is consistently described as a uranium project, for example: 'Searchlight Resources Stakes Milner Lake Uranium Project in Saskatchewan' and 'Option of Milner claim to Refined Energy...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/219101",
+      "justification": "This article, titled 'Searchlight Resources and Refined Energy Enter into Option Agreements for the Basin and Milner Uranium Properties in Saskatchewan', directly details the M&A transaction for the Milner Lake project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments and exploration commitments are specified in Canadian dollars, for example: 'CA$45,000 to the Vendor' and 'CA$150,000 in exploration expenditures'."
+    },
+    "cash_payments_raw": {
+      "value": 45000,
+      "justification": "The total cash consideration for the Milner Property is specified in a summary of the deal terms: 'Option of Milner claim to Refined Energy for $45,000 cash, 100,000 shares and $150,000 work commitment.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes a specific number of shares, not an explicit cash value for the shares. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are detailed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 100000,
+      "justification": "The option agreement requires Refined Energy to issue 100,000 shares for the Milner Property: 'Option of Milner claim to Refined Energy for $45,000 cash, 100,000 shares and $150,000 work commitment.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments for options, other than the consideration for the property option itself."
+    },
+    "issued_share_price": {
+      "value": 0.305,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price for the buyer (Refined Energy Corp., CSE:RUU) as a fallback, as seen in its detailed quote: 'Last: 0.305'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 150000,
+      "justification": "The agreement includes a work commitment of $150,000 for the Milner Property: 'Option of Milner claim to Refined Energy for $45,000 cash, 100,000 shares and $150,000 work commitment.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Upon exercising the option, a 2% NSR is granted to the vendor, Searchlight Resources. 'If the Option with respect to either the Milner Property or the Basin Property is exercised, a 2% net smelter returns royalty on such property will be granted to the Vendor...'"
+    },
+    "coverage_area_raw": {
+      "value": 446.7,
+      "justification": "The initial staking announcement for the project specifies the area: 'Searchlight has staked a 446.7 hectare claim located 5 km west of Missinipe and Highway 102.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified in the text: 'Searchlight has staked a 446.7 hectare claim...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical grab and channel sample assay results (e.g., 'assays ranging from 0.003% to 0.500% U3O8'), but does not contain a quantified statement of mineral resources with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RUU",
+      "justification": "The buyer, Refined Energy Corp., is identified with its tickers in the press release: 'Refined Energy Corp. (CSE: RUU; OTC: RFMCF; FRA: CWA0)'."
+    }
+  }
+}

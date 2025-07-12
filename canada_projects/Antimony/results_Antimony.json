@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Antimony/84363.txt",
+    "canada_projects/Antimony/87452.txt",
+    "canada_projects/Antimony/87769.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": null,
+      "justification": "The provided documents do not mention a project associated with the authoritative company, Quantum Critical Metals Corp. They discuss antimony projects acquired by Durango Resources Inc. and Decade Resources Ltd."
+    },
+    "company_name": {
+      "value": null,
+      "justification": "The authoritative company, Quantum Critical Metals Corp., is not mentioned in the provided texts. The companies discussed are Durango Resources Inc. and Decade Resources Ltd."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The documents do not contain information about the CEO of the authoritative company, Quantum Critical Metals Corp. The CEOs mentioned, Marcy Kiesman and Ed Kruchkowski, are associated with Durango Resources and Decade Resources, respectively."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a project owned by the authoritative company, Quantum Critical Metals Corp."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided documents are not about the specified project or company. They detail acquisitions by 'Durango Resources Inc.' and 'Decade Resources Ltd.', not the authoritative company 'Quantum Critical Metals Corp.'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a transaction involving the authoritative company, Quantum Critical Metals Corp."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a project owned by the authoritative company, Quantum Critical Metals Corp."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a project owned by the authoritative company, Quantum Critical Metals Corp."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided documents do not contain information about a project owned by the authoritative company, Quantum Critical Metals Corp."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The provided documents do not contain information about the ticker or exchange for the authoritative company, Quantum Critical Metals Corp."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/TJ Ridge/29041.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "TJ RIDGE",
+      "justification": "The authoritative project name is TJ RIDGE. The article refers to the project as the 'TJ Property' in the sentence: 'Fabled Copper Corp. (\"Fabled Copper\" or the \"Company\") (CSE:FABL)(FSE:XZ7) is pleased to announce that it has entered into letter of intent dated December 16, 2022 (the \"LOI\") to acquire the \"TJ Property\" (the \"Property\").'"
+    },
+    "company_name": {
+      "value": "Fabled Copper Corp.",
+      "justification": "The acquiring company is identified as 'Fabled Copper Corp. (\"Fabled Copper\" or the \"Company\") (CSE:FABL)(FSE:XZ7) is pleased to announce that it has entered into letter of intent...'"
+    },
+    "ceo_buyer": {
+      "value": "Peter J. Hawley",
+      "justification": "The CEO of the buyer is identified in the text as 'Mr. Peter J. Hawley, President and C.E.O.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is to 'acquire the \"TJ Property\"', which implies a 100% interest."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the project as having 'a gold, silver and base metal target' and notes 'high grade gold and silver mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/732318/Fabled-Copper-Enters-into-Letter-of-Intent-to-Acquire-TJ-Property-and-Proposes-Potential-Share-Consolidation",
+      "justification": "The article title 'Fabled Copper Enters into Letter of Intent to Acquire TJ Property...' directly relates to the acquisition of the TJ Ridge project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Payments are denoted with '$'. The company is listed on the Canadian Securities Exchange, as stated: '...as traded on the Canadian Securities Exchange...'. This context implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 70000,
+      "justification": "The total cash payment is the sum of two tranches: '1. $20,000 in cash to the Vendor on the date of execution of the Definitive Agreement (the \"Effective Date\"); 2. $50,000 in cash to the Vendor to twelve (12) months after the Effective Date'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A share payment is mentioned, but its value is contingent on a future third-party valuation, so no raw value can be extracted: 'a final payment... in common shares of Fabled, having a cash value equal to the value of the Property at such date, as determined by a third party valuator'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed as separate components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified and is dependent on a future valuation and the volume-weighted average price at that time."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not specified; it will be based on the '20 day Weighted Average Volume Price' at a future date."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 100000,
+      "justification": "The company must 'incur not less than $100,000 in exploration expenses on the Property prior to the date that is twenty four (24) months from the Effective Date'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The vendor will be granted a royalty as part of the deal: 'Fabled will also grant the Vendor, or their nominee, a 2% NSR royalty over the Property'."
+    },
+    "coverage_area_raw": {
+      "value": 3176,
+      "justification": "The TJ Property... consists of 6 contiguous mineral tenures covering an area of 3,176 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The TJ Property... consists of 6 contiguous mineral tenures covering an area of 3,176 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes geochemical anomalies and sample results but does not provide a quantified mineral resource estimate (e.g., in tonnes or ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FABL",
+      "justification": "The company's stock ticker and exchange are provided in the first paragraph: 'Fabled Copper Corp. (\"Fabled Copper\" or the \"Company\") (CSE:FABL)(FSE:XZ7)'."
+    }
+  }
+}

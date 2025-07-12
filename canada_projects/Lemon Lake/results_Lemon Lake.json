@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lemon Lake/31703.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lemon Lake",
+      "justification": "The article is titled 'Acme Stakes Old Fort Property, Terminates Lemon Lake Option...' and refers to the property as 'the Lemon Lake Property'."
+    },
+    "company_name": {
+      "value": "Acme Gold Company Limited",
+      "justification": "The company that held and terminated the option is identified as 'Acme Gold Company Limited (CSE:AGE) (“Acme” or the “Company”)'. The text states 'On February 18, 2021 the Company entered into a mineral property option agreement...to acquire the Lemon Lake Property'."
+    },
+    "ceo_buyer": {
+      "value": "Don Crossley",
+      "justification": "The release is signed 'On behalf of Acme Gold Company Limited, Don Crossley, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "No interest was acquired. The article announces the termination of the option agreement. 'Acme decided that further exploration activity and expenditures on the Lemon Lake Property was not warranted, and the Option should be terminated.'"
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text does not specify the primary commodity for the Lemon Lake project. It mentions 'precious and base metal' as a general focus for the company and 'porphyry copper gold' for a different property (Old Fort)."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The text mentions a past cash payment was made under the original option agreement but does not specify the currency. No new transaction is occurring."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article announces the termination of an option agreement. While it mentions a past cash payment was made, its value is not stated, and no new payments are part of the termination transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments are mentioned in relation to the Lemon Lake option or its termination."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment value is mentioned for the Lemon Lake option or its termination."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the option termination."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions past exploration work was performed but does not quantify it in meters, and the option is now terminated, so there are no ongoing commitments."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions past exploration work was performed but does not quantify its value, and the option is now terminated, so there are no ongoing commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a 1% NSR, but this was granted on the 'Old Fort Property', not the Lemon Lake project. 'Acme has granted a 1% Net Smelter Return Royalty (“NSR”) on the Property to Alianza.' where 'Property' refers to Old Fort."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a coverage area of 3,314 hectares, but this is for the 'Old Fort Property', not the Lemon Lake project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions a coverage area of 3,314 hectares, but this is for the 'Old Fort Property', not the Lemon Lake project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified statement of mineral resources for the Lemon Lake project. It only states that after reviewing exploration results, further work was not warranted."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:AGE",
+      "justification": "The company terminating the option on the Lemon Lake project is explicitly identified in the text as 'Acme Gold Company Limited (CSE:AGE)'."
+    }
+  }
+}

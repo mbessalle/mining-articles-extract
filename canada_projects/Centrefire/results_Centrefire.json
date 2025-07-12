@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Centrefire/42648.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Centrefire",
+      "justification": "The article is titled \"Cascade Copper Signs Option Agreement on Centrefire Copper-Gold Project\" and refers to the project as \"the Centrefire copper and gold project (the “Project”).\""
+    },
+    "company_name": {
+      "value": "Cascade Copper Corp.",
+      "justification": "The acquiring company is identified as \"Cascade Copper Corp. (CSE:CASC) (“Cascade” or the “Corporation”)\"."
+    },
+    "ceo_buyer": {
+      "value": "Jeff Ackert",
+      "justification": "The text states: \"Jeff Ackert, President and CEO of Cascade Copper comments...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states that Cascade Copper Corp. \"has signed an option agreement to acquire 100% of the Centrefire copper and gold project\"."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as the \"Centrefire copper and gold project\" and a \"Copper dominant project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no verifiable article link is present in the source material."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Cascade Copper Corp., is based in Calgary, Alberta, the project is in Ontario, Canada, and the company is listed on the Canadian Securities Exchange (CSE). The payments are denoted with a '$' symbol, which implies Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 55000,
+      "justification": "The total cash payment is the sum of four tranches: $10,000, $10,000, $15,000, and $20,000. The text specifies these as: \"$10,000 in cash...$10,000 in cash...$15,000 in cash...$20,000 in cash\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued, but not their monetary value. Therefore, this field is null as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 325000,
+      "justification": "The total number of shares is the sum of four tranches: 75,000, 75,000, 75,000, and 100,000. The text specifies these as: \"75,000 shares...75,000 shares...75,000 shares...100,000 shares\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the option agreement terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an option agreement, there are no separate payments specified as 'option payments' beyond the cash and share considerations."
+    },
+    "issued_share_price": {
+      "value": 0.035,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.035'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of a drilling commitment in meters in the option agreement details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The option agreement details do not include a specific exploration expenditure commitment. The text mentions applying for a grant, but this is not a commitment from the company's funds as part of the deal."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement states: \"The vendor will retain a 2% NSR whereby the company may purchase 1% for $1,000,000 in the event of commercial production.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The total area of the project is not mentioned in the provided text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The total area of the project is not mentioned in the provided text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historic work, drilling, and sampling values (e.g., \"up to 1.9% Cu and 23.9 g/t Au1\"), but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CASC",
+      "justification": "The buyer is identified in the text as \"Cascade Copper Corp. (CSE:CASC)\"."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mel/35237.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mel",
+      "justification": "The article title is 'CanAlaska Completes Acquisition of Mel Nickel Deposit in Thompson Nickel Belt, Manitoba' and the project is also referred to as the 'Mel Project' in the body of the text."
+    },
+    "company_name": {
+      "value": "CanAlaska Uranium Ltd.",
+      "justification": "The acquiring company is identified in the first paragraph: 'CanAlaska Uranium Ltd. (TSXV: CVV) (OTCQX: CVVUF) (FSE: DH7N) (\"CanAlaska or the \"Company\") is pleased to announce that it has now completed the acquisition of the Mel nickel deposit...'"
+    },
+    "ceo_buyer": {
+      "value": "Cory Belyk",
+      "justification": "The CEO of the acquiring company, CanAlaska, is identified in the text: 'On behalf of the Board of Directors \"Cory Belyk\" Cory Belyk, P.Geo., FGC CEO, Executive Vice President and Director CanAlaska Uranium Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that CanAlaska has 'completed the acquisition of the Mel nickel deposit', which implies a 100% interest."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is explicitly referred to as a nickel deposit in the title and body of the text: 'CanAlaska Completes Acquisition of Mel Nickel Deposit' and 'Completion of this transaction gives CanAlaska and its shareholders a concrete and tangible NI43-101 compliant high-grade sulphide nickel resource...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/166105",
+      "justification": "The article is directly about the acquisition of the Mel project by CanAlaska Uranium Ltd. The source link is provided at the bottom of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company's primary listing is on the TSX Venture Exchange (TSXV), a Canadian exchange, and the stock quote is listed with a '$' symbol, implying Canadian Dollars (CAD). 'Exchange: TSXV'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction details only mention share payments. No cash consideration is mentioned in the 'Transaction' section."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, when the number of shares and a price per share are available, those fields are populated instead of a calculated total share value. The transaction was for 2,000,000 shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not provide a single combined value for the transaction; it specifies the number of shares issued."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The 'Transaction' section states: 'As part of the purchase price, the Company issued 2,000,000 shares to the vendor.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.8,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.80'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions CanAlaska's total land holdings in the Athabasca Basin ('approximately 300,000 hectares'), but does not provide a specific area for the Mel project, which is in Manitoba."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not specified, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'a concrete and tangible NI43-101 compliant high-grade sulphide nickel resource' but does not provide any specific quantification (e.g., tonnes, ounces, pounds) for this resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CVV",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'CanAlaska Uranium Ltd. (TSXV: CVV)'."
+    }
+  }
+}

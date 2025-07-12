@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Scattergood Lake/54932.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Scattergood Lake",
+      "justification": "The authoritative metadata specifies 'Scattergood Lake'. The text also refers to the project as 'Scattergood project' and the area contains the 'Scattergood Lake stock'. The detailed quote section explicitly names the 'Scattergood Lake Project'."
+    },
+    "company_name": {
+      "value": "Heritage Mining Ltd.",
+      "justification": "The buying company is identified in the first paragraph: 'Heritage Mining Ltd. (CSE: HML FRA:Y66) (“Heritage” or the “Company”) is pleased to announce the consolidation of a new land position...'"
+    },
+    "ceo_buyer": {
+      "value": "Peter Schloo",
+      "justification": "The CEO of the buyer, Heritage Mining, is identified in the text: 'Commented Peter Schloo, President, CEO and Director of Heritage.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is described as a 'consolidation of a new land position' through 'two asset acquisition agreements'. This implies the acquisition of 100% of the specified mineral claims."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text highlights 'Discovery potential for Au, Cu, Ni, Zn, PGE' and notes the project is 'along strike of Dynasty Gold’s Thundercloud – Pelham Deposit totaling (260,000 oz Au NI 43-101 Resource)', indicating gold (Au) is a primary target."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release about the Scattergood Lake project, which is the project of interest. However, no web link (URL) for the article is present in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denominated in Canadian dollars, as indicated by the 'C$' prefix in the agreement summaries: 'Heritage agreed to issue C$100,000 in common shares to Shear Gold...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the 'Asset Purchase Agreements Summary' only mention payments in common shares, with no cash component for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": 200000,
+      "justification": "The total share consideration is the sum of two separate agreements: C$100,000 to Shear Gold ('issue C$100,000 in common shares to Shear Gold') and C$100,000 to PTX Metals ('C$100,000 in common shares over an 18 month period')."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The value of share payments is explicitly stated, so this field is null as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition agreements specify the value of the shares to be issued (C$200,000 total), but not the number of shares. A separate corporate update mentions issuing shares for other obligations, but not for this specific acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the consideration in the asset purchase agreements."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the consideration in the asset purchase agreements."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued for the acquisition is not specified, therefore the price per share for the transaction cannot be determined from the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states there is no spending commitment: 'the structure of the transaction is favorable to current market conditions as there is no minimum spend requirements'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The total NSR granted as part of the transaction is 2.5%, which is the sum of the 1.5% NSR granted to Shear Gold ('grant of a 1.5% NSR') and the 1.0% NSR granted to PTX Metals ('grant of a 1.0% NSR') for their respective land packages."
+    },
+    "coverage_area_raw": {
+      "value": 6397,
+      "justification": "The total consolidated land position is stated in the first paragraph: 'Heritage Mining Ltd. ... is pleased to announce the consolidation of a new land position within the Western Wabigoon totaling ~6,397 Ha...'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the area is specified as 'Ha' (hectares): '...totaling ~6,397 Ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a resource estimate for the Scattergood project itself. The only resource mentioned belongs to a neighboring project: 'Dynasty Gold’s Thundercloud – Pelham Deposit totaling (260,000 oz Au NI 43-101 Resource)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HML",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'Heritage Mining Ltd. (CSE: HML FRA:Y66)'."
+    }
+  }
+}

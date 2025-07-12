@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Matapedia/63156.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Matapedia",
+      "justification": "The article announces the acquisition of three projects, including the Matapedia project: 'Argyle Resources Corp. Acquires Silica Project in Quebec... is thrilled to announce the acquisition of the Matapedia, Lac Comporte and Pilgrim Island Quartzite Silica projects located in Québec (the \"Property\").'"
+    },
+    "company_name": {
+      "value": "Argyle Resources Corp.",
+      "justification": "The acquiring company is identified in the headline and opening sentence: 'Argyle Resources Corp. (CSE: ARGL) (\"Argyle\" or the \"Company\") is thrilled to announce the acquisition of the Matapedia, Lac Comporte and Pilgrim Island Quartzite Silica projects...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeffrey Stevens",
+      "justification": "The CEO is identified in a comment and in the signature block: 'ON BEHALF OF THE BOARD OF DIRECTORS __'Jeffrey Stevens'__ President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the property package: 'The Company acquired a 100% interest in the Property from Charlevoix Silica Inc.'"
+    },
+    "primary_commodity": {
+      "value": "Silica",
+      "justification": "The project is explicitly identified as a silica project: 'Argyle Resources Corp. Acquires Silica Project in Quebec' and 'The Matapedia silica property includes 16 cells...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/213879",
+      "justification": "The article directly reports on the acquisition of the Matapedia project by Argyle Resources Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified in the consideration terms: 'for consideration of $150,000CAD...'"
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The project's share is $50,000, calculated as one-third of the total $150,000 CAD cash consideration for three projects (Matapedia, Lac Comporte, and Pilgrim Island) as stated in: 'for consideration of $150,000CAD and the issuance of 750,000 common shares of Argyle.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the shares is not provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 250000,
+      "justification": "The project's share is 250,000 shares, calculated as one-third of the total 750,000 shares issued for three projects (Matapedia, Lac Comporte, and Pilgrim Island) as stated in: 'and the issuance of 750,000 common shares of Argyle.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.445,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.445'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "While an exploration campaign is planned ('Argyle will execute an exploration campaign...'), no specific monetary commitment value is stated in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 912.8,
+      "justification": "The area specific to the Matapedia project is stated: 'The Matapedia silica property covers an area of 912.8 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the area is provided in the same sentence: 'The Matapedia silica property covers an area of 912.8 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified mineral resource estimate for the project. It states that the company will 'evaluate the mineral potential of the above-mentioned properties', indicating a resource has not yet been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ARGL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Argyle Resources Corp. (CSE: ARGL)'"
+    }
+  }
+}

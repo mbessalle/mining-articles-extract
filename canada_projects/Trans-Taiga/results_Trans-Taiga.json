@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Trans-Taiga/38428.txt",
+    "canada_projects/Trans-Taiga/40139.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Trans-Taiga",
+      "justification": "The text states: \"Lancaster Resources Inc. Expands Lithium Exploration to Quebec's James Bay with Trans-Taiga Acquisition\" and refers to the asset as the \"Trans-Taiga Lithium Project\"."
+    },
+    "company_name": {
+      "value": "Lancaster Resources Inc.",
+      "justification": "The buyer is identified in the first sentence: \"Lancaster Resources Inc. (CSE: LCR) ... is pleased to announce entry into a binding Letter of Intent on July 23, 2023 (the 'Agreement') to acquire 100% of the Trans-Taiga Lithium Project\"."
+    },
+    "ceo_buyer": {
+      "value": "Penny White",
+      "justification": "The press release is signed by \"Penny White, President & Chief Executive Officer, Lancaster Resources Inc.\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Lancaster to \"acquire 100% of the Trans-Taiga Lithium Project\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as the \"Trans-Taiga Lithium Project\" and the acquisition is for \"Lithium Exploration\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/174734",
+      "justification": "The article is titled \"Lancaster Resources Inc. Expands Lithium Exploration to Quebec's James Bay with Trans-Taiga Acquisition\" and the content is entirely about this transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Lancaster Resources Inc., is listed on the Canadian Securities Exchange (CSE: LCR), and the detailed quote section specifies a dividend in CAD, implying Canadian Dollars are the transaction currency."
+    },
+    "cash_payments_raw": {
+      "value": 1138000,
+      "justification": "The total cash component is an aggregate of the initial $10,000 cash payment, three anniversary payments of $26,000 each, a $50,000 milestone payment, and a $1,000,000 milestone payment. Text states: '$10,000 in cash', '$26,000 due on the first anniversary date', '$26,000 due on the second anniversary date', '$26,000 due on the third anniversary date', '$50,000 fee if exploration results yield...', and '$1,000,000 if Lancaster publishes a 43-101 technical report...'."
+    },
+    "share_payments_raw": {
+      "value": 27000,
+      "justification": "The initial payment includes shares valued at $27,000 as stated: \"$10,000 cash plus $27,000 via the issuance of 135,000 common shares in Lancaster's stock at a deemed price of $0.20 per share\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per financial hierarchy rules, this field is null because explicit cash and share payment values are available and populated in `cash_payments_raw` and `share_payments_raw`."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per financial hierarchy rules, this field is null because `share_payments_raw` is populated."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is an option agreement, but no payments are made in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per financial hierarchy rules, this field is null because `share_payments_raw` is populated."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes a \"Planned Work Program\" but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes a \"Planned Work Program\" but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement includes a royalty retained by the seller: \"The agreement includes a 2% net smelter returns royalty, of which 1% can be bought back by the Optionors for $1,000,000\"."
+    },
+    "coverage_area_raw": {
+      "value": 1432,
+      "justification": "The text states: \"The Property covers 1,432 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Property covers 1,432 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Trans-Taiga project. It mentions resources on adjacent properties and includes a milestone payment for a future resource report, which implies no current resource exists: \"$1,000,000 if Lancaster publishes a 43-101 technical report for a resource of not less than 5 million tons\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LCR",
+      "justification": "The buyer is identified in the text as \"Lancaster Resources Inc. (CSE: LCR)\"."
+    }
+  }
+}

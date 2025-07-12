@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Howells Lake/83873.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Howells Lake",
+      "justification": "The text refers to the project as 'the Howells Lake Project' and 'The Howells Lake Antimony Gold Project (“Howells Lake Project”).'"
+    },
+    "company_name": {
+      "value": "Critical One Energy Inc.",
+      "justification": "The acquiring company is identified as 'Critical One Energy Inc. (formerly Madison Metals Inc.) (“Critical One”, or the “Company”) (CSE: CRTL)'."
+    },
+    "ceo_buyer": {
+      "value": "Duane Parnham",
+      "justification": "The contact information section lists 'Duane Parnham' as 'Executive Chairman & CEO' of 'Critical One Energy Inc.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company entered into agreements 'to acquire 100% interest in a large, belt-scale antimony-gold project...'"
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The project is named the 'Howells Lake Antimony Gold Project'. The company's portfolio is 'led by antimony in Canada'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies cash payments in Canadian dollars, for example: 'an initial cash payment of CDN$25,000'."
+    },
+    "cash_payments_raw": {
+      "value": 1125000,
+      "justification": "The total cash payment is an aggregation of three components: an initial CDN$25,000 to Bounty Gold, a CDN$100,000 payment to the Vendor Group for exploration, and a future CDN$1,000,000 payment to the Vendor Group upon delivery of a resource estimate. (25,000 + 100,000 + 1,000,000 = 1,125,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described in terms of the number of shares to be issued, not a total monetary value of the shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and the number of shares, not a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 4625000,
+      "justification": "The total number of shares is the sum of all issuances: 125,000 to Bounty Gold, plus three tranches to the Vendor Group of 2,000,000, 1,500,000, and 1,000,000 shares. (125,000 + 2,000,000 + 1,500,000 + 1,000,000 = 4,625,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.5,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.50'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 100000,
+      "justification": "A cash payment is designated for exploration purposes: 'The Vendor Group will also be paid a cash payment of CDN$100,000 on or before January 15, 2025, to be used for initial exploration work, permits, mobilization studies, and geological studies...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, Critical One granted NSRs to the sellers. For example, 'Bounty Gold will also be granted a 2% net smelter return (“NSR”)...' and 'Critical One has granted the Vendor Group a 2% NSR...'"
+    },
+    "coverage_area_raw": {
+      "value": 13990.9,
+      "justification": "The text states the project is 'covering 13,990.90 hectares over 697 claims.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the project is 'covering 13,990.90 hectares over 697 claims.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text implies no current resource exists by making a future payment conditional on its definition: 'Upon delivery of a National Instrument (NI) 43-101 technical report that includes NI 43-101 mineral resources on their respective properties and initial compliant resource estimate, Critical One will pay to the Vendor Group an additional case payment of CDN$1 million.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRTL",
+      "justification": "The buyer is identified in the first paragraph as 'Critical One Energy Inc. ... (CSE: CRTL)'."
+    }
+  }
+}

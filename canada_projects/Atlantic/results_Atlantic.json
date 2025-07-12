@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Atlantic/48735.txt",
+    "canada_projects/Atlantic/49106.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atlantic Uranium Project",
+      "justification": "The definitive agreement is for Atco to acquire up to a 75% interest in Standard’s Atlantic Uranium Project (the “Project”) located in the Eastern Athabasca Basin of northern Saskatchewan."
+    },
+    "company_name": {
+      "value": "Atco Mining Inc.",
+      "justification": "Atco Mining Inc. (the “Company” or “Atco”) (CSE:ATCM) (OTC:ATMGF) (Frankfurt:QP9) is pleased to announce that it has signed a definitive option agreement..."
+    },
+    "ceo_buyer": {
+      "value": "Etienne Moshevich",
+      "justification": "“We are extremely excited to have signed this agreement with Standard Uranium” says Etienne Moshevich, CEO of Atco Mining."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "Pursuant to the Option Agreement, Atco has been granted the option (the “Option”) to earn a 75% interest over three years in the []()Project."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Atco Mining Intends to Acquire up to 75% Interest in the Drill Ready and Fully Permitted Atlantic Uranium Project in the Athabasca Basin..."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, the Atlantic Uranium Project, but no article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Atco Mining Inc., is listed on the Canadian Securities Exchange (CSE:ATCM) and based in Vancouver, British Columbia. The payments are listed with a '$' symbol, which is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 430000,
+      "justification": "The definitive agreement table shows a total of $430,000 in cash payments over three years. 'Totals | []()$430,000'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null because the definitive agreement specifies the number of shares to be issued (15,000,000) rather than a total dollar value for the share component."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the extraction hierarchy, this field is null because the cash and share components of the deal are listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 15000000,
+      "justification": "The definitive agreement table shows a total of 15,000,000 shares to be issued over three years. 'Totals | []()15,000,000'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of option payments in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms in the definitive agreement mention the number of shares issued (15,000,000), but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote section: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 6300000,
+      "justification": "The definitive agreement table shows a total of $6,300,000 in exploration expenditures over three years. 'Totals | []()$6,300,000'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 3061,
+      "justification": "The Project consists of 7 mineral claims totaling 3,061 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Project consists of 7 mineral claims totaling 3,061 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drill intercepts (e.g., 'up to 0.06% U3O8 over 0.5 metres') but does not provide a formal mineral resource estimate with a total mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ATCM",
+      "justification": "Atco Mining Inc. (the “Company” or “Atco”) (CSE:ATCM) (OTC:ATMGF) (Frankfurt:QP9) is pleased to announce that it has signed a definitive option agreement..."
+    }
+  }
+}

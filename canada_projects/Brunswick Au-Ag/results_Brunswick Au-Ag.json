@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Brunswick Au-Ag/31315.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Brunswick Au-Ag",
+      "justification": "The text states: \"The new acquisition, the Brunswick Au-Ag Property, with grab samples grading up to 1,300 g/t Ag and 2.42 g/t Au, adds 454 claims (10,554 ha) to Puma’s landholdings...\""
+    },
+    "company_name": {
+      "value": "Puma Exploration Inc.",
+      "justification": "The acquiring company is identified as \"Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF) (the “Company” or “Puma”)...\""
+    },
+    "ceo_buyer": {
+      "value": "Marcel Robillard",
+      "justification": "The text identifies the CEO of the buyer: \"Marcel Robillard, President and CEO, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The option agreement terms state: \"To earn a 100% undivided interest in the Brunswick Au-Ag property, Puma agrees to...\""
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The headline of the press release is \"Puma Exploration Adds Silver Exposure to Its Assets in Northern New Brunswick\", indicating silver is the primary commodity of interest in this acquisition."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but no article link was included in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted by '$' and the acquiring company, Puma Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 270000,
+      "justification": "The total cash payment is $270,000, calculated by summing the payments outlined in the agreement: a $10,000 signing payment, a $10,000 payment at the end of due diligence, a $20,000 payment by July 2024, a $25,000 payment by July 2025, a $30,000 payment by July 2026, and additional performance payments of $25,000 (PEA), $50,000 (FS), and $100,000 (commercial production)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued, not a total monetary value for the share component of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately and no combined total value is provided in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 1150000,
+      "justification": "The total shares to be issued is 1,150,000, calculated by summing the issuances outlined in the agreement: \"Issue 150,000 common shares... Issue 200,000 common shares... Issue 200,000 common shares... Issue 250,000 common shares... Issue 350,000 common shares...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the property option agreement with the seller."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The grant of 3,950,000 stock options mentioned is for \"certain Company directors, advisors, and consultants\" and is not part of the consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.075,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.075'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 80000,
+      "justification": "The agreement includes a commitment to \"Conduct $80,000 of exploration work on the property between July 1 and December 30, 2023\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms state that \"The seller will retain a 2% NSR (net smelter return) royalty on any commercial production from the property.\" Puma has an option to purchase half of this royalty."
+    },
+    "coverage_area_raw": {
+      "value": 10554,
+      "justification": "The text states: \"The new acquisition, the Brunswick Au-Ag Property... adds 454 claims (10,554 ha) to Puma’s landholdings...\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text specifies the unit for the coverage area: \"...adds 454 claims (10,554 ha) to Puma’s landholdings...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides grades from \"Initial prospection and sampling\" and \"grab samples\" but does not contain a quantified mineral resource estimate for the property. It notes, \"The property has seen very little exploration work to date\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PUMA",
+      "justification": "The company is identified in the text as \"Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF)\"."
+    }
+  }
+}

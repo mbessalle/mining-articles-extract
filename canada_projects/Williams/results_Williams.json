@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Williams/71929.txt",
+    "canada_projects/Williams/74914.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Williams",
+      "justification": "The text provides an update on the Williams project: \"...update on its recent acquisition of additional claims at the Williams property, located in BC's Golden Horseshoe...\""
+    },
+    "company_name": {
+      "value": "Omega Pacific Resources Inc.",
+      "justification": "The acquiring company is identified in the first sentence of the press releases: \"Omega Pacific Resources Inc. (CSE:OMGA) ('Omega' or the 'Company')\""
+    },
+    "ceo_buyer": {
+      "value": "Jason Leikam",
+      "justification": "The CEO of the buyer is identified in the contact information section: \"Jason Leikam, Chief Executive Officer & Director\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text describes the acquisition of specific claims, implying 100% ownership of those claims, but does not state an overall interest percentage acquired in the Williams Project itself."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly emphasizes gold as the primary target: \"These new claims significantly expand the opportunity of the GIC gold target.\" and \"We have already confirmed a robust gold system in our 2024 drill program, and we have a clear vision for the expansion of gold mineralization at GIC in upcoming programs.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/932058/omega-increases-the-gic-copper-gold-target-to-12-km-through-strategic-acquisition-and-additional-staking",
+      "justification": "This article is directly about the project of interest, as stated in its text: \"Omega Pacific Resources Inc. (CSE:OMGA)(OTCQB:OMGPF)(FSE:Q0F) ('Omega Pacific' or the 'Company') is pleased to provide an overview and update on its recent acquisition of additional claims at the Williams property...\""
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Omega Pacific Resources Inc., is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD). The exchange is mentioned in the text: \"(CSE:OMGA)\" and in the detailed quote: \"Exchange: CSE\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were mentioned for the Williams project acquisitions. A cash payment of $32,000 was mentioned for the Lekcin Property, which is a different project and is therefore excluded."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share, which are populated in their respective fields according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share, which are populated in their respective fields according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 71500,
+      "justification": "The text states a specific number of shares were issued for claims related to the project: \"the Company has issued 71,500 common shares to Steven Scott for three mineral exploration claims located in the Golden Horseshoe Area in British Columbia...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the Williams project. An option agreement for the Lekcin Property was mentioned, but this is a separate project."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the corresponding news release: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text describes multiple separate land acquisitions for the Williams project (51.716 hectares, 51.7 hectares, and 1,707 hectares) but does not provide a single, consolidated area for the transaction. Summing these values would be a calculation, which is not permitted by the rules."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "As no single coverage area value could be extracted, the unit is also null."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources with mass or volume units (e.g., tonnes, ounces) for the Williams project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:OMGA",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: \"Omega Pacific Resources Inc. (CSE:OMGA)\"."
+    }
+  }
+}

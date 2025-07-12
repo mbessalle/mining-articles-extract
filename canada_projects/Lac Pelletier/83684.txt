@@ -1,0 +1,61 @@
+--- Article Metadata ---
+Project Name: Lac Pelletier
+Company Name: Emperor Metals Inc.
+Exchange: CSE
+Ticker: AUOZ
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.10.2025, 7:30:00 AM
+
+# Emperor Metals Proposes to Acquire Surface Rights to Lac Pelletier Property, Quebec
+
+Edmonton, Alberta--(Newsfile Corp. - January 9, 2025) - **Emperor Metals Inc.  **(CSE: AUOZ) (the "**Company** " or "**Emperor Metals** ") – is pleased to announce that, further to its announcement on January 7, 2025 regarding the acquisition of the undersurface rights and interests to the Lac Pelletier Property (the "**Lac Pelletier Property** " or the "**Property** ") from Maritime Resources Corp., it has now entered into a binding agreement of purchase and sale dated January 9, 2024 (the "**Purchase and Sale Agreement** ") with a wholly owned subsidiary of Eldorado Gold Corporation ("**Eldorado Gold** ") to acquire Eldorado's surface rights to the Lac Pelletier Property. The primary consideration for the acquisition is the assumption of all the liabilities of Eldorado Gold in connection with the rehabilitation and restoration plan related to the Property, including a cash bond and a surety bond in the aggregate amount of $305,349, and the release of Eldorado Gold's financial guarantee from the Quebec Minister of Natural Resources and Forests. The closing of the Purchase and Sale Agreement is subject to certain conditions customary for transactions of this nature, including no objection from the Canadian Securities Exchange. It is expected that the transaction will close before April 15, 2025.
+
+The surface rights to the Lac Pelletier Property are comprised of 5 lots which are located approximately 4 km southwest of the city of Rouyn-Noranda, Quebec. These rights include a mining lease with a 1,000 tonnes/day mine permit.
+
+The Property is subject to a one percent (1.0%) net smelter returns royalty reserved to Metalla Royalty & Streaming Ltd. pursuant to an underlying royalty agreement. 
+
+For further details regarding the Lac Pelletier Property, please refer to the Company's press release of January 7, 2025, which is available on SEDAR+ as well as the Company's website at [www.emperormetals.com](https://api.newsfilecorp.com/redirect/PLaZ8HQK2v).
+
+**About Emperor Metals Inc.**
+
+Emperor Metals Inc. is a mineral exploration company focused mineral exploration in Canada, and on proving the potential of the Pine Grove and other early-stage gold projects located near the Hemlo Gold Mine within the western portion of the prolific Wawa-Abitibi Gold Belt of Ontario, Canada. 
+
+ON BEHALF OF THE BOARD OF DIRECTORS
+
+ _s/ "John Florek"  
+_**John Florek** ,  
+Chief Executive Officer
+
+**C AUTIONARY NOTE REGARDING FORWARD-LOOKING STATEMENTS **
+
+CERTAIN STATEMENTS MADE AND INFORMATION CONTAINED HEREIN MAY CONSTITUTE "FORWARD-LOOKING INFORMATION" AND "FORWARD-LOOKING STATEMENTS" WITHIN THE MEANING OF APPLICABLE CANADIAN AND UNITED STATES SECURITIES LEGISLATION. THESE STATEMENTS AND INFORMATION ARE BASED ON FACTS CURRENTLY AVAILABLE TO THE COMPANY AND THERE IS NO ASSURANCE THAT ACTUAL RESULTS WILL MEET MANAGEMENT'S EXPECTATIONS. FORWARD-LOOKING STATEMENTS AND INFORMATION MAY BE IDENTIFIED BY SUCH TERMS AS "ANTICIPATES", "BELIEVES", "TARGETS", "ESTIMATES", "PLANS", "EXPECTS", "MAY", "WILL", "COULD" OR "WOULD". 
+
+FORWARD-LOOKING STATEMENTS AND INFORMATION CONTAINED HEREIN ARE BASED ON CERTAIN FACTORS AND ASSUMPTIONS REGARDING, AMONG OTHER THINGS, THE ESTIMATION OF MINERAL RESOURCES AND RESERVES, THE REALIZATION OF RESOURCE AND RESERVE ESTIMATES, METAL PRICES, TAXATION, THE ESTIMATION, TIMING AND AMOUNT OF FUTURE EXPLORATION AND DEVELOPMENT, CAPITAL AND OPERATING COSTS, THE AVAILABILITY OF FINANCING, THE RECEIPT OF REGULATORY APPROVALS, ENVIRONMENTAL RISKS, TITLE DISPUTES AND OTHER MATTERS. WHILE THE COMPANY CONSIDERS ITS ASSUMPTIONS TO BE REASONABLE AS OF THE DATE HEREOF, FORWARD-LOOKING STATEMENTS AND INFORMATION ARE NOT GUARANTEES OF FUTURE PERFORMANCE AND READERS SHOULD NOT PLACE UNDUE IMPORTANCE ON SUCH STATEMENTS AS ACTUAL EVENTS AND RESULTS MAY DIFFER MATERIALLY FROM THOSE DESCRIBED HEREIN. THE COMPANY DOES NOT UNDERTAKE TO UPDATE ANY FORWARD-LOOKING STATEMENTS OR INFORMATION EXCEPT AS MAY BE REQUIRED BY APPLICABLE SECURITIES LAWS. 
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/236667](https://api.newsfilecorp.com/redirect/wWBqrCe12x)
+
+### Project Name
+
+[Lac Pelletier Project](/?gid=5280)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.20            $  Chg: 0.02
+Open: 0.185            High: 0.20
+Bid: 0.20             Bid Size: 58000
+Beta: 0.89073            Year High: 0.21
+Market Cap: 27.88m      PB Ratio: 3.07
+EPS: -0.02             Average Volume (30 Day): 204.09k
+Volume: 263.21k          % Chg: 11.11%
+Prev. Close: 0.18     Low: 0.185
+Ask: 0.20             Ask Size: 13000
+VWAP: 0.1945            Year Low: 0.065
+Total Shares: 139.42m    Shares Out: 139.42m
+Float: 94.40m           Exchange: CSE

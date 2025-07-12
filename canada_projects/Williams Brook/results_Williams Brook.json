@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Williams Brook/64548.txt",
+    "canada_projects/Williams Brook/75409.txt",
+    "canada_projects/Williams Brook/75932.txt",
+    "canada_projects/Williams Brook/76943.txt",
+    "canada_projects/Williams Brook/82865.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Williams Brook",
+      "justification": "The documents refer to the 'Williams Brook Project', which is the subject of the main option agreement with Kinross. For example: '...definitive option agreement (the “Option Agreement’) with KG Exploration (Canada) Inc., a wholly-owned subsidiary of Kinross Gold Corporation (TSX: K, NYSE: KGC) (“Kinross”) with respect to the Williams Brook, Portage and Jonpol properties (collectively, the “Williams Brook Project”)...'"
+    },
+    "company_name": {
+      "value": "Puma Exploration Inc.",
+      "justification": "The authoritative metadata provided in the prompt identifies 'Puma Exploration Inc.' as the company name for the project. The text confirms Puma is the project owner and optionor in the main transaction: 'Puma Exploration Inc. (TSXV: PUMA, OTCQB: PUMXF) (the “Company” or “Puma”) is pleased to announce the execution on October 23, 2024 of a definitive option agreement... with... Kinross Gold Corporation...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The primary transaction is an option agreement where Kinross Gold Corporation is the buyer (optionee). The CEO of Kinross Gold Corporation is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 65,
+      "justification": "Under the terms of the option agreement, Kinross can earn a 65% interest in the project. 'Under the terms of the Option Agreement, Kinross will have, subject to certain conditions, the option to earn a 65% interest in the Project...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold project. 'Puma's flagship Williams Brook Gold Project comprises four properties...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text consists of multiple articles about the Williams Brook project, but no specific single URL was provided in the prompt to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transactions are described using '$' and 'C$'. Given that Puma Exploration is a Canadian company listed on the TSXV, the currency is inferred to be Canadian Dollars (CAD). One article explicitly uses 'C$': '...a C$50,000 cash payment...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The main transaction with Kinross is structured as an exploration commitment and a private placement. Per the financial data extraction hierarchy, when the number of shares and price per share are available for a transaction component (the private placement), `amount_of_shares_issued` and `issued_share_price` are populated, and other financial fields are set to null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The main transaction with Kinross is structured as an exploration commitment and a private placement. Per the financial data extraction hierarchy, when the number of shares and price per share are available for a transaction component (the private placement), `amount_of_shares_issued` and `issued_share_price` are populated, and other financial fields are set to null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The main transaction with Kinross is structured as an exploration commitment and a private placement. Per the financial data extraction hierarchy, when the number of shares and price per share are available for a transaction component (the private placement), `amount_of_shares_issued` and `issued_share_price` are populated, and other financial fields are set to null."
+    },
+    "amount_of_shares_issued": {
+      "value": 16857891,
+      "justification": "As part of the option agreement, Kinross subscribed to a private placement of Puma shares. 'As part of the Option Agreement, Kinross has agreed to subscribe under a non-brokered private placement for 16,857,891 treasury common shares of the Company...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction terms in the provided text."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The private placement with Kinross was executed at a specific price per share. '...subscribe under a non-brokered private placement for 16,857,891 treasury common shares of the Company at a price of $0.06 per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement includes both a drilling meterage commitment (5,000 metres) and a total exploration expenditure commitment ($16,750,000). The monetary value is used as it represents the full scope of the option earn-in, making the fields mutually exclusive."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 16750000,
+      "justification": "Kinross must fund significant exploration expenditures to earn its interest in the project. 'To earn a 65% interest in the Project, Kinross will have to fund $16.75M in exploration expenditures...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "This NSR is from a consolidation transaction for the Moose Brook property, which is part of the overall Williams Brook Project. The NSR was retained by the seller. 'The owner will retain a 2% net smelter return (“NSR”) royalty on any saleable production from the property.'"
+    },
+    "coverage_area_raw": {
+      "value": 608,
+      "justification": "This value is from the specific acquisition of the Moose Brook property, which is a consolidation within the larger Williams Brook project. The overall project size is stated imprecisely as 'over 50,000 ha', so the specific transaction area is used. 'Puma Exploration Inc. ... is delighted to announce a strategic property acquisition, the “Moose Brook property.” The 28 claims (608 ha) fill a gap in the 100%-owned Williams Brook property...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the acquired area is hectares. 'The 28 claims (608 ha) fill a gap in the 100%-owned Williams Brook property...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides numerous drill intercepts (e.g., '5.50 g/t gold over 50.15 m'), but does not contain a formal mineral resource estimate with units of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:K",
+      "justification": "The buyer in the main option agreement is Kinross Gold Corporation. The text provides its ticker as '(TSX: K, NYSE: KGC)'. This overrides the authoritative ticker from the prompt, which belongs to Puma Exploration (the seller/optionor)."
+    }
+  }
+}

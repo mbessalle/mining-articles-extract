@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Joutel/89443.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Joutel",
+      "justification": "The article is titled 'Bold Ventures Adds Claims to Cover Untested Anomalies at Joutel' and states in the body: 'Bold Ventures Inc. (TSXV: BOL) (the \"Company\" or \"Bold\") announces that it has added 11 additional claims to its Joutel Property, Québec...'"
+    },
+    "company_name": {
+      "value": "Bold Ventures Inc.",
+      "justification": "The press release is from 'Bold Ventures Inc. (TSXV: BOL) (the \"Company\" or \"Bold\")'."
+    },
+    "ceo_buyer": {
+      "value": "David Graham",
+      "justification": "The text identifies 'the Company's CEO, David Graham' as being present for an upcoming conference. The company, Bold Ventures Inc., is the entity acquiring the claims."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Bold Ventures 'added 11 additional claims' but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The text does not specify a single primary commodity, but lists several potential ones for the Joutel project: 'Historical diamond drilling in this area has identified anomalous nickel, silver, copper, zinc and gold associated with geophysical anomalies.' Nickel is the first listed."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/242539",
+      "justification": "The article is titled 'Bold Ventures Adds Claims to Cover Untested Anomalies at Joutel' and is about the specified project. The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not mention any financial transactions or payments related to the acquisition of claims, so no currency can be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the addition of claims but does not mention any cash payments as consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes the addition of claims but does not mention any share payments as consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes the addition of claims but does not mention any combined cash and share payments as consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not state that any shares were issued for the acquisition of the claims."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not state that any shares were issued for the acquisition of the claims, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article states that '11 additional claims' were added but does not provide a measurement of the area in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article states that '11 additional claims' were added but does not provide a measurement of the area in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions 'untested geophysical anomalies' and historical drilling that 'identified anomalous nickel, silver, copper, zinc and gold' but does not provide a quantified mineral resource estimate for the Joutel project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BOL",
+      "justification": "The acquiring company is identified as 'Bold Ventures Inc. (TSXV: BOL)'."
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Bam _Ball Creek_/32193.txt",
+    "canada_projects/Bam _Ball Creek_/81044.txt",
+    "canada_projects/Bam _Ball Creek_/81087.txt",
+    "canada_projects/Bam _Ball Creek_/85886.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "BAM Ball Creek",
+      "justification": "The project is referred to as both the 'Ball Creek Claims' and the 'BAM Project' across the documents. The first article states 'P2 Gold Acquires Ball Creek Claims' and that these claims 'border the Company’s BAM Project'. A later article clarifies the sale of the same asset as the 'Ball Creek (BAM) Claims'."
+    },
+    "company_name": {
+      "value": "P2 Gold Inc.",
+      "justification": "The analysis focuses on the transaction where P2 Gold Inc. is the acquirer, as specified by the authoritative company metadata. The text states: 'P2 Gold Inc. (“P2” or the “Company”) (TSX-V:PGLD) (OTCQB:PGLDF) reports that it has entered into an agreement... for the acquisition of certain mineral claims (the “Ball Creek Claims”)'."
+    },
+    "ceo_buyer": {
+      "value": "Joseph Ovsenek",
+      "justification": "The buyer is P2 Gold Inc. The contact person listed for P2 Gold Inc. is 'Joseph Ovsenek President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text describes a full 'acquisition of certain mineral claims' and 'the transfer of the Ball Creek Claims', which implies 100% ownership of the acquired claims."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "A later article describing the same project states it is 'highly prospective for Cu-Au porphyry systems'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, P2 Gold, is a Canadian company listed on the TSX-V. A subsequent transaction involving the same project explicitly uses 'C$' for cash payments, indicating Canadian dollars are the standard currency for these transactions."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for P2 Gold's acquisition from Orogen was entirely in shares, with no cash component mentioned. 'Under the terms of the Agreement, in return for the transfer of the Ball Creek Claims, the Company will issue four million shares in its capital to Orogen'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is null because the number of shares and a price per share are available to populate `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was structured as a specific number of shares, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4000000,
+      "justification": "Under the terms of the Agreement, in return for the transfer of the Ball Creek Claims, the Company will issue four million shares in its capital to Orogen."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration between P2 Gold and Orogen."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration between P2 Gold and Orogen."
+    },
+    "issued_share_price": {
+      "value": 0.145,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for P2 Gold: 'Last: 0.145'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the agreement between P2 Gold and Orogen."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the agreement between P2 Gold and Orogen."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the acquisition, P2 Gold granted a royalty to the seller: 'grant Orogen a one percent net smelter returns royalty in respect of production from the Ball Creek Claims.'"
+    },
+    "coverage_area_raw": {
+      "value": 18893,
+      "justification": "A later article describing the same asset that was sold by P2 Gold specifies its size: 'The BAM Project comprises 54 claims totalling 18,893 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "A later article describing the same asset that was sold by P2 Gold specifies its size and unit: 'The BAM Project comprises 54 claims totalling 18,893 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as having 'grassroots, large-scale target areas' and mentions a future payment contingent on the 'announcement of a one-million-ounce Mineral Resource', indicating no current resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:PGLD",
+      "justification": "The buyer is P2 Gold Inc., and the first article provides its ticker and exchange in the required format: 'P2 Gold Inc. (“P2” or the “Company”) (TSX-V:PGLD)'."
+    }
+  }
+}

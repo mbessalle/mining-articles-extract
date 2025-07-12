@@ -1,0 +1,159 @@
+--- Article Metadata ---
+Project Name: Victoria
+Company Name: Canterra Minerals Corporation
+Exchange: TSXV
+Ticker: CTM
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+8.7.2024, 7:00:00 PM
+
+# Canterra Minerals Samples 12.5% Cu and Expands the Victoria Project in Newfoundland
+
+Vancouver, British Columbia--(Newsfile Corp. - August 7, 2024) - **Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF)** ("Canterra" or the "Company") is pleased to announce exploration results returning up to 12.5% copper in grab samples from the Victoria Project, and that it has entered into an Option Agreement (the "Agreement") with local prospectors (collectively, the "Optionors"), to acquire a 100% interest in adjacent properties to expand the Company's Victoria Project in the Central Newfoundland Mining District. The Victoria Project is a critical minerals prospect with small scale historic mining and known high-grade copper occurrences. 
+
+**Highlights:**
+
+  * 12.5% and 12.1% copper grab samples from angular boulders located within newly acquired claims
+  * Samples are located 1 kilometre ("km") east of Company's previously announced high-grade copper exploration results from the Victoria Project (see news release dated [April 22, 2024](https://api.newsfilecorp.com/redirect/nVb5Wc3DnD)) and represents additional mineralization that potentially extends high-grade copper mineralization beyond the previously known limits of the known Victoria Project 
+  * The acquisition expands Canterra's Victoria property position by 1,095 hectares (11 km2) to 1,275 hectares (12.75 km2), located within an area of historic small scale mining dating back to the early 1900s 
+  * The project benefits from excellent access provided by a network of logging roads that are expected to further open and enhance access to the project with work scheduled in 2024
+  * Previous operator drilling on the Victora Project included an intersection of up to 5.5% Cu over 20.58 m
+  * The project is located immediately west and contiguous to 300 claims (7,500 ha) staked by Teck Resources Limited in June 2024 where mapping extends volcanic and sedimentary rocks located within Canterra's property northeast of the Victoria Project, as well as rocks of the Buchans Group; a similar belt of rocks prospective for volcanogenic massive sulphide (VMS) deposits covered by Canterra's nearby Buchans Project 
+
+
+
+**Rock Samples**
+
+Grab samples collected from the project returned the following results:
+
+ 
+
+Sample  
+Number| UTM NAD83E   
+Zone 21| UTM NAD83N  
+ Zone 21| Sample Type| Cu  
+%| Zn  
+%| Ag  
+g/t  
+---|---|---|---|---|---|---  
+  D00236016| 522875  | 5398815  |      Grab Sample Angular Boulder| **12.50   **| 0.03  | 18.12    
+  D00236017| 522874  | 5398809  |      Grab Sample Angular Boulder| **10.14   **| 0.01  | 5.01    
+  D00236018| 522883  | 5398817  |      Grab Sample Angular Boulder| **12.12   **| 0.23  | 24.01    
+  D00236027| 519179  | 5396519  |      Grab Sample Angular Boulder| 0.14  | **3.61   **| 2.85    
+  
+ 
+
+Chris Pennimpede, CEO & President of Canterra, commented: "This acquisition, highlighted by the spectacular copper numbers returned from our prospecting samples, shows the larger potential of the Victoria Project within the Central Newfoundland Mining District. This project is located along strike of multiple known VMS deposits already held by Canterra and further underscores the great potential for high-grade critical mineral mineralization within the Tulks VMS Belt. With the addition of this project to our growing portfolio, Canterra continues to consolidate assets in the district with focused exploration work to come later this year."
+
+**Victoria Project**
+
+The Victoria Project includes historic exploration adits, shafts and drifts completed during the early 1900s while evaluating the potential development of copper-bearing massive sulphide mineralization. Commercial production was never declared, and the Victoria Project was subsequently explored by Noranda in the 1990s and Celtic Minerals Ltd. between 1999 and 2007 as well as Messina Minerals Inc. ("Messina") in 2011. Highlights from past drilling include reported intersections of up to 5.5% Cu over 20.58 m (estimated true thickness) drilled by Messina (Messina press release February 21, 2012). The Project includes two mineral leases already held by Canterra and covers the northern extension of the Tulks Volcanic Belt, which is the same prospective belt that hosts the Company's Bobby's and Daniel's Pond deposits located approximately 6 km and 13 km to the southwest of the expanded Victoria Project, respectively. 
+
+[](https://images.newsfilecorp.com/files/8054/219085_24c460330415ea3e_001full.jpg)  
+  
+**Figure 1. Canterra's Land Position in the Central Newfoundland Mining District.  
+**  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/8054/219085_24c460330415ea3e_001full.jpg>
+
+[](https://images.newsfilecorp.com/files/8054/219085_24c460330415ea3e_002full.jpg)  
+  
+**Figure 2. Victoria Project map with rock grab samples displayed. See Canterra News Release dated April 22, 2024 for previously reported rock samples.  
+**  
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/8054/219085_24c460330415ea3e_002full.jpg>
+
+**Option Agreement**
+
+Pursuant to the terms of the Agreement, Canterra must make cash payments and issue common shares of the Company to the Optionors over two years as follows: 
+
+  * $10,000 Canadian Dollars and 100,000 shares of the Company upon execution of the Agreement 
+  * $20,000 Canadian Dollars and 200,000 shares of the Company on or before the first anniversary of the Agreement
+  * $30,000 Canadian Dollars and 300,000 shares of the Company on or before the second anniversary of the Agreement
+
+
+
+The Agreement assigns a 2% Net Smelter Return ("NSR") to the Optionors upon commencement of production, with Canterra retaining rights to buy-down 50% of the NSR for $1,000,000 and right of first of refusal on the remaining NSR (1%). 
+
+**Newfoundland and Labrador Junior Exploration Assistance**
+
+Canterra would like to acknowledge the financial support it may receive from the Junior Exploration Assistance Program from the government of Newfoundland and Labrador related to its exploration efforts throughout 2024.
+
+**Assay and Sample Information**
+
+Rock samples are comprised of grab samples, which are selective samples and not necessarily representative of mineralization found on the property. All rock samples were either collected from outcrops (bedrock) or as float samples and put into sample bags with unique sample tags. The exact location of the collected grab sample was taken using a handheld GPS unit and field notes were taken on lithology, structure, and mineralization. The rock samples were securely transported directly to the SGS Mobile Prep Lab in Grand Falls-Windsor, NL and forwarded by SGS chain of custody to SGS Vancouver Lab for Multi-Acid (4 Acid) Digestion ICP-OES and ICP-MS (49 elements) with ore grade analysis on over limit Zn and Cu samples.
+
+**Qualified Person**
+
+Paul Moore MSc. P.Geo. (NL), Vice President of Exploration for Canterra Minerals Corporation, a Qualified Person within the meaning of National Instrument 43-101, has reviewed the technical disclosure in this news release for accuracy and either prepared or supervised its preparation. 
+
+**About Canterra Minerals**
+
+Canterra Minerals is a diversified mineral exploration company with a focus on critical and precious metals projects in the Central Newfoundland Mining District. Canterra's projects include seven mineral deposits located in the central Newfoundland Mining District including the prolific, past producing Buchans mine. The central Newfoundland Mining District includes Teck Resources' past producing Duck Pond mine that produced copper, zinc, lead, silver and gold and Calibre Mining's Valentine gold mine development. 
+
+Canterra's projects include several exploration-stage gold projects that cover 60 km of strike of the regional gold-bearing Rogerson Lake structural corridor that hosts Calibre Mining Corporation's development stage Valentine Gold Mine. Canterra's Newfoundland gold projects have been subject to four drilling campaigns, demonstrating many gold occurrences warranting further exploration. 
+
+**ON BEHALF OF THE BOARD OF CANTERRA MINERALS CORPORATION**
+
+**Chris Pennimpede  
+President & CEO**
+
+Additional information about the Company is available at [www.canterraminerals.com](https://api.newsfilecorp.com/redirect/K8Oy0CrWz0)  
+For further information, please contact: +1 (604) 687-6644  
+Email: [info@canterraminerals.com](mailto:info@canterraminerals.com)
+
+ _Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+**Cautionary Note Regarding Forward-Looking Information**  
+ _This press release contains statements that constitute "forward-looking information" (collectively, "forward-looking statements") within the meaning of the applicable Canadian securities legislation, including statements with respect to estimated mineral resources and estimated historical mineral resources. All statements, other than statements of historical fact, are forward-looking statements and are based on expectations, estimates and projections as at the date of this news release. Any statement that discusses predictions, expectations, beliefs, plans, projections, objectives, assumptions, future events or performance (often but not always using phrases such as "expects", or "does not expect", "is expected", "anticipates" or "does not anticipate", "plans", "budget", "scheduled", "forecasts", "estimates", "believes" or "intends" or variations of such words and phrases or stating that certain actions, events or results "may" or "could", "would", "might" or "will" be taken to occur or be achieved) are not statements of historical fact and may be forward-looking statements. Consequently, there can be no assurances that such statements will prove to be accurate and actual results and future events could differ materially from those anticipated in such statements. Except to the extent required by applicable securities laws and the policies of the TSX Venture Exchange, the Company undertakes no obligation to update these forward-looking statements if management's beliefs, estimates or opinions, or other factors, should change. Factors that could cause future results to differ materially from those anticipated in these forward-looking statements include risks associated possible accidents and other risks associated with mineral exploration operations, the risk that the Company will encounter unanticipated geological factors, the possibility that the Company may not be able to secure permitting and other governmental clearances necessary to carry out the Company's exploration plans, the risk that the Company will not be able to raise sufficient funds to carry out its business plans, and the risk of political uncertainties and regulatory or legal changes that might interfere with the Company's business and prospects.; the business and operations of the Company; unprecedented market and economic risks, as well as those risks and uncertainties identified and reported in the Company's public filings under its SEDAR+ profile at[www.sedarplus.ca](https://api.newsfilecorp.com/redirect/EymO4s7me7). Accordingly, readers should not place undue reliance on the forward-looking statements and information contained in this press release. Except as required by law, the Company disclaims any intention and assumes no obligation to update or revise any forward-looking statements to reflect actual results, whether as a result of new information, future events, changes in assumptions, changes in factors affecting such forward-looking statements or otherwise._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/219085](https://api.newsfilecorp.com/redirect/x3b1WSgePm)
+
+### Project Name
+
+[Victoria Project](/?gid=6777)  
+
+
+[Project Summary](https://app.mininghub.com?gid=6777&modal=project_summary)[Company Profile](https://app.mininghub.com/company/canterra-minerals-corporation/853)[All Projects](https://app.mininghub.com/company/canterra-minerals-corporation/853)
+
+### Other Company News
+
+6/23/2025 [Canterra Minerals Intersects 60.7 Metres of 0.85% Copper Equivalent at the Buchans Project, Newfoundland](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-intersects-607-metres-of-085-copper-equivalent-at-the-buchans-project-newfoundland-108915)
+
+6/16/2025 [Canterra Minerals Identifies New District-Scale Gold Targets Along Valentine Lake Shear Zone Immediately Adjacent to Equinox Gold's Valentine Mine in Central Newfoundland](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-identifies-new-district-scale-gold-targets-along-valentine-lake-shear-zone-immediately-adjacent-to-equinox-golds-valentine-mine-in-central-newfoundland-108115)
+
+6/3/2025 [Canterra Minerals Intersects 68 metres of 1.0% CuEq from Surface at the Buchans Project, Newfoundland](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-intersects-68-metres-of-10-cueq-from-surface-at-the-buchans-project-newfoundland-106743)
+
+5/20/2025 [Canterra Minerals Step-Out Drilling Hits High-Grade Zone of 6.77% CuEq over 5.35m Beyond Current Buchans Resource, Newfoundland](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-step-out-drilling-hits-high-grade-zone-of-677-cueq-over-535m-beyond-current-buchans-resource-newfoundland-105170)
+
+4/23/2025 [Canterra Minerals Identifies New Exploration Targets Outside of Existing Resource and Expands Boomerang Project](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-identifies-new-exploration-targets-outside-of-existing-resource-and-expands-boomerang-project-100567)
+
+3/25/2025 [Phase 1 Drilling Program Initiated at the Buchans Critical Minerals Project, Newfoundland](/article/canterra-minerals-corporation/ca-ctm/-/phase-1-drilling-program-initiated-at-the-buchans-critical-minerals-project-newfoundland-92336)
+
+3/18/2025 [Canterra Minerals Expands Newfoundland Exploration Portfolio with Strategic Staking of Seal Pond Massive Sulfide Prospect](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-expands-newfoundland-exploration-portfolio-with-strategic-staking-of-seal-pond-massive-sulfide-prospect-91670)
+
+2/28/2025 [Canterra Minerals Selected for PDAC Core Shack](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-selected-for-pdac-core-shack-89606)
+
+2/25/2025 [Canterra Minerals Announces Participation in Red Cloud's 13th Annual Pre-PDAC Mining Showcase](/article/canterra-minerals-corporation/ca-ctm/-/canterra-minerals-announces-participation-in-red-clouds-13th-annual-pre-pdac-mining-showcase-89114)
+
+2/22/2025 [Canterra Grants Annual Equity Incentives](/article/canterra-minerals-corporation/ca-ctm/-/canterra-grants-annual-equity-incentives--170572)
+
+--- Detailed Quote ---
+
+Last: 0.085            $  Chg: 0.005
+Open: 0.08            High: 0.085
+Bid: 0.08             Bid Size: 209000
+Beta: 1.35218            Year High: 0.155
+Market Cap: 29.18m      PB Ratio: 1.37
+EPS: -0.02             Average Volume (30 Day): 431.29k
+Volume: 270.30k          % Chg: 6.25%
+Prev. Close: 0.08     Low: 0.08
+Ask: 0.09             Ask Size: 15000
+VWAP: 0.084            Year Low: 0.04
+Total Shares: 343.32m    Shares Out: 343.32m
+Float: 274.83m           Exchange: TSXV

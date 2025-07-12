@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ranch/904.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ranch Gold Project",
+      "justification": "The Company has completed the acquisition (the \"Acquisition\") of a mineral exploration property comprised of 31 contiguous British Columbia Mineral Titles Online mineral claims totalling 17,831.56 hectares in the Toodoggone Region of northern British Columbia known as the \"Ranch Gold Project\""
+    },
+    "company_name": {
+      "value": "Thesis Gold Inc.",
+      "justification": "Thesis Gold Inc. (TSXV: TAU) (formerly CPA.H) (formerly Chinapintza Mining Corp., the \"Company\") is pleased to announce that, further to the news releases issued by the Company on August 18, 2020 and September 28, 2020, the Company has completed the acquisition (the \"Acquisition\") of a mineral exploration property...known as the \"Ranch Gold Project\""
+    },
+    "ceo_buyer": {
+      "value": "Roy Bonnell",
+      "justification": "Management of the Company has also changed so that it now consists of Roy Bonnell as President and Chief Executive Officer..."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the company completed the acquisition of the property, but does not specify a percentage interest."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the \"Ranch Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/67252",
+      "justification": "The article is titled \"Thesis Gold Inc. ... Announces Completion of Acquisition of Ranch Gold Project...\" and the content confirms this is the subject of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Thesis Gold Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and financial figures are denoted with the '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, Priority 3 (Combined Value) was used as the text provides a total purchase price. This requires other financial fields to be null. A cash component of $250,000 was mentioned as part of the total consideration but is not extracted separately due to this rule."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, Priority 3 (Combined Value) was used as the text provides a total purchase price. This requires other financial fields to be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 5500000,
+      "justification": "Pursuant to the Acquisition, the Company made payment of the purchase price of $5,500,000..."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, Priority 3 (Combined Value) was used as the text provides a total purchase price. This requires other financial fields to be null. A component of 14,000,000 shares was mentioned as part of the total consideration but is not extracted separately due to this rule."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions warrants in the context of a concurrent financing, not as part of the consideration for the project acquisition itself."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, Priority 3 (Combined Value) was used as the text provides a total purchase price. This requires other financial fields to be null. A deemed price of $0.375 per share was mentioned as part of the total consideration but is not extracted separately due to this rule."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition terms included the \"grant of a 2% net smelter returns royalty (the \"2% NSR\") on the Ranch Gold Project to Guardsmen\"."
+    },
+    "coverage_area_raw": {
+      "value": 17831.56,
+      "justification": "...a mineral exploration property comprised of 31 contiguous British Columbia Mineral Titles Online mineral claims totalling 17,831.56 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "...a mineral exploration property comprised of 31 contiguous British Columbia Mineral Titles Online mineral claims totalling 17,831.56 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text does not contain any statement of a mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TAU",
+      "justification": "The text identifies the acquiring company as \"Thesis Gold Inc. (TSXV: TAU)\"."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nachicapau/89456.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nachicapau",
+      "justification": "The authoritative name provided is Nachicapau. The text confirms this project is part of the ongoing work: \"In March 2023, a joint venture agreement between Midland and SOQUEM was executed to define the terms governing exploration and development work on the mining claims forming the Nachicapau property.\""
+    },
+    "company_name": {
+      "value": "Midland Exploration Inc.",
+      "justification": "The text identifies the company as: \"Midland Exploration Inc. (“Midland”) (TSX-V: MD)\"."
+    },
+    "ceo_buyer": {
+      "value": "Gino Roger",
+      "justification": "The CEO of Midland Exploration Inc. is identified in the contact section: \"Gino Roger, President and Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The press release is an exploration update on an existing joint venture and strategic alliance, not an announcement of a new acquisition of interest. The text describes the existing 50/50 structure of the alliance's budget but does not state any new interest is being acquired."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The announcement is about the discovery of new copper showings. \"Midland and SOQUEM Stake 104 Mining Claims Following the Discovery of New Copper Occurrences in the Labrador Trough\" and \"This reconnaissance program led to the discovery of several copper showings\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is inferred to be Canadian Dollars (CAD) as Midland Exploration Inc. is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the project is located in Quebec, Canada. The detailed quote section uses a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update, not an M&A announcement, and does not mention any cash payments for an acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document is an exploration update, not an M&A announcement, and does not mention any share payments for an acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document is an exploration update, not an M&A announcement, and does not mention any combined payments for an acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document is an exploration update, not an M&A announcement, and does not mention any shares being issued as part of a transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document is an exploration update, not an M&A announcement, and does not mention a share price related to a transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a \"joint annual budget of $1 million\", but this is for the entire Strategic Alliance's work in 2025 on both \"the Labrador Trough and on the Nachicapau project\". As this budget is not exclusively for the Nachicapau project, a specific value cannot be extracted."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty in the text."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions a \"50.2-km2 claim block\", but this is explicitly for the newly staked \"Dunphy South\" area, not the Nachicapau project. No area is provided for the Nachicapau project itself."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions a \"50.2-km2 claim block\", but this is explicitly for the newly staked \"Dunphy South\" area, not the Nachicapau project. No area is provided for the Nachicapau project itself."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate with mass or volume (e.g., tonnes, ounces) for the Nachicapau project. It only mentions grab sample results from a new discovery area."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MD",
+      "justification": "The text states: \"Midland Exploration Inc. (“Midland”) (TSX-V: MD)\". The authoritative metadata and the detailed quote section also confirm the exchange is TSXV."
+    }
+  }
+}

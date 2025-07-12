@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Dessert Lake/87610.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Dessert Lake",
+      "justification": "The primary project of interest is named Dessert Lake, as confirmed by the article's headline: 'Transition Metals Secures Dessert Lake, a District-Scale Uranium Play in Northwest Territories, Canada'."
+    },
+    "company_name": {
+      "value": "Transition Metals Corp.",
+      "justification": "The acquiring company is identified in the first sentence of the press release: 'Sudbury, Ontario--(Newsfile Corp. - February 12, 2025) - Transition Metals Corp. (TSXV: XTM) (\"Transition\", \"the Company\")...'"
+    },
+    "ceo_buyer": {
+      "value": "Scott McLean",
+      "justification": "The CEO of the acquiring company is identified in the article: 'Commenting on the Dessert Lake opportunity, CEO Scott McLean stated...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves securing 'exclusive rights to stake mining claims' and prospecting licenses, not the acquisition of a specific percentage interest from another company."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article headline clearly states the project is a 'Uranium Play': 'Transition Metals Secures Dessert Lake, a District-Scale Uranium Play in Northwest Territories, Canada'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/240521",
+      "justification": "The article is about the Dessert Lake project. The source URL is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/240521'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Transition Metals Corp., is listed on the TSXV (a Canadian exchange) and based in Ontario, Canada. The currency is inferred to be Canadian Dollars (CAD) from this context and the use of the '$' symbol in the detailed quote section."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payments as part of the transaction to secure the rights."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as part of the transaction to secure the rights."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as consideration for securing the project rights."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares, so there is no associated share price for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions that the project requires drilling but does not specify a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article states that 'The project requires regional geophysical surveying and drilling' but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) or other royalty as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 713,
+      "justification": "The article specifies the size of the area secured: 'The permits provide the Company with exclusivity to stake mining claims within an approximate 713 square km area for up to four (4) years.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified in the text: '...an approximate 713 square km area...'. The standard abbreviation is km2."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article discusses the geological potential for uranium deposits but does not provide a quantified mineral resource estimate for the Dessert Lake project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XTM",
+      "justification": "The company's ticker and exchange are explicitly stated in the first paragraph of the press release: 'Transition Metals Corp. (TSXV: XTM)'."
+    }
+  }
+}

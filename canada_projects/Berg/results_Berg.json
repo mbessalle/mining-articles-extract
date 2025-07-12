@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Berg/46502.txt",
+    "canada_projects/Berg/47690.txt",
+    "canada_projects/Berg/81881.txt",
+    "canada_projects/Berg/89680.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Berg",
+      "justification": "The primary project of interest is stated as Berg. The article headlines confirm this: 'Surge Copper Acquires 100% Interest in Berg' and 'Surge Copper Completes Acquisition of 100% Interest in Berg'."
+    },
+    "company_name": {
+      "value": "Surge Copper Corp.",
+      "justification": "The buyer is identified in the first sentence: 'Surge Copper Corp. (TSXV:SURG) (“Surge” or the “Company”) is pleased to announce that it has entered into a definitive purchase agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Leif Nilsson",
+      "justification": "The CEO is quoted in the text: 'Leif Nilsson, Chief Executive Officer, commented: ...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is for a full acquisition of the remaining interest. The headline states: 'Surge Copper Acquires 100% Interest in Berg'. The body text confirms Surge entered an agreement 'to acquire a 100% interest in the Berg Property'."
+    },
+    "primary_commodity": {
+      "value": "copper",
+      "justification": "The resource estimate highlights multiple metals, but copper is the most significant in terms of mass: 'Updated mineral resource estimate includes combined Measured & Indicated resource of... 5.1 billion pounds of copper, 633 million pounds of molybdenum...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the input."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is Canadian, listed on the TSXV, and the PEA valuation is explicitly in C$. The transaction's deemed price is given with a '$' symbol, which is inferred to be Canadian Dollars. 'Base case after-tax NPV8% of C$2.1 billion' and 'deemed price of $0.075 per share'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is based on the number of shares issued and a deemed price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is based on the number of shares issued and a deemed price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is based on the number of shares issued and a deemed price per share, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 21221165,
+      "justification": "The consideration for the acquisition is explicitly stated in shares: 'to acquire a 100% interest in the Berg Property for total consideration of 21,221,165 common shares of Surge'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the consideration for this transaction. The previous option agreement was terminated."
+    },
+    "issued_share_price": {
+      "value": 0.075,
+      "justification": "A deemed price per share for the transaction is provided: 'TCM will be issued 21,221,165 common shares of the Company at a deemed price of $0.075 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for this transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned for this transaction. The text notes that the new Purchase Agreement replaces a prior Option Agreement which had a spending commitment, making that prior commitment irrelevant. 'The Purchase Agreement replaces an earlier December 2020 Option Agreement between Surge and TCM which allowed Surge to earn a 70% interest in the Berg Property by spending C$8 million over five years...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a pre-existing 1% NSR held by a third party, Royal Gold, Inc. This royalty was not acquired or retained as part of the transaction between Surge and TCM. 'A 1% net smelter return royalty is held by Royal Gold, Inc. on a portion of the Berg Property...'"
+    },
+    "coverage_area_raw": {
+      "value": 34798,
+      "justification": "The area of the specific property acquired in this transaction is stated: 'The Berg Property subject to the Purchase Agreement is 34,798 hectares in size'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the same sentence: 'The Berg Property subject to the Purchase Agreement is 34,798 hectares in size'."
+    },
+    "resource_size": {
+      "value": "1.0 billion tonnes grading 0.23% copper, 0.03% molybdenum, 4.6 g/t silver, and 0.02 g/t gold, containing 5.1 billion pounds of copper, 633 million pounds of molybdenum, 150 million ounces of silver, and 744 thousand ounces of gold, plus an additional 0.5 billion tonnes of material in the Inferred category.",
+      "justification": "A detailed mineral resource estimate for the Berg project is provided: 'Updated mineral resource estimate includes combined Measured & Indicated resource of 1.0 billion tonnes grading 0.23% copper, 0.03% molybdenum, 4.6 g/t silver, and 0.02 g/t gold, containing 5.1 billion pounds of copper, 633 million pounds of molybdenum, 150 million ounces of silver, and 744 thousand ounces of gold, plus an additional 0.5 billion tonnes of material in the Inferred category.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SURG",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Surge Copper Corp. (TSXV:SURG)'."
+    }
+  }
+}

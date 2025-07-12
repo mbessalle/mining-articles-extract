@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Antimony 2.0/75872.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Antimony 2.0",
+      "justification": "The article headline is \"Big Red Mining Corp. Signs Option to Acquire 100% of Antimony 2.0 Property located In New Brunswick, Canada\" and the body refers to the \"Antimony 2.0 Property\"."
+    },
+    "company_name": {
+      "value": "Big Red Mining Corp.",
+      "justification": "The acquiring company is identified in the text as \"Big Red Mining Corp. (CSE: RED) (FSE: K8J) (the \"Company\" or \"Big Red\") announces it has entered into an option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Jim Atkinson",
+      "justification": "The text identifies the CEO of the acquiring company, Big Red Mining Corp.: \"Mr. James Atkinson, the newly appointed CEO of Big Red stated...\" and is signed \"On Behalf of the Board of Directors Jim Atkinson, CEO and President\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is an option to acquire full ownership, as stated in the headline: \"Signs Option to Acquire 100% of Antimony 2.0 Property\" and in the terms section: \"Terms of the Option to earn 100%\"."
+    },
+    "primary_commodity": {
+      "value": "Antimony",
+      "justification": "The project is named Antimony 2.0 and the text highlights its potential: \"Antimony has been detected at highly anomalous levels in soil samples collected on the property by the Vendor.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/227537",
+      "justification": "The article is about the acquisition of the Antimony 2.0 project by Big Red Mining Corp., which matches the project of interest. The source URL is found at the bottom of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a private placement with pricing in Canadian dollars: \"...at a price of C$0.18 per Common Share...\"."
+    },
+    "cash_payments_raw": {
+      "value": 10000,
+      "justification": "The terms of the option agreement include an initial cash payment: \"Big Red can earn 50% by paying $10,000 in cash...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no total dollar value for these shares is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and shares, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2500000,
+      "justification": "The total number of shares to be issued is the sum of all tranches mentioned in the terms: 50,000 at signing, 150,000 by the second anniversary, 300,000 by the third anniversary, and 2,000,000 to earn the final 50%. \"issuing 50,000 shares at signing... Issuing 150,000 shares on or before the second anniversary... Issuing 300,000 shares on or before the third anniversary... and issuing a further 2,000,000 shares.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement is an option agreement, but there are no separate payments specified for the option itself, only payments as part of the earn-in terms."
+    },
+    "issued_share_price": {
+      "value": 0.14,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.14'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "Exploration commitments are specified in monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3300000,
+      "justification": "The total exploration commitment is the sum of all required expenditures: $150,000, a further $150,000, and a final $3,000,000. \"spending $150,000 in exploration expenditures; ...and spending a further $150,000 in exploration expenditures. Big Red can earn the remaining 50% by incurring exploration expenditures totaling $3,000,000...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller retains a 2% NSR. The text states: \"Big Red has also issued a 2% Net Smelter Returns Royalty (NSR).\""
+    },
+    "coverage_area_raw": {
+      "value": 35,
+      "justification": "The property size is stated multiple times: \"The Property comprises over 35 square Kilometers...\" and \"Big Red's 35 sq km optioned Antimony 2.0 Property\"."
+    },
+    "coverage_area_unit": {
+      "value": "sq km",
+      "justification": "The unit for the coverage area is specified as square kilometers: \"Big Red's 35 sq km optioned Antimony 2.0 Property\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions soil anomalies and plans for exploration, but does not provide a quantified mineral resource estimate in terms of tonnes, ounces, or pounds."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:RED",
+      "justification": "The acquiring company, Big Red Mining Corp., is listed with its ticker and exchange in the first paragraph: \"Big Red Mining Corp. (CSE: RED)\"."
+    }
+  }
+}

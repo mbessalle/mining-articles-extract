@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Yellowknife Lithium/65438.txt",
+    "canada_projects/Yellowknife Lithium/82439.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yellowknife Lithium",
+      "justification": "The text identifies the project in multiple places, including: \"The Company’s flagship project is the Yellowknife Lithium Project located in Northwest Territories, Canada.\""
+    },
+    "company_name": {
+      "value": "Li-FT Power Ltd.",
+      "justification": "The acquiring company is identified as \"Li-FT Power Ltd. (“LIFT” or the “Company”) (TSXV: LIFT)\"."
+    },
+    "ceo_buyer": {
+      "value": "Francis MacDonald",
+      "justification": "The CEO of the buyer is identified in the text: \"Francis MacDonald, CEO and Director of LIFT, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states LIFT will \"acquire the Shorty West Lithium mineral claim\", which implies a 100% interest in the claim being acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the \"Yellowknife Lithium Project\" and the acquired asset is the \"Shorty West Lithium Claim\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No single article link was provided in the input text block."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is confirmed as Canadian Dollars by the use of the 'C$' symbol in the text: \"...at a fair market value of C$2.69 per DSU.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was mentioned as part of the consideration for the Shorty West Claim acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Following the data extraction hierarchy, this field is null because the consideration was specified as a number of shares and a price per share can be determined."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Following the data extraction hierarchy, this field is null because the consideration was specified as a number of shares and a price per share can be determined."
+    },
+    "amount_of_shares_issued": {
+      "value": 12000,
+      "justification": "The consideration for the acquisition of the claim adjacent to the Yellowknife Lithium Project is specified as: \"As consideration for the Shorty West Claim, the Company will issue 12,000 common shares...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a grant of stock options, but this is for \"directors, officers, employees and consultants\" and not part of the acquisition consideration for the Shorty West claim."
+    },
+    "issued_share_price": {
+      "value": 2.28,
+      "justification": "The transaction terms mention the number of shares issued (12,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 2.28'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The area for the acquired Shorty West Claim is not specified. The second article mentions areas for the DeStaffany (1,843 ha), LDG (8,600 ha), and Mackay (8,661 ha) projects, but these are separate projects, not the Yellowknife Lithium Project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area was specified for the acquired Shorty West Claim."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate was provided for the Yellowknife Lithium Project or the acquired Shorty West Claim. The second article mentions historic sampling results for the DeStaffany project, but this is not a formal resource estimate and it is for a different project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LIFT",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: \"Li-FT Power Ltd. (“LIFT” or the “Company”) (TSXV: LIFT)\"."
+    }
+  }
+}

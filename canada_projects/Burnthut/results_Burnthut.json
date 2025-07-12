@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Burnthut/91698.txt",
+    "canada_projects/Burnthut/98324.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Burnthut",
+      "justification": "The documents consistently refer to the project as the Burnthut Project, for example: 'Ashley Gold Corp. Expands Land Position at Burnthut Following Strong Initial Drilling Indicators' and 'Ashley Gold Corp. Further Consolidates Burnthut Project'."
+    },
+    "company_name": {
+      "value": "Ashley Gold Corp.",
+      "justification": "The acquiring company is identified in the headline and body of the text: 'Ashley Gold Corp. (CSE: ASHL) (\"Ashley\" or the \"Company\") is pleased to announce that it has secured additional mineral claims adjacent to its Burnthut Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Darcy Christian",
+      "justification": "The CEO of the buyer, Ashley Gold, is identified in the text: 'Darcy Christian, CEO of Ashley Gold, commented:' and 'Mr. Darcy Christian, P.Geo, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transactions involve acquiring mineral claims, which implies 100% interest. This is supported by a statement about the main property acquisition: 'Ashley successfully acquired 100% ownership of the Burnthut Property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly refers to gold as the target commodity: '...highly prospective gold-bearing trend.' and 'Ashley Gold Corp. is dedicated to discovering the next multi-million-ounce gold deposit...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is explicitly mentioned as Canadian Dollars in the terms of the acquisitions: 'Vendor has been paid $7,500.00 CAD' and '...repurchase 0.5% for CAD $600,000'."
+    },
+    "cash_payments_raw": {
+      "value": 7500,
+      "justification": "One of the two transactions included a cash payment. The total aggregated cash payment is $7,500, as stated: 'Vendor has been paid $7,500.00 CAD'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The total value of the shares cannot be calculated as a price is only provided for 100,000 of the total 300,000 shares issued across the two transactions."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment components are listed separately and cannot be fully aggregated into a single value due to missing information for one of the share payments."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "The total number of shares is the sum of two separate transactions: 'The vendor will receive 200,000 common shares of Ashley Gold...' and 'Ashley will issue 100,000 shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A deemed price of $0.075 is provided for 100,000 shares in one transaction, but no price is provided for the 200,000 shares in the other transaction. A single, representative price for the total 300,000 shares issued cannot be determined."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "In both transactions, the vendor retained a 1% NSR. From the first transaction: 'The vendor will retain a 1% Net Smelter Royalty (NSR) on the claims...'. From the second: 'Vendor will retain a 1% NSR over the claims...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The acquired land is described in terms of claim blocks and cells ('12 continuous claim blocks' and 'eight claims (11 cells)'), not in standard area units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The acquired land is described in terms of claim blocks and cells, not in standard area units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions high-grade grab sample results (e.g., 'up to 70 g/t Au') but does not provide a mineral resource estimate containing mass or volume units such as tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ASHL",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Ashley Gold Corp. (CSE: ASHL)' and 'Ashley Gold Corp. (CSE: “ASHL”)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mirabelli/34575.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mirabelli",
+      "justification": "The authoritative project name provided is 'Mirabelli', as seen in the MiningHub metadata section: 'Mirabelli Project'."
+    },
+    "company_name": {
+      "value": "Stria Lithium Inc.",
+      "justification": "Stria Lithium Inc. (“Stria” or the “Company”) (TSXV:SRA) (OTC:SRCAF) (FRANKFURT:S35A) an emerging resource exploration company developing Canadian lithium reserves to meet legislated demand for electric vehicles and their rechargeable lithium-ion batteries, is pleased to announce it has successfully entered a definitive option agreement to acquire 100% ownership of two key mineral properties..."
+    },
+    "ceo_buyer": {
+      "value": "Dean Hanisch",
+      "justification": "Dean Hanisch, CEO of Stria Lithium, said today: “Stria's successful 100% option of these two key properties and their 104 claims represents an exciting leap forward in our strategic plan...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "...pleased to announce it has successfully entered a definitive option agreement to acquire 100% ownership of two key mineral properties..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "Stria Lithium Inc. (“Stria” or the “Company”) (TSXV:SRA) (OTC:SRCAF) (FRANKFURT:S35A) an emerging resource exploration company developing Canadian lithium reserves..."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article describes the acquisition of the Pontax 2 property, not the Mirabelli project. The text states: 'The latest mineral property acquisitions named Pontax 2 are being financed entirely from Stria’s cash reserves.'"
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "Stria has purchased two sets of adjacent claims as follows ($CAD):"
+    },
+    "cash_payments_raw": {
+      "value": 437500,
+      "justification": "Total cash payment is the sum of all phases for both claim blocks: $75,000 (Claims 1, Phase I), $187,500 (Claims 1, Phase II), $50,000 (Claims 2, Phase I), and $125,000 (Claims 2, Phase II)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares and a price per share are available, so this field is null according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment details are provided, so this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 2375000,
+      "justification": "Total shares issued is the sum of all phases for both claim blocks: 300,000 (Claims 1, Phase I), 1,125,000 (Claims 1, Phase II), 200,000 (Claims 2, Phase I), and 750,000 (Claims 2, Phase II)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.185,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.185'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 92000,
+      "justification": "Total exploration commitment is the sum of the commitments for both claim blocks: 'Stria’s investment of at least $50,000 in work on the property within 14 months of closing' and 'Stria’s investment of at least $42,000 in work on the property within 14 months of closing'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms for the Pontax 2 property."
+    },
+    "coverage_area_raw": {
+      "value": 5536,
+      "justification": "The total area is the sum of the two acquired claim blocks: '55 mineral claims totalling 2,927 hectares' and '49 mineral claims totalling 2,609 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the description of the acquired claims: '55 mineral claims totalling 2,927 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the acquired Pontax 2 property. It mentions a resource for the nearby Allkem James Bay project and states that a maiden resource for the separate Pontax 1 project is planned for 2023."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SRA",
+      "justification": "The buyer's ticker and exchange are listed at the beginning of the article: 'Stria Lithium Inc. (“Stria” or the “Company”) (TSXV:SRA) (OTC:SRCAF) (FRANKFURT:S35A)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Table Mountain/85946.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Table Mountain Silica Project",
+      "justification": "Troy Minerals Inc. (\"Troy\" or the \"Company\") (CSE:TROY)(OTCQB:TROYF)(FSE:VJ3) announces the expansion of its Table Mountain Silica Project, located in the highly prospective silica-rich region near Golden, British Columbia..."
+    },
+    "company_name": {
+      "value": "Troy Minerals Inc.",
+      "justification": "Troy Minerals Inc. (\"Troy\" or the \"Company\") (CSE:TROY)(OTCQB:TROYF)(FSE:VJ3) announces the expansion of its Table Mountain Silica Project..."
+    },
+    "ceo_buyer": {
+      "value": "Rana Vig",
+      "justification": "ON BEHALF OF THE BOARD, Rana Vig | CEO & Director"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an expansion of the project 'through the direct staking of two additional mineral claims', not an acquisition of interest from another party."
+    },
+    "primary_commodity": {
+      "value": "Silica",
+      "justification": "...in a rapidly growing area recognized for its potential in the high purity silica of the Mount Wilson Formation..."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/troy-minerals-expands-table-mountain-silica-project-975969",
+      "justification": "The article is titled 'Troy Minerals Expands Table Mountain Silica Project' and the link is provided at the bottom of the text: 'View the original press release on ACCESS Newswire'"
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD). The detailed quote section confirms 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through 'direct staking', not a transaction involving a cash payment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through 'direct staking', not a transaction involving a share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through 'direct staking', not a transaction involving a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The expansion was achieved through 'direct staking', not a transaction involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking."
+    },
+    "coverage_area_raw": {
+      "value": 2304,
+      "justification": "The Table Mountain Silica Project now comprises 2,304 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Table Mountain Silica Project now comprises 2,304 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate (e.g., tonnes, ounces) for the Table Mountain project. It only mentions potential and compares it to nearby mines."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TROY",
+      "justification": "The company's primary listing is identified in the text as '(CSE:TROY)' and confirmed in the detailed quote section with 'Exchange: CSE'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Maestro/50745.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Maestro",
+      "justification": "The acquisitions are located within the Company's 100%-owned Maestro Property located 15km north of the town of Houston, British Columbia."
+    },
+    "company_name": {
+      "value": "Quartz Mountain Resources Ltd.",
+      "justification": "Quartz Mountain Resources Ltd. (\"Quartz\" or the \"Company\") (TSXV:QZM)(OTC PINK:QZMRF) is pleased to announce the Company has agreed under two separate transactions, to purchase a 100% interest in each of the Lone Pine Claim and the North Claim..."
+    },
+    "ceo_buyer": {
+      "value": "Robert Dickinson",
+      "justification": "On behalf of the Board of Directors Robert Dickinson Chairman"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has agreed... to purchase a 100% interest in each of the Lone Pine Claim and the North Claim."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The Company holds 100% of the Maestro Gold-Silver-Molybdenum-Copper Property... It is focused on discovering and transacting high-value gold, silver, and copper projects."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/844241/quartz-expands-maestro-project-area-with-acquisitions-of-lone-pine-porphyry-deposit-claim-and-north-claim",
+      "justification": "The article is titled 'Quartz Expands Maestro Project Area with Acquisitions of Lone Pine Porphyry Deposit Claim and North Claim', which directly relates to the Maestro project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is listed as '$24,000'. The acquiring company, Quartz Mountain Resources Ltd., is headquartered in Vancouver, Canada and is listed on the TSX Venture Exchange (TSXV), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 24000,
+      "justification": "The North mineral claim was purchased from Shawn Merkley, an arms-length vendor, for $24,000, 45,000 common shares of the Company..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the number of shares and a price per share are available to populate `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share payment components are specified in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 795000,
+      "justification": "This is the sum of shares from two separate transactions: 'The Lone Pine mineral claim was purchased from Eagle Plains Resources Ltd., an arms-length vendor, for 750,000 common shares of the Company' and 'The North mineral claim was purchased from Shawn Merkley... for... 45,000 common shares of the Company'. (750,000 + 45,000 = 795,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.74,
+      "justification": "The transaction terms mention the number of shares issued (750,000 for Lone Pine and 45,000 for North Claim), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.74'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions past drilling ('1,445 meters of diamond drilling') but no future exploration commitment in meters was specified as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was specified as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Both acquisitions involved a 2% NSR retained by the sellers. For the Lone Pine claim: 'a 2% NSR royalty'. For the North claim: 'a 2% NSR royalty'."
+    },
+    "coverage_area_raw": {
+      "value": 169,
+      "justification": "These two mineral claims total 169 hectares and are located within the Company's 100%-owned Maestro Property..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "These two mineral claims total 169 hectares..."
+    },
+    "resource_size": {
+      "value": "Measured and Indicated Resources (M+I) of 110Mt grading 0.083% Mo, and Inferred Resources of 25.8Mt grading 0.088% Mo at a 0.04% Mo cut-off",
+      "justification": "A historical estimate of the mineral resources was also done and comprises Measured and Indicated Resources (M+I) of 110Mt grading 0.083% Mo, and Inferred Resources of 25.8Mt grading 0.088% Mo at a 0.04% Mo cut-off described in NI-43-101 Technical Report, effective date of January 21, 2011..."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:QZM",
+      "justification": "The company's name is listed with its ticker and exchange in the text: 'Quartz Mountain Resources Ltd. (\"Quartz\" or the \"Company\") (TSXV:QZM)(OTC PINK:QZMRF)'."
+    }
+  }
+}

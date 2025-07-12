@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gaspe/81199.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gaspe",
+      "justification": "The article discusses an acquisition of claims adjacent to the Gaspé Copper Project, which is the project of interest. The authoritative name provided is 'Gaspe'. The text states: 'Osisko Metals Incorporated... is pleased to announce the acquisition of a group of 199 claims adjacent to its Gaspé Copper Project (the “Claims”).'"
+    },
+    "company_name": {
+      "value": "Osisko Metals Incorporated",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Osisko Metals Incorporated (the \"Company\" or \"Osisko Metals\") ... is pleased to announce the acquisition...'"
+    },
+    "ceo_buyer": {
+      "value": "Robert Wares",
+      "justification": "The CEO of the acquiring company, Osisko Metals, is listed in the contact section: 'Robert Wares, Chief Executive Officer of Osisko Metals Incorporated'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a full interest in the new claims. 'Osisko Metals acquired a 100% interest in the Claims...'"
+    },
+    "primary_commodity": {
+      "value": "copper",
+      "justification": "The project is named the 'Gaspé Copper Project' and the company's focus includes copper. 'Osisko Metals Incorporated is a Canadian exploration and development company creating value in the critical metals sector, with a focus on copper and zinc. The Company acquired a 100% interest in the past-producing Gaspé Copper mine...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company is listed on the Canadian TSX Venture Exchange, and the royalty redemption value is given in dollars, implying Canadian Dollars. 'Osisko Metals Incorporated ... ([TSX-V: OM]...)' and '...redeemable for an amount of $2,000,000.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was made in exchange for shares, not cash. The deal terms are 'the issuance of 5,000,000 common shares of its capital stock and the grant of a 2% net smelter return royalty'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share can be inferred, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are provided as a number of shares and a price per share can be inferred, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The consideration for the acquisition was 5,000,000 common shares. 'Osisko Metals acquired a 100% interest in the Claims in exchange for the issuance of 5,000,000 common shares of its capital stock...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.455,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.455'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal, the buyer granted a 2% NSR to the sellers. '...and the grant of a 2% net smelter return royalty, half of which is redeemable for an amount of $2,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the acquisition of 'a group of 199 claims' but does not specify the area in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions the acquisition of 'a group of 199 claims' but does not specify the area in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": "824 Mt grading 0.34% CuEq and Inferred Mineral Resources of 670 Mt grading 0.38% CuEq",
+      "justification": "The text provides a mineral resource for the Gaspé Copper project, distinct from the Pine Point project. 'The Company is currently focused on resource expansion of the Gaspé Copper system, with current Indicated Mineral Resources of 824 Mt grading 0.34% CuEq and Inferred Mineral Resources of 670 Mt grading 0.38% CuEq (in compliance with NI 43-101).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:OM",
+      "justification": "The text provides the ticker and exchange for the buyer, Osisko Metals Incorporated, in the header: 'Osisko Metals Incorporated (the \"Company\" or \"Osisko Metals\") ([TSX-V: OM]...)'"
+    }
+  }
+}

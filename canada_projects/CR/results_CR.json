@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/CR/35991.txt",
+    "canada_projects/CR/36564.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "CR",
+      "justification": "The text announces the acquisition of the 'CR property'. For example: 'Sun Summit will acquire a 100% interest in the CR property...'"
+    },
+    "company_name": {
+      "value": "Sun Summit Minerals Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Sun Summit Minerals Corp. (TSXV: SMN) (OTCQB: SMREF) is pleased to announce it has agreed to the acquisition of the 8,964 hectare CR property from Teck Resources Limited...'"
+    },
+    "ceo_buyer": {
+      "value": "Sharyn Alexander",
+      "justification": "The President of the acquiring company is named: 'Sharyn Alexander, Sun Summit's President commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The terms of the acquisition state: 'Sun Summit will acquire a 100% interest in the CR property...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is described as a 'porphyry copper-molybdenum property' and a 'Drill-ready porphyry Cu-Mo Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168286",
+      "justification": "The article is titled 'Sun Summit to Acquire Drill-Ready Porphyry Cu-Mo Property...' which matches the project of interest, CR. The source link is provided at the end of the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment values are denoted with a '$' symbol (e.g., '$250,000'). The acquiring company, Sun Summit Minerals Corp., is listed on the TSX Venture Exchange (TSXV), which operates in Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 0,
+      "justification": "The acquisition terms explicitly state there is no cash payment: '...and no cash consideration or exploration commitments.'"
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The value of the share issuance is explicitly stated: '...the issuance of 2,272,727 Sun Summit common shares valued at $250,000...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2272727,
+      "justification": "The number of shares issued is specified in the acquisition terms: 'Sun Summit will acquire a 100% interest in the CR property through the issuance of 2,272,727 Sun Summit common shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any share warrants as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any options as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text provides a total valuation for the shares ('valued at $250,000 based on the 20-day volume weighted average price') but does not state a specific price per share for the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The press release explicitly states there are no exploration commitments: '...and no cash consideration or exploration commitments.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The press release explicitly states there are no exploration commitments: '...and no cash consideration or exploration commitments.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller retained a royalty: 'Teck will retain a 1.0% NSR royalty on the property...'"
+    },
+    "coverage_area_raw": {
+      "value": 8964,
+      "justification": "The size of the property is stated in the first paragraph: '...the acquisition of the 8,964 hectare CR property from Teck Resources Limited...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the area is specified in the same sentence: '...the acquisition of the 8,964 hectare CR property from Teck Resources Limited...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill intercepts (e.g., '168 metres at 0.37% Cu, 0.017% Mo') but does not contain a mineral resource estimate with units of mass or volume (e.g., tonnes, ounces) for the CR project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SMN",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Sun Summit Minerals Corp. (TSXV: SMN)...'"
+    }
+  }
+}

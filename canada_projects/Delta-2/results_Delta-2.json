@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Delta-2/47622.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Delta-2",
+      "justification": "The article is titled 'Delta Resources Acquires 21 Claims at the Heart of the Delta-2 Property in Chibougamau, Quebec'."
+    },
+    "company_name": {
+      "value": "Delta Resources Limited",
+      "justification": "The acquiring company is identified as 'Delta Resources Limited (TSXV: DLTA) ('Delta' or 'the Company')'."
+    },
+    "ceo_buyer": {
+      "value": "Andre C. Tessier",
+      "justification": "The CEO is listed as 'Andre C. Tessier President, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Delta 'has acquired a 100% interest in twenty-one (21) claims'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The article states, 'The DELTA-2 property covers 194 square kilometres in the prolific Chibougamau District of Quebec. The property holds excellent potential for gold-rich polymetallic VMS deposits as well as hydrothermal-gold deposits.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/194881",
+      "justification": "The article is about the acquisition of claims at the Delta-2 property, which is the project of interest. The title is 'Delta Resources Acquires 21 Claims at the Heart of the Delta-2 Property in Chibougamau, Quebec'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is specified in dollars ('$5,000') and the acquiring company, Delta Resources Limited, is based in Kingston, Ontario, and listed on the TSX Venture Exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 5000,
+      "justification": "The transaction terms state: 'To acquire a 100% interest in the claims, Delta will pay the vendors the sum of $5,000...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw value for the share payment is not provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 350000,
+      "justification": "The transaction terms state: '...and will issue 350,000 shares of the Corporation.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.095,
+      "justification": "The transaction terms mention the number of shares issued (350,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.095'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The NSR is part of the transaction terms, with the vendors retaining the royalty: 'The vendors will retain a 2% Net Smelter Return (\"NSR\") royalty on the claims.'"
+    },
+    "coverage_area_raw": {
+      "value": 1170,
+      "justification": "The announcement states that Delta 'has acquired a 100% interest in twenty-one (21) claims covering 1,170 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The announcement states that Delta 'has acquired a 100% interest in twenty-one (21) claims covering 1,170 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions resources for the separate DELTA-1 project and historical production for the nearby LeMoine mine, but does not provide a current mineral resource estimate for the acquired claims at the Delta-2 property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:DLTA",
+      "justification": "The company is identified in the text as 'Delta Resources Limited (TSXV: DLTA)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Peerless/30670.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Peerless",
+      "justification": "The text announces an option agreement for Bathurst Metals Corp. to acquire an interest in \"12 mineral claims known as the “Peerless Property”\"."
+    },
+    "company_name": {
+      "value": "Bathurst Metals Corp.",
+      "justification": "The acquiring company is identified as \"Bathurst Metals Corp. (“Bathurst” or the “Company”) (TSXV:BMV) (OTC:BMVVD)\"."
+    },
+    "ceo_buyer": {
+      "value": "Harold Forzley",
+      "justification": "The news release is signed on behalf of the board by '“Harold Forzley” CEO Bathurst Metals Corp.'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Bathurst Metals Corp. has entered into a definitive Option Agreement... to acquire an undivided 100% interest in 12 mineral claims known as the “Peerless Property”."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the project as being in a prospective area for gold mineralization and mentions historical drill results with gold grades: \"The Peerless Project is located in the Gold Bridge Mining Camp with similar geological and structural settings to the Bralorne-Pioneer Mines that produced over 4 million ounces of gold\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release about the Peerless project, but a specific URL for the article is not included in the document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Bathurst Metals Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for the transaction amounts given in '$' is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "Under the terms of the Option Agreement, the Company will pay BCT an aggregate of $500,000.00 over four (4) years..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of a number of shares, but their value is not explicitly stated as a lump sum. The number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead, following the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The total is the sum of shares issued to the vendor and a finder: \"issue a total of 7,500,000 common shares to BCT... The Company also issued 500,000 common shares to an arm’s length finder in connection with the transaction.\" (7,500,000 + 500,000 = 8,000,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants being part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being issued as payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.08'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2700000,
+      "justification": "The Company has also committed to incur not less than $2,700,000 in exploration expenditures on the Peerless Property over a four (4) year period."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5500,
+      "justification": "The Peerless Property, covering approximately 5,500 hectares, is located in the Bridge River Mining Camp of British Columbia."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Peerless Property, covering approximately 5,500 hectares, is located in the Bridge River Mining Camp of British Columbia."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical drill intercepts (e.g., '1.70 oz/ton gold') but does not provide a quantified, compliant mineral resource estimate for the property as a whole."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BMV",
+      "justification": "The text identifies the acquiring company as \"Bathurst Metals Corp. (“Bathurst” or the “Company”) (TSXV:BMV)\"."
+    }
+  }
+}

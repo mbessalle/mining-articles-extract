@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Richards Lake/48702.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Richards Lake",
+      "justification": "Recent staking initiated on January 30, 2024 included additions to the existing Lorado, Gulch , Collins Bay Extension (CBE) and Dianne Lake projects, and a new project at Richards Lake."
+    },
+    "company_name": {
+      "value": "Eagle Plains Resources Ltd.",
+      "justification": "Eagle Plains Resources Ltd. (TSX-V:EPL) (\"EPL\" or \"Eagle Plains\") has recently acquired, through the Saskatchewan MARS on-line tenure system, significant additions to its extensive portfolio of Saskatchewan uranium assets."
+    },
+    "ceo_buyer": {
+      "value": "C.C. (Chuck) Downie",
+      "justification": "On behalf of the Board of Directors \"C.C. (Chuck) Downie\" P.Geo President and CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition was made via staking ('acquired, through the Saskatchewan MARS on-line tenure system'). The text also states 'Eagle Plains currently holds a 100% interest in 18 individual projects', which includes the newly acquired Richards Lake project."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article is titled 'Eagle Plains Increases Saskatchewan Uranium Portfolio to 40,050 Hectares' and the project is described as having targets for 'unconformity hosted uranium mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/832714/eagle-plains-increases-saskatchewan-uranium-portfolio-to-40050-hectares",
+      "justification": "The article, sourced from the provided press release link, is titled 'Eagle Plains Increases Saskatchewan Uranium Portfolio to 40,050 Hectares' and explicitly details the acquisition of the Richards Lake project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Eagle Plains Resources Ltd., is listed on the TSX Venture Exchange (TSX-V:EPL), a Canadian stock exchange, which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking through a government system ('acquired, through the Saskatchewan MARS on-line tenure system'), not through a cash purchase from another entity. No cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not through a share-based purchase. No share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not through a purchase. No combined cash and share payment is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via staking. No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Richards Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned for the Richards Lake project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1317,
+      "justification": "The 1317 ha Richards Lake Project is located 14km south of Fond-du-Lac."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The 1317 ha Richards Lake Project is located 14km south of Fond-du-Lac."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states, 'The property has never been drill tested.' and does not provide any mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EPL",
+      "justification": "The text identifies the acquiring company as 'Eagle Plains Resources Ltd. (TSX-V:EPL)'."
+    }
+  }
+}

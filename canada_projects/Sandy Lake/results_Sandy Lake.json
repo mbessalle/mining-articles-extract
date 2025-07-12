@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sandy Lake/33903.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sandy Lake",
+      "justification": "The text identifies the company's existing project: \"S2 Minerals Inc. is a Canadian mineral exploration company and holds the Sandy Lake project in Ontario.\""
+    },
+    "company_name": {
+      "value": "S2 Minerals Inc.",
+      "justification": "The acquiring company is identified at the beginning of the article: \"S2 Minerals Inc. (CSE: STWO) (\"S2 \" or the \"Company\") announces that it has acquired 880 mining claims...\""
+    },
+    "ceo_buyer": {
+      "value": "Dan Noone",
+      "justification": "The CEO of the buyer, S2 Minerals Inc., is listed at the end of the article: \"For further information please contact: Dan Noone CEO\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention an acquisition of interest in the Sandy Lake project. The transaction described is for a different property."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "No commodity is mentioned for the Sandy Lake project or the acquired property."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about a transaction for the Sandy Lake project. It announces the acquisition of a different property: \"S2 Minerals Inc. ... announces that it has acquired 880 mining claims (the \"Property\") in the Veekay Lake, Gifford Lake, Opikeigan Lake, Frond Lake, Rich Lake and Reserve Lake areas in Ontario.\" The Sandy Lake project is only mentioned as a pre-existing asset."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No transaction for the Sandy Lake project is described, so no currency is applicable. The currency mentioned relates to a different property acquisition."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payment of $300,000 was for the acquisition of a different property, not the Sandy Lake project. The text states the payment was for 'the Property', which is defined as claims in the Veekay Lake, Gifford Lake, etc. areas."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payment, which resulted in the issuance of shares with a deemed value of $50,000 (526,315 shares at $0.095), was for the acquisition of a different property, not the Sandy Lake project. The text states this was for 'the Property', defined as claims in the Veekay Lake, Gifford Lake, etc. areas."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment for the Sandy Lake project is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of 526,315 shares was for the acquisition of a different property, not the Sandy Lake project. The text states the shares were issued as part of the consideration for 'the Property', which is defined as claims in the Veekay Lake, Gifford Lake, etc. areas."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The deemed share price of $0.095 was for shares issued for the acquisition of a different property, not the Sandy Lake project. The text states this price was for shares issued as part of the consideration for 'the Property', which is defined as claims in the Veekay Lake, Gifford Lake, etc. areas."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2% net smelter returns royalty is associated with the acquisition of a different property, not the Sandy Lake project. The text states the royalty is on 'the Property', which is defined as claims in the Veekay Lake, Gifford Lake, etc. areas."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article describes the acquisition of '880 mining claims', but this is for a different property, not the Sandy Lake project. The mention of '167,000 acres' for the Sandy Lake project is a description of a pre-existing asset, not part of a new transaction."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No area was acquired for the Sandy Lake project in this transaction."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:STWO",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"S2 Minerals Inc. (CSE: STWO)\""
+    }
+  }
+}

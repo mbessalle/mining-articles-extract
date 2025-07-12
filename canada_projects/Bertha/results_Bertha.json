@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bertha/90605.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bertha",
+      "justification": "The press release announces an option agreement for Torr Metals Inc. to \"acquire 100% of the 57 km² Bertha Property (“Bertha”).\""
+    },
+    "company_name": {
+      "value": "Torr Metals Inc.",
+      "justification": "The acquiring company is identified as \"Torr Metals Inc. (“Torr” or the “Company”) (TSX-V: TMET.V)\"."
+    },
+    "ceo_buyer": {
+      "value": "Malcolm Dorsey",
+      "justification": "The press release is signed off by \"Malcolm Dorsey President, CEO and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Torr has entered into a property option agreement (the “Bertha Property Option Agreement”) to acquire a 100% interest in a series of mineral claims located in the province of British Columbia referred to as the “Bertha Property”"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline of the article is \"Torr Metals Expands Kolos Project with Optioning of Drill-Permitted Bertha Property, Featuring Historical High-Grade Copper Up to 8.48% in Outcrop\". The text also states \"The Bertha Property hosts nine significant copper and gold occurrences\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The net smelter return buydown clause specifies the currency: \"a cash payment of $1,000,000 (CDN).\""
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The total cash payment is the sum of all tranches mentioned in the agreement: $5,000 upon signing, $20,000 within three months, $25,000 on the 1st anniversary, $75,000 on the 2nd anniversary, and $125,000 on the 3rd anniversary."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit dollar value for the share payments is provided. The deal is structured with a number of shares to be issued, which is captured in other fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 900000,
+      "justification": "The total shares to be issued is the sum of all tranches specified in the agreement: \"issue 100,000 common shares\", \"issue 200,000 common shares\", \"issue 200,000 common shares\", and \"issue 400,000 common shares\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": 0.14,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.14'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 500000,
+      "justification": "The agreement requires Torr to \"On the 3rd anniversary of the approval date... complete a minimum of $500,000 of expenditures on the Bertha Property\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The property is acquired \"subject to a 2% net smelter return.\""
+    },
+    "coverage_area_raw": {
+      "value": 57,
+      "justification": "The agreement is to \"acquire 100% of the 57 km² Bertha Property (“Bertha”).\""
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The agreement is to \"acquire 100% of the 57 km² Bertha Property (“Bertha”).\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical drill and trench results but does not contain a quantified mineral resource estimate with total tonnage or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TMET",
+      "justification": "The buyer is identified as \"Torr Metals Inc. (“Torr” or the “Company”) (TSX-V: TMET.V)\" and the detailed quote section confirms \"Exchange: TSXV\"."
+    }
+  }
+}

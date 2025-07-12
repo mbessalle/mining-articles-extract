@@ -1,0 +1,123 @@
+--- Article Metadata ---
+Project Name: Bounty
+Company Name: Manning Ventures Inc.
+Exchange: CSE
+Ticker: MANN
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.4.2023, 3:38:00 AM
+
+# Manning Ventures Inc. Announces Closing of Non-Brokered Private Placement, Update to Proposed Acquisition of Quebec Mineral Claims and Appointment of New Executive Chairman of the Board
+
+[](https://manning-ventures.com/)  
+---  
+  
+[]()Vancouver, British Columbia - TheNewswire - November 3, 2023 - Manning Ventures Inc. (“Manning” or the “Company”) (CSE: MANN, Frankfurt: 1H5) is pleased to announce that further to its news release dated October 17, 2023, the Company has increased the size of its previously announced non-brokered private placement of units of the Company (“Units”) at a price of $0.09 per Unit (the “Offering”), from up to $1,000,000 to $1,019,044.89 and has subsequently closed the Offering. Pursuant to the Offering, the Company issued an aggregate of 11,322,721 Units for aggregate gross proceeds of $1,019,044.89. 
+
+Each Unit is comprised of one (1) common share in the capital of the Company (each, a “Share”) and one (1) Share purchase warrant (each, a “Warrant”). Each Warrant entitles the holder thereof to purchase one (1) additional Share (each, a “Warrant Share”) at an exercise price of $0.12 per Warrant Share, for a period expiring on the date that is twelve (12) months from the date of issuance. 
+
+The Company paid to certain arm’s length finders (each, a “Finder”) a cash fee in the aggregate amount of $30,785.65 and issued to the Finders an aggregate of 342,063 Share purchase warrants (each, a “Finder’s Warrant”), representing 7.0% of the proceeds raised from those purchasers introduced by such Finder and 7.0% of the total number of Units sold to investors introduced by such Finder, respectively. Each Finder’s Warrant entitles the holder thereof to acquire one (1) Share (each, a “Finder’s Warrant Share”) at a price of $0.12 per Finder’s Warrant Share, for a period expiring on the date that is twelve (12) months from the date of issuance. 
+
+The Company intends to use the proceeds from the Offering for general working capital purposes, including, but not limited to, the Company’s resource projects (the Newfoundland Lithium Project and the Copper Project in Ontario). 
+
+Certain insiders of the Company participated in the Offering and subscribed for an aggregate of 3,861,110 Units for gross proceeds of $347,499.90 (the “Insider Subscriptions”). The Insider Subscriptions constitute “related party transactions” within the meaning of Multilateral Instrument 61-101 – Protection of Minority Securityholders in Special Transactions (“MI 61-101”). The Company is relying on the exemption from valuation requirement and minority approval pursuant to subsection 5.5(a) and 5.7(a) of MI 61-101, respectively, for the insider participation in the Offering, as the securities do not represent more than 25% of the Company’s market capitalization, as determined in accordance with MI 61-101.
+
+All securities issued in connection with the Offering are subject to a statutory hold period of four (4) months and one (1) day from the date of issuance, in accordance with applicable securities legislation. 
+
+Quebec Mineral Claims
+
+Further to the Company’s news releases dated September 6, 2023, and October 17, 2023, the Company wishes to clarify that the Company entered into an assignment, assumption and amending agreements dated August 28, 2023 (collectively, the “Assignment Agreements”), among the Company, Wildwood Exploration Inc. (“Wildwood”), Shawn Ryan (“Ryan”), Isaac Fage (“Fage”, and together with Wildwood and Ryan, the “Vendors”) and Planet Ventures Inc. (the “Assignor”) to acquire an undivided 100% interest in and to 1,013 mineral claims (the “Potier Claims”) and an additional 413 mineral claims (the “Pow Claims” and together with the Potier Claims, the “Claims”), located in the Province of Quebec, Canada (collectively, the “Acquisitions”). 
+
+The Assignor had previously agreed to acquire the Claims from the Vendors pursuant to mineral claim sales agreements dated each of June 15, 2023 and July 13, 2023 (collectively, the “Original Agreements”). As of August 28, 2023, the Assignor agreed to assign to the Company, the rights and obligations granted to the Assignor pursuant to the Original Agreements. In accordance with the terms of the Assignment Agreements, the Company will issue to the Assignor, an aggregate of 1,000,000 Shares. The Acquisitions have not yet closed as of the date hereof. 
+
+The entering into of the Assignment Agreements constitutes “related party transactions” within the meaning of MI 61-101 as Alex Klenman, the Chief Executive Officer of the Assignor, is Chief Executive Officer of the Company, and Christopher Cooper, a director of the Assignor, is Chief Financial Officer and a director of the Company. The Company is relying on the exemption from valuation requirement and minority approval pursuant to subsection 5.5(a) and 5.7(a) of MI 61-101, respectively, as the fair market value of the Acquisitions does not represent more than 25% of the Company’s market capitalization, as determined in accordance with MI 61-101. All securities issued in connection with the Acquisitions will be subject to a statutory hold period of four (4) months plus one (1) day from the date of issuance in accordance with the applicable securities legislation. 
+
+Potier Claims Transaction Details 
+
+As consideration for the Potier Claims, the Company has agreed to: (i) pay a cash fee of $350,000 to Wildwood; and (ii) issue to Ryan and Fage, an aggregate of 8,000,000 common shares in the capital of the Company (the “Potier Consideration Shares”). The Potier Consideration Shares will be subject to voluntary escrow conditions pursuant to which: (i) 1/3 of the Potier Consideration Shares will be released from escrow on the date that is four (4) months and a day after the date on which the Company acquires the Potier Claims (the “Potier Closing Date”); (ii) 1/3 of the Potier Consideration Shares will be released from escrow on the date that is eight (8) months after the Potier Closing Date; and (iii) 1/3 of the Potier Consideration Shares will be released from escrow on the date that is twelve (12) months after the Potier Closing Date. Additionally, the Company will grant to Ryan, a one percent (1.0%) net smelter return royalty on the Potier Claims.
+
+Pow Claims Transaction Details 
+
+As consideration for the Pow Claims, the Company has agreed to: (i) pay a cash fee of $125,000 to Wildwood; and (ii) issue to Ryan and Fage, an aggregate of 2,000,000 common shares in the capital of the Company (the “Pow Consideration Shares”). The Pow Consideration Shares will be subject to voluntary escrow conditions pursuant to which: (i) 1/3 of the Pow Consideration Shares will be released from escrow on the date that is four (4) months and a day after the date on which the Company acquires the Pow Claims (the “Pow Closing Date”); (ii) 1/3 of the Pow Consideration Shares will be released from escrow on the date that is eight (8) months after the Pow Closing Date; and (iii) 1/3 of the Pow Consideration Shares will be released from escrow on the date that is twelve (12) months after the Pow Closing Date. Additionally, the Company will grant to Ryan, a one percent (1.0%) net smelter return royalty on the Pow Claims.
+
+The securities of the Company referred to in this news release have not been and will not be registered under the United States Securities Act of 1933, as amended (the "U.S. Securities Act"), or any state securities laws. Accordingly, the securities of the Company may not be offered or sold within the United States unless registered under the U.S. Securities Act and applicable state securities laws or pursuant to an exemption from the registration requirements of the U.S. Securities Act and applicable state securities laws. This news release does not constitute an offer to sell or a solicitation of any offer to buy any securities of the Company in any jurisdiction in which such offer, solicitation or sale would be unlawful.
+
+New Chairman of the Board
+
+The Company is also pleased to announce that it has appointed Etienne Moshevich as its new Chairman of the board of directors of the Company (the “Board”), effective November 2, 2023. Mr. Moshevich brings over a decade of leadership and capital markets experience in both the public and private sectors to the Company, and currently holds a senior management and board position with Atco Mining Inc.  
+
+With the proposed acquisition of the Claims, the recent consolidation and financing efforts, Manning wants to emphasize the approach it is taking to the resource space and expose its story to a broad range of investors globally. The appointment of Mr. Moshevich as Chairman of the Board strengthens the Company’s team by adding relevant experience as the Company begins its exploration and development stage of the new projects.
+
+“I am extremely pleased to be working with Manning” says Etienne Moshevich. “As its new Chairman and significant shareholder, I will do everything I can to enhance our assets and build value for all our investors. I think we have an incredible portfolio of lithium projects that we will look to continue to build and expand over the coming quarters and I look forward to keeping everyone updated as we progress.”
+
+Mr. Moshevich, through his company Transcend Capital Inc., subscribed for 2,305,555 Units of the Offering, which form part of the Insider Subscriptions.  
+
+About Manning
+
+ 
+
+Manning is a lithium-focused exploration and development company operating in Canada. Manning’s project portfolio includes the Bounty Lithium Project, located in Quebec, and the Dipole Lithium Project, located in Newfoundland, in addition to over 65,000-hectares of highly prospective ground in the emerging Leaf River Lithium Camp, locating in Northern Quebec.
+
+On behalf of the Board of Directors,
+
+MANNING VENTURES INC. 
+
+“Alex Klenman”
+
+Chief Executive Officer
+
+ 
+
+This news release contains "forward-looking statements" within the meaning of applicable securities laws. Forward-looking statements can be identified by words such as: “anticipate”, “intend”, “plan”, “believe”, “estimate”, “expect”, “strategy”, “future”, “likely”, “may”, “to be”, “could”, “would”, “should”, “will” and similar references to future periods or the negative or comparable terminology, as well as terms usually used in the future and conditional. Example of forward-looking statements in this news release, without limitation, include the closing of the Acquisitions, acquisition of the Claims, the issuance of the Potier Consideration Shares and the Pow Consideration Shares, the approval of the CSE of the Acquisitions,  and the exploration and development of the Company’s projects. These forward-looking statements are based on assumptions as of the date they are provided, including the approval of the CSE being obtained, as necessary. However, there can be no assurance that such assumptions will reflect the actual outcome of such items or factors. 
+
+Additionally, forward-looking information is subject to known and unknown risks, uncertainties and other factors that may cause the Company's actual results, level of activity, performance, or achievements to be materially different from those expressed or implied by such forward looking information. Therefore, you should not rely on any of these forward-looking statements. Important risk factors that could cause actual results and financial conditions to differ materially from those indicated in the forward-looking statements, include the following: that the approval of the CSE, as needed, may not be obtained, that the Acquisitions may not occur when anticipated, market and business conditions in Canada, market volatility, unforeseen delays in timelines for any of the transactions or events described in this news release, the risk of regulatory changes that may impact the business of the Company, failure of management to execute their respective business strategies. All forward looking information in this news release is qualified in its entirety by this cautionary statement. 
+
+Neither the Canadian Securities Exchange nor its Regulation Services Provider accept responsibility for the adequacy or accuracy of this news release.
+
+[]()THIS NEWS RELEASE IS NOT FOR DISTRIBUTION TO U.S. NEWSWIRES OR DISSEMINATION IN THE UNITED STATES
+
+Copyright (c) 2023 TheNewswire - All rights reserved.
+
+### Project Name
+
+[Bounty Project](/?gid=3494)  
+Quebec, Canada
+
+[Project Summary](https://app.mininghub.com?gid=3494&modal=project_summary)[Company Profile](https://app.mininghub.com/company/manning-ventures-inc/1501)[All Projects](https://app.mininghub.com/company/manning-ventures-inc/1501)
+
+### Other Company News
+
+2/27/2025 [Manning Ventures Completes Drill Program at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-completes-drill-program-at-the-copper-hill-project-nevada-usa-89447)
+
+1/14/2025 [Manning Ventures Receives Initial Results and Resumes Drill Program at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-receives-initial-results-and-resumes-drill-program-at-the-copper-hill-project-nevada-usa-84009)
+
+12/18/2024 [Manning Ventures Continues Drilling at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-continues-drilling-at-the-copper-hill-project-nevada-usa-82370)
+
+12/10/2024 [Manning Ventures Completes First Two Drill Holes at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-completes-first-two-drill-holes-at-the-copper-hill-project-nevada-usa-81489)
+
+12/3/2024 [Manning Ventures Commences Drill Program at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-commences-drill-program-at-the-copper-hill-project-nevada-usa-80774)
+
+11/27/2024 [Manning Ventures Mobilizes Crew and Equipment for Upcoming Drill Program at the Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-mobilizes-crew-and-equipment-for-upcoming-drill-program-at-the-copper-hill-project-nevada-usa-80175)
+
+11/14/2024 [Manning Ventures Hires Driller For Upcoming Drill Program At The Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-hires-driller-for-upcoming-drill-program-at-the-copper-hill-project-nevada-usa-78812)
+
+10/24/2024 [Manning Ventures Receives Drill Permit For The Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-receives-drill-permit-for-the-copper-hill-project-nevada-usa-75915)
+
+10/2/2024 [Manning Ventures Submits Drill Plan For The Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-submits-drill-plan-for-the-copper-hill-project-nevada-usa-73565)
+
+8/20/2024 [Manning Ventures Provides Drilling Update For Its Copper Hill Project, Nevada, USA](/article/manning-ventures-inc/cnx-mann/-/manning-ventures-provides-drilling-update-for-its-copper-hill-project-nevada-usa-68834)
+
+--- Detailed Quote ---
+
+Last: 0.02                       Beta: 1.07511
+Year High: 0.065                  Market Cap: 680.20k
+PB Ratio: -1.01                   EPS: -0.27
+Average Volume (30 Day): 6,383    Prev. Close: 0.02
+VWAP: 0.02                       Year Low: 0.02
+Total Shares: 34.01m               Shares Out: 34.01m
+Float: 33.87m                      Exchange: CSE

@@ -1,0 +1,72 @@
+--- Article Metadata ---
+Project Name: Kingsville Salt
+Company Name: QNB Metals Inc.
+Exchange: CSE
+Ticker: TIM.X
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.16.2023, 7:30:00 PM
+
+# QNB Metals Adds to Salt Property Portfolio and Closes Kingsville Salt Deposit Acquisition
+
+MONTRÉAL, Nov. 16, 2023 /CNW/ - QNB Metals Inc. (CSE: TIM.X) (the "**Company** ") is pleased to announce that the Company has entered into an arm's length option agreement (the "**Option** ") dated November 15, 2023, to acquire a 100% interest in the Havre Aubert East property (the "**Property** ") located in the Magdalen Islands in the Province of Quebec, Canada.
+
+The property consists of eight non-contiguous claims situated in the southern region of Havre Aubert Island. While some of these claims are located to the west, near L'Anse-à-la-Cabane, the remaining ones are situated to the south, on the Dune du Harve.
+
+Between 1940 and 1972, geological surveys and drilling programs were conducted in the Îles-de-la-Madeleine archipelago, leading to the discovery of coarse crystalline rock salt (>98% NaCl) over 462.1 meters in the first hole (hole A-1) from 148.1 meters through 609.6 meters. This hole was collared on the Dune du Harve, along the south shore of Harve-Aubert Island on the property.
+
+The Havre Aubert East salt deposit is located in the three easternmost claims of the property. According to SOQUEM, it is a salt formation that is situated in an environment where volcanic and clay facies are prevalent. The primary impurity of the salt is clay, and anhydrite is scarce. The diapiric deposit is characterized by a greatly disturbed and complex original geological structure. The top of the deposit is at least 1500 meters below sea level. SOQUEM has reported in 1979 an historical estimate of 159.8 million metric tons of salt reserves at a grade above or equal to 90% NaCI.
+
+In the upcoming months, the historical geophysical and drill hole data will be reprocessed, validated, and assimilated to enable the planning of a geological program that will unlock the full potential of the property.
+
+**Terms of the Agreement**
+
+Pursuant to the Option and following the acceptance of the CSE of the Option (the "**Effective Date** "), as consideration for the acquisition of the interest in the Property, the Company will pay an aggregate of $120,000 in cash and issue an aggregate of 6,000,000 common shares (each a "**Share** ") of the Company (the "**Option Shares** ") to the vendor, as follows: (i) 500,000 Shares on the Effective Date; (ii) $15,000 on or before April 30, 2024, (iii) $25,000 and 500,000 Shares on or before the date that is 12 months from the Effective Date, (iii) $40,000 and 1,000,000 Shares on or before the date that is 24 months from the Effective Date; (iv) $40,000 and $1,000,000 on or before the date that is 36 months form the Effective Date.
+
+In addition to the Option Shares, the Company shall issue to the vendor 3,000,000 Shares on the declaration of proven reserve supported by a technical 43-101 reserve calculation report that the Company deems economically feasible to continue developing the Property.
+
+All Shares issued under the Agreement will be subject to a four month and one day statutory hold period.
+
+**Closing of Kingsville Acquisition**
+
+The Company is also pleased to announce the closing of the previously announced acquisition of a 100% interest in the Kingsville Salt Deposit (the "**Property** ") pursuant to a purchase agreement dated October 30, 2023.
+
+The consideration for the acquisition of the Property was paid by the issuance of 9,000,000 Shares to the vendors (see October 31, 2023 press release for further details).
+
+**Qualified Person**
+
+The technical content of this news release has been reviewed and approved by Patrick Laforest, B.Sc., MBA, P.Geo. who is an independent Qualified Person (QP) as defined in National Instrument 43-101, Standards of Disclosure for Mineral Projects. The QP and the Company have not completed sufficient work to verify the historic information on the properties, particularly regarding historical exploration, neighbouring companies, and government geological work.
+
+**About the Corporation**
+
+QNB Metals Inc. is an exploration and development company focused on creating shareholder value through the strategic acquisition of Nickel & Copper and salt projects while closing and maintaining key partnerships.
+
+_Neither the CSE nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this release._
+
+_This news release includes certain "forward-looking statements" under applicable Canadian securities legislation.   Forward-looking statements are necessarily based upon several estimates and assumptions that, while considered reasonable, are subject to known and unknown risks, uncertainties, and other factors which may cause the actual results and future events to differ materially from those expressed or implied by such forward looking statements. Such factors include, but are not limited to general business, economic, competitive, political, and social uncertainties, and uncertain capital markets. Readers are cautioned that actual results and future events could differ materially from those anticipated in such statements. Accordingly, readers should not place undue reliance on forward-looking statements. The Company disclaims any intention or obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by law._
+
+SOURCE QNB Metals Inc.
+
+### Project Name
+
+[Kingsville Salt Project](/?gid=5607)  
+Canada
+
+--- Detailed Quote ---
+
+Last: 0.035            $  Chg: 0.005
+Open: 0.035            High: 0.035
+Beta: -1.82053            Year High: 0.21
+Market Cap: 1.64m      PB Ratio: 2.63
+EPS: 0.04             Average Volume (30 Day): 92.82k
+Volume: 111.00k          % Chg: 16.67%
+Prev. Close: 0.03     Low: 0.035
+VWAP: 0.035            Year Low: 0.015
+Total Shares: 46.75m    Shares Out: 46.75m
+PE Ratio: 0.75        Float: 46.75m
+Exchange: CSE

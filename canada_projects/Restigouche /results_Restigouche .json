@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Restigouche /89407.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Restigouche",
+      "justification": "Magna Terra Minerals Inc. ... is pleased to announce that it has optioned a large strategic exploration land package; the Restigouche Property (\"Restigouche\" or the \"Property\")"
+    },
+    "company_name": {
+      "value": "Magna Terra Minerals Inc.",
+      "justification": "Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT) is pleased to announce that it has optioned a large strategic exploration land package; the Restigouche Property..."
+    },
+    "ceo_buyer": {
+      "value": "Lew Lawrick",
+      "justification": "_~ Lew Lawrick, President and CEO, Magna Terra Minerals Inc._"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company has acquired the Restigouche Property (covering 24 mineral claims) from Prospect Or Corp., ('Prospect Or'), under an option agreement dated February 26, 2025. The Company can earn a 100% interest in the Rocky Brook Project by issuing 266,000 common shares on signing..."
+    },
+    "primary_commodity": {
+      "value": "zinc-lead-silver-copper",
+      "justification": "This horizon is host to the nearby stratiform volcanogenic zinc-lead-silver-copper, past-producing, Restigouche deposit..."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/magna-terra-acquires-large-strategic-property-further-enhancing-its-rocky-brook-pr-992520",
+      "justification": "The article is titled 'Magna Terra Acquires Large Strategic Property Further Enhancing Its Rocky Brook Project in Northern New Brunswick' and the body states 'Magna Terra Minerals Inc. ... is pleased to announce that it has optioned a large strategic exploration land package; the Restigouche Property'. This confirms the article is about the correct project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses the '$' symbol for payments (e.g., '$50,000 in cash'). The acquiring company, Magna Terra Minerals Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian stock exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (Calculable Share Value) was selected as the number of shares and a floor price were provided in the deal terms. This makes other financial fields, including cash payments, null. The transaction includes a $50,000 cash payment and a further $110,000 payable in cash or shares, but these are excluded due to the strict hierarchy rule."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (Calculable Share Value) was selected. This field is part of Priority 1 and must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (Calculable Share Value) was selected. This field is part of Priority 3 and must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 2466000,
+      "justification": "The total consideration includes an initial share issuance and subsequent payments that can be made in shares. The text states: 'the maximum number of common shares issuable by the Company with respect to the potential share consideration payable for the agreement is 2,466,000 common shares.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The agreement specifies a floor price for share issuances: 'All share issuances will be based on the greater of $0.05 per share or the 10-day volume weighted average price on the date a payment is due...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the agreement terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement specifies that the seller retains a royalty: 'Prospect Or retains a 2% Net Smelter Return Royalty ('NSR') with 1% of the NSR purchasable at anytime by Magna Terra for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 6605,
+      "justification": "Restigouche comprises approximately 6,605 hectares in 24 mineral claims..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Restigouche comprises approximately 6,605 hectares in 24 mineral claims..."
+    },
+    "resource_size": {
+      "value": "1.08 million tonnes grading 5.00% Zn, 3.30% Pb, 0.22% Cu, 46.30 g/t Ag, and 0.52 g/t Au and an historical inferred mineral resource comprising 0.58 million tonnes grading 6.10% Zn, 4.30% Pb, 0.28% Cu, 67.83 g/t Ag, and 0.81 g/t Au",
+      "justification": "An historical measured and indicated mineral resource comprising 1.08 million tonnes grading 5.00% Zn, 3.30% Pb, 0.22% Cu, 46.30 g/t Ag, and 0.52 g/t Au and an historical inferred mineral resource comprising 0.58 million tonnes grading 6.10% Zn, 4.30% Pb, 0.28% Cu, 67.83 g/t Ag, and 0.81 g/t Au were estimated by Trevali Mining in 2021 (Armstrong, 2021*)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MTT",
+      "justification": "Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT) is pleased to announce that it has optioned a large strategic exploration land package..."
+    }
+  }
+}

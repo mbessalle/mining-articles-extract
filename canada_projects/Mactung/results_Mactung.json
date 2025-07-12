@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mactung/31843.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mactung",
+      "justification": "The article is titled \"Fireweed Announces Signing of Definitive Agreement on Mactung Project\" and refers to the acquisition of the \"Mactung Tungsten Project\"."
+    },
+    "company_name": {
+      "value": "Fireweed Metals Corp.",
+      "justification": "The press release is from \"FIREWEED METALS CORP. (“Fireweed” or the “Company”) (TSXV: FWZ; OTCQB: FWEDF, formerly Fireweed Zinc Ltd.)\"."
+    },
+    "ceo_buyer": {
+      "value": "Brandon Macdonald",
+      "justification": "The article includes a statement from \"Brandon Macdonald, CEO\" and is signed \"ON BEHALF OF FIREWEED METALS CORP. “Brandon Macdonald” CEO & Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states Fireweed signed a \"definitive Asset Purchase Agreement for the acquisition of 100% interest in the Mactung Tungsten Project\"."
+    },
+    "primary_commodity": {
+      "value": "Tungsten",
+      "justification": "The project is consistently referred to as the \"Mactung Tungsten Project\" and is described as \"one of the largest and highest-grade tungsten deposits in the world\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the Mactung project acquisition by Fireweed Metals, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies the purchase price in Canadian dollars: \"...a total purchase price of C$15,000,000...\"."
+    },
+    "cash_payments_raw": {
+      "value": 15000000,
+      "justification": "The total purchase price is stated as \"C$15,000,000\", which is composed of four staged cash payments: $1,500,000, $3,500,000, $5,000,000, and another $5,000,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms outlined in the document only mention cash payments. There is no mention of share payments as part of the acquisition consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are explicitly broken down into cash payments. Per the extraction hierarchy, this field is null when explicit cash values are available."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition agreement with the Government of Northwest Territories."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not include any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions a grant of stock options, but specifies they are for \"staff members including the new Corporate Secretary\" and not part of the Mactung project acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition agreement, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement terms do not mention any exploration commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states 'Mactung carries an existing net smelter return royalty (“NSR”) of 4%, which is held by a third party'. This is a pre-existing condition of the asset and not a royalty acquired or retained as part of the transaction terms between Fireweed and the GNWT."
+    },
+    "coverage_area_raw": {
+      "value": 37.6,
+      "justification": "The text states: \"Fireweed has signed a definitive Asset Purchase Agreement and acquired 100% interest in the 37.6 km2 Mactung Tungsten Project...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states: \"Fireweed has signed a definitive Asset Purchase Agreement and acquired 100% interest in the 37.6 km2 Mactung Tungsten Project...\""
+    },
+    "resource_size": {
+      "value": "33.0 million tonnes (Mt) grading 0.88% WO3 (tungsten trioxide) plus historic inferred resources of 11.8 Mt grading 0.78% WO3",
+      "justification": "The text states: \"Historic 2007 indicated resources1 totaled 33.0 million tonnes (Mt) grading 0.88% WO3 (tungsten trioxide) plus historic inferred resources of 11.8 Mt grading 0.78% WO3.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FWZ",
+      "justification": "The text states: \"In Canada, Fireweed (TSXV: FWZ) trades on the TSX Venture Exchange.\""
+    }
+  }
+}

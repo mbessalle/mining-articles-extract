@@ -1,0 +1,107 @@
+--- Article Metadata ---
+Project Name: Sherridon
+Company Name: T2 Metals Corp.
+Exchange: TSXV
+Ticker: TWO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.22.2024, 8:00:00 PM
+
+# T2 Metals Expands Landholding Following High Grade Drill Results at Sherridon VHMS Project, Manitoba
+
+Vancouver, British Columbia--(Newsfile Corp. - February 22, 2024) - **T2 Metals Corp. (TSXV: TWO) (OTCQB: AGLAF) (WKN: A2DR6E) ("T2 Metals" or the "Company")** is pleased to announce staking of additional exploration claims at the**Sherridon** Project in Manitoba, following shallow high-grade copper and zinc intersected in drilling completed during Q4 2023 (see Table 1). 
+
+Drilling results included:
+
+**SHN23001:** 10.0 m grading 0.92% Cu, 4.70% Zn, 0.37 g/t Au and 10.8 g/t Ag (2.74% CuEq) from 76.0 m; 
+
+**SHN23011:** 9.3 m grading 0.85% Cu, 4.01% Zn, 1.08 g/t Au and 17.6 g/t Ag (3.09% CuEq) from 44.2 m;
+
+The additional claims secure the along strike potential of massive sulphides intersected during the Q4 2023 drilling. Utilising this new data, an extensive and ongoing target generation program at Sherridon identified a range of high merit targets, which will be followed up on during the summer 2024 field season with field mapping, geochemistry, geophysics and drilling. 
+
+Sherridon is a well-known Volcanic-Hosted Massive Sulphide ("VHMS") VHMS camp in the Flin Flon - Snow Lake Greenstone Belt, with both a significant mining history and substantial copper-rich historical resources. The Project has year-round road access, is 70 km from the mining centre of Flin Flon, and lies upon an operating rail line. The new staking is 100% owned by T2 Metals, totals 1024 hectares and lies immediately east of the existing Sherridon Joint Venture area.
+
+Mark Saxon, CEO of T2 Metals Corp. said, "_These new claims strengthen T2 Metals' position in the Sherridon VHMS camp, and unlock a new set of untested targets. We look forward to assessing their potential during the coming field season. Additional drill results will be released as they come available._ "
+
+Twelve holes for a total of 1,500 metres were completed by T2 Metals during Q4 2023, testing a total strike length of 1,420 metres within and between the Cold Lake and Lost Lake Deposits. These two deposits occur along a VHMS horizon that is both parallel to and normally less than 850 metres perpendicular to the VHMS horizon that hosts Sherritt Gordon's historic Sherridon East and Sherridon West Mines, where **7.74 million tonnes were mined at an average grade of 2.46% Cu, 2.84% Zn, 0.6 g/t Au and 33 g/t Ag** (Goetz & Froese, 1981) between 1931 and 1951. 
+
+**VHMS Type Deposits**
+
+VHMS deposits are attractive high-value exploration targets that sustain much of the world's supply of zinc, copper and silver and, in addition, are a major source of critical "high tech" metals germanium and indium. They typically occur in districts or "camps" comprised of numerous deposits of various sizes. They can be very high grade and are regularly gold enriched, with large very long-life deposits being "company-makers" (eg the founding of Rio Tinto). Longer-life mining operations tend to show total production exceeding the original pre-mining size by more than three times. 
+
+ 
+
+**HOLE_ID**| **FROM**| **TO**| **Interval**| **Cu**| **Zn**| **Pb**| **Au**| **Ag**| **CuEq**| **ZnEq**  
+---|---|---|---|---|---|---|---|---|---|---  
+  
+| **(m)**| **(m)**| **(m)**| **%**| **%**| **%**| **g/t**| **g/t**| **%**| **%**  
+**SHN23001**| **75.97**| **85.98**| **10.01**| **0.92**| **4.70**| **0.02**| **0.37**| **10.82**| **2.74**| **9.01**  
+Including| 75.97| 80.79| 4.82| 1.45| 6.88| 0.02| 0.65| 16.96| 4.21| 13.84  
+Including| 75.97| 77.76| 1.79| 2.15| 12.29| 0.01| 0.81| 24.37| 6.75| 22.20  
+**SHN23002**| **104.94**| **109.45**| **4.51**| **0.92**| **1.90**| **0.02**| **0.40**| **11.81**| **1.92**| **6.32**  
+**SHN23003**| **44.95**| **48.66**| **3.71**| **1.77**| **5.16**| **0.01**| **0.68**| **20.56**| **4.06**| **13.36**  
+**SHN23004**| **87.03**| **95.00**| **7.97**| **2.17**| **4.78**| **0.05**| **1.83**| **34.42**| **5.40**| **17.74**  
+Including| 87.03| 90.83| 3.80| 4.23| 9.77| 0.03| 2.30| 54.00| 9.52| 31.30  
+ _Previously Reported_  
+**SHN23008**| **49.38**| **63.78**| **14.40**| **0.88**| **2.58**| **0.02**| **0.51**| **9.85**| **2.16**| **7.11**  
+Including| 49.38| 52.13| 2.75| 3.34| 6.00| 0.01| 1.92| 33.23| 6.99| 22.95  
+**SHN23009**| **34.91**| **40.65**| **5.74**| **1.42**| **1.18**| **0.03**| **0.85**| **18.85**| **2.63**| **8.65**  
+**SHN23010**| **105.00**| **110.52**| **5.52**| **1.77**| **1.47**| **0.09**| **2.30**| **37.22**| **4.41**| **14.50**  
+**SHN23011**| **39.00**| **53.50**| **14.50**| **0.92**| **2.82**| **0.04**| **0.78**| **13.76**| **2.52**| **11.50**  
+Including| 44.22| 53.50| 9.28| 0.85| 4.01| 0.07| 1.08| 17.57| 3.09| 10.20  
+  
+ 
+
+_Table 1: Assay Results From Batches 1 and 2, Cold and Lost Prospects, Sherridon_
+
+The qualified person for the Company's projects, Mr. Mark Saxon, the Company's Chief Executive Officer, a Fellow of the Australasian Institute of Mining and Metallurgy and a Member of the Australian Institute of Geoscientists, has reviewed and approved the contents of this release.
+
+**About T2 Metals Corp (TSXV: TWO) (OTCQB: AGLAF) (WKN: A2DR6E)**
+
+T2 Metals Corp is an emerging copper and precious metal company enhancing shareholder value through exploration and discovery. The Company continues to target under-explored areas, including the Sherridon, Lida, Cora and Copper Eagle projects where post-mineralization cover masks areas of high geological prospectivity in the vicinity of major mines.
+
+ON BEHALF OF THE BOARD,
+
+_**"Mark Saxon"**_
+
+Mark Saxon  
+President & CEO
+
+For further information, please contact:
+
+_[t2metals.com](https://api.newsfilecorp.com/redirect/zE3VmuRaKQ)_
+
+1305 - 1090 West Georgia St., Vancouver, BC, V6E 3V7  
+[info@t2metals.com](mailto:info@t2metals.com)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+_**Cautionary Note Regarding Forward-Looking Statements**_
+
+ _Certain information set out in this news release constitutes forward-looking information. Forward-looking statements are often, but not always, identified by the use of words such as "seek", "anticipate", "plan", "continue", "estimate", "expect", "may", "will", "intend", "could", "might", "should", "believe" and similar expressions. Forward-looking statements are based upon the opinions and expectations of management of the Company as at the effective date of such statements and, in certain cases, information provided or disseminated by third parties. Although the Company believes that the expectations reflected in forward-looking statements are based upon reasonable assumptions, and that information obtained from third party sources is reliable, they can give no assurance that those expectations will prove to have been correct. Readers are cautioned not to place undue reliance on forward-looking statements._
+
+_These forward-looking statements are subject to a number of risks and uncertainties. Actual results may differ materially from results contemplated by the forward-looking statements. Accordingly, the actual events may differ materially from those projected in the forward-looking statements. Such risks include uncertainties relating to exploration activities. When relying on forward-looking statements to make decisions, investors and others should carefully consider the foregoing factors and other uncertainties and should not place undue reliance on such forward-looking statements. The Company does not undertake to update any forward-looking statements, except as may be required by applicable securities laws._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/198831](https://api.newsfilecorp.com/redirect/4QR0wckgaN)
+
+### Project Name
+
+[Sherridon Project](/?gid=5409)  
+Manitoba, Canada
+
+--- Detailed Quote ---
+
+Last: 0.125                       Bid: 0.12
+Bid Size: 104500                   Beta: 1.05524
+Year High: 0.45                  Market Cap: 5.26m
+PB Ratio: 1.17                   EPS: -0.03
+Average Volume (30 Day): 34.09k    Prev. Close: 0.125
+Ask: 0.125                        Ask Size: 67500
+Year Low: 0.11                   Total Shares: 42.04m
+Shares Out: 42.04m                 Float: 35.44m
+Exchange: TSXV

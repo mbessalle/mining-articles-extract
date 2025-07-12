@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/MM/83810.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "MM",
+      "justification": "The primary project of interest was specified as 'MM' in the prompt's authoritative metadata."
+    },
+    "company_name": {
+      "value": "Eagle Plains Resources Ltd.",
+      "justification": "The authoritative company name for the project was specified as 'Eagle Plains Resources Ltd.' in the prompt."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article is about the Theory Project, not the MM Project. The CEO mentioned, Sharyn Alexander, is the President of Sun Summit, the buyer of the Theory Project. This information is not relevant to the MM Project."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an option for Sun Summit to acquire up to 100% interest in the Theory Project, not the MM Project. No acquisition details for the MM Project are provided."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The article describes the Theory Project as a 'copper-gold project'. No commodity information is provided for the MM Project."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about the MM project. The press release is titled 'Eagle Plains Announces Letter of Intent with Sun Summit Minerals for the Theory Copper-Gold Project, British Columbia' and details an option agreement for the Theory Project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The currency mentioned (CDN) pertains to the transaction for the Theory Project, not the MM Project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments mentioned (CDN $250,000 and a potential CDN$ 1,000,000) are for the acquisition of the Theory Project, not the MM Project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments mentioned (750,000 common shares of Sun Summit) are for the acquisition of the Theory Project, not the MM Project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment value is mentioned for the MM Project. The payments detailed are for the Theory Project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The 750,000 shares to be issued are by Sun Summit for the acquisition of the Theory Project, not related to the MM Project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any share warrant payments for any project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any option payments for the MM project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price is associated with the transaction for the MM Project. The transaction described is for the Theory Project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not mention an exploration commitment in meters for the MM Project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment of CDN $3,000,000 is for the Theory Project, not the MM Project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2.0% NSR mentioned is retained by Eagle Plains on the Theory Project, not the MM Project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The coverage area of 9676ha is for the Theory Project, not the MM Project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The unit 'ha' corresponds to the area of the Theory Project, not the MM Project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The document does not contain a mineral resource estimate for the MM Project. Historical results and a resource from a nearby project (Lawyers-Ranch) are mentioned in the context of the Theory Project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer in the described transaction is Sun Summit Minerals Corp. (TSXV:SMN), and the transaction is for the Theory Project, not the MM Project. Therefore, this ticker is not relevant."
+    }
+  }
+}

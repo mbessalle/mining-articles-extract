@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nashwaak Lake/88421.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nashwaak Lake",
+      "justification": "The text announces the acquisition of the 'Nashwaak Lake Tungsten Property'."
+    },
+    "company_name": {
+      "value": "Great Atlantic Resources Corp.",
+      "justification": "The announcement is made by 'GREAT ATLANTIC RESOURCES CORP. (TSXV: GR) (the \"Company\" or \"Great Atlantic\")'."
+    },
+    "ceo_buyer": {
+      "value": "Christopher R. Anderson",
+      "justification": "The press release is signed 'On Behalf of the board of directors \"Christopher R. Anderson\" Mr. Christopher R. Anderson President CEO Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Great Atlantic is pleased to announce it has acquired 100% interest (through a purchase agreement) in the Nashwaak Lake Tungsten Property..."
+    },
+    "primary_commodity": {
+      "value": "Tungsten",
+      "justification": "The press release is titled 'Great Atlantic Acquires Nashwaak Lake Tungsten Property...' and mentions 'Tungsten mineralization is reported at the Nashwaak Lake Property...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241376",
+      "justification": "The article is about the acquisition of the Nashwaak Lake project by Great Atlantic Resources Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial details of the transaction, such as cash or share payments, are mentioned in the article, so the currency cannot be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article mentions a 'purchase agreement' but does not provide any details about cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article mentions a 'purchase agreement' but does not provide any details about share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article mentions a 'purchase agreement' but does not provide any details about the total consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any issuance of shares as part of the acquisition agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the acquisition agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the acquisition agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a share price associated with the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction for the Nashwaak Lake Property. An NSR is mentioned for the nearby Sisson Project, but not for this deal."
+    },
+    "coverage_area_raw": {
+      "value": 222,
+      "justification": "The Nashwaak Lake Property consists of one mineral claim covering an area of approximately 222 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Nashwaak Lake Property consists of one mineral claim covering an area of approximately 222 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the Nashwaak Lake Property. It mentions a resource for the nearby Sisson Project ('334.4 million tonnes of proven and probable reserves'), but explicitly warns that 'mineralization at the Sison Project is not necessarily indicative of mineralization at the Nashwaak Lake Property.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GR",
+      "justification": "The acquiring company is identified as 'GREAT ATLANTIC RESOURCES CORP. (TSXV: GR)'."
+    }
+  }
+}

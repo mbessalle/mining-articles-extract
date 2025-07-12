@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Ring of Fire Claims/38065.txt",
+    "canada_projects/Ring of Fire Claims/73427.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ring of Fire Claims",
+      "justification": "The authoritative project name is 'Ring of Fire Claims'. The text refers to the project as the 'Ring of Fire Project' and 'Ring of Fire property'. For example: 'Canterra Options Northern Ontario Ring of Fire Property to Major Mining Company'."
+    },
+    "company_name": {
+      "value": "Canterra Minerals Corporation",
+      "justification": "The authoritative company name is Canterra Minerals Corporation. The text confirms this: 'Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF) (\"Canterra\" or the \"Company\") is pleased to announce that it has entered into an Option Agreement...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Teck Resources Limited. The text does not name the CEO of Teck. The CEO mentioned, Chris Pennimpede, is the President & CEO of the seller, Canterra Minerals Corporation."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Teck has the option to acquire a 100% interest. '...granting Teck the option to acquire a 100% interest in Canterra's Ring of Fire property (the \"Project\")...'"
+    },
+    "primary_commodity": {
+      "value": "Ni-Cu-PGE",
+      "justification": "The text describes the project as having 'prospective Ni-Cu-PGE mineral claims' and being 'highly prospective for critical metals including nickel and platinum group elements (PGE)'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/224919",
+      "justification": "The article is titled 'Canterra Options Northern Ontario Ring of Fire Property to Major Mining Company' and describes the option agreement for the Ring of Fire Project between Canterra Minerals and Teck Resources."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment table in the agreement terms is explicitly labeled 'Payment Amount (CDN $)'."
+    },
+    "cash_payments_raw": {
+      "value": 275000,
+      "justification": "The total cash consideration is the sum of three payments: $50,000, $125,000, and $100,000. 'In accordance with the terms of the Agreement, Canterra will option 100% of the Project to Teck for gross proceeds of $275,000... Total $275,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration consists of cash payments and a retained royalty; no share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payments are explicitly defined as cash payments, so this field is not applicable per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The agreement is 'subject to a 1.5% Net Smelter Royalty to be retained by Canterra.' The rule specifies to include retained royalties in this field."
+    },
+    "coverage_area_raw": {
+      "value": 3011,
+      "justification": "Both articles state the project size: 'The Company's 100%-owned Ring of Fire Project comprises 3,011 hectares' and 'Canterra's Ring of Fire Property is a 3,011 hectare (\"ha\") land package'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit is specified in the text: 'Canterra's Ring of Fire Property is a 3,011 hectare (\"ha\") land package'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states the project area 'has not been drilled previously' and is 'underexplored', which implies no mineral resource has been defined. The resource estimates provided in the text are for the nearby Eagle's Nest deposit, which is not the project of interest."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Teck Resources Limited. The text does not provide a ticker or exchange for Teck. The ticker provided in the authoritative metadata (TSXV:CTM) belongs to the seller, Canterra Minerals Corporation."
+    }
+  }
+}

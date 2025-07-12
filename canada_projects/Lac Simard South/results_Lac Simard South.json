@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Lac Simard South/32618.txt",
+    "canada_projects/Lac Simard South/35258.txt",
+    "canada_projects/Lac Simard South/41152.txt",
+    "canada_projects/Lac Simard South/76783.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lac Simard South",
+      "justification": "The project is identified in the headline and body of the articles, for example: 'Foremost Lithium to Acquire Lac Simard South Property in Quebec Hosting 24 Identified Pegmatites'."
+    },
+    "company_name": {
+      "value": "Foremost Lithium Resource & Technology Ltd.",
+      "justification": "The acquiring company is identified as: 'Foremost Lithium Resource & Technology Ltd. (CSE: FAT) (OTCQB: FRRSF) (FSE: F0R0) (WKN: A3DCC8) (\"Foremost Lithium\", \"Foremost\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jason Barnard",
+      "justification": "The CEO is identified in multiple articles: 'On Behalf of the Board of Directors Jason Barnard, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The May 15, 2023 article states the company 'has completed the previously announced acquisition of a 100% interest in the Lac Simard South property'."
+    },
+    "primary_commodity": {
+      "value": "lithium",
+      "justification": "The company is named 'Foremost Lithium' and the acquisition is described as being for a lithium property: 'This acquisition is consistent with our focus of acquiring quality assets near known established lithium production and processing regions.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/166195",
+      "justification": "The article titled 'Foremost Closes Previously Announced Acquisition of Lac Simard South Property in Quebec' dated May 15, 2023, details the definitive closing terms of the acquisition of the Lac Simard South project by Foremost Lithium."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Foremost Lithium Resource & Technology Ltd., is listed on the Canadian Securities Exchange (CSE: FAT) and the property is in Quebec, Canada. The consideration is listed in '$', which is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 35000,
+      "justification": "The total cash payment is the sum of two tranches as described in the May 15, 2023 closing announcement: 'Foremost paid the vendors cash consideration of $17,500 plus GST' and 'A further cash payment in the amount of $17,500 plus GST is due and payable to the Property vendors within four months after closing.' The final payment was confirmed in the September 19, 2023 release."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated as a single monetary figure. The consideration is described in terms of number of shares and a deemed price per share, which are captured in other fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A single combined value for the cash and share payments is not provided in the definitive closing announcement."
+    },
+    "amount_of_shares_issued": {
+      "value": 535000,
+      "justification": "The closing announcement from May 15, 2023 states the company 'issued 535,000 common shares (the \"Shares\")'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The initial announcement on March 20, 2023 mentioned warrants, but the definitive closing announcement on May 15, 2023, which outlines the final terms of the transaction, does not include warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration in any of the provided documents."
+    },
+    "issued_share_price": {
+      "value": 0.15,
+      "justification": "The closing announcement from May 15, 2023 states the company 'issued 535,000 common shares (the \"Shares\") at a deemed price of $0.15 per share.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents describe future exploration plans, but do not state a specific monetary exploration commitment as a term of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty was mentioned as being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 4647,
+      "justification": "The final, consolidated project size after the acquisition and additional staking is stated in the May 15 and September 19, 2023 articles: '...resulted in an increase of Lac Simard South land package to 80 mineral claims and to the total area to 11,482 acres/4,647 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the area is specified in the text: '...total area to 11,482 acres/4,647 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Lac Simard South property. It describes the project as having 'identified pegmatites' and outlines future exploration plans 'to find lithium-bearing pegmatites,' indicating it is an early-stage exploration project with no defined resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FAT",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the press releases: 'Foremost Lithium Resource & Technology Ltd. (CSE: FAT)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lightning Strike/84465.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lightning Strike",
+      "justification": "The article is titled 'Lightning Strike Gold-Silver Project Expanded' and a section is dedicated to it: 'ABOUT LIGHTNING STRIKE'."
+    },
+    "company_name": {
+      "value": "Cariboo Rose Resources Ltd.",
+      "justification": "The text identifies the company associated with the project: 'Cariboo Rose Resources Ltd. “Cariboo Rose” (TSX-V: CRB) is pleased to announce that it has reached an agreement to option the Thunder Ridge gold-silver property (“Thunder Ridge”) which lies contiguous to its Lightning Strike gold-silver property (“Lightning Strike”)...'"
+    },
+    "ceo_buyer": {
+      "value": "J.W. (Bill) Morton",
+      "justification": "The news release is signed by 'J.W. (Bill) Morton, P.Geo., President'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction described is for the acquisition of the contiguous Thunder Ridge property, not the Lightning Strike project itself, which the text states is already '100% owned' by Cariboo Rose Resources Ltd."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The project is referred to as the 'Lightning Strike Gold-Silver Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Cariboo Rose Resources Ltd., is listed on the TSX-V, a Canadian exchange, which implies the '$' symbol used in the transaction terms refers to Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments mentioned are for the option on the 'Thunder Ridge property', not the Lightning Strike project. The text states the company has the right to earn an interest in Thunder Ridge 'after making cash payments of $50,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments mentioned are for the option on the 'Thunder Ridge property', not the Lightning Strike project. The text states the company has the right to earn an interest in Thunder Ridge after 'share issuances of 900,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": null
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The share issuance of 900,000 shares is consideration for the 'Thunder Ridge property', not the Lightning Strike project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share issuance is for the Thunder Ridge property, not Lightning Strike. Additionally, no issue price for the shares was specified in the transaction terms."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2.0% Net Smelter Return mentioned is 'reserved for the vendor' of the 'Thunder Ridge property', not the Lightning Strike project."
+    },
+    "coverage_area_raw": {
+      "value": 4192,
+      "justification": "The text states: 'The 100% owned Lightning Strike property... encompassing 4,192 hectares (10,104 acres)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The 100% owned Lightning Strike property... encompassing 4,192 hectares (10,104 acres)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides noteworthy drill intercepts for the Lightning Strike project, such as '3.42 g/t gold and 228.1 g/t silver over 5.0 meters', but does not state a formal mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CRB",
+      "justification": "The text identifies the company as 'Cariboo Rose Resources Ltd. “Cariboo Rose” (TSX-V: CRB)'."
+    }
+  }
+}

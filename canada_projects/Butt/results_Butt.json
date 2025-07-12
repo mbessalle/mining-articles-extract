@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Butt/28436.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Butt",
+      "justification": "The article is titled 'Canoe Mining Ventures Receives Approval for Option on Butt Property' and refers to the property as 'the Butt Township Property'."
+    },
+    "company_name": {
+      "value": "Canoe Mining Ventures Corp.",
+      "justification": "The acquiring company is identified as 'Canoe Mining Ventures Corp. (TSXV: CLV) ( the \"Company\" )'."
+    },
+    "ceo_buyer": {
+      "value": "Scott Kelly",
+      "justification": "The article is signed 'On Behalf of the Board of Directors, Scott Kelly, Director and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has an 'option (the \"Option\") to acquire a 100% legal and beneficial interest in 87 mineral exploration claims'."
+    },
+    "primary_commodity": {
+      "value": "Uranium, Rare Earth Elements, Graphite",
+      "justification": "The text states 'Uranium and rare-earth bearing pitchblende was discovered on the Property' and 'The Property also has potential to host graphite mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/146481",
+      "justification": "The article is about the correct project, as indicated by the title 'Canoe Mining Ventures Receives Approval for Option on Butt Property'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Canoe Mining Ventures Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the project is in Ontario, Canada, implying the currency for the expenditure commitment is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The option agreement terms consist of share issuances and exploration expenditures, with no mention of cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Priority 2 of the financial data extraction hierarchy is met. The number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Priority 2 of the financial data extraction hierarchy is met. The number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 1900000,
+      "justification": "Under the terms of the Option Agreement, the Company may exercise the Option upon: (i) the issuance of an aggregate of 1,900,000 common shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of options being issued as payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "Under the terms of the Option Agreement, the Company may exercise the Option upon... (ii) incurring an aggregate of $250,000 in expenditures (the \"Expenditures\") on the Property."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "The agreement states that upon exercising the option, 'the Company will grant a 3% net smelter returns royalty (the \"NSR\") to a third party.'"
+    },
+    "coverage_area_raw": {
+      "value": 1961,
+      "justification": "The Property consists of 87 mineral claims covering approximately 1,961 hectares in Butt Township."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Property consists of 87 mineral claims covering approximately 1,961 hectares in Butt Township."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical discoveries but does not provide a quantified mineral resource estimate compliant with modern standards. The QP statement notes: 'The QP has not completed sufficient work to verify the historic information on the Property'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CLV",
+      "justification": "The company is introduced as 'Canoe Mining Ventures Corp. (TSXV: CLV)'."
+    }
+  }
+}

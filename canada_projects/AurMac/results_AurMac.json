@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/AurMac/45760.txt",
+    "canada_projects/AurMac/71057.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "AurMac",
+      "justification": "The authoritative project name is AurMac, and the text confirms this: \"Banyan's primary asset, the AurMac Project is adjacent to Victoria Gold's Eagle Gold Mine, in Canada's Yukon Territory.\""
+    },
+    "company_name": {
+      "value": "Banyan Gold Corp.",
+      "justification": "The buyer is identified in the text: \"Banyan Gold Corp. (the 'Company' or 'Banyan') (TSXV:BYN) is pleased to announce that it has completed the 75% earn in on the McQuesten Property...\""
+    },
+    "ceo_buyer": {
+      "value": "Tara Christie",
+      "justification": "The CEO of the buyer, Banyan Gold Corp., is identified at the bottom of the press releases: \"Tara Christie President & CEO\""
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The press releases announce the completion of the 75% earn-in milestone for two properties that constitute the AurMac project. \"Banyan Completes 75% Earn-in on the McQuesten Property, Yukon\" and \"Banyan Completes 75% Earn-In on the Aurex Property, Yukon\"."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The resource estimates are quantified in gold: \"The current inferred Mineral Resource Estimate ('MRE') for the AurMac Project of 7.0 million ounces has an effective date of February 6, 2024.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/816385/banyan-completes-75-earn-in-on-the-mcquesten-property-yukon",
+      "justification": "The article is directly about the AurMac project and its constituent properties, McQuesten and Aurex."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The earn-in was completed via exploration expenditures, not a direct cash or share payment, so no currency is specified for a transaction value."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments were mentioned as consideration for the earn-in. The agreement was satisfied by exploration expenditures: \"Banyan has completed all the exploration expenditure requirements to earn 100%.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were mentioned as consideration for the earn-in. The agreement was satisfied by exploration expenditures."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment was mentioned as consideration for the earn-in."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the earn-in transaction. The stock options mentioned were for compensation purposes, not acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the earn-in transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The stock options mentioned were for employee and consultant compensation, not for the property acquisition. \"The stock options are being issued in connection with Banyan's annual compensation review process and are being issued to officers, consultants, advisors and exploration staff of the Company.\""
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the earn-in transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text states that exploration requirements were completed, but does not specify the amount of drilling required for the commitment."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that exploration expenditure requirements were met to complete the earn-in, but does not quantify the value of this commitment: \"Banyan has completed all the exploration expenditure requirements to earn 100%.\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions the properties are \"subject to certain royalties\" but does not specify the percentage or details of any royalty involved in this specific transaction."
+    },
+    "coverage_area_raw": {
+      "value": 173,
+      "justification": "The total project area is stated in the text: \"The 173 square kilometres ('sq km') AurMac Project...\""
+    },
+    "coverage_area_unit": {
+      "value": "sq km",
+      "justification": "The unit for the coverage area is provided alongside the value: \"The 173 square kilometres ('sq km') AurMac Project...\""
+    },
+    "resource_size": {
+      "value": "347,486,000 tonnes @ 0.63 g/t for 7,003,000 oz. Gold",
+      "justification": "The most recent Mineral Resource Estimate from the September 2024 article (effective date Feb 6, 2024) provides the following details in Table 1: \"Combined Inferred | 0.30 | 347,486,000 | 0.63 | 7,003,000\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BYN",
+      "justification": "The buyer's ticker and exchange are provided in the text: \"Banyan Gold Corp. (the 'Company' or 'Banyan') (TSXV:BYN)\""
+    }
+  }
+}

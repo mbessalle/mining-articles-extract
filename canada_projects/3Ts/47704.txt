@@ -1,0 +1,132 @@
+--- Article Metadata ---
+Project Name: 3Ts
+Company Name: Independence Gold Corp.
+Exchange: TSXV
+Ticker: IGO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.22.2024, 8:00:00 PM
+
+# Independence Gold Samples 17.00 Metres of 2.68 g/t Gold and 39.12 g/t Silver in Surface Trenching and Acquires an Additional 36.40 km2 of Land at the 3Ts Project, BC
+
+Vancouver, British Columbia--(Newsfile Corp. - January 22, 2024) - **Independence Gold Corp. (TSXV: IGO) (OTCQB: IEGCF)**(the "Company" or "Independence") is pleased to announce assay results from the fall trenching program at its 100% owned 3Ts Project (the "Project") as well as the staking of 36.40 square kilometres ("km2") of mineral tenure immediately adjacent to the southern boundary of the Project. The 3Ts Project is located approximately 185 kilometres ("km") southwest of Prince George, British Columbia and situated 16 km southwest of Artemis Gold Inc.'s Blackwater Project.
+
+**Trench Results  
+** A series of five trenches were excavated at the 3Ts Project during the surface field program in 2023. These trenches were designed to test for mineralization in areas between the major vein systems or across geological "blind spots" where little geological or geochemical information is known. A total of 190 metres ("m") length comprises the five trenches, four of which (146m) focused adjacent to the Tommy Vein System and a further 44m at the newly discovered Ootsa copper-silver target (see [news release](https://api.newsfilecorp.com/redirect/4QD00IkB3G) dated October 4, 2023).
+
+The Tommy Vein Cliff Trench ("CVTR") crossed over the surface expression of the Tommy Vein System for a total of 36.0m where vein material including quartz, amethyst and fluorite are exposed on the surface, including 17.0m grading 2.68 grams per tonne ("g/t") gold and 39.12 g/t silver. A second trench located adjacent to the western shoulder at the Tommy Vein System ("TVTR") returned 12.0m grading 1.93 g/t gold and 22.58 g/t silver within mineralized quartz stockwork veins. The final trench in the Tommy area, the Tommy-Ian Infill Trench ("TITR"), tested the area between the Tommy Vein System westward to the Ian Vein System where narrow but high-grade veins were discovered during the Spring 2023 drill program. TITR returned a narrow 0.50m mineralized quartz vein grading 3.76 g/t gold. 
+
+A 40 m-long trench was also excavated at the Copper Knob target ("CKTR") to systematically sample the new Tony Vein which was discovered earlier in 2023 (see [news release](https://api.newsfilecorp.com/redirect/jpEOOuAVDj) dated September 27th, 2023) which returned 8.0m grading 3.97 g/t gold and 49.63 g/t silver, including 0.75 m grading 35.67 g/t gold and 393.33 g/t silver. An additional 40.33 m-long trench ("OTR") was excavated at the newly discovered Ootsa Target located one km northeast of the Mint Vein System and is geologically and geochemically distinct from the other known targets at the 3Ts Project. The trench exhibited malachite and azurite mineralization in volcanic host rocks, returning an interval of 2.88 m grading 0.2% copper and 11.81 g/t silver. Other samples in the trench individually returned anomalous grades up to 0.52% lead and 1.66% zinc indicating broader mineralization potential within the trench section. 
+
+Please refer to the [website](https://api.newsfilecorp.com/redirect/v1eNNu5yAZ) for a map showing the veins and drill hole locations.
+
+ 
+
+**Trench**| **Host Rock**| **From**  
+**(m)**| **To**  
+**(m)**| **Sample  
+Interval**  
+**(m)***|  **Gold**  
+**(g/t)****|  **Silver**  
+**(g/t)**| **Post Recovery Gold Equivalent*****  
+---|---|---|---|---|---|---|---  
+CKTR| Quartz Veins, Rhyolite with stockwork| 26.00| 34.00| 8.00| 3.97| 49.63| 4.47  
+including| 28.25| 29.00| 0.75| 35.67| 393.33| 39.60  
+TVTR| Quartz Veins| 2.00| 14.00| 12.00| 1.93| 22.58| 2.16  
+including| 8.00| 9.00| 1.00| 7.19| 61.00| 7.80  
+CVTR| Quartz Veins, Rhyolite with stockwork| 0.00| 17.00| 17.00| 2.68| 39.12| 3.07  
+and| 27.00| 29.00| 2.00| 5.00| 65.50| 5.66  
+and| 33.00| 36.00| 3.00| 12.51| 75.33| 13.26  
+including| 35.00| 36.00| 1.00| 26.78| 141.00| 28.19  
+TITR| Rhyolite with stockwork| 21.50| 22.00| 0.50| 3.76| I.S.| 3.53  
+OTR| Rhyolite breccia and Andesite| 19.25| 22.13| 2.00| I.S.| 11.81| See Note Below  
+  
+ 
+
+*CKTR = Copper Knob Trench, TVTR = Tommy Vein Trench, CVTR = Tommy Cliff Vein Trench, TITR = Tommy-Ian Infill Trench, OTR = Ootsa Trench  
+**Using a cut-off grade of 0.4 g/t gold as per the resource estimate for "in-pit" grades  
+*** AuEq assumes Au $2,000 USD/Oz, Ag $20 $USD/Oz and utilizes formula AuEq = (Ag(g/t)*($Ag/$Au))+Au(g/t) and uses a metallurgical recovery of 93.9% for gold and 92.4% silver as determined from testing on composite materials from the Tommy Vein (see [news release](https://api.newsfilecorp.com/redirect/JgNLLfWryr) dated March 4th, 2021) which is the closest vein system to these samples. No recovery testing has been performed on Ootsa material and so readers are warned that calculations are based off 100% recovery.
+
+**Expansion of 3Ts Project Area**  
+In the fourth quarter of 2023, Independence Gold staked an additional 36.40 km2 of tenure along the southern border of the 3Ts Project to explore for a possible continuation of the emerging northeast-southwest trends that extend from the Blackwater Project (currently being developed by Artemis Gold). Several arcuate features are observed in the topography which have been recognized as potential mineralizing centers during the 2023 field program. The newly acquired ground has seen very little historical prospecting, although one sample on the boundary collected in 2016 returned a quartz sample grading 1.26 g/t gold and 10 g/t silver. Exploration of the southern extension is planned for the second quarter of 2024 and proposed exploration will include prospecting and airborne geophysical surveys Ito test structural extensions into this ground.
+
+**Update on the Exploration Program**  
+The fall drill program was completed on November 15th, 2023, with a total of 1,805m of drilling carried out. Drilling primarily targeted the Mint Vein System with additional drill testing of the new Johnny and Ian Veins and "first-pass" exploration of the new Ootsa copper-silver target. Results are being released as they are received from the lab and may be out of sequential order due to varying submission dates after logging and sample preparation times. Planning is currently underway for an approximately 5,000m drill program to commence during the first quarter of 2024. This program will be designed to test the Ted-Mint and Tommy Vein Systems at depth and other targets outlined by previous geophysics and geological exploration.
+
+All drill holes completed to date have been sent to SGS lab in Vancouver for sample preparation and analysis. Robotic sample preparation is used to ensure reproducibility; samples are pulverized to greater than 85% passing 75 microns. All samples are submitted for four acid digest with an ICP finish. Gold grades are obtained by fire assay with AAS finish. Samples which return greater than 10 parts per million gold and 100 parts per million silver are resubmitted for fire assay with a gravimetric finish. Quality control procedures are followed for all samples submitted to the laboratory for assay, including strict Chain of Custody protocols. Quality control comprises of OREAS standards, blank materials and the field or preparation duplicate material for testing. Insertion rate is at a minimum of one quality control sample per sample but in sections of mineralized drill core a standard is inserted at the beginning of the section to establish calibration, a duplicate in the middle of the sequence to test repeatability (for field duplicates) or homogeneity (for preparation duplicates). Mineralized sections are then completed with the insertion of blank material to ensure equipment has been cleaned rigorously and no "smearing" or contamination of grade occurs. Quality control is monitored on each assay certificate as it arrives from the laboratory and then all data is compiled annually. Any discrepancies are immediately addressed accordingly.
+
+The 3Ts Project is comprised of seventeen mineral claims covering approximately 8,840 hectares in the Nechako Plateau region of central British Columbia. The 3Ts Project covers a low-sulphidation epithermal quartz- carbonate vein district within which more than a dozen individual mineralized veins, ranging from 50 m to more than 1,100 m and true widths up to 25m, have been identified.
+
+_**AME Roundup 2024**  
+_ Independence Gold is pleased to announce that they will be exhibiting core from the 3Ts Project at the 2024 AME Roundup Conference, held in Vancouver, BC. The Company can be found in the Core Shack at booth number 927 on Monday and Tuesday January 22 and 23rd, 2024.
+
+_**About Independence**  
+_ Independence Gold Corp. is a well-financed mineral exploration company with holdings ranging from early-stage grassroots exploration to advanced-stage resource expansion in British Columbia and Yukon. The Company is positioned to add shareholder value through systematic project advancement, while management continues to evaluate additional gold and silver projects for possible acquisition. For additional information, visit the Company's website [www.ingold.ca](https://api.newsfilecorp.com/redirect/Gm233TRNnB).
+
+Andy Randell, P.Geo., the Company's Qualified Person as defined by National Instrument 43-101, has reviewed and approved the technical information in this news release.
+
+**ON BEHALF OF THE BOARD OF INDEPENDENCE GOLD CORP.**
+
+"Randy Turner"
+
+Randy Turner, President and CEO
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+Suite 580 – 625 Howe, Vancouver, British Columbia V6C 2T6  
+Telephone: 604-687-3959  
+Facsimile: 604-687-1448  
+E-Mail: [info@ingold.ca](mailto:info@ingold.ca)
+
+ _All statements in this press release, other than statements of historical fact, are "forward-looking information" with respect to Independence within the meaning of applicable securities laws, including statements with respect to the Company's planned drilling and exploration activities. The Company provides forward-looking statements for the purpose of conveying information about current expectations and plans relating to the future and readers are cautioned that such statements may not be appropriate for other purposes. By its nature, this information is subject to inherent risks and uncertainties that may be general or specific and which give rise to the possibility that expectations, forecasts, predictions, projections or conclusions will not prove to be accurate, that assumptions may not be correct and that objectives, strategic goals and priorities will not be achieved. These risks and uncertainties include but are not limited to those identified and reported in Independence's public filings under Independence Gold Corp.'s SEDAR profile at_[www.sedar.com](https://api.newsfilecorp.com/redirect/QOjYYcDGQg)._  Although Independence has attempted to identify important factors that could cause actual actions, events or results to differ materially from those described in forward-looking information, there may be other factors that cause actions, events or results not to be as anticipated, estimated or intended. There can be no assurance that such information will prove to be accurate as actual results and future events could differ materially from those anticipated in such statements. Independence disclaims any intention or obligation to update or revise any forward-looking information, whether as a result of new information, future events or otherwise unless required by law._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/194950](https://api.newsfilecorp.com/redirect/m35gguNGzL)
+
+### Project Name
+
+[3Ts Project](/?gid=338)  
+British Columbia, Canada
+
+[Project Summary](https://app.mininghub.com?gid=338&modal=project_summary)[Company Profile](https://app.mininghub.com/company/independence-gold-corp/443)[All Projects](https://app.mininghub.com/company/independence-gold-corp/443)
+
+### Other Company News
+
+6/16/2025 [Independence Gold Completes Drill Program at 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-completes-drill-program-at-3ts-project-bc-108092)
+
+5/22/2025 [Independence Gold Intersects Copper, Silver and Base Metals at Ootsa Target, 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-intersects-copper-silver-and-base-metals-at-ootsa-target-3ts-project-bc-105458)
+
+5/14/2025 [Independence Gold Resumes Drilling at 3Ts Project](/article/independence-gold-corp/ca-igo/-/independence-gold-resumes-drilling-at-3ts-project-104596)
+
+4/16/2025 [Independence Gold Intercepts High-Grade Gold at Larry Vein and Expands Mineralization at Multiple Targets Across 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-intercepts-high-grade-gold-at-larry-vein-and-expands-mineralization-at-multiple-targets-across-3ts-project-bc-99954)
+
+4/10/2025 [Independence Gold Expands Winter Drill Program to 13,000 Metres](/article/independence-gold-corp/ca-igo/-/independence-gold-expands-winter-drill-program-to-13-000-metres-99308)
+
+3/31/2025 [Independence Gold Expands 3Ts Project with Strategic Mineral Claims Acquisition](/article/independence-gold-corp/ca-igo/-/independence-gold-expands-3ts-project-with-strategic-mineral-claims-acquisition-93022)
+
+3/26/2025 [Independence Gold Announces New Discovery at the Larry Vein System of 19.40m Grading 5.58 g/t Gold and 73.76 g/t Silver at the 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-announces-new-discovery-at-the-larry-vein-system-of-1940m-grading-558-g-t-gold-and-7376-g-t-silver-at-the-3ts-project-bc-92516)
+
+3/20/2025 [Independence Gold Intersects Significant Gold and Silver Mineralization in the Johnny Vein System at the 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-intersects-significant-gold-and-silver-mineralization-in-the-johnny-vein-system-at-the-3ts-project-bc-91910)
+
+2/8/2025 [Independence Gold Appoints Senior Technical Advisor](/article/independence-gold-corp/ca-igo/-/independence-gold-appoints-senior-technical-advisor-87175)
+
+1/20/2025 [Independence Gold Intersects 35.00 Metres Grading 2.78 g/t Gold and 25.05 g/t Silver, Including 4.83 M Grading 17.35 g/t Gold and 150.93 g/t Silver, at the 3Ts Project, BC](/article/independence-gold-corp/ca-igo/-/independence-gold-intersects-3500-metres-grading-278-g-t-gold-and-2505-g-t-silver-including-483-m-grading-1735-g-t-gold-and-15093-g-t-silver-at-the-3ts-project-bc-84571)
+
+--- Detailed Quote ---
+
+Last: 0.13            $  Chg: -0.005
+Open: 0.135            High: 0.135
+Bid: 0.13             Bid Size: 70000
+Beta: 0.69848            Year High: 0.33
+Market Cap: 29.21m      PB Ratio: 2.77
+EPS: -0.04             Average Volume (30 Day): 395.99k
+Volume: 863.66k          % Chg: -3.70%
+Prev. Close: 0.135     Low: 0.125
+Ask: 0.14             Ask Size: 4500
+VWAP: 0.13232            Year Low: 0.125
+Total Shares: 224.66m    Shares Out: 224.66m
+Float: 216.75m           Exchange: TSXV

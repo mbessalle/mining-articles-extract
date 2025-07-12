@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Corvo/39592.txt",
+    "canada_projects/Corvo/39834.txt",
+    "canada_projects/Corvo/72342.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Corvo",
+      "justification": "The text announces the staking and subsequent expansion of the Corvo Project: 'Standard Uranium Provides Corporate Update; Announces Expansion of Existing Land Holdings and Staking of Corvo Project in Eastern Athabasca Basin'."
+    },
+    "company_name": {
+      "value": "Standard Uranium Ltd.",
+      "justification": "The buyer is identified in the press release: 'Standard Uranium Ltd. (“Standard Uranium” or the “Company”) (TSX-V:STND) (OTCQB: STTDF) (Frankfurt: FWB:9SU)'."
+    },
+    "ceo_buyer": {
+      "value": "Jon Bey",
+      "justification": "The CEO of the buyer company is named in the contact information: 'Jon Bey, Chief Executive Officer, and Chairman'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text confirms that after the various staking and acquisition events, the company holds full interest in the project: 'Standard Uranium holds a 100%-interest in the Corvo project along the eastern boundary of the Athabasca Basin'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The company's focus and the project's commodity are explicitly stated: 'Standard Uranium is a uranium exploration company and emerging project generator poised for discovery in the world’s richest uranium district.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The royalty buydown is denominated in dollars ('$1,000,000'), and the acquiring company, Standard Uranium Ltd., is listed on the Canadian TSX Venture Exchange (TSX-V), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The purchase agreement with Eagle Plains Resources Ltd. did not include a cash component. The consideration was shares and a royalty: 'the aggregate purchase price payable by Standard Uranium to the Eagle Plains consists of (a) 1,250,000 common shares of the Company, (the “Consideration Shares”) and (b) the granting of a net smelter returns royalty of 2.5% (the “NSR Royalty”)'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw dollar value for the share payment was not provided. The payment was defined by the number of shares and their price was not specified in the deal terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment was not described as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1250000,
+      "justification": "The purchase agreement specifies the number of shares to be issued: 'the aggregate purchase price payable by Standard Uranium to the Eagle Plains consists of (a) 1,250,000 common shares of the Company, (the “Consideration Shares”)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options as payment."
+    },
+    "issued_share_price": {
+      "value": 0.095,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.095'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents mention future exploration plans but do not specify a drilling commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents mention future exploration plans but do not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "As part of the acquisition from Eagle Plains, a royalty was granted to the seller: 'the granting of a net smelter returns royalty of 2.5% (the “NSR Royalty”) to Eagle Plains on all Corvo claims effective as of the commencement of commercial production.'"
+    },
+    "coverage_area_raw": {
+      "value": 12265,
+      "justification": "The most recent press release provides the final, consolidated size of the project after multiple expansions: 'The Company has strategically added three new mineral claims to the Project increasing the size of Corvo from 7,989 hectares to 12,265 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is specified in the text: 'The Company has strategically added three new mineral claims to the Project increasing the size of Corvo from 7,989 hectares to 12,265 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides drill intercepts and sample grades (e.g., '0.57% U3O8 over 3.5 m'), but does not contain a formal mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STND",
+      "justification": "The buyer's ticker and exchange are provided in the header of the press releases: 'Standard Uranium Ltd. (“Standard Uranium” or the “Company”) (TSX-V:STND)'."
+    }
+  }
+}

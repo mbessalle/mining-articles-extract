@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Wookie/52520.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wookie",
+      "justification": "The text announces the 'Addition of the Wookie project to the option agreement with RTEC'."
+    },
+    "company_name": {
+      "value": "Midland Exploration Inc.",
+      "justification": "The press release is from 'Midland Exploration Inc. (“Midland”) (TSX-V: MD)' and states 'The Properties are wholly-owned by Midland'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Rio Tinto Exploration Canada Inc. (“RTEC”), but no CEO for RTEC is named in the text. The CEO mentioned, Gino Roger, is for the seller, Midland Exploration Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "RTEC can acquire an initial 50% interest and then has an option to increase its interest to 70%. The text states: 'After acquiring an initial 50% interest, RTEC will have the option to increase its interest in the Properties to 70% (the “Second Option”).'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article is titled 'Midland Amends Its Lithium Option Agreement With Rio Tinto' and discusses the 'lithium potential of the Wookie project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a verifiable URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text explicitly states: 'All amounts are in Canadian Dollars, unless otherwise advised.'"
+    },
+    "cash_payments_raw": {
+      "value": 31818,
+      "justification": "The project's share is $31,818, calculated as 1/11th of the total additional cash payments of $350,000 ($100,000 + $250,000) which are for the entire amended agreement now consisting of eleven (11) projects. The text states: 'Additional cash payment of $100,000 within 45 days of the amendment execution and additional cash payment of $250,000 over a 4-year period.' and 'The amended option agreement now consists of eleven (11) projects'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments made in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payments are explicitly detailed, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments in options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 500000,
+      "justification": "The project's share is $500,000, calculated as 1/11th of the total additional exploration expenditures of $5,500,000 ($1,500,000 for the first option + $4,000,000 for the second option). This commitment is for the entire amended agreement which now consists of eleven (11) projects. The text states: 'Additional exploration expenditures of $1,500,000' and 'Additional exploration expenditures of $4,000,000'. The agreement covers 'eleven (11) projects'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 20,
+      "justification": "The text specifies the area for the project: 'The Wookie project covers more than twenty (20) square kilometers of mafic volcanic rocks'."
+    },
+    "coverage_area_unit": {
+      "value": "square kilometers",
+      "justification": "The text specifies the unit for the project's area: 'The Wookie project covers more than twenty (20) square kilometers of mafic volcanic rocks'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the Wookie project itself. It mentions mineralization found 'near the Wookie project' by another company, but not on the property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is Rio Tinto Exploration Canada Inc. (“RTEC”), but no stock ticker or exchange is provided for this entity in the text."
+    }
+  }
+}

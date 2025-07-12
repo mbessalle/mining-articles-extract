@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Buchans Mine/44606.txt",
+    "canada_projects/Buchans Mine/46269.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Buchans Mine",
+      "justification": "The title of the article is \"Canterra Minerals Acquires the Past Producing Buchans Mine, Lundberg Deposit and Other Critical and Precious Metals Projects in Newfoundland\"."
+    },
+    "company_name": {
+      "value": "Canterra Minerals Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF) (\"Canterra\" or the \"Company\") is pleased to announce that it has entered into an asset purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Chris Pennimpede",
+      "justification": "The CEO is identified in the text: \"Chris Pennimpede, President & CEO of Canterra, commented...\" and at the signature line \"Chris Pennimpede President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is an asset purchase agreement to acquire mineral rights, not a specified percentage of a project. No percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Zinc",
+      "justification": "The text describes the project as a \"prolific polymetallic massive sulfide mine that was operated by Asarco (and others) for over 50 years producing zinc and copper concentrate from high grade ore.\" The associated resource tables also list Zinc as a primary component."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/188354",
+      "justification": "The article, sourced from newsfilecorp.com, is titled \"Canterra Minerals Acquires the Past Producing Buchans Mine...\", which directly pertains to the specified project and company."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction value is based on the share price of Canterra Minerals Corporation, which is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. The detailed quote section also lists the exchange as TSXV and uses a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 0,
+      "justification": "The text explicitly states the nature of the transaction: \"The acquisition of the Properties (the \"Acquisition\") will be a cashless transaction...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, this field is null because the transaction details are provided as a number of shares and a price per share, which falls under Priority 2."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Following the financial data extraction hierarchy, this field is null because the transaction details are provided as a number of shares and a price per share, which falls under Priority 2."
+    },
+    "amount_of_shares_issued": {
+      "value": 24910000,
+      "justification": "The terms of the agreement specify the number of shares: \"...with the consideration comprising (a) 24,910,000 common shares (the \"Consideration Shares\") of Canterra...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "While the agreement includes the issuance of 128,554,216 common share purchase warrants, no specific dollar value is assigned to these warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of option payments as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The share price used for the transaction valuation is stated: \"...a total consideration value of approximately $7.5 million based on Canterra's closing price of $0.05 per share.\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 110200,
+      "justification": "The value is calculated from the $100,000 specific commitment for the Buchans Mine Property ('Phase 1 Exploration Expenditures on the Buchans Mine Property are expected to be...$100,000') and its share of the general work requirements ($51,000 / 5 properties = $10,200) mentioned for all five acquired properties ('work requirements ($51,000)')."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or similar royalty being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 82.5,
+      "justification": "The text specifies the area for the project of interest: \"The Buchans Mine Property encompasses 82.5km2 of mineral claims and mining leases...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit is provided with the area measurement: \"The Buchans Mine Property encompasses 82.5km2 of mineral claims and mining leases...\""
+    },
+    "resource_size": {
+      "value": "Indicated: 16,790,000 tonnes at 1.53% Zn, 0.42% Cu, 0.64% Pb, 5.7 g/t Ag, 0.07 g/t Au; Inferred: 380,000 tonnes at 2.03% Zn, 0.36% Cu, 1.01% Pb, 22.4 g/t Ag, 0.31 g/t Au",
+      "justification": "The resource is for the Lundberg Deposit, which is part of the Buchans Mine Property, as detailed in \"Table 2: Lundberg Deposit Pit Constrained Mineral Resource Estimate (effective March 1, 2019)\". The table lists: \"Indicated | 16,790,000 | 1.53 | 0.42 | 0.64 | 5.7 | 0.07\" and \"Inferred | 380,000 | 2.03 | 0.36 | 1.01 | 22.4 | 0.31\" for Tonnes, Zn (%), Cu (%), Pb (%), Ag (g/t), and Au (g/t) respectively."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CTM",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: \"Canterra Minerals Corporation (TSXV: CTM) (OTCQB: CTMCF)...\""
+    }
+  }
+}

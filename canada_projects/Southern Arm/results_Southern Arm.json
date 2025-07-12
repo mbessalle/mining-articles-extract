@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Southern Arm/65288.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Southern Arm",
+      "justification": "The text states: \"Usha Resources Ltd. ('USHA' or the 'Company') ... is pleased to announce that the Company has executed an option (the 'Option' or 'Option Agreement') with Abitibi Metals Corp. ('Abitibi' or the 'Optionor') for the right to purchase an undivided 100% interest in the Southern Arm property ('Southern Arm' or the 'Property', Fig. 1).\""
+    },
+    "company_name": {
+      "value": "Usha Resources Ltd.",
+      "justification": "The buyer is identified in the first paragraph: \"Usha Resources Ltd. ('USHA' or the 'Company') (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0) , a North American mineral acquisition and exploration company, is pleased to announce that the Company has executed an option...\""
+    },
+    "ceo_buyer": {
+      "value": "Deepak Varshney",
+      "justification": "The text quotes the CEO of the acquiring company: \"Deepak Varshney, CEO of Usha Resources, commented: 'We are very excited to partner with Abitibi Metals on Southern Arm...'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest: \"...the Company has executed an option (the 'Option' or 'Option Agreement') with Abitibi Metals Corp. ('Abitibi' or the 'Optionor') for the right to purchase an undivided 100% interest in the Southern Arm property...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline of the article describes the project as having a copper-gold trend: \"Usha Resources Options Southern Arm VMS Property from Abitibi Metals with ~7.3 km Copper-Gold Trend\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/889579/usha-resources-options-southern-arm-vms-property-from-abitibi-metals-with-73-km-copper-gold-trend",
+      "justification": "The article is titled \"Usha Resources Options Southern Arm VMS Property from Abitibi Metals with ~7.3 km Copper-Gold Trend\", which directly relates to the Southern Arm project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Usha Resources Ltd., is listed on the TSX Venture Exchange and is based in Vancouver, BC, implying Canadian dollars for the transaction. The work commitment is denoted with a '$' sign. The text also refers to \"applicable Canadian securities legislation\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments are mentioned as part of the consideration for the Southern Arm property option. The payment terms consist of shares and a work commitment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a set number of shares and a share price to be determined later, not a fixed total share value. Therefore, this field is null in favor of `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into shares and a work commitment, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The agreement specifies the total number of shares to be issued: \"Pursuant to the Option Agreement, the Company may acquire a 100% interest in the Property by issuing an aggregate of 5,000,000 common shares in the capital of the Company...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the terms of the agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the terms of the agreement."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price, stating they are 'to be issued at a deemed value based on the Discounted Market Price at the time of issuance.' Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling length."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The agreement includes a work commitment of $2,000,000: \"Pursuant to the Option Agreement, the Company may acquire a 100% interest in the Property by... completing $2,000,000 of work expenditures as indicated in the table below:\""
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller retains a 2% NSR: \"The Company has granted to the Optionor a 2% net-smelter returns royalty (the 'NSR') on the claims making up the Property...\""
+    },
+    "coverage_area_raw": {
+      "value": 42,
+      "justification": "The property size is stated in the property details section: \"The Property comprises 76 claims totaling more than 42 km 2 in the deposit-rich Abitibi mining camp (Fig. 1).\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified as square kilometers: \"The Property comprises 76 claims totaling more than 42 km 2...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states the company has no reserves on its properties: \"Furthermore, the Company currently has no reserves on any of its properties.\" While nearby projects have resources, none are stated for the Southern Arm property itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:USHA",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph of the press release: \"Usha Resources Ltd. ('USHA' or the 'Company') (TSXV:USHA)(OTCQB:USHAF)(FSE:JO0)...\""
+    }
+  }
+}

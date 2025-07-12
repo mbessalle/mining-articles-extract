@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cosmo/49230.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cosmo",
+      "justification": "The primary project of interest is specified as Cosmo, and the article title is 'Cosa Resources Acquires the Cosmo Uranium Property, Athabasca Basin, Saskatchewan'."
+    },
+    "company_name": {
+      "value": "Cosa Resources Corp.",
+      "justification": "The acquiring company is identified in the first sentence: 'Cosa Resources Corp. (TSXV: COSA) (OTCQB: COSAF) (FSE: SSKU) (\"Cosa \" or the \"Company \") is pleased to announce the acquisition of the 100% owned Cosmo uranium property...'"
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "The CEO of the buyer is identified in the text: 'Keith Bodnarchuk, President and CEO, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: '...is pleased to announce the acquisition of the 100% owned Cosmo uranium property...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The article title clearly states the commodity: 'Cosa Resources Acquires the Cosmo Uranium Property, Athabasca Basin, Saskatchewan'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/198662",
+      "justification": "The article is about the acquisition of the Cosmo project by Cosa Resources Corp., which matches the project of interest. The source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer's primary exchange is listed as TSXV (TSX Venture Exchange), which is a Canadian exchange. The detailed quote section uses a '$' symbol, which in this context implies Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was not purchased from another company for cash. The text states it was 'acquired via low-cost staking'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was not purchased from another company for shares. The text states it was 'acquired via low-cost staking'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "There were no cash or share payments as the property was 'acquired via low-cost staking'."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, which was conducted 'via low-cost staking'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future plans for drilling ('positive results would warrant aggressive follow up work including ground EM and diamond drilling') but does not state a specific commitment in meters as part of the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states the property has 'no encumbrances', indicating no royalties were part of the acquisition. '12 contiguous mineral dispositions totalling over 9,300 hectares with no encumbrances acquired via low-cost staking'."
+    },
+    "coverage_area_raw": {
+      "value": 9308,
+      "justification": "The text provides a specific area for the project: 'Cosmo comprises 12 claims totaling 9,308 hectares in the eastern Athabasca Basin...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the area is specified in the text: 'Cosmo comprises 12 claims totaling 9,308 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is underexplored with no prior drilling, implying no resource has been defined. 'Cosmo captures 18 kilometres of prospective magnetic low strike-length with no prior drilling'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:COSA",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the article: 'Cosa Resources Corp. (TSXV: COSA)...'"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Agastya/81925.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Agastya",
+      "justification": "The article is titled 'Hertz Energy Enters Option To Acquire Agastya Lithium Property In Quebec' and refers to the property as the 'Agastya Lithium Property' or 'Agastya Property' throughout."
+    },
+    "company_name": {
+      "value": "Hertz Energy Inc.",
+      "justification": "The acquiring company is identified as 'Hertz Energy Inc. (“Hertz” or the “Company”) (CSE: HZ; OTCQB: HZLIF; FSE: QE2)'."
+    },
+    "ceo_buyer": {
+      "value": "Kal Malhi",
+      "justification": "The document is signed 'On Behalf of the Board of Directors Kal Malhi Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 60,
+      "justification": "The agreement terms state: 'As consideration for the acquisition of a 60% of the Vendor’s legal, beneficial and registered interest in the Agastya Property...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is named the 'Agastya Lithium Property' and the text discusses its 'LCT (Lithium-Cesium-Tantalum) pegmatite potential'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A loan mentioned in the text is denominated in Canadian dollars: '...loan in the principal amount of CAD$60,000...'. The company is also listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is in shares, not cash."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is defined by the number of shares and a price per share, not a total share value, following the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is defined by the number of shares and a price per share, not a combined value, following the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The option agreement terms state that Hertz Energy Inc. shall 'issue 8,000,000 common shares in the capital of Hertz (the “Consideration Shares”)'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued (8,000,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states the company 'intends to aggressively explore the Agastya Lithium Property' using its existing '$750,000 in critical minerals Flow-Thru capital', but this is a statement of intent with existing funds, not a contractual commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the agreement, 'the Buyer shall grant the Vendor a 2% Gross Metal Royalty (GMR)'. This is treated as equivalent to an NSR retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 10650,
+      "justification": "The text states the 'Agastya Lithium Property (“Agastya Property”) comprised of 209 mineral claims covering approximately 10,650 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the property covers 'approximately 10,650 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states: 'No mineral resources or reserves have been defined on the Agastya Property.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HZ",
+      "justification": "The company is identified as 'Hertz Energy Inc. (“Hertz” or the “Company”) (CSE: HZ; OTCQB: HZLIF; FSE: QE2)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Pontax South/37187.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pontax South",
+      "justification": "The article title is 'Musk Metals Acquires Pontax South and Il Interdite Lithium Properties...' and the body states 'The Pontax South property consists of 105 claims covering 5,603 hectares (56 km2)...'"
+    },
+    "company_name": {
+      "value": "Musk Metals Corp.",
+      "justification": "The acquiring company is identified as 'Musk Metals Corp. (\"Musk Metals\" or the \"Company\") (CSE:MUSK)(OTC PINK:EMSKF)(FSE:1I30**) is pleased to announce that it has acquired two lithium properties...'"
+    },
+    "ceo_buyer": {
+      "value": "Nader Vatanchi",
+      "justification": "The press release is signed 'ON BEHALF OF THE BOARD _**____Nader Vatanchi____**_ CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Musk Metals 'acquires' the property, which implies 100%, but an explicit percentage is not mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article is titled 'Musk Metals Acquires Pontax South and Il Interdite Lithium Properties...' and refers to the property's location near 'the most extensive Lithium anomaly within Li-Ft's Quebec portfolio'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/763804/Musk-Metals-Acquires-Pontax-South-and-Il-Interdite-Lithium-Properties-in-James-Bay-Quebec-and-Retains-Benoit-Moreau-as-VP-of-Exploration",
+      "justification": "The source URL is provided at the end of the article text and the content of the article is about the acquisition of the Pontax South project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol. The acquiring company is based in Vancouver, BC, Canada, and is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 25000,
+      "justification": "The project's share is $25,000, calculated as half of the total $50,000 cash payment for two properties (Pontax South and Ile Interdite) as stated in the terms: 'cash payment of $50,000 upon the closing of the next hard dollar financing'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment terms are structured with a number of shares and a price can be inferred, so `amount_of_shares_issued` and `issued_share_price` are populated instead, following the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment details are available, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The project's share is 1,500,000 shares, calculated as half of the total 3,000,000 shares (1,500,000 to each of two vendors) issued for two properties (Pontax South and Ile Interdite) as stated in the terms: 'issuing 1,500,000 common shares of the Company to each of the two vendors'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.105,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.105'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The terms include 'granting a 2% underlying royalty. The Company has a right to acquire 1% (50% of the underlying royalty) at any time for the payment of $1,000,000.' This royalty was granted to the vendors."
+    },
+    "coverage_area_raw": {
+      "value": 5603,
+      "justification": "The text states: 'The Pontax South property consists of 105 claims covering 5,603 hectares (56 km2)'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Pontax South property consists of 105 claims covering 5,603 hectares (56 km2)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a 'Lithium anomaly' but does not provide a quantified mineral resource estimate with mass or volume units for the Pontax South project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MUSK",
+      "justification": "The buyer is identified in the text as 'Musk Metals Corp. (\"Musk Metals\" or the \"Company\") (CSE:MUSK)(OTC PINK:EMSKF)(FSE:1I30**)'."
+    }
+  }
+}

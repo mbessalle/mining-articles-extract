@@ -1,0 +1,96 @@
+{
+  "source_files": [
+    "canada_projects/Blende/93285.txt",
+    "canada_projects/Blende/93286.txt",
+    "canada_projects/Blende/93287.txt",
+    "canada_projects/Blende/93288.txt",
+    "canada_projects/Blende/93289.txt",
+    "canada_projects/Blende/93290.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blende",
+      "justification": "The project is consistently identified in the source documents: 'Project Name [Blende Project](/?gid=726)'"
+    },
+    "company_name": {
+      "value": "Blende Silver Corp.",
+      "justification": "The company name is provided by the authoritative metadata for this project, as the text itself does not explicitly name the company."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The provided documents do not mention a merger, acquisition, or a buying entity, and therefore no CEO of a buyer is named."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The provided documents do not contain information about an acquisition of interest."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The primary commodity for the project is not mentioned in the provided text."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided documents are about the correct project (Blende Project), but they describe corporate governance events (resignations, appointments, options) rather than a merger or acquisition transaction. Therefore, they are not relevant for M&A data extraction."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction is described, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention any cash payments related to an acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention any share payments related to an acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention any combined cash and share payments related to an acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The provided documents do not mention any shares being issued as part of an acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the documents mention granting and amending options, these are not described as part of a payment for an acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The provided documents do not mention a share price associated with an acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The provided documents do not mention any exploration commitments in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention any exploration commitment values."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The provided documents do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The provided documents do not mention the coverage area of the project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The provided documents do not mention the coverage area of the project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided documents do not contain any information about a mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The provided documents do not mention a merger or acquisition, so no buyer is identified."
+    }
+  }
+}

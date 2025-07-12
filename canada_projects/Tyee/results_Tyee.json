@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Tyee/26863.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Tyee",
+      "justification": "The text states: 'Gama Explorations Inc. (CSE:GAMA) (“Gama” or the “Company”) is pleased to announce an expansion of the Tyee Nickel Project in south-eastern Quebec.'"
+    },
+    "company_name": {
+      "value": "Gama Explorations Inc.",
+      "justification": "The company performing the action is identified as 'Gama Explorations Inc. (CSE:GAMA)'. This is a direct contradiction of the authoritative metadata which lists 'Blackbird Critical Metals Corp.', a name not found in the text."
+    },
+    "ceo_buyer": {
+      "value": "Mick Carew",
+      "justification": "The CEO of the acquiring company, Gama, is identified at the bottom of the press release: 'Mick Carew | CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes an expansion through staking, which typically implies 100% interest, but the text does not explicitly state the percentage of interest acquired for the Tyee project claims."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is repeatedly referred to as a nickel project, for example: 'Tyee Nickel Project' and 'Canada’s newest recognized nickel belt'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction described is an expansion through staking, not a purchase from another company, and no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through staking, not a cash purchase. No cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through staking. No payment in shares is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The expansion was achieved through staking. No combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of this land acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of this land acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of this land acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of this land acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for surveys but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for 'airborne EM surveys' but does not state a specific monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or any other royalty was mentioned in the text."
+    },
+    "coverage_area_raw": {
+      "value": 391.68,
+      "justification": "The text states that the company acquired new land through staking: 'Through staking, the Company has acquired an additional 391.68 km2...'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the acquired area is specified in the text: 'Through staking, the Company has acquired an additional 391.68 km2...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Tyee project. It describes the area as under-explored."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GAMA",
+      "justification": "The text explicitly states the ticker and exchange for the acquiring company: 'Gama Explorations Inc. (CSE:GAMA)'. This contradicts the authoritative ticker 'BBRD' but aligns with the company name identified in the article."
+    }
+  }
+}

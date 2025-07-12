@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gochager Lake/35994.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gochager Lake",
+      "justification": "The article describes an acquisition that expands the Gochager Lake Project. \"Watts Lake, together with the lands covered by the original Gochager Lake Option Agreement and subsequent staking... now encompasses a contiguous land package of 19,559 hectares, collectively referred to as the 'Gochager Lake Property'.\""
+    },
+    "company_name": {
+      "value": "Fathom Nickel Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Fathom Nickel Inc. (CSE: FNI) ... is pleased to announce that with the final cash payment of $75,000, it has now fulfilled all requirements under the agreement to acquire the Watts Lake Mineral Claims...\""
+    },
+    "ceo_buyer": {
+      "value": "Ian Fraser",
+      "justification": "The CEO is identified in the signature block: \"ON BEHALF OF THE BOARD 'Ian Fraser P.Geo.' CEO, VP Exploration, Director\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The interest acquired in the Watts Lake claims is stated in a footnote: \"Under the terms of the Acquisition Agreement, Fathom acquired 100% interest in Watts Lake...\""
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is explicitly identified as a nickel project in the headline: \"Fathom Announces Completion of the Watts Lake Acquisition at the Company's Gochager Lake Nickel Project\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168328",
+      "justification": "The article is about Fathom Nickel Inc.'s acquisition of the Watts Lake claims, which are now part of the Gochager Lake Project, the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified in the transaction terms footnote: \"...making an initial cash payment of CAD$75,000...\""
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The total cash payment is the sum of two payments described in the footnote: \"...making an initial cash payment of CAD$75,000... and making a final cash payment of $75,000...\" ($75,000 + $75,000 = $150,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration included shares, but no dollar value was assigned to them in the text. The number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead, following the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components were provided, so this field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The number of shares issued is detailed in the transaction terms footnote: \"...issuing 2,000,000 common shares of Fathom to SKRR...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.035,
+      "justification": "The transaction terms mention 2,000,000 shares were issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.035'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A royalty was granted as part of the transaction terms: \"The Acquisition Agreement provides for a 2% net smelter return ('NSR') royalty in favour of Edge Geological Consulting Inc...\""
+    },
+    "coverage_area_raw": {
+      "value": 13708,
+      "justification": "The area acquired is specified as the area of the Watts Lake claims: \"As a result, Fathom now holds 100% of Watts Lake, consisting of twenty-four (24) mineral claims totalling 13,708 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "\"...totalling 13,708 hectares.\""
+    },
+    "resource_size": {
+      "value": "4,262,400 tons grading 0.295% Ni and 0.081% Cu",
+      "justification": "A historical resource for the project is mentioned in a footnote: \"The Saskatchewan Mineral Deposit Index (SMID#0880) reports drill indicated reserves of 4,262,400 tons grading 0.295% Ni and 0.081% Cu mineable by open pit.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:FNI",
+      "justification": "The buyer's ticker and exchange are listed in the first paragraph: \"Fathom Nickel Inc. (CSE: FNI) (FSE: 6Q5) (OTCQB: FNICF)...\""
+    }
+  }
+}

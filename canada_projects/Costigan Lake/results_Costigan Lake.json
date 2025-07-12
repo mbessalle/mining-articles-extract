@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Costigan Lake/42376.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Costigan Lake",
+      "justification": "The article is titled 'Marvel Acquires Costigan Lake Uranium Property, Athabasca Basin'."
+    },
+    "company_name": {
+      "value": "Marvel Discovery Corp.",
+      "justification": "The press release is from 'Marvel Discovery Corp. (TSX-V:MARV)(Frankfurt:O4T)(OTCQB:MARVF);(\"Marvel \" or the\"Company\") is pleased to announce that the Company has entered into an agreement to acquire the Costigan Lake Uranium project...'"
+    },
+    "ceo_buyer": {
+      "value": "Karim Rayani",
+      "justification": "The article includes a quote from 'Mr. Karim Rayani, Chief Executive Officer' and is signed 'Karim Rayani President/Chief Executive Officer, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states 'Marvel has entered into an agreement to acquire the Costigan Lake Uranium project'. Acquiring the project implies a 100% interest as no lesser percentage is specified."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The title of the article is 'Marvel Acquires Costigan Lake Uranium Property, Athabasca Basin'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/792442/marvel-acquires-costigan-lake-uranium-property-athabasca-basin",
+      "justification": "The article content is entirely focused on the acquisition of the Costigan Lake project by Marvel Discovery Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Marvel Discovery Corp., is listed on the Canadian TSX Venture Exchange '(TSX-V:MARV)', indicating the transaction values denoted by '$' are in Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "Under the heading 'The Transaction', the text states: 'As consideration, the Company has agreed to pay the vendor a total of $1,000,000...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment amount was identified, so this field is not applicable according to the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The transaction terms state the company must 'complete $2,000,000 in exploration expenditures over a 5-year period.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The transaction terms state: 'In addition, the Optionee will retain a 1.0% net smelter royalty, which Marvel can purchase for $1,500,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 5518,
+      "justification": "The text states the company will 'acquire the Costigan Lake Uranium project, which covers 5,518ha located on the eastern side of the Athabasca Basin.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states the project 'covers 5,518ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate. It notes that 'The Property has limited systematic modern-day exploration, which presents blue sky potential,' indicating it is an early-stage project without a defined resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:MARV",
+      "justification": "The company is identified in the header as 'Marvel Discovery Corp. (TSX-V:MARV)(Frankfurt:O4T)(OTCQB:MARVF)'."
+    }
+  }
+}

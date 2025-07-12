@@ -1,0 +1,78 @@
+--- Article Metadata ---
+Project Name: Bird River
+Company Name: Gossan Resources Limited
+Exchange: TSXV
+Ticker: GSS
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.24.2025, 8:00:00 PM
+
+# Gossan Resources Completes Sale of Bird River Claims
+
+Winnipeg, Manitoba--(Newsfile Corp. - February 24, 2025) - **Gossan Resources Limited** (TSXV: GSS) (FSE: GSR) (XETRA: GSR) (the "**Company** " or "**Gossan"**) is pleased to announce that it has completed the previously announced sale of its Bird River Property to Grid Metals Corp. (see Company Press Release dated April 13, 2023).
+
+Under the terms of the agreement between the two companies, the total consideration payable to Gossan for the Bird River Claims was as follows:
+
+(a) $500,000 cash payment on Closing of the Option;  
+(b) 1,500,000 Shares of Grid on Closing of the Option;  
+(c) $300,000 cash payment on the first anniversary date from Closing;  
+(d) $300,000 cash payment on the second anniversary date from Closing;  
+(e) the NSR; and  
+(f) A $300,000 Deferred Cash Payment upon the occurrence of the Deferred Payment Event.
+
+Upon the completion of points (a) to (e), Gossan would transfer the title to the Bird River Claims to Grid Metals Corp. As of February 2025, points (a) to (e) have been completed, and the Company has legally transferred title of the claims to Grid Metals Corp.
+
+As previously disclosed, Gossan retains a royalty on the claims, which is defined as a 2% net smelter returns royalty on minerals produced from the Bird River Claims based on the terms and conditions set out in the NSR Agreement. 
+
+Further to the royalty, Gossan is also entitled to a Deferred Payment Event, which is payable at the commencement of commercial production on the Bird River Claims, as more clearly defined on the original agreement.
+
+Samuel Pelaez, President & CEO stated: "The sale of the Bird River Claims to Grid consolidated the Bird River Greenstone Belt under a sole ownership. With a single database and the projected synergies of a belt-wide opportunity, Grid was able to attract interest from Teck Resources to explore and develop the Mawka nickel project, which now includes the Bird River Claims. Gossan's shareholders now hold a royalty on a large portion of the highly prospective magmatic nickel-copper-PGM-cobalt discovery at Makwa, which now stands to receive significant investment and development from Teck." For more information, please Grid Metals Corp. press release dated December 12, 2024.
+
+**Qualified Person:**
+
+Hamid Mumin, Ph.D., P.Eng., P.Geo., a Director of the Company is the 'Qualified Person' as defined under Canadian National Instrument 43-101.
+
+**About Gossan Resources:**
+
+Gossan Resources Limited holds mineral exploration and development properties located in Manitoba, Northwestern Ontario and Newfoundland. The Company's focus is to advance exploration and drilling of its Glitter Property, located in the zinc-copper-silver rich polymetallic Sturgeon Lake Greenstone Belt of Northwestern Ontario. The Company is also advancing its Gander Gold Property in Newfoundland. The company also holds a broadly diversified portfolio of multi-element properties, prospective for hosting gold, base metals and platinum group elements, as well as specialty "green-battery metals", nickel, cobalt, vanadium, titanium, tantalum, lithium and chromium. Gossan also has a deposit of high-purity, magnesium-rich dolomite, and holds advance and production royalty interests in a high-purity silica sand deposit. The Company trades on the TSX Venture and the Frankfurt/Freiverkehr & Xetra Exchanges and currently has 67,459,471 Common Shares outstanding.
+
+For further information, please bookmark [www.gossan.ca](https://api.newsfilecorp.com/redirect/pEv4ycO1a2) or contact:
+
+Samuel Pelaez, President & CEO  
+Gossan Resources Limited  
+Tel: (202) 677-8513  
+E-Mail: [info@gossan.ca](mailto:info@gossan.ca)
+
+Kathy Ringland, Office Manager  
+Tel: (204) 943-1990
+
+**Cautionary Statement on Forward-Looking Information**
+
+Neither the TSX Venture Exchange ("**TSXV** ") nor its Regulation Services Provider (as that term is defined in the policies of the TSXV) accepts responsibility for the adequacy or accuracy of this release. 
+
+No stock exchange, securities commission or other regulatory authority has approved or disapproved the information contained herein. This news release contains forward-looking information which is not comprised of historical facts. Forward-looking information involves risks, uncertainties and other factors that could cause actual events, results, performance, prospects and opportunities to differ materially from those expressed or implied by such forward-looking information. Forward looking information in this news release includes, but is not limited to, uncertainty over the outcome of any litigious matters, the Company's objectives, goals or future plans, statements regarding exploration results and exploration plans. Factors that could cause actual results to differ materially from such forward-looking information include, but are not limited to, capital and operating costs varying significantly from estimates, the preliminary nature of metallurgical test results, delays in obtaining or failures to obtain required governmental, environmental or other project approvals, uncertainties relating to the availability and costs of financing needed in the future, changes in equity markets, inflation, fluctuations in commodity prices, delays in the development of projects and the other risks involved in the mineral exploration and development industry, and those risks set out in the Company's public documents filed on SEDAR. Although the Company believes that the assumptions and factors used in preparing the forward-looking information in this news release are reasonable, undue reliance should not be placed on such information, which only applies as of the date of this news release, and no assurance can be given that such events will occur in the disclosed time frames or at all. The Company disclaims any intention or obligation to update or revise any forward-looking information, whether as a result of new information, future events or otherwise, other than as required by law.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/242053](https://api.newsfilecorp.com/redirect/YYpzQUkwWp)
+
+### Project Name
+
+[Bird River Project](/?gid=4447)  
+Manitoba, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02            Bid: 0.015
+Bid Size: 642000        Beta: -0.0315
+Year High: 0.04       Market Cap: 1.35m
+PB Ratio: 3.46        Average Volume (30 Day): 24.50k
+Volume: 1,000          Prev. Close: 0.02
+Ask: 0.02             Ask Size: 59000
+VWAP: 0.02            Year Low: 0.015
+Total Shares: 67.46m    Shares Out: 67.46m
+PE Ratio: 2.00        Float: 64.29m
+Exchange: TSXV

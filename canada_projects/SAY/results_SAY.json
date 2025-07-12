@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/SAY/63566.txt",
+    "canada_projects/SAY/65024.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "SAY",
+      "justification": "The primary project of interest is named SAY, as stated in the headline: 'Finlay Minerals purchases high-grade copper-silver SAY Property'."
+    },
+    "company_name": {
+      "value": "Finlay Minerals Ltd.",
+      "justification": "The acquiring company is identified as 'Finlay Minerals Ltd.(TSXV: FYL) (OTCQB: FYMNF) (\"Finlay\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Robert F. Brown",
+      "justification": "The President and CEO of the acquiring company is identified as 'Robert F. Brown, P. Eng. President, CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company entered into an agreement for the '100% purchase of the SAY Property'."
+    },
+    "primary_commodity": {
+      "value": "copper",
+      "justification": "The property is described as a 'high-grade copper-silver SAY Property', with copper being the first listed commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is confirmed to be about the SAY project, but no source URL was provided in the input to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is specified in Canadian dollars: 'for consideration of CDN$50,000'."
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The total cash payment is an aggregate of an initial payment and a future milestone payment: 'for consideration of CDN$50,000' and 'upon completion of a feasibility study on the SAY, Finlay will make an aggregate payment to Electrum of CDN$300,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is described in terms of cash payments and a royalty; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment amount is explicitly stated, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The agreement does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement does not specify any monetary commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The property is subject to a royalty retained by the seller: 'The SAY property is currently subject to a 1.5% net smelter return royalty held by the vendor, Electrum Resources Corporation'."
+    },
+    "coverage_area_raw": {
+      "value": 10587,
+      "justification": "The text states: 'The SAY property covers 10,587 hectares (99.17km2) of highly prospective ground...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the area: 'The SAY property covers 10,587 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides rock sample grades and historical drill intercepts (e.g., '59.3 m assaying 0.08% Cu and 0.107% Mo'), but does not contain a quantified statement of mineral resources with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FYL",
+      "justification": "The company's primary listing is stated in the text: 'Finlay Minerals Ltd.(TSXV: FYL)' and 'Finlay trades under the symbol \"FYL\" on the TSXV'."
+    }
+  }
+}

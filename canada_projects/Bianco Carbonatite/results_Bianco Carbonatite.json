@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bianco Carbonatite/80181.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bianco Carbonatite",
+      "justification": "The text announces the \"acquisition of the Bianco Carbonatite Project (\"Bianco\" or the \"Project\"), located in northwestern Ontario\"."
+    },
+    "company_name": {
+      "value": "Apex Critical Metals Corp.",
+      "justification": "The acquiring company is identified as \"Apex Critical Metals Corp.(CSE:APXC)(OTCQB:APXCF)(FWB:KL9) (\"Apex\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Sean Charland",
+      "justification": "The press release is signed \"On Behalf of the Board of Directors APEX CRITICAL METALS CORP., Sean Charland Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the acquisition, \"the Company has agreed to acquire a 100% interest in the Claims\"."
+    },
+    "primary_commodity": {
+      "value": "Niobium",
+      "justification": "The project is described as being within \"an area known for significant niobium mineralization\" and the company's focus includes properties with \"economic concentrations of rare earth elements (REEs) including niobium\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/947154/apex-critical-metals-acquires-underexplored-9200-acre-bianco-carbonatite-project-northern-ontario",
+      "justification": "The article is titled \"Apex Critical Metals Acquires Underexplored 9,200-acre Bianco Carbonatite Project, Northern Ontario\", which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is specified as \"CDN$30,000 cash\"."
+    },
+    "cash_payments_raw": {
+      "value": 30000,
+      "justification": "The transaction terms state the company will acquire the project \"for consideration of CDN$30,000 cash (\"Cash Consideration\"), to be paid on signing of the agreement.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention a cash payment and an NSR; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because an explicit cash payment value was found and populated in `cash_payments_raw`."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares as part of the consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, \"the Company will grant to the Vendor a 2.0% net smelter returns royalty interest in the future minerals produced from the Claims\"."
+    },
+    "coverage_area_raw": {
+      "value": 3735,
+      "justification": "The project \"comprises 85 single cell mining claims, encompassing approximately 3,735 hectares (9,229.3 acres)\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project \"comprises 85 single cell mining claims, encompassing approximately 3,735 hectares (9,229.3 acres)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states, \"no prior exploration activities have been conducted at Bianco,\" indicating no mineral resource has been defined for the project. Mineralization mentioned in the text is from nearby properties and is noted as not being indicative of mineralization on the Bianco project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:APXC",
+      "justification": "The acquiring company is identified in the text as \"Apex Critical Metals Corp.(CSE:APXC)\"."
+    }
+  }
+}

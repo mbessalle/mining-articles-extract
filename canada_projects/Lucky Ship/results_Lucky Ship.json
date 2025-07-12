@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lucky Ship/32794.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lucky Ship",
+      "justification": "The article states that Granite Creek Copper has entered into an agreement to acquire the 'Lucky Ship molybdenum property'."
+    },
+    "company_name": {
+      "value": "Granite Creek Copper",
+      "justification": "The acquiring company is identified as 'Granite Creek Copper Ltd. (TSX.V:GCX)(OTCQB:GCXXF)'."
+    },
+    "ceo_buyer": {
+      "value": "Timothy Johnson",
+      "justification": "The article quotes 'Timothy Johnson, President & CEO' of Granite Creek Copper."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for Granite Creek Copper to 'acquire a 100% interest in the Lucky Ship molybdenum property'."
+    },
+    "primary_commodity": {
+      "value": "Molybdenum",
+      "justification": "The project is consistently referred to as the 'Lucky Ship molybdenum property' and the article discusses its 'molybdenum resource'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/745388/Granite-Creek-Copper-Acquires-92-million-Pound-Indicated-Historical-43-101-Molybdenum-Resource-in-British-Columbia-Canada",
+      "justification": "The article content directly corresponds to the acquisition of the Lucky Ship project by Granite Creek Copper, which matches the primary project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Granite Creek Copper, is listed on the Canadian TSX Venture Exchange (TSXV:GCX), and the detailed quote section uses a '$' symbol, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition consists of shares and an exploration work commitment; no cash payment is mentioned in the agreement terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares and a price per share are available, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into its components (shares and exploration work) and not stated as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 3750000,
+      "justification": "Under the terms of the agreement the Company has the option to acquire a 100% interest in the Project by issuing 3,750,000 shares over a three-year period..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the acquisition agreement."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined as 'completing exploration work equivalent to two years worth of assessment credit... and four years worth of assessment credit', not a specific number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The commitment is to 'completing exploration work equivalent to two years worth of assessment credit... and four years worth of assessment credit', which is not a specific monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) is mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides the area for a different project, the Carmacks project (176 square kilometer), but does not specify a coverage area for the Lucky Ship project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is mentioned for the Lucky Ship project."
+    },
+    "resource_size": {
+      "value": "65.66 million tonnes averaging 0.064% Mo containing 92.6 million pounds of Mo in the Indicated category with an additional 10.24 million tonnes averaging 0.054% Mo containing 12.2 million pounds Mo in the Inferred category",
+      "justification": "The Project hosts a historical NI 43-101 molybdenum resource consisting of 65.66 million tonnes averaging 0.064% Mo containing 92.6 million pounds of Mo in the Indicated category with an additional 10.24 million tonnes averaging 0.054% Mo containing 12.2 million pounds Mo in the Inferred category."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GCX",
+      "justification": "The buyer is identified as 'Granite Creek Copper Ltd. (TSX.V:GCX)(OTCQB:GCXXF)'. The detailed quote section also confirms 'Exchange: TSXV'."
+    }
+  }
+}

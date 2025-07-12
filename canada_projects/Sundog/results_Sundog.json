@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Sundog/81306.txt",
+    "canada_projects/Sundog/81343.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sundog",
+      "justification": "The project is referred to as the 'Sundog gold project' in the sentence: 'New Break Signs LOI to Sell the Sundog Gold Project in Kivalliq Region, Nunavut'."
+    },
+    "company_name": {
+      "value": "Guardian Exploration Inc.",
+      "justification": "Guardian Exploration Inc. is identified as the acquirer (buyer) in the text: 'New Break Resources Ltd. ... has entered into a non-binding letter of intent (the \"LOI\") with Guardian Exploration Inc. (TSXV: GX) (\"Guardian\") for the sale New Break's 100% interest...'"
+    },
+    "ceo_buyer": {
+      "value": "Graydon Kowal",
+      "justification": "The press release for the buyer, Guardian Exploration Inc., lists 'Graydon Kowal President and CEO' as the contact person."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "Guardian is acquiring New Break's 100% interest, but as part of the transaction, 'New Break will retain a 20% undivided interest in the Sundog project, carried through to production'. This results in a net interest acquisition of 80% (100% - 20%)."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the 'Sundog gold project' and the text mentions 'high grade surface gold exposures'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/232984",
+      "justification": "The article is titled 'New Break Signs LOI to Sell the Sundog Gold Project in Kivalliq Region, Nunavut', which directly pertains to the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is listed as '$75,000'. The involved companies, New Break Resources Ltd. and Guardian Exploration Inc., are Canadian and are listed on Canadian exchanges (CSE, TSXV), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "The text states that 'upon closing Guardian will make a cash payment to New Break of $75,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into cash and a number of shares, not a total share value, so this field is not applicable."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The agreement states that Guardian will 'issue to New Break 5,000,000 common shares of Guardian.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.13,
+      "justification": "The transaction terms mention the number of shares issued (5,000,000), but not the price. Using the last traded price for the buyer (Guardian Exploration Inc.) as a fallback, as seen in the detailed quote: 'Last: 0.13'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that 'Guardian will assume responsibility for the obligations under the MEA including the annual exploration expenditure requirements' but does not specify a monetary value for this commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 9415,
+      "justification": "The text describes the project as 'the 9,415 hectare Sundog gold project' and states it 'covers approximately 9,415 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit is specified in the phrase 'the 9,415 hectare Sundog gold project'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states, 'No drilling program has yet been undertaken on the Sundog property,' which indicates that no formal mineral resource estimate has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GX",
+      "justification": "The buyer is identified as 'Guardian Exploration Inc. (TSXV: GX)'."
+    }
+  }
+}

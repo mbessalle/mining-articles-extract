@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Cannonball and Adrian/67416.txt",
+    "canada_projects/Cannonball and Adrian/73403.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cannonball and Adrian",
+      "justification": "The text identifies the project in multiple places, including the headline 'Goldrea Expands Cannonball Project' and the metadata tag 'Project Name Cannonball and Adrian Project'."
+    },
+    "company_name": {
+      "value": "Goldrea Resources Corp.",
+      "justification": "The acquiring company is identified at the start of both press releases: 'Goldrea Resources Corp. (CSE: GOR) (FSE: GOJ1) (OTC Pink: GORAF) is pleased to announce...'"
+    },
+    "ceo_buyer": {
+      "value": "James Elbert",
+      "justification": "The CEO is identified in the contact information section of both articles: 'James Elbert, President and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "The company acquired a 50% interest in the larger portion of the land (514 ha) and a 100% interest in a smaller portion (71 ha). The 50% is reported as it relates to the primary transaction described. 'the Company has signed LOI's to acquire a 50% interest in nine mineral claims (514ha.) that cover multiple gold prospects adjoining the Company's Cannonball Project.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly refers to the project's mineralization as 'copper gold'. 'The Cannonball Project hosts multiple porphyry copper-gold and vein type copper-gold prospects'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/218603",
+      "justification": "The articles are about Goldrea Resources Corp. acquiring properties adjoining its Cannonball Project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Goldrea Resources Corp., is listed on the Canadian Securities Exchange (CSE), implying the currency for the transaction is Canadian Dollars (CAD). 'Goldrea Resources Corp. (CSE: GOR)'."
+    },
+    "cash_payments_raw": {
+      "value": 190000,
+      "justification": "The first transaction includes a cash payment to the vendor. 'To acquire the 50% interest, Goldrea must... pay $190,000 to the underlying vendor'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A dollar value for the share payments is not provided, only the number of shares to be issued."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the consideration are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1250000,
+      "justification": "The total of 1,250,000 shares is the sum of two separate acquisitions: 'issue a total of 750,000 shares' from the first deal and 'Consideration for this \"Plus\" Property consists of 500,000 common shares' from the second."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 550000,
+      "justification": "The first transaction includes a commitment for exploration expenditures. 'To acquire the 50% interest, Goldrea must incur $550,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 585,
+      "justification": "The total area is the sum of two acquisitions described in the documents: 'nine mineral claims (514ha.)' and 'two claim tenures cover 71 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The units for the acquired land are specified as hectares in both transactions: 'nine mineral claims (514ha.)' and 'two claim tenures cover 71 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical gold values (e.g., 'up to 47 g/t gold') but does not provide a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GOR",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the first line of the press releases: 'Goldrea Resources Corp. (CSE: GOR)'."
+    }
+  }
+}

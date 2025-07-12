@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Highland Valley/73773.txt",
+    "canada_projects/Highland Valley/73779.txt",
+    "canada_projects/Highland Valley/78018.txt",
+    "canada_projects/Highland Valley/78021.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Highland Valley",
+      "justification": "The documents consistently refer to the project by this name, for example: 'Happy Creek Announces Sale of Highland Valley Project' and 'Metal Energy Announces Acquisition of Highland Valley Copper Project'."
+    },
+    "company_name": {
+      "value": "Happy Creek Minerals Ltd.",
+      "justification": "The authoritative company name provided in the prompt is 'Happy Creek Minerals Ltd.'. The text confirms this company's role as the seller: 'Happy Creek Minerals Ltd. (TSX-V: HPY) (“Happy Creek” or the “Company”) is pleased to announce that it has entered into a Purchase Agreement... with Metal Energy Corp.'"
+    },
+    "ceo_buyer": {
+      "value": "James Sykes",
+      "justification": "The buyer is Metal Energy Corp. The company's press release identifies its CEO in the contact section: 'For further information, please contact: Metal Energy Corp. MERG on the TSXV James Sykes, CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Metal Energy is acquiring a 100% interest in the project, as stated: 'Metal Energy Corp. (TSXV: MERG) ... is pleased to announce a next step in its growth, having entered into an arm's length asset purchase agreement with Happy Creek Minerals Inc. ... to acquire the 100%-owned Highland Valley Copper Project'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is explicitly named the 'Highland Valley Copper Project' and is located adjacent to the 'Highland Valley Copper mine'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction involves companies listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and payments are denoted with '$'. This implies the currency is Canadian Dollars (CAD). For example: 'Cash payment of $300,000'."
+    },
+    "cash_payments_raw": {
+      "value": 300000,
+      "justification": "The terms of the acquisition include a direct cash payment from the buyer to the seller. 'On closing of the Acquisition, the Company paid $300,000 and issued a total of 11,736,100 common shares...'"
+    },
+    "share_payments_raw": {
+      "value": 6234722,
+      "justification": "The total share payment is composed of an initial issuance of 11,736,100 shares at a deemed price of $0.02 ($234,722) and additional future payments valued at $6,000,000 ($1M + $1M + $1.5M + $2.5M). Quotes: 'issued a total of 11,736,100 common shares in the capital of the Company (\"Common Shares\") to Happy Creek at a deemed price per Common Share of $0.02' and 'Happy Creek will receive additional equity consideration payments equivalent to $6 million, payable in Metal Energy common shares over the next four years'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is null because separate values for cash and share payments were found and populated in their respective fields."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is null because the transaction was categorized under Priority 1 (separate cash and share values), making `cash_payments_raw` and `share_payments_raw` the primary financial fields."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrant payments was found in the provided documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of option payments was found in the provided documents."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is null because the transaction was categorized under Priority 1 (separate cash and share values), making `cash_payments_raw` and `share_payments_raw` the primary financial fields."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "The agreement includes a commitment for exploration spending by the buyer: 'Metal Energy must incur a minimum of $250,000 in exploration expenditures on the Property by December 31, 2024.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "As part of the transaction, the seller (Happy Creek) was granted a royalty by the buyer (Metal Energy): 'Metal Energy will grant Happy Creek a 2.5% NSR royalty over certain mineral claims of the Project, of which 1.5% may be repurchased by Metal Energy for $5,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 240,
+      "justification": "The most recent and consistent area mentioned for the project is 240 square kilometers: 'The Highland Valley Project (\"Highland\" or the \"Project\") spans 240 km² in southern British Columbia.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is specified as square kilometers (km²): 'The Highland Valley Project (\"Highland\" or the \"Project\") spans 240 km² in southern British Columbia.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents describe exploration targets, mineralization zones (Zone 1, Zone 2), and drilling history, but do not contain a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MERG",
+      "justification": "The buyer is identified as Metal Energy Corp., and its ticker and exchange are provided in the text: 'Metal Energy Corp. (TSXV: MERG) (OTCQB: MEEEF) (the \"Company\" or \"Metal Energy\") is pleased to announce...'"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Empire/71192.txt",
+    "canada_projects/Empire/72167.txt",
+    "canada_projects/Empire/72359.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Empire",
+      "justification": "The primary project of interest is named Empire, as confirmed in the text: \"VR Resources Acquires Three New Projects to Expand Its Copper-Gold Strategy in Northern Ontario... the acquisition of the Empire, Silverback and Golden Bear mineral property (“Properties”).\""
+    },
+    "company_name": {
+      "value": "VR Resources Ltd.",
+      "justification": "The acquiring company is identified as VR Resources Ltd. in the headline and body of the text: \"VR Resources Ltd. (TSX.V: VRR, FSE: 5VR; OTCBB: VRRCF), the \"Company\", or “VR”, is pleased to announce the acquisition of the Empire, Silverback and Golden Bear mineral property...\""
+    },
+    "ceo_buyer": {
+      "value": "Justin Daley",
+      "justification": "The CEO of the buyer, VR Resources, is identified as Justin Daley. \"ON BEHALF OF THE BOARD OF DIRECTORS: “Justin Daley” Justin Daley, MSc, PGeo President & CEO\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for an option to acquire a 100% interest in the properties. \"Option to acquire a 100% interest in the Properties (“the Acquisition”) from a private vendor...\""
+    },
+    "primary_commodity": {
+      "value": "Copper-Gold",
+      "justification": "The acquisition is part of the company's copper-gold strategy. \"VR Resources Acquires Three New Projects to Expand Its Copper-Gold Strategy in Northern Ontario\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted by '$' and the acquiring company, VR Resources Ltd., is listed on the Canadian TSX Venture Exchange (TSX.V), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 16666.67,
+      "justification": "The project's share is $16,666.67, calculated as one-third of the total $50,000 cash payment ($45,000 initial + $5,000 second payment) for the three properties (Empire, Silverback, and Golden Bear) as stated in the terms: 'initial payment of $45,000... The remaining 10% interest can be acquired by a second payment of $5,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with cash and a number of shares, not a total share value. Per the extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share issuance components are provided in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": 333333,
+      "justification": "The project's share is 333,333 shares, calculated as one-third of the total 1,000,000 shares (600,000 initial + 400,000 second issuance) for the three properties (Empire, Silverback, and Golden Bear) as stated in the terms: 'issuance of 600,000 common shares... issuance of 400,000 common shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No specific drilling commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration expenditure commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms include a 2% NSR granted to the vendor: \"The Vendors will be granted a Net Smelter Returns royalty of 2% on Closing, and;\""
+    },
+    "coverage_area_raw": {
+      "value": 10254,
+      "justification": "A news release specifically about the Empire property states its area: \"About the Empire Property The Properties now consists of 313 mineral claims in 1 contiguous blocks covering 10,254 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "A news release specifically about the Empire property states its area unit: \"About the Empire Property The Properties now consists of 313 mineral claims in 1 contiguous blocks covering 10,254 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the Empire project. It mentions that figures for other projects \"are not mineral resources.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:VRR",
+      "justification": "The buyer's ticker and primary exchange are listed in the text: \"VR Resources Ltd. (TSX.V: VRR, FSE: 5VR; OTCBB: VRRCF)\"."
+    }
+  }
+}

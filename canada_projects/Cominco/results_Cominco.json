@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cominco/48843.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cominco Uranium Project",
+      "justification": "The Company has agreed to acquire the Cominco Uranium Project, located in Bathurst Inlet, Nunavut, Canada (the \"Cominco Property\")."
+    },
+    "company_name": {
+      "value": "Hertz Energy Inc.",
+      "justification": "Hertz Energy Inc. (CSE: HZ) (OTCQB: HZLIF) (FSE: QE2) (the \"Company\") is pleased to announce that it has entered into a Property Purchase and Sale Agreement dated February 2, 2024..."
+    },
+    "ceo_buyer": {
+      "value": "Kal Malhi",
+      "justification": "On Behalf of the Board of Directors Kal Malhi Chief Executive Officer and Director"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pursuant to the terms and conditions of the Definitive Agreement and as consideration for the acquisition of a 100% undivided interest in the Cominco Property, the has agreed to..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Hertz Energy Enters Agreement to Acquire Cominco Uranium Property"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/197680",
+      "justification": "The article is titled 'Hertz Energy Enters Agreement to Acquire Cominco Uranium Property' and details the acquisition of the Cominco Property by Hertz Energy Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is listed in dollars ('$75,000') and the acquiring company, Hertz Energy Inc., is listed on the Canadian Securities Exchange (CSE: HZ), implying the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 75000,
+      "justification": "Reimburse the Vendor acquisition costs to date estimated not to exceed $75,000;"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition does not include any share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration is broken down into a cash reimbursement and an NSR royalty, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The consideration for the acquisition does not include the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition agreement."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a '$1.037M non-flow-through financing which will be dedicated towards... the acquisition of the Cominco Property, and general and administrative matters', but this is a general financing for multiple purposes and not a specific exploration commitment for the project as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "grant the Vendor a two percent (2%) net smelter returns royalty on the Cominco Property."
+    },
+    "coverage_area_raw": {
+      "value": 5046.25,
+      "justification": "The Cominco Property covers the Yon and Pomie \"Advanced Exploration\" stage showings and is comprised of four licensing spanning 5,046.25 hectares covering favourable geology."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Cominco Property covers the Yon and Pomie \"Advanced Exploration\" stage showings and is comprised of four licensing spanning 5,046.25 hectares covering favourable geology."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical exploration, showings, and sample assays (e.g., 'best grade encountered at surface was 41.96 lbs U3O8/ton (1.779 % U) over 13.0 feet (3.96 m)'), but does not contain a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HZ",
+      "justification": "Hertz Energy Inc. (CSE: HZ) (OTCQB: HZLIF) (FSE: QE2) (the \"Company\") is pleased to announce that it has entered into a Property Purchase and Sale Agreement..."
+    }
+  }
+}

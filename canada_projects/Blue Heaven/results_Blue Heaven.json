@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Blue Heaven/63689.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue Heaven",
+      "justification": "The article is titled 'CMC Metals Ltd. Acquires an 80% Interest in the Blue Heaven Property, Yukon, Canada' and the authoritative metadata confirms the project name."
+    },
+    "company_name": {
+      "value": "CMC Metals Ltd.",
+      "justification": "The text clearly identifies the acquirer: 'CMC Metals Ltd. (TSXV:CMB)(Frankfurt:ZM5P)(OTCQB:CMCXF) (\"CMC\" or the \"Company\") is pleased to announce that the Company has completed the final payment on the Blue Heaven Property...'. This contradicts the provided authoritative company name, but is directly supported by the article."
+    },
+    "ceo_buyer": {
+      "value": "Kevin Brewer",
+      "justification": "The text identifies the CEO of the acquiring company, CMC Metals Ltd.: 'Mr. Kevin Brewer, P.Geo. and President and CEO of the Company...'"
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The headline states 'CMC Metals Ltd. Acquires an 80% Interest in the Blue Heaven Property' and the body confirms '...and as a result is now an 80% owner of the Property.'"
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The text describes the project as part of the 'Rancheria Silver District' and mentions 'polymetallic silver-lead-zinc CRD prospects'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/882345/cmc-metals-ltd-acquires-an-80-interest-in-the-blue-heaven-property-yukon-canada",
+      "justification": "The article's content, including the title 'CMC Metals Ltd. Acquires an 80% Interest in the Blue Heaven Property, Yukon, Canada', directly pertains to the specified project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is described in dollars ('$0.03 per share') and the acquiring company, CMC Metals Ltd., is listed on the TSX Venture Exchange (TSXV), which is a Canadian exchange, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The final payment was made entirely in shares, with no cash component mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is defined by the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms are broken down into number of shares and price per share, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The text states '...a payment of 5,000,000 common shares at a deemed price of $0.03 per share... was provided to Strategic as the final payment for the Property.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options being issued as payment."
+    },
+    "issued_share_price": {
+      "value": 0.03,
+      "justification": "The text states '...a payment of 5,000,000 common shares at a deemed price of $0.03 per share... was provided to Strategic as the final payment for the Property.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a drilling commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1975,
+      "justification": "The text states: 'The Blue Heaven Property comprises of 118 claims (1,975 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Blue Heaven Property comprises of 118 claims (1,975 hectares)...'"
+    },
+    "resource_size": {
+      "value": "51.47 dry tonnes grading 8,563 g/t silver, 56.2% lead, 9.5% zinc and 1.2 g/t gold",
+      "justification": "The text mentions a historical resource: 'a bulk sample collected by Nordac Resources Ltd. in 1999 from the Blue and H zones by comprised of 51.47 dry tonnes grading 8,563 g/t silver, 56.2% lead, 9.5% zinc and 1.2 g/t gold.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CMB",
+      "justification": "The text explicitly identifies the buyer and its primary ticker and exchange: 'CMC Metals Ltd. (TSXV:CMB)...'. This information from the article body is used as it directly contradicts the provided authoritative ticker."
+    }
+  }
+}

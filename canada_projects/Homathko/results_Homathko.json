@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Homathko/43831.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Homathko",
+      "justification": "The text states the company has an option to acquire certain mineral claims known as the Homathko Gold Project. '...option (the \"Option\") to acquire a 100% interest of certain mineral claims known as the Homathko Gold Project, located in the Province of British Columbia (the \"Homathko Property\") ...'"
+    },
+    "company_name": {
+      "value": "Aurum Lake Mining Corporation",
+      "justification": "The buyer is identified at the beginning of the press release: 'Aurum Lake Mining Corporation (\"Aurum\" or the \"Company\") is pleased to announce that further to its news release of December 21, 2022, it has received conditional approval...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Aurum Lake Mining Corporation, is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text clearly states the option is to acquire a 100% interest. '...to complete Aurum's option (the \"Option\") to acquire a 100% interest of certain mineral claims known as the Homathko Gold Project...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the 'Homathko Gold Project'. '...certain mineral claims known as the Homathko Gold Project...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a public-facing URL."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and financial details are given using the '$' symbol, implying Canadian Dollars. 'In connection with the Transaction, Aurum plans to complete a non-brokered private placement...at a price of $0.40 per Common Share...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not specify the cash consideration paid to the seller (Transition Metals Corp.) for the option. It only describes a separate concurrent financing to raise funds."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not specify the share consideration paid to the seller (Transition Metals Corp.) for the option. It only describes a separate concurrent financing to raise funds."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not specify the combined consideration paid to the seller (Transition Metals Corp.) for the option. It only describes a separate concurrent financing to raise funds."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares issued to the seller (Transition Metals Corp.) as part of the option agreement is not mentioned in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants being issued to the seller (Transition Metals Corp.) as part of the option agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The specific payment terms of the option agreement with Transition Metals Corp. are not detailed in this press release."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price of any shares issued to the seller (Transition Metals Corp.) as part of the option agreement is not mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that proceeds from a financing will be used for exploration, but does not specify a committed amount as part of the option agreement. 'Aurum intends to use the proceeds from the Concurrent Financing to fund... the exploration of the Homathko Property...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the transaction details provided."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The size or area of the Homathko Property is not mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The unit for the area of the Homathko Property is not mentioned as the area itself is not provided."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource for the Homathko project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:ARL",
+      "justification": "The text identifies the buyer's ticker and exchange at the top of the release: 'TSXV: ARL.P'. The authoritative metadata also provides 'TSXV' and 'ARL'."
+    }
+  }
+}

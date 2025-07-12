@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Amer Lake/63930.txt",
+    "canada_projects/Amer Lake/63930_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Amer Lake",
+      "justification": "The primary project of interest is stated as Amer Lake, and the document is titled 'Amer Lake Uranium Acquisition On Track For Completion'."
+    },
+    "company_name": {
+      "value": "Terra Uranium Limited",
+      "justification": "The acquiring company is identified in the text: 'Terra Uranium Limited ASX:T92 (Terra Uranium or the Company) is pleased to provide an update on its proposed Acquisition of the Amer Lake uranium project, Nunavut, Canada...'"
+    },
+    "ceo_buyer": {
+      "value": "Andrew J. Vigar",
+      "justification": "The announcement is authorized by the Executive Chairman: 'This announcement has been authorised by Andrew J Vigar, Chairman, on behalf of the Board of Directors.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text refers to a full acquisition of the claims, not a partial interest or farm-in. 'The Amer Lake Project, located in Nunavut, Canada (Figure 1), consists of 6 claims totalling 1,190 ha to be acquired...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project throughout the document, for example: 'Amer Lake Uranium Acquisition On Track For Completion'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Amer Lake, as confirmed by the title 'Amer Lake Uranium Acquisition On Track For Completion'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The document does not contain any financial details of the transaction, so the currency cannot be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details of the transaction, such as cash payments. It notes that the original terms were announced on 28 March 2024, but does not repeat them."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details of the transaction, such as share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The document does not contain any financial details of the transaction, such as a combined payment value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The document does not mention any amount of shares being issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The document does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The document does not mention a price per share for any issued shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The document does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The document does not mention a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The document does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1190.79,
+      "justification": "The tenement table lists the claims subject to the Letter of Intent (LOI) with a total area of 1,190.79 ha. 'Amer Lake – Subject to LOI ... 1,190.79'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The tenement table specifies the area unit in its header: 'Area (ha)'."
+    },
+    "resource_size": {
+      "value": "17,827,000 tonnes averaging 380 ppm U3O8, containing 15.3 million pounds U3O8",
+      "justification": "The document states the portion of the resource on the acquired claims: 'The CP has re-reported that part of the foreign resource estimate that is within the claims proposed to be acquired by the Company using the same cut-off grade used in 2012 and the Company’s portion is 17,827,000 tonnes averaging 380 ppm U3O8, containing 15.3 million pounds U3O8*.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:T92",
+      "justification": "The company is identified with its ticker and exchange at the top of the second page: 'Terra Uranium Limited ASX:T92 (Terra Uranium or the Company)...'"
+    }
+  }
+}

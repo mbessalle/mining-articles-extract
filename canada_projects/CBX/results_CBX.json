@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/CBX/38781.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "CBX",
+      "justification": "The text explicitly names the project: \"CBX Project – additional five new contiguous claims totalling 6,804 ha...\" and provides a detailed section titled \"CBX Project:\"."
+    },
+    "company_name": {
+      "value": "Skyharbour Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Skyharbour Resources Ltd. (TSX-V: SYH) ... is pleased to announce that it has acquired by staking seven new prospective uranium exploration claims...\""
+    },
+    "ceo_buyer": {
+      "value": "Jordan Trimble",
+      "justification": "The CEO of the acquiring company is identified in the text: \"Jordan Trimble, President and CEO of Skyharbour Resources, states...\" and in the signature block."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states that the acquisition by staking resulted in full ownership of the new claims: \"These 100% owned claims add an additional 13,945 ha to Skyharbour’s existing holdings...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The press release headline and body repeatedly state the commodity of interest: \"Skyharbour Announces Additional Uranium Property Staking...\" and \"new prospective uranium exploration claims\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian TSX Venture Exchange, and a separate marketing agreement mentioned in the text is denominated in \"CAD $100,000\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made by staking claims directly, not through a cash purchase from another entity. No cash consideration was mentioned for the claims."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made by staking claims, not through the issuance of shares as payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made by staking claims, and no combined cash and share payment was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made by staking claims, and no shares were issued as consideration for the project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no associated issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters for the staked claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the staked claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 8777,
+      "justification": "The text specifies the total area of the expanded project: \"The CBX property has been recently expanded through staking... which have been combined to include a total of seven claims covering 8,777 ha.\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is explicitly stated: \"...a total of seven claims covering 8,777 ha.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as prospective and mentions historical drilling but does not provide any quantified mineral resource estimate for the CBX project. It notes for historical drilling that \"no geochemical samples were taken from these drill holes.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:SYH",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Skyharbour Resources Ltd. (TSX-V: SYH)\"."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Kamuck/43530.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kamuck",
+      "justification": "The article refers to the project as the 'Kamuck Project' and 'Kamuck Property'. For example: 'Key Features of the Kamuck Property'."
+    },
+    "company_name": {
+      "value": "Solstice Gold Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Solstice Gold Corp. (TSXV: SGC) (“Solstice”, “we”, “our” or the “Company”) is pleased to announce that it has acquired a 31 km2 land position...'"
+    },
+    "ceo_buyer": {
+      "value": "Pablo McDonald",
+      "justification": "The CEO of the buyer is identified in the signature block: 'On Behalf of Solstice Gold Corp. Pablo McDonald, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in the project: '...to purchase the Option to acquire the Optionors’ 100% interest in the Kamuck Project.'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article title clearly states the commodity of interest: 'Solstice Acquires New Lithium Project in the Emerging Quetico Lithium District, Ontario'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Solstice Gold Corp., is listed on the TSXV (TSX Venture Exchange), which implies Canadian Dollars (CAD) for the '$' symbol used in the payment terms."
+    },
+    "cash_payments_raw": {
+      "value": 72000,
+      "justification": "The total cash payment is $72,000, calculated by summing the required payments: '$10,000 in cash within ten days', 'a payment of $14,000 cash by the first anniversary', 'a payment of $20,000 cash by the second anniversary', and 'a payment of $28,000 cash by the third anniversary'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued but does not provide an explicit total dollar value for the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 200000,
+      "justification": "The agreement includes the issuance of a specific number of shares: '...and issue 200,000 common shares and as soon as practicable after TSX Venture Exchange (“TSXV”) approval, to the Optionors.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any option payments as consideration."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention 200,000 shares but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The sellers will retain a royalty as part of the deal: 'Upon exercise of the Option, the Optionors will retain a 1.5% net smelter return (the “NSR”) on the Kamuck Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 31,
+      "justification": "The size of the acquired land position is stated in the first paragraph: '...acquired a 31 km2 land position...'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the coverage area is provided in the same phrase: '...acquired a 31 km2 land position...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no defined resource exists: 'There is no record of any exploration or detailed government mapping over the Kamuck area.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SGC",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Solstice Gold Corp. (TSXV: SGC)'."
+    }
+  }
+}

@@ -1,0 +1,50 @@
+--- Article Metadata ---
+Project Name: Montcalm
+Company Name: Mink Ventures Corporation
+Exchange: TSXV
+Ticker: MINK
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.20.2023, 4:00:00 AM
+
+# Mink Ventures Completes Payments to Earn 80% Interest in Montcalm
+
+Toronto, Ontario--(Newsfile Corp. - December 19, 2023) - Mink Ventures Corporation (TSXV: MINK) ("**Mink** " or the "**Company** ") today announced that it has issued the second and final tranche of 800,000 shares to Voltage Metals Corp. (CSE: VOLT), and made the second and final $25,000 cash payment required under the option agreement to earn its 80% interest in the Montcalm Ni Cu Co Project. In addition, Mink has expended the required $600,000 in exploration expenditures on the project and upon completion of the transfer of certain assessment credits in March 2024, the Company will have earned its 80% interest in the property.
+
+The Montcalm Project, covers 40 km2 adjacent to Glencore's former Montcalm Mine which had historical production of 3.93 million tonnes of ore grading 1.25% Ni, 0.67% Cu and 0.051% Co (Ontario Geological Survey, Atkinson, 2010). Montcalm has excellent access and infrastructure including an all-weather road to the property, a series of logging roads throughout, and proximity to the Timmins Mining Camp, enabling cost-effective mobilization and exploration. 
+
+**About Mink Ventures Corporation:**
+
+Mink Ventures Corporation (TSXV: MINK) is a Canadian mineral exploration company exploring for critical minerals (nickel, copper, cobalt) at its Warren and Montcalm projects, in the Timmins, Ontario area. Mink's flagship Montcalm Project, covers 40 km2 adjacent to Glencore's former Montcalm Mine which had historical production of 3.93 million tonnes of ore grading 1.25% Ni, 0.67% Cu and 0.051% Co (Ontario Geological Survey, Atkinson, 2010). Its Warren Ni Cu Co Project is located 35 km away. Both projects have excellent access and infrastructure with an all-weather access road and power as well as its proximity to the skilled labour and facilities of the Timmins Mining Camp. After giving effect to the share issuance to Voltage Metals Corp, the Company has **18,702,984** shares outstanding.
+
+For further information about Mink Ventures Corporation please contact: Natasha Dixon, President & CEO, T: 250-882-5620 E: [ndixon@minkventures.com](mailto:ndixon@minkventures.com) or Kevin Filo, Director, T: 705-266-6818 or visit [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/YY70JSXwyX)
+
+**Forward Looking Statements**
+
+ _This press release includes certain "forward-looking information", including, but not limited to, statements with respect to the prospectivity of the Montcalm Project. Forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause the actual results, performance or achievements of MINK to be materially different from any future results, performance or achievements expressed or implied by the forward-looking statements. Factors that could affect the outcome include, among others: future prices and the supply of metals; the results of exploration work; inability to raise the money necessary to incur the expenditures required to retain and advance the Montcalm Project; environmental liabilities (known and unknown); general business, economic, competitive, political and social uncertainties; accidents, labour disputes and other risks of the mining industry; political instability, or delays in obtaining governmental approvals. For a more detailed discussion of such risks and other factors that could cause actual results to differ materially from those expressed or implied by such forward-looking statements, refer to MINK's filings with Canadian securities regulators available on SEDAR+. These forward-looking statements are made as of the date hereof and MINK disclaims any intent or obligation to update publicly any forward-looking statements, whether as a result of new information, future events or results or otherwise, except as required by applicable securities laws._
+
+_Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/191596](https://api.newsfilecorp.com/redirect/0V2RvfJOzE)
+
+### Project Name
+
+[Montcalm Project](/?gid=4605)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.08                       Bid: 0.095
+Bid Size: 1000                   Beta: -0.89261
+Year High: 0.12                  Market Cap: 2.00m
+PB Ratio: 19.24                   EPS: -0.03
+Average Volume (30 Day): 5,283    Volume: 500
+Prev. Close: 0.08                Ask: 0.115
+Ask Size: 10000                   Year Low: 0.045
+Total Shares: 25.01m               Shares Out: 25.68m
+Float: 19.89m                      Exchange: TSXV

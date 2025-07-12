@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Mt. Peyton/94915.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Mt. Peyton",
+      "justification": "The project is identified in the text as 'Project Name [Mt. Peyton Project]' and the authoritative name provided is 'Mt. Peyton'."
+    },
+    "company_name": {
+      "value": "Exploits Discovery Corp.",
+      "justification": "The authoritative company name is 'Exploits Discovery Corp.', which is consistent with the 'Company Profile' link in the document."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text does not specify any percentage of interest acquired for the Mt. Peyton project."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The headline of the article mentions the acquisition of 'Exploits Gold Corp.', indicating that gold is the primary commodity of interest."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about a corporate-level transaction ('Mariner Acquires Exploits Gold Corp.') and does not provide any specific M&A details for the Mt. Peyton project itself, which is only mentioned as an asset."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction details are provided for the Mt. Peyton project, so the currency cannot be determined."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any cash payments related to the Mt. Peyton project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share payments related to the Mt. Peyton project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not mention a combined cash and share payment for the Mt. Peyton project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not specify an amount of shares issued for the Mt. Peyton project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not specify a share price for any transaction related to the Mt. Peyton project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) in the transaction details."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Mt. Peyton project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the unit for the coverage area."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide any mineral resource estimates for the Mt. Peyton project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NFLD",
+      "justification": "The authoritative metadata provides the ticker 'NFLD' and exchange 'CSE'. The 'Detailed Quote' section in the text confirms 'Exchange: CSE'."
+    }
+  }
+}

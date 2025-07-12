@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Angilak/71938.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Angilak",
+      "justification": "The text repeatedly refers to the project as the Angilak Project. For example: 'ATHA Energy has expanded its land package at the Angilak Project...'"
+    },
+    "company_name": {
+      "value": "ATHA Energy Corp.",
+      "justification": "The acquiring company is identified as 'ATHA Energy Corp.(TSX.V: SASK) (FRA: X5U) (OTCQB: SASKF) (“ATHA” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Troy Boisjoli",
+      "justification": "The CEO of the acquiring company, ATHA Energy Corp., is identified in the text: 'Troy Boisjoli, CEO added: “Extending the Angilak project is a direct result of the successful 2024 exploration program.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims for a project already owned by the company, not an acquisition of interest from another party. The text states ATHA has a '100%-owned Angilak Project' and 'has staked an additional 69,704 hectares'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project's commodity multiple times, for instance: 'The Angilak Project is host to the Lac 50 Uranium Deposit, which has a historical mineral resource estimate of 43.3M lbs at an average grade of 0.69% U3O8.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, ATHA Energy Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. An agreement mentioned is with a Toronto-based firm for a fee in '$', implying Canadian Dollars. The detailed quote section also lists the exchange as TSXV."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes an expansion of a land package via staking, not an acquisition involving cash payments. The mention of '$11,000' is for an investor relations agreement, not for the project itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as consideration for the project expansion."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share payments as consideration for the project expansion."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as consideration for the project expansion."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a completed drill program of '~10,051 m', but this is not a future commitment as part of a transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not state any monetary exploration commitment as part of the transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 158447,
+      "justification": "The text specifies the new total size of the project after the expansion: 'The Company has staked an additional 69,704 hectares within 48 mineral claims, with the Angilak Project now 158,447 hectares in size.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the project area is explicitly stated: 'with the Angilak Project now 158,447 hectares in size.'"
+    },
+    "resource_size": {
+      "value": "43.3M lbs at an average grade of 0.69% U3O8",
+      "justification": "The text provides a historical resource estimate for a deposit within the project: 'The Angilak Project is host to the Lac 50 Uranium Deposit (the “Lac 50 Trend”), one of the largest high-grade deposits outside of the Athabasca Basin, with a historical mineral resource estimate of 43.3M lbs at an average grade of 0.69% U3O8.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SASK",
+      "justification": "The text identifies the company's ticker and exchange as '(TSX.V: SASK)'. TSX.V is equivalent to TSXV."
+    }
+  }
+}

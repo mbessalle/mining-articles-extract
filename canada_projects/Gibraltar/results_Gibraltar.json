@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Gibraltar/50971.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gibraltar",
+      "justification": "The article is titled 'Taseko Acquires 100% of Gibraltar Mine' and discusses the acquisition of the remaining interest in this asset."
+    },
+    "company_name": {
+      "value": "Taseko Mines Limited",
+      "justification": "The acquiring company is identified as 'Taseko Mines Limited (TSX: TKO) (NYSE American: TGB) (LSE: TKO) (\"Taseko\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Stuart McDonald",
+      "justification": "The text identifies the CEO of the buyer: 'Stuart McDonald, President & CEO of Taseko, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 12.5,
+      "justification": "Taseko entered into an agreement 'to acquire the remaining 12.5% interest in the Gibraltar Mine from Dowa Metals & Mining Co., Ltd. (\"Dowa\") and Furukawa Co., Ltd. (\"Furukawa\").'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text states, 'This acquisition provides 14% growth in our attributable copper production...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/taseko-acquires-100-of-gibraltar-mine-302097839.html",
+      "justification": "The article content, titled 'Taseko Acquires 100% of Gibraltar Mine', directly relates to the specified project of interest, Gibraltar."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The press release specifies the currency: 'All amounts in this press release are stated in Canadian dollars (C$) unless otherwise specified.'"
+    },
+    "cash_payments_raw": {
+      "value": 117000000,
+      "justification": "The text specifies a minimum cash payment: 'The acquisition price consists of a minimum amount of $117 million payable over a period of ten years...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms describe cash payments and do not mention any payment made with shares of Taseko."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was identified, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The consideration for the acquisition is cash-based; no shares were issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not include any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not include any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined by drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any financial commitment for exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or similar royalty being part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the surface area of the Gibraltar Mine."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the surface area of the Gibraltar Mine, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'Mineral Reserves' and 'Mineral Resources' in the context of forward-looking statements but does not provide any quantified estimates of size (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:TKO",
+      "justification": "The buyer is identified as 'Taseko Mines Limited (TSX: TKO) (NYSE American: TGB) (LSE: TKO)'. The primary listing is confirmed in the detailed quote section: 'Exchange: TSX'."
+    }
+  }
+}

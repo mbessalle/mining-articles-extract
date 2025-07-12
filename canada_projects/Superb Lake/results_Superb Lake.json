@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Superb Lake/29464.txt",
+    "canada_projects/Superb Lake/68912.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Superb Lake",
+      "justification": "The primary article is titled 'Rock Edge Acquires Additional Ground at Its Superb Lake Lithium Project, Northwestern Ontario'."
+    },
+    "company_name": {
+      "value": "Rock Edge Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG)'."
+    },
+    "ceo_buyer": {
+      "value": "Charles Desjardins",
+      "justification": "The article is signed 'On Behalf of the Board of Directors Charles Desjardins Chief Executive Officer, President and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company signed agreements to acquire a 100% interest in two properties: 'Rock Edge signed the Maun Lithium Property option agreement to acquire a 100% interest in the property... Rock Edge signed the Terrier Lithium Property option agreement to acquire a 100% interest in the property'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly identified as a lithium project in the headline: 'Rock Edge Acquires Additional Ground at Its Superb Lake Lithium Project, Northwestern Ontario'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/734112/Rock-Edge-Acquires-Additional-Ground-at-Its-Superb-Lake-Lithium-Project-Northwestern-Ontario",
+      "justification": "The article at this link describes the acquisition of additional ground for the Superb Lake project by Rock Edge Resources Ltd., which is the subject of this extraction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Rock Edge Resources Ltd., is listed on the Canadian Stock Exchange '(CSE:REDG)', and payments are denoted with a '$' symbol, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 156000,
+      "justification": "The total cash payment is the sum of payments for two properties: $81,000 for the Maun property and $75,000 for the Terrier property. '...by paying $81,000... by paying $75,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into cash and a number of shares, not a total share value. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into cash and a number of shares, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 800000,
+      "justification": "The total shares issued is the sum for two properties: 400,000 shares for the Maun property and 400,000 shares for the Terrier property. '...and issuing 400,000 shares over a three-year period... and issuing 400,000 shares over a three-year period.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned in the context of a separate private placement, not as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.205,
+      "justification": "The transaction terms mention the number of shares issued (400,000 for the Maun property and 400,000 for the Terrier property), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.205'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any specific exploration expenditure commitment as part of the acquisition terms. Proceeds from a separate private placement are noted for exploration, but this is not a commitment to the seller."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "The sellers retain a royalty on each of the two properties acquired. The rule states to include retained NSRs. 'The Optionors will retain a 1.5% net smelter royalty (\"NSR\") on each property, of which Rock Edge can purchase 0.5% of the NSR for $500,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 4090,
+      "justification": "The total area acquired is the sum of the Maun property (1,454 hectares) and the Terrier property (2,636 hectares), confirmed by the text: 'The two properties add an additional 4,090 hectares to Rock Edge's current coverage'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "'The two properties add an additional 4,090 hectares to Rock Edge's current coverage of 2,378 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions channel sampling results and historical drilling but does not contain a statement of a quantified mineral resource (e.g., in tonnes or ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:REDG",
+      "justification": "The buyer is identified in the text with its ticker and exchange in parentheses: 'Rock Edge Resources Ltd. (the \"Company\" or \"Rock Edge\") (CSE:REDG)'."
+    }
+  }
+}

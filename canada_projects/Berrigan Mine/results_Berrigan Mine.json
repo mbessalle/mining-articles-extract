@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Berrigan Mine/40864.txt",
+    "canada_projects/Berrigan Mine/82915.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Berrigan Mine",
+      "justification": "The project is explicitly named in the transaction details: \"Option to acquire a 100% interest in the Berrigan Mine (Au-Ag-Zn)...\" and is the subject of a detailed section titled \"BERRIGAN MINE PROPERTY\"."
+    },
+    "company_name": {
+      "value": "TomaGold Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"TOMAGOLD CORPORATION (TSXV: LOT) (OTCQB: TOGOF) (“TomaGold” or the “Corporation”)...\""
+    },
+    "ceo_buyer": {
+      "value": "David Grondin",
+      "justification": "The CEO of the acquiring company is identified in the text: \"David Grondin, President and Chief Executive Officer of TomaGold, stated...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a complete acquisition of the property: \"Option to acquire a 100% interest in the Berrigan Mine (Au-Ag-Zn)...\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described as a polymetallic deposit with gold as a key component: \"Berrigan Mine (Au-Ag-Zn)\". The historical resource also lists gold: \"1,388,915 tonnes of material grading 3.17% Zn and 1.77 g/t Au\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No URL was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, TomaGold Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. The project is located in Québec, Canada. The currency is inferred to be Canadian Dollars (CAD) from the context of the companies and location."
+    },
+    "cash_payments_raw": {
+      "value": 530000,
+      "justification": "The Berrigan Mine is part of the 'Chibougamau Independent Mines Inc. West Block Properties' package, which includes 5 properties. The total cash consideration for this package is $2,650,000. The value for Berrigan Mine is calculated as one-fifth of the total: $2,650,000 / 5 = $530,000. The total is from the table: 'TOTAL | $ | 2,650,000'."
+    },
+    "share_payments_raw": {
+      "value": 270000,
+      "justification": "The Berrigan Mine is part of the 'Chibougamau Independent Mines Inc. West Block Properties' package, which includes 5 properties. The total dollar-denominated share consideration for this package is $1,350,000. The value for Berrigan Mine is calculated as one-fifth of the total: $1,350,000 / 5 = $270,000. The total is from the table: 'TOTAL | ... | $ | 1,350,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": 1200000,
+      "justification": "The Berrigan Mine is part of the 'Chibougamau Independent Mines Inc. West Block Properties' package, which includes 5 properties. The total number of shares to be issued for this package is 6,000,000. The value for Berrigan Mine is calculated as one-fifth of the total: 6,000,000 / 5 = 1,200,000. The total is from the table: 'TOTAL | ... | 6,000,000 | ...'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price per share for the acquisition. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1120000,
+      "justification": "The Berrigan Mine is part of the 'Chibougamau Independent Mines Inc. West Block Properties' package, which includes 5 properties. The total work requirement for this package is $5,600,000. The value for Berrigan Mine is calculated as one-fifth of the total: $5,600,000 / 5 = $1,120,000. The total is from the table: 'TOTAL | ... | $ | 5,600,000 | ...'."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 483,
+      "justification": "The text states: \"The Berrigan Mine property consists of 16 claims totalling 483 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Berrigan Mine property consists of 16 claims totalling 483 hectares...\""
+    },
+    "resource_size": {
+      "value": "1,388,915 tonnes of material grading 3.17% Zn and 1.77 g/t Au",
+      "justification": "A historical resource is mentioned: \"In the report, a resource estimate completed using polygonal estimation techniques stated 1,388,915 tonnes of material grading 3.17% Zn and 1.77 g/t Au on the main Berrigan Mine zone.\" The text notes this is a historical estimate and not NI 43-101 compliant."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LOT",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the press release: \"TOMAGOLD CORPORATION (TSXV: LOT)...\""
+    }
+  }
+}

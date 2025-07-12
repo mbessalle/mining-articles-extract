@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/BLACK/37619.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "BLACK",
+      "justification": "The project is explicitly named in a section at the end of the document: 'Project Name\n\n[BLACK Project](/?gid=5056)\nNorthwest Territories, Canada'."
+    },
+    "company_name": {
+      "value": "Rackla Metals Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'Vancouver, British Columbia - TheNewswire - July 5, 2023 - Rackla Metals Inc. (TSX-V:RAK) (the \"Company\") is pleased to announce its recent staking of mineral claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Simon Ridgway",
+      "justification": "The CEO of the acquiring company is named in the text: 'Rackla Metals’ CEO, Simon Ridgway, expressed his enthusiasm for these new target areas...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the staking of new mineral claims, which typically implies 100% interest, but no specific percentage is stated in the text."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company's focus is on gold, as stated: 'The Company is targeting RiRGS (Reduced-intrusion Related Gold System) mineralization...' and '...believe that our comprehensive exploration program will generate some significant gold prospects.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "A URL for the article was not provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is based in Vancouver, Canada ('Vancouver, British Columbia') and is listed on the TSX Venture Exchange ('TSX-V:RAK'), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new mineral claims, not an acquisition from another party, and no cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new mineral claims, not an acquisition from another party, and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new mineral claims, not an acquisition from another party, and no combined financial consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of new mineral claims, not an acquisition from another party, and no issuance of shares as payment is mentioned in the text."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a staking of new mineral claims, not an acquisition from another party, and no issued share price for a transaction is mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned exploration program but does not specify a commitment in terms of drilling meters for the newly staked claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a planned exploration program but does not specify a monetary value commitment for the newly staked claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the staking."
+    },
+    "coverage_area_raw": {
+      "value": 10000,
+      "justification": "The size of the staked area is given in the text: '...its recent staking of mineral claims in the Tungsten District of the Tombstone Gold Belt, encompassing approximately 10,000 hectares on two claim blocks.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the text: '...encompassing approximately 10,000 hectares on two claim blocks.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as prospective ground with 'untapped potential' but does not provide any quantified mineral resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RAK",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Rackla Metals Inc. (TSX-V:RAK)'."
+    }
+  }
+}

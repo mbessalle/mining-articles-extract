@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/McCreedy West Mine/71220.txt",
+    "canada_projects/McCreedy West Mine/83596.txt",
+    "canada_projects/McCreedy West Mine/85933.txt",
+    "canada_projects/McCreedy West Mine/89706.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McCreedy West Mine",
+      "justification": "The primary project of interest is McCreedy West Mine, as confirmed by the article headline and text: \"Magna Mining Acquires Producing Copper Mine in Sudbury from KGHM International Ltd.\" and \"Magna will acquire the producing McCreedy West copper mine (\"McCreedy West\")...\""
+    },
+    "company_name": {
+      "value": "Magna Mining Inc.",
+      "justification": "The acquiring company is identified in the first sentence: \"Magna Mining Inc. (TSXV: NICU) (OTCQB: MGMNF) (FSE: 8YD) (\"Magna\" or the \"Company\") is pleased to announce that it has entered into a definitive share purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Jason Jessup",
+      "justification": "The CEO of the acquiring company is named in the text: \"Jason Jessup, CEO of Magna, stated: 'We are excited to close this acquisition, which is transformational for our company.'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Magna acquired the company that owns the assets, resulting in 100% ownership. \"the Company acquired 100% of the issued and outstanding shares in the capital of PNCI (the \"PNCI Shares\") from the Seller, with PNCI being the owner of the Purchased Assets.\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline of the article identifies the primary commodity of the acquired mine: \"Magna Mining Acquires Producing Copper Mine in Sudbury from KGHM International Ltd.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/223107",
+      "justification": "The article is titled \"Magna Mining Acquires Producing Copper Mine in Sudbury from KGHM International Ltd.\" and the content is entirely about the acquisition of the McCreedy West Mine and associated assets by Magna Mining."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars by the 'C$' prefix in the transaction details: \"Purchase Price: C$5.3 million in cash...\""
+    },
+    "cash_payments_raw": {
+      "value": 3912500,
+      "justification": "The project's share is $3,912,500, calculated as one-eighth of the total cash and contingent consideration of $31,300,000 ($5.3M closing + $2.0M deferred + $24M contingent). The total consideration is for a portfolio of 8 assets, as stated: 'Magna will acquire the producing McCreedy West copper mine... Levack mine... Podolsky mine... Kirkwood mine... Falconbridge Footwall... Northwest Foy... North Range and Rand exploration assets... Purchase Price: C$5.3 million in cash... and C$2.0 million in cash on December 31, 2026, plus future contingent payments of up to C$24.0 million.'"
+    },
+    "share_payments_raw": {
+      "value": 250000,
+      "justification": "The project's share is $250,000, calculated as one-eighth of the total share consideration of $2,000,000. The total consideration is for a portfolio of 8 assets, as stated: 'Magna will acquire the producing McCreedy West copper mine... Levack mine... Podolsky mine... Kirkwood mine... Falconbridge Footwall... Northwest Foy... North Range and Rand exploration assets... Purchase Price: ...$2.0 million of Magna common shares on the closing of the Transaction...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, explicit cash and share values were found, so this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy (Priority 1), explicit cash and share values were found and populated. Therefore, this field (part of Priority 2) must be null, even though the closing announcement mentions 'the issuance of 1,180,705 common shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments were mentioned in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy (Priority 1), explicit cash and share values were found and populated. Therefore, this field (part of Priority 2) must be null, even though the closing announcement mentions a 'deemed issue price of $1.69 per Consideration Share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a plan to reinvest profits into exploration but does not state a specific exploration commitment in meters as part of the transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a plan to reinvest profits into exploration ('We plan to re-invest most of the profits that may be generated from McCreedy West back into additional capital development and exploration') but does not state a specific monetary exploration commitment as part of the transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "A 4.0% NSR is retained by the seller, but it applies specifically to 'New Discoveries on certain exploration properties that are part of the Sale Assets'. It is not specified as applying to the producing McCreedy West Mine, so the value for this project is null."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify a coverage area in hectares or square kilometers for the McCreedy West Mine project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify a coverage area in hectares or square kilometers for the McCreedy West Mine project."
+    },
+    "resource_size": {
+      "value": "Indicated: 9,345,000 tonnes @ 0.89% Ni, 1.30% Cu, 0.024% Co, 0.96 g/t Pt, 1.10 g/t Pd, 0.45 g/t Au, 5.28 g/t Ag; Inferred: 123,000 tonnes @ 1.60% Ni, 0.75% Cu, 0.047% Co, 0.21 g/t Pt, 0.23 g/t Pd, 0.05 g/t Au, 0.55 g/t Ag",
+      "justification": "The resource estimate is taken directly from Table 2 for the McCreedy West Mine: 'Table 2: McCreedy West Underground Mineral Resource Estimate, December 31, 2023... Indicated... 9,345,000| 0.89| 1.30| 0.024| 0.96| 1.10| 0.45| 5.28| 2.02... Inferred... 123,000| 1.60| 0.75| 0.047| 0.21| 0.23| 0.05| 0.55| 2.12'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NICU",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Magna Mining Inc. (TSXV: NICU)'."
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Toad River/38287.txt",
+    "canada_projects/Toad River/39874.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Toad River",
+      "justification": "The text announces an agreement to acquire the 'Toad River Copper-Cobalt property'. The project is also referred to as the 'Toad River Project' in the document footers."
+    },
+    "company_name": {
+      "value": "Western Star Resources Inc.",
+      "justification": "The acquiring company is identified as 'Western Star Resources Inc. (CSE:WSR) (the “Company” or “Western Star”)'."
+    },
+    "ceo_buyer": {
+      "value": "Blake Morgan",
+      "justification": "The text states, 'Blake Morgan, the CEO and President of Western Star, stated...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states, 'The 100% acquisition of the Toad River Copper-Cobalt Property...' and 'The Company has now acquired 100% of the two mineral titles...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The property is named the 'Toad River Copper-Cobalt property'. The CEO's statement also emphasizes copper: 'With the demand for copper set to outstrip supply, I am looking forward to beginning exploration for cobalt and copper on the Property.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Western Star Resources Inc., is listed on the Canadian Securities Exchange (CSE), and option prices are denoted with a '$' symbol, implying Canadian Dollars. 'Exchange: CSE'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is specified as shares and an NSR royalty, with no mention of cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share, which falls under Priority 2 of the extraction hierarchy, not a raw share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is specified as shares and an NSR royalty, not a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "The terms of the acquisition state: 'the Company will issue an aggregate of 5,000,000 common shares in the capital of the Company (each, a “Common Share”) to the current shareholders of Lish Ventures...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 1,100,000 options mentioned were granted to 'certain directors, officers and consultants of the Company', not to the vendor as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.26,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.26'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The terms state that the company will 'grant a 1% NSR royalty in respect of commercial production from the Property.' This represents a royalty retained by the seller."
+    },
+    "coverage_area_raw": {
+      "value": 2202.15,
+      "justification": "The second article states: 'The Company has now acquired 100% of the two mineral titles totaling 2,202.15 ha for one time issuance of 5,000,000 shares to the Vendors.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified in the text: '...totaling 2,202.15 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the historical data does not constitute a current resource: 'A qualified person has not done sufficient work to classify the historical estimate as current mineral resources or mineral reserves and the Company is not treating the historical estimate as current mineral resources or mineral reserves.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WSR",
+      "justification": "The buyer is identified as 'Western Star Resources Inc. (CSE:WSR)' in the first sentence of the press release."
+    }
+  }
+}

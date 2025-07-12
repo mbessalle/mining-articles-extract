@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Thierry/73375.txt",
+    "canada_projects/Thierry/81320.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thierry",
+      "justification": "The text refers to the project as the 'Thierry Copper Project'. The authoritative metadata confirms the project name is 'Thierry'. Quote: 'QC Copper to acquire Cuprum and its 100% owned Thierry Copper Project in an all-share deal'."
+    },
+    "company_name": {
+      "value": "XXIX Metal Corp.",
+      "justification": "The acquiring company, QC Copper and Gold Inc., is rebranding. 'Following the completion of the Acquisition and subject to regulatory and TSX Venture Exchange (\"TSXV\") approvals, QC Copper intends to change its name to XXIX Metal Corp. (\"XXIX\")...'"
+    },
+    "ceo_buyer": {
+      "value": "Stephen Stewart",
+      "justification": "The CEO of the acquiring company, QC Copper, is identified in the text: 'said Stephen Stewart, CEO of QC Copper.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "QC Copper is acquiring 100% of Cuprum Corp., which owns 100% of the project. 'QC Copper to acquire Cuprum and its 100% owned Thierry Copper Project in an all-share deal'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is explicitly named the 'Thierry Copper Project'. 'The Thierry Copper Project ('Thierry') spans 7,907 hectares and historically produced 5.8 million tonnes grading 1.13% copper...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/225194",
+      "justification": "The article, titled 'QC Copper Announces Strategic Acquisition of Cuprum Corp.', directly details the acquisition of the Thierry Project, which is the subject of this analysis."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, QC Copper, is listed on the TSXV (a Canadian exchange) and the share price is denoted with a '$' symbol, implying Canadian Dollars. '...based on QC Copper's share price of $0.13.' and 'QC Copper and Gold Inc. (TSXV: QCCU)'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is explicitly described as an 'all-share deal', with no cash component mentioned in the terms. 'QC Copper to acquire Cuprum and its 100% owned Thierry Copper Project in an all-share deal'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial extraction hierarchy, when the number of shares and a price per share are provided, the `amount_of_shares_issued` and `issued_share_price` fields are populated instead of `share_payments_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into the number of shares and a price per share, which takes precedence over a combined value as per the extraction rules."
+    },
+    "amount_of_shares_issued": {
+      "value": 82760000,
+      "justification": "The total number of shares to be issued for the acquisition is stated: 'QC Copper will issue an aggregate of 82.76 million QC Copper Shares in connection with the Acquisition...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.13,
+      "justification": "The share price for the transaction is explicitly stated: '...based on QC Copper's share price of $0.13.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement mentions plans for a future drill program but does not specify a committed number of meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention a specific monetary exploration commitment as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty was mentioned as being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 7907,
+      "justification": "The total area of the project is specified in the text: 'The Thierry Copper Project ('Thierry') spans 7,907 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: 'The Thierry Copper Project ('Thierry') spans 7,907 hectares...'"
+    },
+    "resource_size": {
+      "value": "8,815,000 tonnes @ 1.66% Cu, 0.19% Ni (Measured & Indicated) and 14,922,000 tonnes @ 1.64% Cu, 0.16% Ni (Inferred) in the Underground resource; plus 53,614,000 tonnes @ 0.38% Cu, 0.10% Ni (Inferred) in the Pit Constrained resource.",
+      "justification": "The article provides two NI 43-101 compliant resource estimates for the Thierry project: 'Thierry (Underground) Mineral Resource Estimate... Measured & Indicated 8,815,000 Tonnes 1.66 Cu (%) 0.19 Ni (%)... Inferred 14,922,000 Tonnes 1.64 Cu (%) 0.16 Ni (%)' and 'K1-1 Pit Constrained Inferred Mineral Resource Estimate... Inferred 53,614,000 Tonnes 0.38 Cu (%) 0.10 Ni (%)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XXIX",
+      "justification": "The text states that upon completion of the acquisition, the company will rebrand and adopt a new ticker on the TSXV. 'Following the completion of the Acquisition... QC Copper intends to change its name to XXIX Metal Corp. ('XXIX'), with a new TSXV ticker symbol XXIX...'"
+    }
+  }
+}

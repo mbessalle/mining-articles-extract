@@ -1,0 +1,158 @@
+{
+  "article": {
+    "id": 51705,
+    "link": "https://www.newsfilecorp.com/release/204626/Go-Metals-Announces-Staking-in-Quebec",
+    "title": "Go Metals Announces Staking in Quebec",
+    "description": "<img src=\"https://api.newsfilecorp.com/newsinfo/204626/367\" id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" /><p>Vancouver, British Columbia--(Newsfile Corp. - April 8, 2024) - <b>Go Metals Corp.</b>&#160;(<b>CSE: GOCO</b>) (\"<b>Go Metals</b>\" and/or the \"<b>Company</b>\") announces staking of two claim blocks targeting critical metals 80 kilometres southeast of Chibougamau, Quebec in the Nitassinan of Mashteuiatsh.</p><p>Scott Sheldon, CEO of Go Metals states, \"While our primary focus remains on advancing the HSP group of projects, this new greenfield project signals our commitment to exploration of critical metals in Quebec. The recent discovery by SOQUEM has shown the potential for magmatic Nickel-Copper systems in this underexplored region. The new Oriole claims follow similar magnetic features seen at the adjacent Cardinal project. The property is road accessible and close to existing infrastructure.\" </p><p style=\"text-align: center;\"><a rel=\"nofollow\" href=\"https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_001full.jpg\"><img src=\"https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_001.jpg\" style=\"border-width: 0px;\" alt=\"Cannot view this image? Visit: https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_001.jpg\" /></a><br /><br /><i>Figure 1: Oriole claims land packages totaling 37.4 square kilometres</i></p><p style=\"text-align: center;\">To view an enhanced version of this graphic, please visit:<br /><a rel=\"nofollow\" href=\"https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_001full.jpg\">https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_001full.jpg</a></p><p><b>About Go Metals</b>  </p><p>Go Metals targets Canadian critical metal projects to help develop a sustainable future. The Company's HSP, Clyde, and KM98 projects have multiple nickel-copper sulphide targets within a 416.5 square kilometre land package north of Havre-Saint Pierre, Qu&#233;bec in the Nitassinan of Ekuanitshit.</p><p>For further information, please contact:<br />Scott Sheldon, President<br />604.725.1857<br /><a href=\"mailto:Scott@GoMetals.ca\">Scott@GoMetals.ca</a></p><p><b>Forward-Looking Information:</b></p><p><i>This press release may include \"forward-looking information\" (as that term is defined by Canadian securities legislation), concerning the Company's business. Forward-looking information is based on certain key expectations and assumptions made by the Company's management, including future plans for the exploration and development of its mineral properties, future production, reserve potential, and events or developments that the Company expects. Although the Company believes that such expectations and assumptions are reasonable, investors should not rely unduly on such forward-looking information as the Company can give no assurance, they will prove to be correct. Forward-looking statements in this press release are made as of the date of this press release. The Company disclaims any intent or obligation to publicly update any forward-looking information (whether because of new information, future events or results, or otherwise) other than as required by applicable securities laws. There are several risk factors that could cause future results to differ materially from those described herein. Information identifying risks and uncertainties is contained in the Company's filings with the Canadian securities regulators, which filings are available at <a href=\"https://api.newsfilecorp.com/redirect/kOAPRToVwP\">SedarPlus.ca</a>.</i></p><p><i>The Canadian Securities Exchange (operated by CNSX Markets Inc.) has neither approved nor disapproved of the contents of this news release.</i></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/5946/204626_efb83531a42d8a6e_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/BpkvGTypWM\">https://www.newsfilecorp.com/release/204626</a></p>",
+    "search_terms": "Oriole,Go Metals Corp.,GOCO",
+    "master_gid": 6660,
+    "date": "2024-04-08T12:58:00.000Z",
+    "tags": "Canada||||Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 79,
+    "provider": null,
+    "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - April 8, 2024) -Go Metals Corp.&#160;(CSE: GOCO) (\"Go Metals\" and/or the \"Company\") announces staking of two claim blocks targeting critical metals 80 kilometres southeast of Chibougamau, Quebec in the Nitassinan of Mashteuiatsh.Scott Sheldon, CEO of Go Metals states, \"While our primary focus remains on advancing",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "Go Metals Corp.",
+    "exchange": "CSE",
+    "root_ticker": "GOCO",
+    "project_name": "Oriole",
+    "gid": 6660,
+    "location": "Quebec, Canada",
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 6660,
+    "project_name": "Oriole",
+    "location": "Quebec, Canada"
+  },
+  "articleExchange": "CSE",
+  "articleCompanyId": 79,
+  "articleTicker": "GOCO",
+  "articleCompanyName": "Go Metals Corp.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 79,
+      "gid": 6277,
+      "project_name": "KM98",
+      "location": "Québec, Canada"
+    },
+    {
+      "company_id": 79,
+      "gid": 9596,
+      "project_name": "Ursa",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 79,
+      "gid": 9595,
+      "project_name": "Hydra",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 79,
+      "gid": 763,
+      "project_name": "Monster",
+      "location": "Yukon, Canada"
+    },
+    {
+      "company_id": 79,
+      "gid": 6660,
+      "project_name": "Oriole",
+      "location": "Quebec, Canada"
+    },
+    {
+      "company_id": 79,
+      "gid": 3398,
+      "project_name": "HSP",
+      "location": "Quebec, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 108163,
+      "company_id": 79,
+      "title": "Go Metals Launches AI Pilot with MineCompare for Geological Project Analysis",
+      "link": null,
+      "date": "2025-06-16T13:04:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 92557,
+      "company_id": 79,
+      "title": "Go Metals Sets Drill Targets at Monster Copper Project",
+      "link": "https://golddiscovery.com/legacy/user/news_details/746782-gococnx-go-metals-sets-drill-targets-at-monster-copper-project",
+      "date": "2025-03-26T13:16:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 83865,
+      "company_id": 79,
+      "title": "Go Metals Stakes Natural Hydrogen Targets",
+      "link": "https://www.newsfilecorp.com/release/236737/Go-Metals-Stakes-Natural-Hydrogen-Targets",
+      "date": "2025-01-13T14:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -147740,
+      "company_id": 79,
+      "title": "Go Metals Creates Hydrogen Exploration Subsidiary",
+      "link": "https://www.newsfilecorp.com/release/226850/Go-Metals-Creates-Hydrogen-Exploration-Subsidiary",
+      "date": "2024-10-17T13:07:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 68355,
+      "company_id": 79,
+      "title": "Go Metals Assays High-Grade Vanadium and Titanium from All Targets",
+      "link": "https://www.newsfilecorp.com/release/219884/Go-Metals-Assays-HighGrade-Vanadium-and-Titanium-from-All-Targets",
+      "date": "2024-08-14T12:58:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 54991,
+      "company_id": 79,
+      "title": "Go Metals Demobilizes from KM98",
+      "link": "https://www.newsfilecorp.com/release/211342/Go-Metals-Demobilizes-from-KM98",
+      "date": "2024-06-03T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 54032,
+      "company_id": 79,
+      "title": "Go Metals Closes Private Placement and Outlines Exploration Program",
+      "link": "https://www.newsfilecorp.com/release/209364/Go-Metals-Closes-Private-Placement-and-Outlines-Exploration-Program",
+      "date": "2024-05-16T12:59:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 53534,
+      "company_id": 79,
+      "title": "Go Metals Announces Flow-Through Private Placement",
+      "link": "https://www.newsfilecorp.com/release/208463/Go-Metals-Announces-FlowThrough-Private-Placement",
+      "date": "2024-05-08T21:38:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 93410,
+      "company_id": 79,
+      "title": "Go Metals Announces Staking in Quebec",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=66356547c8d24273b172c0e6&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2024-05-03",
+      "date": "2024-05-03T22:29:27.000Z",
+      "hidden": false
+    },
+    {
+      "id": 51705,
+      "company_id": 79,
+      "title": "Go Metals Announces Staking in Quebec",
+      "link": "https://www.newsfilecorp.com/release/204626/Go-Metals-Announces-Staking-in-Quebec",
+      "date": "2024-04-08T12:58:00.000Z",
+      "hidden": false
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ville Marie _St-Bruno-de-Guigues_/92683.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ville Marie (St-Bruno-de-Guigues) Project",
+      "justification": "The project name is explicitly listed at the end of the document: 'Project Name\n\n[Ville Marie (St-Bruno-de-Guigues) Project](/?gid=5183)\nQuebec, Canada'"
+    },
+    "company_name": {
+      "value": "Quebec Innovative Materials Corp.",
+      "justification": "The company is identified in the first paragraph: 'Quebec Innovative Materials Corp. (CSE: QIMC) (OTCQB: QIMCF) (FSE: 7FJ) (QIMC) is proud to report significant hydrogen measurements from its St-Bruno-de-Guigues property...'"
+    },
+    "ceo_buyer": {
+      "value": "John Karagiannidis",
+      "justification": "The CEO is identified in the signature block: 'QUÉBEC INNOVATIVE MATERIALS CORP. John Karagiannidis Chief Executive Officer'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is an exploration update on an existing property, not an M&A announcement for the St-Bruno-de-Guigues project. No interest acquisition is mentioned for this project."
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The article title and body repeatedly mention hydrogen: 'QIMC Reports Significant Concentrations Exceeding 13,000 ppm (1.3%) Hydrogen at St-Bruno-de-Guigues' and 'QIMC is focused on specializing in the exploration of white (natural) hydrogen...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/246261",
+      "justification": "The article is about the correct project, St-Bruno-de-Guigues, as stated in the headline: 'QIMC Reports Significant Concentrations Exceeding 13,000 ppm (1.3%) Hydrogen at St-Bruno-de-Guigues'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company's primary listing is on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD). 'Exchange: CSE'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update, not an M&A announcement, and does not mention any cash payments for the acquisition of the project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update, not an M&A announcement, and does not mention any share payments for the acquisition of the project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is an exploration update, not an M&A announcement, and does not mention any combined payments for the acquisition of the project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of a transaction for this project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article is not about a transaction and therefore does not specify a price for issued shares."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions an exploration campaign, but specifies it is for different properties: '...a comprehensive exploration campaign this spring and summer, featuring extensive soil sampling and advanced geophysical surveys across its recently acquired Ontario properties.' No monetary commitment is mentioned for the St-Bruno-de-Guigues project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) or other royalty as part of a transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions land expansion in Ontario and Nova Scotia but does not provide a specific area size for the St-Bruno-de-Guigues property in Quebec."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not mentioned, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text reports hydrogen concentrations such as '13,102 ppm (1.31%)', but this is a concentration measurement, not a resource size quantified by mass or volume (e.g., tonnes, ounces) as required by the extraction rules."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:QIMC",
+      "justification": "The company's ticker and exchange are provided in the first paragraph: 'Quebec Innovative Materials Corp. (CSE: QIMC)'."
+    }
+  }
+}

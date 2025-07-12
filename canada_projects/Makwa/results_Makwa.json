@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Makwa/84427.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Makwa",
+      "justification": "The press release is titled 'Grid Metals Corp. Announces TSX-V Approval of Makwa Option and Joint Venture Agreement' and the project is listed as 'The Makwa Property (Ni-Cu-PGM-Co)'."
+    },
+    "company_name": {
+      "value": "Teck Resources Limited",
+      "justification": "The text identifies Teck Resources Limited as the buyer, stating it is the counterparty to the agreement and that 'Teck can earn up to a 70% interest in Makwa'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Teck Resources Limited, is not mentioned in the text. The text mentions the CEO of the seller, Grid Metals Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The text states: 'Teck can earn up to a 70% interest in Makwa by incurring a total of CAD$17.3 million...'"
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is described as 'The Makwa Property (Ni-Cu-PGM-Co)' and a previous press release is referenced with the title '...Fund the Makwa Nickel Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text specifies Canadian dollars for all financial figures, for example: '...received the CAD$400,000 minimum cash payment...' and '...total of CAD$17.3 million...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The payment component of the deal is described as a combined value for 'cash payments or equity participation (CAD$1.6 million)'. According to the financial data extraction hierarchy, this is captured in the `cash_and_share_payments_combined_raw` field."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment component of the deal is described as a combined value for 'cash payments or equity participation (CAD$1.6 million)'. According to the financial data extraction hierarchy, this is captured in the `cash_and_share_payments_combined_raw` field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 1600000,
+      "justification": "The total consideration includes 'cash payments or equity participation (CAD$1.6 million) with Grid.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not specify an amount of shares to be issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction terms do not specify a price per share for any potential equity participation."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 15700000,
+      "justification": "The agreement states Teck can earn its interest by 'incurring a total of CAD$17.3 million, comprising project expenditures (CAD$15.7 million)...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Makwa project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area for the Makwa project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified statement of mineral resources for the Makwa project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The ticker for the buyer, Teck Resources Limited, is not mentioned in the text. The provided authoritative ticker (TSXV:GRDM) belongs to the seller, Grid Metals Corp."
+    }
+  }
+}

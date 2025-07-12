@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/JBN-57/53087.txt",
+    "canada_projects/JBN-57/53095.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "JBN-57",
+      "justification": "The press release announces the acquisition of \"a 100% interest in a proximal claim block termed JBN-57 (the 'Claim Block')\"."
+    },
+    "company_name": {
+      "value": "Patriot Battery Metals Inc.",
+      "justification": "The acquiring company is identified as \"Patriot Battery Metals Inc. (the \"Company\" or \"Patriot\") (TSX: PMET) (ASX: PMT) (OTCQX: PMETF) (FSE: R9GA)\"."
+    },
+    "ceo_buyer": {
+      "value": "Kenneth Brinsden",
+      "justification": "The news release is signed by \"'KEN BRINSDEN' Kenneth Brinsden, President, CEO, & Managing Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Patriot has agreed to acquire a 100% interest in the Claim Block for the following consideration..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text states, \"The Company believes there is a strong Li-Cs-Ta pegmatite exploration potential over the new Claim Block,\" and the acquiring company is described as a \"hard-rock lithium exploration company.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/patriot-expands-land-position-on-the-corvette-trend-302134180.html",
+      "justification": "The article is titled \"Patriot Expands Land Position on the Corvette Trend\" and details the acquisition of the JBN-57 claim block by Patriot Battery Metals, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol. The acquiring company, Patriot Battery Metals Inc., is listed on the Toronto Stock Exchange (TSX), and the seller, Azimut Exploration Inc., is on the TSX Venture Exchange (TSXV), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The terms of the acquisition include \"an aggregate cash payment of $500,000 to be paid to Azimut upon closing of the Acquisition ('Closing')\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment in shares is defined by the number of shares and a price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are listed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 150000,
+      "justification": "The terms include \"an aggregate of 150,000 common shares in the capital of the Company ('Patriot Shares') to be issued to Azimut upon Closing.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The documents do not mention any options as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 2.6,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price for the buyer (Patriot Battery Metals) as a fallback, as seen in the detailed quote: 'Last: 2.60'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The documents do not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents do not mention any monetary exploration commitment for the JBN-57 project."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal, the seller (Azimut) retains a royalty: \"the Company will grant to Azimut a 2% net smelter returns royalty interest in the future minerals produced from the Claim Block.\""
+    },
+    "coverage_area_raw": {
+      "value": 1995.0,
+      "justification": "The acquired claim block is described as \"JBN-57 (the 'Claim Block'), which is comprised of 39 claims (1,995.0 ha)\"."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The acquired claim block is described as \"JBN-57 (the 'Claim Block'), which is comprised of 39 claims (1,995.0 ha)\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The resource estimate of '109.2 Mt at 1.42% Li2O inferred' is explicitly for the CV5 Spodumene Pegmatite on the adjacent Corvette Property, not the acquired JBN-57 claim block. No resource is stated for JBN-57, which only has 'exploration potential'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:PMET",
+      "justification": "The buyer is identified as \"Patriot Battery Metals Inc. (the \"Company\" or \"Patriot\") (TSX: PMET)\"."
+    }
+  }
+}

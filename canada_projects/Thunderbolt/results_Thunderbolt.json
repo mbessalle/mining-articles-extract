@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Thunderbolt/80936.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thunderbolt",
+      "justification": "The text states that Argo Gold has entered into agreements to acquire a 100% interest in the Thunderbolt claims, among others: '...Argo Gold can acquire a 100% interest in certain mineral claims located in the Athabasca Basin: the Parker Lake claims, and the Thunderbolt and ZigZag claims...'"
+    },
+    "company_name": {
+      "value": "Argo Gold Inc.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Toronto, Ontario--(Newsfile Corp. - December 3, 2024) - Argo Gold Inc. (CSE: ARQ) (OTC Pink: ARBTF) (XFRA: A2ASDS) (XSTU: A2ASDS) (XBER: A2ASDS) (\"Argo \" or the \"Company\") has entered into two agreements to acquire additional mineral claims...'"
+    },
+    "ceo_buyer": {
+      "value": "Judy Baker",
+      "justification": "The CEO of the buyer, Argo Gold Inc., is listed at the end of the press release: 'Judy Baker, CEO (416) 786-7860 jbaker@argogold.ca'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Argo Gold can acquire a full interest in the project: 'Argo Gold can acquire a 100% interest in certain mineral claims located in the Athabasca Basin: the Parker Lake claims, and the Thunderbolt and ZigZag claims...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The claims are described as being prospective for uranium: '...which altogether total 15,962 hectares and are considered prospective for uranium mineralization.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/232377",
+      "justification": "The article directly discusses the acquisition of the Thunderbolt project by Argo Gold Inc."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol. The acquiring company, Argo Gold Inc., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD). 'Argo Gold is listed on the Canadian Securities Exchange ([www.thecse.com](https://api.newsfilecorp.com/redirect/V7bmJT4Dzj)) CSE: ARQ...'"
+    },
+    "cash_payments_raw": {
+      "value": 2500,
+      "justification": "The project's share is $2,500, calculated as half of the $5,000 cash payment shared between the Thunderbolt and ZigZag projects. 'The Thunderbolt and ZigZag claims are being purchased together for an aggregate of $5,000 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of a number of shares, not a specified value of shares. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 250000,
+      "justification": "The project's share is 250,000 shares, calculated as half of the 500,000 shares issued for the acquisition of both the Thunderbolt and ZigZag projects. 'The Thunderbolt and ZigZag claims are being purchased together for an aggregate of $5,000 in cash and the issuance to the vendors of 500,000 common shares of the Company.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any option payments as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of a monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "An NSR was part of the transaction for the Parker Lake claims, not the Thunderbolt project. 'The Parker Lake claims are being purchased in exchange for the granting by Argo of a 2% net smelter returns royalty...'"
+    },
+    "coverage_area_raw": {
+      "value": 3692,
+      "justification": "The text specifies the area of the Thunderbolt claims: 'The Thunderbolt mineral claims total 3,692 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Thunderbolt mineral claims total 3,692 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes nearby resources but does not provide a mineral resource estimate for the Thunderbolt project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ARQ",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Argo Gold Inc. (CSE: ARQ)...'"
+    }
+  }
+}

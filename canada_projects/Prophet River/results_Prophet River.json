@@ -1,0 +1,97 @@
+{
+  "source_files": [
+    "canada_projects/Prophet River/82588.txt",
+    "canada_projects/Prophet River/88043.txt",
+    "canada_projects/Prophet River/88043_pdf.txt",
+    "canada_projects/Prophet River/89331.txt",
+    "canada_projects/Prophet River/89331_pdf.txt",
+    "canada_projects/Prophet River/98381.txt",
+    "canada_projects/Prophet River/98381_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Prophet River",
+      "justification": "The project is consistently referred to as the 'Prophet River Project' or 'Prophet River Ga-Ge Project' throughout the documents. For example: 'COMPLETION OF DUE DILIGENCE FOR THE ACQUISITION OF THE HIGHLY PROSPECTIVE PROPHET RIVER GALLIUM-GERMANIUM PROJECT'."
+    },
+    "company_name": {
+      "value": "Rapid Lithium Limited",
+      "justification": "The acquiring company is consistently identified as 'Rapid Lithium Limited' in the source documents, such as in the header: 'RAPID LITHIUM LIMITED (ASX: RLL)'. This contradicts the provided authoritative metadata 'Rapid Critical Metals Limited', and the text is used as it provides a clear and direct contradiction."
+    },
+    "ceo_buyer": {
+      "value": "Martin Holland",
+      "justification": "The announcements identify the Managing Director of the buyer, Rapid Lithium Limited. 'This announcement has been authorised on behalf of the Rapid Lithium Limited Board by: Martin Holland, Managing Director.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is acquiring a full interest in the claims. 'The mineral claims making up the Prophet River project are targeting the exploration and development of zinc, gallium and germanium, and consist of a 100% interest in 2,110 Ha (21km2).'"
+    },
+    "primary_commodity": {
+      "value": "Gallium",
+      "justification": "The project is repeatedly described with a focus on Gallium and Germanium. 'Strategic High-Grade Gallium & Germanium Acquisition-Canada' and 'EXECUTION OF PURCHASE AND SALE AGREEMENT TO ACQUIRE THE HIGHLY PROSPECTIVE PROPHET RIVER GALLIUM-GERMANIUM PROJECT'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash portion of the transaction is explicitly denominated in Canadian Dollars. 'CAD$130,000 payable to Broadstone (or its nominee) within 5 days of completion of the Transaction;'"
+    },
+    "cash_payments_raw": {
+      "value": 130000,
+      "justification": "The transaction terms include a cash payment of 130,000 Canadian Dollars. 'CAD$130,000 payable to Broadstone (or its nominee) within 5 days of completion of the Transaction;'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes the issuance of 133,333,334 shares, but no corresponding monetary value for this share component is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into separate cash, share, and option components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 133333334,
+      "justification": "The transaction terms specify the number of shares to be issued. 'the issue by the Company to Broadstone (or its nominee) 133,333,334 shares in the Company (‘Consideration Shares’);'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of options, not warrants. 'the issue by the Company to Broadstone (or its nominee) of 40,000,000 options in the Company (‘Consideration Options’)'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction includes the issuance of 40,000,000 options, but no monetary value is assigned to this component in the text. The terms are 'exercisable at $0.015 each'."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued is specified, but the price per share for the transaction is not mentioned in the text, and no detailed quote section is available to use as a fallback."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned as part of the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The documents describe a 'Planned Work Program' and future exploration campaigns but do not specify a binding monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 2110,
+      "justification": "The total area of the mineral claims is stated in hectares. 'The Prophet River project (the Project) is comprised of ten (10) granted mineral claims located in British Columbia, Canada and covers an area of 2,110 Ha (21km2)'"
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the coverage area is specified as hectares. 'The Prophet River project (the Project) is comprised of ten (10) granted mineral claims located in British Columbia, Canada and covers an area of 2,110 Ha (21km2)'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents mention historical exploration results and bulk sample grades (e.g., 'Nose Zone bulk sample assayed 22.69% Zn, 1,500ppm Ge, 40ppm Ga over 1.3m'), but do not contain a formal mineral resource statement with mass or volume units such as tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:RLL",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the document header: 'RAPID LITHIUM LIMITED (ASX: RLL)'. This provides a clear contradiction to the authoritative metadata ('RCM', 'ASX'), so the text value is used."
+    }
+  }
+}

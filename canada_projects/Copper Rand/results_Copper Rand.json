@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Copper Rand/83565.txt",
+    "canada_projects/Copper Rand/83614.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Rand",
+      "justification": "The authoritative project name is 'Copper Rand'. However, the provided text does not mention this project by name; it discusses the 'Chibougamau Copper-Gold Project'."
+    },
+    "company_name": {
+      "value": "Cygnus Metals Limited",
+      "justification": "The text identifies the company as 'Cygnus Metals Limited (ASX: CY5; TSXV: CYG) (“Cygnus” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "David Southam",
+      "justification": "The text identifies David Southam as the Executive Chair: 'Cygnus Executive Chairman, David Southam said...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes staking new claims for the Chibougamau Copper-Gold Project, not an acquisition related to the Copper Rand project. Therefore, no interest acquisition data for Copper Rand can be extracted."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The article refers to the 'Chibougamau Copper-Gold Project' and its associated resources, indicating copper is a primary commodity for the company's focus in this region."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is not about the 'Copper Rand' project. It details the expansion of the 'Chibougamau Copper-Gold Project' by Cygnus Metals."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The company is listed on the Australian Securities Exchange (ASX: CY5) and the detailed quote section specifies 'Exchange: AU', implying Australian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of new claims 'at minimal cost' for the Chibougamau project, not Copper Rand. No specific cash payment amount is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of new claims for the Chibougamau project, not Copper Rand. No share payments are mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of new claims for the Chibougamau project, not Copper Rand. No combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is the staking of new claims for the Chibougamau project, not Copper Rand. No shares were issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is the staking of new claims for the Chibougamau project, not Copper Rand. No shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article states that 'drilling is about to start with two diamond drill rigs' but does not specify a commitment in terms of meters for the Copper Rand project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions an upcoming drilling program but does not state a specific monetary exploration commitment for the Copper Rand project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) terms are mentioned in the text in relation to the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states '174 claims have been staked for 97km2 taking the combined Chibougamau Copper-Gold Project to 282km2'. This data pertains to the Chibougamau project, not the specified Copper Rand project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text states '174 claims have been staked for 97km2 taking the combined Chibougamau Copper-Gold Project to 282km2'. This data pertains to the Chibougamau project, not the specified Copper Rand project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a resource estimate for the Chibougamau Copper-Gold Project ('Measured and Indicated Mineral Resources of 3.6Mt at 3.0% CuEq and Inferred Mineral Resources of 7.2Mt at 3.8% CuEq'), not for the target project, Copper Rand."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:CY5",
+      "justification": "The text identifies the company as 'Cygnus Metals Limited (ASX: CY5; TSXV: CYG)'."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Elliot Lake North/80207.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Elliot Lake North",
+      "justification": "The text refers to the project as the 'Elliot Lake North Project': \"...a private arm’s length company incorporated in Ontario, which holds a key land position in the historic Elliot Lake Uranium Mining District in Ontario ('Elliot Lake North Project').\""
+    },
+    "company_name": {
+      "value": "Metalite Resources Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Metalite Resources Inc. (CSE:METL) (OTC:JNCCF) (Frankfurt:D68) ('Metalite' or the 'Company') is pleased to announce that it has entered into a binding letter of intent ('LOI') ... to acquire 100% interest in Lyra Mining Corp.\""
+    },
+    "ceo_buyer": {
+      "value": "Chris Hazelton",
+      "justification": "The CEO of the acquiring company, Metalite, is named in a comment: \"Chris Hazelton, CEO of Metalite, commented: 'We are excited to announce our proposed strategic debut...'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Metalite is acquiring 100% of the company that holds the project: \"...to acquire 100% interest in Lyra Mining Corp. ('Lyra'), a private arm’s length company incorporated in Ontario, which holds a key land position in the historic Elliot Lake Uranium Mining District in Ontario ('Elliot Lake North Project').\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is located in a well-known uranium district and the company's CEO comments on the commodity: \"With the growing demand for nuclear power in sectors such as AI technology and data centers, uranium begins to play a crucial role. Elliot Lake’s rich history in uranium makes this a perfect time to unlock its potential...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.thenewswire.com/article/metalite-resources-inc/cnx-metl/-/metalite-sets-out-to-power-the-ai-revolution-by-entering-into-loi-to-acquire-a-sizable-land-package-in-the-historic-elliot-lake-uranium-district-of-ontario-80207",
+      "justification": "The article content directly corresponds to the acquisition of the Elliot Lake North project by Metalite Resources Inc., as detailed in the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Metalite Resources Inc., is based in Toronto, ON and is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as a share issuance, not a cash payment. The consideration is described as an issuance of common shares."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, not a total share value. Following the data extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, not a combined value. Following the data extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 20000000,
+      "justification": "The consideration for the acquisition is a share issuance: \"Pursuant to the LOI, Metalite will acquire 100% interest in Lyra ('Acquisition') by issuing no more than 20,000,000 common shares in the capital of Metalite ('Metalite Shares')...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.015,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.015'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text explicitly states there are no exploration commitments: \"The Elliot Lake North Property currently has no royalties, exploration commitments or contingent payments...\""
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states there are no exploration commitments: \"The Elliot Lake North Property currently has no royalties, exploration commitments or contingent payments...\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text explicitly states there are no royalties involved in the transaction: \"The Elliot Lake North Property currently has no royalties, exploration commitments or contingent payments...\""
+    },
+    "coverage_area_raw": {
+      "value": 3984,
+      "justification": "The size of the property is specified in the project description: \"The Elliot Lake North Property... is comprised of 166 unpatented mining claims covering approximately 3,984 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the same sentence: \"The Elliot Lake North Property... is comprised of 166 unpatented mining claims covering approximately 3,984 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a current mineral resource for the Elliot Lake North Property itself. It mentions historical production and resources on adjacent properties, and that Metalite is beginning work 'for new discoveries and defining one or more uranium deposits'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:METL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: \"Metalite Resources Inc. (CSE:METL) (OTC:JNCCF) (Frankfurt:D68) ('Metalite' or the 'Company')...\""
+    }
+  }
+}

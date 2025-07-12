@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Rambler/74062.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rambler",
+      "justification": "The text states: \"VR Resources Ltd. (TSX.V: VRR, FSE: 5VR; OTCBB: VRRCF), the \"Company\", or “VR”, is pleased to announce the acquisition of the Rambler Gold Project (“Rambler”).\""
+    },
+    "company_name": {
+      "value": "VR Resources Ltd.",
+      "justification": "The acquiring company is identified as \"VR Resources Ltd. (TSX.V: VRR, FSE: 5VR; OTCBB: VRRCF)\"."
+    },
+    "ceo_buyer": {
+      "value": "Justin Daley",
+      "justification": "The CEO is identified in the text: \"From VR’s CEO Justin Daley...\" and in the signature block: \"“Justin Daley” Justin Daley, MSc, PGeo President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The project was acquired via staking (\"Rambler was staked because sulfides reported in historic drill logs have been discovered at surface\"), which implies 100% interest, but no specific percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the \"Rambler Gold Project\" in the headline and text body."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired by staking, and no financial transaction involving a currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not by a cash purchase. No cash payment is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, not by a share-based purchase. No share payment is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired by staking, and no combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, which was done by staking."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a permit application for drilling but does not specify a committed meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a general requirement for exploration expenditures to maintain the claim (\"the Province requires certain annual exploration expenditures and reporting\") but does not state a specific committed value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty in the text."
+    },
+    "coverage_area_raw": {
+      "value": 2085,
+      "justification": "The text states: \"The Project consists of 4 multi-cell mineral claims in 1 contiguous block spanning 6.5 by 5.5 km and covering 2,085 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"The Project consists of 4 multi-cell mineral claims in 1 contiguous block spanning 6.5 by 5.5 km and covering 2,085 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical drilling intercepts and gold potential but does not contain a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:VRR",
+      "justification": "The text identifies the company and its ticker as \"VR Resources Ltd. (TSX.V: VRR, FSE: 5VR; OTCBB: VRRCF)\". TSX.V corresponds to the TSX Venture Exchange (TSXV)."
+    }
+  }
+}

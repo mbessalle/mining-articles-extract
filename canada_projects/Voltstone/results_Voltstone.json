@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Voltstone/39738.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Voltstone",
+      "justification": "The company announced its acquisition of the project, stating: 'NEWFOUNDLAND DISCOVERY CORP. (CSE: NEWD) (OTC: NEWDF) (FSE: M4K) (\"Newfoundland Discovery\", \"NEWD\", or \"the Company\") proudly announces its 100% acquisition of the \"Voltstone Project\"...'"
+    },
+    "company_name": {
+      "value": "Newfoundland Discovery Corp.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'NEWFOUNDLAND DISCOVERY CORP. (CSE: NEWD) (OTC: NEWDF) (FSE: M4K) (\"Newfoundland Discovery\", \"NEWD\", or \"the Company\") proudly announces its 100% acquisition of the \"Voltstone Project\"...'"
+    },
+    "ceo_buyer": {
+      "value": "Jeremy Prinsen",
+      "justification": "The CEO is identified in the signature block and a quote: 'On Behalf of the Board of Directors, NEWFOUNDLAND DISCOVERY CORP. \"Jeremy Prinsen\" President, CEO & Director' and 'CEO Jeremy Prinsen commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The press release states a 100% acquisition: 'proudly announces its 100% acquisition of the \"Voltstone Project\"...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline and body of the text identify the project as a lithium property: 'Newfoundland Discovery Secures Expansive Lithium Property in Northwestern Ontario' and 'This belt is home to notable lithium-focused companies...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/177915",
+      "justification": "The article is about the acquisition of the Voltstone Project by Newfoundland Discovery Corp., which matches the primary project of interest. The source URL is found at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/177915'"
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not a financial transaction, so no currency is mentioned in relation to a payment. The text states the project was 'acquired through strategic internal staking.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was made. The property was acquired through staking: 'acquired through strategic internal staking.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment was made. The property was acquired through staking: 'acquired through strategic internal staking.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined payment was made. The property was acquired through staking: 'acquired through strategic internal staking.'"
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition. The property was acquired through staking: 'acquired through strategic internal staking.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments as part of the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments as part of the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price. The property was acquired through staking: 'acquired through strategic internal staking.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions future exploration plans but does not specify a commitment in meters: 'Plans are underway for NEWD's first pass exploration program for Voltstone...'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions future exploration plans but does not specify a monetary commitment: 'we're preparing for an extensive exploration phase.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) or similar royalty as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions the number of claims acquired but does not provide a total area in units like hectares or square kilometers. It states: 'The Company's cost-efficient approach led to the acquisition of 266 mineral claims.'"
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article mentions the number of claims acquired but does not provide a total area in units like hectares or square kilometers. It states: 'The Company's cost-efficient approach led to the acquisition of 266 mineral claims.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions promising signs but does not state any quantified mineral resource estimate. It says: 'Satellite imagery-driven preliminary evaluations indicate the presence of promising mineralization within the Voltstone Property.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NEWD",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'NEWFOUNDLAND DISCOVERY CORP. (CSE: NEWD) (OTC: NEWDF) (FSE: M4K)...'"
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Hanson Lake/30527.txt",
+    "canada_projects/Hanson Lake/79975.txt",
+    "canada_projects/Hanson Lake/80005.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hanson Lake",
+      "justification": "Brunswick Exploration Inc. is pleased to announce that it has executed a Letter of Intent to option a new highly prospective claim package, the Hanson Lake Project, located roughly 55 kilometers west of Creighton, Saskatchewan..."
+    },
+    "company_name": {
+      "value": "Brunswick Exploration Inc.",
+      "justification": "The analysis is focused on the transaction involving Brunswick Exploration Inc. as specified in the prompt. The relevant article states: 'Brunswick Exploration Inc.(TSX-V: BRW; “BRW” or the “Company”) is pleased to announce that it has executed a Letter of Intent to option a new highly prospective claim package, the Hanson Lake Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Killian Charles",
+      "justification": "The buyer is Brunswick Exploration Inc. (BRW). The text states: 'Mr. Killian Charles, President and CEO of BRW, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Option Agreement allows BRW to acquire a 100% interest in the Hanson Lake Project from Searchlight Resources..."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text states: 'The Hanson Lake Project confirms the potential for hard-rock lithium deposits in Saskatchewan...' and 'Brunswick Exploration Options Multiple Spodumene-Bearing Pegmatites in Saskatchewan'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$'. The buyer, Brunswick Exploration Inc., is listed on the Canadian TSX-V exchange and the project is in Saskatchewan, Canada, implying the currency is Canadian Dollars (CAD). For example: 'total consideration of $700,000'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, this field is null because the consideration is a combination of cash and shares, which is captured in `cash_and_share_payments_combined_raw`."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "According to the financial data extraction hierarchy, this field is null because the consideration is a combination of cash and shares, which is captured in `cash_and_share_payments_combined_raw`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": 1200000,
+      "justification": "The total consideration is the sum of the option payments and future milestone payments. The text states a 'total consideration of $700,000 over a 4-year period' plus 'additional milestone payments' of '$250,000 in cash, shares or combination of both... on filing of a resource estimate' and another '$250,000 in cash, shares or combination of both... on filing of a preliminary economic assessment'. The total is $700,000 + $250,000 + $250,000 = $1,200,000."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified in the transaction details for the Brunswick Exploration deal."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms for the Brunswick Exploration deal."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Payments for options are not mentioned as part of the transaction terms for the Brunswick Exploration deal."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "A price per share for the transaction is not specified in the text for the Brunswick Exploration deal."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no exploration commitment specified in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "In order to exercise the Option, Brunswick Exploration shall fund an aggregate amount of $1,000,000 in Work Expenditures..."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty which is part of the transaction terms: 'Brunswick Exploration will grant a 2% NSR of which half (1%) of the NSR may be repurchased by BRW for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 16103,
+      "justification": "The Hanson Lake Project includes 12 claims totaling 16,103 hectares that are located between Hanson Lake and Jan Lake, Saskatchewan..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Hanson Lake Project includes 12 claims totaling 16,103 hectares that are located between Hanson Lake and Jan Lake, Saskatchewan..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Hanson Lake project. It states that the pegmatites have 'not been drilled' and a future milestone payment is tied to the 'filing of a resource estimate', indicating one does not currently exist."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BRW",
+      "justification": "The buyer is Brunswick Exploration Inc. The text states: 'Brunswick Exploration Inc.(TSX-V: BRW; “BRW” or the “Company”)'."
+    }
+  }
+}

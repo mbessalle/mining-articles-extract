@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Henday/39689.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Henday",
+      "justification": "The Company has acquired a 60% equity stake in the Henday Lake joint venture (\"Henday\")..."
+    },
+    "company_name": {
+      "value": "Uranium Energy Corp",
+      "justification": "Uranium Energy Corp (NYSE American: UEC), the \"Company\" or \"UEC\") is pleased to announce that the Company has closed a purchase agreement with Rio Tinto Exploration Canada Inc..."
+    },
+    "ceo_buyer": {
+      "value": "Amir Adnani",
+      "justification": "Amir Adnani, President and CEO of UEC stated: \"This is our third acquisition in the Athabasca Basin in the last 12-months...\""
+    },
+    "interest_acquired_percent": {
+      "value": 60,
+      "justification": "The Company has acquired a 60% equity stake in the Henday Lake joint venture (\"Henday\")..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Uranium Energy Corp Acquires Portfolio of Canadian Uranium Exploration Projects in Saskatchewan's Athabasca Basin from Rio Tinto Exploration Canada Inc."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/uranium-energy-corp-acquires-portfolio-of-canadian-uranium-exploration-projects-in-saskatchewans-athabasca-basin-from-rio-tinto-exploration-canada-inc-301906379.html",
+      "justification": "The article is titled 'Uranium Energy Corp Acquires Portfolio of Canadian Uranium Exploration Projects in Saskatchewan's Athabasca Basin from Rio Tinto Exploration Canada Inc.' and details the acquisition of projects including Henday."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction was for $1,500,000 (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The total transaction value of $1,500,000 (CAD) was for a portfolio of three projects (Henday, Milliken, and Carswell). The text does not provide a cost breakdown for the Henday project alone. The text states: '...to acquire a portfolio of exploration-stage projects... for $1,500,000 (CAD)... The Company has acquired a 60% equity stake in the Henday Lake joint venture (\"Henday\"), 100% of the Milliken project (\"Milliken\"), and a 50% equity stake in the Carswell joint venture project (\"Carswell\").'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was funded with cash, no share payments were mentioned. 'The $1,500,000 (CAD) Transaction was fully funded with UEC's cash on hand.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction was funded with cash only, and the total value was for a portfolio of projects, not just Henday. Therefore, this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 7204,
+      "justification": "Under the section 'About the Henday Lake Project', the text states: 'The Henday project is 17,801 acres (7,204 Ha)'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "Under the section 'About the Henday Lake Project', the text states: 'The Henday project is 17,801 acres (7,204 Ha)'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Henday project. Table 1 lists resources for other UEC projects (Roughrider, Christie Lake, etc.), but Henday is not included, indicating it is an exploration-stage project without a defined resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NYSE American:UEC",
+      "justification": "The text explicitly states the buyer's ticker and exchange: 'NYSE American: UEC'."
+    }
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Murphy Lake/49061.txt",
+    "canada_projects/Murphy Lake/49551.txt",
+    "canada_projects/Murphy Lake/54899.txt",
+    "canada_projects/Murphy Lake/55006.txt",
+    "canada_projects/Murphy Lake/75845.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murphy Lake",
+      "justification": "The articles consistently refer to the project as the Murphy Lake Property. For example: \"Canadian GoldCamps to Earn 50% of Murphy Lake for $10M Exploration Spend\"."
+    },
+    "company_name": {
+      "value": "F3 Uranium Corp.",
+      "justification": "The seller is F4 Uranium Corp., which is a wholly-owned subsidiary of F3 Uranium Corp. The press releases are issued by F3 Uranium Corp. (TSXV: FUU) regarding the transaction. The authoritative metadata also lists F3 Uranium Corp."
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "The most recent press releases from June and October 2024 identify the interim CEO of the buyer, Canadian GoldCamps, as Mike Taylor. \"For further information, please contact: Canadian GoldCamps Mike Taylor, Interim CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The transaction is a staged option allowing the buyer to earn a total of 70%. \"The staged option will allow Canadian Goldcamps to earn up to a 70% interest in the Murphy Lake Property (the \"Property\")\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project's context and the company's focus on uranium. \"F3 is a uranium project generator and exploration company, focusing on projects in the Athabasca Basin, home to some of the world's largest high grade uranium deposits.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/198452",
+      "justification": "The article at this URL is titled \"Canadian GoldCamps to Earn 50% of Murphy Lake for $10M Exploration Spend\" and details the transaction for the Murphy Lake project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A related financing is priced in Canadian dollars, indicating the currency for the transaction. \"The Offering will consist of (i) up to 16,000,000 hard dollar Subscription Receipts (“HD Subscription Receipts”) at a price of C$0.25 per HD Subscription Receipt\"."
+    },
+    "cash_payments_raw": {
+      "value": 1400000,
+      "justification": "The total cash consideration is the sum of all staged payments: $100,000 (LOI) + $200,000 (agreement) + $600,000 (in four $150k installments) for the initial 50% interest, plus $500,000 (in two $250k installments) for the additional 20% interest, totaling $1,400,000. This is confirmed by the summary: \"Through this LOI, F4 will receive cash (up to $1.4 million...)\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes shares, but their value is not specified in dollars. The payment is a percentage of the company's shares: \"9.9% of the issued and outstanding common shares of Canadian GoldCamps will be issued to F4.\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components are listed separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not a fixed amount, but rather a percentage of the company's outstanding shares after a financing event: \"issue from treasury to F4 for no additional consideration that number of common shares equal to 9.9% of the total number of common shares that are issued and outstanding as of such issuance date.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms described in the documents do not mention any payments in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No specific price per share is assigned to the shares being issued as part of the transaction consideration."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 18000000,
+      "justification": "The total exploration commitment is the sum of the expenditures for the initial 50% interest ($10,000,000) and the additional 20% interest ($8,000,000). \"To maintain the Initial Option in good standing, Canadian GoldCamps shall incur the following aggregate expenditures totaling $10,000,000... To earn an additional 20% interest... incur additional expenditures of $8,000,000\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the deal, the seller (F4) will retain a 2% NSR. \"Upon Canadian GoldCamps exercising the Initial Option and Bump up Option (if applicable), F4 shall receive a 2% net smelter royalty (\\\"NSR Royalty\\\").\""
+    },
+    "coverage_area_raw": {
+      "value": 609,
+      "justification": "The documents specify the area of the project in hectares. \"F4's 609-hectare Murphy Lake Project is located in the north-eastern corner of the Athabasca Basin\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is explicitly stated as 'hectare'. \"F4's 609-hectare Murphy Lake Project...\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides drilling results and intercepts (e.g., \"assay results of 0.065% U3O8 over 2.5m\") but does not contain a quantified mineral resource estimate with mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CAMP",
+      "justification": "The buyer is Canadian GoldCamps Corp. and the text states its tickers are \"(CSE: CAMP) (FSE: A68) (OTC: SMATF)\". The primary Canadian exchange listed is the CSE."
+    }
+  }
+}

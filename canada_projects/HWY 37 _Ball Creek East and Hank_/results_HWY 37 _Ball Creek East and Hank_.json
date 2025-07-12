@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/HWY 37 _Ball Creek East and Hank_/32194.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "HWY 37 Project",
+      "justification": "The project is a consolidation of two properties: \"Two 4-year options to earn 100% of the Ball Creek East Project and the Hank Project, now referred to as the HWY 37 Project.\""
+    },
+    "company_name": {
+      "value": "Kingfisher Metals Corp.",
+      "justification": "The acquiring company is identified as: \"Kingfisher Metals Corp. (TSXV:KFR)(FSE:970)(OTCQB:KGFMF) (\"Kingfisher\" or the \"Company\") is pleased to announce that it has entered into two option agreements...\""
+    },
+    "ceo_buyer": {
+      "value": "Dustin Perry",
+      "justification": "\"Dustin Perry, CEO of Kingfisher, states, 'The consolidation of this porphyry-epithermal district represents a significant opportunity for discovery...'\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company has the option to acquire 100% of the consolidated project: \"Two 4-year options to earn 100% of the Ball Creek East Project and the Hank Project, now referred to as the HWY 37 Project.\""
+    },
+    "primary_commodity": {
+      "value": "Copper-Gold",
+      "justification": "The headline describes the project as a \"Kingfisher Signs Definitive Option Agreements to Consolidate 362 Square km Copper-Gold Project in Golden Triangle, British Columbia\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/742364/Kingfisher-Signs-Definitive-Option-Agreements-to-Consolidate-362-Square-km-Copper-Gold-Project-in-Golden-Triangle-British-Columbia",
+      "justification": "The article details the two option agreements by Kingfisher Metals Corp. to acquire the Ball Creek East and Hank projects, which are being consolidated into the HWY 37 Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Kingfisher Metals Corp., is listed on the Canadian TSXV exchange (TSXV:KFR). While some milestone and royalty payments are specified in US$, the primary cash and share considerations are denoted with '$', which is inferred to be Canadian Dollars (CAD) in this context."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "This is the sum of cash payments for the Hank Project option agreement: a \"cash payment of $25,000\", a \"cash payment of $100,000\", and a \"cash payment of $125,000\". The Ball Creek East option has no cash payments."
+    },
+    "share_payments_raw": {
+      "value": 6500000,
+      "justification": "This is the sum of share payments for both options. Ball Creek East: $300,000 + $400,000 + $500,000 + $1,000,000 + $1,300,000 = $3,500,000. Hank: $75,000 + $150,000 + $300,000 + $1,000,000 + $1,475,000 = $3,000,000. The total value is $6,500,000."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payment components are listed separately in the transaction terms."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreements specify the value of common shares to be issued (e.g., \"issuing common shares with a value of $300,000\"), not the specific number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as an option agreement, but the payments are defined as cash and shares, which are captured in their respective fields. No separate payment for the option itself is mentioned."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified, so a price per share for the transaction cannot be determined."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 10500000,
+      "justification": "This is the sum of exploration commitments for both projects: \"aggregate expenditures of $7,500,000\" for the Ball Creek East Project and \"aggregate expenditures of $3,000,000\" for the Hank Project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction involves multiple distinct royalties retained by other parties on different parts of the consolidated project (a 2% NSR on Ball Creek East and a 3% NSR on Hank), making it impossible to represent as a single numerical value for the entire project."
+    },
+    "coverage_area_raw": {
+      "value": 362,
+      "justification": "The announcement is for the consolidation of a project of this size: \"Kingfisher Signs Definitive Option Agreements to Consolidate 362 Square km Copper-Gold Project...\""
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text specifies the unit as km2: \"...consolidate a 362 km2 copper-gold project...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates a compliant resource has not yet been defined, stating a future goal is to \"focus on infill drilling across the historical areas of drilling with the goal of producing a complaint resource\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KFR",
+      "justification": "The buyer's ticker and exchange are provided in the company's introduction: \"Kingfisher Metals Corp. (TSXV:KFR)(FSE:970)(OTCQB:KGFMF) (\"Kingfisher\" or the \"Company\").\""
+    }
+  }
+}

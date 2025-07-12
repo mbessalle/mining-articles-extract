@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Willow/63391.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Willow",
+      "justification": "The press release is titled 'Corcel Exploration Inc. Announces Acquisition of Willow Property in British Columbia' and states the company 'has acquired the Willow Copper Property in British Columbia, Canada ('Willow' or the 'Property').'"
+    },
+    "company_name": {
+      "value": "Corcel Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Corcel Exploration Inc. (CSE: CRCL) ('Corcel' or the 'Company')' in the first paragraph."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Dunn",
+      "justification": "The contact person for the company is listed as 'Stephen Dunn Interim Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Corcel 'has acquired the Willow Copper Property' via 'direct staking', but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The announcement states that the company 'has acquired the Willow Copper Property in British Columbia, Canada'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/214230",
+      "justification": "The article is about the acquisition of the Willow Property by Corcel Exploration Inc., which matches the project of interest. The source link is provided at the end of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/214230'."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The property was acquired via direct staking, and the announcement does not include any financial transaction details, such as cash or share payments, from which to determine a currency."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired via 'direct staking by the Company', and no cash consideration is mentioned in the press release."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The property was acquired via 'direct staking by the Company', and no share consideration is mentioned in the press release."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The property was acquired via 'direct staking by the Company', and no combined cash and share consideration is mentioned in the press release."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The property was acquired via 'direct staking by the Company', and no issuance of shares as consideration is mentioned in the press release."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future plans to 'outline any priority fieldwork' but does not state a specific exploration commitment in meters as part of the acquisition."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future plans to 'outline any priority fieldwork' but does not state a specific monetary exploration commitment as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The press release does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 1160,
+      "justification": "The text states: 'Willow consists of a single, fully contiguous claim block totalling approximately 1,160 hectares, and was acquired via direct staking by the Company.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'Willow consists of a single, fully contiguous claim block totalling approximately 1,160 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides a historical resource estimate for the nearby Sustut Copper Deposit, but does not provide any mineral resource estimate for the Willow property itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CRCL",
+      "justification": "The buyer is identified as 'Corcel Exploration Inc. (CSE: CRCL)' in the first paragraph of the press release."
+    }
+  }
+}

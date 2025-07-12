@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Cisco/55744.txt",
+    "canada_projects/Cisco/80004.txt",
+    "canada_projects/Cisco/82300.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cisco",
+      "justification": "The documents consistently refer to the project as the Cisco Property. For example: \"Q2 Metals Completes Closing of Option Agreements for the Acquisition of the Large-Scale Cisco Lithium Property Located in James Bay, Quebec\" and \"Q2 Metals Significantly Expands the Cisco Lithium Property in James Bay, Quebec, Canada\"."
+    },
+    "company_name": {
+      "value": "Q2 Metals Corp.",
+      "justification": "The acquiring company is identified in all documents as \"Q2 Metals Corp. (TSXV: QTWO) (OTCQB: QUEXF) (FSE: 458)(\"Q2 \" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Alicia Milne",
+      "justification": "The press releases identify the President & CEO of the buyer, Q2 Metals Corp., as Alicia Milne: \"Alicia Milne President & CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is acquiring a 100% interest through multiple agreements. The first states: \"the Company was granted the exclusive right and option to acquire a 100% interest in three groups of mineral claims collectively known as the Cisco Property\". The second states: \"Q2 has acquired the exclusive right and option to acquire a 100% interest in 545 mineral claims (the \"Additional Cisco Claims\")\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the \"Cisco Lithium Property\" and the text discusses its location in the \"James Bay Lithium District\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/212953",
+      "justification": "The article titled \"Q2 Metals Completes Closing of Option Agreements for the Acquisition of the Large-Scale Cisco Lithium Property Located in James Bay, Quebec\" is directly about the specified project and acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed in dollars (e.g., \"$2,400,000 cash\"). The acquiring company, Q2 Metals Corp., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 4800000,
+      "justification": "This is the sum of cash payments from two separate transactions for the Cisco property. The first was for \"$2,400,000 cash\". The second, for additional claims, was for \"an aggregate of $2,400,000 over a period of 42 months\". The total cash consideration is $2,400,000 + $2,400,000 = $4,800,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms specify a number of shares to be issued, so the `amount_of_shares_issued` field is populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the consideration are listed separately, so `cash_payments_raw` and `amount_of_shares_issued` are populated instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 60000000,
+      "justification": "The initial option agreements include an aggregate consideration of \"60,000,000 common shares of Q2\". The subsequent acquisition of additional claims did not include a share component."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration in any of the provided documents."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No stock options were mentioned as part of the transaction consideration in any of the provided documents."
+    },
+    "issued_share_price": {
+      "value": 0.54,
+      "justification": "The transaction terms mention 60,000,000 shares to be issued but do not specify a price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.54'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 13200000,
+      "justification": "This is the sum of exploration commitments from two transactions. The first requires \"exploration expenditures of $12,000,000\". The second requires the company to \"complete $1,200,000 of exploration expenditures\". The total commitment is $12,000,000 + $1,200,000 = $13,200,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 4,
+      "justification": "Multiple royalties are retained by the sellers across the different claim blocks. The highest is on the Cisco Claims: \"The Cisco Vendor will retain a 4% gross metals returns royalty (\"GMR\") on the Cisco Claims\". Gross metals returns royalty (GMR) is treated as equivalent to NSR."
+    },
+    "coverage_area_raw": {
+      "value": 39389,
+      "justification": "This is the final, consolidated area of the property after the acquisition of additional claims. \"The Cisco Property is now comprised of a total of 767 contiguous mineral claims over 39,389 hectares ('ha')\"."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares. \"The Cisco Property is now comprised of a total of 767 contiguous mineral claims over 39,389 hectares ('ha')\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a current mineral resource estimate in mass or volume units (e.g., tonnes, ounces). It mentions a future potential resource target (\"an inferred resource (or higher category) of at least 25 million tonnes\") and drill results (e.g., \"115.4 metres of 1.40 percent lithium oxide\"), but no existing, quantified resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:QTWO",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: \"Q2 Metals Corp. (TSXV: QTWO)\"."
+    }
+  }
+}

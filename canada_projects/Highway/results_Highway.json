@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Highway/33795.txt",
+    "canada_projects/Highway/77615.txt",
+    "canada_projects/Highway/77624.txt",
+    "canada_projects/Highway/87382.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Highway",
+      "justification": "The transaction documents consistently refer to the project as the 'Highway Property' or 'Highway Uranium Project'. For example: 'Hatchet Uranium Corp. has entered into agreements with Skyharbour Resources Ltd. (“Skyharbour”), whereby HUC may acquire an 80% interest in Skyharbour’s 9,339 ha Highway Uranium Property (the “Optioned Highway Property”)'."
+    },
+    "company_name": {
+      "value": "Skyharbour Resources Ltd.",
+      "justification": "The documents identify Skyharbour Resources Ltd. as the owner of the project entering into the agreement. 'Skyharbour Resources Ltd. ... is pleased to announce that it has entered into agreements with a private arm’s-length company, Hatchet Uranium Corp.'"
+    },
+    "ceo_buyer": {
+      "value": "Jim Paterson",
+      "justification": "The buyer is Hatchet Uranium Corp. (HUC). A news release from ValOre Metals, which owns a majority stake in HUC, states: 'Jim Paterson, ValOre’s Chairman and Chief Executive Officer, serves as HUC’s Chief Executive Officer and sole director.'"
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement allows for the acquisition of an 80% interest. 'Hatchet may acquire an 80% interest in the Company’s 17,606 ha Highway Uranium Property (the “Optioned Property”)'."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is consistently described as a uranium project. For example: 'Skyharbour Announces Strategic Property Staking with Addition of Eight New Prospective Uranium Exploration Properties' and 'The Highway Uranium Project consists of nine claims...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The deal terms are explicitly stated in Canadian dollars. 'making aggregate cash payments of CAD $245,000'."
+    },
+    "cash_payments_raw": {
+      "value": 245000,
+      "justification": "The total cash consideration is CAD $245,000, as stated in the agreement terms: 'making aggregate cash payments of CAD $245,000'."
+    },
+    "share_payments_raw": {
+      "value": 1050000,
+      "justification": "The total share consideration is valued at CAD $1,050,000: 'issuing common shares in the capital of Hatchet (“Shares”) having an aggregate value of CAD $1,050,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments are provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement specifies the total value of the shares to be issued, not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share purchase warrants are mentioned in relation to the 'Purchased Property' (Genie, Usam, CBX/Shoe projects), not the 'Optioned Property' which is the Highway project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments, separate from the cash and share payments, was found in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share is not specified; only the total value of the shares to be issued is provided."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is defined by a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2050000,
+      "justification": "The agreement requires an aggregate exploration expenditure of CAD $2,050,000 over three years: 'incurring an aggregate of CAD $2,050,000 in exploration expenditures on the Optioned Property over a three-year period'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, Skyharbour retains a 2% NSR. 'The Company shall retain a 2% net smelter returns royalty from minerals mined and removed from the Optioned Property'."
+    },
+    "coverage_area_raw": {
+      "value": 17606,
+      "justification": "The most recent news release, announcing the closing of the deal, states the updated project size: 'the Company’s 17,606 ha Highway Uranium Property'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: 'the Company’s 17,606 ha Highway Uranium Property'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate compliant with NI 43-101 or similar standards is mentioned in the provided documents. The project is described as an exploration property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Hatchet Uranium Corp., is a private company and is not yet listed on a stock exchange. The text states: 'Hatchet will proceed to list on the TSX Venture Exchange or the Canadian Securities Exchange or will have sold its interest to or combined with a similarly listed issuer.'"
+    }
+  }
+}

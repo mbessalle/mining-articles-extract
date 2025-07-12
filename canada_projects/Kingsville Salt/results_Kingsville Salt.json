@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Kingsville Salt/43325.txt",
+    "canada_projects/Kingsville Salt/44267.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kingsville Salt",
+      "justification": "The text refers to the project as the \"Kingsville's Salt property\" and the \"Kingsville Salt Deposit\". The authoritative metadata confirms the name is \"Kingsville Salt\"."
+    },
+    "company_name": {
+      "value": "QNB Metals Inc.",
+      "justification": "The acquiring company is identified as: \"QNB Metals Inc. (CSE: TIM.X) (the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, QNB Metals Inc., is not mentioned in the provided text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company announced it will \"acquire a 100% interest in the Kingsville's Salt property (the \"Property\")\"."
+    },
+    "primary_commodity": {
+      "value": "Salt",
+      "justification": "The article is titled \"QNB Metals Expands Portfolio with Salt Property Acquisition\" and refers to the asset as the \"Kingsville Salt Deposit\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, QNB Metals Inc., is listed on the Canadian Securities Exchange (CSE: TIM.X), implying the currency is Canadian Dollars (CAD). The detailed quote section uses a generic '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration was paid entirely in shares. The cash payments mentioned ($120,000) are for a different transaction involving the 'Havre Aubert East property'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms were provided as a number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms were provided as a number of shares and a price per share (via fallback), so `amount_of_shares_issued` and `issued_share_price` are populated instead, as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 9000000,
+      "justification": "The consideration for the acquisition was the issuance of shares to the seller: \"Pursuant to the Agreement, as consideration for the acquisition of the interest in the Property, the Company will issue to the vendor an aggregate of 9,000,000 common shares (each a \"Share\") of the Company\". This is confirmed in a later article: \"The consideration for the acquisition of the Property was paid by the issuance of 9,000,000 Shares to the vendors\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms for the Kingsville Salt project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms for the Kingsville Salt project."
+    },
+    "issued_share_price": {
+      "value": 0.035,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.035'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Kingsville Salt project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned for the Kingsville Salt project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The agreement includes a tonnage-based royalty, not a percentage-based Net Smelter Royalty (NSR). The terms state: \"if, during a given fiscal year, the production from the Property is between 0 and 1,000,000 tonnes, $5 per tonne...\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text provides dimensions for a drilled area (\"2400 m by 900 m\") but does not provide a single raw number for the total property area. No calculations are permitted."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No raw area value was found, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": "1.15 billion t of probable estimated historical salt mineral reserves",
+      "justification": "The text states: \"Reported 1.15 billion t of probable estimated historical salt mineral reserves*, based on drilling work carried out between 1968 and 1971.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TIM.X",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: \"QNB Metals Inc. (CSE: TIM.X)\"."
+    }
+  }
+}

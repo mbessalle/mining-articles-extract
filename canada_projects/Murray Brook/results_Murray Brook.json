@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Murray Brook/36534.txt",
+    "canada_projects/Murray Brook/38822.txt",
+    "canada_projects/Murray Brook/40756.txt",
+    "canada_projects/Murray Brook/48246.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murray Brook",
+      "justification": "The documents consistently refer to the project as the 'Murray Brook Project' or 'Murray Brook deposit'. For example: 'Canadian Copper to Acquire 100% Ownership of Murray Brook Deposit'."
+    },
+    "company_name": {
+      "value": "Canadian Copper Inc.",
+      "justification": "The acquiring company is identified in all press releases as 'Canadian Copper Inc. (CSE: CCI) (\"Canadian Copper\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Simon Quick",
+      "justification": "The CEO of the buyer, Canadian Copper, is consistently quoted and identified as Simon Quick. For example: 'commented Simon Quick, CEO of Canadian Copper.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Canadian Copper acquired the project in two stages, first 72% from Votorantim Metals Canada Inc. and then 28% from MetalsQuest Mining Inc., resulting in 100% ownership. 'Canadian Copper is pleased to announce that it has satisfied all conditions required to acquire 100% of the Murray Brook deposit...'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is a polymetallic VMS deposit, but copper is listed first in the resource description and is part of the buyer's name, Canadian Copper Inc. The resource contains '183 million pounds of copper, 1.07 billion pounds of zinc, 390 million pounds of lead, 42 million ounces of silver, and 339,000 ounces of gold'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/196450",
+      "justification": "The provided documents are press releases from Canadian Copper Inc. about the acquisition of the Murray Brook project. This link is to the final announcement confirming the completion of the acquisition."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "All monetary values in the transaction details are specified with 'C$', indicating Canadian Dollars. For example: 'A C$250,000 deposit paid to Seller...'"
+    },
+    "cash_payments_raw": {
+      "value": 6300000,
+      "justification": "This is the sum of all cash considerations paid to both sellers. For the 72% interest from VM Canada: C$250,000 deposit, C$750,000 installment, C$2,000,000 bond replacement, and a C$2,000,000 final installment. For the 28% interest from MetalsQuest: C$100,000 deposit, C$200,000 installment, and a C$1,000,000 final installment. Total = 250000 + 750000 + 2000000 + 2000000 + 100000 + 200000 + 1000000 = 6,300,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved the issuance of a specific number of shares, not a payment of a specific cash value in shares. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the transaction are detailed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 4500000,
+      "justification": "This is the sum of shares issued in two tranches: 2,000,000 units to acquire the 72% interest from VM Canada and 2,500,000 units to acquire the 28% interest from MetalsQuest. 'The issuance of 2,000,000 units of Canadian Copper.' and 'The issuance of 2,500,000 units of Canadian Copper.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The units issued included warrants, but no raw monetary value was assigned to them in the text. 'Each unit to consist of one common share... and one full warrant exercisable for five years...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.17,
+      "justification": "The transaction terms state the share price is based on a 30-day VWAP, but do not provide a specific value. Using the fallback rule, the last traded price is used as a proxy, as seen in the detailed quote: 'Last: 0.17'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "A future 3,000 metre drill program is mentioned as a 'Next Step', but it was not a commitment required as part of the acquisition consideration."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 0.58,
+      "justification": "This is the total NSR granted to the sellers as part of the consideration. A 0.25% NSR was granted to Votorantim Metals Canada and a 0.33% NSR was granted to MetalsQuest Mining. 'A 0.25% net smelter return (\"NSR\") royalty on the MB asset.' and 'A 0.33% net smelter return (\"NSR\") royalty on the MB asset.'"
+    },
+    "coverage_area_raw": {
+      "value": 8600,
+      "justification": "The text states the total area of the property package is approximately 8,600 hectares. 'This area (Figure A) totals approximately 8,600 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly mentioned as hectares. 'This area (Figure A) totals approximately 8,600 hectares...'"
+    },
+    "resource_size": {
+      "value": "18 million tonnes grading 0.47% Cu, 2.73% Zn, 0.99% Pb, 42 g/t Ag, and 0.59 g/t Au",
+      "justification": "The press release provides a detailed mineral resource estimate: 'The Murray Brook deposit contains a sulphide Measured and Indicated Mineral Resource of 18 million tonnes grading 0.47% Cu, 2.73% Zn, 0.99% Pb, 42 g/t Ag, and 0.59 g/t Au.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CCI",
+      "justification": "The buyer is consistently identified with its ticker and exchange in the press releases: 'Canadian Copper Inc. (CSE: CCI)'."
+    }
+  }
+}

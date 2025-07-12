@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/River Valley/40545.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "River Valley",
+      "justification": "The article is titled 'QI Materials Acquires River Valley Silica Property' and the first paragraph states 'Québec Innovative Materials Corp. (CSE: QIMC) (\"Qi Materials\", \"QIMC\", or the \"Company\") is excited to announce the acquisition of the River Valley Silica Property (the \"Property\")...'"
+    },
+    "company_name": {
+      "value": "Quebec Innovative Materials Corp.",
+      "justification": "The acquiring company is identified as 'Québec Innovative Materials Corp. (CSE: QIMC) (\"Qi Materials\", \"QIMC\", or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Raymond Wladichuk",
+      "justification": "The article states, 'Raymond Wladichuk, P.Geo., is the CEO of Québec Innovative Materials Corp.' and is signed by '\"Raymond Wladichuk, P.Geo.\" Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states 'the acquisition of the River Valley Silica Property' and 'consideration for the purchase of the Property'. The use of 'acquisition' and 'purchase of the Property' implies a 100% interest transfer."
+    },
+    "primary_commodity": {
+      "value": "Silica",
+      "justification": "The project is explicitly named the 'River Valley Silica Property' and the text discusses a 'highly pure quartz vein'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/179831",
+      "justification": "The article is titled 'QI Materials Acquires River Valley Silica Property' and details the acquisition of the River Valley project by Quebec Innovative Materials Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is priced in dollars ('$0.05 per share') and the acquiring company, Quebec Innovative Materials Corp., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was entirely in shares, with no cash component mentioned. The text states: 'The Company shall issue 2,000,000 common shares at $0.05 per share to the Vendor... as consideration for the purchase of the Property.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the data extraction hierarchy, when the number of shares and a price per share are provided, the `amount_of_shares_issued` and `issued_share_price` fields are populated instead of this one."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payment terms were not specified as a single combined value. Instead, the number of shares and price per share were detailed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "Under the 'Details of Acquisition' section, the text states: 'The Company shall issue 2,000,000 common shares at $0.05 per share to the Vendor on the Closing Date as consideration for the purchase of the Property.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the property acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article mentions a grant of 5,500,000 incentive stock options, but these were granted to 'eligible officers, directors, employees and consultants of QI Materials Corp.' and not to the vendor as part of the property acquisition."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "Under the 'Details of Acquisition' section, the text states: 'The Company shall issue 2,000,000 common shares at $0.05 per share to the Vendor on the Closing Date as consideration for the purchase of the Property.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "A royalty was retained by the vendor, but it is a fixed value per tonne ('a royalty of $2.50 per tonne on gross revenues'), not a percentage-based Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 47,
+      "justification": "The text states: 'The Property covers an area of approximately 47 hectares (Figure 2).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Property covers an area of approximately 47 hectares (Figure 2).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical dimensions ('over 300m long and over 40m wide') and purity grades, but does not state a formal mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces). It explicitly notes these are 'historical results' and that 'detailed geological and engineering work is required to confirm these dimensions and purity grades'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:QIMC",
+      "justification": "The first paragraph identifies the acquiring company as 'Québec Innovative Materials Corp. (CSE: QIMC)'."
+    }
+  }
+}

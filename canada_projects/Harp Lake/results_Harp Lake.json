@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Harp Lake/25177.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Harp Lake",
+      "justification": "The article is titled 'Clarity Acquires Harp Lake Nickel Project and Expands Exploration Portfolio' and refers to the property as the 'Harp Lake Nickel Property'."
+    },
+    "company_name": {
+      "value": "Clarity Metals Corp.",
+      "justification": "The acquiring company is identified in the text as 'Clarity Gold Corp. (“Clarity” or the “Company”)'. The authoritative name provided is Clarity Metals Corp."
+    },
+    "ceo_buyer": {
+      "value": "James Rogers",
+      "justification": "The document is signed '“James Rogers” Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that Clarity 'entered into and closed an agreement to acquire three mineral exploration properties' and 'acquired the Properties', which implies a 100% interest as no lesser percentage is specified."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is explicitly named the 'Harp Lake Nickel Property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no specific URL for the article text was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Clarity Gold Corp., is a Canadian company listed on the CSE (Canadian Securities Exchange) and the consideration is listed in '$', implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 5000,
+      "justification": "The project's share is $5,000, calculated as one-third of the 'aggregate cash consideration of $15,000' which was for the acquisition of three properties (Harp Lake, Eddies Cove, and Hare Bay)."
+    },
+    "share_payments_raw": {
+      "value": 133333,
+      "justification": "The project's share is approximately $133,333, calculated as one-third of the total share value of $400,000. The total value is derived from 'the issuance of 4,000,000 common shares... at a deemed price of $0.10 per Share' for three properties."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial extraction hierarchy, separate cash and share payment values were identified and populated, so this combined field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial extraction hierarchy, `cash_payments_raw` and `share_payments_raw` were populated based on explicit and calculable values, so this field must be null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The 'Terms of Acquisition' do not mention any share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The 'Terms of Acquisition' do not mention any options as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial extraction hierarchy, `cash_payments_raw` and `share_payments_raw` were populated based on explicit and calculable values, so this field must be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not specify any exploration commitment in terms of monetary value."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 'Terms of Acquisition' do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 3452.5,
+      "justification": "Under the 'Harp Lake Nickel Property' section, the text states: '3,452.5 ha of Mineral Claims.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "Under the 'Harp Lake Nickel Property' section, the text states: '3,452.5 ha of Mineral Claims.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical sample grades (e.g., '1.67% Ni') but does not provide a mineral resource estimate with a specific mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CLAR",
+      "justification": "The text identifies the acquiring company and its ticker at the time of the transaction as: 'Clarity Gold Corp. (“Clarity” or the “Company”) (CSE: CLAR, OTC: CLGCF, FSE: 27G)'."
+    }
+  }
+}

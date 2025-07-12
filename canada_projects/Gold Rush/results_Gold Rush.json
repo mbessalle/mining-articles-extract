@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Gold Rush/98185.txt",
+    "canada_projects/Gold Rush/98347.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gold Rush",
+      "justification": "The press release is titled 'Loyalist Exploration Completes the Definitive Agreement to earn a 100% Interest of Gold Rush Property, Timmins Mining District and Other Corporate Updates' and refers to the property as 'the Gold Rush property (the “Gold Rush Property” or the “Property”)'."
+    },
+    "company_name": {
+      "value": "Loyalist Exploration Limited.",
+      "justification": "The acquiring company is identified as 'Loyalist Exploration Limited. (CSE: PNGC) (“Loyalist” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Errol Farr",
+      "justification": "The CEO is identified in the text: 'Errol Farr, Loyalist’s President & Chief Executive Officer commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows the company 'to earn a 100% interest in the Gold Rush property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is named the 'Gold Rush Property' and is located within the 'Timmins Gold Camp', implying gold is the primary commodity."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided links are internal system links (e.g., '/?gid=9987') and not verifiable public URLs."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is listed in '$' and the company is based in Toronto, Ontario, and listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 160000,
+      "justification": "The agreement requires Loyalist to 'pay to the Optionor aggregate cash consideration of $160,000 as follows: i. $12,500... ii. $12,500... iii. $35,000... iv. $45,000... v. $55,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms include the number of shares and a price per share can be determined via the fallback rule (Priority 2), so this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into separate cash and share components, so this combined field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 20500000,
+      "justification": "The corrected press release states Loyalist will 'issue to the Optionor an aggregate of 20,500,000 common shares (“Shares”) in the capital of Loyalist'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The option agreement for the Gold Rush property does not include any share warrant payments. The warrants mentioned are part of a separate concurrent financing."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the consideration for the property."
+    },
+    "issued_share_price": {
+      "value": 0.005,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.005'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 700000,
+      "justification": "The agreement requires Loyalist to 'Complete total accumulated exploration expenditures on the Property in the amount of: ... iii. $700,000 by the third anniversary date of the Definitive Agreement;'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The agreement terms include to 'grant to the Optionor a 2.0% net smelter returns royalty (the “NSR”) on the Property'."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions the property is 'composed of 41 contiguous mineral claims' but does not provide a total area in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text mentions the property is 'composed of 41 contiguous mineral claims' but does not provide a total area in hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'potential mineralization' and 'the estimation of mineral resources' in a forward-looking statement, but does not provide a quantified mineral resource estimate for the property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:PNGC",
+      "justification": "The buyer is identified as 'Loyalist Exploration Limited. (CSE: PNGC)' in the first paragraph of the press release."
+    }
+  }
+}

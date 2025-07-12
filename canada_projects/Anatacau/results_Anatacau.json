@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Anatacau/35065.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Anatacau",
+      "justification": "The authoritative metadata provides the name 'Anatacau'. The text also refers to the project: '...near the Anatacau and Anatacau West projects...'"
+    },
+    "company_name": {
+      "value": "Brunswick Exploration Inc.",
+      "justification": "The text identifies the company: 'MONTREAL, May 11, 2023 (GLOBE NEWSWIRE) -- Brunswick Exploration Inc.(TSX-V: BRW, OTCQB: BRWXF; “BRW ” or the “Company”)...'"
+    },
+    "ceo_buyer": {
+      "value": "Killian Charles",
+      "justification": "The text identifies the CEO of the project owner: 'Mr. Killian Charles, President and CEO of BRW, commented...'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article is an exploration update, not an M&A announcement, so no interest was acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company is focused on lithium and has identified spodumene (a lithium mineral) at the project: 'BRW will follow up on the newly intercepted spodumene bearing pegmatites from the recent drill program at Anatacau West.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text does not contain a URL for the article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the TSX-V, a Canadian exchange, and a separate news item mentions a private placement for 'C$3.5 Million', indicating Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention any cash payments for the acquisition of the project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention any share payments for the acquisition of the project. The share issuance mentioned was for a debt settlement, not a project acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is an exploration update and does not mention any combined payments for the acquisition of the project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article mentions issuing 444,444 shares for a debt settlement with a director, not for the acquisition of the Anatacau project. Therefore, this field is null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments related to a project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article mentions a deemed issue price of $0.75 for shares related to a debt settlement, not for a project acquisition. Therefore, this field is null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions that results 'may warrant drilling' but does not specify a committed number of meters for the Anatacau project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article describes a 'pan-Canadian prospecting initiative' but does not specify a dollar value commitment for the Anatacau project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the coverage area for the Anatacau project. It mentions staking in other provinces but not for this specific project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is mentioned, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions 'spodumene showings' but does not provide a quantified mineral resource estimate. It describes the work as 'grassroots lithium exploration' on targets that have 'never been tested for lithium', implying no formal resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BRW",
+      "justification": "The text states 'Brunswick Exploration Inc.(TSX-V: BRW...)' and the detailed quote section confirms 'Exchange: TSXV'."
+    }
+  }
+}

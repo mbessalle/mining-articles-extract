@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Atlin Goldfields/65140.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atlin Goldfields",
+      "justification": "The article is titled 'Brixton Metals Options its Atlin Goldfields Project to Eldorado Gold' and refers to the project throughout as the 'Atlin Goldfields Project'."
+    },
+    "company_name": {
+      "value": "Brixton Metals Corporation",
+      "justification": "The text identifies the seller/optionor as Brixton Metals Corporation: 'Brixton Metals Corporation (the “Company” or “Brixton”) is pleased to announce that it has entered into a definitive option agreement... with Eldorado Gold Corporation'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Eldorado Gold Corporation, is not mentioned in the text. The CEO mentioned, Gary R. Thompson, is the Chairman and CEO of the seller, Brixton Metals Corporation."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Eldorado has the option to acquire full ownership: 'Eldorado has been granted the option to acquire 100%-ownership (the “Option”) of the Company’s Atlin Goldfields Project (the “Project”).'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold project. For example: 'We look forward to working with Eldorado in advancing this exciting gold project.' and 'The Atlin Goldfields Project covers several orogenic and intrusion-related gold targets.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, but a specific URL for the news release itself is not included in the document body."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text explicitly states the currency: 'All dollar figures are in Canadian dollars, unless otherwise stated.'"
+    },
+    "cash_payments_raw": {
+      "value": 8100000,
+      "justification": "This is the sum of aggregate payments during the option period ($1,100,000) and the final cash payment to exercise the option ($7,000,000). 'Eldorado shall make cash payments to Brixton of $250,000 per year for aggregate payments of $1,100,000 during the Option Period' and 'Eldorado shall have the right to exercise the Option to acquire 100%-ownership of the Project by making a cash payment to Brixton in the amount of $7,000,000'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "There are no guaranteed share payments. The agreement includes an option for the seller to elect to receive part of the final payment in shares, but it is not a mandatory component of the consideration: 'Brixton, at its election, may receive up to 50% of such payment in the form of common shares of Eldorado'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash payment components are explicitly detailed and can be separated, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not specified in the transaction terms."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Stock options are not mentioned as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as a mandatory part of the consideration, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 5350000,
+      "justification": "The agreement specifies an aggregate exploration spend commitment: 'During the 5-year option period (the “Option Period”), Eldorado shall fund $1,000,000 in exploration expenditures per year beginning September 30th, 2024, for an aggregate spend of $5,350,000'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller (Brixton) will retain a royalty: 'Upon exercise of the Option by Eldorado, Brixton shall be granted a 1.0% (one percent) net smelter return royalty (“NSR”).'"
+    },
+    "coverage_area_raw": {
+      "value": 579,
+      "justification": "The text states the size of the project area: 'The Project is a road accessible, 579 square kilometer mineral claim group located near the town of Atlin, British Columbia'."
+    },
+    "coverage_area_unit": {
+      "value": "square kilometer",
+      "justification": "The unit for the coverage area is specified in the text: 'The Project is a road accessible, 579 square kilometer mineral claim group'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical production (e.g., '600,000 ounces of gold produced') and drill intercepts (e.g., '509.96 g/t gold (16.39 oz/ton gold) over 5.57m'), but does not contain a formal mineral resource estimate with quantified tonnage and grade as required by the rule."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:ELD",
+      "justification": "The buyer is Eldorado Gold Corporation. The text states: 'Eldorado's common shares trade on the Toronto Stock Exchange (TSX: ELD) and the New York Stock Exchange (NYSE: EGO).'"
+    }
+  }
+}

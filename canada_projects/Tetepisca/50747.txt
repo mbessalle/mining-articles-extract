@@ -1,0 +1,68 @@
+--- Article Metadata ---
+Project Name: Tetepisca
+Company Name: Volt Carbon Technologies Inc.
+Exchange: TSXV
+Ticker: VCT
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+3.19.2024, 7:50:00 PM
+
+# Volt Carbon Technologies Announces Regulatory Approval of Arm's Length Option Agreement with E-Power Resources
+
+Volt Carbon Technologies Inc. (TSXV: VCT) (OTCQB: TORVF) (FSE: WNF) ("VCT"), is pleased to announce, with reference to its news release dated February 5, 2024, that it has received final approval from the TSX Venture Exchange ("TSXV") for the arm's length option agreement with E-Power Resources Inc. ("EPR") (CSE: EPR) (the "Agreement") pursuant to which Volt is to acquire an interest in EPR's Tetepisca Graphite Project, located in Northern Quebec (collectively, the "Property").
+
+[](https://api.newsfilecorp.com/redirect/oLepru44Pg)
+
+**Highlights of the Option Agreement**
+
+Under the terms of the Agreement, EPR has agreed to: (i) grant Volt an option to acquire an undivided five percent (5%) interest in the Property that is exercisable until December 31, 2025 (the "Property Option"); and (ii) issue 6,600,000 shares of EPR to Volt (the "Shares"). As consideration for the Property Option and the Shares, Volt has agreed to expend $680,000 on the Property (the "Exploration Expenditures") prior to December 31, 2024. Should Volt choose to exercise the Property Option, in addition to the Exploration Expenditures, Volt will be required to make a cash payment of $1,500,000 to EPR. 
+
+If, after Volt exercises the Property Option, an arm's length third party presents a bona fide offer to purchase all or substantially all of the assets of EPR, to merge with EPR or complete another form of business combination with EPR (an "EPR Takeover Transaction"), then EPR has the option to buy-back the Property Option (the "EPR Option"). Should EPR exercise the EPR Option, EPR shall pay Volt the greater of: (i) $1,800,000; or (ii) 5% of the consideration paid to EPR pursuant to the EPR Takeover Transaction, in cash.
+
+**About Volt Carbon Technologies**
+
+Volt Carbon is a publicly traded carbon science company, with specific interests in energy storage and green energy creation, with holdings in mining claims in the provinces of Ontario, Quebec and British Columbia in Canada. For the latest information on Volt Carbon's properties and news please refer to the website [www.voltcarbontech.com](https://api.newsfilecorp.com/redirect/LGjLwuPPL5).
+
+On behalf of the Board of Directors,
+
+**Volt Carbon Technologies Inc.  
+** V-Bond Lee, P. Eng.  
+CEO, President, Chairman of the Board and Director
+
+**Information Contact** :  
+Email: [info@voltcarbontech.com](mailto:info@voltcarbontech.com)  
+Tel: (647-546-7049)
+
+**Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.**
+
+_FORWARD-LOOKING STATEMENTS: This press release contains forward-looking statements, within the meaning of applicable securities legislation, concerning Volt Carbon's business and affairs. In certain cases, forward-looking statements can be identified by the use of words such as "plans", "expects" or "does not expect", "intends" "budget", "scheduled", "estimates", "forecasts", "intends", "anticipates" or variations of such words and phrases or state that certain actions, events or results "may", "could", "would", "might" or "will be taken", "occur" or "be achieved". Such forward-looking statements include those with respect to: (i) Volt's intention to make the Exploration Expenditures prior to December 31, 2024; (ii) the ability of Volt to make the $1,500,000 cash payment to EPR should Volt choose to exercise the Property Option; and (iii) the ability of EPR to make the cash payment of $1,800,000 or 5% of the consideration paid to EPR pursuant to the EPR Takeover Transaction to Volt should EPR exercise the EPR Option._
+
+_Statements of past performance should not be construed as an indication of future performance. Forward-looking statements involve significant risks and uncertainties, should not be read as guarantees of future performance or results, and will not necessarily be accurate indications of whether or not such results will be achieved. A number of factors, including those discussed above, could cause actual results to differ materially from the results discussed in the forward-looking statements. Any such forward-looking statements are expressly qualified in their entirety by this cautionary statement._
+
+_All of the forward-looking statements made in this press release are qualified by these cautionary statements. Readers are cautioned not to place undue reliance on such forward-looking statements. Forward-looking information is provided as of the date of this press release, and Volt Carbon assumes no obligation to update or revise them to reflect new events or circumstances, except as may be required under applicable securities legislation._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/202250](https://api.newsfilecorp.com/redirect/55okATZZYE)
+
+### Project Name
+
+[Tetepisca Project](/?gid=4929)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.02                       Open: 0.02
+High: 0.02                       Bid: 0.015
+Bid Size: 1755000                   Beta: 1.36785
+Year High: 0.045                  Market Cap: 4.77m
+PB Ratio: 1.77                   EPS: -0.01
+Average Volume (30 Day): 134.68k    Volume: 66.00k
+Prev. Close: 0.02                Low: 0.02
+Ask: 0.02                        Ask Size: 115000
+VWAP: 0.02                       Year Low: 0.01
+Total Shares: 238.57m               Shares Out: 244.07m
+Float: 216.74m                      Exchange: TSXV

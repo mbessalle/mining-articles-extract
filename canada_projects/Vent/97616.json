@@ -1,0 +1,152 @@
+{
+  "article": {
+    "id": 97616,
+    "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=66a18cbebd4a4c44a70dc6d6&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2024-07-24",
+    "title": "Vital Battery Metals Terminates Vent Property Option",
+    "description": " \n \n \n \n \nVital Battery Metals Inc. \nwww.vitalbatterymetals.com \nCSE: VBAM | OTC: VBAMF | FRA: C0O  \n \nVital Battery Metals Terminates Vent Property Option \nJuly 24, 2024 \nVancouver, B.C. - Vital Battery Metals Inc. (“Vital” or the “Company”) (CSE: VBAM | OTC: VBAMF | FRA: C0O), \nannounces that it has terminated the option agreement dated December 14, 2021, as amended, whereby the \nCompany was granted the right to acquire an undivided 100% interest in certain mineral interests comprising the Vent \nProperty, located in the Province of British Columbia. \nAbout Vital Battery Metals Inc.  \nVital Battery Metals Inc. (CSE: VBAM |OTC: VBAMF | FRA: C0O) is a mineral exploration company dedicated to the \ndevelopment of strategic projects comprised of battery, base and precious metals in stable jurisdictions. The Company \nis working to advance its Schofield Lithium, Dickson Lake Lithium, Sting Copper Project, and Vent Copper-Gold Projects. \nThe Sting Copper Project covers approximately 12,700 hectares and hosts multiple historic Newfoundland and \nLabrador Government documented mineral occurrences and is located within a 50 km corridor known for significant \nvolcanogenic massive sulfide (VMS), copper quartz vein lode and low sulphation epithermal gold showings. The Vent \nCopper-Gold project covers 1,562 hectares in British Columbia. Vital continues to evaluate value-add assets to bolster \nits project portfolio.  \nThe Schofield Lithium Project covers 8,824 hectares and is adjacent to Brunswick Exploration’s Hearst Lithium Project. \nThe Schofield Lithium Project is located ~60 km south of Hearst, Ontario. The Dickson Lake Lithium Project covers 464 \nsingle-cell mining claims and approximately 9,780 hectares and is near a Brunswick Exploration Lithium Project, \nImagine Lithium’s Jackpot Deposit and Rock Tech’s Georgia Lake Deposit. \nFor more information, visit www.vitalbatterymetals.com.  \nOn Behalf of the Board of Directors \nAdrian Lamoureux \nChief Executive Officer, Director \n+1 (604) 229-9772 \ninfo@vitalbatterymetals.com \nDisclaimer for Forward-Looking Information \nThis news release contains certain forward-looking statements within the meaning of applicable securities laws. All statements that \nare not historical facts, including without limitation, statements regarding future estimates, plans, programs, forecasts, projections, \nobjectives, assumptions, expectations or beliefs of future performance, including statements regarding the Project acquisition \nbringing a low-risk opportunity, the Company building a strong battery metals portfolio with low-risk opportunities that positively \nimpact the Company and its shareholders and the Company providing an initial work plan are \"forward-looking statements\". \nForward-looking statements in this news release include, but are not limited to, statements with respect to the Sting Project and its \nmineralization potential; the Company’s objectives, goals or future plans with respect to the Sting Project; the commencement of \ndrilling or exploration programs in the future; the anticipated results of any drilling or exploration programs conducted in the future. \nThese forward-looking statements reflect the expectations or beliefs of management of the Company based on information currently \navailable to it. Forward-looking statements are subject to a number of risks and uncertainties, including those detailed from time to \n \ntime in filings made by the Company with securities regulatory authorities, which may cause actual outcomes to differ materially \nfrom those discussed in the forward-looking statements. These factors should be considered carefully and readers are cautioned not \nto place undue reliance on such forward-looking statements. The forward-looking statements and information contained in this \nnews release are made as of the date hereof and the Company undertakes no obligation to update publicly or revise any forward-\nlooking statements or information, whether as a result of new information, future events or otherwise, unless so required by \napplicable securities laws. \nThe Canadian Securities Exchange (CSE) does not accept responsibility for the adequacy or accuracy of this release. \n",
+    "search_terms": "Vent,Aventis Energy Inc Inc.,VBAM",
+    "master_gid": 5399,
+    "date": "2024-07-24T23:22:38.000Z",
+    "tags": "Georgia,USA,Canada|Georgia,British Columbia,Newfoundland and Labrador,Ontario||Copper,Lithium,Gold|Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 2104,
+    "provider": "SEDAR",
+    "excerpt": "Vital Battery Metals Inc. www.vitalbatterymetals.com CSE: VBAM | OTC: VBAMF | FRA: C0O Vital Battery Metals Terminates Vent Property Option July 24, 2024 Vancouver, B.C. - Vital Battery Metals Inc. (“Vital” or the “Company”) (CSE: VBAM | OTC: VBAMF | FRA: C0O), announces that it has terminated the option agreement",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "Aventis Energy Inc Inc.",
+    "exchange": "CSE",
+    "root_ticker": "AVE",
+    "project_name": "Vent",
+    "gid": 5399,
+    "location": "British Columbia, Canada",
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 5399,
+    "project_name": "Vent",
+    "location": "British Columbia, Canada"
+  },
+  "articleExchange": "CSE",
+  "articleCompanyId": 2104,
+  "articleTicker": "AVE",
+  "articleCompanyName": "Aventis Energy Inc Inc.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 2104,
+      "gid": 4885,
+      "project_name": "Dickson Lake",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 2104,
+      "gid": 5399,
+      "project_name": "Vent",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 2104,
+      "gid": 3335,
+      "project_name": "Sting",
+      "location": null
+    },
+    {
+      "company_id": 2104,
+      "gid": 4210,
+      "project_name": "Schofield",
+      "location": "Ontario, Canada"
+    },
+    {
+      "company_id": 2104,
+      "gid": 4535,
+      "project_name": "Nechalacho",
+      "location": "Northwest Territories, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 110377,
+      "company_id": 2104,
+      "title": "Aventis Energy Announces Closing of Flow-Through Financing",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=68685cec5af4424e946e75c1&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2025-07-04",
+      "date": "2025-07-04T22:59:56.000Z",
+      "hidden": false
+    },
+    {
+      "id": 109884,
+      "company_id": 2104,
+      "title": "Aventis Energy Announces Amendment to Flow-Through Financing",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=6863007616421704661330a3&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2025-06-30",
+      "date": "2025-06-30T21:24:06.000Z",
+      "hidden": false
+    },
+    {
+      "id": 108796,
+      "company_id": 2104,
+      "title": "Aventis Energy Inc. Announces Flow-Through Financing",
+      "link": null,
+      "date": "2025-06-20T21:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 107321,
+      "company_id": 2104,
+      "title": "Aventis Energy Announces Exploration Plans at its Corvo Uranium Project",
+      "link": null,
+      "date": "2025-06-09T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 107096,
+      "company_id": 2104,
+      "title": "Aventis Energy Announces Intent to Complete NI 43-101 Technical Report on the Corvo Uranium Project",
+      "link": null,
+      "date": "2025-06-05T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 106572,
+      "company_id": 2104,
+      "title": "Aventis Energy Announces Appointment of Michael Mulberry to the Board of Directors",
+      "link": null,
+      "date": "2025-06-02T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 105231,
+      "company_id": 2104,
+      "title": "Aventis Energy Provides Recent Exploration Insights at the Corvo Uranium Project",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=682cb3d1b340353982613c61&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2025-05-20",
+      "date": "2025-05-20T16:54:41.000Z",
+      "hidden": false
+    },
+    {
+      "id": 104976,
+      "company_id": 2104,
+      "title": "Aventis Energy Inc. Announces Marketing Program",
+      "link": null,
+      "date": "2025-05-16T21:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 104203,
+      "company_id": 2104,
+      "title": "Vital Battery Metals Announces Effective Date of Name Change to Aventis Energy Inc.",
+      "link": null,
+      "date": "2025-05-09T20:30:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 104083,
+      "company_id": 2104,
+      "title": "Vital Battery Metals Announces Acquisition of Corvo Uranium Project & Closing of Financing",
+      "link": null,
+      "date": "2025-05-08T21:00:00.000Z",
+      "hidden": false
+    }
+  ]
+}

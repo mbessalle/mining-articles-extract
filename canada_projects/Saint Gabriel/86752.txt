@@ -1,0 +1,91 @@
+--- Article Metadata ---
+Project Name: Saint Gabriel
+Company Name: Argyle Resources Corp.
+Exchange: CSE
+Ticker: ARGL
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.4.2025, 7:00:00 PM
+
+# Argyle Announces Acquisition of Saint Gabriel Silica Project
+
+Calgary, Alberta--(Newsfile Corp. - February 4, 2025) - Argyle Resources Corp. (CSE: ARGL) (OTCQB: ARLYF) (FSE: ME0) ("Argyle" or the "Company") is pleased to announce that it has completed the acquisition ("Acquisition") of the Saint Gabriel Silica project, which consists of 23 contiguous mineral claims (the "Claims") totalling 1,312.90 ha. located in the Bas Saint-Laurent region, Quebec, from Steadright Critical Minerals Inc. ("Steadright"), in exchange for $65,000 in cash and 300,000 common shares of the Company (the "Consideration Shares"). The Consideration Shares are subject to escrow restrictions under which 100,000 of the Consideration Shares will be released 4 months and 1 day following closing of the Acquisition ("Closing"), 100,000 Consideration Shares will be released 6 months following Closing, and the remaining 100,000 Consideration Shares will be released 12 months following Closing. The Company notes that the Claims are subject to a 2% net smelter returns royalty (the "Royalty"), one-half of which may be re-purchased by payment of $1,500,000.
+
+Jeff Stevens, CEO of Argyle stated, "We are thrilled to announce the successful acquisition of the Saint Gabriel Silica Project in Bas-Saint-Laurent Region of Quebec. The region has a long history of promising geological exploration dating back to the 1960s, when the Quebec Ministry of Mines first mapped the area's quartzite formations.". Mr. Stevens continued, "As we move into 2025, our planned Phase 1 exploration program at Saint Gabriel will focus on identifying potential high-purity silica zones to assess future development potential. This will include field-based XRF analysis to assess silica purity in real time, systematic sampling across the entire property with corresponding GPS coordinates and XRF data, laboratory verification of silica purity, and a 150kg bulk sampling program targeting two high-purity zones identified through chip sampling and XRF results. The Saint Gabriel Silica Project represents an exciting opportunity for Argyle Resources Corp., and we look forward to advancing exploration and delivering value to our shareholders."
+
+**About the Saint Gabriel Silica Project**
+
+[](https://images.newsfilecorp.com/files/10451/239527_201afdc9d4ef28f4_001full.jpg)
+
+Figure 1: Properly Location Map of Saint Gabriel Silica Project
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10451/239527_201afdc9d4ef28f4_001full.jpg>
+
+_**Exploration History - Summary of Activities 1960-2023**_
+
+  * 1960s: Initial geological mapping by Quebec Ministry of Mines
+  * 1980s-1990s: Sampling and drilling programs 
+  * 2023: Sampling by Noront Group; samples sent to ALS Laboratory in Mississauga
+
+
+
+ _**1991 Drill Program**_
+
+The map below depicts the location of prior drilling activities in respect of the Saint Gabriel project, carried out in 1991 by Andre Liboiron.
+
+[](https://images.newsfilecorp.com/files/10451/239527_201afdc9d4ef28f4_002full.jpg)
+
+Figure 2: 1991 Drill Hole Location Map at Saint Gabriel Silica Project
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/10451/239527_201afdc9d4ef28f4_002full.jpg>
+
+Jim McCrea P.GEO., a consultant to the Company and a Qualified Person, as such term is defined by National Instrument 43-101 - _Standards of Disclosure for Mineral Projects_ , has reviewed and approved the scientific and technical information reported in this news release.
+
+About Argyle Resources Corp.
+
+Argyle Resources Corp. is a junior mineral exploration company engaged in the business of acquiring, exploring, staking and evaluating natural resource properties in North America. In addition to the Saint Gabriel project, the Company currently holds an option to acquire up to 100% of the Frenchvale Graphite Property located in Nova Scotia, Canada and owns 100% interest in the Pilgrim Islands, Matapedia and Lac Comporté quartzite silica projects in Quebec, Canada. Argyle is engaged in a research partnership with the National Institute of Scientific Research (INRS), a high-level research and training institute funded by the Québec government to conduct exploration programs on the Company's silica projects. The Company was incorporated in 2023 and its head office is located in Calgary, Alberta, Canada.
+
+ON BEHALF OF THE BOARD OF DIRECTORS
+
+'Jeffrey Stevens'  
+President & CEO  
+  
+For all other inquiries:  
+Email: [info@argylresourcescorp.com](mailto:info@argylresourcescorp.com)  
+Phone: (825) 724-0033  
+Website: [www.argyleresourcescorp.com](https://api.newsfilecorp.com/redirect/yEzVzuGDVy)
+
+Forward-Looking Statements 
+
+All statements included in this press release that address activities, events or developments that Argyle expects, believes or anticipates will or may occur in the future are forward-looking statements. Such statements may involve, but are not limited to, statements with respect to the exploration and development of the Company's mineral properties. These forward-looking statements involve numerous assumptions made by Argyle based on its experience, perception of historical trends, current conditions, expected future developments and other factors it believes are appropriate in the circumstances. In addition, these statements involve substantial known and unknown risks and uncertainties that contribute to the possibility that the predictions, forecasts, projections and other forward-looking statements will prove inaccurate, certain of which are beyond Argyle's control. Readers should not place undue reliance on forward-looking statements. Except as required by law, Argyle does not intend to revise or update these forward-looking statements after the date hereof or revise them to reflect the occurrence of future unanticipated events.
+
+Neither the Canadian Securities Exchange nor its Regulation Service Provider accepts responsibility for the adequacy or accuracy of this news release.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/239527](https://api.newsfilecorp.com/redirect/1prRrcV4Ew)
+
+### Project Name
+
+[Saint Gabriel Project](/?gid=9753)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.445            $  Chg: -0.025
+Open: 0.43            High: 0.45
+Bid: 0.44             Bid Size: 2000
+Beta: 3.03198            Year High: 1.02
+Market Cap: 16.72m      PB Ratio: 8.29
+EPS: -0.05             Average Volume (30 Day): 600.15k
+Volume: 221.90k          % Chg: -5.32%
+Prev. Close: 0.47     Low: 0.43
+Ask: 0.45             Ask Size: 20000
+VWAP: 0.44143            Year Low: 0.385
+Total Shares: 37.57m    Shares Out: 37.57m
+Float: 35.93m           Exchange: CSE

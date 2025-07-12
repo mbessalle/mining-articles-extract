@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Hidden Lake/81832.txt",
+    "canada_projects/Hidden Lake/81832_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Hidden Lake",
+      "justification": "The document is titled 'Strategic Consolidation of Hidden Lake Lithium Project' and refers to the project throughout."
+    },
+    "company_name": {
+      "value": "Loyal Lithium Limited",
+      "justification": "The buyer is identified in the text: 'Loyal Lithium is pleased to announce the execution of a definitive agreement for the consolidation of the Hidden Lake Lithium Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Adam Ritchie",
+      "justification": "The text identifies the Managing Director of the buyer, Loyal Lithium: 'Commenting on the consolidation agreement and appointment of Mr. Blair Way, Loyal Lithium Managing Director, Mr Adam Ritchie, said:'"
+    },
+    "interest_acquired_percent": {
+      "value": 40,
+      "justification": "Loyal Lithium acquired the remaining 40% interest from its joint venture partner. 'The Hidden Lake Lithium Project was initially structured as a 60% Loyal Lithium and 40% Patriot Battery Metals joint venture. The parties involved have now agreed to divest Patriot Battery Metals' minority 40% holding...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is consistently referred to as the 'Hidden Lake Lithium Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Hidden Lake. No article URL was provided in the source documents."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction was a share swap with no cash component or monetary values mentioned, so currency is not applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was conducted entirely with shares, not cash. 'The parties involved have now agreed to divest Patriot Battery Metals' minority 40% holding in exchange for shares in Loyal Lithium.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "While the transaction was for shares, no overall monetary value was assigned to the share payment."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value was provided for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The number of shares issued to the seller is explicitly stated: 'As part of this transaction, Patriot Battery Metals will become a substantial shareholder of Loyal Lithium by receiving approximately 6.8% of the shares on issue (8,000,000 LLI Shares).'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares issued is specified, but no price per share for the transaction is mentioned in the text, and no 'Detailed Quote' section is available to use the fallback rule."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned as part of the transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned as part of the transaction. The mention of '$6.0 million in funding' refers to general company funds, not a specific commitment for this deal."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area in units such as hectares or square kilometers was mentioned for the project. The text mentions '3,250m of outcropping Lithium (spodumene) Dykes', which is a measure of length, not area."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area was mentioned, so no unit is applicable."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for a neighboring project, 'LIFT Power (TSXV:LIFT), which has a regional MRE1 of 50.4 Mt @ 1.0% Li O', but this is not for the Hidden Lake project. No resource estimate is provided for the Hidden Lake project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:LLI",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Loyal Lithium Limited (ASX:LLI) (Loyal Lithium, LLI, or the Company) is pleased to announce...'"
+    }
+  }
+}

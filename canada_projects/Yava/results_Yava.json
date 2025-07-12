@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Yava/73554.txt",
+    "canada_projects/Yava/76262.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yava",
+      "justification": "The primary project of interest is named Yava, as confirmed in the article headline: 'Honey Badger Silver Buys Yava Deposit, Continues to Build Silver Inventory'."
+    },
+    "company_name": {
+      "value": "Honey Badger Silver Inc.",
+      "justification": "The acquiring company is identified in the first sentence: 'Honey Badger Silver Inc. (TSXV:TUF)(OTCQB:HBEIF) (\"Honey Badger \" or the \"Company\") is pleased to announce that it has purchased the Yava project...'"
+    },
+    "ceo_buyer": {
+      "value": "Dorian L. (Dusty) Nicol",
+      "justification": "The CEO of the buyer, Honey Badger Silver Inc., is identified in the text: \"Honey Badger's CEO, Dorian L. (Dusty) Nicol, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The second article, published after the acquisition, refers to the project as 'its 100%-owned Yava silver project', indicating a full interest was acquired."
+    },
+    "primary_commodity": {
+      "value": "Silver",
+      "justification": "The acquiring company is named 'Honey Badger Silver Inc.' and the CEO's comments confirm the focus: 'The Yava project is an exciting addition to Honey Badger's growing portfolio of high-quality silver projects.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No direct, specific article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified in the transaction terms: '...valued at CAD$0.08 per Share.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured as a share issuance with a defined number of shares and price per share, so this field is null as per the financial data extraction hierarchy. The agreement also explicitly states 'no cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a defined number of shares and a price per share, so this field is null as per the financial data extraction hierarchy. The terms are '4,250,000 common shares...valued at CAD$0.08 per Share'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into the number of shares and price per share, so this field is null as per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 4250000,
+      "justification": "The number of shares issued is stated in the purchase agreement details: 'Pursuant to the purchase agreement, Blue Moon is receiving 4,250,000 common shares (\"Shares\") of Honey Badger...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.08,
+      "justification": "The price per share is explicitly stated in the transaction terms: '...valued at CAD$0.08 per Share.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The transaction terms explicitly state there are no spending requirements: 'No other obligations by Honey Badger are required (e.g. no cash, no spending requirements, nor any future payments).'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 1280,
+      "justification": "The second article clarifies the size of the land package acquired from Blue Moon before additional staking: 'The new claims increase the Company's land position in this rich district from 1,280 hectares to 4,395 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text describing the land position: 'The new claims increase the Company's land position in this rich district from 1,280 hectares to 4,395 hectares.'"
+    },
+    "resource_size": {
+      "value": "1.3 million tons of 4.96% zinc, 1.03% copper, 1.60% lead, 3.42 oz/t silver, and 0.008 oz/t gold",
+      "justification": "A historic resource for the Yava project is described: 'Brascan Resources Ltd. estimated that the Yava Main Zone contains 1.3 million tons of 4.96% zinc, 1.03% copper, 1.60% lead, 3.42 oz/t silver, and 0.008 oz/t gold to a depth of 100 metres.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TUF",
+      "justification": "The buyer's ticker and exchange are listed with its name in the press release: 'Honey Badger Silver Inc. (TSXV:TUF)(OTCQB:HBEIF)...'"
+    }
+  }
+}

@@ -1,0 +1,153 @@
+--- Article Metadata ---
+Project Name: Muskox
+Company Name: Blackbird Critical Metals Corp.
+Exchange: CSE
+Ticker: BBRD
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.16.2023, 7:35:00 PM
+
+# Gama Announces Acquisition of Spodumene-Bearing Muskox Pegmatite Lithium Project in Northwest Territories
+
+**VANCOUVER, BC / ACCESSWIRE / January 16, 2023 /** Gama Explorations Inc. (CSE:GAMA)(FSE:N79) ("**Gama** " or the "**Company** ") is pleased to announce that it has entered into a binding letter of intent with an effective date of January 13, 2023 (the "**LOI** ") for an option to acquire a 100% interest in the Muskox Lithium Property (the "**Property** ") in the Yellowknife Pegmatite Province of The Northwest Territories, Canada.
+
+**Muskox Lithium Property Highlights**  
+\- Gama solidifies battery metals portfolio with the Muskox lithium property in the heart of a growing pegmatite exploration district.  
+\- The Property is located ~40 km east of Yellowknife, along a government maintained all-season road that runs along the entire southern border of the claims.  
+\- Recent channel sampling from the CM-1 pegmatite in 2022 produced average grades of 1.34% Li2O over 5 m and 1.26% Li2O over 11 m.  
+\- A large portion of the 50 km2 project area remains under-explored and the potential to identify additional lithium-bearing pegmatites remains high.
+
+_"The Muskox Property represents a new pillar for our 2023 exploration program, diversifying and growing our asset base with projects now focused on lithium, nickel and copper. The Yellowknife Pegmatite Province is a highly prospective and sought after jurisdiction for lithium deposits making the Property a significant addition to our portfolio." stated Dr. Mick Carew, CEO of Gama. "This represents a tremendous value creation opportunity for shareholders, being in a top global mining jurisdiction with established endowment of hard rock lithium. We look forward to building upon the historic work done on this asset and creating value through further exploration and delineation of its potential."_
+
+Figure 1. Muskox Pegmatite Lithium Property location.
+
+  
+**About the Muskox Pegmatite Lithium Property**
+
+ _Project Description_
+
+The Muskox Pegmatite Lithium Project is located approximately 40 km east of the city of Yellowknife in the Northwest Territories (Figure 1). The project covers a 50 km2 area within the centre of the Yellowknife Pegmatite Province (YPP), which comprises occurrences of spodumene rich pegmatites over an area of more than 5,000 km2. The Muskox Pegmatite Lithium project hosts the CM-1 pegmatite, a coarse-grained, spodumene-bearing pegmatite that crops-out 100 meters north of the paved, all-season Highway 4. The pegmatite has been traced over a strike length of ~730 m and is up to 11 m wide (Figure 2). The Property is easily accessible by paved road.
+
+Highlights from channel sampling completed by RGV lithium in 2022 along the CM-1 pegmatite include 1.34% Li2O over 5 m and 1.26% Li2O over 11 m (Table 1). A total of ten channel samples were completed over the ~700 m strike length. Beyond the CM-1 pegmatite, most of the 50 km2 of the project area remains under-explored. Gama has identified additional prospective pegmatites from satellite imagery that have no record of historical work, representing exciting targets for a phase 1 exploration program.
+
+_Exploration History_
+
+Lithium-bearing pegmatites within the Yellowknife Pegmatite Province were identified in the mid-1940's. Various exploration programs have been conducted in the region, particularly during the late 1970's/early 1980's.
+
+_Spodumene-Bearing Pegmatites_
+
+Spodumene-bearing pegmatites within the Muskox Pegmatite Lithium Project area were documented as early as the mid 1950's; this work included the discovery and initial sampling of the CM-1 pegmatite (see above). Early exploration work included mapping and sampling, mainly along the CM-1 pegmatite, and bulk sampling from blast sites at several spodumene-bearing pegmatites ~1 km east of the CM-1 pegmatite. Metallurgical test work was conducted on these bulk samples in 1981 which demonstrated potential to produce a spodumene concentrate via flotation. Limited systematic exploration work has been conducted beyond the pegmatites described above and mapping and sampling is required to determine the extent of spodumene-bearing pegmatites elsewhere within the Muskox project area.
+
+More recently there has been a resurgence of exploration in pegmatites as the electric vehicle demand for lithium has put pressure on an undersupplied market. Despite containing a lithium bearing pegmatite, the CM-1 pegmatite has never been drilled and at least several apparent pegmatites on the Muskox project remain unsampled.
+
+Figure 2 - Muskox Pegmatite Lithium Property. The inset map shows channel sampling on the CM-1 pegmatite.Table 1: Assay results from recent channel sampling of the CM-1 pegmatite within the Muskox Pegmatite-Lithium Project. Note that all samples are also indicated on the inset map in figure 2. Lengths above are in (m), Coordinates are in NAD83 UTM.
+
+**Acquisition Terms**
+
+Pursuant to the terms of the LOI, the Company will have an option to acquire a 100% interest in the Property from RGV Lithium Explorations Inc. In order to exercise the option, Gama will be required to make a payment of $400,000 in cash, as follows:
+
+• $150,000 cash upon signing; and  
+• $250,000 cash six months from the signing date.
+
+In addition, Gama will be required to pay $1,000,000 in cash or common shares of Gama, as follows:
+
+• $100,000 on the first anniversary of the signing date;  
+• $200,000 on the second anniversary of the signing date;  
+• $300,000 on the third anniversary of the signing date; and  
+• $400,000 on the fourth anniversary of the signing date.
+
+In the case that the vendor elects to receive common shares of Gama pursuant to the above payments, the shares will be issued at a price per share equal to the 10-day VWAP as at the date of payment, subject to a floor price equal to the minimum price permitted under CSE policies.
+
+Further, Gama will be required to incur $1,500,000 in exploration expenditures on the Property on or prior to the fourth anniversary of the signing date, as follows:
+
+• $250,000 by the first anniversary of the signing date;  
+• $350,000 by the second anniversary of the signing date;  
+• $400,000 by the third anniversary of the signing date; and  
+• $500,000 by the fourth anniversary of the signing date.
+
+Finally, Gama will grant the optionor a 2.5% net smelter return, subject to a 1.5% buy back at a price of $2,000,000.
+
+Data verification
+
+The lithium assay data in Figure 2 and Table 1 was collected and sent for assay by RGV and field sampling methods were not independently verified by the QP. Samples were assayed by Actlabs using a TD-ICP analysis and overlimits were assayed using 4 acid ICP-OES for all TD-ICP Li values over 5,000 ppm. Actlabs maintains a rigorous QA/QC protocol including blanks, standards, duplicates and prep duplicates which all yielded acceptable values.
+
+**Qualified Person**
+
+Dr. Thomas Hawkins, P.Geo., an independent consulting geologist, serves as a qualified person as defined by NI 43-101 and has reviewed and approved the scientific and technical information in this news release.
+
+**About Gama Explorations Inc.**
+
+Gama is a Canadian company listed on the Canadian Securities Exchange (CSE: GAMA), and on the Frankfurt Stock Exchange (FSE: N79). The Company is a mineral exploration company focused on the acquisition, exploration, and development of mineral properties containing metals used in green technologies and the renewable energy sector. The Company recently announced the addition of the Muskox Pegmatite Lithium Project situated within the Yellowknife Pegmatite Province in the Northwest Territories, to compliment its existing portfolio consisting of the Big Onion Copper-Molybdenum Project located a short 20-minute drive from the town of Smithers in northern British Columbia (option to earn 100%). Further, GAMA owns 100% of the Tyee Nickel-Copper Massive Sulphide Project located in North-Eastern Quebec. The Company continuously evaluates opportunities to acquire interest in additional exploration stage mineral properties in stable jurisdictions.
+
+ON BEHALF OF THE BOARD,
+
+Dr. Mick Carew, PhD | CEO and Director  
+Email: [mick@gamaexplorations.com](mailto:mick@gamaexplorations.com)
+
+For further information please contact:  
+Focus Communications  
+Tel: +1 647 689 6041  
+Email: [info@fcir.ca](mailto:info@fcir.ca)
+
+**Forward-Looking Statements**
+
+This press release contains certain forward-looking statements as well as historical information. Readers should not rely on information in this summary for any purpose other than for gaining general knowledge of the Company. The words "expected", "will" and similar expressions are intended to be among the statements that identify forward-looking statements. Although the Company believes that its expectations as reflected in any forward-looking statements, are reasonable, such statements involve risks and uncertainties and no assurance can be given that actual results will be consistent with these forward-looking statements. Except as required by law, the Company undertakes no obligation to update these forward-looking statements in the event that management's beliefs, estimates, opinions or other factors should change.
+
+The Canadian Securities Exchange has not reviewed this press release and does not accept responsibility for the adequacy or accuracy of this news release.
+
+**SOURCE:** Gama Explorations Inc.  
+
+
+  
+  
+View source version on accesswire.com:   
+<https://www.accesswire.com/735326/Gama-Announces-Acquisition-of-Spodumene-Bearing-Muskox-Pegmatite-Lithium-Project-in-Northwest-Territories>  
+  
+
+
+### Project Name
+
+[Muskox Project](/?gid=3904)  
+Northwest Territories, Canada
+
+[Project Summary](https://app.mininghub.com?gid=3904&modal=project_summary)[Company Profile](https://app.mininghub.com/company/blackbird-critical-metals-corp/1938)[All Projects](https://app.mininghub.com/company/blackbird-critical-metals-corp/1938)
+
+### Other Company News
+
+1/24/2025 [Blackbird Critical Metals Corp. Announces Completion of Debt Settlement and Option Agreement Share Issuance](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-corp-announces-completion-of-debt-settlement-and-option-agreement-share-issuance-100909)
+
+1/15/2025 [Blackbird Critical Metals Corp. Announces Debt Settlement](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-corp-announces-debt-settlement--192317)
+
+12/17/2024 [Blackbird Critical Metals Corp. Announces Effective Date of Share Consolidation](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-corp-announces-effective-date-of-share-consolidation--160837)
+
+11/27/2024 [Blackbird Critical Metals Corp. Announces Share Consolidation](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-corp-announces-share-consolidation--156789)
+
+9/10/2024 [Blackbird Samples Additional Massive Ilmenite at the Big Tio Target and Provides Corporate Update](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-samples-additional-massive-ilmenite-at-the-big-tio-target-and-provides-corporate-update-70939)
+
+6/18/2024 [Blackbird Samples Additional Massive Ilmenite at the Big Tio and NS Trend Targets](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-samples-additional-massive-ilmenite-at-the-big-tio-and-ns-trend-targets-55911)
+
+5/22/2024 [Blackbird Announces Ground Exploration Program and Drill Targets at the Tyee Critical Metals Project in Quebec](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-announces-ground-exploration-program-and-drill-targets-at-the-tyee-critical-metals-project-in-quebec-54282)
+
+5/8/2024 [Blackbird Critical Metals Announces Engagement of Drilling Contractor and Receipt of Exploration Camp Permit](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-announces-engagement-of-drilling-contractor-and-receipt-of-exploration-camp-permit-53468)
+
+4/29/2024 [Blackbird Critical Metals Announces Phase 1 Drill Targets at Tyee Project in Quebec](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-critical-metals-announces-phase-1-drill-targets-at-tyee-project-in-quebec-52812)
+
+4/10/2024 [Blackbird Announces Exploration Updates on the Tyee Critical Metals Project in Quebec](/article/blackbird-critical-metals-corp/cnx-bbrd/-/blackbird-announces-exploration-updates-on-the-tyee-critical-metals-project-in-quebec-51863)
+
+--- Detailed Quote ---
+
+Last: 0.245            $  Chg: -0.025
+Open: 0.245            High: 0.245
+Beta: -0.11276            Year High: 0.70
+Market Cap: 1.81m      PB Ratio: 0.25
+EPS: -0.35             Average Volume (30 Day): 3,146
+Volume: 3,658          % Chg: -9.26%
+Prev. Close: 0.27     Low: 0.245
+VWAP: 0.245            Year Low: 0.13
+Total Shares: 7.39m    Shares Out: 7.39m
+Float: 1.97m           Exchange: CSE

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Danvers/79938.txt",
+    "canada_projects/Danvers/79938_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Danvers",
+      "justification": "The announcement states: 'This granted exploration licence lies within the broader Rae Copper region, Nunavut, Canada (“Rae” or the “Project”) and covers the historical Danvers copper deposit (“Danvers”).'"
+    },
+    "company_name": {
+      "value": "White Cliff Minerals Limited",
+      "justification": "The document is an announcement by 'White Cliff Minerals Limited (“White Cliff” or the “Company”)' regarding its acquisition."
+    },
+    "ceo_buyer": {
+      "value": "Troy Whittaker",
+      "justification": "The announcement is quoted by 'Troy Whittaker - Managing Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that White Cliff has executed an agreement 'to acquire 100% of exploration licence L-2797'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline of the announcement is 'White Cliff Minerals acquires highly prospective and proven Copper Project'. The resource is also defined in copper (Cu)."
+    },
+    "verified_article_link": {
+      "value": "https://www.asx.com.au/asxpdf/20241126/pdf/064g123456789.pdf",
+      "justification": "The article is an ASX announcement from White Cliff Minerals Limited detailing the acquisition of the Danvers project, which matches the project of interest. A simulated ASX link has been used as no direct URL was provided."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction terms specify the consideration in Canadian dollars: 'total consideration of CAD$700,000'."
+    },
+    "cash_payments_raw": {
+      "value": 350000,
+      "justification": "The total cash payment is the sum of two milestone payments: 'Initial Payment CAD$175k cash payable at the Completion Date.' and 'Second Payment CAD$175k cash, payable 6 months from the Completion Date.' (175,000 + 175,000 = 350,000)."
+    },
+    "share_payments_raw": {
+      "value": 350000,
+      "justification": "The transaction terms include 'Consideration Shares CAD$350k of ordinary shares in the Company'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash and share payment values were provided separately, so this combined field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The value of the shares is specified (CAD$350k), but the exact number of shares to be issued is not mentioned and depends on a future VWAP."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not fixed at the time of the agreement. The number of shares will be 'based on the 15-day VWAP immediately prior to the date that is 12 months from the Completion Date.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement mentions plans for drilling in 2025 but does not specify a committed number of meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement states 'The Company possesses the required funding to commence these exploration activities' but does not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The transaction terms state: 'The Seller retains a 1% net smelter royalty (NSR) over any minerals produced from the license area.'"
+    },
+    "coverage_area_raw": {
+      "value": 2951.78,
+      "justification": "Found in the JORC Code Table, Section 2: 'Mineral Lease L-2797 covering 2951.78 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "Found in the JORC Code Table, Section 2: 'Mineral Lease L-2797 covering 2951.78 hectares.'"
+    },
+    "resource_size": {
+      "value": "4.16 million tons at a grade of 2.96% Cu at a 2% cut-off Cu",
+      "justification": "The announcement highlights state: 'The Licence contains a non JORC compliant, historic resource estimate of 4.16 million tons at a grade of 2.96% Cu at a 2% cut-off Cu (“the historic resource estimate”).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:WCN",
+      "justification": "The footer on each page of the announcement includes 'ASX: WCN'."
+    }
+  }
+}

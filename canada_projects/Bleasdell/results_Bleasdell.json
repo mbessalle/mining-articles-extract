@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bleasdell/98331.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bleasdell Lake",
+      "justification": "Dark Star Minerals Inc. ... is pleased to announce that it has entered into a non-binding Letter of Intent dated March 31, 2025 (\"LOI\") with two arms length vendors (together, the \"Vendors\") to acquire a 100% interest in the Bleasdell Lake uranium project (the \"Bleasdell Project\" or \"Project\")"
+    },
+    "company_name": {
+      "value": "Dark Star Minerals Inc.",
+      "justification": "DARK STAR MINERALS INC. (CSE: BATT) (FSE: P0W) (the \"Company\" or \"Dark Star\") is pleased to announce that it has entered into a non-binding Letter of Intent..."
+    },
+    "ceo_buyer": {
+      "value": "Marc Branson",
+      "justification": "\"said Marc Branson, President, Chief Executive Officer and a director of Dark Star.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "...to acquire a 100% interest in the Bleasdell Lake uranium project (the \"Bleasdell Project\" or \"Project\")"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Dark Star Announces Acquisition of Uranium Project with Historical Resource in Northern Saskatchewan"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/246886",
+      "justification": "The article describes the acquisition of the Bleasdell Project by Dark Star Minerals Inc., which matches the primary project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Dark Star Minerals Inc., is listed on the Canadian Securities Exchange (CSE: BATT) and the consideration includes payments in '$' and a share price in '$', implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 250000,
+      "justification": "The total cash payment is the sum of three tranches: \"a cash payment of $25,000 from Dark Star to the Vendors within five (5) days of the execution of the LOI; a cash payment of $75,000 from Dark Star to the Vendors within fifteen (15) days of receipt by Dark Star of approval from the Canadian Securities Exchange...; a cash payment of $150,000 from Dark Star to the Vendors within six (6) months of the entry into of a definitive agreement...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No explicit total dollar value for the share payment is provided. The consideration is described in terms of number of shares and a deemed price per share."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate components for cash and share payments, but not a single combined total value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 5000000,
+      "justification": "the issuance of 5,000,000 common shares (each, a \"Share\") of Dark Star..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "...at a deemed price per Share equal to the greater of: (i) $0.06 per Share; and (ii) the lowest permitted price per Share pursuant to the policies of the CSE..."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions \"Drill Permits are pending for 4,000 meters\", but this is not a binding commitment required as part of the acquisition terms, which are listed separately under \"The Letter of Intent\"."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction terms include \"the granting a 2.0% net smelter return royalty on the Project in favour of the Vendors\"."
+    },
+    "coverage_area_raw": {
+      "value": 515,
+      "justification": "...the Bleasdell Lake uranium project (the \"Bleasdell Project\" or \"Project\") consisting of over 515 Hectares in Northern Saskatchewan, Canada..."
+    },
+    "coverage_area_unit": {
+      "value": "Hectares",
+      "justification": "...consisting of over 515 Hectares in Northern Saskatchewan, Canada..."
+    },
+    "resource_size": {
+      "value": "620,700 lbs of U3O8",
+      "justification": "The text states: \"The Project has had significant historic exploration and development including a historic deposit consisting of 620,700 lbs of U3O8...\" The article clarifies this is a historical estimate and not a current mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE: BATT",
+      "justification": "The buyer is identified in the first paragraph as \"DARK STAR MINERALS INC. (CSE: BATT)\"."
+    }
+  }
+}

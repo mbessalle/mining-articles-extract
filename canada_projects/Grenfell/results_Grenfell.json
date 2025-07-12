@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Grenfell/50403.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Grenfell",
+      "justification": "The article is titled 'Record Resources Completes Acquisition of Grenfell Gold Property'."
+    },
+    "company_name": {
+      "value": "Record Resources Inc.",
+      "justification": "The acquiring company is identified as 'Record Resources Inc. (TSXV: REC)' in the first sentence of the article."
+    },
+    "ceo_buyer": {
+      "value": "Michael C. Judson",
+      "justification": "The contact person for the buyer is listed as 'Michael C. Judson, Chairman & CEO Record Resources Inc.'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Record Resources acquired an 'option agreement', but does not specify the percentage of interest that can be earned under this option."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is referred to as the 'Grenfell gold property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/201437",
+      "justification": "The article is titled 'Record Resources Completes Acquisition of Grenfell Gold Property', which directly pertains to the specified project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Record Resources Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and the share price is denoted with a '$' symbol. 'Record Resources Inc. (TSXV: REC) ... at a price of $0.05 per share.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was paid entirely in shares, with no cash component mentioned for the transaction itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, this field is null because the transaction details are provided as a number of shares and a price per share, which are populated in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "As per the extraction hierarchy, this field is null because the transaction details are provided as a number of shares and a price per share."
+    },
+    "amount_of_shares_issued": {
+      "value": 39999984,
+      "justification": "Record Gold Corp, the private company, has agreed to exchange its option agreement with Pelangio Exploration Inc. (PX.V) in return for 39,999,984 million shares of Record Resources Inc."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants were mentioned in the context of a separate private placement financing, not as part of the acquisition consideration. The text states: 'In other news, the company reports closing a second tranche of its private placement... The company has issued 493,000 common shares... and 493,000 common share warrants...'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction involved acquiring an 'option agreement', but the payment was made in shares, not stock options."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The shares for the acquisition were issued 'at a price of $0.05 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 6.7,
+      "justification": "The Grenfell gold property is comprised of 38 mining cells and eight leased claims covering an area of approximately 6.7 square kilometres..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The Grenfell gold property is comprised of 38 mining cells and eight leased claims covering an area of approximately 6.7 square kilometres..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:REC",
+      "justification": "The buyer is identified in the text as 'Record Resources Inc. (TSXV: REC)'."
+    }
+  }
+}

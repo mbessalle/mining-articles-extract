@@ -1,0 +1,82 @@
+--- Article Metadata ---
+Project Name: Hopkins
+Company Name: Primary Hydrogen Corp.
+Exchange: TSXV
+Ticker: HDRO
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+11.25.2024, 9:00:00 PM
+
+# Primary Hydrogen Acquires Hopkins Project in Ontario
+
+Vancouver, British Columbia--(Newsfile Corp. - November 25, 2024) - Primary Hydrogen Corp. (TSXV: HDRO) ("Primary Hydrogen" or the "Company"), a natural hydrogen exploration company, is pleased to announce the proposed acquisition of the Hopkins Hydrogen Project ("Hopkins", the "Project", or "Hopkins H2 Project"). The Hopkins hydrogen project is comprised of 31 mineral claims covering an area of 6,920 hectares (69.2 km2) located 35 kilometres north of Kapuskasing, Ontario.
+
+"The acquisition of the Hopkins H2 Project demonstrates the continued commitment to our growth strategy of assembling a diversified portfolio of highly-prospective hydrogen projects throughout Canada," commented Benjamin Asuncion, CEO of Primary Hydrogen. "Grounded on solid geologic fundamentals and leveraging off of extensive exploration in the region, this project has the potential to host numerous sources of naturally-occurring hydrogen. Additionally, the presence of forest rings on the margins of identified intrusive complexes and along major NE trending faults highlights the potential of gas or fluid percolation to the surface."
+
+**Hopkins H****2****Project**
+
+The Hopkins H2 Project is comprised of 31 mineral claims covering an area of 6,920 hectares (69.2 km2) located 35 kilometres north of Kapuskasing, Ontario. The project is accessible via the Trans Canada Highway and has an extensive network of secondary gravel and logging roads throughout. Based on local and regional geology, the potential for naturally-occurring hydrogen (NOH) is present through both serpentinization and radiolysis, which is further encouraged by the presence of a number of 'forest ring' features which may be indicative of gas and fluid percolation to the surface.
+
+The exploration target on the project are structures near alkali intrusives which are associated with the mid-continent rift. The Project is adjacent to the Clay-Howells Alkali carbonatite intrusive, which is host to a rare earth element, thorium and iron resource1. Given the radiogenic nature of the intrusive, this has the potential to produce naturally occurring hydrogen (NOH) through radiolysis. The intrusives are associated with northeast trending regional faults that are likely linked to their emplacement, which may serve as a conduit for deeper seeded fluids and gasses. Additionally, the presence of magnetite or iron-rich rocks such as olivine have the potential to generate hydrogen through the interaction with water during oxidation and radiolysis.
+
+[](https://images.newsfilecorp.com/files/8398/231220_e357271cf43a7833_001full.jpg)
+
+**Figure 1: HOPKINS PROJECT MAP**
+
+To view an enhanced version of this graphic, please visit:  
+<https://images.newsfilecorp.com/files/8398/231220_e357271cf43a7833_001full.jpg>
+
+R. Tim Henneberry, P.Geo. (BC) and a consultant to Primary Hydrogen Corp. is the Qualified Person under National Instrument 43-101 who has reviewed and approved the technical content of this news release.
+
+**Transaction Terms**
+
+Under the terms of the Mining Claims Purchase Agreement (the "Acquisition Agreement"), the Company is acquiring a 100% interest in the Hopkins H2 Project for consideration of C$96,000 and 450,000 common shares. The Vendors have been granted a 1.5% net smelter returns royalty (NSR) on the Hopkins H2 Project of which half (0.75%) can be repurchased by the Company for C$750,000. The proposed acquisition remains subject to customary conditions of closing, including the approval of the TSX Venture Exchange. The common shares issued under the Acquisition Agreement will be subject to a four-month statutory hold period in accordance with applicable securities laws.
+
+**About Primary Hydrogen Corp.**
+
+Primary Hydrogen Corp. is a mineral exploration company currently focused on its Blakelock hydrogen project in Ontario and Arthur Lake Copper project in British Columbia. The Blakelock Hydrogen Project is comprised of 109 mineral claims covering 2,207 hectares in the Larder Lake Mining Division of Northern Ontario. The Arthur Lake Copper Project is comprised of 1,050 hectares near Vanderhoof, British Columbia.
+
+\--
+
+**FOR FURTHER INFORMATION PLEASE CONTACT:**
+
+Ben Asuncion  
+Chief Executive Officer  
+Primary Hydrogen Corp.  
+Tel: 604-377-1597  
+Email: [ben@primaryh2.com](mailto:ben@primaryh2.com)
+
+ _Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+**Forward-Looking Information**
+
+ _This news release includes certain statements and information that may constitute "forward-looking information" within the meaning of applicable Canadian securities laws. Generally, forward-looking statements and information can be identified by the use of forward-looking terminology such as "intends" or "anticipates", or variations of such words and phrases or statements that certain actions, events or results "may", "could", "should", "would" or "occur". All statements in this news release, other than statements of historical facts, including statements regarding future estimates, plans, objectives, timing, assumptions or expectations of future performance are forward-looking statements and contain forward-looking information, including, but not limited to, the completion of the Proposed Transaction and the presence of naturally occurring hydrogen on the Hopkins H_ _2_ _Project. Forward-looking statements are based on certain material assumptions and analysis made by the Company and the opinions and estimates of management as of the date of this news release, including, but not limited to the assumption that all conditions to completion of the acquisition of the Hopkins H_ _2_ _Project will be satisfied, including TSX Venture Exchange approval. These forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of the Company to be materially different from those expressed or implied by such forward-looking statements or forward-looking information, including, but not limited to: the risk that the TSX Venture Exchange will not approve the proposed acquisition, risks associated with exploration of Hopkins H_ _2_ _Project including, without limitation, risks associated with the evolving legal landscape on the exploration and extraction of hydrogen in the Province of Ontario, including the risk that the Province of Ontario may determine that the exploration and exploitation of hydrogen is not properly characterized as the exploration of and exploitation of a mineral, as well the inherent risks associated with the mining industry and the results of exploration activities and development of mineral properties, stock market volatility and capital market fluctuations, general market and industry conditions, as well as those risk factors discussed in the Company's most recently filed management's discussion & analysis._
+
+__________________________  
+1 NI 43-101 Technical Report on the Clay-Howells Fe-REE Project, Ontario, Canada by Tetra Tech Wardrop dated September 26, 2011
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/231220](https://api.newsfilecorp.com/redirect/eLMKmuo0po)
+
+### Project Name
+
+[Hopkins Project](/?gid=9102)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.42             $  Chg: 0.005
+Open: 0.415             High: 0.43
+Beta: 1.10478             Year High: 0.66
+Market Cap: 16.44m       PB Ratio: 4.80
+EPS: -0.08              Average Volume (30 Day): 205.66k
+Volume: 469.41k           % Chg: 1.20%
+Prev. Close: 0.415      Low: 0.415
+VWAP: 0.41754             Year Low: 0.06
+Total Shares: 39.14m     Shares Out: 42.45m
+Escrow Shares: 241.95k    Float: 29.83m
+Exchange: TSXV

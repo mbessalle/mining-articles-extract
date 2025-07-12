@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Lac La Motte/45543.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lac La Motte",
+      "justification": "The text announces an option to acquire the mineral claims comprising the 'Lac La Motte ‎Project in the mining area of Abitibi, Quebec'."
+    },
+    "company_name": {
+      "value": "Eureka Lithium Corp.",
+      "justification": "The press release is issued by 'Eureka Lithium Corp. (CSE: ERKA) (OTCQB: UREKF) (FSE: S580) (\"Eureka Lithium\" or \"Eureka\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jeffrey Wilson",
+      "justification": "The text quotes 'Eureka's President & CEO, Jeffrey Wilson'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for an 'option (\"Option\") to acquire from Medaro Mining Corp. (\"Optionor\") a 100% undivided interest in and to the mineral claims...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The announcement is for 'Drill-Ready and Permitted Lithium Properties' and the project is described as a 'lithium project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/190361",
+      "justification": "The article is a press release from Eureka Lithium Corp. detailing the letter of intent to option the Lac La Motte project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Eureka Lithium Corp., is listed on the Canadian Securities Exchange (CSE), implying the currency for the transaction is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 95000,
+      "justification": "The total cash payment is the sum of two payments to the underlying owner: 'Paying, on behalf of the Optionor, $45,000 in cash to the underlying owner... by May ‎‎6, 2024' and 'Paying, on behalf of the Optionor, $50,000 in cash to the Underlying Owner by May ‎‎6, 2025'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves the issuance of shares, but no explicit total dollar value for the shares is provided. The number of shares and a fallback price are available, so those fields are populated instead, per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The total number of shares to be issued is the sum of three tranches: 200,000 on the effective date, 300,000 within 12 months, and 1,000,000 within 24 months. 'Issuing to the Optionor 200,000 common shares...'; 'Issuing to the Optionor 300,000 Common Shares...'; 'Issuing to the Optionor 1,000,000 Common Shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any payments in the form of stock options as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.19,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.19'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not mention an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1000000,
+      "justification": "The total exploration commitment is the sum of two tranches: '$500,000 by the ‎date that is 12 months from the Effective Date' and 'additional exploration expenses in respect of the Property totalling $500,000 by the date that is 24 months from the Effective Date'."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The property is 'subject to a 1% net smelter returns royalty in favor of the Underlying Owner... (\"NSR\").' This royalty is an encumbrance on the acquired property."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text mentions '1,408 sq. km' but explicitly states this is for Eureka's other projects in the Nunavik region, not the Lac La Motte project which is in Abitibi. No area is given for Lac La Motte."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was found in the source text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides details of drill intercepts (e.g., 'Drill Hole MD22-08 Intersected two pegmatites: Upper 1.33 m wide with 1.49% Li2O'), but does not contain a formal mineral resource estimate with a total mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:ERKA",
+      "justification": "The buyer is identified as 'Eureka Lithium Corp. (CSE: ERKA)' at the beginning of the press release."
+    }
+  }
+}

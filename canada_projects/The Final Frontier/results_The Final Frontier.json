@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/The Final Frontier/29647.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "The Final Frontier",
+      "justification": "The article is titled 'Tearlach Announces Acquisition of Strategic Property Extension to The Final Frontier Project in Ontario' and the text states this acquisition is 'adding to our Final Frontier Project'."
+    },
+    "company_name": {
+      "value": "Tearlach Resources Limited",
+      "justification": "The acquiring company is identified as 'Tearlach Resources Limited (TSXV:TEA) (OTC:TELHF) (FRANKFURT:V44) (“Tearlach” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Morgan Lekstrom",
+      "justification": "The text states, 'Morgan Lekstrom, CEO of Tearlach stated...' and is signed 'Morgan Lekstrom Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states: 'Pursuant to the Purchase Agreement, Tearlach acquires a 100% interest in the Pakwan Extension claim block...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company is described as being 'engaged in the acquisition, exploration and development of lithium projects' and the properties are 'located in the lithium hub of northwestern Ontario, Canada'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the acquisition of the Pakwan Extension, which is explicitly described as an addition to 'The Final Frontier Project'. No URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction details specify the payment is a 'cash sum of $20,650 Canadian.'"
+    },
+    "cash_payments_raw": {
+      "value": 20650,
+      "justification": "The transaction is described as: '...for the cash sum of $20,650 Canadian.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention a cash payment; there is no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value is provided, so this field is not applicable according to the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not include any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not include any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 452,
+      "justification": "The acquired property 'Consists of 23 cell claims and 452 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The acquired property 'Consists of 23 cell claims and 452 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the acquired Pakwan Extension or the broader Final Frontier Project. It only references deposits on adjacent properties owned by Frontier Lithium."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TEA",
+      "justification": "The buyer is identified as 'Tearlach Resources Limited (TSXV:TEA)' and the detailed quote section confirms 'Exchange: TSXV'."
+    }
+  }
+}

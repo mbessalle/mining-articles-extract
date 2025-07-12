@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/McLaughlin Lake/33731.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "McLaughlin Lake",
+      "justification": "The article is titled 'New Age Metals Inc. Continues to Expand Lithium Portfolio with Acquisition of 19,321 ha at McLaughlin Lake Li Project, Manitoba'."
+    },
+    "company_name": {
+      "value": "New Age Metals Inc.",
+      "justification": "The acquiring company is identified as 'New Age Metals Inc. (TSXV:NAM); (OTC:NMTLF); (FSE:P7J2) (“NAM” or “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Harry G. Barr",
+      "justification": "The CEO is identified in the sign-off: 'On behalf of the Board of Directors “Harry Barr” Harry G. Barr Chairman and CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states 'All the claims are held by Lithium Canada Development, a 100% owned Lithium Division of New Age Metals,' implying 100% interest in the acquired claims."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is referred to as the 'McLaughlin Lake Li Project' and the article discusses the acquisition as part of expanding the company's 'Lithium Portfolio'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, New Age Metals Inc., is listed on the TSX Venture Exchange (TSXV), which is a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash consideration for the acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention any combined cash and share consideration for the acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrants as part of this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any options as part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a share price associated with this transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article outlines exploration plans but does not specify a commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions exploration plans but does not state a specific monetary exploration commitment for the McLaughlin Lake project. It notes the company is seeking a partner for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 19321,
+      "justification": "The text states the company 'has acquired 19,321 hectares of mineral exploration license (MEL) area at McLaughlin Lake, Manitoba.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states the company 'has acquired 19,321 hectares of mineral exploration license (MEL) area at McLaughlin Lake, Manitoba.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical showings and assay results (e.g., 'channel sample taken across the main dyke assayed 1.32% Li2O over 1.52m') but does not provide a quantified mineral resource estimate in terms of mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:NAM",
+      "justification": "The company is identified in the text as 'New Age Metals Inc. (TSXV:NAM)'."
+    }
+  }
+}

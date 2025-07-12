@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Arlington/78502.txt",
+    "canada_projects/Arlington/78563.txt",
+    "canada_projects/Arlington/81193.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Arlington",
+      "justification": "The primary project is identified in the headline: 'Equity Metals to Acquire 100% of the Arlington Gold Property, British Columbia'."
+    },
+    "company_name": {
+      "value": "Equity Metals Corporation",
+      "justification": "The acquiring company is identified in the first sentence: 'Equity Metals Corporation (TSXV: EQTY) (\"Equity\" or the \"Company\") reports it has signed a letter agreement with Origen Resources Inc. (\"Origen\")...'"
+    },
+    "ceo_buyer": {
+      "value": "Joseph Anthony Kizis, Jr.",
+      "justification": "The CEO of the buyer, Equity Metals Corporation, is listed at the end of the press release: '\"Joseph Anthony Kizis, Jr.\" Joseph Anthony Kizis, Jr., P.Geo President, Director, Equity Metals Corporation'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Equity Metals has the option to earn a 100% interest in the property: 'Equity may earn a 100% interest in the Arlington Property...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is explicitly referred to as a gold property in the headline: 'Equity Metals to Acquire 100% of the Arlington Gold Property'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/229395",
+      "justification": "The article is titled 'Equity Metals to Acquire 100% of the Arlington Gold Property, British Columbia' and the content details the acquisition terms for the Arlington Property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$' and the acquiring company, Equity Metals Corporation, is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 130000,
+      "justification": "The total cash payment is $130,000, composed of an initial $80,000 and a future $50,000 payment. 'Pursuant to the Arlington Agreement, the Company has now paid Origen $80,000... In order to exercise its option under the Arlington Agreement, the Company must also meet the following obligations within one year: (i) pay Origen $50,000'."
+    },
+    "share_payments_raw": {
+      "value": 400000,
+      "justification": "The total share consideration is valued at $400,000, consisting of two tranches: 'issuing shares valued at $200,000 within 7 days of Regulatory Approval; and issuing additional shares valued at $200,000... by the first anniversary of Regulatory Approval.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2944686,
+      "justification": "The total is the sum of the initial 944,686 shares and the future 2,000,000 shares. 'has issued to Origen 944,686 common shares of Equity... In order to exercise its option... the Company must also... (ii) issue to Origen 2,000,000 shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.23,
+      "justification": "The transaction terms mention the number of shares issued but not an explicit price per share for the deal. Using the last traded price as a fallback, as seen in the detailed quote for Equity Metals: 'Last: 0.23'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 250000,
+      "justification": "A condition of the agreement is 'incurring exploration expenditures of $250,000 on the Arlington Property'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Origen, will retain a royalty which the buyer is acquiring the property subject to: 'Origen will retain a royalty of 2% of net smelter returns...'"
+    },
+    "coverage_area_raw": {
+      "value": 3583.89,
+      "justification": "The property consists of 'nine claims, totaling 3,583.89 ha, located within the Boundary District of south-central British Columbia (the \"Arlington Property\")'."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: 'nine claims, totaling 3,583.89 ha'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents describe the Arlington property in terms of exploration targets, soil anomalies, and historical occurrences, but do not provide a quantified mineral resource estimate for the project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EQTY",
+      "justification": "The buyer's ticker and exchange are provided in the first sentence of the press release: 'Equity Metals Corporation (TSXV: EQTY) (\"Equity\" or the \"Company\")'."
+    }
+  }
+}

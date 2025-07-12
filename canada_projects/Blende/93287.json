@@ -1,0 +1,129 @@
+{
+  "article": {
+    "id": 93287,
+    "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=5edeacdc1f348f745e3bec5b&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2020-06-08",
+    "title": "BLIND CREEK – NO LONGER GRANTING OPTIONS",
+    "description": "\nBLIND CREEK RESOURCES LTD.  (BCK: TSX-V) \nSuite 804 - 750 West Pender Street Vancouver, B.C. V6C 2T7 \nTelephone: 604-682-2928 \nwww.blindcreekresources.com \n \n \n \n BLINDCREEKRESOURCES.com  \nBCK : TSX.V      \n \n \n \n BLIND CREEK  NO LONGER GRANTING OPTIONS \n  \n \n \n \nJune 8, 2020 - Vancouver, BC  Blind Creek Resources Ltd. (the Company) (TSXV: BCK) announces it is no \nlonger proceeding with the granting of 1,000,000 stock options (at $0.05) that were previously announced on a \nNews Release dated May 19, 2020.  \n \n \nAbout Blind Creek Resources Ltd \n \nBlind  Creek  is  a  Vancouver-based  junior  resource  company  focused  on  lead-zinc-silver  project  acquisition,  exploration \nand development. The Company's flagship property is the Blende Deposit  in north-central  Yukon.  The property  is 100% \nowned,  winter-road  accessible  5,345  ha  and  situated  63  km  northeast  of  Keno  Hill,  Yukon.   The  property  is  the  largest \ncarbonate-hosted Zn-Pb-Ag deposit in Yukon and one of the largest undeveloped Zn-Pb-Ag deposits in Western Canada.  \nThe property has had more than $9.2 M in past exploration ($5.2M by Blind Creek); including 25,195 meters of drilling in \n132 drill holes. \n \n \nOn Behalf of the Board of Directors  \n \nCONTACT INFORMATION  \nBlind Creek Resources Ltd Corporate Inquiries: \n\"Glen Macdonald\"                                                      Dale Dobson: : (604) 682-2928 \nMr. Glen C. Macdonald, P. Geo                                 Email:  dale.dobson@klondikesilver.com \nDirector \n \n \nNeither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies \nof the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release. \n \n\n\n",
+    "search_terms": "Blende,Blende Silver Corp.,BAG",
+    "master_gid": 726,
+    "date": "2020-06-08T21:25:48.000Z",
+    "tags": "Canada|Yukon||Silver,Zinc|Financials,Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 44,
+    "provider": "SEDAR",
+    "excerpt": "BLIND CREEK RESOURCES LTD. (BCK: TSX-V) Suite 804 - 750 West Pender Street Vancouver, B.C. V6C 2T7 Telephone: 604-682-2928 www.blindcreekresources.com BLINDCREEKRESOURCES.com BCK : TSX.V BLIND CREEK  NO LONGER GRANTING OPTIONS June 8, 2020 - Vancouver, BC  Blind Creek Resources Ltd. (the Company) (TSXV: BCK) announces it is no",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition",
+      "Financials"
+    ],
+    "ftp_filename": null,
+    "company_name": "Blende Silver Corp.",
+    "exchange": "TSXV",
+    "root_ticker": "BAG",
+    "project_name": "Blende",
+    "gid": 726,
+    "location": "Yukon, Canada",
+    "plan_id": null
+  },
+  "articleProject": {
+    "gid": 726,
+    "project_name": "Blende",
+    "location": "Yukon, Canada"
+  },
+  "articleExchange": "TSXV",
+  "articleCompanyId": 44,
+  "articleTicker": "BAG",
+  "articleCompanyName": "Blende Silver Corp.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 44,
+      "gid": 726,
+      "project_name": "Blende",
+      "location": "Yukon, Canada"
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 93293,
+      "company_id": 44,
+      "title": "Blende Silver Corp. Appoints Glen D. Harder as Director",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=6440539c12ae1a51173f744d&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2023-04-19",
+      "date": "2023-04-19T20:48:28.000Z",
+      "hidden": false
+    },
+    {
+      "id": 93292,
+      "company_id": 44,
+      "title": "Blende Silver Corp. at Vancouver Resource Investment Conference",
+      "link": "https://app.quotemedia.com/data/downloadFiling?webmasterId=104408&ref=63bf4b332bb8d0670d73c950&type=PDFC&formType=002-002-001089-003001&formDescription=News+release&dateFiled=2023-01-11",
+      "date": "2023-01-11T23:50:11.000Z",
+      "hidden": false
+    },
+    {
+      "id": -46000,
+      "company_id": 44,
+      "title": "Blende Silver Corp. Private Placement Closed",
+      "link": "https://www.thenewswire.com/press-releases?id=1knDFpPl4",
+      "date": "2022-08-05T21:06:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 23897,
+      "company_id": 44,
+      "title": "Blende Silver Corp. Private Placement  30 Day Extension",
+      "link": "https://www.thenewswire.com/press-releases?id=1AdyF2923",
+      "date": "2022-07-07T18:39:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 22933,
+      "company_id": 44,
+      "title": "Blende Silver Corp. Private Placement  Tranche One Closes",
+      "link": "https://www.thenewswire.com/press-releases?id=1AqRFOKqP",
+      "date": "2022-06-08T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 6428,
+      "company_id": 44,
+      "title": "Blende Silver Corp. Announces Private Placement",
+      "link": "https://www.thenewswire.com/press-releases?id=1kogF5VgD",
+      "date": "2022-04-26T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": -13472,
+      "company_id": 44,
+      "title": "Non-Brokered Private Placement Closed Raising Total Gross Proceeds of $801,000",
+      "link": "https://www.thenewswire.com/press-releases/1AwGFOmVw-non-brokered-private-placement-closed-raising-total-gross-proceeds-of-801000.html",
+      "date": "2022-01-17T17:30:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 2834,
+      "company_id": 44,
+      "title": "Blende Silver Corp Closes Non-Brokered Private Placement Tranche Raising Gross Proceeds of $765,000",
+      "link": "https://www.thenewswire.com/press-releases/1BKRFKbox-blende-silver-corp-closes-non-brokered-private-placement-tranche-raising-gross-proceeds-of-765000.html",
+      "date": "2021-12-29T15:15:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 2849,
+      "company_id": 44,
+      "title": "Blende Silver Corp. - Private Placement Extension",
+      "link": "https://www.thenewswire.com/press-releases/1BKRFKEme-blende-silver-corp-private-placement-extension.html",
+      "date": "2021-12-14T15:45:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 2874,
+      "company_id": 44,
+      "title": "Blende Silver Corp. - Private Placement ",
+      "link": "https://www.thenewswire.com/press-releases/1Be9FE66q-blende-silver-corp-private-placement.html",
+      "date": "2021-11-19T15:20:00.000Z",
+      "hidden": false
+    }
+  ]
+}

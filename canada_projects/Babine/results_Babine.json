@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Babine/78487.txt",
+    "canada_projects/Babine/82199.txt",
+    "canada_projects/Babine/89488.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Babine",
+      "justification": "The documents consistently refer to the project as the Babine project. For example: \"Durango Expands Holdings at Babine Copper Project & Completes Field Work\" and \"The entirety of the Babine project now consists of 4 claim blocks...\""
+    },
+    "company_name": {
+      "value": "Quantum Critical Metals Corp.",
+      "justification": "The authoritative company name provided is Quantum Critical Metals Corp. The documents confirm a name change from Durango Resources Inc., with a news headline stating: \"Durango to Change Name to Quantum Critical Metals\"."
+    },
+    "ceo_buyer": {
+      "value": "Marcy Kiesman",
+      "justification": "The CEO is identified in multiple articles: \"Marcy Kiesman, President of Durango commented...\" and \"Marcy Kiesman, CEO of Durango Resources, commented...\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company is expanding its 100% owned project through staking. \"The Company’s holdings currently include a 100% interest in a strategically located group of properties in the Babine Copper-Gold Porphyry District...\" and \"The Company has expanded its 100%-owned Babine South gold-silver-copper-zinc exploration project...\"."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is repeatedly referred to with copper as a primary commodity. For example: \"Durango Expands Holdings at Babine Copper Project & Completes Field Work\" and \"Durango’s copper claims are in the Babine copper-gold porphyry district...\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Quantum Critical Metals Corp. (formerly Durango Resources Inc.), is listed on the Canadian TSX Venture Exchange (TSXV), implying Canadian dollars. The separate transaction by Hi-View Resources mentions GST, a Canadian tax."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was mentioned for the expansion by Durango/Quantum. The transaction was an expansion of holdings via staking. The $10,000 cost mentioned in the documents refers to a separate transaction by a different company, Hi-View Resources Inc.: \"Hi-View Resources Acquires Mineral Claims... directly through staking the claims, using an arm’s length consulting service at a total cost of $10,000.00 plus GST.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were mentioned as part of the transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payments were mentioned as part of the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were issued as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were issued as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value was mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4635,
+      "justification": "The first article states the total size of the project after expansion: \"The entirety of the Babine project now consists of 4 claim blocks totaling 4,635 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the same sentence as the area: \"...totaling 4,635 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not contain a mineral resource estimate for the Babine project. They mention historical production and that information has not been verified: \"None of the historical information in the release has been verified yet by the Company and should not be relied upon.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LEAP",
+      "justification": "The authoritative ticker is LEAP and the exchange is TSXV. The company was formerly Durango Resources Inc. (TSX.V: DGO), and news headlines confirm the change to Quantum Critical Metals Corp. The detailed quote section for the company also lists the exchange as 'Exchange: TSXV'."
+    }
+  }
+}

@@ -1,0 +1,113 @@
+--- Article Metadata ---
+Project Name: Nachicapau
+Company Name: Midland Exploration Inc.
+Exchange: TSXV
+Ticker: MD
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.27.2025, 7:31:00 PM
+
+# Midland and SOQUEM Stake 104 Mining Claims Following the Discovery of New Copper Occurrences in the Labrador Trough
+
+MONTREAL, Feb. 27, 2025 (GLOBE NEWSWIRE) -- Midland Exploration Inc.**(“Midland”)** **(TSX-V:  MD)**, in partnership with SOQUEM Inc.**(“SOQUEM”)** , is pleased to announce the discovery of new copper showings in the Labrador Trough. For many years, part of the exploration work conducted under the Strategic Alliance (the “Alliance”) in Nunavik, Quebec, has focused on unexplored regions within the area of interest. In 2024, efforts were particularly focused on the central part of the Labrador Trough, identified as prospective for the discovery of economic copper mineralization. This reconnaissance program led to the discovery of several copper showings along a northwest-southeast-trending magnetic axis, over a distance of more than 3 km south of Dunphy Lake. This discovery prompted the staking of 104 mining claims along this prospective axis.
+
+**_Highlights_****:**
+
+  * **_Discovery of new copper occurrences spread over a distance of 3.7  km. Chalcopyrite mineralization is observed in multiple fractures and quartz-calcite veins within an altered mafic intrusive of the Wakuach Suite._**
+  * **_16 samples collected on outcrops or boulders detached from the outcrops, yield grades >0.1% Cu, and 2 samples graded >1% Cu, reaching up to 3.73% Cu. These samples also exhibit anomalous values for several elements such as gold, cobalt or molybdenum._**
+  * **_A block of 104 mining claims was staked to cover the prospective axis associated with this discovery._**  
+
+
+
+
+A 2-day reconnaissance campaign took place in the early summer of 2024 in the central part of the Labrador Trough (Figure 1a, 1b). During this campaign, 42 rock samples were collected on outcrops or in boulders detached from the latter, leading to the discovery of chalcopyrite mineralization in fractures and quartz-calcite veins within a mafic intrusive of the Wakuach Suite. Pervasive and locally intense albite and potassic feldspar alteration was observed, as well as hematite and epidote alteration associated with fractures. Best grades include values of 3.73% Cu and 1.94% Cu in the northernmost part of the area, and 0.54% Cu further south (Figure 2). Several other elements such as gold, molybdenum and cobalt also exhibit anomalous values in these samples. The extent of this mineralization is currently unknown. The mineralized samples are distributed along a northwest-southeast-trending magnetic axis over a distance of 3.7 km. The major Argencourt thrust fault, associated with several copper deposits in the central Labrador Trough, is located 4 km further west.
+
+Best results obtained in grab samples are listed in the table below.
+
+ 
+
+**Sample Number**| **UTM_E**| **UTM_N**| **Type**| **Cu_pct**| **Au_ppb**| **Co_ppm**  
+---|---|---|---|---|---|---  
+C1456532| 586634.95| 6202501.89| Detached boulder| **3.73**|  65| 19  
+C1456534| 586634.19| 6202502.05| Detached boulder| **1.94**|  52| 143  
+C1456132| 586523.59| 6202663.21| Boulder| 0.94| 7| 43  
+C1456130| 586645.88| 6202492.37| Outcrop| 0.81| 45| 37  
+C1456535| 586563.37| 6202634.1| Outcrop| 0.58| 22| 166  
+C1456144| 589055.23| 6200116.25| Outcrop| 0.54| 18| 41  
+C1456424| 586575.68| 6202624.37| Outcrop| 0.51| 7| 188  
+C1456312| 586659.74| 6202481.14| Outcrop| 0.51| 7| 41  
+C1456533| 586633.48| 6202499.98| Detached boulder| 0.50| 6| 24  
+C1456034| 589098.86| 6200071.13| Outcrop| 0.47| 15| 57  
+C1456131| 586647.36| 6202496.29| Outcrop| 0.46| 14| 353  
+C1456145| 589046.55| 6200117.93| Outcrop| 0.42| 15| 29  
+C1456435| 587023.81| 6202043.52| Outcrop| 0.37| 12| 250  
+C1456025| 586780.66| 6202321.96| Outcrop| 0.26| <5| 46  
+C1456035| 589077.26| 6200047.87| Outcrop| 0.14| 9| 24  
+C1456314| 586846.09| 6202350.18| Outcrop| 0.11| <5| 49  
+  
+  
+This discovery prompted the staking of 104 mining claims that form a 50.2-km2 claim block representing a new area of interest, named Dunphy South, under the Alliance. This area, located approximately 60 kilometres south of the Nachicapau property, enhances the copper potential of the central Labrador Trough.
+
+In 2025, Midland and SOQUEM will continue their efforts to assess the economic potential of these discoveries. Surface exploration work including rock and soil sampling is planned in order to establish the significance of these copper occurrences.
+
+**Quality Control**
+
+Rock samples from the project are analyzed at Actlabs laboratories in Ancaster, Ontario, by ICP-MS with four-acid digestion for metals and by standard fire assay on 50-gram fractions with atomic absorption finish for gold. Exploration programs are designed, and results are interpreted by Qualified Persons employing a Quality Assurance/Quality Control program consistent with industry best practices, including the use of standards and blanks for every 20 samples.
+
+_Cautionary Statements_  
+Grab samples are selective by nature and may not be representative of mineralized zones. Furthermore, the true thickness of mineralized intervals cannot be determined with the information currently available.
+
+**About the Strategic Alliance with SOQUEM**
+
+The Strategic Alliance enables Midland and SOQUEM to combine their efforts and expertise to jointly explore the excellent potential for gold and strategic minerals of the vast and underexplored Labrador Trough. The area of interest defined under the Alliance is located in Nunavik. Geologically, it covers the Labrador Trough, the Rachel-Laporte Zone and the Kuujjuaq Domain. The area of interest extends from Schefferville in the south up to approximately 100 km northwest of Kangirsuk. This agreement calls for investments in exploration reaching up to $5 million over a period of four (4) years, with a firm commitment of $2 million within the first two (2) years of the agreement. In March 2023, a joint venture agreement between Midland and SOQUEM was executed to define the terms governing exploration and development work on the mining claims forming the Nachicapau property. In 2025, the Alliance will continue its exploration work in the Labrador Trough and on the Nachicapau project with a joint annual budget of $1 million (50% Midland and 50% SOQUEM).
+
+**About SOQUEM**
+
+SOQUEM, a subsidiary of Investissement Québec, is dedicated to promoting the exploration, discovery and development of mining properties in Quebec. SOQUEM also contributes to maintaining a strong economy in Quebec’s regions. A proud partner and ambassador for the development of Quebec’s mineral wealth, SOQUEM relies on innovation, research and strategic minerals to be well positioned for the future.
+
+**About Midland**
+
+Midland targets the excellent mineral potential of Quebec to make the discovery of new world-class deposits of gold and critical metals. Midland is proud to count on reputable partners such as SOQUEM Inc., BHP Canada Inc., Rio Tinto Exploration Canada Inc., Barrick Gold Corporation, Wallbridge Mining Company Ltd, Probe Gold Inc., Agnico Eagle Mines Limited, Electric Elements Mining Corp., Nunavik Mineral Exploration Fund and Abcourt Mines Inc. Midland prefers to work in partnership and intends to quickly conclude additional agreements in regard to newly acquired properties. Management is currently reviewing other opportunities and projects to build up the Company portfolio and generate shareholder value.
+
+This press release was reviewed and approved by Richard D. St-Cyr, P.Geo., Exploration Director for Midland and Qualified Person as defined by NI 43-101.
+
+For further information, please consult Midland’s website or contact:
+
+Gino Roger, President and Chief Executive Officer  
+Tel.: 450 420-5977  
+Fax: 450 420-5978  
+Email: [info@midlandexploration.com](https://www.globenewswire.com/Tracker?data=sxdEwmjETGoL-qcl-zItY4U9jhVEmJvHKXq5bptMEb_AGb--gJZj56zqNZE-NRc5dK-cKrzDgzZ-y6jnGywWjlRcwLcu1NRazv8-1PPGaOpm_ICnabLzxBz0tQOLxLBF "info@midlandexploration.com")  
+Website: [https://www.midlandexploration.com/](https://www.globenewswire.com/Tracker?data=xYBzADohk_0-UUGbmZ2eTjdbvEAJ8ScmEYfNhSL1HJ7CYlOWPnsb29h7rWkYog2VxdUrK8sJES7599QLxpTeFpy8mbrmvaDMn9YbjI7c7YMb20Ahg1Z6jSluhqfun6Bu)
+
+_Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in the policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release._
+
+_This press release may contain forward-looking statements that are subject to known and unknown risks and uncertainties that could cause actual results to vary materially from targeted results. Such risks and uncertainties include those described in Midland’s periodic reports including the annual report or in the filings made by Midland from time to time with securities regulatory authorities._
+
+Photos accompanying this announcement are available at
+
+  
+
+
+### Project Name
+
+[Nachicapau Project](/?gid=3559)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.32           $  Chg: 0.005
+Bid: 0.315            Bid Size: 1000
+Beta: 0.7481           Year High: 0.38
+Market Cap: 29.96m     PB Ratio: 0.73
+EPS: -0.03            Average Volume (30 Day): 45.30k
+Volume: 13.73k         % Chg: 1.59%
+Prev. Close: 0.315    Ask: 0.32
+Ask Size: 5000       VWAP: 0.31963
+Year Low: 0.275       Total Shares: 93.62m
+Shares Out: 93.62m     Float: 82.95m
+Exchange: TSXV

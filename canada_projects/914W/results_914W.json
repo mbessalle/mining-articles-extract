@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/914W/78627.txt",
+    "canada_projects/914W/78642.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "914W",
+      "justification": "The text announces an option agreement for the '914W Uranium Project'. For example: 'Skyharbour Enters into Agreement with Mustang Energy to Option its 914W Uranium Project Located in the Athabasca Basin, Saskatchewan'."
+    },
+    "company_name": {
+      "value": "Mustang Energy Corp.",
+      "justification": "Mustang Energy Corp. is identified as the acquiring company (the Optionee). The text states: 'Skyharbour Resources Ltd. ... has entered into an option agreement (“Agreement”) with Mustang Energy Corp. (the “Optionee” or “Mustang”), whereby the Optionee may acquire a 75% interest in the Company’s 914W Uranium Project'."
+    },
+    "ceo_buyer": {
+      "value": "Nicholas Luksha",
+      "justification": "The press release from the buyer, Mustang Energy Corp., is signed by 'Nicholas Luksha CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "The agreement allows for the acquisition of a 75% interest. 'Pursuant to the Agreement, Mustang may acquire a 75% interest in the Property...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly named the '914W Uranium Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment terms are explicitly denominated in Canadian dollars. For example: 'making aggregate cash payments of CAD $275,000'."
+    },
+    "cash_payments_raw": {
+      "value": 275000,
+      "justification": "The agreement requires total cash payments of $275,000. 'making aggregate cash payments of CAD $275,000'."
+    },
+    "share_payments_raw": {
+      "value": 480000,
+      "justification": "The agreement requires the issuance of shares valued at a total of $480,000. 'issuing common shares in the capital of the Optionee (“Shares”) having an aggregate value of CAD $480,000'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate values for cash and share payments were provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement specifies the total value of shares to be issued (CAD $480,000), but not a fixed number of shares, as the price is based on a future 5-day VWAP."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of stock options as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The number of shares to be issued is not specified, so a price per share cannot be determined from the text. The price is variable based on a future VWAP: 'Deemed pricing of Shares is based on the five (5) day volume weighted average price on the Canadian Securities Exchange for the 5 days prior to the time of the issuance'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 800000,
+      "justification": "The agreement includes a commitment for exploration expenditures totaling $800,000. 'incurring an aggregate of CAD $800,000 in exploration expenditures on the Property over a three-year period'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the seller, Skyharbour, retains a 2% NSR. 'Skyharbour will retain an NSR royalty of two percent (2%)'."
+    },
+    "coverage_area_raw": {
+      "value": 1260,
+      "justification": "The property size is stated as 1,260 hectares. 'The Property consists of a total of one mineral claim covering approximately 1,260 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares. 'The Property consists of a total of one mineral claim covering approximately 1,260 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a mineral resource for the 914W project itself. It mentions mineralization on adjacent properties ('up to 0.64% U3O8 in a trench at Don Lake Zone E') but includes a specific disclaimer that these results are 'not necessarily indicative of the mineralization of, or located on the 914W Project'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MEC",
+      "justification": "The buyer is Mustang Energy Corp. Its press release header provides the ticker and exchange: 'Mustang Energy Corp. (CSE:MEC, OTC:MECPF, FRA:92T)'."
+    }
+  }
+}

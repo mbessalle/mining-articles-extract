@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Atlantic Nickel/72323.txt",
+    "canada_projects/Atlantic Nickel/73381.txt",
+    "canada_projects/Atlantic Nickel/82187.txt",
+    "canada_projects/Atlantic Nickel/83804.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Atlantic Nickel",
+      "justification": "The text repeatedly refers to the project of interest as the Atlantic Nickel Project. For example: \"First Atlantic Nickel Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P21) is a Canadian mineral exploration company developing the 100%-owned Atlantic Nickel Project...\""
+    },
+    "company_name": {
+      "value": "First Atlantic Nickel Corp.",
+      "justification": "The acquiring company is identified multiple times, for example: \"First Atlantic Nickel Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P21) (\"First Atlantic\" or the \"Company\") is pleased to announce...\""
+    },
+    "ceo_buyer": {
+      "value": "Adrian Smith",
+      "justification": "The CEO of the buyer, First Atlantic Nickel Corp., is identified in the text: \"Adrian Smith, CEO of First Atlantic, provided an update on the company's recent progress and future plans...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the RPM-South claims, which are part of the Atlantic Nickel Project. \"The Company entered into an asset purchase agreement dated December 11, 2024 (the \"Purchase Agreement”) with a group of arm’s length parties (the “Vendors”), whereby the Vendors agreed to sell to the Company a 100% interest in and to the Claims.\" The claims are part of the project: \"The Claims are situated immediately south of the recent discovery at the RPM Zone... which is part of the 30 kilometer nickel trend within the Atlantic Nickel project\"."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is explicitly described as a nickel project: \"developing the 100%-owned Atlantic Nickel Project, a large-scale nickel deposit strategically located near existing infrastructure in Newfoundland, Canada.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions payments in dollars ('$') and the acquiring company is listed on the TSX Venture Exchange, a Canadian exchange, implying the currency is Canadian Dollars (CAD). For example: \"The Company has agreed to pay cash consideration of $20,000...\" and \"The Company's common shares trade on the TSX Venture Exchange under the symbol 'FAN'...\""
+    },
+    "cash_payments_raw": {
+      "value": 20000,
+      "justification": "The value is from the acquisition of the RPM-South claims, which are part of the Atlantic Nickel Project. \"The Company has agreed to pay cash consideration of $20,000 and issue 750,000 common shares to the Vendors\". The separate $5,000 cash payment for the Atlantis Project was ignored as it is not the project of interest."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A raw monetary value for the share payment was not provided. The payment was described in terms of number of shares and price per share, which are captured in other fields."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides the components of the payment ($20,000 cash and 750,000 shares at a deemed price) but does not state a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 750000,
+      "justification": "The value is from the acquisition of the RPM-South claims. \"The Company has agreed to pay cash consideration of $20,000 and issue 750,000 common shares to the Vendors at a deemed price of $0.1425 per share\". The separate issuance of 4,000,000 shares for the Atlantis Project was ignored as it is not the project of interest."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants were not mentioned as part of the transaction terms for the RPM-South claims."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options were not mentioned as part of the transaction terms for the RPM-South claims."
+    },
+    "issued_share_price": {
+      "value": 0.1425,
+      "justification": "The deemed price per share for the RPM-South claims acquisition is explicitly stated: \"The Company has agreed to pay cash consideration of $20,000 and issue 750,000 common shares to the Vendors at a deemed price of $0.1425 per share\"."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in meters as part of the acquisition agreement for the RPM-South claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment as part of the acquisition agreement for the RPM-South claims."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquired RPM-South claims are subject to a 2% NSR retained by the seller. The rules state to capture NSRs retained by the seller. \"The Claims are subject to a 2% NSR royalty, with the Company retaining the right to buy back half the royalty (1% NSR) for $1M at any time prior to the commencement of commercial production at the property.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No specific area in hectares or km2 was provided for the Atlantic Nickel Project or the acquired RPM-South claims. The text mentions the RPM-South acquisition consists of '12 mineral claims' but gives no area. The 13,675 hectares mentioned in the text refers to the separate Atlantis Project and was therefore ignored."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No specific area in hectares or km2 was provided for the Atlantic Nickel Project or the acquired RPM-South claims."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that the company does not have reserves on its properties: \"Furthermore, the Company currently has no reserves on any of its properties. As a result, there can be no assurance that such forward-looking statements will prove to be accurate...\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FAN",
+      "justification": "The company's ticker and exchange are stated multiple times in the required format, for example: \"First Atlantic Nickel Corp. (TSXV: FAN) (OTCQB: FANCF) (FSE: P21)...\""
+    }
+  }
+}

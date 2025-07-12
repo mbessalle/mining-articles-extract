@@ -1,0 +1,64 @@
+--- Article Metadata ---
+Project Name: None
+Company Name: Labrador Gold Corp.
+Exchange: TSXV
+Ticker: LAB
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.23.2024, 6:30:00 PM
+
+# Labrador Gold Provides Update on Sale of Kingsway Project
+
+TORONTO, May 23, 2024 (GLOBE NEWSWIRE) -- Labrador Gold Corp. (TSX.V:LAB | OTCQX:NKOSF | FNR:2N6) (“**LabGold** ” or the “**Company** ”) is pleased to announce that further to its press release dated April 22, 2024, the Company is providing an update on the sale of the Kingsway Project as required by the policies of the TSX Venture Exchange (“**TSXV** ”). Pursuant to the Definitive Agreement with New Found Gold Corp. (“**NFG** ”), NFG will acquire a 100% interest in the Kingsway Project, including all property and mining rights associated with the property, (the “**Transaction** ”) in exchange for $20,000,000 CAD (the “**Purchase Price** ”) payable and satisfied by the delivery to LabGold of such number of NFG Common Shares (the “**Consideration Shares** ”) determined by dividing the Purchase Price by the closing price of the NFG Common Shares on the last trading day prior to the closing of the Transaction. The Consideration Shares will be subject to a resale restriction of four months and one day from the closing of the Transaction.
+
+The Annual General and Special Shareholders Meeting (the “**Meeting** ”) to approve the Transaction has been scheduled for June 27, 2024. Shareholders of record on May 15, 2024 will be entitled to vote at the Meeting. It is anticipated that the Information Circular (the “**Circular** ”) and materials for the Meeting (the “**Meeting Material** ”) will be mailed to registered shareholders on or about May 27, 2024. Beneficial shareholders will receive a voting instruction form along with a notification with information on how they may access the Meeting Materials electronically.
+
+LabGold’s Board of Directors has unanimously recommended that LabGold’s shareholders vote in favour of the Transaction. The directors and officers of LabGold have entered into voting and support agreements with NFG, pursuant to which they have agreed, among other things, to vote their shares in favour of the Transaction. Shareholders entitled to vote at the Meeting who do not expect to be present at the Meeting are encouraged to date, sign and return the form of proxy or voting instruction form delivered to them in favour of the Transaction.
+
+Additional information regarding the Transaction will be provided in the Circular that will be mailed to registered shareholders and filed on SEDAR+ at www.sedarplus.com.
+
+The TSX Venture Exchange has in no way passed upon the merits of the proposed Transaction and has neither approved nor disapproved the contents of this news release.
+
+**About Labrador Gold**
+
+Labrador Gold is a Canadian based mineral exploration company focused on the acquisition and exploration of prospective gold projects in Eastern Canada.
+
+The 100% owned Kingsway project is located in the Gander area of central Newfoundland. The four licenses comprising the Kingsway project cover approximately 12km of the Appleton Fault Zone which is associated with numerous gold occurrences in the region. Infrastructure in the area is excellent located just 18km from the town of Gander with road access to the project, nearby electricity and abundant local water. LabGold’s drilling targeting high-grade epizonal gold mineralization along the Appleton Fault Zone has outlined seven gold prospects to date. The Company has approximately $6.5 million in working capital.
+
+The Hopedale property covers much of the Florence Lake greenstone belt that stretches over 60km. The belt is typical of greenstone belts around the world but has been underexplored by comparison. Work to date by Labrador Gold show gold anomalies in rocks, soils and lake sediments over a 3 kilometre section of the northern portion of the Florence Lake greenstone belt in the vicinity of the known Thurber Dog gold showing where grab samples assayed up to 7.8g/t gold. In addition, anomalous gold in soil and lake sediment samples occur over approximately 40km along the southern section of the greenstone belt. Labrador Gold now controls approximately 40km strike length of the Florence Lake Greenstone Belt.
+
+The Company has 170,009,979 common shares issued and outstanding and trades on the TSX Venture Exchange under the symbol LAB.
+
+For more information please contact:   
+Roger Moss, President and CEO Tel: 416-704-8291
+
+Or visit our website at: [_www.labradorgold.com_](http://www.labradorgold.com)
+
+**X** : @LabGoldCorp
+
+_This News Release should not be considered a comprehensive summary of the Transaction. Additional information will be disseminated at a future date. Completion of the Transaction is subject to a number of conditions including, but not limited to, TSXV approval. The Transaction cannot close until the required shareholder approval is obtained. There can be no assurance that the Transaction will be completed as proposed or at all._
+
+_Investors are cautioned that, except as disclosed in the Information Circular to be prepared in connection with the Transaction, any information released or received with respect to the Transaction may not be accurate or complete and should not be relied upon._
+
+**_Neither TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release_**.
+
+**Forward-Looking Statements:** This news release contains forward-looking statements that involve risks and uncertainties, which may cause actual results to differ materially from the statements made. When used in this document, the words “may”, “would”, “could”, “will”, “intend”, “plan”, “anticipate”, “believe”, “estimate”, “expect” and similar expressions are intended to identify forward-looking statements. Such statements reflect our current views with respect to future events and are subject to risks and uncertainties. Many factors could cause our actual results to differ materially from the statements made, including those factors discussed in filings made by us with the Canadian securities regulatory authorities. Should one or more of these risks and uncertainties, such as actual results of current exploration programs, the general risks associated with the mining industry, the price of gold and other metals, currency and interest rate fluctuations, increased competition and general economic and market factors, occur or should assumptions underlying the forward-looking statements prove incorrect, actual results may vary materially from those described herein as intended, planned, anticipated, or expected. We do not intend and do not assume any obligation to update these forward-looking statements, except as required by law. Shareholders are cautioned not to put undue reliance on such forward-looking statements.
+
+--- Detailed Quote ---
+
+Last: 0.08                       Open: 0.08
+High: 0.08                       Bid: 0.08
+Bid Size: 7000                   Beta: 1.4367
+Year High: 0.115                  Market Cap: 13.60m
+PB Ratio: 0.55                   EPS: -0.14
+Average Volume (30 Day): 179.36k    Volume: 35.00k
+Prev. Close: 0.08                Low: 0.08
+Ask: 0.085                        Ask Size: 47000
+VWAP: 0.08                       Year Low: 0.055
+Total Shares: 170.01m               Shares Out: 170.01m
+Float: 152.86m                      Exchange: TSXV

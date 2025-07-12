@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Teako/36324.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Teako",
+      "justification": "The headline of the article is 'Teako Minerals Completes Acquisition of Teako Copper-Gold Project'."
+    },
+    "company_name": {
+      "value": "Teako Minerals Corp.",
+      "justification": "The press release is issued by 'TEAKO MINERALS CORP. (CSE: TMIN) (the \"Company\" or \"Teako\")'."
+    },
+    "ceo_buyer": {
+      "value": "Sven Gollan",
+      "justification": "The press release is signed 'ON BEHALF OF TEAKO MINERALS CORP. \"Sven Gollan\" CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline states 'Teako Minerals Completes Acquisition of Teako Copper-Gold Project', which implies the acquisition of the entire project."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is referred to as the 'Teako Copper-Gold Project' in the headline."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/169158",
+      "justification": "The article is titled 'Teako Minerals Completes Acquisition of Teako Copper-Gold Project' and the source link is provided at the bottom of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buying company, Teako Minerals Corp., is listed on the Canadian Securities Exchange (CSE) and is based in Vancouver, British Columbia, implying Canadian Dollars. The text states '(CSE: TMIN)' and 'The Canadian Securities Exchange (CSE) has not reviewed...'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payments are mentioned as part of this transaction completion."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was settled with shares, but no dollar value is assigned to the share payment, so amount_of_shares_issued is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share value is provided."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The company 'issued the remaining two (2) million shares of the Company (the \"Common Shares\") to Teako Gold Corp. (\"TGC\") on June 5, 2023'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.06'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area size is mentioned in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area size is mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is mentioned in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TMIN",
+      "justification": "The text identifies the company as 'TEAKO MINERALS CORP. (CSE: TMIN)'."
+    }
+  }
+}

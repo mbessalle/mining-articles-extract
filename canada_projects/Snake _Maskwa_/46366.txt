@@ -1,0 +1,74 @@
+--- Article Metadata ---
+Project Name: Snake (Maskwa)
+Company Name: Hertz Energy Inc.
+Exchange: CSE
+Ticker: HZ
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+12.21.2023, 10:05:00 PM
+
+# Hertz Lithium Enters Option Agreement for Maskwa Lithium Property
+
+Vancouver, British Columbia--(Newsfile Corp. - December 21, 2023) - **HERTZ LITHIUM INC.  **(CSE: HZ) (OTCQB: HZLIF) (FSE: QE2) (the "**Company** " or "**Hertz** ") is pleased to announce it has entered into an option agreement (the "**Option Agreement** ") with Sirios Resources Inc. (TSXV: SOI) (the "**Vendor** ") pursuant to which the Company has acquired the option (the "**Option** ") to acquire a 100% interest in the Maskwa property located in Eeyou Istchee James Bay in Quebec (the "**Property** ").
+
+Pursuant to the terms and conditions of the Option Agreement, in order to exercise the Option the Company must: 
+
+  * pay the Vendor one hundred thousand dollars ($100,000) within three business days of the execution of the Option Agreement;
+
+
+  * pay the Vendor one hundred thousand dollars ($100,000) in cash plus one hundred thousand dollars ($100,000) either in cash or in common shares upon the earlier of (i) receipt of the surface sampling results from the laboratory engaged by the Company to carry out the analysis of the surface samplings from the Property, and (ii) December 20, 2024; and 
+
+
+  * incur not less than five hundred thousand dollars ($500,000) in exploration expenditures on the Property on or before December 31, 2024, incur an additional seven hundred and fifty thousand dollars ($750,000) in exploration expenditures on the Property on or before December 31, 2025, and incur an additional one million dollars ($1,000,000) in exploration expenditures on the Property on or before December 31, 2026, exclusive of any tax.
+
+
+
+Further, the Company must pay the Vendor two hundred and fifty thousand dollars ($250,000) either in cash or in common shares upon the successful confirmation of drilling results indicating a lithium concentration of one percent (1% Li2O) or more over a minimum of twenty-five (25) meters on the Property. 
+
+Upon the Company's exercise of the Option it will also grant the Vendor a 1.5% NSR royalty on the Property. Additionally, the Company will grant the Vendor an option to purchase 100% of the mining rights related to the non-critical minerals located on the Property (the "**Buy-Back Option** "). In order to exercise the Buy-Back Option the Vendor must reimburse the Company for all exploration expenditures incurred on the Property, up to a maximum of $2,000,000.
+
+Any shares issued to the Vendor pursuant to the Option Agreement will be subject to a statutory four month hold period pursuant to applicable Canadian securities laws 
+
+**About Hertz Lithium Inc.**
+
+The Company is a British Columbia based mineral exploration company primarily engaged in the acquisition and exploration of mineral properties. The Company's lithium exploration projects include, the Lucky Mica Project, which is located along the Arizona Pegmatite Belt in the Maricopa County of Arizona, USA and the Patriota Lithium Project, located along the Eastern Brazilian Pegmatite Province, in Brazil and the AC/DC Lithium Project located in James Bay, Quebec. The Company is also working with Penn State University's College of Earth and Mineral Science department to develop a novel patent-pending [hard rock lithium extraction](https://api.newsfilecorp.com/redirect/7W3bguXgMO) technology. 
+
+For further information, please contact Mr. Kal Malhi or view the Company's filings at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/eLJovT2bMJ). 
+
+**On Behalf Of the Board of Directors**
+
+Kal Malhi  
+Chief Executive Officer and Director  
+Phone: 604-805-4602  
+Email: [kal@bullruncapital.ca](mailto:kal@bullruncapital.ca)
+
+ _**Neither the Canadian Securities Exchange nor its Regulation Services Provider accepts responsibility for the adequacy or accuracy of this news release.**_
+
+**Cautionary Statement Regarding "Forward-Looking" Information**
+
+ _This news release includes certain statements that may be deemed "forward-looking statements". All statements in this new release, other than statements of historical facts, that address events or developments that the Company expects to occur, are forward-looking statements. Forward-looking statements are statements that are not historical facts and are generally, but not always, identified by the words "expects", "plans", "anticipates", "believes", "intends", "estimates", "projects", "potential" and similar expressions, or that events or conditions "will", "would", "may", "could" or "should" occur. Although the Company believes the expectations expressed in such forward-looking statements are based on reasonable assumptions, such statements are not guarantees of future performance and actual results may differ materially from those in the forward-looking statements. Factors that could cause the actual results to differ materially from those in forward-looking statements include market prices, continued availability of capital and financing, and general economic, market or business conditions. Investors are cautioned that any such statements are not guarantees of future performance and actual results or developments may differ materially from those projected in the forward-looking statements. Forward-looking statements are based on the beliefs, estimates and opinions of the Company's management on the date the statements are made. Except as required by applicable securities laws, the Company undertakes no obligation to update these forward-looking statements in the event that management's beliefs, estimates or opinions, or other factors, should change._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/191978](https://api.newsfilecorp.com/redirect/85RpOSepOV)
+
+### Project Name
+
+[Snake (Maskwa) Project](/?gid=1909)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.07            $  Chg: 0.005
+Open: 0.07            High: 0.07
+Beta: -2.63824            Year High: 0.44
+Market Cap: 1.17m      PB Ratio: 0.16
+EPS: -0.16             Average Volume (30 Day): 12.25k
+Volume: 23.00k          % Chg: 7.69%
+Prev. Close: 0.065     Low: 0.07
+VWAP: 0.07            Year Low: 0.055
+Total Shares: 16.76m    Shares Out: 16.76m
+Float: 16.63m           Exchange: CSE

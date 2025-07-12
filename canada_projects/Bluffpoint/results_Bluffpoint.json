@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Bluffpoint/40865.txt",
+    "canada_projects/Bluffpoint/41931.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bluffpoint",
+      "justification": "The acquisition is for the Pine Centre property which is being added to the Bluffpoint Project, as stated: 'Kesselrun Resources Acquires Additional Mineral Claims Comprising the Pine Centre Property at Bluffpoint Project'."
+    },
+    "company_name": {
+      "value": "Kesselrun Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Kesselrun Resources Ltd. (TSXV: KES) (OTCQB: KSSRF) (\"Kesselrun\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Michael Thompson",
+      "justification": "The text identifies the CEO of the buyer: 'Michael Thompson, P.Geo., President & CEO of Kesselrun, is the Qualified Person responsible for the project...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Kesselrun acquired a 100% interest in two sets of claims: 'Kesselrun has agreed to acquire a 100% interest in 7 contiguous mineral claims' which is detailed as 'a 100% interest in 4 mineral claims' and 'a 100% interest in 3 additional contiguous mineral claims'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the project as the 'Bluffpoint Gold Project' and the acquisition as adding a 'valuable gold zone'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180436",
+      "justification": "The article, titled 'Kesselrun Resources Acquires Additional Mineral Claims Comprising the Pine Centre Property at Bluffpoint Project', directly concerns the acquisition of property for the specified Bluffpoint project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Kesselrun Resources Ltd., is listed on the TSX Venture Exchange (TSXV: KES), a Canadian exchange, implying the currency for transactions denoted with '$' is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 7500,
+      "justification": "The total cash payment is the sum of two separate agreements: one for '$6,000 in cash' and a second for '$1,500 in cash'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, the number of shares and price per share are populated in their respective fields instead of a calculated total share value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The individual cash and share components of the transaction are provided, so a combined value is not used."
+    },
+    "amount_of_shares_issued": {
+      "value": 400000,
+      "justification": "The consideration for the first set of claims included '400,000 common shares of the Company'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the issuance of 400,000 common shares but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the sellers retained royalties. One agreement states: 'the two vendors were granted an aggregate 1.0% NRS royalty'. A separate agreement for other claims also included a 1.0% NSR."
+    },
+    "coverage_area_raw": {
+      "value": 190,
+      "justification": "The acquired property is described as being 'approximately 190 hectares in size'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated: 'The Property is approximately 190 hectares in size'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'an approximate 800 metre gold mineralized shear zone', which is a measure of length, not a mineral resource of mass or volume as required by the extraction rules."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KES",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: 'Kesselrun Resources Ltd. (TSXV: KES)'."
+    }
+  }
+}

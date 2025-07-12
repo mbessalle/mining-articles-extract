@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bodo SM/52263.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bodo SM",
+      "justification": "The project is referred to as the 'Bodo project' and 'Bodo SM Project' in the text and associated figures/summaries. 'Bullion Gold Adds 40 New Cells to Its Bodo Project in Jamesie' and 'Figure 1: Bodo SM Project'."
+    },
+    "company_name": {
+      "value": "Bullion Gold Resources Corp.",
+      "justification": "The acquiring company is identified as: 'Bullion Gold Resources Corp. (TSXV: BGD) (\"Bullion Gold\" or \"the Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Jonathan Hamel",
+      "justification": "The text states: '...mentioned Jonathan Hamel, President and CEO of the Company.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the acquisition of 40 mining cells, but does not specify the percentage of interest acquired in those cells."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The company is named 'Bullion Gold Resources Corp.' and the text highlights 'the main gold and copper showings Rivon, Canico and Papas'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/205808",
+      "justification": "The article is titled 'Bullion Gold Adds 40 New Cells to Its Bodo Project in Jamesie' and discusses the Bodo SM project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol and the acquiring company, Bullion Gold Resources Corp., is listed on the Canadian TSX Venture Exchange (TSXV), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 10000,
+      "justification": "This acquisition was made in consideration of a cash payment of $10,000..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share can be determined from the detailed quote section, so this field is null per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into cash and share components, so this field is null per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "This acquisition was made in consideration of... 1 million shares of the Company..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention 1 million shares issued but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention a specific drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a future prospecting campaign but does not state a specific monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The transaction includes 'a royalty of 2% NSR in favor of the seller.'"
+    },
+    "coverage_area_raw": {
+      "value": 2240,
+      "justification": "Bullion Gold... has acquired 22 mining cells from a mining prospector as well as 18 other cells by map staking for a total area of 2,240 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "...for a total area of 2,240 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes historical showings and drill results but does not contain a quantified statement of mineral resources with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BGD",
+      "justification": "The company is identified as 'Bullion Gold Resources Corp. (TSXV: BGD)' in the text."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ear Falls/42364.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ear Falls",
+      "justification": "The text states that SLAM Exploration Ltd. has entered into an agreement to acquire the project: \"...to acquire a 100% interest in the Ear Falls lithium project...\""
+    },
+    "company_name": {
+      "value": "SLAM Exploration Ltd.",
+      "justification": "The acquiring company is identified in the first sentence: \"SLAM Exploration Ltd. (TSXV-SXL) is pleased to announce it has entered into an arm’s length option agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Mike Taylor",
+      "justification": "The CEO of the buyer, SLAM Exploration Ltd., is identified in the text: \"Mike Taylor P.Geo, President and CEO of SLAM Exploration Ltd., is a qualified person...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for the acquisition of a full interest in the project: \"To earn a 100% interest in and to the Ear Falls Lake lithium project SLAM must pay...\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly identified as a lithium project multiple times, including in the headline: \"Slam Acquires New Lithium Project\" and the body: \"...acquire a 100% interest in the Ear Falls lithium project...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency for the cash payments is specified as Canadian dollars: \"SLAM must pay the Optionors a total of $79,000 CAD dollars over three years...\""
+    },
+    "cash_payments_raw": {
+      "value": 79000,
+      "justification": "The total cash consideration is stated in the agreement terms and confirmed in the payment schedule table: \"To earn a 100% interest in and to the Ear Falls Lake lithium project SLAM must pay the Optionors a total of $79,000 CAD dollars over three years...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies the number of shares to be issued (300,000), but does not assign a total dollar value to this share component."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 300000,
+      "justification": "The total number of shares to be issued is stated in the agreement terms and confirmed in the payment schedule table: \"...and issue the Optionors 300,000 common shares (Shares)...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The source text does not mention any option payments as part of the consideration."
+    },
+    "issued_share_price": {
+      "value": 0.045,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.045'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The source text does not specify an exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states SLAM is \"planning an exploration program at Ear Falls\" but does not mention a specific monetary commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the sellers retain a royalty: \"Upon SLAM earning 100% interest, the Optionors are to hold a 1.5% Net Smelter Return (NSR) Production royalty.\""
+    },
+    "coverage_area_raw": {
+      "value": 4700,
+      "justification": "The total area of the project is stated in the project highlights: \"The project comprises 230 claim units covering 4,700 hectares in 2 claim groups...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified as hectares: \"The project comprises 230 claim units covering 4,700 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the project as being near new discoveries and mentions resources on adjacent properties, but does not state a mineral resource estimate for the Ear Falls project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SXL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the announcement: \"SLAM Exploration Ltd. (TSXV-SXL) is pleased to announce...\""
+    }
+  }
+}

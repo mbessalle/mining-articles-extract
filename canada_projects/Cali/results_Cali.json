@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Cali/70143.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Cali",
+      "justification": "The article is titled 'LIFT quadruples the size of the Cali Property through staking' and refers to the project as the 'Cali Project'."
+    },
+    "company_name": {
+      "value": "Li-FT Power Ltd.",
+      "justification": "The press release is from 'Li-FT Power Ltd. (“LIFT” or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Francis MacDonald",
+      "justification": "The article includes a quote from 'Francis MacDonald, CEO of LIFT'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states the company increased its land position through staking, which implies 100% interest in the new claims, but it does not specify a percentage of interest acquired for the overall project."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text refers to the project as the 'Cali Lithium Project' and mentions 'outcropping spodumene pegmatites'. Spodumene is a primary lithium-bearing mineral."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the prompt."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction for the Cali Project was staking, and no monetary consideration was mentioned. The text describes staking as 'the most cost-effective way to increase a company’s land position'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The expansion of the Cali Project was achieved through staking, not a cash purchase. The text states: 'Acquiring new areas through staking is the most cost-effective way to increase a company’s land position.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The expansion of the Cali Project was achieved through staking. The issuance of shares mentioned in the article is related to a different transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction for the Cali Project was staking, for which no combined cash and share payment was mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of 12,000 common shares is consideration for the acquisition of the 'Shorty West Lithium mineral claim', which is a separate project, not the Cali Project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the Cali Project staking."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the Cali Project staking."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for the Cali Project transaction. The fair market value of $2.65 per DSU mentioned is for director compensation, not a project acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters for the Cali Project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the Cali Project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the Cali Project staking."
+    },
+    "coverage_area_raw": {
+      "value": 9681,
+      "justification": "The company 'has increased its land position at the Cali Project by staking an additional 9,681 hectares of contiguous claims'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The company 'has increased its land position at the Cali Project by staking an additional 9,681 hectares of contiguous claims'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'outcropping spodumene deposits' but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LIFT",
+      "justification": "The company is identified as 'Li-FT Power Ltd. (“LIFT” or the “Company”) (TSXV: LIFT)'."
+    }
+  }
+}

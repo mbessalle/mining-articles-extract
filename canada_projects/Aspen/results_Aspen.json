@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Aspen/48346.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Aspen",
+      "justification": "The article is titled 'FORTUNE BAY ACQUIRES THE ASPEN URANIUM PROJECT IN NORTHERN SASKATCHEWAN' and refers to the project as 'the Aspen Uranium Project (\"Aspen\" or the \"Project\")'."
+    },
+    "company_name": {
+      "value": "Fortune Bay Corp.",
+      "justification": "The press release is from 'Fortune Bay Corp. (TSXV: FOR) (FWB: 5QN) (OTCQB: FTBYF) (\"Fortune Bay\" or the \"Company\")' and announces their acquisition of the project."
+    },
+    "ceo_buyer": {
+      "value": "Dale Verran",
+      "justification": "The article includes a quote: 'commented Dale Verran, CEO for Fortune Bay.' and is signed 'On behalf of Fortune Bay Corp. \"Dale Verran\" Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text announces the 'acquisition of the Aspen Uranium Project'. The claims were acquired through staking, which confers 100% ownership, and the purchase of one other claim. This implies a 100% interest acquisition."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is consistently referred to as the 'Aspen Uranium Project' and the text discusses 'anomalous uranium results' and the 'potential to deliver a near-surface uranium discovery'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release about the correct project, but no specific URL for this article is present in the document body."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a potential royalty buyout for 'C$500,000', where 'C$' indicates Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The text mentions that one claim was acquired for 'a small cash payment', but does not specify the amount."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any payments made in shares for this acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text does not provide a combined cash and share value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued as part of the acquisition agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the acquisition agreement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the acquisition agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The text does not mention any shares being issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "A portion of the project was acquired with a royalty retained by the seller: 'a single claim of 595 hectares that was acquired from a third-party, arms-length vendor for a small cash payment and a 2% Net Smelter Returns (\"NSR\") royalty.'"
+    },
+    "coverage_area_raw": {
+      "value": 9869,
+      "justification": "The text states: 'The Project comprises seven mineral claims covering an area of 9,869 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Project comprises seven mineral claims covering an area of 9,869 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no resource has been defined, stating: 'Historical surface prospecting, limited to areas of outcrop, failed to identify a bedrock source of this uranium anomalism and no drilling has been completed on the Project to date...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FOR",
+      "justification": "The acquiring company is identified as 'Fortune Bay Corp. (TSXV: FOR) (FWB: 5QN) (OTCQB: FTBYF)'."
+    }
+  }
+}

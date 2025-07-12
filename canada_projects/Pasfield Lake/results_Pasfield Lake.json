@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Pasfield Lake/68807.txt",
+    "canada_projects/Pasfield Lake/74428.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Pasfield Lake",
+      "justification": "The text refers to the project as '...a definitive option and joint venture agreement for ATHA to earn an option to acquire up to a 60% interest in T92’s Pasfield Lake property (the “Pasfield Project”).'"
+    },
+    "company_name": {
+      "value": "ATHA Energy Corp.",
+      "justification": "The text identifies the acquiring company: '...a definitive option and joint venture agreement for ATHA to earn an option to acquire up to a 60% interest in T92’s Pasfield Lake property...'. The full name is given as 'ATHA Energy Corp.(TSXV: SASK) (“ATHA”).'"
+    },
+    "ceo_buyer": {
+      "value": "Troy Boisjoli",
+      "justification": "The buyer is ATHA Energy Corp. and the contact information section lists 'Troy Boisjoli Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 60,
+      "justification": "The agreement allows ATHA to acquire a majority interest: '...the parties will be deemed to form a joint venture on the Pasfield Project (the “Pasfield Joint Venture”) with T92 holding an initial 40% participating interest in the Pasfield Joint Venture and ATHA holding a 60% participation interest.'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes exploration results on the project: 'Drilling intersected anomalous uranium within the sandstone, in addition to the detection of significant helium anomalies – a decay product, and potential pathfinder for uranium mineralization.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No verifiable external article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, ATHA Energy Corp., is listed on the TSX Venture Exchange (TSXV: SASK) and the project is in Saskatchewan, Canada, implying the currency for the exploration expenditures listed with a '$' symbol is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option on the Pasfield Project is in the form of exploration expenditures, not direct cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the option on the Pasfield Project is in the form of exploration expenditures, not share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration for the option on the Pasfield Project is in the form of exploration expenditures, not a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement does not involve ATHA issuing shares to acquire the interest in the Pasfield Project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Pasfield Project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No direct option payments are mentioned; the consideration is in the form of exploration commitments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares are being issued as part of this transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is primarily defined as a monetary value of up to $4,000,000, with a drilling commitment of up to 4,000 meters offered as an alternative. The monetary value has been populated in `exploration_commitment_value_raw`."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 4000000,
+      "justification": "The total potential exploration commitment is the sum of four tranches, culminating in the final option: 'an undivided 15% interest in the Pasfield Project (the “Fourth CP Option”), which may be exercised by either: (a) funding exploration expenditures totalling $4,000,000 or (b) successfully completing four deep holes of at least 1,000 m into the geophysical target on or before December 31, 2028.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 4,
+      "justification": "ATHA has the option to convert its earned interest into a royalty: 'each undivided 15% interest in the Pasfield Project can, at ATHA’s election, be converted into a 1% net smelter returns royalty (“NSR”) for an aggregate maximum NSR of 4%.'"
+    },
+    "coverage_area_raw": {
+      "value": 68768,
+      "justification": "The text states: 'The Pasfield Project is comprised of 16 mineral claims totalling 68,768 hectares, located within the Athabasca Basin, Saskatchewan (Figure 3).'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Pasfield Project is comprised of 16 mineral claims totalling 68,768 hectares, located within the Athabasca Basin, Saskatchewan (Figure 3).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate for the Pasfield Project. It only mentions that 'Drilling intersected anomalous uranium within the sandstone'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SASK",
+      "justification": "The buyer is identified in the text as 'ATHA Energy Corp.(TSXV: SASK) (“ATHA”).'"
+    }
+  }
+}

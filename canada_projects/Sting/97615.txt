@@ -1,0 +1,34 @@
+--- Article Metadata ---
+Project Name: Sting
+Company Name: Aventis Energy Inc Inc.
+Exchange: CSE
+Ticker: AVE
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.15.2024, 12:48:23 AM
+
+# Vital Battery Metals Fulfills Option and Increases Land Position to 123 km² at the Sting Copper Project in Western Newfoundland
+
+### Project Name
+
+[Sting Project](/?gid=3335)
+
+--- Detailed Quote ---
+
+Last: 0.33            $  Chg: 0.005
+Open: 0.33            High: 0.33
+Bid: 0.325             Bid Size: 2000
+Beta: 1.6922            Year High: 0.33
+Market Cap: 21.92m      PB Ratio: 4.68
+EPS: -0.02             Average Volume (30 Day): 693.56k
+Volume: 594.00k          % Chg: 1.54%
+Prev. Close: 0.325     Low: 0.325
+Ask: 0.33             Ask Size: 52500
+VWAP: 0.32862            Year Low: 0.08
+Total Shares: 66.44m    Shares Out: 66.44m
+Float: 60.98m           Exchange: CSE

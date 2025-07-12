@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Berrigan South/39327.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Berrigan South",
+      "justification": "The project is explicitly named in the agreement with Chibougamau Independent Mines Inc.: 'Option to acquire a 100% interest in the Berrigan South (Au-Zn), Berrigan Mine (Au-Ag-Zn), Antoinette Lake (Zn-Au-Ag), Élaine Lake (Zn-Au-Ag) and Gwillim (Au-Cu) properties.'"
+    },
+    "company_name": {
+      "value": "TomaGold Corporation",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'TOMAGOLD CORPORATION (TSXV: LOT) (OTCQB: TOGOF) (“TomaGold” or the “Corporation”) is pleased to announce that it has entered into agreements... to acquire a total of 20 mining properties...'"
+    },
+    "ceo_buyer": {
+      "value": "David Grondin",
+      "justification": "The contact section identifies the President and CEO of the buyer, TomaGold: 'Contact: David Grondin President and Chief Executive Officer'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a 100% interest in a package of properties including Berrigan South: 'Option to acquire a 100% interest in the Berrigan South (Au-Zn), Berrigan Mine (Au-Ag-Zn), Antoinette Lake (Zn-Au-Ag), Élaine Lake (Zn-Au-Ag) and Gwillim (Au-Cu) properties.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The Berrigan South project is listed with Gold and Zinc mineralization: '...Berrigan South (Au-Zn)...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about a large acquisition by TomaGold which includes the Berrigan South project, but no article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses the '$' symbol. The acquiring company, TomaGold, is a Canadian company listed on the TSXV and the projects are located in Québec, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 530000,
+      "justification": "The project's share is $530,000, calculated as one-fifth of the total $2,650,000 cash payment for the 5 properties acquired from Chibougamau Independent Mines Inc. as stated in the table: 'TOTAL | $ | 2,650,000'. The 5 properties are Berrigan South, Berrigan Mine, Antoinette Lake, Élaine Lake, and Gwillim."
+    },
+    "share_payments_raw": {
+      "value": 270000,
+      "justification": "The project's share is $270,000, calculated as one-fifth of the total $1,350,000 share payment for the 5 properties acquired from Chibougamau Independent Mines Inc. as stated in the table: 'TOTAL | ... | $ | 1,350,000'. The 5 properties are Berrigan South, Berrigan Mine, Antoinette Lake, Élaine Lake, and Gwillim."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share payment values were available and extracted."
+    },
+    "amount_of_shares_issued": {
+      "value": 1200000,
+      "justification": "The project's share is 1,200,000 shares, calculated as one-fifth of the total 6,000,000 shares issued for the 5 properties acquired from Chibougamau Independent Mines Inc. as stated in the table: 'TOTAL | ... | 6,000,000'. The 5 properties are Berrigan South, Berrigan Mine, Antoinette Lake, Élaine Lake, and Gwillim."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "Exploration commitments were specified in monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1120000,
+      "justification": "The project's share is $1,120,000, calculated as one-fifth of the total $5,600,000 work requirement for the 5 properties acquired from Chibougamau Independent Mines Inc. as stated in the table: 'TOTAL | ... | $ | 5,600,000'. The 5 properties are Berrigan South, Berrigan Mine, Antoinette Lake, Élaine Lake, and Gwillim."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained in the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area (e.g., in hectares or km2) for the Berrigan South project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area (e.g., in hectares or km2) for the Berrigan South project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a quantified mineral resource estimate for the Berrigan South project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LOT",
+      "justification": "The buyer is identified as 'TOMAGOLD CORPORATION (TSXV: LOT)' at the beginning of the press release."
+    }
+  }
+}

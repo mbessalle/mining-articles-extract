@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/AZ/55579.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "AZ",
+      "justification": "The text identifies the project of interest directly: 'Areas of focus in this staking program were the high priority AZ property...'"
+    },
+    "company_name": {
+      "value": "Yukon Metals Corp.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Yukon Metals Corp. (CSE: YMC) (Frankfurt: E770) has doubled its land position...'"
+    },
+    "ceo_buyer": {
+      "value": "Rory Quinn",
+      "justification": "The CEO of the buyer is quoted in the text: '...said Rory Quinn, President and Chief Executive Officer.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes staking new, unclaimed ground, not an M&A transaction where a percentage interest is acquired from another party."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text describes the project as a 'high-priority potential copper-gold porphyry asset', with copper being the first commodity mentioned."
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/yukon-metals-doubles-land-position-302170243.html",
+      "justification": "The article is titled 'Yukon Metals Doubles Land Position' and explicitly discusses the staking program around the 'high priority AZ property'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) as stated in the text 'Yukon Metals Corp. (CSE: YMC)' and confirmed in the detailed quote section 'Exchange: CSE'. The use of the '$' symbol in the quote section implies Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article is about staking new claims and does not mention any cash payments as part of a transaction."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article is about staking new claims and does not mention any share payments as part of a transaction."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article is about staking new claims and does not mention any combined cash and share payments as part of a transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article is about staking new claims and does not mention issuing shares as consideration for an acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not contain any information about share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not contain any information about option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention any shares being issued as part of a transaction, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions a 'busy exploration season' but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article mentions a 'busy exploration season' but does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking activity."
+    },
+    "coverage_area_raw": {
+      "value": 7625,
+      "justification": "The text specifies the area staked related to the AZ property: 'Ron Berdahl staked the area north of the southern AZ claims, which covered an additional 7,625 ha in 372 additional claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is provided in the text: '...which covered an additional 7,625 ha in 372 additional claims...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides assay results for rock float samples (e.g., '10% Cu, 126 g/t Ag and 7.08 g/t Au') but does not contain a quantified mineral resource estimate with a total mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:YMC",
+      "justification": "The text explicitly states the company name, ticker, and exchange: 'Yukon Metals Corp. (CSE: YMC)'."
+    }
+  }
+}

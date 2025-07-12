@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Spur/82708.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Spur",
+      "justification": "The text announces the acquisition of the project: \"...pleased to announce the acquisition of a 100% interest in the Spur Project...\""
+    },
+    "company_name": {
+      "value": "Mustang Energy Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"Mustang Energy Corp. (CSE: MEC, OTC: MECPF, FRA:92T) (the “Company” or “Mustang”) is pleased to announce the acquisition of a 100% interest in the Spur Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Nick Luksha",
+      "justification": "The CEO of the acquiring company is quoted in the text: \"“We are excited to announce the expansion of our project portfolio with the acquisition of the 100%-owned Spur Property...”, said Nick Luksha, CEO of Mustang Energy.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The announcement states the full interest was acquired: \"...pleased to announce the acquisition of a 100% interest in the Spur Project...\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project's potential is described as: \"The project is situated in an area with potential for uranium and rare earth element (REE) exploration.\" The company's focus is also stated as: \"Mustang is a resource exploration company focused on acquiring and developing high-potential uranium and critical mineral assets.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through staking, not a financial transaction, so no currency is mentioned. The text states: \"The Spur Project was acquired through low-cost staking...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was not purchased from another entity for cash. The text states: \"The Spur Project was acquired through low-cost staking...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was not purchased from another entity for shares. The text states: \"The Spur Project was acquired through low-cost staking...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was not purchased from another entity. The text states: \"The Spur Project was acquired through low-cost staking...\""
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, which was done via staking. The text states: \"The Spur Project was acquired through low-cost staking...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the acquisition, so there is no issue price. The acquisition was done via staking."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The 'Next Steps' section outlines a future drill program but does not specify a committed number of meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The 'Next Steps' section outlines future exploration plans but does not mention a specific monetary exploration commitment as part of the acquisition."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 17929,
+      "justification": "The project size is stated in the first paragraph: \"The Spur Project was acquired through low-cost staking and consists of nine dispositions, or mineral claims, totaling 17,929 hectares...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the same sentence: \"...totaling 17,929 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource on an adjacent property, but explicitly disclaims it applies to the Spur Project: \"The Company advises that, notwithstanding their proximity of location, discoveries of minerals on the Adjacent Properties and any promising results thereof are not necessarily indicative of the mineralization of, or located on the Spur Project...\" The text also states the project \"remains underexplored,\" implying no current resource exists."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE: MEC",
+      "justification": "The buyer's ticker and exchange are listed at the beginning of the press release: \"Mustang Energy Corp. (CSE: MEC, OTC: MECPF, FRA:92T)...\""
+    }
+  }
+}

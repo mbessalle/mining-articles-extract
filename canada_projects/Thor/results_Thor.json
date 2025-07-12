@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Thor/74127.txt",
+    "canada_projects/Thor/84614.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Thor",
+      "justification": "The acquisition is for land adjoining the primary project of interest: \"Taranis has signed an agreement with an arm's-length vendor to acquire a 100% interest in 1,637.9 Hectares (\"Ha\") of Mineral Tenures and 61.4 Ha of Placer Tenures (collectively, the \"Tenures\") adjoining and located east of the Thor...\""
+    },
+    "company_name": {
+      "value": "Taranis Resources Inc.",
+      "justification": "The acquiring company is identified as \"Taranis Resources Inc. (\"Taranis\" or the \"Company\") (TSX.V:TRO)(OTCQB:TNREF)\"."
+    },
+    "ceo_buyer": {
+      "value": "John J. Gardiner",
+      "justification": "The document is signed \"Per: John J. Gardiner (P. Geo.), President and CEO\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Taranis has signed an agreement with an arm's-length vendor to acquire a 100% interest in 1,637.9 Hectares (\"Ha\") of Mineral Tenures and 61.4 Ha of Placer Tenures..."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text mentions the project is in the \"Silver Cup Mining District\" and refers to \"precious or base metal deposits\" but does not specify a primary commodity for the Thor project or the acquired tenures."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/928920/taranis-signs-agreement-to-acquire-100-interest-in-1699-hectares-of-mineral-tenures-adjoining-thor-and-update-on-closing-of-private-placement",
+      "justification": "The article is about Taranis Resources Inc. signing an agreement to acquire mineral tenures directly adjoining its Thor project, which is the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol and the acquiring company, Taranis Resources Inc., is listed on the Canadian TSX Venture Exchange (TSX.V:TRO), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The terms of the acquisition include \"a $40,000 cash payment to the vendor upon the transfer of title to the Tenures to Taranis.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payment in shares. The private placement discussed in the article is a separate financing event, not consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value is provided, so this field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the consideration for the acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the consideration for the acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the acquisition."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "The seller retained a 1% NSR as part of the deal terms: \"subject to the reservation to the vendor of a 1% NSR from commercial production from the Tenures\"."
+    },
+    "coverage_area_raw": {
+      "value": 1699.3,
+      "justification": "The total area is the sum of the mineral and placer tenures acquired: \"acquire a 100% interest in 1,637.9 Hectares ('Ha') of Mineral Tenures and 61.4 Ha of Placer Tenures\". The sum is 1637.9 + 61.4 = 1699.3."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit is specified in the text: \"1,637.9 Hectares ('Ha') of Mineral Tenures\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text references a Mineral Resource Estimate in a separate news release (\"see Taranis News Release dated April 11, 2024\") but does not provide any specific quantities (e.g., tonnes, ounces) in the provided documents."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TRO",
+      "justification": "The text identifies the buyer as \"Taranis Resources Inc. ('Taranis' or the 'Company') (TSX.V:TRO)\". The exchange is TSXV and the ticker is TRO."
+    }
+  }
+}

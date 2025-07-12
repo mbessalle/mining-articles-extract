@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Robidoux/82469.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Robidoux",
+      "justification": "The article title is 'Fancamp Receives Shares of Canadian Gold Resources and Finalizes Transfer of Robidoux Property'."
+    },
+    "company_name": {
+      "value": "Canadian Gold Resources Ltd.",
+      "justification": "The text identifies Canadian Gold Resources Ltd. as the acquirer of the property from Fancamp Exploration Ltd.: '...mining claims sale agreement for the Corporation’s package of 34 mineral claims associated with the Robidoux property... All conditions precedent including the transfer of the Robidoux property mining claims and rights to Canadian Gold...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text provides the name of the CEO for the seller, Fancamp ('Rajesh Sharma, President and Chief Executive Officer of Fancamp'), but does not name the CEO of the buyer, Canadian Gold Resources Ltd."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is described as a 'mining claims sale agreement' and the 'transfer of the Robidoux property mining claims and rights to Canadian Gold', which implies a 100% acquisition of the asset."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The property is described as being on a 'major geological occurrence known for orogenic gold mineralization' and Canadian Gold is focused on 'high-grade gold projects in the Gaspé Gold Belt of Quebec'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text uses a generic '$' symbol, but the companies involved (Fancamp Exploration Ltd. and Canadian Gold Resources Ltd.) are Canadian, the property is in Quebec, and the exchange is the TSX Venture Exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration mentioned is entirely in shares and a royalty; no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": 830000,
+      "justification": "The consideration for the property sale included shares valued at a specific amount: '...issued 1,600,000 common shares of Canadian Gold Resources Ltd. (“Canadian Gold”), currently valued at approximately $830,000...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was not described as a single combined value; a specific value for the share component was provided."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because the financial extraction hierarchy is followed. Priority 1 applies as an explicit share value ('$830,000') is provided, which makes `share_payments_raw` the primary field. The rules state that when Priority 1 is used, other financial fields, including `amount_of_shares_issued`, must be null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because the financial extraction hierarchy is followed. Priority 1 applies as an explicit share value ('$830,000') is provided, which makes `share_payments_raw` the primary field. The rules state that when Priority 1 is used, other financial fields, including `issued_share_price`, must be null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions exploration plans but does not specify a commitment in meters as part of the sale agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions exploration plans ('Canadian Gold plans to conduct further exploration at Robidoux during 2025') but does not state a required exploration expenditure commitment as part of the sale agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Fancamp, retained a royalty as part of the deal: 'Fancamp has furthermore been issued a 2% net smelter returns royalty for products derived from the Robidoux property.'"
+    },
+    "coverage_area_raw": {
+      "value": 1940,
+      "justification": "The text states: 'The Robidoux property is located in the western Gaspé Peninsula, Quebec, covering 1,940 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The Robidoux property is located in the western Gaspé Peninsula, Quebec, covering 1,940 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions that Canadian Gold plans to 'further define the resource potential' but does not provide any quantified mineral resource estimate for the Robidoux property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CAN",
+      "justification": "The text explicitly states the ticker and exchange for the buyer, Canadian Gold Resources Ltd.: '...with its shares trading on the TSX Venture Exchange under symbol CAN.'"
+    }
+  }
+}

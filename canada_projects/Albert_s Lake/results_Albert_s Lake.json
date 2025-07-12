@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Albert_s Lake/54108.txt",
+    "canada_projects/Albert_s Lake/54109.txt",
+    "canada_projects/Albert_s Lake/67901.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Albert s Lake",
+      "justification": "The authoritative project name is 'Albert s Lake'. The transaction is described in the text as: 'Callinex Mines Inc. (the \"Company\" or \"Callinex\") (TSXV: CNX) (OTCQX: CLLXF) is pleased to announce it has signed an option agreement with Voyageur Mineral Explorers Corp. (\"Voyageur\") to acquire a 100% interest in the Alberts Lake Project...'"
+    },
+    "company_name": {
+      "value": "Callinex Mines Inc.",
+      "justification": "The buyer is identified as 'Callinex Mines Inc. (the \"Company\" or \"Callinex\") (TSXV: CNX) (OTCQX: CLLXF) is pleased to announce it has signed an option agreement with Voyageur Mineral Explorers Corp. (\"Voyageur\") to acquire a 100% interest in the Alberts Lake Project...'"
+    },
+    "ceo_buyer": {
+      "value": "Max Porterfield",
+      "justification": "The CEO of the buyer, Callinex, is identified in the statement: 'Max Porterfield, President and CEO, stated, \"Consolidating this highly prospective land package in the Flin Flon Greenstone belt is a significant achievement for Callinex.''"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is for a complete acquisition: 'Under the terms of the option agreement, Callinex will acquire a 100% interest in the Alberts Lake Project...'"
+    },
+    "primary_commodity": {
+      "value": "Copper, Gold",
+      "justification": "The project hosts multiple commodities, with copper and gold being prominent. 'Newly acquired ground hosts one gold deposit and a relatively recently interpreted growth fault corridor known to control and host at least two historic near-surface copper-rich VMS deposits and numerous Cu-Zn VMS occurrences;'"
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/callinex-doubles-size-of-pine-bay-project-with-acquisition-of-highly-prospective-exploration-land-package-in-manitoba-302149729.html",
+      "justification": "The article, titled 'Callinex Doubles Size of Pine Bay Project with Acquisition of Highly Prospective Exploration Land Package in Manitoba', directly details the option agreement for Callinex to acquire the Alberts Lake Project from Voyageur Mineral Explorers Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with a '$' symbol. The transaction involves two Canadian companies (Callinex Mines Inc. and Voyageur Mineral Explorers Corp.) listed on Canadian exchanges (TSXV and CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration is entirely in shares. While the company has the option to pay cash in lieu of shares for anniversary payments, this is not a committed cash payment as part of the primary deal structure. 'The Company can, at is sole discretion, elect to (i) pay the cash value of an anniversary payment indicated above, in lieu of issuing common shares...'"
+    },
+    "share_payments_raw": {
+      "value": 650000,
+      "justification": "The total value of the share payments is the sum of five tranches. The seller's press release states: 'In order to exercise the Option, Callinex must issue to the Company a total of $650,000 worth of common shares as follows: $75,000 on the date of Exchange acceptance of the Option; $125,000 on the first anniversary of signing; $150,000 on the second anniversary of signing; $150,000 on the third anniversary of signing; and $150,000 on the fourth anniversary of signing.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The payments are explicitly broken down into share-based payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares is not fixed; it is dependent on the share price at the time of each issuance. 'The amount of shares to be issued on each applicable date will be based upon the greater of (i) the 5-day volume weighted average trading price of the common shares calculated 2 days prior to the applicable date; and (ii) $1.07.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share is not fixed and will be determined at the time of each issuance based on a volume-weighted average price. 'The amount of shares to be issued on each applicable date will be based upon the greater of (i) the 5-day volume weighted average trading price of the common shares calculated 2 days prior to the applicable date; and (ii) $1.07.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned as part of the option agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the seller retains a royalty. 'Upon Callinex acquiring a 100% interest in the Alberts Lake Project, Voyageur will be granted a 1.5% net smelter return royalty, of which 0.5% may be repurchased with a one time payment of $500,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 5064,
+      "justification": "The size of the project area is explicitly stated: 'The Alberts Lake Project encompasses 5,064 hectares of contiguous ground to the north of the existing Pine Bay Project boundary.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the project area is specified as hectares. 'The Alberts Lake Project encompasses 5,064 hectares of contiguous ground to the north of the existing Pine Bay Project boundary.'"
+    },
+    "resource_size": {
+      "value": "192,292 t (short tons) grading 2.29% copper and 0.91% zinc",
+      "justification": "A historical resource estimate for the Leo Lake deposit, located on the Alberts Lake Project, is provided: 'Aur Resources generated a historical \"geologically inferred mineral inventory\" for the four lenses, based on a reinterpretation of the Granges drilling, of 192,292 t (short tons) grading 2.29% copper and 0.91% zinc...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CNX",
+      "justification": "The buyer's ticker and exchange are provided in the text: 'Callinex Mines Inc. (the \"Company\" or \"Callinex\") (TSXV: CNX) (OTCQX: CLLXF)...'"
+    }
+  }
+}

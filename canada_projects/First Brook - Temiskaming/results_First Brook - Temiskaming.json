@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/First Brook - Temiskaming/71201.txt",
+    "canada_projects/First Brook - Temiskaming/81819.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "First Brook - Temiskaming",
+      "justification": "The authoritative project name is 'First Brook - Temiskaming'. The articles confirm the location as 'Firstbrook Township, Ontario' and refer to it as the 'Firstbrook Hydrogen properties'."
+    },
+    "company_name": {
+      "value": "Protium Clean Energy Corp.",
+      "justification": "The second article identifies the company as 'Protium Clean Energy Corp. (CSE: GRUV)'. This is consistent with the authoritative metadata and represents the most recent name for the company formerly known as Weekapaug Lithium Ltd."
+    },
+    "ceo_buyer": {
+      "value": "Marc Branson",
+      "justification": "Both articles identify Marc Branson as the CEO. '\"We are excited to establish a land position in this prospective area near QIMC's recent discovery,\" said Marc Branson, CEO of Weekapaug.' and '\"We are excited to announce the first property addition resulting from our satellite survey. This achievement validates our strategy of utilizing the technology to identify and develop further targets,\" said Marc Branson, CEO of Protium Clean Energy Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The articles state that the company holds a 100% interest in the staked claims. 'The Claims are 100% held by Weekapaug.' and 'The Claims are contiguous with the Company's, previously staked, 103-claim group announced on October 9th, 2024, and are 100% held by Protium Clean Energy Corp.'"
+    },
+    "primary_commodity": {
+      "value": "Hydrogen",
+      "justification": "The articles explicitly state the claims are prospective for hydrogen. 'Weekapaug Lithium Stakes Hydrogen-Prospective Mining Claims in Firstbrook Township, Ontario' and 'We focus on exploring and developing our 100% owned Nakina Lithium and Firstbrook Hydrogen properties in Ontario...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/223007",
+      "justification": "The article at this link announces the staking of claims in Firstbrook Township, which corresponds to the 'First Brook - Temiskaming' project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase from a third party, so no currency for a transaction is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving cash payments to a seller."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving share payments to a seller."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase from a third party, so no combined payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving the issuance of shares as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the claim staking."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the claim staking."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not a purchase involving the issuance of shares, so no issue price is applicable."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of the claim staking."
+    },
+    "coverage_area_raw": {
+      "value": 2600,
+      "justification": "The most recent article provides a consolidated total area for the project: 'The acquisition brings the company's holdings in Firstbrook Township to a total of over 2,600 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit is specified in the text: 'The acquisition brings the company's holdings in Firstbrook Township to a total of over 2,600 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The documents do not provide a mineral resource estimate for the project. They only mention that 'Firstbrook Township hosts documented occurrences of copper, lead, cobalt, silver and kimberlite' in the general area."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GRUV",
+      "justification": "The articles confirm the company's listing: 'Weekapaug Lithium Ltd. (CSE: GRUV)' and 'Protium Clean Energy Corp. (CSE: GRUV)'."
+    }
+  }
+}

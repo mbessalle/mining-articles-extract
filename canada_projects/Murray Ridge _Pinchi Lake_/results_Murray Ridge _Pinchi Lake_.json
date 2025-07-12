@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Murray Ridge _Pinchi Lake_/44527.txt",
+    "canada_projects/Murray Ridge _Pinchi Lake_/50375.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murray Ridge Pinchi Lake",
+      "justification": "The project is referred to as the \"Pinchi Lake Nickel Project (the “Pinchi Project”)\" and the \"Murray Ridge (Pinchi Lake) Property\" in the provided text. The authoritative name is used."
+    },
+    "company_name": {
+      "value": "Ranchero Gold Corp.",
+      "justification": "The acquiring company is identified as \"Ranchero Gold Corp. (“Ranchero” or the “Company”)\" in the press release."
+    },
+    "ceo_buyer": {
+      "value": "Jesus Noriega",
+      "justification": "The press releases are signed on behalf of the board by \"Jesus Noriega Interim Chief Executive Officer and Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement states that \"Ranchero can earn a 100% interest in the Pinchi Lake Nickel Project\"."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is consistently referred to as the \"Pinchi Lake Nickel Project\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text explicitly states: \"All figures are in Canadian dollars.\""
+    },
+    "cash_payments_raw": {
+      "value": 5025000,
+      "justification": "The total cash payment is the sum of three milestone payments: \"making cash payments to Recharge of $25,000 by the first anniversary date of the Agreement; $2,000,000 by the second anniversary of the Agreement; and $3,000,000 by the third anniversary date of the Agreement\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are structured with a specific number of shares and a price, so per the extraction hierarchy, this field is null and `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components are detailed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 835000,
+      "justification": "The terms of the agreement require \"issuing 835,000 common shares in the capital of Ranchero to Recharge\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options as a form of payment in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.085,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.085'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1200000,
+      "justification": "The agreement includes terms for \"funding exploration and development work on the property of a total of $1,200,000 before November 30, 2026\"."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller retains a royalty: \"Ranchero may earn a 100% interest in the Pinchi Project, subject to a 1% net smelter returns royalty to be granted to Recharge\"."
+    },
+    "coverage_area_raw": {
+      "value": 3917,
+      "justification": "The project is described as \"consisting of six mineral claims totaling 3,917 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project is described as \"consisting of six mineral claims totaling 3,917 hectares\"."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes the type of mineralization and mentions past geochemical sampling and surveys, but does not provide a quantified mineral resource estimate (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:RNCH",
+      "justification": "The buyer, Ranchero Gold Corp., is identified with the ticker and exchange in the text: \"(TSX.V: RNCH)\". This is also confirmed in the detailed quote section: \"Exchange: TSXV\"."
+    }
+  }
+}

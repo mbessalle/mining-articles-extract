@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Copper Mountain/92666.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Copper Mountain",
+      "justification": "The article is titled 'Hudbay Consolidates 100% Ownership in its Copper Mountain Mine' and discusses the acquisition of the remaining interest in the Copper Mountain mine."
+    },
+    "company_name": {
+      "value": "Hudbay Minerals Inc.",
+      "justification": "Hudbay Minerals Inc. (“Hudbay” or the “company”) (TSX, NYSE: HBM) is pleased to announce that it has entered into an agreement with Mitsubishi Materials Corporation (“MMC”) to acquire MMC’s 25% interest in Copper Mountain Mine (BC) Ltd. (“CMBC”)..."
+    },
+    "ceo_buyer": {
+      "value": "Peter Kukielski",
+      "justification": "“This Transaction is aligned with our strategy of growing copper production in mining friendly jurisdictions and further strengthens Hudbay’s position as a North American copper champion. The Copper Mountain mine is a key asset for Hudbay and we have been encouraged by the progress of our three-year optimization plan. This Transaction simplifies the ownership structure of Copper Mountain and provides Hudbay with greater exposure to the mine without adversely impacting our balance sheet.” said Peter Kukielski, Hudbay’s President and Chief Executive Officer."
+    },
+    "interest_acquired_percent": {
+      "value": 25,
+      "justification": "Hudbay Minerals Inc. ... has entered into an agreement with Mitsubishi Materials Corporation (“MMC”) to acquire MMC’s 25% interest in Copper Mountain Mine (BC) Ltd. (“CMBC”)..."
+    },
+    "primary_commodity": {
+      "value": "copper",
+      "justification": "The Copper Mountain mine is an open pit copper mine in southern British Columbia, which also produces gold and silver as by-product metals."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the Copper Mountain project, which matches the project of interest. No URL was provided in the source text."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The transaction consideration is specified in US dollars: '...for US$4.5 million in an upfront cash payment and up to US$39.75 million in deferred and contingent cash payments...'"
+    },
+    "cash_payments_raw": {
+      "value": 44250000,
+      "justification": "The total cash consideration is the sum of the upfront payment (US$4.5 million), deferred payments (US$21.0 million), and contingent payments (up to US$18.75 million), as stated: 'The cash consideration of the Transaction consists of: US$4.5 million payable on the closing date... US$21.0 million in seven annual deferred payments... up to US$18.75 million in five additional contingent payments...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is described as consisting of cash payments only, with no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction consideration is broken down into explicit cash components, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is described as consisting of cash payments only, with no mention of shares being issued."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction is described as consisting of cash payments only, with no mention of shares being issued, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention the acquisition or retention of a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in units like hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the coverage area of the project in units like hectares or square kilometers."
+    },
+    "resource_size": {
+      "value": "346 million tonnes at 0.25% copper and 0.12 g/t gold (Reserves); 125 million tonnes at 0.21% copper and 0.10 g/t gold (M&I Resources); 372 million tonnes at 0.25% copper and 0.13 g/t gold (Inferred Resources)",
+      "justification": "Current mineral reserve estimates at Copper Mountain total 346 million tonnes at 0.25% copper and 0.12 grams per tonne gold... with significant upside potential for future resource conversion and mine life extension beyond 19 years through an additional 125 million tonnes of measured and indicated resources at 0.21% copper and 0.10 grams per tonne gold and 372 million tonnes of inferred resources at 0.25% copper and 0.13 grams per tonne gold, in each case, exclusive of mineral reserves."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:HBM, NYSE:HBM",
+      "justification": "The acquiring company is identified as 'Hudbay Minerals Inc. (“Hudbay” or the “company”) (TSX, NYSE: HBM)'."
+    }
+  }
+}

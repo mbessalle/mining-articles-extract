@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Birch/78664.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Birch",
+      "justification": "The article is titled 'Yukon Metals Consolidates Birch Copper-Gold-Molybdenum District with Additional Staking' and a section is headed 'About the Birch Project'."
+    },
+    "company_name": {
+      "value": "Yukon Metals Corp.",
+      "justification": "The press release is from 'Yukon Metals Corp. (CSE: YMC, FSE: E770, OTCQB: YMMCF), the “Company” or “Yukon Metals”...'"
+    },
+    "ceo_buyer": {
+      "value": "Rory Quinn",
+      "justification": "The text includes a quote from 'Rory Quinn, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is the 'successful staking of additional claims', which consolidates land tenure, not the acquisition of a specific percentage interest from another company. The text states 'Yukon Metals owns 100% of the Birch project'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline refers to the 'Birch Copper-Gold-Molybdenum District' and the text mentions the 'pursuit of a major porphyry/skarn copper-gold discovery'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Yukon Metals Corp., is listed on the Canadian Securities Exchange (CSE: YMC) and a separate news item in the document refers to a 'C$10 Million Financing', indicating Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, and no cash payment to another party is mentioned as part of this action."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, and no share payment to another party is mentioned as part of this action."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, and no combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is the staking of new claims, and no issuance of shares is mentioned as part of this action."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the described transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text describes exploration work that was conducted, but does not mention a future exploration commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text describes exploration work that was conducted, but does not mention a future exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as being acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 7008,
+      "justification": "The text states: 'The newly acquired claims increase the project area from 2,285-hectares to 7,008-hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'The newly acquired claims increase the project area from 2,285-hectares to 7,008-hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration results such as soil anomalies ('1,400-meter copper and gold in soil anomaly') and rock chip grades ('up to 2.42% copper'), but does not contain a formal mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:YMC",
+      "justification": "The company is identified as 'Yukon Metals Corp. (CSE: YMC, FSE: E770, OTCQB: YMMCF)'."
+    }
+  }
+}

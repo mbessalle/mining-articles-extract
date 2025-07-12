@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Princeton/35006.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Princeton",
+      "justification": "The authoritative metadata and the article title confirm the project name: \"Collective Metals Announces Option Agreement to Acquire 70% of Princeton Project in Southeastern British Columbia\"."
+    },
+    "company_name": {
+      "value": "Collective Metals Inc.",
+      "justification": "The buyer is identified in the text: \"COLLECTIVE METALS INC. (CSE:COMT| FSE:TO1) (the “Company” or “Collective”), is pleased to announce it has signed an option agreement dated May 9, 2023 to acquire 70% of the Princeton Project...\""
+    },
+    "ceo_buyer": {
+      "value": "Christopher Huggins",
+      "justification": "The CEO of the acquiring company is named in the text: \"Christopher Huggins, Chief Executive Officer of Collective, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "The agreement is for an option to acquire a 70% interest: \"Collective has secured an option on the Project from Tulmeen to earn a seventy percent (70%) interest in the Project...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as a copper-gold project: \"...to acquire 70% of the Princeton Project (the “Acquisition”), a copper-gold project located in south-central BC...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is specified as Canadian dollars for related payments in the text: \"...for total consideration of CDN$200,000.\" and \"...each with an exercise price of CDN$0.15...\""
+    },
+    "cash_payments_raw": {
+      "value": 500000,
+      "justification": "The total cash payment is the sum of scheduled payments: \"paying Tulmeen an aggregate of $500,000 in cash as follows: (i) $50,000... (ii) $25,000... (iii) $100,000... (iv) $162,500... and (v) $162,500...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes a number of shares, but not a cash value equivalent for those shares, so this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share payments are listed as separate components, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 7000000,
+      "justification": "The total number of shares to be issued is the sum of scheduled issuances: \"issuing to Tulmeen an aggregate of 7,000,000 common shares (“Shares”) as follows: (i) 1,000,000 Shares... (ii) 1,500,000 Shares... (iii) 2,000,000 Shares... and (iv) 2,500,000 Shares...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The warrants mentioned are part of a \"Correction Notice of Press Release dated March 24, 2023 - Announcing Closing of Non-Brokered Private Placement of Units\" and not part of the Princeton acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The options mentioned are \"incentive stock options (“Options”) under the Company’s stock option plan... to officers, directors and consultants of the Company,\" not as payment for the project."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention the number of shares issued (7,000,000), but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1400000,
+      "justification": "The total exploration commitment is the sum of scheduled expenditures: \"incurring a minimum of $1,400,000 in exploration expenditures on the Project as follows: (i) $300,000... (ii) $300,000... (iii) $300,000... and (iv) $500,000...\""
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or similar royalty is mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 28560,
+      "justification": "The total area of the project is stated in hectares: \"The Princeton Project consists of 29 mineral tenures totaling approximately 28,560 ha (70,570 acres)...\""
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: \"The Princeton Project consists of 29 mineral tenures totaling approximately 28,560 ha (70,570 acres)...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the nearby Copper Mountain Mine ('Proven and Probable Mineral Reserve of 702 Mt of 0.24% Copper'), but does not state any mineral resource for the Princeton Project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:COMT",
+      "justification": "The buyer's ticker and exchange are provided in the text: \"COLLECTIVE METALS INC. (CSE:COMT| FSE:TO1) (the “Company” or “Collective”)...\""
+    }
+  }
+}

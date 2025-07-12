@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Nickel King/55784.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Nickel King",
+      "justification": "The article is titled \"Cornish Metals Announces Sale of Nickel King Property\" and refers to the sale of \"the Nickel King and Opescal Lake properties (together, the “Nickel King Property”)\"."
+    },
+    "company_name": {
+      "value": "Cornish Metals Inc.",
+      "justification": "The authoritative metadata provided in the prompt identifies the company as 'Cornish Metals Inc.'. The text confirms this is the selling company: 'Cornish Metals Inc. (“Cornish Metals” or the “Company”), is pleased to announce that it has entered into a binding letter of intent (the “Agreement”) with Northera Resources Ltd. (“Northera”) for the sale of the Company’s 100% interest in the Nickel King...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The buyer is Northera Resources Ltd. The text mentions Ken Armstrong, who is the 'Interim CEO and Director of Cornish Metals', the selling company. No CEO for the buyer, Northera Resources Ltd., is mentioned."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the agreement is for 'the sale of the Company’s 100% interest in the Nickel King and Opescal Lake properties'."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The project is named 'Nickel King' and the text describes it as 'The Nickel King Nickel-Copper-Cobalt (“Ni-Cu-Co”) deposit'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release but does not contain a canonical URL for the article itself."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction consideration is specified in Canadian dollars, as indicated by 'C$': 'total consideration of up to C$8 million'."
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "The total cash payment is the sum of two tranches: 'a non-refundable cash payment of C$100,000' and 'a non-refundable cash payment of C$900,000', totaling C$1,000,000."
+    },
+    "share_payments_raw": {
+      "value": 7000000,
+      "justification": "The agreement states that 'Northera will issue to Cornish Metals common shares in the capital of Northera having an aggregate market value equal to C$7 million'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Explicit cash and share payment values were found, so this field is null per the financial data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The agreement specifies the value of the shares to be issued (C$7 million) but not the number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments involving share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any payments involving options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the transaction is not mentioned in the agreement details."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states Northera's intent to 'recommence exploration activities', but no specific monetary value for an exploration commitment is included in the binding agreement terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 4000,
+      "justification": "The text states 'the Nickel King Property which comprises approximately 4,000 hectares in mining leases and mineral claims'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states 'the Nickel King Property which comprises approximately 4,000 hectares in mining leases and mineral claims'."
+    },
+    "resource_size": {
+      "value": "11.1 Mt grading at 0.40% Ni, 0.10% Cu and 0.018% Co containing 44,500 t of Ni, 10,600 t of Cu and 2,200 t of Co in the Indicated Category. The total Inferred Resource is 33.1 Mt grading at 0.36% Ni, 0.09% Cu and 0.017% Co containing 119,300 t of Ni, 29,000 t of Cu and 5,600 t of Co.",
+      "justification": "The text provides a resource estimate: 'An NI 43-101 compliant geological resource model yielded 11.1 Mt grading at 0.40% Ni, 0.10% Cu and 0.018% Co containing 44,500 t of Ni, 10,600 t of Cu and 2,200 t of Co in the Indicated Category. The total Inferred Resource is 33.1 Mt grading at 0.36% Ni, 0.09% Cu and 0.017% Co containing 119,300 t of Ni, 29,000 t of Cu and 5,600 t of Co.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Northera Resources Ltd., is a private company. The text states it will undergo a 'go public transaction', indicating it is not currently listed on any exchange."
+    }
+  }
+}

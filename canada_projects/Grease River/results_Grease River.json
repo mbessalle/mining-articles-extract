@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Grease River/30815.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Grease River",
+      "justification": "The text announces an option agreement for the 'Grease River Property located in Athabasca Basin, Northern Saskatchewan, Canada (the “Property”).'"
+    },
+    "company_name": {
+      "value": "Traction Uranium Corp.",
+      "justification": "The acquiring company is identified as 'Traction Uranium Corp. (CSE: TRAC) (OTC: TRCTF) (FRA: Z1K) (the “Company” or “Traction”)' which has entered into the option agreement."
+    },
+    "ceo_buyer": {
+      "value": "Lester Esteban",
+      "justification": "The text quotes 'Lester Esteban, Chief Executive Officer of Traction'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement is a phased option agreement where the final, third option allows the company to 'acquire an additional 30% interest in the Property, for a total interest of 100% (the “Third Option”).'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text discusses the project's location near the 'Fond du Lac Uranium Deposit' and the company's interest in 'unlocking the uranium discovery potential'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": null
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with '$' and the agreement is subject to 'applicable Canadian securities laws' for a company listed on the CSE, implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 9950000,
+      "justification": "The total cash payment is an aggregate of $250,000 (Phase 1), $700,000 (Phase 2), $1,000,000 (Phase 3), plus milestone payments of '$1,000,000 upon completion of a preliminary economic assessment', '$2,000,000... upon completion and disclosure of a... feasibility study', and '$5,000,000... upon commencement of commercial production'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration includes a number of shares, but no specific dollar value is assigned to the share component in the agreement terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The agreement details separate cash and share components rather than a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 7125000,
+      "justification": "The total is an aggregate of shares issued over three phases: 'issuing an aggregate of 1,625,000 common shares' (Phase 1), 'issuing an aggregate of 2,500,000 Shares' (Phase 2), and 'issuing an aggregate of 3,000,000 Shares' (Phase 3)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrants as part of the consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'option agreement', there are no payments in the form of stock options mentioned in the terms."
+    },
+    "issued_share_price": {
+      "value": 0.28,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.28'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 9000000,
+      "justification": "The total commitment is the sum of three phases of exploration funding: '$3,000,000 in exploration expenditures on the Property by December 31, 2025', '$3,000,000 in exploration expenditures on the Property by December 31, 2027', and '$3,000,000 in exploration expenditures on the Property by December 31, 2028'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the final option terms, the buyer is required to 'grant the Vendor a 2% net smelter returns royalty (the “NSR Royalty”).'"
+    },
+    "coverage_area_raw": {
+      "value": 10528,
+      "justification": "The article summary describes the property as '10,528 Hectares situated along the east-northeast trending Grease River Structure'."
+    },
+    "coverage_area_unit": {
+      "value": "Hectares",
+      "justification": "The article summary describes the property as '10,528 Hectares situated along the east-northeast trending Grease River Structure'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a historical resource for the nearby Fond du Lac deposit ('an estimated non-compliant historical resource of one million pounds uranium'), not for the Grease River Project itself. The text also states 'Limited exploration has been conducted in the property area', implying no current resource exists for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:TRAC",
+      "justification": "The buyer is identified as 'Traction Uranium Corp. (CSE: TRAC) (OTC: TRCTF) (FRA: Z1K)'."
+    }
+  }
+}

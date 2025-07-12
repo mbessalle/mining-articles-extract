@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Northwind/36979.txt",
+    "canada_projects/Northwind/80931.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Northwind Lake Property",
+      "justification": "The text states that CDN Maverick Capital Corp. proposes to acquire the 'Northwind Lake Property, a lithium pegmatite exploration project located in the Electric Avenue Lithium District'."
+    },
+    "company_name": {
+      "value": "CDN Maverick Capital Corp.",
+      "justification": "The buyer is identified in the first sentence: 'CDN Maverick Capital Corp. (\"Maverick\" or the \"Company\") (CSE: CDN) (OTCQB: AXVEF) (Frankfurt: 338B) is pleased to announce that it has entered into a definitive mineral property acquisition agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Adam Cegielski",
+      "justification": "A quote in the article is attributed to 'Maverick CEO Adam Cegielski'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states Maverick will 'acquire the Northwind Lake Property' but does not specify the percentage of interest being acquired."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is described as the 'Northwind Lake Lithium Project' and a 'lithium pegmatite exploration project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol. Given the acquiring company, CDN Maverick Capital Corp., is Canadian and listed on the Canadian Securities Exchange (CSE), the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The terms state the company can acquire the project through 'completion of cash payments totaling $100,000, of which $50,000 will be paid upon closing and the balance after 120 days.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is described as a number of shares to be issued, not a raw monetary value for the shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 500000,
+      "justification": "Pursuant to the terms of the Purchase Agreement, the Company can acquire the Project through the issuance of 500,000 common shares (the 'Consideration Shares')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms for the Northwind Lake project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms for the Northwind Lake project. The second document mentions an option agreement, but it is for a different Northwind project being acquired by Bolt Metals Corp."
+    },
+    "issued_share_price": {
+      "value": 0.3,
+      "justification": "The transaction terms mention the number of shares issued (500,000) but not the price per share. Using the last traded price as a fallback, as seen in the detailed quote for CDN Maverick: 'Last: 0.30'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned for the Northwind Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned for the Northwind Lake project. The commitment mentioned in the text ('CAD$3,000,000 in exploration expenditures') is for a different Northwind project in Quebec being acquired by Bolt Metals Corp."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as part of the transaction for the Northwind Lake project. The 3% NSR mentioned in the text is for a different Northwind project in Quebec being acquired by Bolt Metals Corp."
+    },
+    "coverage_area_raw": {
+      "value": 7040,
+      "justification": "The text states, 'The Northwind Lake Project consists of a series of mineral claims covering approximately 7,040 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states, 'The Northwind Lake Project consists of a series of mineral claims covering approximately 7,040 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a resource for the Northwind Lake project. It provides a resource for a nearby property (PAK Lithium deposit) but includes a specific caution: 'The Company cautions that results obtained on nearby properties do not necessarily imply the existence of similar mineralization or geological features on the Company's properties.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:CDN",
+      "justification": "The ticker and exchange for CDN Maverick Capital Corp. are listed at the top of the first article: 'CSE:CDN'."
+    }
+  }
+}

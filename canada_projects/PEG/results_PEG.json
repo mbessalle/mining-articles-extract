@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/PEG/36341.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "PEG",
+      "justification": "The text identifies the project multiple times, including: '...the addition of the PEG property which is prospective for Pegmatite hosted Lithium...' and 'PEG PROPERTY: (4525 ha: 4 Licenses, 181 Claims)...'"
+    },
+    "company_name": {
+      "value": "Sorrento Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'SORRENTO RESOURCES LTD. (the “Company”) (CSE:SRS) is pleased to announce it has entered into a mineral property purchase agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Brayden R. Sutton",
+      "justification": "The document is signed on behalf of the board by 'Brayden R. Sutton President and Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company will acquire 'a 100% interest in a portion of the claims comprising PEG Lithium property, Harmsworth and Tom Joe properties, as well as three properties along the Doucers Valley Fault...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The property description for PEG states: 'Commodities: Lithium (REE), deposit potential: Pegmatite Hosted Lithium (& REE).'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Sorrento Resources Ltd., is listed on the Canadian Securities Exchange (CSE:SRS), and the transaction details mention payments in '$', implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 8333.33,
+      "justification": "The project's share is $8,333.33, calculated as one-sixth of the total $50,000 cash consideration for the six properties (PEG, Harmsworth, Tom Joe, Jackson's Arm, Silver Mountain, Taylor's Pond) acquired in the transaction. The text states: 'As consideration for the Property, the Company will pay to Gold Hunter $50,000 in cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction was structured with a number of shares to be issued, not a raw share value. This is captured in `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components were provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 166667,
+      "justification": "The project's share is 166,667 shares, calculated as one-sixth of the total 1,000,000 shares issued for the six properties (PEG, Harmsworth, Tom Joe, Jackson's Arm, Silver Mountain, Taylor's Pond) acquired in the transaction. The text states: '...and issue 1,000,000 common shares...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.11,
+      "justification": "The transaction terms mention the number of shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.11'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions exploration plans but does not specify a commitment in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans, such as a 'boots on the ground mapping and prospecting program', but does not state a specific monetary value for an exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, a 1% NSR was granted to the seller, Gold Hunter: '...as well as a 1% net smelter returns royalty to be granted to Gold Hunter (the “Gold Hunter NSR”) upon Closing...'"
+    },
+    "coverage_area_raw": {
+      "value": 4525,
+      "justification": "The property description states: 'PEG PROPERTY: (4525 ha: 4 Licenses, 181 Claims)...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The property description states: 'PEG PROPERTY: (4525 ha: 4 Licenses, 181 Claims)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No formal mineral resource estimate (mass or volume) is provided for the PEG project. The text describes it as a 'showing' that is 'largely unexplored' and only mentions 'Anomalous lithium values up to 399.4 ppm'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:SRS",
+      "justification": "The buyer is identified in the first paragraph as 'SORRENTO RESOURCES LTD. (the “Company”) (CSE:SRS)'."
+    }
+  }
+}

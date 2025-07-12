@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/LAB/63521.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "LAB",
+      "justification": "The text refers to the project as the 'Lac-Aux-Bouleaux (\"LAB\") project'."
+    },
+    "company_name": {
+      "value": "Graphano Energy Ltd.",
+      "justification": "The company staking the claims is identified as 'Graphano Energy Ltd. (TSXV: GEL) (OTCQB: GELEF) (FSE: 97G0) (\"Graphano\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Luisa Moreno",
+      "justification": "The CEO is identified in the text: 'Luisa Moreno, Chief Executive Officer of the Company, stated...' and 'Luisa Moreno Chief Executive Officer and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that Graphano staked new claims, which typically implies 100% ownership, but it does not explicitly state the percentage of interest acquired for these new claims."
+    },
+    "primary_commodity": {
+      "value": "Graphite",
+      "justification": "The text states, 'Graphite is one of the most in-demand technology minerals that is required for a green and sustainable world. The Company's Lac Aux Bouleaux property, situated adjacent to Canada's only producing graphite mine...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/214414",
+      "justification": "The article is titled 'Graphano Stakes New Claims at Lac Aux Bouleaux' and discusses the 'Lac-Aux-Bouleaux (\"LAB\") project', which matches the project of interest."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a financial transaction, so no currency is mentioned in the deal terms."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims, not an acquisition from another party, so no cash payment is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims, not an acquisition from another party, so no share payment is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims, not an acquisition from another party, so no combined payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of new claims, not an acquisition from another party, so no shares were issued as consideration."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article does not mention any monetary exploration commitment for the newly staked claims."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the staking."
+    },
+    "coverage_area_raw": {
+      "value": 1187.13,
+      "justification": "The area of the newly acquired claims is specified: 'With the addition of 20 new claims (1,187.13 Ha), the total area now encompasses 36 claims over 2,028 Ha'."
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the area is specified as Ha: 'With the addition of 20 new claims (1,187.13 Ha)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a quantified mineral resource estimate with units of mass or volume; it only mentions that the new claims' area 'remains largely unexplored'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GEL",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph: 'Graphano Energy Ltd. (TSXV: GEL)'."
+    }
+  }
+}

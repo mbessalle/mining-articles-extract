@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Red Lake/64707.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Red Lake",
+      "justification": "The transaction concerns claims that are part of the Red Lake Gold Project: '...divested four (4) mining claims...representing less than 0.4% of the claim count of its Red Lake Gold Project...'"
+    },
+    "company_name": {
+      "value": "Great Bear Resources Ltd.",
+      "justification": "The text identifies the acquiring company (buyer) as Great Bear Resources Ltd. in the sentence: 'The Claim Sale was conducted by way of a purchase-and-sale agreement dated July 9, 2024 with Great Bear Resources Ltd. (“GBR”)...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The text identifies the buyer as Great Bear Resources Ltd. but does not name its CEO. The CEO mentioned, Ryan Kalt, is the CEO of the seller, Dixie Gold Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is described as a 'divestment' of 'four (4) mining claims' through a 'purchase-and-sale agreement', which implies a 100% acquisition of those specific assets."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the 'Red Lake Gold Project' and the retained royalty is on 'any gold or other metal production'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is '$100,000'. The seller, Dixie Gold Inc., is based in Vancouver, British Columbia and is listed on the TSX Venture Exchange (TSXV), which implies the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The text states: 'In connection with the Claim Sale, the Corporation received cash consideration of $100,000...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms only mention cash consideration and a royalty, with no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text explicitly provides a value for cash payments, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction did not involve the issuance of shares as payment."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an 'assessment sharing arrangement' related to exploration on an adjoining project owned by the buyer, but this is not a direct exploration spending commitment on the acquired claims as part of the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2.5,
+      "justification": "The seller, Dixie Gold Inc., retained a royalty as part of the deal: '...and was granted a 2.5% production royalty (NSR) on any mineral production from the four divested mining claims...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states that four mining claims were divested, but does not provide the specific area of these claims in hectares or square kilometers."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area value was provided in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any quantified mineral resource estimates for the Red Lake project or the divested claims."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer is identified as Great Bear Resources Ltd., but no stock ticker or exchange is provided for the buyer in the text. The ticker provided in the authoritative metadata (TSXV:DG) belongs to the seller, Dixie Gold Inc."
+    }
+  }
+}

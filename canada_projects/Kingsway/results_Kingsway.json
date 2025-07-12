@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Kingsway/52460.txt",
+    "canada_projects/Kingsway/54359.txt",
+    "canada_projects/Kingsway/63730.txt",
+    "canada_projects/Kingsway/64564.txt",
+    "canada_projects/Kingsway/64565.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kingsway",
+      "justification": "The documents consistently refer to the transaction as the acquisition or sale of the Kingsway Project. For example: 'New Found to Acquire Labrador Gold’s Kingsway Project' and 'Labrador Gold Shareholders Approve Sale of Kingsway Project'."
+    },
+    "company_name": {
+      "value": "New Found Gold Corp.",
+      "justification": "The text identifies the acquiring company: 'New Found Gold Corp. (“New Found” or the “Company”) (TSX-V: NFG, NYSE-A: NFGC) is pleased to announce that it has entered into a property purchase agreement (the “Agreement”) with Labrador Gold Corp. (“LabGold”) ... providing for the sale by LabGold to New Found...'"
+    },
+    "ceo_buyer": {
+      "value": "Collin Kettell",
+      "justification": "The contact information for the buyer, New Found Gold Corp., lists 'Collin Kettell, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that New Found Gold acquired a full interest in the project: 'New Found has successfully completed its previously announced acquisition of a 100% interest in Labrador Gold Corp.’s (“LabGold”) Kingsway Project'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text refers to gold discoveries and exploration: 'Exploration over the past several years by LabGold has resulted in several high-grade gold discoveries...' and 'LabGold’s drilling targeting high-grade epizonal gold mineralization...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a consolidation of multiple press releases about the Kingsway project acquisition. No single article link was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The purchase price is explicitly stated in Canadian dollars: 'in exchange for $20,000,000 CAD (the “Purchase Price”)'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was entirely in the form of shares, with no cash component mentioned."
+    },
+    "share_payments_raw": {
+      "value": 20000000,
+      "justification": "The transaction was valued at $20,000,000, paid in shares, as stated: 'NFG will acquire a 100% interest in the Kingsway Project... in exchange for $20,000,000 CAD (the “Purchase Price”) payable and satisfied by the delivery to LabGold of such number of NFG Common Shares'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because the consideration was explicitly defined as a share payment, which is captured in the `share_payments_raw` field, following Priority 1 of the financial extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "This field is null because the financial terms were extracted under Priority 1 of the financial data hierarchy (explicit share value of $20,000,000), and the financial hierarchy rules are mutually exclusive with Priority 2 (number of shares and price per share)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration in the provided text."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration in the provided text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "This field is null because the financial terms were extracted under Priority 1 of the financial data hierarchy (explicit share value of $20,000,000), and the financial hierarchy rules are mutually exclusive with Priority 2 (number of shares and price per share)."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The provided text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The provided text does not mention any monetary commitment for future exploration."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms described in the text do not include any mention of a Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 7775,
+      "justification": "The project details state: 'The Kingsway Project contains 311 mineral claims covering 7,775 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The project details state: 'The Kingsway Project contains 311 mineral claims covering 7,775 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions 'high-grade gold discoveries' but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:NFG",
+      "justification": "The buyer is identified in the text with its ticker and exchange: 'New Found Gold Corp. (“New Found” or the “Company”) (TSX-V: NFG, NYSE-A: NFGC)'."
+    }
+  }
+}

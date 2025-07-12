@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Rae Copper Project/75679.txt",
+    "canada_projects/Rae Copper Project/75679_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rae Copper Project",
+      "justification": "The article is titled 'Additional land acquired at Rae Cu-Ag Project' and refers to the project as 'Rae Copper-Silver Project (“Rae” or “the Project”)'."
+    },
+    "company_name": {
+      "value": "White Cliff Minerals Limited",
+      "justification": "White Cliff Minerals Limited (“the Company”) is pleased to announce the acquisition of additional licence area on the northern, adjacent boundary of its Rae Copper-Silver Project (“Rae” or “the Project”), Nunavut, Northern Canada."
+    },
+    "ceo_buyer": {
+      "value": "Troy Whittaker",
+      "justification": "Troy Whittaker - Managing Director"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is for the acquisition of additional land area, not a percentage interest in the project from another party. The text states 'acquisition of additional licence area'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is named the 'Rae Cu-Ag Project' and the text discusses its 'sediment-hosted copper potential'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The buying company, White Cliff Minerals Limited, is listed on the ASX and provides an Australian address and phone number, implying AUD. 'ASX: WCN Level 8, 99 St Georges Tce, Perth, WA 6000 Australia'."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any cash consideration for the acquisition of the additional land."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any share consideration for the acquisition of the additional land."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any combined cash and share consideration for the acquisition of the additional land."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The announcement does not mention any shares being issued as part of this transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any share warrants as part of this transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any options as part of this transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The announcement does not mention any shares being issued, so there is no associated price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for drilling but does not specify a commitment in meters as part of the acquisition terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions the company is 'fully funded for drilling' but does not state a specific monetary exploration commitment as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The announcement does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 243,
+      "justification": "This additional 243km2 of prospective ground, covers an additional 24kms of the Rae Group sediments along strike and further into the basin north of our primary sedimentary target..."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "This additional 243km2 of prospective ground, covers an additional 24kms of the Rae Group sediments along strike..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a JORC MRE for a different project, the 'Reedy South Gold Project'. For the Rae project, it only mentions 'prospectivity' and 'high grade Cu mineralisation occurrences' but no formal resource estimate."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:WCN",
+      "justification": "The document footer repeatedly lists the company's ticker and exchange as 'ASX: WCN'."
+    }
+  }
+}

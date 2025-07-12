@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Chester/63969.txt",
+    "canada_projects/Chester/70843.txt",
+    "canada_projects/Chester/73093.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Chester",
+      "justification": "The analysis is for the Chester project, as confirmed by the closing announcement: 'Canadian Copper Inc. (CSE: CCI) (\"Canadian Copper\" or the \"Company\") announced today the closing of the Chester Project asset sale...'"
+    },
+    "company_name": {
+      "value": "Raptor Resources Ltd.",
+      "justification": "The acquiring company (Buyer) is Raptor Resources Ltd. The seller is Canadian Copper Inc. 'Canadian Copper Provides Update on $2.1M Asset Sale to Raptor Resources'."
+    },
+    "ceo_buyer": {
+      "value": "Brett Wallace",
+      "justification": "The CEO of the buyer, Raptor Resources Ltd., is Brett Wallace. 'Brett Wallace, Managing Director/CEO of Raptor Resource Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is for the 'sale and transfer of Canadian Copper's Option Agreement rights for the Chester and Turgeon Projects', but no specific percentage of interest acquired is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The seller, Canadian Copper Inc., is described as 'a Canadian-based mineral exploration company with a copper and base metals portfolio of historical resources and grassroots projects.' The project name is Chester, and the seller's name is Canadian Copper, strongly implying copper is the primary commodity."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/224862",
+      "justification": "The article is a press release from Canadian Copper Inc. announcing the closing of the Chester Project asset sale to Raptor Resources Ltd."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are specified in dollars with a footnote indicating a conversion from AUD to CAD, implying the reported values are in CAD. 'The $675,0001 associated with the Chester Project Agreement is being transferred to the Company.' Footnote 1: 'CAD Exchange Rate (AUD:CAD) 0.9'."
+    },
+    "cash_payments_raw": {
+      "value": 675000,
+      "justification": "The announcement on September 30, 2024, explicitly states the cash payment for the Chester Project: 'The $675,0001 associated with the Chester Project Agreement is being transferred to the Company.' This is also confirmed in 'Table A: Transaction Agreement Changes' which lists a Cash Payment of $675,000 for the Chester Agreement."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is structured with a specific number of shares and an assumed price per share, so `amount_of_shares_issued` and `issued_share_price` are populated instead, according to the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components are detailed separately, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "The transaction involves a total of 4,000,000 shares for two projects. 'Table A: Transaction Agreement Changes' in the September 30, 2024 release explicitly allocates 2,000,000 shares to the Chester Agreement."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.2,
+      "justification": "A footnote in the press releases specifies the assumed share price for the transaction based on listing rules: 'ASX listing rules mandate a minimum issue price of $0.20 per share. Consideration value assumes a $0.20 price per share...'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the documents."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the documents."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) is mentioned as being acquired or retained in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area (in ha or km2) is provided in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No information regarding the project's coverage area is provided in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions that a qualified person 'is responsible for the Chester MRE' (Mineral Resource Estimate), but it does not provide any specific quantities (e.g., tonnes, ounces) for the resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer, Raptor Resources Ltd., is currently a private company targeting a future listing. 'Under the modified agreements, Raptor is targeting its Initial Public Offering (\"IPO\") and listing on the Australian Securities Exchange (\"ASX\") in June 2025.' As it is not yet listed, it has no ticker."
+    }
+  }
+}

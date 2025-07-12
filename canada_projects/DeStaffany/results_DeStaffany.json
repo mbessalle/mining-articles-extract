@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/DeStaffany/82477.txt",
+    "canada_projects/DeStaffany/85152.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "DeStaffany",
+      "justification": "The text refers to the project as the 'DeStaffany Lithium Project' in the headline 'Li-FT Closes Acquisition of 100% Interest in the DeStaffany, LDG & Mackay Lithium Projects, NWT, Canada'."
+    },
+    "company_name": {
+      "value": "North Arrow Minerals Inc.",
+      "justification": "The seller of the project is identified as North Arrow Minerals Inc. in the sentence: 'North Arrow Minerals Inc.(TSXV: NAR)(\"North Arrow\" or the \"Company\") is pleased to announce it has agreed to sell three lithium properties located in the Northwest Territories Canada to Li-FT Power Ltd.'"
+    },
+    "ceo_buyer": {
+      "value": "Francis MacDonald",
+      "justification": "The CEO of the buyer, Li-FT Power Ltd., is identified in the quote: 'Francis MacDonald, CEO and Director of LIFT, commented, \"We are excited to close this acquisition with North Arrow...\"'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The buyer, Li-FT, acquired a full interest in the project as stated: 'Li-FT Closes Acquisition of 100% Interest in the DeStaffany, LDG & Mackay Lithium Projects, NWT, Canada'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly identified as a lithium project: 'North Arrow Minerals Inc. is pleased to announce it has agreed to sell three lithium properties...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/238226",
+      "justification": "The article titled 'Li-FT Closes Acquisition of 100% Interest in the DeStaffany, LDG & Mackay Lithium Projects, NWT, Canada' directly concerns the acquisition of the DeStaffany project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The currency is identified as Canadian Dollars from the mention of a royalty buyback provision: '...may be repurchased at anytime on payment of CAD $2,000,000 to the royalty holder.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was shares. A cash amount of 'approximately CAD $47,500' is mentioned, but it is specified as a 'post-closing cash reimbursement... related to the reclamation bond for the DeStaffany Lithium Project', not as payment for the asset itself."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Information is captured under `amount_of_shares_issued` and `issued_share_price` as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Information is captured under `amount_of_shares_issued` and `issued_share_price` as per the data extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 83333,
+      "justification": "The value is one-third of the total 250,000 shares issued for three projects (DeStaffany, LDG, and Mackay), as the consideration was shared among them. The text states the acquisition was 'in exchange for the issuance of 250,000 common shares of LIFT to North Arrow Minerals' for all three projects."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 2.28,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price for the buyer (Li-FT) as a fallback, as seen in the detailed quote section for Li-FT: 'Last: 2.28'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states the property is 'subject to a 2% gross overriding royalty'. This is a pre-existing royalty and not part of the consideration or terms of the transaction between North Arrow and Li-FT."
+    },
+    "coverage_area_raw": {
+      "value": 1843,
+      "justification": "The area specific to the DeStaffany project is stated: 'The DeStaffany lithium property covers 1,843 ha...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is provided in the sentence: 'The DeStaffany lithium property covers 1,843 ha...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a formal mineral resource estimate. It indicates a lack of evaluation, stating the project has 'never been subject to a focused evaluation of their lithium potential' and 'The Moose 1 pegmatite has never been drilled', implying no resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:LIFT",
+      "justification": "The buyer is identified with its ticker and exchange in the text: 'Li-FT Power Ltd. (TSXV: LIFT) ... is pleased to announce that it has closed the previously announced definitive agreement...'"
+    }
+  }
+}

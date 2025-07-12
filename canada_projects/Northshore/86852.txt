@@ -1,0 +1,86 @@
+--- Article Metadata ---
+Project Name: Northshore
+Company Name: NatBridge Resources Ltd.
+Exchange: CSE
+Ticker: NATB
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+2.5.2025, 1:10:00 AM
+
+# Clarification to News Release Entitled "Great Eagle Gold Corp. Announces LOI to Acquire Patented Mineral Rights Titles Containing NI 43-101 Certified Gold Resources"
+
+Burnaby, British Columbia--(Newsfile Corp. - February 4, 2025) - As a result of a review by the British Columbia Securities Commission, the Company is issuing the following release to clarify its disclosure. In addition, the Canadian Investment Regulatory Organization ("CIRO"), has requested that Great Eagle Gold Corp. (CSE: GEGC) (OTC Pink: GEGCF) (FSE: GI8) ("Great Eagle") clarify certain information in its press release entitled "Great Eagle Gold Corp. Announces LOI to Acquire Patented Mineral Rights Titles Containing NI 43-101 Certified Gold Resources" dated January 27, 2025, (the "January 27 Release"), in regards to certain geological information and resource statements. Great Eagle also clarifies that it had signed a non-binding Letter of Intent (LOI) dated December 24, 2024 with New Path Resources Inc. (the "Vendor"), an arms-length party, to acquire a 100% interest in a mining claims package that includes three patented claims containing NI 43-101 inferred gold resources (the "Tokenization Qualifying Titles"). As they are patented claims the related subsurface rights under the Tokenization Qualifying Titles meet the perpetual ownership and zero ongoing carrying cost requirements necessary for tokenization into NatGold Tokens under NatGold Digital Ltd.'s ("NatGold") patent-pending digital gold mining model. The provisional patent-pending is the _"Method of Tokenization and Token Transformation to Partially Mined Gold Deposits"_ : Date of Filing - January 27, 2025, Application No.: 63/749,991.
+
+The January 27 Release contained disclosure that was not in compliance with, and contrary to, NI 43-101. In the January 27 Release, Great Eagle made references to "certified" inferred gold resources and seeks to clarify the Release with the removal of the references to "certified" as this is not a technical term referred to or defined in NI 43-101. In addition, in regards to the inferred resources referred to in the January 27 Release, Great Eagle clarifies as follows:
+
+The NI 43-101 compliant gold resource on the three patented claims referred to in the January 27 Release is: 
+
+_Northshore Inferred Mineral Resource Estimate_
+
+ 
+
+**Tonnes**| **Grade (g/t Au)**| **Cut Off Grade (g/t Au)**| **Total Ounces**| **Category**  
+---|---|---|---|---  
+6,511,000| 1.15| 0.40| 240,100| Inferred*****  
+  
+ 
+
+*Notes:
+
+  1. The mineral resources have been classified according to the Canadian Institute of Mining (CIM) Definition Standards for Mineral Resources and Mineral Reserves (May 2014) and CIM Estimation of Mineral Resources & Mineral Reserves Best Practices Guidelines (2019).
+  2. ***** Inferred Mineral Resources are not Mineral Reserves. Mineral resources which are not mineral reserves do not have demonstrated economic viability. There has been insufficient exploration to define the inferred resources tabulated above as an indicated or measured mineral resource, however, it is reasonably expected that the majority of the Inferred Mineral Resources could be upgraded to Indicated Mineral Resources with continued exploration. There is no guarantee that any part of the mineral resources discussed herein will be converted into a mineral reserve in the future. The estimate of mineral resources may be materially affected by environmental, permitting, legal, marketing, or other relevant issues.
+  3. Resource estimation was conducted by Mr. David Briggs, NHD, Pr.Sc.Nat., of RockRidge Partnership and Associates under the supervision of Mr. Michael Dufresne, M.Sc., P.Geol., P.Geo of APEX Geoscience Ltd. Of Edmonton, Alberta.
+  4. Mr. Dufresne, M.Sc., P.Geol., P.Geo. of APEX Geoscience Ltd., who is a qualified person as defined by NI 43- 101, is responsible for the completion of the mineral resource estimation. 
+
+
+
+Lawrence Segerstrom, CPG, a Director of Great Eagle, and a Qualified Person as defined in National Instrument 43-101, Standards of Disclosure for Mineral Projects, has approved the scientific and technical disclosure in this news release.
+
+It is important to note that completion of the transaction is subject to a number of closing conditions customary to transactions of the nature of the transaction. There can be no assurance that the transaction will be completed as proposed or at all.
+
+**About Great Eagle Gold**
+
+Great Eagle Gold Corp. (CSE: GEGC) (OTC Pink: GEGCF) (FSE: GI8) is a publicly traded Canadian company, also listed in the United States and Germany, leading a groundbreaking evolution in digital mining. This new approach reshapes how the global gold mining industry realizes gold's intrinsic value. Partnering with New York-based NatGold Digital Ltd., Great Eagle leverages a blockchain-powered, ESG-friendly digital mining process. This method provides a regulatory-compliant way to invest in gold while eliminating the considerable environmental, social, and financial costs of traditional gold mining.
+
+Great Eagle's unique strategy focuses on the supply side of the NatGold ecosystem. By acquiring NI 43-101 gold resources and seamlessly integrating them through a title swap process that meets NatGold Digital Ltd.'s exacting token integrity standards, Great Eagle establishes itself as a pivotal contributor. Together, Great Eagle and NatGold Digital operate at the convergence of three compelling global investment themes: gold, ESG investing, and the tokenization of real-world assets.
+
+For more information, visit [www.greateaglegold.com](https://api.newsfilecorp.com/redirect/ZAZpoIxymG).
+
+On behalf of the board,
+
+**Andrew Fletcher, CEO & Director**  
+Great Eagle Gold Corp.  
++1 (778) 372-9723
+
+ _**Neither the Canadian Securities Exchange (the "CSE") nor the Market Regulator (as that term is defined in the policies of the CSE) accepts responsibility for the adequacy or accuracy of this news release.**_
+
+_This news release includes certain statements that may be deemed "forward-looking statements" within the meaning of applicable Canadian securities legislation. Forward-looking statements include, but are not limited to statements with respect to Great Eagle's proposed Financing, operations, the LOI with New Path Resources, and the acquisition of NI 43-101 gold resources, the ability to digitally mine NatGold coins, the viability of the NatGold tokenization and monetization ecosystem, and development plans, expansion plans, estimates, expectations, forecasts, objectives, predictions and projections of the future. Specifically, this news release contains forward looking statements with respect to Great Eagle's proposed operations, acquiring and developing gold resources and their tokenization, and the receipt of required approvals. Generally, forward-looking statements can be identified by the forward- looking terminology such as "plans", "expects" or "does not expect", "is expected", "budget", "scheduled", "estimates", "projects", "intends", "anticipates", or "does not anticipate", or "believes", or "variations of such words and phrases or state that certain actions, events or results "may", "can", "could", "would", "might", or "will" be taken", "occur" or "be achieved". Forward-looking statements are subject to known and unknown risks, uncertainties and other factors that may cause the actual results, level of activity, performance or achievements of Great Eagle to be materially different from those expressed or implied by such forward-looking statements, including but not limited to: risks related to the exploration and development and operation of Great Eagle's projects, the actual results of current exploration, development activities, conclusions of economic evaluations, changes in project parameters as plans continue to be refined, future precious metals prices, as well as those factors discussed in the sections relating to risk factors of our business filed in Great Eagle's required securities filings on SEDAR+. Although Great Eagle has attempted to identify important factors that could cause results to differ materially from those contained in forward- looking statements, there may be other factors that cause results to be materially different from those anticipated, described, estimated, assessed or intended._
+
+_The forward-looking statements contained in this news release are made as of the date of this news release. Except as required by law, the Company disclaims any intention and assumes no obligation to update or revise any forward-looking statements, whether as a result of new information, future events or otherwise, except as required by applicable securities law. Additionally, the Company undertakes no obligation to comment on the expectations of, or statements made, by third parties in respect of the matters discussed above._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/239598](https://api.newsfilecorp.com/redirect/arZK4uwKRZ)
+
+### Project Name
+
+[Northshore Project](/?gid=1643)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 0.41            $  Chg: 0.14
+Open: 0.32            High: 0.42
+Bid: 0.36             Bid Size: 20500
+Beta: 1.18024            Year High: 0.75
+Market Cap: 23.89m      PB Ratio: -150.25
+EPS: -0.11             Average Volume (30 Day): 32.27k
+Volume: 385.19k          % Chg: 51.85%
+Prev. Close: 0.27     Low: 0.32
+Ask: 0.36             Ask Size: 10000
+VWAP: 0.37373            Year Low: 0.095
+Total Shares: 58.26m    Shares Out: 58.26m
+Float: 48.59m           Exchange: CSE

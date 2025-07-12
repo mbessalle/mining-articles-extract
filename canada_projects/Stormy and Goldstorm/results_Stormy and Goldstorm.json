@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Stormy and Goldstorm/47542.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stormy and Goldstorm",
+      "justification": "The press release announces two separate but related agreements for the two projects: \"Kenorland Minerals Ltd. ... is pleased to announce that it has entered into two option agreements (collectively the \"Agreements\") to acquire a 100% interest in the Stormy Project and the Goldstorm Project (the \"Optioned Projects\").\""
+    },
+    "company_name": {
+      "value": "Kenorland Minerals Ltd.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Kenorland Minerals Ltd.(TSXV: KLD) (OTCQX: KLDCF) (FSE: 3WQ0) (\"Kenorland\" or the \"Company\") is pleased to announce that it has entered into two option agreements...\""
+    },
+    "ceo_buyer": {
+      "value": "Zach Flood",
+      "justification": "The CEO of the acquiring company is identified at the end of the press release: \"On behalf of the Board of Directors, Zach Flood President, CEO & Director\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement grants Kenorland the option to acquire the full interest in the projects: \"Pursuant to the Agreements, the Company is granted the option to acquire a 100% interest in the Optioned Projects...\""
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The article describes the geology and mentions gold in the context of another project ('Regnault gold system'), but does not explicitly state the primary commodity for the Stormy and Goldstorm projects themselves."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/194675",
+      "justification": "The article, sourced from newsfilecorp.com, is titled \"Kenorland Minerals Expands Portfolio in the Western Wabigoon Subprovince\" and directly details the option agreements for the Stormy and Goldstorm projects, which are the projects of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Kenorland Minerals Ltd., is listed on the TSX Venture Exchange (TSXV) and is based in Vancouver, British Columbia, Canada, which implies that the transaction currency denoted by '$' is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 517500,
+      "justification": "This is the sum of all cash payments for both projects. For the Stormy Project: $25,000 cash, plus 50% of $50,000, 50% of $60,000, 50% of $75,000, and 50% of $100,000, totaling $167,500. For the Goldstorm Project: 25% of $200,000, 25% of $200,000, 40% of $250,000, and 50% of $300,000, totaling $350,000. The combined total is $167,500 + $350,000 = $517,500."
+    },
+    "share_payments_raw": {
+      "value": 742500,
+      "justification": "This is the sum of the value of all share-based payments for both projects. For the Stormy Project: 50% of $50,000, 50% of $60,000, 50% of $75,000, and 50% of $100,000, totaling $142,500. For the Goldstorm Project: 75% of $200,000, 75% of $200,000, 60% of $250,000, and 50% of $300,000, totaling $600,000. The combined total is $142,500 + $600,000 = $742,500."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are broken down into separate cash and share components, which have been populated in their respective fields."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The number of shares to be issued is not a fixed amount; it is dependent on the future market price. The text states: \"All common shares of Kenorland issuable pursuant to the Agreements will have a deemed issuance price equivalent to the market price of such Shares at the time of issuance.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The press release does not mention any share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreements are structured as options, the consideration is specified as cash and shares, which are captured in their respective fields. No separate payment instrument called 'options' was used for payment."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The share price is not fixed and will be determined at the time of issuance based on market conditions. The text states: \"All common shares of Kenorland issuable pursuant to the Agreements will have a deemed issuance price equivalent to the market price of such Shares at the time of issuance.\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for future exploration work (\"planning a number of large-scale systematic regional geochemical surveys\") but does not state a required monetary exploration commitment as part of the option agreements' terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the agreements, Kenorland will grant a 1.5% NSR on each project to the optionors. \"Additionally, the Company will grant a 1.5% net smelter return royalty on the Stormy Project... Additionally, the Company will grant a 1.5% net smelter return royalty on the Goldstorm Project...\""
+    },
+    "coverage_area_raw": {
+      "value": 25400,
+      "justification": "The total area of the combined land package is explicitly stated: \"The newly optioned land package, covering 25,400 hectares of ground...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: \"The newly optioned land package, covering 25,400 hectares of ground...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource estimate. It describes the projects as being in an early stage of exploration: \"Kenorland believes that these project areas... are under-explored\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:KLD",
+      "justification": "The buyer's ticker and primary exchange are provided in the first paragraph of the press release: \"Kenorland Minerals Ltd. (TSXV: KLD)\"."
+    }
+  }
+}

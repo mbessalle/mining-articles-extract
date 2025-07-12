@@ -1,0 +1,35 @@
+--- Article Metadata ---
+Project Name: Vent
+Company Name: Aventis Energy Inc Inc.
+Exchange: CSE
+Ticker: AVE
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+7.25.2024, 6:22:38 AM
+
+# Vital Battery Metals Terminates Vent Property Option
+
+### Project Name
+
+[Vent Project](/?gid=5399)  
+British Columbia, Canada
+
+--- Detailed Quote ---
+
+Last: 0.33            $  Chg: 0.005
+Open: 0.33            High: 0.33
+Bid: 0.325             Bid Size: 2000
+Beta: 1.6922            Year High: 0.33
+Market Cap: 21.92m      PB Ratio: 4.68
+EPS: -0.02             Average Volume (30 Day): 693.56k
+Volume: 594.00k          % Chg: 1.54%
+Prev. Close: 0.325     Low: 0.325
+Ask: 0.33             Ask Size: 52500
+VWAP: 0.32862            Year Low: 0.08
+Total Shares: 66.44m    Shares Out: 66.44m
+Float: 60.98m           Exchange: CSE

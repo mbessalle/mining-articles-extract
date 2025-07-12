@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Snow Lake/52646.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Snow Lake",
+      "justification": "The text identifies one of the company's projects as 'The Snow Lake Lithium™ Project is a development project located in the Snow Lake region of Northern Manitoba...'"
+    },
+    "company_name": {
+      "value": "Snow Lake Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Snow Lake Resources Ltd., (NASDAQ: LITM) d/b/a Snow Lake Energy (\"Snow Lake\" or the \"Company\")'."
+    },
+    "ceo_buyer": {
+      "value": "Frank Wheatley",
+      "justification": "\"...commented Frank Wheatley, CEO of Snow Lake.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The 100% interest acquired pertains to the Black Lake Uranium Project, not the Snow Lake project. The text states Snow Lake will 'acquire a 100% interest in the Black Lake Uranium Project'."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The text describes the project as 'The Snow Lake Lithium™ Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about an M&A transaction for the Snow Lake project. It describes the acquisition of the Black Lake Uranium Project by Snow Lake Resources Ltd."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The currency mentioned (CAD) is associated with the acquisition of the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments detailed are for the acquisition of the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments detailed are for the acquisition of the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": null
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The shares to be issued (1,000,000 initial and 1,000,000 milestone) are consideration for the acquisition of the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": null
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No share price is mentioned in relation to a transaction for the Snow Lake project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": null
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration expenditures mentioned are a commitment for the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": null
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The coverage area of 18,908 hectares is for the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The unit 'hectares' is associated with the coverage area of the Black Lake Uranium Project, not the Snow Lake project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain a mineral resource estimate for the Snow Lake project. The resource mentioned is a potential future resource for the Black Lake Uranium Project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "NASDAQ:LITM",
+      "justification": "The text identifies the company as 'Snow Lake Resources Ltd., (NASDAQ: LITM)'."
+    }
+  }
+}

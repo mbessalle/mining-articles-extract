@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Swanson/70441.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Swanson",
+      "justification": "Collectively, these properties form part of the Company's Swanson Gold Project (\"Swanson\" or the \"Project\") located in the Val-d'Or region of Québec."
+    },
+    "company_name": {
+      "value": "LaFleur Minerals Inc.",
+      "justification": "LAFLEUR MINERALS INC. (CSE: LFLR) (OTC PINK: WPNNF) (\"LaFleur Minerals \" or the \"Company\") is pleased to announce that it has entered into an Option Agreement..."
+    },
+    "ceo_buyer": {
+      "value": "Paul Ténière",
+      "justification": "ON BEHALF OF LAFLEUR MINERALS INC.\n\nPaul Ténière, P.Geo.  \nChief Executive Officer"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Pursuant to the terms and conditions of the Agreement and in order to acquire a 100% interest in and to the Property, the Company must..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The Swanson Gold Project is an advanced exploration stage project... There are 25 documented mineral showings on the Project which includes 22 showings with gold as the primary commodity."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/222189",
+      "justification": "The article is titled 'LaFleur Minerals Announces Option Agreement' and discusses the acquisition of properties for the Swanson Gold Project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted with a '$' symbol, and the acquiring company, LaFleur Minerals Inc., is listed on the Canadian Securities Exchange (CSE), indicating the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 175000,
+      "justification": "pay Prospectus $175,000 cash on or before the date that is six months from the Effective Date;"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a price per share can be determined, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components are provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "issue the Optionors an aggregate of 8,000,000 common shares in the capital of the Company (\"Shares\"), as follows: an initial 4,000,000 Shares... and a further 4,000,000 Shares..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The agreement terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "While the agreement is an 'Option Agreement', there are no payments in the form of stock options mentioned in the terms."
+    },
+    "issued_share_price": {
+      "value": 0.475,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.475'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "incur an aggregate of at least $1,500,000 in exploration expenditures, as follows: $400,000... $600,000... $500,000"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Following the Company's exercise of the Option the Company will grant Sekhon a two percent (2%) gross metals returns royalty on the Sekhon Property."
+    },
+    "coverage_area_raw": {
+      "value": 15000,
+      "justification": "The Swanson Gold Project is over 15,000 hectares in size..."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The Swanson Gold Project is over 15,000 hectares in size..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text states that an updated Mineral Resource Estimate is in the final stages of being prepared and that another resource is 'historical in nature', but it does not provide a quantified value for any current mineral resource."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:LFLR",
+      "justification": "The press release identifies the company as 'LAFLEUR MINERALS INC. (CSE: LFLR)'."
+    }
+  }
+}

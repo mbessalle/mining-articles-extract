@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sands of Time/39045.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sands of Time",
+      "justification": "The authoritative project name is Sands of Time, which is confirmed in the text: \"Cascadia Options Sands of Time Property, Yukon\"."
+    },
+    "company_name": {
+      "value": "Cascadia Minerals Ltd.",
+      "justification": "The authoritative company name is Cascadia Minerals Ltd., which is confirmed in the text: \"Cascadia Minerals Ltd. (\"Cascadia\") (TSXV: CAM) is pleased to announce that it has optioned the 57 km2 Sands of Time property\"."
+    },
+    "ceo_buyer": {
+      "value": "Graham Downs",
+      "justification": "\"_We're pleased to be adding the Sands of Time property to our portfolio of copper exploration projects,_ \" stated Cascadia's president and CEO, Graham Downs."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Cascadia can acquire a 100% interest in the Property by making aggregate cash payments of $200,000, aggregate issuance of 900,000 shares, and incurring $1,300,000 in exploration expenditures on or before December 31, 2026."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text describes the project as having \"copper-molybdenum-gold porphyry mineralization\" and states Cascadia is adding it to their \"portfolio of copper exploration projects\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release about the Sands of Time project, but no verifiable article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Cascadia Minerals Ltd., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for the transaction is Canadian Dollars (CAD). The payments are denoted with a '$' symbol."
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "Cascadia can acquire a 100% interest in the Property by making aggregate cash payments of $200,000..."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and a cash component, not a total share value. Per the extraction hierarchy, `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms provide separate values for cash and shares, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 900000,
+      "justification": "Cascadia can acquire a 100% interest in the Property by making... aggregate issuance of 900,000 shares..."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any stock options as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.185,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.185'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1300000,
+      "justification": "Cascadia can acquire a 100% interest in the Property by... incurring $1,300,000 in exploration expenditures on or before December 31, 2026."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty, as stated: \"Following completion of the option, the Property will remain subject to a 2% net smelter return royalty, of which half (1%) can be purchased by Cascadia for $1,000,000.\""
+    },
+    "coverage_area_raw": {
+      "value": 57,
+      "justification": "Cascadia Minerals Ltd. (\"Cascadia\") (TSXV: CAM) is pleased to announce that it has optioned the 57 km2 Sands of Time property (\"the Property\") from Dr. Jack Milton."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "Cascadia Minerals Ltd. (\"Cascadia\") (TSXV: CAM) is pleased to announce that it has optioned the 57 km2 Sands of Time property (\"the Property\") from Dr. Jack Milton."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates no current resource exists by mentioning a future milestone payment for the establishment of the first resource: \"A milestone payment of $1 per ounce of gold equivalent will also be due to Dr. Milton upon the completion of the first measured or indicated mineral resource on the Property equal to or greater than 1,000,000 ounces of gold equivalent.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CAM",
+      "justification": "The buyer's ticker and exchange are explicitly mentioned in the first paragraph: \"Cascadia Minerals Ltd. (\"Cascadia\") (TSXV: CAM) is pleased to announce...\""
+    }
+  }
+}

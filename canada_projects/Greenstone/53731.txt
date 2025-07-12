@@ -1,0 +1,55 @@
+--- Article Metadata ---
+Project Name: Greenstone
+Company Name: Equinox Gold Corp.
+Exchange: TSX
+Ticker: EQX
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+5.13.2024, 7:46:00 PM
+
+# Equinox Gold Completes Consolidation of Ownership of the Greenstone Mine
+
+Vancouver, British Columbia--(Newsfile Corp. - May 13, 2024) - **Equinox Gold Corp.** (TSX: EQX) (NYSE American: EQX) is pleased to announce the Company has completed its previously announced acquisition of the remaining 40% of Greenstone Gold Mine GP Inc. from certain funds managed by Orion Mine Finance Management LP ("Orion"), giving Equinox Gold 100% ownership of the Greenstone Mine in Ontario, Canada (the "Transaction"). In connection with the Transaction, Equinox Gold has also completed the previously announced US$500 million three-year term loan. 
+
+Greg Smith, President and CEO of Equinox Gold, commented: "Closing of this transaction consolidates our ownership of the world-class Greenstone Mine, a long-life, low-cost gold mine of significant scale in a top-tier mining jurisdiction. We again thank Orion for their partnership and support over the last few years and look forward to delivering value to all our stakeholders as we advance the Greenstone Mine towards commercial production."
+
+**Equinox Gold Contacts**
+
+Greg Smith, President & CEO  
+Rhylin Bailie, Vice President, Investor Relations  
+Tel: +1 604-558-0560  
+Email: [ir@equinoxgold.com](mailto:ir@equinoxgold.com)
+
+ _**Cautionary Notes**_
+
+ _This news release contains certain forward-looking information and forward-looking statements within the meaning of applicable securities legislation. Forward-Looking statements and forward-looking information in this news release relate to, among other things: the Company's ability to successfully advance Greenstone Mine to commercial production and the timing thereof; and the Company's expectations for the operation of Greenstone, including production capabilities and future financial or operating performance. Forward-Looking statements or information generally identified by use of the words "advance", "look forward", "delivering", and similar expressions and phrases or statements that certain actions, events or results "could", "would" or "should", or the negative connotation of such terms, are intended to identify forward-looking statements and information. Although the Company believes that the expectations reflected in such forward-looking statements and information are reasonable, undue reliance should not be placed on forward-looking statements as the Company can give no assurance that such expectations will prove to be correct. The Company has based these forward-looking statements and information on the Company's current expectations and projections about future events and these assumptions include but are not limited to: commissioning at Greenstone being completed and performed in accordance with current expectations; and Equinox Gold's ability to achieve the exploration, production, cost and development expectations for Greenstone. While the Company considers these assumptions to be reasonable based on information currently available, they may prove to be incorrect. Accordingly, readers are cautioned not to put undue reliance on the forward-looking statements or information contained in this news release._
+
+_The Company cautions that forward-looking statements and information involve known and unknown risks, uncertainties and other factors that may cause actual results and developments to differ materially from those expressed or implied by such forward-looking statements and information contained in this news release and the Company has made assumptions and estimates based on or related to many of these factors. Such factors include, without limitation: fluctuations in gold prices; fluctuations in prices for energy inputs, labour, materials, supplies and services; fluctuations in currency markets; operational risks and hazards inherent with the business of mining (including environmental risks, geotechnical failures, industrial accidents, equipment breakdown, unusual or unexpected geological or structural formations, cave-ins, flooding and severe weather); inadequate insurance, or inability to obtain insurance to cover these risks and hazards; employee relations; relationships with, and claims by, local communities and Indigenous partners; the Company's ability to obtain all necessary permits, licenses and regulatory approvals in a timely manner or at all; changes in laws, regulations and government practices; legal restrictions relating to mining; and those factors identified in the section titled "Risks and Uncertainties" in Equinox Gold's Management's Discussion & Analysis dated February 21, 2024 for the year ended December 31, 2023, and in the section titled "Risks Related to the Business" in Equinox Gold's most recently filed Annual Information Form, both of which are available on SEDAR+ at [www.sedarplus.ca](https://api.newsfilecorp.com/redirect/ZAKr3u451w) and on EDGAR at [www.sec.gov](https://api.newsfilecorp.com/redirect/areG5Un3J7). Forward-Looking statements and information are designed to help readers understand management's views with respect to future events and speak only as of the date they are made. Except as required by applicable law, Equinox Gold assumes no obligation to update or to publicly announce the results of any change to any forward-looking statement or information contained or incorporated by reference to reflect actual results, future events or developments, changes in assumptions or changes in other factors affecting the forward-looking statements and information. If Equinox Gold updates any one or more forward-looking statements, no inference should be drawn that Equinox Gold will make additional updates with respect to those or other forward-looking statements. All forward-looking statements and information contained in this news release are expressly qualified in their entirety by this cautionary statement._
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/208938](https://api.newsfilecorp.com/redirect/2EZrAUo8GZ)
+
+### Project Name
+
+[Greenstone Project](/?gid=2877)  
+Ontario, Canada
+
+--- Detailed Quote ---
+
+Last: 8.07            $  Chg: 0.15
+Open: 7.86            High: 8.08
+Bid: 8.00             Bid Size: 500
+Beta: 1.38832            Year High: 10.35
+Market Cap: 3.68b      PB Ratio: 0.80
+EPS: 1.10             Average Volume (30 Day): 2.51m
+Volume: 1.85m          % Chg: 1.89%
+Prev. Close: 7.92     Low: 7.78
+Ask: 8.08             Ask Size: 3000
+VWAP: 7.98756            Year Low: 6.18
+Total Shares: 456.11m    Shares Out: 758.99m
+PE Ratio: 8.78        Float: 455.65m
+Exchange: TSX

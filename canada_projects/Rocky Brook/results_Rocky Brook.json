@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Rocky Brook/82214.txt",
+    "canada_projects/Rocky Brook/92486.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Rocky Brook",
+      "justification": "The press release is titled 'Magna Terra Acquires Strategic Land Package in the Prolific Bathurst Mining Camp of Northern New Brunswick' and states the company 'has acquired a significant and strategic exploration land package - the Rocky Brook Project (\"Rocky Brook\" or the \"Project\")'."
+    },
+    "company_name": {
+      "value": "Magna Terra Minerals Inc.",
+      "justification": "The press release is issued by 'Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT)'."
+    },
+    "ceo_buyer": {
+      "value": "Lewis Lawrick",
+      "justification": "A quote in the article is attributed to '~ Lew Lawrick, President and CEO, Magna Terra Minerals Inc.' The contact information also lists 'Lewis Lawrick President and CEO, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company can earn a 100% interest in the Rocky Brook Project by paying $5,000 in cash and issuing 650,000 common shares on signing..."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is described as giving the company 'exposure to an emerging gold district'. The text also highlights 'Recent discovery in 2023 of high-grade gold assays from grab samples assaying up to 5.23 g/t Au over a 400 m area at Fournier Lake'."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/956076/magna-terra-acquires-strategic-land-package-in-the-prolific-bathurst-mining-camp-of-northern-new-brunswick",
+      "justification": "The article is about Magna Terra Minerals Inc. acquiring the Rocky Brook Project, which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Magna Terra Minerals Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency for the transaction is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 110000,
+      "justification": "Calculated from two identical option agreements, each requiring '$5,000 in cash... on signing' and '$50,000 in cash' over four years. The total definite cash is ($5,000 + $50,000) * 2 = $110,000. Source text: '...paying $5,000 in cash... on signing; with $50,000 in cash... payable over a four-year period... for each of the two agreements.'"
+    },
+    "share_payments_raw": {
+      "value": 285000,
+      "justification": "Calculated by aggregating the value of signing shares and the future optional payments. The value of 1,300,000 signing shares (650,000 x 2) is calculated at the stated floor price of $0.05/share, totaling $65,000. This is added to the $220,000 ($110,000 x 2) in future payments which can be made in cash or shares, for a total of $285,000. Source text: '...issuing 650,000 common shares on signing... with... $110,000 in cash and/or consideration shares payable... for each of the two agreements.' and 'All share issuances will be based on the greater of $0.05 per share...'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The deal terms were broken down into explicit cash and calculable share values, which takes priority over a combined value as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The deal terms were categorized under Priority 1 (explicit cash and share values), which makes this field null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The deal terms were categorized under Priority 1 (explicit cash and share values), which makes this field null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for the Rocky Brook project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions an exploration commitment for the Williams Brook Project ($16,750,000), but not for the Rocky Brook Project. The justification is: 'Kinross can earn a 65% interest in the Williams Brook Project by spending $16,750,000 in exploration expenditures'."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty as part of the deal: 'Prospect Or retains a 2% Net Smelter Return Royalty (\"NSR\") with 1% of the NSR purchasable at anytime by Magna Terra for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 18694,
+      "justification": "This is the final consolidated area from the second press release, which includes an expansion of the project: 'The Rocky Brook Project, including the recently acquired Restigouche Property, now comprises 18,694 hectares in 58 mineral claims...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Rocky Brook Project, including the recently acquired Restigouche Property, now comprises 18,694 hectares in 58 mineral claims..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration results and discoveries (e.g., grab samples up to 5.23 g/t Au) and mentions a resource for the adjacent Murray Brook Deposit, but does not provide a quantified mineral resource estimate for the Rocky Brook project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:MTT",
+      "justification": "The buyer is identified in the text as 'Magna Terra Minerals Inc. (the \"Company\" or \"Magna Terra\") (TSXV:MTT)'."
+    }
+  }
+}

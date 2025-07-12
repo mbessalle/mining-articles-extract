@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Sherridon/49344.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Sherridon",
+      "justification": "T2 Metals Expands Landholding Following High Grade Drill Results at Sherridon VHMS Project, Manitoba"
+    },
+    "company_name": {
+      "value": "T2 Metals Corp.",
+      "justification": "T2 Metals Corp. (TSXV: TWO) (OTCQB: AGLAF) (WKN: A2DR6E) (\"T2 Metals\" or the \"Company\") is pleased to announce staking of additional exploration claims at theSherridon Project in Manitoba..."
+    },
+    "ceo_buyer": {
+      "value": "Mark Saxon",
+      "justification": "Mark Saxon, CEO of T2 Metals Corp. said..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The new staking is 100% owned by T2 Metals, totals 1024 hectares and lies immediately east of the existing Sherridon Joint Venture area."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "T2 Metals Expands Landholding Following High Grade Drill Results at Sherridon VHMS Project, Manitoba, following shallow high-grade copper and zinc intersected in drilling completed during Q4 2023..."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/198831",
+      "justification": "To view the source version of this press release, please visit https://www.newsfilecorp.com/release/198831"
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article describes the staking of claims and does not mention any currency related to a transaction."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a purchase transaction involving cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a purchase transaction involving share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a purchase transaction involving a combined cash and share payment."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article describes the staking of new claims, not a transaction involving the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments were mentioned in the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of a transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions 1,500 meters of drilling were completed in the past, but does not state a future exploration commitment in meters for the newly staked claims."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention a monetary value for future exploration commitments."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the claim staking."
+    },
+    "coverage_area_raw": {
+      "value": 1024,
+      "justification": "The new staking is 100% owned by T2 Metals, totals 1024 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The new staking is 100% owned by T2 Metals, totals 1024 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical mined tonnage from nearby historic mines ('7.74 million tonnes were mined') but does not provide a current mineral resource estimate for T2 Metals' Sherridon project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:TWO",
+      "justification": "T2 Metals Corp. (TSXV: TWO) (OTCQB: AGLAF) (WKN: A2DR6E) (\"T2 Metals\" or the \"Company\")"
+    }
+  }
+}

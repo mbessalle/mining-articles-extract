@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Stingray/31226.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Stingray",
+      "justification": "The text states: \"Victory acquires 280 new claims, bringing its total claims to 347, expanding the Stingray property array in Quebec on ground adjacent to Patriot Battery Metals, (TSXV: PMET), Corvette lithium discoveries\"."
+    },
+    "company_name": {
+      "value": "Victory Battery Metals Corp.",
+      "justification": "The acquiring company is identified as \"Victory Battery Metals Corp. (CSE:VR)(FWB:VR61)(OTC PINK:VRCFF) (\"Victory\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Mark Ireton",
+      "justification": "The text quotes \"Mr. Mark Ireton, Victory Battery Metals President.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that the company acquired claims, but does not specify a percentage interest in the property."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article title is \"Victory Acquires New Property in James Bay Lithium District...\" and the text refers to \"lithium bearing pegmatites\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/739402/Victory-Acquires-New-Property-in-James-Bay-Lithium-District-Adjacent-to-Patriot-Battery-Metals-Corvette-Property",
+      "justification": "The article is about the acquisition of new claims for the Stingray project by Victory Battery Metals Corp."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions a cash payment in dollars: \"a cash payment of $100.000\". The currency is inferred to be Canadian Dollars (CAD) as the acquiring company, Victory Battery Metals Corp., is listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The text states: \"The new claims were acquired for a cash payment of $100.000 and 3 million shares.\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration included shares, but their value was not specified, only the quantity."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A combined cash and share value was not provided. The components were listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 3000000,
+      "justification": "The text states: \"The new claims were acquired for a cash payment of $100.000 and 3 million shares.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": 0.065,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.065'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters of drilling was mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 14375,
+      "justification": "The total acquired area is the sum of the three new blocks: \"Block One (Kaanaan Block): 146 claims, 7,486 hectares\", \"Block Two (Lac Block): 92 claims, 4,730-hectares\", and \"Block Three (Riviere Block): 42 claims, 2,159-hectare block\". The sum is 7486 + 4730 + 2159 = 14375."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The area of the acquired blocks is specified in hectares: \"Block One (Kaanaan Block): 146 claims, 7,486 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not state a mineral resource for the Stingray property. The resource figures mentioned are for the adjacent Corvette property owned by Patriot Battery Metals: \"Patriot Battery Metals Corvette property 'hosts significant lithium potential highlighted by the 2.6 km long CV5 spodumene pegmatite with drill intercepts of 156.9 m at 2.12% Li2O...'\"."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:VR",
+      "justification": "The buyer is identified as \"VICTORY BATTERY METALS CORP. (CSE:VR)\" and the detailed quote section confirms the exchange is CSE."
+    }
+  }
+}

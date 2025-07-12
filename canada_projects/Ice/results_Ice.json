@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Ice/67689.txt",
+    "canada_projects/Ice/67689_pdf.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "ICE Copper-Gold Deposit",
+      "justification": "The presentation title clearly identifies the project: \"ACQUISITION OF: ICE Copper-Gold Deposit (Yukon)\"."
+    },
+    "company_name": {
+      "value": "Bastion Minerals Limited",
+      "justification": "The footer of multiple slides identifies the company: \"This presentation has been approved by the Executive Chairman of Bastion Minerals Limited\"."
+    },
+    "ceo_buyer": {
+      "value": "Ross Landles",
+      "justification": "The contact information at the end of the presentation lists: \"Ross Landles Executive Chairman\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The project overview states: \"Bastion has acquired three 100%-owned Copper projects in mining friendly jurisdictions of Canada\"."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is consistently referred to as a copper project, for example: \"ACQUISITION OF: ICE Copper-Gold Deposit (Yukon)\" and the resource is defined in terms of copper: \"4.56Mt @1.48% Cu*\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a presentation, not a web article with a URL."
+    },
+    "currency": {
+      "value": "AUD",
+      "justification": "The disclaimer page states: \"All currencies in this presentation are in Australian dollars unless otherwise stated.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction consideration is described in terms of shares, not cash. Per the financial data extraction hierarchy, this field is null."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is detailed by the number of shares and a price, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is detailed by the number of shares and a price, which falls under Priority 2 of the financial extraction hierarchy. Therefore, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 104166667,
+      "justification": "The total consideration includes 187,500,000 firm shares ('Total Acquisition shares: 187,500,000') and 125,000,000 in performance shares ('PERFORMANCE SHARES 62,500,000... 62,500,000...'). This total of 312,500,000 shares is for the acquisition of three projects (ICE, Harley, and Mariner). The value for the ICE project is calculated as one-third of the total (312,500,000 / 3)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The presentation mentions options in the context of an equity raising, not as part of the acquisition consideration for the project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The presentation mentions options in the context of an equity raising, not as part of the acquisition consideration for the project: 'The Placement and Rights Issue Offer includes a 1:3 free attaching option'."
+    },
+    "issued_share_price": {
+      "value": 0.007,
+      "justification": "The price is inferred from the transaction snapshot slide which values the company based on this price: 'Market capitalisation @ $0.007'. This price is also used in the concurrent equity raising: 'issue a total of 285,714,286 shares at $0.007 per share'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No specific exploration commitment in meters is mentioned in the document."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration commitment value is mentioned in the document."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 56,
+      "justification": "The project overview slide specifies the area for the ICE project: \"Mineral claims concentrated across 56km2 close to major infrastructure\"."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The project overview slide specifies the unit for the ICE project's area: \"Mineral claims concentrated across 56km2 close to major infrastructure\"."
+    },
+    "resource_size": {
+      "value": "4.56Mt @1.48% Cu",
+      "justification": "The project overview slide states the historical resource for the ICE project: \"Cyprus-style VHMS deposit containing 4.56Mt @1.48% Cu*.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "ASX:BMO",
+      "justification": "The ticker and exchange are listed on the cover slide and in the footer of multiple slides: \"ASX:BMO\"."
+    }
+  }
+}

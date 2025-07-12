@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Lara/78489.txt",
+    "canada_projects/Lara/88377.txt",
+    "canada_projects/Lara/98634.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lara",
+      "justification": "Nova Pacific is a Canadian exploration and development company focused on our key asset, the Lara Volcanogenic Massive Sulfide (VMS) Project on Vancouver Island, British Columbia."
+    },
+    "company_name": {
+      "value": "Nova Pacific Metals Corp.",
+      "justification": "Nova Pacific Metals Corp. (CSE: NVPC) (OTCQB: NVPCF) (FSE: YQ10) (WKN: A40GFH) (the \"Company\", or \"Nova Pacific\") is pleased to announce that it has entered into an option agreement..."
+    },
+    "ceo_buyer": {
+      "value": "J. Malcolm Bell",
+      "justification": "Mr. J. Malcolm Bell, CEO of Nova Pacific Metals Corp., commented..."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The Company acquired ownership of the mineral claims from two directors in consideration for the repayment of their nominal out-of-pocket expenses."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "This brownfields development project boasts a significant polymetallic resource rich in gold, silver, copper, and zinc, situated in a prime location with excellent infrastructure."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241419",
+      "justification": "All three provided articles are relevant to the Lara project. The selected link is from the article titled 'Nova Pacific Metals Expands the Lara Project Westward', which describes a direct acquisition of claims for the Lara project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) and a financing is mentioned with a '$' symbol, implying Canadian Dollars. 'The Canadian Securities Exchange has not in any way passed upon the merits of the matters referenced herein...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The cash payments mentioned in the first article ($15,000, $45,000, $60,000) are for the option agreement on the separate Anita Property, not the Lara Project. The acquisition for the Lara Project was for 'repayment of their nominal out-of-pocket expenses,' which is not a quantified cash payment."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The share payments mentioned in the first article are for the option agreement on the separate Anita Property. The acquisition for the Lara Project 'did not involve the issuance of any equity securities.'"
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment was mentioned for an acquisition related to the Lara project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The share issuance mentioned (60,000 shares) is for the option agreement on the separate Anita Property. The acquisition for the Lara Project 'did not involve the issuance of any equity securities.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned in any transaction for the Lara project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The option agreement described in the text is for the Anita Property, not the Lara Project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for the Lara project acquisition, so there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": 10000,
+      "justification": "The company's future plans for the Lara project include a '10,000 m targeted drilling program to further delineate the extent of mineralization at Lara'. A later article confirms 'the submission of a drill permit application for up to 10,000 meters in 50 diamond drill holes.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The exploration commitment is specified in meters (10,000m), not a monetary value. A financing of $2,640,540 is mentioned to fund this program, but the commitment itself is not expressed in dollars."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2% NSR mentioned is part of the option agreement for the separate Anita Property. The claims acquired for the Lara project were 'transferred free and clear of any encumbrances (including royalty interests)'."
+    },
+    "coverage_area_raw": {
+      "value": 1888.38,
+      "justification": "This value is the sum of two separate land package additions to the Lara project mentioned in the documents: 'a combined area of approximately 976 hectares' and 'staking of two additional claims (B&B 4 and 5) totaling 912.38 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The acquired areas are specified in hectares: '...a combined area of approximately 976 hectares.' and '...totaling 912.38 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text refers to a 'significant historic resource' but does not provide a quantifiable current mineral resource estimate. The company's stated plan is to 'establish an updated Mineral Resource Estimate'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NVPC",
+      "justification": "Nova Pacific Metals Corp. (CSE: NVPC) (OTCQB: NVPCF) (FSE: YQ10) (WKN: A40GFH) (the \"Company\", or \"Nova Pacific\") is pleased to announce..."
+    }
+  }
+}

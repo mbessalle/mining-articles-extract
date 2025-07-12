@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Springpole East/85056.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Springpole East Gold Project",
+      "justification": "The text states: \"The property, named the Springpole East Gold Project, is located 120 km east-northeast of the town of Red Lake, Ontario...\""
+    },
+    "company_name": {
+      "value": "Bold Ventures Inc.",
+      "justification": "The article begins: \"Bold Ventures Inc. (TSXV: BOL) (the 'Company' or 'Bold') is pleased to announce...\""
+    },
+    "ceo_buyer": {
+      "value": "David Graham",
+      "justification": "The signature block at the end of the article identifies 'David Graham' as the 'CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, which typically implies 100% interest, but the text does not explicitly state a percentage acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly named the \"Springpole East Gold Project\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/238160",
+      "justification": "The article is about the staking of the Springpole East project by Bold Ventures, which matches the project of interest. The source URL is provided at the end of the text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Bold Ventures Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, and a stock option price is mentioned in cents, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not an acquisition from another party. The text does not mention any cash consideration for acquiring the Springpole East project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not an acquisition from another party. The text does not mention any share consideration for acquiring the Springpole East project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not an acquisition from another party. The text does not mention any combined cash and share consideration for acquiring the Springpole East project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not an acquisition from another party. The text does not mention any shares being issued as consideration for acquiring the Springpole East project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments as part of the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions granting options to management and directors, but this is an internal corporate action and not a payment for the acquisition of the project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The transaction described is the staking of claims, not an acquisition from another party. The text does not mention any shares being issued as consideration for acquiring the Springpole East project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4180,
+      "justification": "The text states: \"the Company has staked 208 single cell claims covering 4180 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: \"the Company has staked 208 single cell claims covering 4180 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource ('4.6 Moz Au @ 0.94 g/t Au... and 0.3 Moz Au @ 0.54 g/t Au') but explicitly attributes it to the nearby 'Springpole Gold Deposit of First Mining Gold Corp', not the Springpole East project. The text also notes that the Springpole East property 'has seen very little systematic exploration work', implying no resource has been defined for it."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BOL",
+      "justification": "The text identifies the company as \"Bold Ventures Inc. (TSXV: BOL)\"."
+    }
+  }
+}

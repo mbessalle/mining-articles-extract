@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Beschefer/54571.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beschefer",
+      "justification": "The article is titled 'Yorbeau Consolidates Interest in Its Beschefer Property' and refers to the 'Beschefer property' throughout."
+    },
+    "company_name": {
+      "value": "Yorbeau Resources Inc.",
+      "justification": "The acquiring company is identified as 'Yorbeau Resources Inc. (TSX: YRB) (the “Company” or “Yorbeau”)'."
+    },
+    "ceo_buyer": {
+      "value": "G. Bodnar Jr.",
+      "justification": "The text identifies 'G. Bodnar Jr., President and Chief Financial Officer of the Company'."
+    },
+    "interest_acquired_percent": {
+      "value": 20,
+      "justification": "Yorbeau 'completed the acquisition of the remaining 20% undivided interest (the “Minority Interest”) in certain mining claims comprising a portion of the Company’s Beschefer property.'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "While the Beschefer property is adjacent to a copper-zinc zone and a gold zone, the company itself is described as being 'involved in gold and base metal exploration in Quebec, Canada', with gold listed first."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, Beschefer, but no URL is provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment is listed as '$200,000' and the acquiring company, Yorbeau Resources Inc., is listed on the TSX (Toronto Stock Exchange), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 200000,
+      "justification": "The consideration for the acquisition included 'the payment by Yorbeau of an amount of $200,000 to IEP.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payments were mentioned as part of the consideration for the acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "An explicit cash payment value was provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No shares were issued as part of the consideration for the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so this field is not applicable."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned for this transaction."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment in monetary value was mentioned for this transaction."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text mentions a pre-existing '1% NSR royalty held by third parties on a portion of the property,' but this royalty was not acquired or retained as part of the current transaction."
+    },
+    "coverage_area_raw": {
+      "value": 4075,
+      "justification": "The text states, 'The Beschefer property covers an area of approximately 4,075 hectares...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states, 'The Beschefer property covers an area of approximately 4,075 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides resource estimates for other projects owned by the company (e.g., Rouyn Property: '918,000 ounces of gold in the indicated category') and for an adjacent property (B-26 zone), but does not provide a quantified resource estimate for the Beschefer property itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:YRB",
+      "justification": "The buyer is identified as 'Yorbeau Resources Inc. (TSX: YRB)'."
+    }
+  }
+}

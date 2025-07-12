@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Reliance/6491.txt",
+    "canada_projects/Reliance/82593.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Reliance",
+      "justification": "The articles are titled 'Endurance Doubles The Size of The Reliance Gold Property, B.C.' and 'Endurance Accelerates 100% Ownership of the Entire Reliance Gold Project, B.C.', indicating the transaction pertains to the Reliance project."
+    },
+    "company_name": {
+      "value": "Endurance Gold Corporation",
+      "justification": "The buyer is identified in the text as: 'Endurance Gold Corporation (TSXV: EDG) (OTC Pink: ENDGF) (FSE: 3EG) (the \"Company\") is pleased to announce that it has acquired an option...'"
+    },
+    "ceo_buyer": {
+      "value": "Robert T. Boyd",
+      "justification": "The CEO of the buyer is listed at the end of the press release: 'ENDURANCE GOLD CORPORATION Robert T. Boyd, President & CEO'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The first article states the terms of the option: 'Under the terms of the letter agreement with Avino, the Company can earn a 100% interest in the Olympic Claims'. The second article confirms this was completed: 'Endurance Gold Corporation... has fulfilled the requirements of three option agreements and acquired 100% interest...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as a gold project, for example: 'Endurance Doubles The Size of The Reliance Gold Property, B.C.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/122351",
+      "justification": "The article, titled 'Endurance Doubles The Size of The Reliance Gold Property, B.C.', describes the option agreement to acquire the Olympic Claims, which are contiguous with the Reliance Property, thus expanding the project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Endurance Gold Corporation, is listed on the TSXV, a Canadian exchange, and cash considerations are denoted with a '$' symbol, implying Canadian Dollars (CAD). Text: 'A total cash consideration in the aggregate amount of $100,000;'"
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The terms for the acquisition of the Olympic Claims from Avino include a specific cash component: 'Under the terms of the letter agreement with Avino, the Company can earn a 100% interest in the Olympic Claims for: A total cash consideration in the aggregate amount of $100,000;'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The payment is structured as a number of shares and a price per share can be determined via the fallback rule, so this field is null per the financial data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Cash and share components are specified separately, so this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The terms for the acquisition of the Olympic Claims include a share component: 'the allotment and issuance of up to a total of 1,500,000 common shares ('Shares') of the Company;'"
+    },
+    "share_warrant_payments_raw": {
+      "value": 750000,
+      "justification": "The agreement includes the issuance of warrants to the seller: 'the Company agreed to grant to Avino 750,000 share purchase warrants ('Warrants') by December 31, 2024'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the payment terms; share purchase warrants are handled in a separate field."
+    },
+    "issued_share_price": {
+      "value": 0.26,
+      "justification": "The transaction terms mention 1,500,000 shares to be issued, but not an explicit price. Using the last traded price from the associated detailed quote as a fallback: 'Last: 0.26'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 300000,
+      "justification": "The terms for the acquisition of the Olympic Claims include an exploration commitment: 'exploration expenditures in the aggregate amount of $300,000.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a Net Smelter Royalty as part of the deal: 'On vesting its ownership interest, the Olympic Claims will be subject to a 2% net smelter return royalty ('NSR')...'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text states the new total size of the Reliance Property is 'approximately 2,475 hectares' after the acquisition, but does not provide a specific area for the acquired Olympic Claims themselves."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The `coverage_area_raw` is null."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not state a current mineral resource. It implies one does not yet exist by mentioning a future bonus payment contingent on 'defining a compliant mineral resource of at least 500,000 gold-equivalent ounces on the Olympic Claims'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:EDG",
+      "justification": "The buyer's ticker and exchange are provided in the first line of the article: 'Endurance Gold Corporation (TSXV: EDG) (OTC Pink: ENDGF) (FSE: 3EG) (the \"Company\")'"
+    }
+  }
+}

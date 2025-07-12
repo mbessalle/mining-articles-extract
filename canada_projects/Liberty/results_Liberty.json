@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Liberty/43152.txt",
+    "canada_projects/Liberty/47708.txt",
+    "canada_projects/Liberty/48573.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Liberty",
+      "justification": "The primary project of interest is confirmed in the text: \"Comet Lithium's flagship asset is its 100%-owned Liberty Property contiguous to Winsome Resources' Adina deposit...\""
+    },
+    "company_name": {
+      "value": "Comet Lithium Corporation",
+      "justification": "The company name is stated in the first sentence of the first article: \"Comet Lithium Corporation (TSXV: CLIC) (FRANKFURT: 8QY) ('Comet Lithium' or the 'Company')...\""
+    },
+    "ceo_buyer": {
+      "value": "Mansoor Jan",
+      "justification": "The CEO is identified in the text: \"Mansoor Jan, Comet's Interim CEO and President stated...\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states that Comet Lithium already has a \"100%-owned Liberty Property\". The transactions described in the documents are for Comet's acquisition of the Pontax properties and Trailbreaker Resources' acquisition of a different Liberty project, not an acquisition of the specified Liberty project."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company's focus is described as: \"Comet Lithium is a dynamic lithium-focused exploration company active in the prolific James Bay District of Quebec.\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided documents do not describe an M&A transaction for Comet Lithium's Liberty project. The first document describes Comet's acquisition of the Pontax properties. The second and third documents describe Trailbreaker Resources' acquisition of a different Liberty project in British Columbia."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No M&A transaction for the Liberty project is described, so no currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Liberty project is described. The cash payments mentioned are for Trailbreaker Resources' acquisition of a different Liberty project in British Columbia."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Liberty project is described."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No M&A transaction for the Liberty project is described."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The issuance of 1,850,000 shares mentioned was consideration for Comet Lithium's acquisition of the Pontax properties, not the Liberty project. The share issuances mentioned in the other documents are for Trailbreaker Resources' acquisition of a different Liberty project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information available in the text regarding share warrant payments for the Liberty project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information available in the text regarding option payments for the Liberty project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued for an acquisition of the Liberty project, so no issue price is available."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No information available in the text regarding an exploration commitment in meters for the Liberty project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No information available in the text regarding an exploration commitment value for the Liberty project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The 2% NSR mentioned is part of the terms for Trailbreaker Resources' acquisition of a different Liberty project in British Columbia, not Comet Lithium's Liberty project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The coverage area mentioned (e.g., 2,071 hectares) is for the Liberty property in British Columbia being acquired by Trailbreaker Resources, not the Liberty project owned by Comet Lithium."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area mentioned is for a different project owned by a different company."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for Comet Lithium's Liberty project in the text."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CLIC",
+      "justification": "The ticker and exchange for the company of interest, Comet Lithium Corporation, is provided in the first article: \"Comet Lithium Corporation (TSXV: CLIC)\"."
+    }
+  }
+}

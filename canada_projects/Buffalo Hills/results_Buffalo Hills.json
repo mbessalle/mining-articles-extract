@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Buffalo Hills/64989.txt",
+    "canada_projects/Buffalo Hills/64991.txt",
+    "canada_projects/Buffalo Hills/67346.txt",
+    "canada_projects/Buffalo Hills/67348.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Buffalo Hills",
+      "justification": "The articles consistently refer to the project as the 'Buffalo Hills Diamond Project'. For example: 'Canterra Minerals Announces Sale of Buffalo Hills Diamond Project for $1.13 million'."
+    },
+    "company_name": {
+      "value": "Canterra Minerals Corporation",
+      "justification": "The seller of the project is identified as Canterra Minerals Corporation. 'Canterra Minerals Corporation (TSXV:CTM) (OTCQB: CTMCF) (\"Canterra\" or the \"Company\") is pleased to announce it has entered into a Definitive Agreement...whereby Star Diamond will acquire a 100% interest in the Buffalo Hills Diamond Project...from Canterra.'"
+    },
+    "ceo_buyer": {
+      "value": "Ewan Mason",
+      "justification": "The buyer is Star Diamond Corporation. Their CEO is identified in the text: 'Ewan Mason, President and CEO of Star Diamond Corporation said: \"We are excited to gain control of the 50% of Buffalo Hills Diamond Project we did not own...'."
+    },
+    "interest_acquired_percent": {
+      "value": 50,
+      "justification": "While the acquisition results in 100% ownership for the buyer, the interest acquired in this specific transaction was 50%. 'As consideration for Canterra's 50% interest in the Project, the Corporation will issue 17,500,000 common shares...'"
+    },
+    "primary_commodity": {
+      "value": "Diamond",
+      "justification": "The project is explicitly named the 'Buffalo Hills Diamond Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/216465",
+      "justification": "The article at this link is titled 'Canterra Minerals Announces Sale of Buffalo Hills Diamond Project for $1.13 million', which directly pertains to the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The companies involved (Canterra Minerals Corporation and Star Diamond Corporation) and the exchanges mentioned (TSXV, TSX) are Canadian, implying the currency is Canadian Dollars (CAD). The detailed quote also uses a '$' symbol in a Canadian context."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the project was entirely in shares and a royalty interest, with no mention of cash payments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with a specific number of shares and an implied price, not a raw share value. Following the data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The articles provide an 'implied purchase price' which is a calculation, not a raw combined value. The primary terms are a specific number of shares, so `amount_of_shares_issued` and `issued_share_price` are populated instead, per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 17500000,
+      "justification": "The agreement specifies the number of shares to be issued as consideration. 'In accordance with the terms of the Agreement, Canterra will sell the Project to Star Diamond in exchange for an aggregate nominal consideration of 17,500,000 common shares (the \"Consideration Shares\") of Star Diamond...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options in the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.06,
+      "justification": "The transaction terms mention the number of shares issued, but not an explicit price per share. Using the last traded price for the buyer (Star Diamond Corporation) as a fallback, as seen in the detailed quote: 'Last: 0.06'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of a monetary exploration commitment in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller (Canterra) was granted a royalty. 'In addition to the Consideration Shares, Canterra will receive a 1% royalty interest in the Project.'"
+    },
+    "coverage_area_raw": {
+      "value": 4800,
+      "justification": "The project's area is specified in the description: 'the Buffalo Hills Diamond Project includes 21 mineral leases covering 4,800 hectares'."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is explicitly stated as hectares. '...the Buffalo Hills Diamond Project includes 21 mineral leases covering 4,800 hectares'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions that the project contains 'diamond bearing kimberlites' but does not provide a quantified mineral resource estimate with mass or volume units (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:DIAM",
+      "justification": "The buyer is Star Diamond Corporation. The text explicitly states its ticker and exchange: 'Star Diamond Corporation (DIAM: TSX)' and 'Shares of Star Diamond trade on the Toronto Stock Exchange under the trading symbol \"DIAM\"'."
+    }
+  }
+}

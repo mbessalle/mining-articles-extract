@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Gulch/42289.txt",
+    "canada_projects/Gulch/48928.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Gulch",
+      "justification": "The project is explicitly named in the text: 'In December 2023 Eagle Plains granted Xcite the exclusive right to earn up to an 80% interest in the Gulch, Lorado, Beaver River, Black Bay, Don Lake, and Smitty projects...'"
+    },
+    "company_name": {
+      "value": "Xcite Resources Inc.",
+      "justification": "The text identifies Xcite Resources Inc. as the acquiring party (optionee) in the transaction. 'Eagle Plains Resources Ltd. (TSXV:EPL) (\"EPL\" or \"Eagle Plains\") has offered to Xcite Resources Inc. (TSXV:\"XRI\")(\"XRI or Xcite\"), and Xcite has accepted...'"
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the buyer, Xcite Resources Inc., is not mentioned in the text. The text mentions the CEO of the seller, Eagle Plains Resources."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The text states the maximum potential interest that can be acquired: 'Under the terms of the option agreements, Xcite may earn an 80% interest in each individual property...'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as a uranium project. 'Eagle Plains Increases Uranium Project Portfolio' and 'The recently acquired Gulch project is prospective for both basement and unconformity hosted uranium deposits.'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/833956/eagle-plains-and-xcite-expand-uranium-city-uranium-projects",
+      "justification": "The article directly discusses the option agreement for the Gulch project between Eagle Plains and Xcite Resources."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The financial terms of the agreement are specified in Canadian dollars: 'Under the terms of the option agreements, Xcite may earn an 80% interest in each individual property by completing CDN$3,200,000 in exploration expenditures...'"
+    },
+    "cash_payments_raw": {
+      "value": 55000,
+      "justification": "The value is $55,000, calculated as the project's 1/6th share of the aggregate $330,000 cash payment for six projects. The text states: '...making cash payments to Eagle Plains of CDN$55,000 over four years, for an aggregate of ... $330,000 in cash to Eagle Plains.' The six projects are Gulch, Lorado, Beaver River, Black Bay, Don Lake, and Smitty."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The financial data extraction hierarchy prioritizes reporting the number of shares and price per share over a calculated raw share value. This field is null because `amount_of_shares_issued` is populated instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Separate cash and share components of the deal are provided, so this combined field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 750000,
+      "justification": "The value is 750,000 shares, calculated as the project's 1/6th share of the aggregate 4,500,000 shares for six projects. The text states: '...issuing 750,000 common shares of Xcite and making cash payments to Eagle Plains of CDN$55,000 over four years, for an aggregate of ... 4,500,000 shares and $330,000 in cash to Eagle Plains.' The six projects are Gulch, Lorado, Beaver River, Black Bay, Don Lake, and Smitty."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Specific option payments, separate from the main consideration, are not mentioned in the text."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price of the Xcite Resources Inc. shares being issued is not mentioned in the text. The detailed quote section refers to Eagle Plains Resources Ltd. (the seller), not Xcite (the buyer), so it cannot be used as a fallback."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3200000,
+      "justification": "The value is $3,200,000, calculated as the project's 1/6th share of the aggregate $19,200,000 exploration commitment for six projects. The text states: '...by completing CDN$3,200,000 in exploration expenditures... for an aggregate of CDN$19,200,000 in exploration expenditures...' The six projects are Gulch, Lorado, Beaver River, Black Bay, Don Lake, and Smitty."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller, Eagle Plains, retains a 2% NSR on the property as part of the agreement: 'The projects are owned 100% by EPL, which will retain an underlying 2% NSR royalty on the each of the properties.'"
+    },
+    "coverage_area_raw": {
+      "value": 1996,
+      "justification": "The most recent area for the project is stated after an expansion: 'Gulch has increased by 311 ha (1996 ha total).'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is specified as hectares: 'Gulch has increased by 311 ha (1996 ha total).'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical exploration results and grades (e.g., 'up to 2.23% U3O8') but does not provide a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:XRI",
+      "justification": "The text explicitly identifies the buyer, Xcite Resources Inc., and its ticker symbol and exchange: 'Xcite Resources Inc. (TSXV:\"XRI\")(\"XRI or Xcite\")'."
+    }
+  }
+}

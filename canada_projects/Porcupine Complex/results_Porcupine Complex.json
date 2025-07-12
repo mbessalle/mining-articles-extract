@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Porcupine Complex/85260.txt",
+    "canada_projects/Porcupine Complex/85268.txt",
+    "canada_projects/Porcupine Complex/85317.txt",
+    "canada_projects/Porcupine Complex/90308.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Porcupine Complex",
+      "justification": "The primary project of interest is explicitly named throughout the documents, for example: \"Discovery Announces Transformational Acquisition of Newmont’s Porcupine Complex\" and \"...to acquire from a wholly owned subsidiary of Newmont Corporation (“Newmont”) 100% of Newmont’s interest in its Porcupine Operations (the “Porcupine Complex” or “Porcupine”)...\""
+    },
+    "company_name": {
+      "value": "Discovery Silver Corp.",
+      "justification": "The acquiring company is identified as Discovery Silver Corp. in the headline and body of the text: \"Discovery Silver Corp. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”) is pleased to announce that it has entered into a definitive agreement (the “Agreement”) to acquire from a wholly owned subsidiary of Newmont Corporation (“Newmont”) 100% of Newmont’s interest in its Porcupine Operations (the “Porcupine Complex”)...\""
+    },
+    "ceo_buyer": {
+      "value": "Tony Makuch",
+      "justification": "The CEO of the buyer, Discovery Silver Corp., is identified multiple times: \"Tony Makuch, Discovery’s CEO, commented...\" and in the signature block \"Tony Makuch, P.Eng President, CEO & Director\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Discovery Silver Corp. is acquiring a 100% interest in the project: \"...to acquire from a wholly owned subsidiary of Newmont Corporation (“Newmont”) 100% of Newmont’s interest in its Porcupine Operations (the “Porcupine Complex”)...\""
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The project is described as a gold operation: \"Establishes Discovery as a new Canadian gold producer with multiple operations in one of the world’s most prolific gold camps...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The source documents do not contain a direct, stable URL for a specific news article. The provided links are either trackers for SEDAR+ or generic corporate website links."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The currency for the transaction is specified as US dollars: \"All dollar amounts are in US dollars unless otherwise specified.\""
+    },
+    "cash_payments_raw": {
+      "value": 350000000,
+      "justification": "The total cash consideration is the sum of the closing cash and deferred cash payments: $200 million at closing and $150 million deferred. \"The consideration to Newmont for the Transaction consists of $200 million in cash (the “Closing Cash Consideration”)... and $150 million of deferred consideration (the “Deferred Consideration”) to be paid in four annual cash payments of $37.5 million commencing on December 31, 2027.\""
+    },
+    "share_payments_raw": {
+      "value": 75000000,
+      "justification": "The equity portion of the consideration is valued at $75 million. \"The consideration to Newmont for the Transaction consists of... $75 million payable in common shares of Discovery (the “Closing Equity Consideration”)...\""
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share payment components are explicitly broken down, so this combined field is not applicable as per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 119716667,
+      "justification": "The management information circular specifies the exact number of shares to be issued for the equity consideration: \"The Purchase Price consists of US$200 million payable in cash and US$75 million payable through the issuance of an aggregate of 119,716,667 Common Shares (the 'Consideration Shares')...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Warrants are mentioned, but they are being issued to Franco-Nevada as part of a financing package, not to the seller (Newmont) as part of the acquisition consideration. \"Discovery will issue to Franco-Nevada approximately 3.9 million warrants (the “Franco Warrants”)...\""
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of options being issued as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.63,
+      "justification": "The share price is tied to a public offering price of C$0.90, which is stated to be approximately $0.63 USD. A footnote in the Newmont release confirms this applies to the deal shares: \"To be issued to Newmont at the same price as the bought public deal offering.\" The public offering price is stated as: \"an issue price of C$0.90 (approximately $0.63) per Subscription Receipt (the “Issue Price”)\"."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment defined in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions \"total planned exploration capital from 2025 to 2030 totaling $69 million,\" but this is described as a future plan for the company, not a contractual commitment to the seller as part of the acquisition terms."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "A new Net Smelter Royalty is being created as part of a financing package with Franco-Nevada to fund the transaction, not acquired from or retained by the seller, Newmont. \"The $400 million of royalty and debt financing from Franco-Nevada includes: $200 million related to a 2.25% LOM net smelter return royalty...\""
+    },
+    "coverage_area_raw": {
+      "value": 140000,
+      "justification": "The total land position of the acquired complex is stated as 140,000 hectares. \"Discovery plans to commit significant resources to exploration drilling at the 140,000-hectare total land position comprising the Porcupine Complex...\""
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The unit for the coverage area is specified as hectares. \"...at the 140,000-hectare total land position...\""
+    },
+    "resource_size": {
+      "value": "Measured & Indicated Mineral Resources of 3.9 million ounces (69.7 million tonnes (“Mt”) at an average grade of 1.76 grams per tonne (“g/t”) gold) and Inferred Mineral Resources of 12.5 million ounces (254.5 Mt at 1.53 g/t gold)",
+      "justification": "A summary of the mineral resources is provided in the text: \"Large base of Mineral Resources including Measured & Indicated Mineral Resources of 3.9 million ounces (69.7 million tonnes (“Mt”) at an average grade of 1.76 grams per tonne (“g/t”) gold) and Inferred Mineral Resources of 12.5 million ounces (254.5 Mt at 1.53 g/t gold).\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX:DSV",
+      "justification": "The buyer's ticker and exchange are provided in the first press release: \"Discovery Silver Corp. (TSX: DSV, OTCQX: DSVSF)\"."
+    }
+  }
+}

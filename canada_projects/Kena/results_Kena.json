@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Kena/85002.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Kena",
+      "justification": "The article is titled 'West Mining Options Kena Property to Upside Gold Corp' and states that West Mining Corp. has granted an option to acquire a 100% interest in the 'Kena Property'."
+    },
+    "company_name": {
+      "value": "West Mining Corp.",
+      "justification": "The document states, 'West Mining Corp. (\"West Mining\" or the \"Company\") ... has granted the Optionee an option to acquire a 100% interest in and to the Company's Kena Property.' This identifies West Mining Corp. as the owner of the property."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The CEO of the selling company, West Mining, is identified as Nader Vatanchi. However, the CEO of the buying company (the Optionee, Upside Gold Corp.) is not mentioned in the text."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states that the option is to 'acquire a 100% interest in and to the Company's Kena Property'."
+    },
+    "primary_commodity": {
+      "value": null,
+      "justification": "The text mentions that West Mining explores for copper, gold, and silver on its other properties, but it does not specify the primary commodity for the Kena Property itself."
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/west-mining-options-kena-property-to-upside-gold-corp-972492",
+      "justification": "The article is titled 'West Mining Options Kena Property to Upside Gold Corp' and the content is entirely about this transaction for the Kena project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are denoted with '$' and the seller, West Mining Corp., is listed on the Canadian Securities Exchange (CSE:WEST), which implies the currency is Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 2000000,
+      "justification": "The agreement requires 'making aggregate cash payments of $2,000,000 to West Mining'."
+    },
+    "share_payments_raw": {
+      "value": 3000000,
+      "justification": "The agreement requires 'issing an aggregate of $3,000,000 worth of common shares of the Optionee to West Mining'."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate, explicit values for cash and share payments, so this combined field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The text specifies the total value of shares to be issued ($3,000,000), but not the exact number of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of share warrants in the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "There is no mention of option payments as part of the consideration, aside from the agreement itself being an option agreement."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial extraction hierarchy, this field is null because explicit values for cash and share payments were provided. While a conditional deemed value of $0.20 per share is mentioned, the primary terms are the total dollar values of the payments."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3500000,
+      "justification": "The agreement requires 'making $3,500,000 in exploration expenditures on the Kena Property on or before January 20, 2028.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or any other royalty being part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Kena Property."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The text does not specify the size or area of the Kena Property."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain any statement of a mineral resource estimate for the Kena Property."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": null,
+      "justification": "The buyer (Optionee) is identified as 'Upside Gold Corp.', which is described as a 'private corporation incorporated in Alberta'. Private corporations are not listed on a stock exchange and do not have a ticker."
+    }
+  }
+}

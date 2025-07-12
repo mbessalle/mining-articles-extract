@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Murphy Lake North/80147.txt",
+    "canada_projects/Murphy Lake North/80150.txt",
+    "canada_projects/Murphy Lake North/80578.txt",
+    "canada_projects/Murphy Lake North/83978.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Murphy Lake North",
+      "justification": "The transaction involves multiple properties, including the project of interest: \"The Projects consist of (a) the Murphy Lake North Project...\""
+    },
+    "company_name": {
+      "value": "Denison Mines Corp.",
+      "justification": "The authoritative metadata identifies Denison Mines Corp. as the company, and the text confirms they are the seller in the transaction: \"Denison Announces Agreement to Form Exploration Joint Ventures with Cosa Resources\"."
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "The buyer is Cosa Resources Corp. and the text identifies their CEO: \"Keith Bodnarchuk, Cosa President and CEO, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 70,
+      "justification": "Cosa Resources Corp. is acquiring a 70% interest in the project: \"Pursuant to the Agreement, Cosa will acquire a 70% interest in Denison's 100%-owned Murphy Lake North, Darby, and Packrat properties...\""
+    },
+    "primary_commodity": {
+      "value": "uranium",
+      "justification": "The transaction is for uranium projects: \"Denison is pleased to announce that is has executed an agreement (the \"Agreement\") with Cosa Resources Corp. (\"Cosa\") (TSX-V: COSA) to form three uranium exploration joint ventures...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.prnewswire.com/news-releases/denison-announces-agreement-to-form-exploration-joint-ventures-with-cosa-resources-302317286.html",
+      "justification": "The article directly discusses the transaction involving Denison Mines Corp., Cosa Resources Corp., and the Murphy Lake North project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The transaction details mention Canadian dollars (C$): \"issue Denison a further C$2,250,000 in deferred consideration shares...\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (calculable share value) was met, so this field must be null. The consideration is in shares and exploration commitments."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (calculable share value) was met, so this field must be null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, Priority 2 (calculable share value) was met, so this field must be null."
+    },
+    "amount_of_shares_issued": {
+      "value": 14195506,
+      "justification": "The initial consideration includes a specific number of shares: \"As consideration for the Transaction, Cosa will issue 14,195,506 common shares to Denison...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 0.225,
+      "justification": "A deemed price per share was specified for the transaction: \"As consideration for the Transaction, Cosa issued to Denison 14,195,506 common shares (the 'Consideration Shares') at a deemed price of $0.225 per share...\""
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is a monetary value, not a drilling meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 1500000,
+      "justification": "The agreement specifies a distinct exploration commitment for the Murphy Lake North project: \"fund 100% of the next C$1,500,000 in exploration expenditures on Murphy Lake North by December 31, 2027...\""
+    },
+    "nsr_acquired_percent": {
+      "value": 0.5,
+      "justification": "As part of the transaction, Denison retained a royalty on the project: \"Denison will retain a 2% Net Smelter Royalty ('NSR') on Darby and Packrat, and a 0.5% NSR on Murphy Lake North.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The land size or coverage area for the Murphy Lake North project is not mentioned in the provided documents."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The land size or coverage area for the Murphy Lake North project is not mentioned in the provided documents."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions that historical drilling \"intersected weak mineralization\" but does not provide a quantified mineral resource estimate for the Murphy Lake North project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSX-V:COSA",
+      "justification": "The buyer is identified with its ticker and exchange in the text: \"Cosa Resources Corp. ('Cosa') (TSX-V: COSA)\"."
+    }
+  }
+}

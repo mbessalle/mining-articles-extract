@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Yath/63084.txt",
+    "canada_projects/Yath/69446.txt",
+    "canada_projects/Yath/72350.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Yath",
+      "justification": "The articles describe the expansion of Generation Uranium's flagship project: \"The Acquisitions are contiguous extensions to the Company’s flagship Yath Uranium Project (“Yath\")...\""
+    },
+    "company_name": {
+      "value": "Generation Uranium Inc.",
+      "justification": "The acquiring company is identified at the start of the press release: \"Generation Uranium Inc. (the “Company” or “Generation”), (TSXV: GEN) is pleased to announce the acquisition...\""
+    },
+    "ceo_buyer": {
+      "value": "Anthony Zelen",
+      "justification": "The CEO of the acquiring company is quoted in the text: \"'With the acquisition of the Yellow Frog and Pink Toad Uranium Projects, we are significantly expanding our uranium exploration potential at Yath,' said CEO Anthony Zelen.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The acquisition is for the Yellow Frog and Pink Toad projects, which are added to the Yath project. The 'About' section confirms the post-acquisition ownership: \"The Company holds a 100% interest in the 123.45 km² Yath Uranium Project, located in the Yathkyed Basin in Nunavut.\""
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text repeatedly refers to the project's commodity: \"Generation Uranium Significantly Expands its Flagship Yath Uranium Project in Nunavut, Canada\" and \"significantly expanding our uranium exploration potential at Yath\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source documents."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is listed in dollars (\"$100,000\"). The acquiring company, Generation Uranium Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 100000,
+      "justification": "The terms of the acquisition explicitly state a cash payment: \"Pursuant to the acquisition, the Company will pay a total cash consideration of $100,000...\""
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is specified as a number of shares to be issued, not a total monetary value for the shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 8000000,
+      "justification": "The terms of the acquisition state the number of shares to be issued: \"...and issue 8,000,000 common shares to the vendors at closing.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The transaction terms mention 8,000,000 shares will be issued, but do not state a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.05'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transaction, the buyer grants a royalty to the seller: \"Additionally, the Company will grant a 2% NSR royalty on future saleable commercial mineral production at Yath.\""
+    },
+    "coverage_area_raw": {
+      "value": 123.45,
+      "justification": "The text specifies the new total area of the project after the acquisition: \"Following the Acquisitions, Yath now spans 123.45 km²...\""
+    },
+    "coverage_area_unit": {
+      "value": "km²",
+      "justification": "The unit for the coverage area is provided in the same sentence: \"Following the Acquisitions, Yath now spans 123.45 km²...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions a resource for the adjacent Angilak Project ('inferred mineral resources of 2,831,000 tonnes...'), but explicitly states 'Mineralization on adjacent Properties or Projects many not necessarily indicative of the mineralization on the Yath Project.' No resource is provided for the Yath project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GEN",
+      "justification": "The buyer's name is followed by its ticker and exchange information in the first paragraph: \"Generation Uranium Inc. (the “Company” or “Generation”), (TSXV: GEN)...\""
+    }
+  }
+}

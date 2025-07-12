@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Prairie Lake/15666.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Prairie Lake",
+      "justification": "The text confirms the project name: \"...the large, multi-commodity (rare-earths, niobi­um, tantalum, phosphorus) Prairie Lake project near Terrace Bay.\""
+    },
+    "company_name": {
+      "value": "Nuinsco Resources Limited",
+      "justification": "The text identifies the company: \"Nuinsco Resources Limited (\"Nuinsco\" or the \"Company\") (CSE: NWI)\""
+    },
+    "ceo_buyer": {
+      "value": "Paul Jones",
+      "justification": "The text identifies the CEO of Nuinsco Resources Limited: \"'These results are as expected and confirm the wide distribution of gold mineralization within waste dumps at El Sid,' said Paul Jones, CEO.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any acquisition of interest related to the Prairie Lake project."
+    },
+    "primary_commodity": {
+      "value": "rare-earths",
+      "justification": "The text describes the project as a \"large, multi-commodity (rare-earths, niobi­um, tantalum, phosphorus) Prairie Lake project near Terrace Bay.\" Rare-earths is listed first."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about the Prairie Lake project. Its primary focus is on the El Sid Gold Project in Egypt, as stated in the headline: \"Nuinsco Announces Assay Results Grading up to 35.5 g/t from the El Sid Gold Project\"."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not describe a financial transaction for the Prairie Lake project."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Prairie Lake project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Prairie Lake project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No NSR is mentioned in relation to the Prairie Lake project."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "No coverage area is specified for the Prairie Lake project in the text."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "No coverage area is specified for the Prairie Lake project in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No quantified mineral resource estimate is provided for the Prairie Lake project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NWI",
+      "justification": "The text provides the ticker and exchange for Nuinsco Resources Limited: \"Nuinsco Resources Limited (\"Nuinsco\" or the \"Company\") (CSE: NWI)\""
+    }
+  }
+}

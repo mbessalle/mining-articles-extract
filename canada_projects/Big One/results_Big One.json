@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Big One/86761.txt",
+    "canada_projects/Big One/88818.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Big One",
+      "justification": "The primary project of interest is stated as 'BIG ONE'. The text confirms this: 'Juggernaut Secures 100 % Option on Big One Gold Discovery' and 'the option to earn 100 % interest in the Big One property'."
+    },
+    "company_name": {
+      "value": "Juggernaut Exploration Ltd.",
+      "justification": "The acquiring company is identified in the text: 'Juggernaut Exploration Ltd (JUGR.V) (OTCQB: JUGRF) (FSE: 4JE) (the “Company” or “Juggernaut”) is pleased to announce that it has the option to earn 100 % interest in the Big One property'."
+    },
+    "ceo_buyer": {
+      "value": "Dan Stuart",
+      "justification": "The CEO of the acquiring company is named in the text: 'Dan Stuart, President and CEO of Juggernaut Exploration, states...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for a total of 100% interest acquisition through staged payments. 'Juggernaut can earn an additional 20% interest in the Property (for a 100% interest ) by delivering to the B-All Syndicate, by April 2, 2034, a NI 43-101 technical report...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The headline of the article identifies the primary commodity: 'Juggernaut Secures 100 % Option on Big One Gold Discovery'."
+    },
+    "verified_article_link": {
+      "value": "www.juggernautexploration.com",
+      "justification": "The article is about the Big One project acquired by Juggernaut Exploration Ltd. A link to the company's website is provided in the contact information section: 'www.juggernautexploration.com'."
+    },
+    "currency": {
+      "value": "USD",
+      "justification": "The cash component of the deal is explicitly denominated in USD: 'pay to the B-All Syndicate USD $1 million plus USD $1 for every gold equivalent ounce'."
+    },
+    "cash_payments_raw": {
+      "value": 1000000,
+      "justification": "A future cash payment is part of the option agreement to earn 100% interest: 'pay to the B-All Syndicate USD $1 million plus USD $1 for every gold equivalent ounce outlined in the NI 43-101 technical report.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with the issuance of shares, but a total monetary value for these shares is not provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text describes the consideration in terms of share issuances and a future cash payment, but does not provide a single combined value for the transaction."
+    },
+    "amount_of_shares_issued": {
+      "value": 36000000,
+      "justification": "The total number of shares to be issued to earn 80% is the sum of two tranches: 'Juggernaut will commit to issuing 18,000,000 units on or before April 2nd, 2027... to earn 49%. Juggernaut can elect to pay an additional 18,000,000 units on or before April 2nd, 2033... to earn 80% of the Bigone property.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The deal includes warrants, but their value is not quantified: 'the units will have a 5-year warrant issued at market price on April 2nd, 2027'."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The entire transaction is an option agreement, but there are no separate cash payments specified just to acquire the option itself."
+    },
+    "issued_share_price": {
+      "value": 0.77,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.77'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not specify a monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": 3,
+      "justification": "As part of the transaction, the seller retains a 3% NSR: 'A royalty (“Royalty”) of 3% of net smelter returns (“NSR”) and other returns from all production from the Property will be payable to the B-All Syndicate...'"
+    },
+    "coverage_area_raw": {
+      "value": 33693,
+      "justification": "The total area of the property is stated in the text: 'The property covers 33,693 hectares in world-class geologic terrane...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: 'The property covers 33,693 hectares...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a current mineral resource estimate. Instead, it outlines a future requirement to establish one, implying none currently exists: 'Juggernaut can earn an additional 20% interest in the Property (for a 100% interest ) by delivering to the B-All Syndicate, by April 2, 2034, a NI 43-101 technical report which includes an inferred resource calculation...'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:JUGR",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph as '(JUGR.V)', where '.V' signifies the TSX Venture Exchange. The detailed quote section also confirms 'Exchange: TSXV'."
+    }
+  }
+}

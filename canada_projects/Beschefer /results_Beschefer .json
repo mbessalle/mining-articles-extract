@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Beschefer /90264.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Beschefer",
+      "justification": "The article is titled 'Abitibi Metals Secures 100% Ownership of the High-Grade Beschefer Gold Project'."
+    },
+    "company_name": {
+      "value": "Abitibi Metals Corp.",
+      "justification": "The buyer is identified as 'Abitibi Metals Corp. (CSE: AMQ) (OTCQB: AMQFF) (FSE: FW0) (“Abitibi” or the “Company”)' which has earned 100% interest in the property."
+    },
+    "ceo_buyer": {
+      "value": "Jonathon Deluce",
+      "justification": "The text identifies the CEO of the buyer company: 'Jonathon Deluce, President and CEO of Abitibi commented...' and 'ON BEHALF OF THE BOARD Jonathon Deluce, Chief Executive Officer'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states, 'Abitibi completes its 100% earn-in at the Beschefer Gold Project' and 'has earned 100% right, title and interest in the Beschefer Property'."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Beschefer Gold Project' and has delivered 'impressive high-grade gold intercepts'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is about the correct project, Beschefer, but no specific article URL was provided in the source material to verify."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer company, Abitibi Metals Corp., is listed on the Canadian Securities Exchange (CSE), and the text uses a '$' symbol for financial figures, implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment was mentioned as part of the final consideration. The payment was made in shares. The financial data extraction hierarchy prioritizes share issuance details over this field."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares and a price per share were identified, so per the financial data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The number of shares and a price per share were identified, so per the financial data extraction hierarchy, `amount_of_shares_issued` and `issued_share_price` are populated instead of this field."
+    },
+    "amount_of_shares_issued": {
+      "value": 2033672,
+      "justification": "The text states: 'Pursuant to the Option Agreement, the Company has issued a final payment of 2,033,672 common shares in the capital of the Company to Wallbridge Mining...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the payment consideration."
+    },
+    "issued_share_price": {
+      "value": 0.265,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.265'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a monetary exploration commitment, not a commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 3000000,
+      "justification": "The text states that Abitibi 'incurred an aggregate of $3,000,000 in qualified expenditures over a four-year period.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 962,
+      "justification": "The text describes the property as 'an advanced gold exploration property consisting of 7 claims and covering approximately 962 acres'."
+    },
+    "coverage_area_unit": {
+      "value": "acres",
+      "justification": "The text describes the property as 'an advanced gold exploration property consisting of 7 claims and covering approximately 962 acres'."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the Beschefer project. A resource estimate is mentioned for a different project: 'the high-grade B26 Polymetallic Deposit, which hosts a resource estimate of 11.3MT @ 2.13% Cu Eq (Ind) & 7.2MT @ 2.21% Cu Eq (Inf)'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:AMQ",
+      "justification": "The text identifies the buyer as 'Abitibi Metals Corp. (CSE: AMQ)'."
+    }
+  }
+}

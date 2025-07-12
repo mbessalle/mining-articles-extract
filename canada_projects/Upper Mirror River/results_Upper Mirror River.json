@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Upper Mirror River/49654.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Upper Mirror River",
+      "justification": "The newly staked claims, when combined with existing claims staked and announced January 17, 2024, allow for the creation of the 100% owned Upper Mirror River Project."
+    },
+    "company_name": {
+      "value": "Stallion Uranium Corp.",
+      "justification": "Stallion Uranium Corp. (the “Company” or “Stallion”) (TSX-V: STUD; OTCQB: STLNF; FSE: HM40) is pleased to announce that it has acquired by low-cost staking nine new prospective uranium exploration dispositions..."
+    },
+    "ceo_buyer": {
+      "value": "Drew Zimmerman",
+      "justification": "Drew Zimmerman Chief Executive Officer"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The newly staked claims, when combined with existing claims staked and announced January 17, 2024, allow for the creation of the 100% owned Upper Mirror River Project."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "Stallion Uranium Announces Additional Uranium Property Staking, Further Expanding Largest Exploration Land Package in Southwestern Athabasca Basin"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, but no URL was provided in the source text."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no specific financial consideration was mentioned for the project acquisition itself."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no specific cash payment was mentioned for the project acquisition."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no share payment was mentioned for the project acquisition."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no combined payment was mentioned for the project acquisition."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no shares were issued as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the project acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the project acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The acquisition was made through 'low-cost staking' and no shares were issued, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions future exploration plans but does not specify a drilling commitment in meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions future exploration plans ('implementing state of the art geophysical surveys') but does not specify a monetary exploration commitment for the project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) in the transaction."
+    },
+    "coverage_area_raw": {
+      "value": 31645,
+      "justification": "The new project is 31,645 ha and covers extensions of target areas found from the recent Mobile MT survey..."
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The new project is 31,645 ha and covers extensions of target areas found from the recent Mobile MT survey..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the project is early stage and lacks advanced exploration, stating, 'The new project hasn’t had any advanced exploration and or even an effective regional geophysical survey.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:STUD",
+      "justification": "The text identifies the company as 'Stallion Uranium Corp. (the “Company” or “Stallion”) (TSX-V: STUD; OTCQB: STLNF; FSE: HM40)' and the detailed quote section confirms 'Exchange: TSXV'."
+    }
+  }
+}

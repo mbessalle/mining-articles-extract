@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Traxxin/70884.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Traxxin Gold Project",
+      "justification": "Bold Ventures Acquires 100% Ownership of Traxxin Gold Project and Stakes More Ground"
+    },
+    "company_name": {
+      "value": "Bold Ventures Inc.",
+      "justification": "Bold Ventures Inc. (TSXV:BOL) (the \"Company\" or \"Bold\") is pleased to announce that it has made the final cash payment of $40,000 to complete the Traxxin Gold Project (the \"Project\") option agreement."
+    },
+    "ceo_buyer": {
+      "value": "David Graham",
+      "justification": "David Graham\nPresident and COO CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "All requirements of the option agreement have now been fulfilled by Bold to acquire 100% working interest in the Project."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "Bold Ventures Acquires 100% Ownership of Traxxin Gold Project and Stakes More Ground"
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/915188/bold-ventures-acquires-100-ownership-of-traxxin-gold-project-and-stakes-more-ground",
+      "justification": "The article title, \"Bold Ventures Acquires 100% Ownership of Traxxin Gold Project and Stakes More Ground\", confirms the content is about the specified project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The acquiring company, Bold Ventures Inc., is listed on the TSXV, a Canadian exchange, and the payment is denoted with a '$' symbol ('$40,000'), implying Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "...it has made the final cash payment of $40,000 to complete the Traxxin Gold Project (the \"Project\") option agreement."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article mentions that the joint venture partner may reimburse Bold for shares issued 'pursuant to the Option', but does not state that any shares were part of the final payment to complete the acquisition from the vendor."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article specifies a cash payment, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No amount of shares issued is mentioned in the transaction details."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned in the transaction details."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the transaction details."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price is mentioned in the transaction details."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the transaction details."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned in the transaction details."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The Project is subject to a 2% NSR in favour of the vendor."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article mentions the staking of 34 new claims but does not provide the area of the core Traxxin Project being acquired."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article mentions the staking of 34 new claims but does not provide the area of the core Traxxin Project being acquired."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions a drill intersection ('3.6 g/t Au over 12.3 m') but does not provide a quantified mineral resource estimate with a mass or volume (e.g., tonnes, ounces)."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:BOL",
+      "justification": "Bold Ventures Inc. (TSXV:BOL) (the \"Company\" or \"Bold\")"
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Blue Ice/38593.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Blue Ice",
+      "justification": "The text states: '...the TSX Venture Exchange has approved the acquisition of the Blue Ice property (“Blue Ice”)...'"
+    },
+    "company_name": {
+      "value": "Gitennes Exploration Inc.",
+      "justification": "The acquiring company is identified as 'Gitennes Exploration Inc. (\"Gitennes\" or the \"Company\") – (TSXV:GIT) announces that further to its news release dated March 1, 2023 the TSX Venture Exchange has approved the acquisition of the Blue Ice property...'. This contradicts the authoritative metadata which listed REV Exploration Corp."
+    },
+    "ceo_buyer": {
+      "value": "Ken Booth",
+      "justification": "The news release is signed by 'Ken Booth President'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the agreements give 'the Company the right to acquire 100% of the claims.'"
+    },
+    "primary_commodity": {
+      "value": "Heavy Rare Earth Elements",
+      "justification": "The text states: 'Blue Ice mineralization is hosted in pegmatites and has been historically sampled by Gitennes with assays returning high grade Heavy Rare Earth Elements (“HREE”), niobium and tantalum.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a news release about the Blue Ice project, but no URL was provided in the prompt."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payments are listed in dollars ('$10,000', '$75,000') and the acquiring company, Gitennes Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 85000,
+      "justification": "The total cash payment is the sum of payments from two separate option agreements: 'The first option agreement for one claim pays the vendor $10,000' and 'The second option on three claims pays the vendors $75,000'. Total is $10,000 + $75,000 = $85,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is structured with cash payments and a specific number of shares to be issued, which are captured in other fields as per the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": 400000,
+      "justification": "The total shares issued is the sum from two agreements: 'issues 100,000 shares' and 'Gitennes will issue 300,000 shares'. Total is 100,000 + 300,000 = 400,000."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text describes option agreements to acquire the property, but does not mention payments in the form of stock options."
+    },
+    "issued_share_price": {
+      "value": 0.22,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.22'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 650000,
+      "justification": "The total exploration commitment is the sum from two agreements: 'Gitennes must expend $50,000 on exploration on the claim within 12 months' and 'Exploration expenditures by Gitennes will total $600,000 over three years'. Total is $50,000 + $600,000 = $650,000."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction terms, a royalty was granted to the vendors. The text states for the first agreement: 'A 1.5% NSR will be granted to vendor.' and for the second: 'A 1.5% NSR will be granted to the vendors.'"
+    },
+    "coverage_area_raw": {
+      "value": 6462,
+      "justification": "The text states the total project size after the acquisition: 'With the acquisition of the four claims Blue Ice now consists of 119 contiguous claims totaling 6,462 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text specifies the unit for the coverage area: 'With the acquisition of the four claims Blue Ice now consists of 119 contiguous claims totaling 6,462 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a formal mineral resource estimate with tonnage. It only provides assay results from grab samples and states the project 'offers an excellent grass-root discovery opportunity', which implies no formal resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GIT",
+      "justification": "The buyer is identified in the text as 'Gitennes Exploration Inc. (\"Gitennes\" or the \"Company\") – (TSXV:GIT)'."
+    }
+  }
+}

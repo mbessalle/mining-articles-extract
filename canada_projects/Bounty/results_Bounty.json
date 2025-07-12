@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bounty/43595.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bounty",
+      "justification": "The project name is taken from the authoritative metadata and confirmed in the 'About Manning' section: \"Manning’s project portfolio includes the Bounty Lithium Project, located in Quebec...\""
+    },
+    "company_name": {
+      "value": "Manning Ventures Inc.",
+      "justification": "The company name is taken from the authoritative metadata and confirmed in the text: \"Manning Ventures Inc. (“Manning” or the “Company”) (CSE: MANN, Frankfurt: 1H5) is pleased to announce...\""
+    },
+    "ceo_buyer": {
+      "value": "Alex Klenman",
+      "justification": "The CEO of the buyer is identified at the end of the press release: \"On behalf of the Board of Directors, MANNING VENTURES INC. “Alex Klenman” Chief Executive Officer\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company acquired a 100% interest in the claims that constitute the project: \"...to acquire an undivided 100% interest in and to 1,013 mineral claims (the “Potier Claims”) and an additional 413 mineral claims (the “Pow Claims”...\""
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The company is described as lithium-focused and the project is named the Bounty Lithium Project: \"Manning is a lithium-focused exploration and development company operating in Canada. Manning’s project portfolio includes the Bounty Lithium Project...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a public URL."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted with a '$' symbol. The company is listed on the Canadian Securities Exchange (CSE) and the projects are in Quebec, Canada, implying the currency is Canadian Dollars (CAD). For example: \"pay a cash fee of $350,000 to Wildwood\"."
+    },
+    "cash_payments_raw": {
+      "value": 475000,
+      "justification": "The total cash payment is the sum of payments for the Potier and Pow claims. For Potier: \"pay a cash fee of $350,000 to Wildwood\". For Pow: \"pay a cash fee of $125,000 to Wildwood\". The sum is $350,000 + $125,000 = $475,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because the number of shares and a price per share are available to populate `amount_of_shares_issued` and `issued_share_price`."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because separate cash and share payment components are available."
+    },
+    "amount_of_shares_issued": {
+      "value": 11000000,
+      "justification": "The total shares issued is the sum of shares for the Potier claims (8,000,000), the Pow claims (2,000,000), and to the assignor (1,000,000). \"issue to Ryan and Fage, an aggregate of 8,000,000 common shares in the capital of the Company (the “Potier Consideration Shares”)\", \"issue to Ryan and Fage, an aggregate of 2,000,000 common shares in the capital of the Company (the “Pow Consideration Shares”)\", and \"the Company will issue to the Assignor, an aggregate of 1,000,000 Shares.\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were issued as part of the consideration for the acquisition. The warrants mentioned in the text are related to a separate non-brokered private placement."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition consideration."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the text."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned in the text."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the company granted a 1% net smelter return royalty on both sets of claims to the vendor. \"Additionally, the Company will grant to Ryan, a one percent (1.0%) net smelter return royalty on the Potier Claims.\" and \"Additionally, the Company will grant to Ryan, a one percent (1.0%) net smelter return royalty on the Pow Claims.\""
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text specifies the number of mineral claims acquired (1,013 Potier Claims and 413 Pow Claims) but does not provide a total area in hectares or square kilometers for these claims."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not provided, so no unit is available."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not contain a mineral resource estimate for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MANN",
+      "justification": "The buyer's ticker and exchange are provided in the first paragraph of the press release: \"Manning Ventures Inc. (“Manning” or the “Company”) (CSE: MANN, Frankfurt: 1H5)...\""
+    }
+  }
+}

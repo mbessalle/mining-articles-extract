@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Whitemud/37865.txt",
+    "canada_projects/Whitemud/38294.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Whitemud",
+      "justification": "The text states: \"587016 owns 100% of the Whitemud Project (the “Project”), a lithium property in Ontario...\""
+    },
+    "company_name": {
+      "value": "Collective Metals Inc.",
+      "justification": "The acquiring company is identified as: \"COLLECTIVE METALS INC. (CSE:COMT| OTC:CLLMF| FSE:TO1) (the “Company ” or “Collective ”)\""
+    },
+    "ceo_buyer": {
+      "value": "Christopher Huggins",
+      "justification": "The document is signed off by \"Christopher Huggins Chief Executive Officer\" on behalf of Collective Metals Inc."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The company announced its agreement \"to acquire (the “Acquisition”) from the Vendors, 100% of the outstanding shares of 587016. 587016 owns 100% of the Whitemud Project\"."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The headline of the article is \"Collective Metals Signs Definitive Agreement to Acquire 100% of the Lithium Whitemud Project in Northwestern Ontario\"."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source document."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian Securities Exchange (CSE) and the consideration is denoted with '$', implying Canadian Dollars. The text states: \"The Canadian Securities Exchange has not reviewed this press release...\""
+    },
+    "cash_payments_raw": {
+      "value": 40000,
+      "justification": "The terms of the agreement include \"a $40,000 cash payment from the Company to a Vendor.\""
+    },
+    "share_payments_raw": {
+      "value": 1240000,
+      "justification": "The agreement involved the issuance of shares \"representing aggregate share consideration of $1,240,000\"."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were provided, which is Priority 1."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were provided ('$40,000 cash payment' and 'aggregate share consideration of $1,240,000'), which corresponds to Priority 1."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the financial data extraction hierarchy, this field is null because explicit cash and share payment values were provided ('$40,000 cash payment' and 'aggregate share consideration of $1,240,000'), which corresponds to Priority 1."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration spending commitment was mentioned in the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was mentioned as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 7775,
+      "justification": "The text describes the project as \"consisting of 381 single cell mining claims totaling 7,775 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text describes the project as \"consisting of 381 single cell mining claims totaling 7,775 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions resources on nearby properties but explicitly states: \"The reader is cautioned that the mineralization on nearby or adjacent properties does not necessarily indicate that any mineral resources may be discovered on the Whitemud Project...\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:COMT",
+      "justification": "The buyer is identified in the document header as \"COLLECTIVE METALS INC. (CSE:COMT| OTC:CLLMF| FSE:TO1)\"."
+    }
+  }
+}

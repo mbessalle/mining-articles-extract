@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/El Toro East _Sunsets_/74501.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "El Toro East (Sunsets) Project",
+      "justification": "The text states that Fidelity has the option to acquire an interest in \"the El Toro East project (the “Project” or “Sunsets Project”)\". The project is also referred to by this name in the footer: \"Project Name: El Toro East (Sunsets) Project\"."
+    },
+    "company_name": {
+      "value": "Fidelity Minerals Corp.",
+      "justification": "The acquiring company is identified in the first sentence: \"Fidelity Minerals Corp. (TSX-V: FMN | FSE: S5GM | SSE: MNYC) (“Fidelity” or the “Company”) is pleased to announce that it has entered into an Option Agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Ian Graham",
+      "justification": "The article announces a change in leadership for the buyer, Fidelity Minerals Corp.: \"Mr. Dean Pekeski, Fidelity’s current CEO and President, will resign as CEO and Mr. Ian Graham will be appointed as Fidelity’s interim CEO effective immediately.\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The agreement allows for a total acquisition of 100%. The rule for farm-in agreements requires using the final potential ownership percentage. The text states: \"Fidelity can acquire 100% of the Sunsets Project in two stages...\""
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The project is described as a copper prospect in the headline and body of the text: \"Fidelity Options BC Porphyry Cu-Mo-Au...\" and \"The Sunsets Project features numerous BC Minfile occurrences that reflect porphyry Cu-Mo-Au mineralization...\""
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Fidelity Minerals Corp., is listed on the TSX Venture Exchange (TSXV) and the project is located in British Columbia, Canada, which implies that the currency for payments denoted with '$' is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 600000,
+      "justification": "The total cash payment is $600,000, which is the sum of two stages. Stage 1: \"paying Standard an aggregate of $300,000\". Stage 2: \"paying to Standard an aggregate of $300,000\"."
+    },
+    "share_payments_raw": {
+      "value": 875000,
+      "justification": "The total share payment value is an estimated $875,000. This is the sum of a $250,000 share payment in the second stage ('issuing to Standard $250,000 in shares of Fidelity') and an estimated $625,000 for the first stage. The first stage value is calculated by multiplying the 5,000,000 shares ('issuing to Standard 5,000,000 shares of Fidelity') by the last traded price of $0.125 ('Last: 0.125'), used as a fallback per the rules."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, explicit cash and share payment values were found and populated in their respective fields, so this combined field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is left null because the transaction value was categorized under Priority 1 (separate cash and share payment values), which makes other financial fields null."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments, aside from the acquisition consideration itself, were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "Per the data extraction hierarchy, this field is left null because the transaction value was categorized under Priority 1 (separate cash and share payment values), which makes other financial fields null."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 2000000,
+      "justification": "The total exploration commitment is $2,000,000, comprising $1,000,000 for the initial 50% earn-in ('incurring $1,000,000 in Exploration Expenditures') and another $1,000,000 for the remaining interest ('incurring $1,000,000 in Exploration Expenditures over the 24-month period after the Notice')."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a royalty as part of the deal terms, which Fidelity has the option to buy down. The text states: \"Standard will retain a 2% net smelter return royalty (“NSR”) on the Sunsets Project...\""
+    },
+    "coverage_area_raw": {
+      "value": 10317,
+      "justification": "The total area of the project is explicitly stated: \"The Sunsets Project comprises 24 mineral claims totalling 10,317 Ha...\""
+    },
+    "coverage_area_unit": {
+      "value": "Ha",
+      "justification": "The unit for the coverage area is provided in the same sentence: \"The Sunsets Project comprises 24 mineral claims totalling 10,317 Ha...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states there is no compliant resource estimate: \"The Sunsets Project is a mineral exploration project and has never been subject to sufficient work to determine any basis upon which a mineral resource or mineral reserve estimate compliant to the standards of National Instrument 43-101 could be based.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:FMN",
+      "justification": "The buyer is Fidelity Minerals Corp., and its ticker and exchange are provided in the first paragraph: \"Fidelity Minerals Corp. (TSX-V: FMN...)\". The exchange is also listed in the detailed quote section: \"Exchange: TSXV\"."
+    }
+  }
+}

@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Savant/51530.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Savant",
+      "justification": "The article provides an update on the 'Savant Gold Project' and the transaction details are listed under the 'Savant Gold Project Highlights' section."
+    },
+    "company_name": {
+      "value": "Prospector Metals Corp.",
+      "justification": "The buying company is identified in the first paragraph: 'Prospector Metals Corp. (TSXV: PPP) ... (\"Prospector\" or the \"Company\") is pleased to provide an update for both the Devon Nickel and Savant Gold Projects in NW Ontario.'"
+    },
+    "ceo_buyer": {
+      "value": "Rob Carpenter",
+      "justification": "The CEO of the buyer, Prospector Metals Corp., is listed at the end of the press release: 'Dr. Rob Carpenter, Ph.D., P.Geo. President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the Savant Gold Project Highlights, the text states: 'Prospector has agreed to purchase the 100% of the Savant Project from Capella Minerals (the optionee)...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is consistently referred to as the 'Savant Gold Project'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/204256",
+      "justification": "The article is about the Savant project and the source link is provided at the bottom of the text: 'To view the source version of this press release, please visit https://www.newsfilecorp.com/release/204256'."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is specified in Canadian dollars: 'Prospector to make a cash payment to Capella of CAD $50,000 on closing;'"
+    },
+    "cash_payments_raw": {
+      "value": 50000,
+      "justification": "The terms of the purchase include: 'Prospector to make a cash payment to Capella of CAD $50,000 on closing;'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "Not populated because the number of shares and a price per share are available, which takes priority in the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "Not populated because cash and share components are listed separately."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The terms of the purchase include: 'Prospector to issue Capella 1,000,000 common shares (with a standard regulatory hold period of 4 months) upon closing;'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No mention of share warrants in the transaction terms for the Savant project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No mention of option payments in the transaction terms for the Savant project."
+    },
+    "issued_share_price": {
+      "value": 0.21,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.21'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in meters for the Savant project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "There is no mention of an exploration spending commitment for the Savant project. The VTEM survey mentioned is for the Devon project."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "As part of the transaction, the seller retains a royalty: 'Capella to retain a 1% Net Smelter Royalty (\"NSR\") on any potential future production from the property...'"
+    },
+    "coverage_area_raw": {
+      "value": 229,
+      "justification": "The project size is mentioned in the overview: 'Prospector originally acquired a 70% option on the 229 km2 Savant Project in Ontario from Capella Minerals Ltd in 2021.'"
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The unit for the project area is specified in the text: '...the 229 km2 Savant Project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides assay results (e.g., '99.6, 60.0, 20.9... g/t Au') but does not contain a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:PPP",
+      "justification": "The buyer's ticker and exchange are identified in the first paragraph of the article: 'Prospector Metals Corp. (TSXV: PPP)'."
+    }
+  }
+}

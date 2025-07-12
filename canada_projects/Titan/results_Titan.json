@@ -1,0 +1,95 @@
+{
+  "source_files": [
+    "canada_projects/Titan/47424.txt",
+    "canada_projects/Titan/47689.txt",
+    "canada_projects/Titan/48182.txt",
+    "canada_projects/Titan/64711.txt",
+    "canada_projects/Titan/68446.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Titan",
+      "justification": "The article dated July 10, 2024, states: 'Geologica Resource Corp. (CSE: GRCM) (FSE: 862) (\"Geologica\" or the \"Company\") is pleased to announce the strategic acquisition of the \"Titan\" property (\"Titan\") in the Atlin mining district of British Columbia.'"
+    },
+    "company_name": {
+      "value": "Geologica Resource Corp.",
+      "justification": "The buyer is identified in the July 10, 2024 press release: 'Geologica Resource Corp. (CSE: GRCM) (FSE: 862) (\"Geologica\" or the \"Company\") is pleased to announce the strategic acquisition of the \"Titan\" property...'"
+    },
+    "ceo_buyer": {
+      "value": "Doug Unwin",
+      "justification": "The July 10, 2024 press release quotes the CEO: 'Doug Unwin, CEO and President of the Company, stated, \"We are very excited with the addition of the Titan Property to Geologica's property portfolio.''"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The headline of the July 10, 2024 press release states: 'Geologica Acquires 100% of Titan Claims Targeting Copper Polymetalic Veins and Critical Minerals in Prolific Atlin Mining District'."
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The headline of the acquisition announcement on July 10, 2024, identifies the project's focus: 'Geologica Acquires 100% of Titan Claims Targeting Copper Polymetalic Veins and Critical Minerals in Prolific Atlin Mining District'. The company description also states it is 'focused on exploration of copper and critical minerals'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/215983",
+      "justification": "This article, dated July 10, 2024, describes the acquisition of the Titan project in British Columbia by Geologica Resource Corp. Other provided articles describe different projects also named 'Titan': one is a Uranium project in Saskatchewan acquired by Cosa Resources Corp (https://www.newsfilecorp.com/release/194562), and another is a critical metals project in Ontario being acquired by Metalite Resources Inc (https://www.accesswire.com/826613/metalite-announces-loi-to-acquire-advanced-stage-critical-metals-project-and-launches-800000-private-placement)."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The consideration is listed as '$3,000' and the royalty buyout as '$1,000,000'. The acquiring company, Geologica Resource Corp., is listed on the Canadian Securities Exchange (CSE) and the project is in British Columbia, Canada, implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 3000,
+      "justification": "The July 10, 2024 press release details the payment terms: 'The Company will pay the vendors $3,000 once the title to the claims has been transferred to the Company by the vendor.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms for the Geologica acquisition of the Titan project only mention a cash payment and a royalty, with no mention of share payments."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "A specific cash payment amount is provided, so this field is not applicable."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction terms for the Geologica acquisition of the Titan project do not mention any issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No information about share warrant payments was found in the documents related to the Geologica acquisition."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No information about option payments was found in the documents related to the Geologica acquisition."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issued share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "There is no mention of an exploration commitment in terms of meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The agreement states 'Geologica has committed to use the vendors company or a company approved by the vendor to conduct any exploration work on the property,' but no specific monetary value for an exploration commitment is mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The royalty was retained by the seller as part of the transaction terms: 'The vendor has been granted a 2% net smelter royalty. 1% of the royalty may be purchased buy Geologica for $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The documents related to the Geologica acquisition of the Titan project in BC do not state a total coverage area. An August 15, 2024 release mentions staking 'an additional 658.15 hectares', but this is not the total area. Other areas mentioned (e.g., 9,333 ha, 5,445 ha) belong to different 'Titan' projects in Saskatchewan and Ontario and are therefore ignored."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area is not specified, so no unit can be extracted."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate was provided for the Titan project acquired by Geologica Resource Corp. A resource estimate of '46.0 million tonnes' was mentioned in the Jan 19, 2024 article, but this belongs to a different 'Titan Project' in Ontario being acquired by Metalite Resources Inc., and is therefore rejected."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GRCM",
+      "justification": "The July 10, 2024 press release identifies the buyer and its ticker information: 'Geologica Resource Corp. (CSE: GRCM) (FSE: 862)'."
+    }
+  }
+}

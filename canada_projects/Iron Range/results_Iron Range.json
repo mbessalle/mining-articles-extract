@@ -1,0 +1,94 @@
+{
+  "source_files": [
+    "canada_projects/Iron Range/87268.txt",
+    "canada_projects/Iron Range/87275.txt",
+    "canada_projects/Iron Range/89796.txt",
+    "canada_projects/Iron Range/89839.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Iron Range",
+      "justification": "The documents consistently refer to the project as the 'Iron Range Project' or 'Iron Range Gold project'. For example: 'Eagle Plains Announces Letter of Intent with Earthwise Minerals for Option of the Iron Range Project, British Columbia'."
+    },
+    "company_name": {
+      "value": "Eagle Plains Resources Ltd.",
+      "justification": "The documents identify Eagle Plains Resources Ltd. as the owner of the project being optioned. '...Earthwise has been granted the exclusive right to acquire up to an 80% interest in Eagle Plains' wholly-owned Iron Range gold project...'"
+    },
+    "ceo_buyer": {
+      "value": "Mark Luchinski",
+      "justification": "The buyer is Earthwise Minerals Corp. Its CEO is identified in the contact information section: 'Mark Luchinski Chief Executive Officer, Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 80,
+      "justification": "The agreement allows for the acquisition of up to 80% interest in two phases. '...the Company may acquire an additional 10% interest in the Project (for an 80% total interest)...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The project is explicitly referred to as a gold project. '...Eagle Plains' wholly-owned Iron Range Gold Project...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.accessnewswire.com/newsroom/en/metals-and-mining/eagle-plains-announces-letter-of-intent-with-earthwise-minerals-for-option-of-the--981801",
+      "justification": "The article titled 'Eagle Plains Announces Letter of Intent with Earthwise Minerals for Option of the Iron Range Project, British Columbia' directly concerns the transaction for the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The payment terms are specified in Canadian dollars, using the abbreviations 'CDN$' and 'CA$'. For example: 'Total cash considerations of CDN $250,000' and 'paying CA$250,000'."
+    },
+    "cash_payments_raw": {
+      "value": 1250000,
+      "justification": "The total cash payment is the sum of the First Option payment of $250,000 and the Second Option payment of $1,000,000. '...paying CA$250,000...' and '...making an additional one-time payment of CDN$ 1,000,000 cash...'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated in the text. The number of shares is provided and captured in the `amount_of_shares_issued` field."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the deal are listed separately and not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The terms for the First Option include the issuance of shares to Eagle Plains. '...issuing an aggregate of 1,500,000 common shares to EPL...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text mentions Earthwise extending warrants, but this is related to a prior private placement from 2023 and is not part of the consideration for the Iron Range project acquisition: '...amended the terms of the 1,627,500 warrants (the \"Warrants\") issued in connection with the Company's private placement completed in March of 2023.'"
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text mentions incentive stock options being granted by the buyer (Earthwise) to its own 'senior executives, directors and consultants', not as a payment to the seller for the project."
+    },
+    "issued_share_price": {
+      "value": 0.02,
+      "justification": "The transaction terms mention the number of shares issued (1,500,000), but not the price per share. Using the last traded price for the buyer (Earthwise Minerals Corp.) as a fallback, as seen in the detailed quote: 'Last: 0.02'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The exploration commitment is specified as a monetary value, not in meters of drilling."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 4000000,
+      "justification": "The terms for the First Option include a multi-year exploration expenditure commitment. '...funding CA$4,000,000 in exploration expenditures on the Project by over a four-year term...'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "Upon exercise of the option, the seller (Eagle Plains) will be granted a royalty. 'If either the First Option or the Second Option is exercised, a 2% smelter returns royalty will be granted to the Eagle Plains over the entire property...'"
+    },
+    "coverage_area_raw": {
+      "value": 21437,
+      "justification": "The project size is stated in the summary section of the documents: 'The 21,437ha Iron Range Project located near Creston, BC...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The unit for the coverage area is hectares, as stated in the text: 'The 21,437ha Iron Range Project...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text provides historical drill intercepts (e.g., '7.0m grading 51.52g/t (1.50 oz/ton) gold') but does not state a total mineral resource estimate in tonnes or ounces for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:WISE",
+      "justification": "The buyer is identified as Earthwise Minerals Corp., and its ticker and exchange are provided in the text: 'Earthwise Minerals Corp. (CSE:WISE) (\"Earthwise\")'."
+    }
+  }
+}

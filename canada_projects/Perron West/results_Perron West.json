@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Perron West/92351.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Perron West",
+      "justification": "The press release announces the acquisition of a land package to be named the Perron West Project. \"When combined with the newly acquired land package, to be named Perron West (the \"Perron West Project\"), Amex will control an area more than four times the size of the existing Perron Property.\""
+    },
+    "company_name": {
+      "value": "Amex Exploration Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: \"Amex Exploration Inc. (TSXV: AMX) (FSE: MX0) (OTCQX: AMXEF) (\"Amex\" or \"the Company\") is pleased to announce that it has entered into a definitive asset purchase agreement...\""
+    },
+    "ceo_buyer": {
+      "value": "Victor Cantore",
+      "justification": "The contact information at the end of the release identifies the CEO: \"Victor Cantore President and Chief Executive Officer Amex Exploration: +1-514-866-8209\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The transaction is described as an asset purchase agreement to acquire the project, which implies full ownership of the acquired assets. \"Amex Exploration Inc. ... is pleased to announce that it has entered into a definitive asset purchase agreement ... to acquire a significant land package... to be named Perron West (the \"Perron West Project\")\""
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text repeatedly emphasizes the potential for gold discoveries and includes a milestone payment specifically tied to a gold resource. \"...payable upon the Company disclosing a mineral resource and/or mineral reserve (of any category or any combination of categories) in respect of the Perron West Project delineating at least one million ounces of gold and/or gold equivalent...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/245969",
+      "justification": "The article is titled \"Amex to Acquire Strategic Perron West Property - Forms District Scale Land Package at Perron\" and the content details the acquisition of the Perron West project by Amex Exploration Inc., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is listed with a '$' symbol. The acquiring company, Amex Exploration Inc., is listed on the TSX Venture Exchange (TSXV), a Canadian exchange. Therefore, the currency is inferred to be Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 2150000,
+      "justification": "The total cash consideration includes an initial payment of $150,000 and two potential milestone payments of $1,000,000 each. \"(i) pay to the vendor aggregate cash consideration of $150,000; ... (iv) make the following additional milestone payments to the vendor... (a) a further $1,000,000, to be satisfied in cash... (b) a further $1,000,000, to be satisfied in cash...\" The sum is 150,000 + 1,000,000 + 1,000,000 = 2,150,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction involves issuing a specific number of shares, but no raw dollar value for the share component is provided in the deal terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms provide separate details for cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1500000,
+      "justification": "The Purchase Agreement specifies the number of shares to be issued to the vendor: \"(ii) issue to the vendor a total of 1,500,000 common shares in capital of the Company (the \"Shares\")...\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any share warrants as part of the transaction consideration."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text does not mention any options as part of the transaction consideration."
+    },
+    "issued_share_price": {
+      "value": 1.55,
+      "justification": "The transaction terms mention 1,500,000 shares will be issued, but do not specify a price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 1.55'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a future exploration program but does not specify a drilling commitment in meters as part of the acquisition agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a future exploration program (\"The Company is working on finalizing an exploration program for the new property in 2025.\") but does not specify a monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1.5,
+      "justification": "As part of the transaction, the vendor retains a royalty: \"(iii) grant to the vendor a 1.5% gross overriding royalty in respect of the Perron West Project...\""
+    },
+    "coverage_area_raw": {
+      "value": 15192,
+      "justification": "The total area of the Perron West Project is stated as the sum of its components in Quebec and Ontario: \"The Perron West Project consists of 48 contiguous claims/exclusive exploration rights comprising 1,737 hectares... and 33 multi-cell and 2 single-cell contiguous mining claims comprising 13,455 hectares... representing a total area of 15,192 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the total area is explicitly stated: \"...representing a total area of 15,192 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text explicitly states that it is uncertain if a mineral resource will be delineated, indicating no current resource exists. \"The Qualified Persons have not completed sufficient work to verify the historical information on the Perron West Project... and it is uncertain if further exploration will result in the target being delineated as a mineral resource.\""
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:AMX",
+      "justification": "The buyer is identified as Amex Exploration Inc., and the text explicitly states its ticker and exchange in the first paragraph: \"Amex Exploration Inc. (TSXV: AMX) (FSE: MX0) (OTCQX: AMXEF)\""
+    }
+  }
+}

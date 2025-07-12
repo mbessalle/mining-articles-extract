@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/La Passe/30092.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "La Passe",
+      "justification": "The text refers to the project as 'the La Passe Property' multiple times, for example: '...the addition of 100 claims to the La Passe Property.'"
+    },
+    "company_name": {
+      "value": "Harfang Exploration Inc.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'Harfang Exploration Inc. (“Harfang” or the “Company”)'"
+    },
+    "ceo_buyer": {
+      "value": "Ian Campbell",
+      "justification": "The CEO of the acquiring company is identified as: 'Ian Campbell President and Chief Executive Officer'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The transaction was an 'addition of 100 claims' acquired 'by staking'. The text does not specify an ownership percentage for this transaction."
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article states the company's belief regarding the project's potential: 'We believe both properties [Ewart and La Passe] have excellent potential for the discovery of lithium-bearing pegmatites.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "No article link was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company is listed on the Canadian TSX Venture Exchange ('TSX-V: HAR') and its treasury is reported in dollars ('$8.24 M in the treasury'), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', and no cash consideration is mentioned in the text."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', and no share consideration is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', and no combined cash and share consideration is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The acquisition was made 'by staking', and no share issuance is mentioned as part of the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No specific drilling commitment in meters is mentioned for the La Passe project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions a future 'first-phase exploration program' for La Passe but does not state a specific monetary commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) being acquired or retained as part of this transaction."
+    },
+    "coverage_area_raw": {
+      "value": 9265,
+      "justification": "The text specifies the total size of the property after the expansion: 'The La Passe Property, now made up of 180 claims (9,265 hectares)...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is provided in the same sentence: 'The La Passe Property, now made up of 180 claims (9,265 hectares)...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text describes exploration potential but does not contain a quantified mineral resource estimate for the La Passe project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:HAR",
+      "justification": "The text states the company's ticker and exchange as: 'Harfang Exploration Inc. (“Harfang” or the “Company”) (TSX-V: HAR)'. This is confirmed in the detailed quote section: 'Exchange: TSXV'."
+    }
+  }
+}

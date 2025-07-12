@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Washburn Lateral/78486.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Washburn Lateral",
+      "justification": "The press release is titled 'Golden Cariboo Acquires District Lot Adjacent to the Historic Quesnelle Quartz Mine' and states the company 'wishes to announce the acquisition of the Washburn Lateral District Lot on the Company’s mineral claims.'"
+    },
+    "company_name": {
+      "value": "Golden Cariboo Resources Ltd.",
+      "justification": "The acquiring company is identified as 'Golden Cariboo Resources Ltd. (the “Company”) (CSE:GCC)'."
+    },
+    "ceo_buyer": {
+      "value": "J. Frank Callaghan",
+      "justification": "The President and CEO is named in the contact section: 'J. Frank Callaghan, President & CEO'."
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The text states the 'acquisition of the Washburn Lateral District Lot' but does not specify the percentage of interest acquired."
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "The text describes the acquisition as 'a key parcel of land within our multi-kilometer gold trend on our Property' and references the 'Quesnelle Gold Quartz Mine property'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The provided text is a press release and does not contain a URL to a third-party article."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The share component of the payment is priced in Canadian dollars ('C$0.20') and the acquiring company, Golden Cariboo Resources Ltd., is listed on the Canadian Securities Exchange (CSE)."
+    },
+    "cash_payments_raw": {
+      "value": 10000,
+      "justification": "The transaction terms include 'a cash payment of €10,000EUR'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The value of the share payment is not explicitly stated as a single monetary value. Instead, the number of shares and price per share are provided."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for the cash and share components of the transaction, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 200000,
+      "justification": "The transaction terms include the issuance of '200,000 Company shares'."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": 0.2,
+      "justification": "The shares are to be issued 'at a price of C$0.20'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The announcement does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The announcement does not mention any monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The transaction terms do not mention any Net Smelter Royalty (NSR) being acquired or retained."
+    },
+    "coverage_area_raw": {
+      "value": 20,
+      "justification": "The text states: 'The Washburn Lateral is a 20.0 ha claim...'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The Washburn Lateral is a 20.0 ha claim...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text indicates the lot is unexplored, stating it 'has seen very limited exploration in its history and has remained virtually untested by drilling,' which implies no mineral resource has been defined."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GCC",
+      "justification": "The acquiring company is identified in the text as 'Golden Cariboo Resources Ltd. (the “Company”) (CSE:GCC)'."
+    }
+  }
+}

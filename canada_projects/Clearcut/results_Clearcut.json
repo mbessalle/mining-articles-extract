@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Clearcut/30972.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Clearcut",
+      "justification": "The text refers to the project as the 'Clearcut Lithium Project'. The authoritative metadata also specifies 'Clearcut'."
+    },
+    "company_name": {
+      "value": "High Tide Resources Corp.",
+      "justification": "The company acquiring the Big Bang project is 'High Tide Resources Corp.', and the text states this same company is involved with the Clearcut project: 'High Tide ... is earning a 100% interest in the Clearcut Lithium Project'."
+    },
+    "ceo_buyer": {
+      "value": "Steve Roebuck",
+      "justification": "The text identifies the CEO of High Tide Resources Corp.: 'Steve Roebuck, Director, President & Interim CEO of High Tide states...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text explicitly states the interest being earned for the Clearcut project: 'High Tide ... is earning a 100% interest in the Clearcut Lithium Project located ~75 kilometres southwest of Val d'Or, Quebec.'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The project is explicitly named the 'Clearcut Lithium Project'."
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is not about a transaction for the Clearcut project. The main subject is the acquisition of a different project, as stated in the headline: 'High Tide Resources Enters into Option Agreement to Acquire 100% of the Big Bang Lithium Project in NW Ontario'. The Clearcut project is only mentioned for context."
+    },
+    "currency": {
+      "value": null,
+      "justification": "No financial transaction details for the Clearcut project are provided in the text. The financial details mentioned ($103,000 cash, 225,000 shares) are for the Big Bang Lithium Project."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment for the Clearcut project is mentioned. The cash payment of '$103,000' is for the acquisition of the Big Bang Lithium Project."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "No share payment value for the Clearcut project is mentioned in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined cash and share payment for the Clearcut project is mentioned in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "No share issuance for the Clearcut project is mentioned. The 'issuance of 225,000 common shares' is for the acquisition of the Big Bang Lithium Project."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrant payments are mentioned in the text for the Clearcut project."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No option payments are mentioned in the text for the Clearcut project."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No issued share price for a transaction related to the Clearcut project is mentioned in the text."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned for the Clearcut project."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No exploration commitment value is mentioned for the Clearcut project."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No NSR was mentioned in relation to the Clearcut project. The '1.5% net smelter royalty' mentioned is part of the agreement for the Big Bang Lithium Project."
+    },
+    "coverage_area_raw": {
+      "value": 14400,
+      "justification": "The text provides a specific area for the Clearcut project: '...our 14,400-hectare Clearcut Lithium Project in Quebec...'"
+    },
+    "coverage_area_unit": {
+      "value": "hectare",
+      "justification": "The text provides the unit for the area of the Clearcut project: '...our 14,400-hectare Clearcut Lithium Project in Quebec...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "No mineral resource estimate is provided for the Clearcut project. The resource mentioned ('10.60 MT @ 0.88% Li2O Indicated Resource and a 4.22 MT @ 1.00% Li2O Inferred Resource') is for the nearby 'Georgia Lake property'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HTRC",
+      "justification": "The text identifies the company as 'High Tide Resources Corp. (\"High Tide\" or the \"Company\") (CSE:HTRC)'."
+    }
+  }
+}

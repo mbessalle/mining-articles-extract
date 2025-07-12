@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Raglan South/38091.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Raglan South",
+      "justification": "The text announces the acquisition of the Raglan South project: '...with the acquisition of 802 claims or 336 sq. km at Raglan South...'"
+    },
+    "company_name": {
+      "value": "Max Power Mining Corp.",
+      "justification": "The acquiring company is identified at the beginning of the article: 'MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FSE: 89N) (“MAX Power” or the “Company”) has become a leading landowner in the emerging Raglan Lithium District, Northern Quebec, with the acquisition of 802 claims or 336 sq. km at Raglan South...'"
+    },
+    "ceo_buyer": {
+      "value": "Rav Mlait",
+      "justification": "The CEO of the buyer is identified in a quote: 'Mr. Rav Mlait, MAX Power President and CEO, added...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The deal terms specify a 100% acquisition: 'The Company entered into a purchase and sale agreement (“Agreement”) for 100% the Property with consortium of six sellers...'"
+    },
+    "primary_commodity": {
+      "value": "Lithium",
+      "justification": "The article headline and body repeatedly identify the target commodity as lithium: 'MAX Power More Than Doubles Lithium Footprint in Nunavik’s Raglan District, Northern Quebec' and '...the second largest lithium-focused landowner in this key part of Nunavik...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.globenewswire.com/news-release/2023/07/17/2705910/0/en/MAX-Power-More-Than-Doubles-Lithium-Footprint-in-Nunavik-s-Raglan-District-Northern-Quebec.html",
+      "justification": "The article is titled 'MAX Power More Than Doubles Lithium Footprint in Nunavik’s Raglan District, Northern Quebec' and details the acquisition of the Raglan South project by Max Power Mining Corp., which matches the project of interest."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash consideration is denoted by '$' and the acquiring company, Max Power Mining Corp., is listed on the Canadian Securities Exchange (CSE), implying the currency is Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 216540,
+      "justification": "The deal terms explicitly state a cash payment: '...for consideration of 1 million common shares (the “Consideration Shares”) of the Company and $216,540 cash.'"
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "This field is null because the transaction is structured with a specific number of shares and a price per share, which are captured in `amount_of_shares_issued` and `issued_share_price` as per the extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "This field is null because the cash and share components of the payment are detailed separately in the text."
+    },
+    "amount_of_shares_issued": {
+      "value": 1000000,
+      "justification": "The deal terms specify the number of shares to be issued: '...for consideration of 1 million common shares (the “Consideration Shares”) of the Company and $216,540 cash.'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.21,
+      "justification": "The transaction terms mention 1 million shares issued but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.21'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment defined by a number of meters to be drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text does not mention any monetary exploration commitment as part of the acquisition agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": 1,
+      "justification": "An NSR was granted to the seller as part of the deal: 'Furthermore, the Company has granted a 1% net smelter royalty (NSR) to Shawn Ryan in relation to the Property.'"
+    },
+    "coverage_area_raw": {
+      "value": 336,
+      "justification": "The text specifies the area of the acquired claims: '...with the acquisition of 802 claims or 336 sq. km at Raglan South...'"
+    },
+    "coverage_area_unit": {
+      "value": "sq. km",
+      "justification": "The unit for the coverage area is provided in the text: '...with the acquisition of 802 claims or 336 sq. km at Raglan South...'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a quantified mineral resource estimate. It describes the project as under-explored and notes that historically mapped pegmatites 'were never tested for their lithium potential according to historic reports.'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:MAXX",
+      "justification": "The buyer's ticker and exchange are provided at the beginning of the press release: 'MAX Power Mining Corp. (CSE: MAXX; OTC: MAXXF; FSE: 89N)'."
+    }
+  }
+}

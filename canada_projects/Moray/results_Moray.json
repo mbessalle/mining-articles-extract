@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Moray/36094.txt",
+    "canada_projects/Moray/38029.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Moray",
+      "justification": "The text refers to the project multiple times, for instance: \"New Break is pleased to announce that it has closed the acquisition of an additional 2,460 hectares of mineral claims contiguous with its Moray property...\""
+    },
+    "company_name": {
+      "value": "New Break Resources Ltd.",
+      "justification": "The acquiring company is identified at the beginning of both press releases: \"New Break Resources Ltd. (CSE: NBRK) ('New Break' or the 'Company') is pleased to announce that it has closed the acquisition...\""
+    },
+    "ceo_buyer": {
+      "value": "Michael Farrant",
+      "justification": "The CEO of the buyer, New Break Resources Ltd., is identified as: \"Michael Farrant, President and Chief Executive Officer\"."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "For one of the acquisitions, the text states the terms are \"in exchange for 100% ownership in the Property\". The other acquisition is of \"mineral claims\", which implies full ownership."
+    },
+    "primary_commodity": {
+      "value": "gold",
+      "justification": "The text mentions the project's proximity to a gold mine and its potential for gold: \"...32 km northwest of the Young-Davidson gold mine...\" and \"...Moray gives us an excellent project in the prolific Abitibi region of Ontario that hosts both gold and base metal potential...\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/168593",
+      "justification": "The article titled 'New Break Announces Closing of Property Acquisition, Grant of Stock Options and Early Warning Notice' directly discusses the acquisition of 2,460 hectares of mineral claims contiguous with the Moray property."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The text mentions payments in '$' and the company, New Break Resources Ltd., is based in Toronto, Ontario and is listed on the Canadian Securities Exchange (CSE), which implies the currency is Canadian Dollars (CAD). For example: \"aggregate cash payments of $80,000\"."
+    },
+    "cash_payments_raw": {
+      "value": 93350,
+      "justification": "The total cash payment is the sum of three separate payments mentioned across two transactions: 'aggregate cash payments of $80,000 to the property vendors', 'acquired by New Break at a cost of $3,350 from the Ontario Ministry of Mines', and a 'cash payment of $10,000' to two individuals."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text provides the number of shares issued and a market price, but not an explicit value for the share payment itself. Following the extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The text provides separate values for cash and share components, not a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1800000,
+      "justification": "The total shares issued is the sum from two separate transactions: \"the issuance of 1,500,000 common shares of New Break\" and \"will be issued 300,000 common shares of New Break\"."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The warrants mentioned in the text are related to a separate financing event ('F-T Offering'), not part of the consideration for the property acquisitions."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The text states that incentive stock options were granted to consultants, not as part of the consideration for the property acquisitions."
+    },
+    "issued_share_price": {
+      "value": 0.07,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.07'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text does not mention any exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions that vendors have agreed to invest in a future private placement ('invest a minimum of $20,000 in the next hard dollar private placement'), but this is an investment in the company, not a direct exploration commitment on the property as part of the acquisition terms. No other exploration commitment value is mentioned."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The text states one part of the acquisition is 'royalty free' and does not mention any royalty being acquired or retained in the other transaction."
+    },
+    "coverage_area_raw": {
+      "value": 5417,
+      "justification": "The total area acquired is the sum from two separate transactions described in the documents: \"an additional 2,460 hectares of mineral claims\" and \"The new claims cover approximately 2,957 hectares\"."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the acquired land is consistently stated as hectares: \"...acquisition of an additional 2,460 hectares of mineral claims...\" and \"The new claims cover approximately 2,957 hectares...\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The provided text does not contain any statement of a mineral resource estimate for the Moray project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NBRK",
+      "justification": "The buyer's ticker and exchange are explicitly stated in the text: \"New Break Resources Ltd. (CSE: NBRK)\" and \"New Break began trading on the Canadian Securities Exchange... under the symbol CSE: NBRK.\""
+    }
+  }
+}

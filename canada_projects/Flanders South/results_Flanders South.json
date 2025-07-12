@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Flanders South/88581.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Flanders South",
+      "justification": "The text explicitly names the project in the context of an earn-in agreement: '...to jointly explore Libra's Flanders South, Flanders North and Soules Bay-Caron (the \"SBC Project\") lithium projects in Ontario, Canada...'"
+    },
+    "company_name": {
+      "value": "PowerStone Metals Corp.",
+      "justification": "The article identifies PowerStone Metals Corp. as the public entity involved in the reverse takeover with Libra Lithium, the project holder. 'PowerStone Metals Corp. (CSE: PS) (\"PowerStone\" or the \"Company\") and Libra have entered into an amending agreement to the definitive agreement dated December 31, 2024 (the \"Definitive Agreement\") with respect to the reverse takeover of PowerStone by Libra (the \"Transaction\").'"
+    },
+    "ceo_buyer": {
+      "value": "Zachary Goldenberg",
+      "justification": "The contact information section lists the CEO of PowerStone Metals Corp., the public company in the transaction. 'Zachary Goldenberg Chief Executive Officer, PowerStone Metals Corp.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article mentions an earn-in agreement involving the project but does not specify the percentage of interest that can be acquired."
+    },
+    "primary_commodity": {
+      "value": "lithium",
+      "justification": "The text describes the projects involved in the earn-in agreement as lithium projects. '...to jointly explore Libra's Flanders South, Flanders North and Soules Bay-Caron (the \"SBC Project\") lithium projects in Ontario, Canada...'"
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/241590",
+      "justification": "The article discusses updates to transactions involving Libra Lithium Corp., which holds the Flanders South project, and explicitly names the project. The source URL is found at the bottom of the press release."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The exploration commitment is denoted with a '$' symbol. As the companies are Canadian and listed on the Canadian Securities Exchange (CSE), the currency is inferred to be Canadian Dollars (CAD). 'Libra's Flanders North, Flanders South, and Soules Bay-Caron projects in Ontario are being explored under a $33M earn-in deal with KoBold Metals Company.'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any cash payments as part of the transaction terms."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share payments as part of the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The article does not mention a combined cash and share payment value."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The article does not specify an amount of shares being issued for the transaction."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any share warrant payments."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The article does not mention any option payments."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The article does not mention a price per share for any issued shares related to the transaction."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not mention an exploration commitment in terms of meters drilled."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 11000000,
+      "justification": "The project's share is $11,000,000, calculated as one-third of the total $33M earn-in deal which is shared across three projects (Flanders North, Flanders South, and Soules Bay-Caron) as stated: 'Libra's Flanders North, Flanders South, and Soules Bay-Caron projects in Ontario are being explored under a $33M earn-in deal with KoBold Metals Company.'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The article does not mention any Net Smelter Royalty (NSR) being acquired or retained as part of the transaction."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The article does not specify the coverage area for the Flanders South project."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The article does not specify the coverage area unit for the Flanders South project."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article does not contain any statement of mineral resources for the project."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:PS",
+      "justification": "The article identifies the ticker and exchange for PowerStone Metals Corp., the public company involved in the reverse takeover. 'PowerStone Metals Corp. (CSE: PS) (\"PowerStone\" or the \"Company\") ...'"
+    }
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Northwest Athabasca/54726.txt",
+    "canada_projects/Northwest Athabasca/54782.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Northwest Athabasca",
+      "justification": "The project is consistently referred to as the 'Northwest Athabasca Joint Venture' or 'NWA Project' throughout the documents. For example: '...a joint venture ('Northwest Athabasca Joint Venture') among Forum, Cameco Corporation and Orano Canada Inc. to explore and develop certain mineral claims in the Northwest Athabasca region of Saskatchewan ('NWA Project').'"
+    },
+    "company_name": {
+      "value": "Global Uranium Corp.",
+      "justification": "The text identifies Global Uranium Corp. as the acquiring company (buyer). 'Forum Energy Metals Corp. ... announces that it has entered into an option agreement (the \"Option Agreement\") with Global Uranium Corp. (\"Global\") wherein it has granted Global the right to acquire up to 75% of the Company's interest...'"
+    },
+    "ceo_buyer": {
+      "value": "S. John Kim",
+      "justification": "The press release from the buyer, Global Uranium Corp., is signed by 'S. John Kim, CEO and Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 75,
+      "justification": "Global Uranium can acquire a total of 75% of Forum's interest through two options. 'Global has an initial right (the \"Initial Option\") to acquire 51% of the Company's Interest...' and 'Global shall also have the right (the \"Second Option\") to acquire a further 24% interest in the Company's Interest (for a total of 75%).'"
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The text describes the project as targeting uranium. 'The multiple showings and occurrences of uranium mineralization on the NWA Project suggests the project area is fertile for uranium mineralization.' and mentions a historical estimate for 'U3O8'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/211075",
+      "justification": "The article is titled 'Forum Enters into Option Agreement with Global Uranium for $20 Million to Earn 75% of Forum's Interest in the Northwest Athabasca Joint Venture', which directly pertains to the specified project."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The companies involved (Forum Energy Metals Corp. and Global Uranium Corp.) are listed on Canadian exchanges (TSXV and CSE respectively), and the project is in Saskatchewan, Canada. The currency is inferred to be Canadian Dollars (CAD) from this context."
+    },
+    "cash_payments_raw": {
+      "value": 2225000,
+      "justification": "This is the sum of all potential cash payments, including staged payments and milestone payments. 'making staged payments to Forum totalling $225,000 by December 31, 2027', plus a $1,000,000 milestone for a PEA and a 'further $1,000,000' for a feasibility study. ($225,000 + $1,000,000 + $1,000,000 = $2,225,000)."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The text specifies the number of shares to be issued, not a total monetary value for the share component. Therefore, `amount_of_shares_issued` and `issued_share_price` are populated instead, following the data extraction hierarchy."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The agreement details separate cash and share components, so this combined field is not applicable per the extraction hierarchy."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "This is the sum of all potential share issuances. 'making staged issuances to Forum of a total of 1,000,000 shares of the Company by December 31, 2027' and upon a feasibility study, Global 'shall issue to it 1,000,000 common shares.' (1,000,000 + 1,000,000 = 2,000,000)."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any stock option payments."
+    },
+    "issued_share_price": {
+      "value": 0.14,
+      "justification": "The transaction terms mention the number of shares issued by Global Uranium Corp., but not the price. Using the last traded price as a fallback, as seen in the detailed quote for Global Uranium Corp. (CSE: GURN): 'Last: 0.14'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions a planned drill program of '3,000 to 4,500 metres', but the deal commitment is a monetary value for exploration funding, not a specific meterage."
+    },
+    "exploration_commitment_value_raw": {
+      "value": 20000000,
+      "justification": "This is the sum of the maximum exploration funding commitments across both options. The Initial Option includes funding 'up to a maximum of $9,000,000' and the Second Option includes funding 'up to a maximum of $11,000,000'. ($9,000,000 + $11,000,000 = $20,000,000). This is also confirmed in the article title: '$20 Million to Earn 75%...'"
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) or Gross Revenue Royalty (GRR) being acquired or retained as part of the transaction terms."
+    },
+    "coverage_area_raw": {
+      "value": 13845,
+      "justification": "The text states: 'The NWA Project consists of 11 claims for 13,845 ha.'"
+    },
+    "coverage_area_unit": {
+      "value": "ha",
+      "justification": "The text states: 'The NWA Project consists of 11 claims for 13,845 ha.'"
+    },
+    "resource_size": {
+      "value": "1.5 million lb U3O8 at 0.6%",
+      "justification": "The text mentions a historical resource on the property: 'the Maurice Bay deposit with a historical estimate* of 1.5 million lb U3O8 at 0.6%'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GURN",
+      "justification": "The buyer is identified as Global Uranium Corp., and its press release provides the ticker and exchange: 'Global Uranium Corp. (CSE: GURN)'."
+    }
+  }
+}

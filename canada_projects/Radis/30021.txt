@@ -1,0 +1,66 @@
+--- Article Metadata ---
+Project Name: Radis
+Company Name: Ophir Metals Corp.
+Exchange: TSXV
+Ticker: OPHR
+Primary Commodity: N/A
+------------------------
+
+← Back Project Summary ← Back   Close
+
+ 
+
+1.18.2023, 8:22:00 PM
+
+# Ophir Gold Receives Approval for Option on Radis Property
+
+****Vancouver, British Columbia--(Newsfile Corp. - January 18, 2023) - Ophir Gold Corp.  **(TSXV: OPHR) (OTCQB: KPZIF) (FSE: 80M)  **(the**** "**Company** "**** or**** "**Ophir** ") is pleased to announce that further to its news releases of December 12, 2022, the TSX Venture Exchange has approved its option (the "**Option** ") to acquire a 100% legal and beneficial interest in the Radis Property (the "**Property** "), located approximately 70 km east-northeast of Wemindji, Quebec, pursuant to an arm's length option agreement (the "**Option Agreement** ") with Eastmain Resources Inc. (the "**Optionor** ").
+
+Pursuant to the Option Agreement, the Company may exercise the option upon: (i) the issuance of an aggregate of 5,000,000 common shares (the "**Common Shares** ") in the capital of the Company; and (ii) pay an aggregate of $375,000 in cash payments to the Optionor (the "**Option Payments** "). 
+
+The Company may at any time, accelerate the exercise of the Option by making all required Option Payments prior to the third anniversary of the Option Agreement. In the event that the Company exercises the Option in full and acquires the Property, the Company will grant a 2% net smelter returns royalty (the "**NSR** ") to the Optionor. The Company has the option to buy back 1.5% of the NSR, at any time, for consideration of $1,500,000.
+
+In addition, further to its press release dated December 23, 2022, the Company wishes to advise that the flow-through private placement (the "**Offering** ") constituted a "related party transaction" as defined in Multilateral Instrument 61-101 - _Protection of Minority Securityholders in Special Transactions_ ("**MI 61-101** "), as certain insiders of the Company subscribed for an aggregate of 200,000 flow-through units. The Company is relying on the exemptions from the valuation and minority shareholder approval requirements of MI 61-101 contained in sections 5.5(b) and 5.7(1)(a) of MI 61-101, as the Company is not listed on a specified market and the fair market value of the participation in the Offering by insiders does not exceed 25% of the market capitalization of the Company, as determined in accordance with MI 61-101. A copy of the material change report with respect to the Offering dated December 30, 2023 can be found on the Company's SEDAR profile at [www.SEDAR.com](https://www.newsfilecorp.com/redirect/1z3OOSL7nD). 
+
+**About the Company**
+
+Ophir Gold Corp. is a gold exploration company focused on the exploration and development of its flagship property, the past producing Breccia Gold Property located in Lemhi County, Idaho. The Company has an option to earn a 100% interest in the Property over a three-year period from Canagold Resources Ltd. (formerly Canarc Resource Corp.) and DG Resource Management Ltd.
+
+On behalf of the Board of Directors
+
+ _"Shawn Westcott"_  
+Ophir Gold Corp.
+
+For further information, please contact:
+
+Shawn Westcott, CEO  
+Phone 1 (604) 365 6681  
+[swestcott@ophirgoldcorp.com](mailto:swestcott@ophirgoldcorp.com)
+
+Neither the TSX Venture Exchange nor its Regulation Services Provider (as that term is defined in policies of the TSX Venture Exchange) accepts responsibility for the adequacy or accuracy of this release.
+
+**Cautionary Note**
+
+The information contained herein contains "forward-looking statements" within the meaning of applicable securities legislation. Forward-looking statements relate to information that is based on assumptions of management, forecasts of future results, and estimates of amounts not yet determinable. Any statements that express predictions, expectations, beliefs, plans, projections, objectives, assumptions or future events or performance are not statements of historical fact and may be "forward-looking statements." Forward-looking statements are subject to a variety of risks and uncertainties which could cause actual events or results to differ from those reflected in the forward-looking statements, including, without limitation: risk related to the failure to obtain adequate financing on a timely basis and on acceptable terms; risks related to the outcome of legal proceedings; political and regulatory risks associated with mining and exploration; risks related to the maintenance of stock exchange listings; risks related to environmental regulation and liability; the potential for delays in exploration or development activities or the completion of feasibility studies; the uncertainty of profitability; risks and uncertainties relating to the interpretation of drill results, the geology, grade and continuity of mineral deposits; risks related to the inherent uncertainty of production and cost estimates and the potential for unexpected costs and expenses; results of prefeasibility and feasibility studies, and the possibility that future exploration, development or mining results will not be consistent with the Company's expectations; risks related to commodity price fluctuations; and other risks and uncertainties related to the Company's prospects, properties and business detailed elsewhere in the Company's disclosure record. Should one or more of these risks and uncertainties materialize, or should underlying assumptions prove incorrect, actual results may vary materially from those described in forward-looking statements. Investors are cautioned against attributing undue certainty to forward-looking statements. These forward-looking statements are made as of the date hereof and the Company does not assume any obligation to update or revise them to reflect new events or circumstances, except in accordance with applicable securities laws. Actual events or results could differ materially from the Company's expectations or projections.
+
+To view the source version of this press release, please visit [https://www.newsfilecorp.com/release/151728](https://www.newsfilecorp.com/redirect/ABn00fW0zM)
+
+### Project Name
+
+[Radis Project](/?gid=3814)  
+Quebec, Canada
+
+--- Detailed Quote ---
+
+Last: 0.055            $  Chg: 0.005
+Open: 0.055            High: 0.055
+Bid: 0.05             Bid Size: 17000
+Beta: 0.46006            Year High: 0.14
+Market Cap: 5.44m      PB Ratio: 1.11
+EPS: -0.06             Average Volume (30 Day): 99.50k
+Volume: 10.45k          % Chg: 10.00%
+Prev. Close: 0.05     Low: 0.055
+Ask: 0.055             Ask Size: 47000
+VWAP: 0.055            Year Low: 0.035
+Total Shares: 98.89m    Shares Out: 98.89m
+Float: 96.62m           Exchange: TSXV

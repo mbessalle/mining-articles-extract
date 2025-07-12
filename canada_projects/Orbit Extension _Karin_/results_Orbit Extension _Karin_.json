@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Orbit Extension _Karin_/66522.txt",
+    "canada_projects/Orbit Extension _Karin_/66524.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "ORBIT EXTENSION KARIN",
+      "justification": "The transaction involves Skyharbour Resources selling two claims from its Karin Property to Cosa Resources, which is adding them to its Orbit Project. The first article states: \"Skyharbour will sell Cosa two (2) mineral claims... These two claims represent a small portion of Skyharbour’s Karin Property\". The second article states: \"Two mineral dispositions totalling 6,049 hectares to be acquired, doubling the footprint of the Orbit uranium project (the \\\"Orbit Project\\\")\"."
+    },
+    "company_name": {
+      "value": "Cosa Resources Corp.",
+      "justification": "Cosa Resources Corp. is identified as the acquirer (buyer) in both press releases. The second article states: \"Cosa Resources Corp. (TSXV: COSA) (OTCQB: COSAF) (FSE: SSKU) ('Cosa' or the 'Company') is pleased to announce it has entered into an asset purchase agreement (the 'Purchase Agreement') with Skyharbour Resources Ltd. (the 'Vendor') ... for the acquisition (the 'Acquisition') of two mineral claims\"."
+    },
+    "ceo_buyer": {
+      "value": "Keith Bodnarchuk",
+      "justification": "The buyer is Cosa Resources Corp. Its CEO is identified in the second press release: \"Keith Bodnarchuk, President and CEO of Cosa, commented...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Cosa Resources is acquiring full ownership of the claims. The second article states: \"Cosa has agreed to acquire a 100% unencumbered ownership of two mineral claims from the Vendor\"."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is explicitly identified as a uranium project. The first article is titled: \"Skyharbour Signs Agreement to Sell a Portion of its Karin Uranium Property to Cosa Resources Corp.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/218056",
+      "justification": "The article, titled \"Cosa Resources Enters Agreement to Expand its 100% Owned Orbit Uranium Project, Athabasca Basin, Saskatchewan\", accurately describes the acquisition of two mineral claims from Skyharbour Resources to expand Cosa's Orbit project, which matches the transaction details."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The consideration for the acquisition is entirely in shares, with no cash component mentioned. The agreement states: \"In consideration for the claims, Cosa will issue to Skyharbour 250,000 common shares in the capital of Cosa\"."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "No cash payment is mentioned as part of the transaction terms. The consideration is shares only."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "A monetary value for the share payment is not explicitly stated. The number of shares and a price per share are available, so Priority 2 (amount_of_shares_issued and issued_share_price) is used instead."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are not expressed as a single combined value. Priority 2 (amount_of_shares_issued and issued_share_price) is used instead."
+    },
+    "amount_of_shares_issued": {
+      "value": 250000,
+      "justification": "The number of shares to be issued is explicitly stated in both articles. The first article says: \"In consideration for the claims, Cosa will issue to Skyharbour 250,000 common shares in the capital of Cosa (the “Consideration Shares”).\""
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.205,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for the buyer (Cosa Resources Corp.): 'Last: 0.205'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters is mentioned in the agreement."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the agreement."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The claims are being acquired without any royalties. The first article states: \"There are no underlying royalties on the claims\"."
+    },
+    "coverage_area_raw": {
+      "value": 6049,
+      "justification": "The area of the acquired claims is specified in both articles. The first states: \"Skyharbour will sell Cosa two (2) mineral claims, comprising approximately 6,049 hectares.\""
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for the coverage area is specified in the text: \"Skyharbour will sell Cosa two (2) mineral claims, comprising approximately 6,049 hectares.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historical mineralization intercepts (e.g., \"0.07% U3O8 in drill hole TED-01\") but does not provide a quantified mineral resource estimate with mass or volume units like tonnes or ounces."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV: COSA",
+      "justification": "The buyer is Cosa Resources Corp. Its primary stock exchange and ticker are provided in the header of its press release: \"Cosa Resources Corp. (TSXV: COSA)\"."
+    }
+  }
+}

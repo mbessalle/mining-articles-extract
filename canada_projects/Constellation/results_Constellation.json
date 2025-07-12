@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Constellation/40967.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Constellation",
+      "justification": "The article is titled 'CanAlaska Stakes 11,143 Hectare Constellation Project in Eastern Athabasca Basin' and states in the body: 'CanAlaska Uranium Ltd. ... is pleased to announce the Company's newly acquired Constellation project, totalling 11,143 hectares.'"
+    },
+    "company_name": {
+      "value": "Canalaska Uranium Ltd.",
+      "justification": "The acquiring company is identified as 'CanAlaska Uranium Ltd. (TSXV: CVV) (OTCQX: CVVUF) (FSE: DH7N) (“CanAlaska or the “Company”)'."
+    },
+    "ceo_buyer": {
+      "value": "Cory Belyk",
+      "justification": "The CEO of the acquiring company, CanAlaska, is identified in the text: 'CanAlaska CEO, Cory Belyk, comments...' and at the end of the release: 'Cory Belyk, P.Geo., FGC CEO, President and Director CanAlaska Uranium Ltd.'"
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article states that CanAlaska 'staked' and 'newly acquired' the project, which typically implies 100% interest, but no specific percentage is mentioned in the text."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The company is CanAlaska Uranium Ltd. and the project is described with 'Priority Basement Uranium Target Corridors Identified' and is located in the Athabasca Basin, a major uranium district."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/180537",
+      "justification": "The article is titled 'CanAlaska Stakes 11,143 Hectare Constellation Project in Eastern Athabasca Basin' and the content is entirely focused on this project."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The project was acquired via staking, and no financial transaction involving a currency is mentioned."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The article does not mention any cash consideration."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The article does not mention any share consideration."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The article does not mention any combined cash and share consideration."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The article does not mention any shares being issued as part of the acquisition."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The project was acquired via staking, not a purchase. The article does not mention any shares being issued, and therefore there is no associated share price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article mentions '18 kilometres of untested prospective target area' but this describes the project's potential, not a committed drilling program."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The article states CanAlaska 'will actively seek new joint venture partners to help move Constellation forward' but does not specify any exploration spending commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "There is no mention of a Net Smelter Royalty (NSR) in the article."
+    },
+    "coverage_area_raw": {
+      "value": 11143,
+      "justification": "The text states: 'CanAlaska Uranium Ltd. ... is pleased to announce the Company's newly acquired Constellation project, totalling 11,143 hectares.'"
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The text states: 'CanAlaska Uranium Ltd. ... is pleased to announce the Company's newly acquired Constellation project, totalling 11,143 hectares.'"
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the project as 'vastly underexplored' and having 'untested prospective target area', indicating no mineral resource has been defined. While mineralization on an adjacent property is mentioned, no resource is stated for the Constellation project itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:CVV",
+      "justification": "The acquiring company is identified in the first paragraph as 'CanAlaska Uranium Ltd. (TSXV: CVV)'."
+    }
+  }
+}

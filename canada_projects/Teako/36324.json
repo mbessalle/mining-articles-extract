@@ -1,0 +1,356 @@
+{
+  "article": {
+    "id": 36324,
+    "link": "https://www.newsfilecorp.com/release/169158/Teako-Minerals-Completes-Acquisition-of-Teako-CopperGold-Project-and-Issues-Two-Million-Shares",
+    "title": "Teako Minerals Completes Acquisition of Teako Copper-Gold Project and Issues Two Million Shares",
+    "description": "<img src=\"https://api.newsfilecorp.com/newsinfo/169158/367\" id=\"367\" width=\"2\" height=\"2\" style=\"width: 1px;  height: 1px;border: 0px solid;\" /><p>Vancouver, British Columbia--(Newsfile Corp. - June 7, 2023) - <b>TEAKO MINERALS CORP. </b>(<b>CSE: TMIN</b>) (the \"<b>Company</b>\" or \"<b>Teako</b>\") is pleased to announce that it has accelerated and issued the remaining two (2) million shares of the Company (the \"<b>Common Shares</b>\") to Teako Gold Corp. (\"TGC\") on June 5, 2023, as negotiated by the parties in the transaction of acquiring TGC's project portfolio (<a href=\"https://api.newsfilecorp.com/redirect/5pwoytvG3W\">see news release dated January 12, 2023</a>). This share issuance completes all commitments in the transaction.</p><p>The Common Shares will be subject to a statutory hold period expiring four months and one day from the date of issuance in accordance with applicable securities legislation.</p><p><b>About Teako Minerals Corp.:</b></p><p>Teako Minerals Corp. is a Canadian mineral exploration company focused on creating shareholder value through exploration, acquisition, and development of mineral projects in Canada and Europe.  </p><p><b>ON BEHALF OF TEAKO MINERALS CORP.</b></p><p><i>\"Sven Gollan\"</i><br />CEO <br />T: +43 5522 500429</p><p>email <a href=\"mailto:sven.gollan@teakominerals.com\">sven.gollan@teakominerals.com</a></p><p><b>Forward-Looking Information:</b></p><p>This press release may include forward-looking information within the meaning of Canadian securities legislation, concerning the business of Teako. Forward-looking information is based on certain key expectations and assumptions made by the management of Teako. In some cases, you can identify forward-looking statements by the use of words such as \"will,\" \"may,\" \"would,\" \"expect,\" \"intend,\" \"plan,\" \"seek,\" \"anticipate,\" \"believe,\" \"estimate,\" \"predict,\" \"potential,\" \"continue,\" \"likely,\" \"could\" and variations of these terms and similar expressions, or the negative of these terms or similar expressions. Although Teako believes that the expectations and assumptions on which such forward-looking information is based are reasonable, undue reliance should not be placed on the forward-looking information because Teako can give no assurance that they will prove to be correct. </p><p><i><b>The Canadian Securities Exchange (CSE) has not reviewed and does not accept responsibility for the adequacy or the accuracy of the contents of this release.</b></i>              </p><p style=\"text-align: center;\"><i>Not for dissemination in the United States or through U.S. newswires</i></p><p id=\"corporateNewsLogoContainer\"><img src=\"https://images.newsfilecorp.com/files/8258/169158_678fa7af6401887a_logo.jpg\" id=\"corporateNewsLogo\" alt=\"Corporate Logo\" /></p><p id=\"corporateLinkBack\">To view the source version of this press release, please visit <a href=\"https://api.newsfilecorp.com/redirect/L7YjZsK5pD\">https://www.newsfilecorp.com/release/169158</a></p>",
+    "search_terms": "Teako,Teako Minerals Corp.,TMIN",
+    "master_gid": 2622,
+    "date": "2023-06-07T20:51:00.000Z",
+    "tags": "|||Gold|Project Acquisition",
+    "image_id": null,
+    "hidden": false,
+    "company_id": 467,
+    "provider": null,
+    "excerpt": "Vancouver, British Columbia--(Newsfile Corp. - June 7, 2023) -TEAKO MINERALS CORP.(CSE: TMIN) (the \"Company\" or \"Teako\") is pleased to announce that it has accelerated and issued the remaining two (2) million shares of the Company (the \"Common Shares\") to Teako Gold Corp. (\"TGC\") on June 5, 2023, as negotiated by",
+    "is_regulatory": false,
+    "refined_tags": [
+      "Project Acquisition"
+    ],
+    "ftp_filename": null,
+    "company_name": "Teako Minerals Corp.",
+    "exchange": "CSE",
+    "root_ticker": "TMIN",
+    "project_name": "Teako",
+    "gid": 2622,
+    "location": "British Columbia",
+    "plan_id": "companytier2"
+  },
+  "articleProject": {
+    "gid": 2622,
+    "project_name": "Teako",
+    "location": "British Columbia"
+  },
+  "articleExchange": "CSE",
+  "articleCompanyId": 467,
+  "articleTicker": "TMIN",
+  "articleCompanyName": "Teako Minerals Corp.",
+  "allOtherCompanyProjects": [
+    {
+      "company_id": 467,
+      "gid": 6952,
+      "project_name": "Kjerfjord",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6515,
+      "project_name": "Lysfjord",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6517,
+      "project_name": "Mydalen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6957,
+      "project_name": "Mykkelvika",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6960,
+      "project_name": "Slettfjell",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6961,
+      "project_name": "Tydalen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6956,
+      "project_name": "Moelva",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6950,
+      "project_name": "Hulderdalen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 10963,
+      "project_name": "Skarafjell",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6954,
+      "project_name": "Kvelde",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6946,
+      "project_name": "Arefjellet",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6505,
+      "project_name": "Bjellatinden",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6947,
+      "project_name": "Eikland",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 457,
+      "project_name": "Pinnacle",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 467,
+      "gid": 6510,
+      "project_name": "Hattfjellet",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6506,
+      "project_name": "Feren",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6507,
+      "project_name": "Gjerdalen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6508,
+      "project_name": "Gruvefjellet",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6511,
+      "project_name": "Haugfjell",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6520,
+      "project_name": "Rosta",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6519,
+      "project_name": "Rebbenes",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6521,
+      "project_name": "Selnes",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6522,
+      "project_name": "Soltinden",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6524,
+      "project_name": "Susna",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6526,
+      "project_name": "Svartdalen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6531,
+      "project_name": "Toreby",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6534,
+      "project_name": "Varde",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6523,
+      "project_name": "Stortuva",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6527,
+      "project_name": "Svarthola",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6529,
+      "project_name": "Tilthornet",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 4624,
+      "project_name": "BQ",
+      "location": "British Columbia, Canada"
+    },
+    {
+      "company_id": 467,
+      "gid": 6948,
+      "project_name": "Heimdalhaugen",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6513,
+      "project_name": "Husvika",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6518,
+      "project_name": "Nordby",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6528,
+      "project_name": "Svartvatnet",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6214,
+      "project_name": "Vaddas",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 6535,
+      "project_name": "Velfjord",
+      "location": "Norway"
+    },
+    {
+      "company_id": 467,
+      "gid": 2622,
+      "project_name": "Teako",
+      "location": "British Columbia"
+    },
+    {
+      "company_id": 467,
+      "gid": 6425,
+      "project_name": "Lokken and Venna",
+      "location": null
+    }
+  ],
+  "allOtherCompanyNews": [
+    {
+      "id": 110225,
+      "company_id": 467,
+      "title": "Teako Sells Exploration Rights Near Fens Deposit to Treschow-Fritzøe; Forming a Strategic Collaboration",
+      "link": null,
+      "date": "2025-07-03T10:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 105519,
+      "company_id": 467,
+      "title": "Teako Completes Inaugural Diamond Drilling and Downhole Geophysics at Its Løkken Property and Receives Additional Drill Permit for Its Massive Sulfide Target at Fjellslett",
+      "link": null,
+      "date": "2025-05-22T12:59:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 91932,
+      "company_id": 467,
+      "title": "Teako Commences Maiden Diamond Drill Program at the Løkken Copper-Cobalt-Zinc Project, Norway",
+      "link": null,
+      "date": "2025-03-20T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 91514,
+      "company_id": 467,
+      "title": "Teako Closes Oversubscribed Private Placement, Welcomes Norwegian Family Office as a Significant (>10%) Shareholder Alongside Strong Participation from Existing Investors and Prominent Norwegian Investors",
+      "link": null,
+      "date": "2025-03-17T11:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 88375,
+      "company_id": 467,
+      "title": "Teako Announces Changes to the Board of Directors; Strengthens Capital Markets Expertise",
+      "link": "https://www.newsfilecorp.com/release/241447/Teako-Announces-Changes-to-the-Board-of-Directors-Strengthens-Capital-Markets-Expertise",
+      "date": "2025-02-19T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 83181,
+      "company_id": 467,
+      "title": "Teako Announces Non-Brokered Private Placement of Up to $750,000 to Advance Drilling at the Løkken Project; Secures $400,000 in Lead Commitments",
+      "link": "https://www.newsfilecorp.com/release/235786/Teako-Announces-NonBrokered-Private-Placement-of-Up-to-750000-to-Advance-Drilling-at-the-Lkken-Project-Secures-400000-in-Lead-Commitments",
+      "date": "2025-01-02T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 83041,
+      "company_id": 467,
+      "title": "Teako Announces Share Purchase Agreement, Closes Shares for Debt Transaction, and Provides Update on Previously Announced Private Placement",
+      "link": "https://www.newsfilecorp.com/release/235479/Teako-Announces-Share-Purchase-Agreement-Closes-Shares-for-Debt-Transaction-and-Provides-Update-on-Previously-Announced-Private-Placement",
+      "date": "2024-12-30T14:15:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 82792,
+      "company_id": 467,
+      "title": "Teako Announces Shares for Debt Transaction",
+      "link": "https://www.newsfilecorp.com/release/234933/Teako-Announces-Shares-for-Debt-Transaction",
+      "date": "2024-12-23T13:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 80876,
+      "company_id": 467,
+      "title": "Teako Minerals Receives Drill Permits for the High-Grade Copper-Cobalt-Zinc Massive Sulfide Løkken Project in Norway; Permits Granted Within Two Weeks of Application",
+      "link": "https://www.newsfilecorp.com/release/232442/Teako-Minerals-Receives-Drill-Permits-for-the-HighGrade-CopperCobaltZinc-Massive-Sulfide-Lkken-Project-in-Norway-Permits-Granted-Within-Two-Weeks-of-Application",
+      "date": "2024-12-04T12:00:00.000Z",
+      "hidden": false
+    },
+    {
+      "id": 79254,
+      "company_id": 467,
+      "title": "Teako Minerals Concludes Regional Summer Program and Provides Private Placement Update",
+      "link": "https://www.newsfilecorp.com/release/230566/Teako-Minerals-Concludes-Regional-Summer-Program-and-Provides-Private-Placement-Update",
+      "date": "2024-11-19T13:00:00.000Z",
+      "hidden": false
+    }
+  ]
+}

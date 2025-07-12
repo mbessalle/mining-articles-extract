@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Bonnie Lake/87587.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bonnie Lake",
+      "justification": "The article is titled \"Searchlight Resources Stakes Bonnie Lake Uranium Claims in Saskatchewan\" and refers to the project as \"The Bonnie Lake project\"."
+    },
+    "company_name": {
+      "value": "Searchlight Resources Inc.",
+      "justification": "The press release is from \"Searchlight Resources Inc. (TSXV: SCLT) (OTC Pink: SCLTF) (\"Searchlight\" or the \"Company\")\"."
+    },
+    "ceo_buyer": {
+      "value": "Stephen Wallace",
+      "justification": "\"The Bonnie Lake project aligns with Searchlight's staking of high-value surface uranium targets in the Wollaston Domain... stated Stephen Wallace, CEO of Searchlight.\""
+    },
+    "interest_acquired_percent": {
+      "value": null,
+      "justification": "The article describes the \"staking\" of claims, which is the act of claiming new mineral rights, not an acquisition of a specific interest percentage from another party. No percentage is mentioned."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The headline states \"Searchlight Resources Stakes Bonnie Lake Uranium Claims in Saskatchewan\" and the text mentions \"multiple known uranium showings\"."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/240461",
+      "justification": "The article is about the Bonnie Lake project, which is the project of interest. The source link is provided at the bottom of the text: \"To view the source version of this press release, please visit https://www.newsfilecorp.com/release/240461\"."
+    },
+    "currency": {
+      "value": null,
+      "justification": "The transaction is a staking of claims and no financial consideration is mentioned in the article, so no currency is applicable."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition involving a cash payment. No cash consideration is mentioned."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims, not an acquisition involving a share payment. No share consideration is mentioned."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction is a staking of claims and no combined cash and share payment is mentioned."
+    },
+    "amount_of_shares_issued": {
+      "value": null,
+      "justification": "The transaction is a staking of claims and does not involve the issuance of shares."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "No shares were issued as part of the transaction, so there is no issue price."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters is mentioned in the article."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment is mentioned in the article."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) was acquired or retained as part of the staking transaction."
+    },
+    "coverage_area_raw": {
+      "value": 37.3,
+      "justification": "\"The two claims cover 37.3 sq km, and host multiple known uranium showings, including the Bonnie Lake showings.\""
+    },
+    "coverage_area_unit": {
+      "value": "sq km",
+      "justification": "\"The two claims cover 37.3 sq km, and host multiple known uranium showings, including the Bonnie Lake showings.\""
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article mentions historical assay results (e.g., \"up to 0.183% U3O8\") but does not provide a mineral resource estimate with mass or volume (e.g., tonnes, ounces), as required by the extraction rules."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:SCLT",
+      "justification": "The acquiring company is identified as \"Searchlight Resources Inc. (TSXV: SCLT)\"."
+    }
+  }
+}

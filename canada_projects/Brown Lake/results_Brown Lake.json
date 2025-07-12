@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Brown Lake/72668.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Brown Lake",
+      "justification": "The article is titled 'Standard Uranium Announces Transaction on Brown Lake Uranium Project in the Eastern Athabasca Basin, Saskatchewan'."
+    },
+    "company_name": {
+      "value": "Mustang Energy Corp.",
+      "justification": "The article states that Standard Uranium signed a property acquisition agreement with 'Mustang Energy Corp. (CSE: MEC) (\"Mustang\" or the \"Purchaser\")'."
+    },
+    "ceo_buyer": {
+      "value": null,
+      "justification": "The article does not mention the name of the CEO for the buyer, Mustang Energy Corp."
+    },
+    "interest_acquired_percent": {
+      "value": 90,
+      "justification": "In accordance with the terms of the Acquisition Agreement, the Company will transfer ownership of a 90% interest in the Brown Lake Project to Mustang..."
+    },
+    "primary_commodity": {
+      "value": "Uranium",
+      "justification": "The project is referred to as the 'Brown Lake Uranium Project' and the text discusses its potential for 'high-grade* basement-hosted and unconformity-related uranium mineralization'."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/224575",
+      "justification": "The article is titled 'Standard Uranium Announces Transaction on Brown Lake Uranium Project...' and the content is entirely focused on this specific project and transaction."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The buyer, Mustang Energy Corp., is listed on the Canadian Securities Exchange (CSE: MEC) and the seller, Standard Uranium Ltd., is listed on the TSX Venture Exchange (TSXV: STND), indicating a transaction in Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition is specified as shares only, with no mention of a cash component: 'in consideration for 60,000 common shares of Mustang'."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The consideration is a number of shares, but no monetary value for these shares is provided in the text."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "No combined monetary value for the transaction is provided. The consideration is stated as a number of shares."
+    },
+    "amount_of_shares_issued": {
+      "value": 60000,
+      "justification": "The Company will transfer ownership of a 90% interest in the Brown Lake Project to Mustang in consideration for 60,000 common shares of Mustang."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any share warrants."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms do not mention any options."
+    },
+    "issued_share_price": {
+      "value": null,
+      "justification": "The price per share for the buyer's (Mustang Energy Corp.) stock is not mentioned in the article. The detailed quote provided is for the seller, Standard Uranium (TSXV: STND), not the buyer."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The article does not specify an exploration commitment in terms of drilling meters."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text states that 'Mustang will be responsible for all expenses associated with maintaining and developing the Project,' but does not specify a minimum monetary exploration commitment."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "The seller, Standard Uranium, will retain a '10% carried interest', which is not a Net Smelter Royalty (NSR)."
+    },
+    "coverage_area_raw": {
+      "value": 312,
+      "justification": "The Brown Lake Project consists of one mineral claim totalling 312 hectares..."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The Brown Lake Project consists of one mineral claim totalling 312 hectares..."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The article describes the project as having 'Untested potential' and does not provide a mineral resource estimate for the Brown Lake Project itself. The high-grade intersections mentioned are from the adjacent 'Shift Lake Uranium Zone'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE: MEC",
+      "justification": "The buyer is identified in the text as 'Mustang Energy Corp. (CSE: MEC)'."
+    }
+  }
+}

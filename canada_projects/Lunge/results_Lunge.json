@@ -1,0 +1,92 @@
+{
+  "source_files": [
+    "canada_projects/Lunge/32023.txt",
+    "canada_projects/Lunge/48508.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Lunge",
+      "justification": "Graycliff Exploration Expands Property Package by Acquiring Lunge Project"
+    },
+    "company_name": {
+      "value": "Graycliff Exploration Limited",
+      "justification": "Graycliff Exploration Limited (CSE: GRAY) (OTCQB: GRYCF) (FSE: GE0) (the \"Company\" or \"Graycliff\") is pleased to announce that it has acquired the Lunge Project (\"Lunge\")"
+    },
+    "ceo_buyer": {
+      "value": "James Macintosh",
+      "justification": "On Behalf of the Board of Directors, James Macintosh President and CEO"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Under the terms of the Acquisition, Graycliff will issue 2,000,000 common shares of the Company for a 100% interest in the Lunge Project, subject to a 2% net smelter return royalty (\"NSR\")."
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The second article, which describes the subsequent sale of the Lunge project, is titled: \"EV Minerals Strengthens Exploration Portfolio with Acquisition of Two Nickel Exploration Properties near Sudbury, Ontario\", identifying it as a nickel property."
+    },
+    "verified_article_link": {
+      "value": "https://www.newsfilecorp.com/release/156835",
+      "justification": "The article at this link describes the acquisition of the Lunge Project by Graycliff Exploration Limited, which is the transaction being documented."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The company, Graycliff Exploration Limited, is based in Toronto, Ontario and is listed on the Canadian Securities Exchange (CSE). The NSR buyback option is denominated in dollars: \"Graycliff will have the right to purchase 1% of the NSR in return by paying the Vendor $1,000,000.\""
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The consideration for the acquisition was in shares only, not cash. \"Graycliff will issue 2,000,000 common shares of the Company for a 100% interest in the Lunge Project\"."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares is provided, but not their total monetary value."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The consideration was not specified as a combined cash and share value."
+    },
+    "amount_of_shares_issued": {
+      "value": 2000000,
+      "justification": "Under the terms of the Acquisition, Graycliff will issue 2,000,000 common shares of the Company for a 100% interest in the Lunge Project"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "Share warrants are not mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "Options are not mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.025,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote from the relevant article: 'Last: 0.025'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No monetary exploration commitment was mentioned in the transaction terms."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The acquisition was made \"subject to a 2% net smelter return royalty ('NSR')\", which was retained by the vendor."
+    },
+    "coverage_area_raw": {
+      "value": 601,
+      "justification": "The newly acquired project comprises 27 claim units covering 601 hectares."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The newly acquired project comprises 27 claim units covering 601 hectares."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text mentions historic drill results but does not provide a quantified mineral resource estimate in terms of total tonnes or ounces. The text also states this information is 'historic in nature and should not be relied upon'."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:GRAY",
+      "justification": "Graycliff Exploration Limited (CSE: GRAY) (OTCQB: GRYCF) (FSE: GE0) (the \"Company\" or \"Graycliff\")"
+    }
+  }
+}

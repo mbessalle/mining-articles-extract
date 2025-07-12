@@ -1,0 +1,93 @@
+{
+  "source_files": [
+    "canada_projects/Bird River/33730.txt",
+    "canada_projects/Bird River/45696.txt",
+    "canada_projects/Bird River/88968.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Bird River",
+      "justification": "The articles describe acquisitions in the Bird River area: \"CONSOLIDATES KEY BASE METAL LAND POSITION BIRD RIVER BELT\" and \"The sale of the Bird River Claims to Grid consolidated the Bird River Greenstone Belt under a sole ownership.\""
+    },
+    "company_name": {
+      "value": "Grid Metals Corp.",
+      "justification": "The primary acquirer in the relevant transactions is identified as Grid Metals Corp. \"Grid Metals Corp. (TSXV:GRDM)(OTCQB:MSMGF) (the \"Company\") is pleased to announce that it has entered into agreements with arms' length third party vendors to acquire additional property in southeast Manitoba.\""
+    },
+    "ceo_buyer": {
+      "value": "Robin Dunbar",
+      "justification": "The CEO of the acquiring company, Grid Metals Corp., is named in the press release. \"Robin Dunbar, President and CEO of Grid Metals stated...\""
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "Grid Metals acquired a 100% interest in the properties from both sellers. \"The Company has executed a purchase agreement with Gossan Resources Limited for a 100% interest in the Chrome, Page and Ore Fault claims... The Company has also executed a purchase agreement with a subsidiary of First Mining Gold Corp. for a 100% interest in the Eagle Claims.\""
+    },
+    "primary_commodity": {
+      "value": "Nickel",
+      "justification": "The acquisitions are described as being prospective for several critical metals, with nickel being listed first and as a primary component of the existing resources. \"The acquisitions have enabled Grid to establish a dominant land position prospective for nickel, copper, platinum group metals and cobalt - all key critical metals.\""
+    },
+    "verified_article_link": {
+      "value": "https://www.accesswire.com/749076/Grid-Metals-Corp-To-Acquire-Nickel-Copper-PGM-Assets",
+      "justification": "This article is the primary announcement detailing the terms of Grid Metals Corp.'s acquisitions in the Bird River area. The other articles either confirm this transaction from the seller's perspective or describe an unrelated transaction by a different company (New Age Metals) in the same region."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payments are denoted by '$' and the acquiring company, Grid Metals Corp., is listed on the TSX Venture Exchange (TSXV), which operates in Canadian Dollars."
+    },
+    "cash_payments_raw": {
+      "value": 1700000,
+      "justification": "This is the sum of all cash considerations across the two acquisitions. It includes $1.1 million to Gossan ('The purchase price for the Gossan Claims is $1.1 million in cash over three years'), a $300,000 deferred payment to Gossan ('a $300,000 deferred cash payment is due to Gossan Resources upon the commencement of commercial production'), and $300,000 to First Mining Gold ('The purchase price for the Eagle Claims is $300,000 cash on closing'). Total = 1,100,000 + 300,000 + 300,000 = 1,700,000."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The number of shares to be issued is specified, but a corresponding monetary value for the share component of the payment is not provided in the transaction terms."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction details separate cash and share components rather than providing a single combined value for the acquisitions."
+    },
+    "amount_of_shares_issued": {
+      "value": 1750000,
+      "justification": "This is the sum of shares issued to both sellers. 1,500,000 shares to Gossan Resources ('1,500,000 common shares in the capital of the Company') and 250,000 shares to First Mining Gold ('250,000 Common Shares')."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.04,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote for Grid Metals Corp.: 'Last: 0.04'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "No exploration commitment in terms of drilling meters was mentioned in the transaction terms."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "No specific exploration spending commitment was mentioned as a term of the acquisitions."
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "As part of the transactions, Grid Metals granted a 2% NSR to both sellers on their respective former properties. This value represents the royalty rate retained by the sellers. \"The Company has granted Gossan Resources a 2% net smelter return (\"NSR\") royalty... The Company has granted First Mining Gold a 2% NSR royalty\"."
+    },
+    "coverage_area_raw": {
+      "value": 4388,
+      "justification": "The total area is the sum of the properties acquired from Gossan Resources ('approximately 2,870 hectares'), First Mining Gold ('238 hectares'), and additional ground acquired through staking ('National Ledin property (5 claims, 1,280 hectares)'). Total = 2870 + 238 + 1280 = 4388."
+    },
+    "coverage_area_unit": {
+      "value": "hectares",
+      "justification": "The unit for all acquired and staked properties is specified as hectares. \"51 mineral claims encompassing approximately 2,870 hectares... 10 claims and 238 hectares... The National Ledin property (5 claims, 1,280 hectares).\""
+    },
+    "resource_size": {
+      "value": "Page 1.5Mt at 0.32% Ni and 0.13% Cu Indicated; Ore Fault 0.9Mt at 0.32% Ni and 0.24% Cu Indicated; Ore Fault 2.5Mt 0.35% Ni and 0.19% Cu Inferred",
+      "justification": "This represents the NI 43-101 compliant resources on the acquired Gossan property, as summarized in the text: \"Page 1.5Mt at 0.32% Ni and 0.13% Cu Indicated... Ore Fault 0.9Mt at 0.32% Ni and 0.24% Cu Indicated... Ore Fault 2.5Mt 0.35% Ni and 0.19% Cu Inferred\". The historical resource on the Eagle Claims was excluded as the text states it could not be verified and should not be relied upon."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "TSXV:GRDM",
+      "justification": "The acquiring company's ticker and exchange are explicitly stated in the press release: \"Grid Metals Corp. (TSXV:GRDM)(OTCQB:MSMGF)\"."
+    }
+  }
+}

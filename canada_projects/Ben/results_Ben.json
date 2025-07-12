@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Ben/88591.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Ben",
+      "justification": "The press release is titled 'Hi-View Resources Acquires Strategic “BEN” Claim...' and the body states 'The Company has acquired 100% interest in the BEN claim block...'"
+    },
+    "company_name": {
+      "value": "Hi-View Resources Inc.",
+      "justification": "The acquiring company is identified at the beginning of the press release: 'HI-VIEW RESOURCES INC. (‘HI-VIEW' OR THE ‘COMPANY’) (CSE: HVW; OTCQB: HVWRF; FSE: B63) announces that it has entered into an agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Robert Nick Horsley",
+      "justification": "The CEO of the acquiring company is quoted in the text: 'Hi-View Resources CEO Robert Nick Horsley states...'"
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the terms of the acquisition: 'The Company has acquired 100% interest in the BEN claim block from an arm’s length vendor...'"
+    },
+    "primary_commodity": {
+      "value": "Gold",
+      "justification": "Historical exploration on the acquired claim has focused on gold: 'A number of anomalous gold in soils have been detected in the historical soil sampling including assays of up to 1,720 parts per billion gold.'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, BEN, but no URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "A separate loan agreement mentioned in the document specifies the currency: 'The Company has entered into a Loan Agreement with an arm’s length lender for a total of $50,000.00 CAD...'"
+    },
+    "cash_payments_raw": {
+      "value": null,
+      "justification": "The transaction was made entirely in shares, with no cash component mentioned in the terms of the agreement for the BEN claim."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The transaction terms are defined by the number of shares and a price per share, not a total share value. Following the data extraction hierarchy, this field is null."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The transaction terms are not expressed as a single combined value. Following the data extraction hierarchy, this field is null."
+    },
+    "amount_of_shares_issued": {
+      "value": 100000,
+      "justification": "The terms of the agreement specify the number of shares issued: '...by issuing 100,000 common shares of the Company...'"
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants were mentioned as part of the acquisition terms for the BEN claim."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options were mentioned as part of the acquisition terms for the BEN claim."
+    },
+    "issued_share_price": {
+      "value": 0.05,
+      "justification": "The terms of the agreement specify the deemed price per share: '...by issuing 100,000 common shares of the Company at a deemed price of $0.05.'"
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text mentions plans for future exploration but does not specify a commitment in terms of drilling meters for the BEN claim."
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text mentions plans for future exploration but does not specify a monetary exploration commitment for the BEN claim."
+    },
+    "nsr_acquired_percent": {
+      "value": null,
+      "justification": "No Net Smelter Royalty (NSR) or other royalty was mentioned as part of the acquisition terms for the BEN claim."
+    },
+    "coverage_area_raw": {
+      "value": null,
+      "justification": "The text does not state the coverage area for the BEN claim. It only mentions the area of other company projects, such as the '9,140 Hectare (“Ha”) Golden Stranger Project'."
+    },
+    "coverage_area_unit": {
+      "value": null,
+      "justification": "The coverage area for the BEN claim is not mentioned in the text."
+    },
+    "resource_size": {
+      "value": null,
+      "justification": "The text does not provide a mineral resource estimate for the BEN claim. It mentions resources for other nearby projects, such as the Golden Stranger project's 'historical resource of 498,905 tonnes of material grading 2.74 g/t Au', but none for the BEN claim itself."
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:HVW",
+      "justification": "The buyer's ticker and exchange are provided in the introduction: 'HI-VIEW RESOURCES INC. (‘HI-VIEW' OR THE ‘COMPANY’) (CSE: HVW; OTCQB: HVWRF; FSE: B63)...'"
+    }
+  }
+}

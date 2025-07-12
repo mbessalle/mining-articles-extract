@@ -1,0 +1,91 @@
+{
+  "source_files": [
+    "canada_projects/Wedge/31328.txt"
+  ],
+  "extraction_data": {
+    "project_name": {
+      "value": "Wedge Project",
+      "justification": "The article is titled 'Nine Mile Metals Acquires the Wedge Project Including the Wedge Copper Deposit Project'."
+    },
+    "company_name": {
+      "value": "Nine Mile Metals Ltd.",
+      "justification": "The press release is from 'NINE MILE METALS LTD.(CSE: NINE, OTCQB: VMSXF, FSE: KQ9) (the “Company ” or “Nine Mile ”), is pleased to announce it has entered into a Mineral Property Option Agreement...'"
+    },
+    "ceo_buyer": {
+      "value": "Patrick J. Cruickshank",
+      "justification": "A quote in the article is attributed to 'Patrick J. Cruickshank, MBA CEO & Director'."
+    },
+    "interest_acquired_percent": {
+      "value": 100,
+      "justification": "The text states the agreement is 'to acquire a 100% interest in the Wedge Project from Slam Exploration Ltd. (“SLAM”).'"
+    },
+    "primary_commodity": {
+      "value": "Copper",
+      "justification": "The text states, 'The Wedge deposit was considered a Copper deposit...'"
+    },
+    "verified_article_link": {
+      "value": null,
+      "justification": "The article is about the correct project, the acquisition of the Wedge Project by Nine Mile Metals. However, no URL was provided in the source text."
+    },
+    "currency": {
+      "value": "CAD",
+      "justification": "The cash payment is denoted in '$' and the acquiring company, Nine Mile Metals Ltd., is listed on the Canadian Securities Exchange (CSE), implying Canadian Dollars (CAD)."
+    },
+    "cash_payments_raw": {
+      "value": 150000,
+      "justification": "The agreement requires Nine Mile to pay '$150,000 to SLAM, during a period of up to four years' consisting of payments of $10,000, $20,000, $30,000, $40,000, and $50,000 over four years."
+    },
+    "share_payments_raw": {
+      "value": null,
+      "justification": "The agreement specifies payment in a number of shares, not a monetary value of shares."
+    },
+    "cash_and_share_payments_combined_raw": {
+      "value": null,
+      "justification": "The cash and share components of the payment are listed separately, not as a single combined value."
+    },
+    "amount_of_shares_issued": {
+      "value": 1200000,
+      "justification": "The agreement requires Nine Mile to pay 'an aggregate of 1,200,000 common shares' over a period of four years."
+    },
+    "share_warrant_payments_raw": {
+      "value": null,
+      "justification": "No share warrants are mentioned as part of the transaction terms."
+    },
+    "option_payments_raw": {
+      "value": null,
+      "justification": "No options are mentioned as part of the transaction terms."
+    },
+    "issued_share_price": {
+      "value": 0.01,
+      "justification": "The transaction terms mention the number of shares issued, but not the price. Using the last traded price as a fallback, as seen in the detailed quote: 'Last: 0.01'."
+    },
+    "exploration_commitment_meters": {
+      "value": null,
+      "justification": "The text explicitly states the company 'has not agreed to any minimum exploration expenditures on the Property.'"
+    },
+    "exploration_commitment_value_raw": {
+      "value": null,
+      "justification": "The text explicitly states the company 'has not agreed to any minimum exploration expenditures on the Property.'"
+    },
+    "nsr_acquired_percent": {
+      "value": 2,
+      "justification": "The seller retains a 2% Net Smelter Royalty, which is part of the transaction terms. The text states: 'The Company may purchase half of the 2% Net Smelter Royalty at any time for the price of $1,000,000.'"
+    },
+    "coverage_area_raw": {
+      "value": 25,
+      "justification": "The text states, 'The Wedge Property consists of 114 claim units covering 25 km2.' This is the property being acquired from SLAM."
+    },
+    "coverage_area_unit": {
+      "value": "km2",
+      "justification": "The text states, 'The Wedge Property consists of 114 claim units covering 25 km2.'"
+    },
+    "resource_size": {
+      "value": "1.503MT grading (2.88% Cu, 0.65% Pb, 1.81% Zn, 20.6 g/t Ag)",
+      "justification": "The text provides historical production data which is a quantified statement of mass: 'The Wedge Deposit was mined by Cominco and produced 1.503MT grading (2.88% Cu, 0.65% Pb, 1.81% Zn, 20.6 g/t Ag).'"
+    },
+    "buyer_ticker_and_exchange": {
+      "value": "CSE:NINE",
+      "justification": "The company is identified in the text as 'NINE MILE METALS LTD.(CSE: NINE, OTCQB: VMSXF, FSE: KQ9)'."
+    }
+  }
+}
